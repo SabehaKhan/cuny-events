@@ -1,0 +1,38 @@
+# Node.js dependencies
+/node_modules/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# .next directory (if using Next.js)
+.next/
+
+# Build output
+/dist
+/build
+
+# Logs
+logs
+*.log
+pids
+*.pid
+*.gz
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Optional IDE/editor files
+.vscode/
+.idea/
+
+# Optional file for testing frameworks
+coverage/
+
+# dependency directory for Puppeteer
+/puppeteer/target/

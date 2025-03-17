@@ -1,0 +1,27 @@
+{
+  "name": "cuny-events",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabehaKhan/cuny-events.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SabehaKhan/cuny-events/issues"
+  },
+  "homepage": "https://github.com/SabehaKhan/cuny-events#readme",
+  "dependencies": {
+    "axios": "^1.8.3",
+    "cheerio": "^1.0.0",
+    "ical": "^0.8.0",
+    "puppeteer": "^24.4.0"
+  }
+}
