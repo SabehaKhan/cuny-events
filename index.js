@@ -8,6 +8,20 @@ import { icalConfigs } from "./utils/icalConfig.js";
 import puppeteer from "puppeteer";
 import fs from "fs";
 
+function removeDuplicateEvents(events) {
+  const seen = new Set();
+  return events.filter(event => {
+    // Create a unique identifier for each event based on the specified properties
+    const identifier = `${event.date}-${event.time}-${event.title}-${event.location}-${event.college}`;
+    if (seen.has(identifier)) {
+      return false; // Duplicate found, exclude this event
+    }
+    seen.add(identifier);
+    return true; // Unique event, include it
+  });
+}
+
+
 export async function fetchEventsFromSite(config, page = 1) {
   try {
     const url = config.pages ? `${config.baseUrl}${page}` : config.baseUrl;
@@ -208,8 +222,13 @@ export async function fetchAllEvents() {
   const yorkEvents = await scrapeYorkEvents();
   allEvents.push(...yorkEvents);
 
-  // Return only events that are today or in the future
-  return removePastEvents(allEvents);
+  // Remove events from the past before deduplication
+  const futureEvents = removePastEvents(allEvents);
+
+  // Deduplicate the events
+  const uniqueEvents = removeDuplicateEvents(futureEvents);
+  return uniqueEvents;
+
 }
 
 // Execute the scraper and save the results to events.json

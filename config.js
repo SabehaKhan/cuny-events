@@ -1,19 +1,4 @@
-export interface SiteConfig {
-  baseUrl: string;
-  pages?: number;
-  eventItemSelector: string;
-  titleSelector: string;
-  linkSelector: string;
-  // Instead of a collegeSelector, use a hardcoded college name if available:
-  collegeName?: string; // Use this if the college info is not in the HTML
-  collegeSelector?: string; // Use this if the HTML contains the college info
-  dateSelector?: string;
-  timeSelector?: string;
-  tagsSelector: string;
-  dateTimeSelector?: string;
-}
-
-export const siteConfigs: SiteConfig[] = [
+export const siteConfigs = [
   // First site with full info scraped from HTML:
   {
     baseUrl: "https://events.cuny.edu/page/",

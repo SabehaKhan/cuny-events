@@ -1,0 +1,35 @@
+name: Scrape CUNY Events
+
+on:
+  schedule:
+    - cron: "0 12 * * *"  # Runs daily at 12 PM UTC
+  workflow_dispatch:      # Allows manual triggering
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Scraper and Save JSON
+        run: node index.js
+        # Make sure index.js calls your function to write events.json
+
+      - name: Commit and Push Updated events.json
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git add events.json
+          # Commit only if there are changes
+          git diff --cached --quiet || git commit -m "Update events data"
+          git push
