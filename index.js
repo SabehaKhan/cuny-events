@@ -144,33 +144,32 @@ async function fetchICSEvents(icsUrl, collegeName) {
   }
 }
 
-export async function scrapeYorkEvents() {
-  const browser = await puppeteer.launch({ headless: true });
+async function scrapeYorkEvents() {
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ['--no-sandbox', '--disable-setuid-sandbox'], // Disable sandbox for CI environments
+  });
+
   const page = await browser.newPage();
 
   try {
-    await page.goto("https://www.york.cuny.edu/events/list", { waitUntil: "networkidle2" });
+    await page.goto('https://www.york.cuny.edu/events/list', { waitUntil: 'networkidle2' });
 
     const events = await page.evaluate(() => {
-      return Array.from(document.querySelectorAll("div.nine.wide.column"))
-        .map((event) => ({
-          title:
-            event.querySelector("h3.threelines a")?.innerText.trim() || "",
-          link:
-            event.querySelector("h3.threelines a")?.href || "",
-          college: "York College",
-          date:
-            event.querySelector("div.cal_date")?.innerText.trim() || "",
-          time:
-            event.querySelector("span.start-time")?.innerText.trim() || "",
-          tags: [],
-        }))
-        .filter((e) => !e.time.includes("All Day"));
+      return Array.from(document.querySelectorAll('div.nine.wide.column')).map(event => ({
+        title: event.querySelector('h3.threelines a')?.innerText.trim() || '',
+        link: event.querySelector('h3.threelines a')?.href || '',
+        college: 'York College', // Hardcoded since it's not in the HTML
+        date: event.querySelector('div.cal_date')?.innerText.trim() || '',
+        time: event.querySelector('span.start-time')?.innerText.trim() || '',
+        tags: [], // No tag selector in the given HTML, defaulting to an empty array
+      }))
+      .filter(e => !e.time.includes('All Day')); // Exclude events with "All Day" in the time field
     });
 
     return events;
   } catch (error) {
-    console.error("Error scraping York College events:", error);
+    console.error('Error scraping York College events:', error);
     return [];
   } finally {
     await browser.close();
