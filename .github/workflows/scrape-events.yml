@@ -2,7 +2,7 @@ name: Scrape CUNY Events
 
 on:
   schedule:
-    - cron: "0 12 * * *"  # Runs daily at 12 PM UTC
+    - cron: "0 5,9,13,17,21 * * *"  # Runs daily at 5am, 9am, 1pm, 5pm, and 9pm UTC
   workflow_dispatch:      # Allows manual triggering
 
 jobs:
