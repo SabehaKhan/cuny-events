@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/SabehaKhan/cuny-events#readme",
   "dependencies": {
+    "@actions/core": "^1.11.1",
+    "@actions/github": "^6.0.0",
     "axios": "^1.8.3",
     "cheerio": "^1.0.0",
     "ical": "^0.8.0",
