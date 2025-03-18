@@ -1,13 +1,5 @@
 [
   {
-    "title": "TIAA - One on One Counseling for CCNY Faculty and Staff",
-    "link": "https://www.ccny.cuny.edu/calendar/tiaa-one-one-counseling-ccny-faculty-and-staff-0",
-    "college": "City College of New York",
-    "date": "2025-03-18",
-    "time": "10:00:00 AM",
-    "tags": []
-  },
-  {
     "title": "Academic Empowerment Workshop Series: Connecting with your Professors",
     "link": "https://www.ccny.cuny.edu/calendar/academic-empowerment-workshop-series-connecting-you-professors",
     "college": "City College of New York",
@@ -136,6 +128,14 @@
     "tags": []
   },
   {
+    "title": "Book Talk: Emporialism, Department Store Fictions and The Politics of\nthe Mediterranean",
+    "link": "https://www.ccny.cuny.edu/calendar/book-talk-emporialism-department-store-fictions-and-politics-mediterranean",
+    "college": "City College of New York",
+    "date": "2025-03-26",
+    "time": "5:00:00 PM",
+    "tags": []
+  },
+  {
     "title": "Distribution/Exhibition - Looking at the Indie Landscape",
     "link": "https://www.ccny.cuny.edu/calendar/distributionexhibition-looking-indie-landscape",
     "college": "City College of New York",
@@ -197,6 +197,14 @@
     "college": "City College of New York",
     "date": "2025-04-03",
     "time": "12:30:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Whitman on Walls! Poetry Reading in Harlem and Launch of WOW\nAnthology, Vol. 2",
+    "link": "https://www.ccny.cuny.edu/calendar/whitman-walls-poetry-reading-iin-harlem-and-launch-wow-anthology-vol-2",
+    "college": "City College of New York",
+    "date": "2025-04-03",
+    "time": "5:00:00 PM",
     "tags": []
   },
   {
@@ -469,6 +477,14 @@
     "college": "City College of New York",
     "date": "2025-05-02",
     "time": "8:00:00 AM",
+    "tags": []
+  },
+  {
+    "title": "CCNY'S 53rd Annual Poetry Festival",
+    "link": "https://www.ccny.cuny.edu/calendar/ccnys-53rd-annual-poetry-festival",
+    "college": "City College of New York",
+    "date": "2025-05-02",
+    "time": "10:30:00 AM",
     "tags": []
   },
   {
@@ -2040,14 +2056,6 @@
     "tags": []
   },
   {
-    "title": "UMOC Fitness ",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=375985",
-    "college": "Guttman Community College",
-    "date": "2025-03-18",
-    "time": "9:00:00 PM",
-    "tags": []
-  },
-  {
     "title": " CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376099",
     "college": "Guttman Community College",
@@ -2152,11 +2160,27 @@
     "tags": []
   },
   {
+    "title": "UMOC Fitness",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376143",
+    "college": "Guttman Community College",
+    "date": "2025-03-20",
+    "time": "9:00:00 PM",
+    "tags": []
+  },
+  {
     "title": "Bloomberg Building Tour",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=375919",
     "college": "Guttman Community College",
     "date": "2025-03-21",
     "time": "1:00:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376141",
+    "college": "Guttman Community College",
+    "date": "2025-03-22",
+    "time": "2:00:00 PM",
     "tags": []
   },
   {
@@ -2296,8 +2320,8 @@
     "tags": []
   },
   {
-    "title": "UMOC Fitness ",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=375987",
+    "title": "FAFSA Support for Mixed-Status Families",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376142",
     "college": "Guttman Community College",
     "date": "2025-03-27",
     "time": "9:00:00 PM",
@@ -2330,6 +2354,14 @@
   {
     "title": "Writing Drop-In Support Sessions",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376051",
+    "college": "Guttman Community College",
+    "date": "2025-04-01",
+    "time": "3:30:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Sketchy Decisions ",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376144",
     "college": "Guttman Community College",
     "date": "2025-04-01",
     "time": "3:30:00 PM",
@@ -2546,6 +2578,14 @@
   {
     "title": "Guttman Big Read",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376089",
+    "college": "Guttman Community College",
+    "date": "2025-04-24",
+    "time": "7:00:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Sex, Drugs, Alcohol, & College: A REAL TALK about all of the above",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376145",
     "college": "Guttman Community College",
     "date": "2025-04-24",
     "time": "7:00:00 PM",
@@ -2967,36 +3007,32 @@
     ]
   },
   {
-    "title": "Crafting Your Future: Resume & Cover Letter Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/?p=649286",
-    "college": "Borough of Manhattan Community College",
-    "date": "March 18, 2025",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Herstory Month: Sex Jeopardy!",
-    "link": "https://www.bmcc.cuny.edu/event/?p=649870",
-    "college": "Borough of Manhattan Community College",
-    "date": "March 18, 2025",
-    "time": "12:30 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Study Skills Workshops: Prioritize like a Pro (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=648112",
-    "college": "Borough of Manhattan Community College",
-    "date": "March 18, 2025",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "City Lights, New Heights: BMCC Spring 2025 Open House",
     "link": "https://www.bmcc.cuny.edu/event/?p=648168",
     "college": "Borough of Manhattan Community College",
     "date": "March 18, 2025",
     "time": "05:00 PM - 08:00 PM",
     "tags": []
+  },
+  {
+    "title": "LGBTQ+ Peer Support Group",
+    "link": "https://events.cuny.edu/cec/lgbtq-peer-support-group-6/",
+    "college": "The City College of New York",
+    "date": "March 19, 2025",
+    "time": "11:30 AM - 12:30 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
+  },
+  {
+    "title": "Biochemistry Seminar: John McGeehan, “Learning from Nature: Engineering Enzymes to Tackle Plastic Pollution”",
+    "link": "https://events.cuny.edu/cec/biochemistry-seminar-john-mcgeehan-learning-from-nature-engineering-enzymes-to-tackle-plastic-pollution/",
+    "college": "The City College of New York",
+    "date": "March 19, 2025",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": [
+      "Biochemistry Seminar"
+    ]
   },
   {
     "title": "D75 Program",
@@ -3903,6 +3939,14 @@
     "tags": []
   },
   {
+    "title": "Speed-Friending",
+    "link": "https://www.lehman.edu/events/2025/Speed-Friending-1.php",
+    "college": "Lehman College",
+    "date": "March 19, 2025",
+    "time": "12:30 p.m. - 1:30 p.m.",
+    "tags": []
+  },
+  {
     "title": "Tech Week Event: Machine Learning and AI Workshop",
     "link": "https://www.lehman.edu/events/2025/Tech-Week-Event-Machine-Learning-and-AI-Workshop-1.php",
     "college": "Lehman College",
@@ -3924,14 +3968,6 @@
     "college": "Lehman College",
     "date": "March 19, 2025",
     "time": "4:00 p.m. - 5:00 p.m.",
-    "tags": []
-  },
-  {
-    "title": "Spring 2025 Queer Theater and Performance Speaker series",
-    "link": "https://www.lehman.edu/events/2025/Spring-2025-Queer-Theater-and-Performance-Speaker-series.php",
-    "college": "Lehman College",
-    "date": "March 19, 2025",
-    "time": "6:00 p.m. - 7:00 p.m.",
     "tags": []
   }
 ]
