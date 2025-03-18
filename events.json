@@ -1313,14 +1313,6 @@
   },
   {
     "title": "Internship Orientation Workshops",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/319db70f-bbee-4f01-a37f-9637a68a2fd4",
-    "college": "Kingsborough Community College",
-    "date": "2025-03-17",
-    "time": "2:20:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Internship Orientation Workshops",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/f8466c39-e09e-4d13-a33e-3c2479799460",
     "college": "Kingsborough Community College",
     "date": "2025-04-07",
@@ -1341,14 +1333,6 @@
     "college": "Kingsborough Community College",
     "date": "2025-06-02",
     "time": "2:20:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Evening Hours",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a22b596f-79a3-4be1-8cab-df0b53a00358",
-    "college": "Kingsborough Community College",
-    "date": "2025-03-17",
-    "time": "8:00:00 PM",
     "tags": []
   },
   {
@@ -2024,22 +2008,6 @@
     "tags": []
   },
   {
-    "title": "CUNY Career Compass for Women Leaders Virtual Conference",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=375979",
-    "college": "Guttman Community College",
-    "date": "2025-03-17",
-    "time": "1:00:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Check-in With Your Financial Aid Advisor",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376082",
-    "college": "Guttman Community College",
-    "date": "2025-03-17",
-    "time": "7:00:00 PM",
-    "tags": []
-  },
-  {
     "title": "Play with Puppies",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=375951",
     "college": "Guttman Community College",
@@ -2341,6 +2309,14 @@
     "college": "Guttman Community College",
     "date": "2025-03-28",
     "time": "4:00:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Annual March in March with SGA",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376139",
+    "college": "Guttman Community College",
+    "date": "2025-03-29",
+    "time": "3:00:00 PM",
     "tags": []
   },
   {
@@ -2920,40 +2896,6 @@
     "tags": []
   },
   {
-    "title": "A National Landscape of Asian American and Native American Pacific Islander-Serving Institutions (AANAPISI): Exploring Historical Foundations and Current Dilemmas in Higher Education",
-    "link": "https://events.cuny.edu/cec/a-national-landscape-of-asian-american-and-native-american-pacific-islander-serving-institutions-aanapisi-exploring-historical-foundations-and-current-dilemmas-in-higher-education/",
-    "college": "Asian American / Asian Research Institute",
-    "date": "March 17, 2025",
-    "time": "12:00 PM - 1:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Weekly Tea Time",
-    "link": "https://events.cuny.edu/cec/weekly-tea-time-7/",
-    "college": "College of Staten Island",
-    "date": "March 17, 2025",
-    "time": "12:30 PM - 1:30 PM",
-    "tags": [
-      "LGBTQ+"
-    ]
-  },
-  {
-    "title": "Business, MSB Information Session",
-    "link": "https://lehman.edu/events/2025/Business-MSB-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "March 17, 2025",
-    "time": "5:30 PM - 6:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=651157",
-    "college": "Borough of Manhattan Community College",
-    "date": "March 17, 2025",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "Safer Choices: Alcohol and Drugs",
     "link": "https://events.cuny.edu/cec/safer-choices-alcohol-and-drugs/",
     "college": "College of Staten Island",
@@ -3015,195 +2957,205 @@
     ]
   },
   {
+    "title": "The MFA Reading Series presents: Andrew Krivak in conversation with Prof. Salar Abdoh",
+    "link": "https://events.cuny.edu/cec/the-mfa-reading-series-presents-andrew-krivak-in-conversation-with-prof-salar-abdoh/",
+    "college": "The City College of New York",
+    "date": "March 18, 2025",
+    "time": "6:30 PM - 7:30 PM",
+    "tags": [
+      "Prof. Salar Abdoh"
+    ]
+  },
+  {
+    "title": "Crafting Your Future: Resume & Cover Letter Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/?p=649286",
+    "college": "Borough of Manhattan Community College",
+    "date": "March 18, 2025",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Herstory Month: Sex Jeopardy!",
+    "link": "https://www.bmcc.cuny.edu/event/?p=649870",
+    "college": "Borough of Manhattan Community College",
+    "date": "March 18, 2025",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Study Skills Workshops: Prioritize like a Pro (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=648112",
+    "college": "Borough of Manhattan Community College",
+    "date": "March 18, 2025",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "City Lights, New Heights: BMCC Spring 2025 Open House",
+    "link": "https://www.bmcc.cuny.edu/event/?p=648168",
+    "college": "Borough of Manhattan Community College",
+    "date": "March 18, 2025",
+    "time": "05:00 PM - 08:00 PM",
+    "tags": []
+  },
+  {
     "title": "D75 Program",
-    "link": "https://qc.event.cuny.edu/events/HL2mbEJBTP0PEFj7smql/G69313fcJy7A7XxUcHXU144",
+    "link": "https://qc.event.cuny.edu/events/HL2mbEJBTP0PEFj7smql/G69313fcJy7A7XxUcHXU145",
     "college": "Queens College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    7:00AM",
     "tags": []
   },
   {
     "title": "Out of Comission as per B&G",
-    "link": "https://qc.event.cuny.edu/events/VPEeZsyMVbEK2soT8WaM/BHQs17iuNyB6f9icDNLm1210",
+    "link": "https://qc.event.cuny.edu/events/VPEeZsyMVbEK2soT8WaM/BHQs17iuNyB6f9icDNLm1211",
     "college": "Queens College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Queens School of Inquiry 2024-2025",
+    "link": "https://qc.event.cuny.edu/events/xjlNJrtfkwRAfov6lMMk/Vk0Q97hoECq5r78ddjCa115",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Business Breakfast '25",
+    "link": "https://qc.event.cuny.edu/events/lXztR54I4jfUtOiB4PRu/gQmN7NcoRUWFEc1kOQKY",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    8:00AM",
+    "tags": []
+  },
+  {
+    "title": "TIME 2000 Spring 2025",
+    "link": "https://qc.event.cuny.edu/events/aq3ORkTPz3XZQZTxNDnD/tCbi134HveiR0Dm4kn4O",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    8:00AM",
+    "tags": []
+  },
+  {
+    "title": "DC 37 Meeting",
+    "link": "https://qc.event.cuny.edu/events/oWfCzZeOmX6ZS4Ks26Sm/xlNaZw0ePIdNM6jksjnQ",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    9:00AM",
+    "tags": []
+  },
+  {
+    "title": "SOC Coffee and Code meetings",
+    "link": "https://qc.event.cuny.edu/events/JbET3wwTlqCbSYlHREnq/m5UihurhSkzcm17Ay3U38",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Prof. Jian Xiao",
+    "link": "https://qc.event.cuny.edu/events/EBZQ4cBydX1bWzgpvgJ8/qYC2QU32IsVLFZVpblnw12",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    12:00PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Explorers Program",
+    "link": "https://qc.event.cuny.edu/events/wju3TfFdOp2Ngqm54Sgi/ebbxgyDGzRP4Q6U7yBMa15",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    12:15PM",
+    "tags": []
+  },
+  {
+    "title": "John Hopkins and Queens College Kessler",
+    "link": "https://qc.event.cuny.edu/events/diJVGWMJKwGHxw3IBmRw/avTwsuedMmgSM5MFcutx",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    1:00PM",
+    "tags": []
+  },
+  {
+    "title": "ROTC Lecture Classes",
+    "link": "https://qc.event.cuny.edu/events/Fw2aJb8yqeqchKslVKmh/ldBOcUaWM0CtCeb60kbB8",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    1:00PM",
+    "tags": []
+  },
+  {
+    "title": "OSDL: Orientation Group Interviews",
+    "link": "https://qc.event.cuny.edu/events/cFjelN8fxH8KfEpUBDQN/P9alG5kV5ri3temiYF70",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    2:00PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Recitation",
+    "link": "https://qc.event.cuny.edu/events/qyEP9NZCD0RFmrGG0SyG/AX6aTmfuY33yWqY41tR4112",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    2:30PM",
+    "tags": []
+  },
+  {
+    "title": "LC Workshop",
+    "link": "https://qc.event.cuny.edu/events/oDa8Fnj7XfCZMpeINxNA/e7pvkf8DXsNltQWg8PfD",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    2:30PM",
+    "tags": []
+  },
+  {
+    "title": "CSCI Midterm",
+    "link": "https://qc.event.cuny.edu/events/w7GfXIkloWUvFbsbvUgc/BJK0Wqj9AKDmqT9R9yxH",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    3:10PM",
+    "tags": []
+  },
+  {
+    "title": "Screening",
+    "link": "https://qc.event.cuny.edu/events/l5ari5Bu1KRGxfrep481/Px6dDsquDHHJA9yBm0My",
+    "college": "Queens College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    5:00PM",
+    "tags": []
+  },
+  {
+    "title": "D75 Program",
+    "link": "https://qc.event.cuny.edu/events/HL2mbEJBTP0PEFj7smql/G69313fcJy7A7XxUcHXU146",
+    "college": "Queens College",
+    "date": "Wed Mar 19 2025",
+    "time": "|\n    7:00AM",
+    "tags": []
+  },
+  {
+    "title": "Out of Comission as per B&G",
+    "link": "https://qc.event.cuny.edu/events/VPEeZsyMVbEK2soT8WaM/BHQs17iuNyB6f9icDNLm1212",
+    "college": "Queens College",
+    "date": "Wed Mar 19 2025",
     "time": "|\n    8:00AM",
     "tags": []
   },
   {
     "title": "President's Office Fall '24 & Spring '25 (HOLDs)",
-    "link": "https://qc.event.cuny.edu/events/Vccn1C1ruNUggsxdRoGP/HIUVPNs6zKYDQmDpsvX23",
+    "link": "https://qc.event.cuny.edu/events/Vccn1C1ruNUggsxdRoGP/HIUVPNs6zKYDQmDpsvX24",
     "college": "Queens College",
-    "date": "Mon Mar 17 2025",
+    "date": "Wed Mar 19 2025",
     "time": "|\n    8:00AM",
     "tags": []
   },
   {
-    "title": "LALS (Canceled)",
-    "link": "https://qc.event.cuny.edu/events/wXRxNi9zvZ7yjdl3cD1s/FixwqHdTuQYGyAgknB4t15",
+    "title": "Queens School of Inquiry 2024-2025",
+    "link": "https://qc.event.cuny.edu/events/xjlNJrtfkwRAfov6lMMk/Ug62qfvfZipr93FceSyZ7",
     "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    10:45AM",
-    "tags": []
-  },
-  {
-    "title": "OSDL: Spring 2025 Events",
-    "link": "https://qc.event.cuny.edu/events/fA7QJIEVJaJqa071IidQ/Lev2Zu8G2GeZPGwzFosK",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    11:00AM",
-    "tags": []
-  },
-  {
-    "title": "EECE Undergraduate Orientation",
-    "link": "https://qc.event.cuny.edu/events/YZTAqvEgOS5H95tIr4zm/XJ5IiGrv8K0kSkU8Pwdm",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Prof. Fujimoto (SPST 3963-003)",
-    "link": "https://qc.event.cuny.edu/events/ITD5OGwInh4QiSfM8oA9/bXY5PSZsA2y3F57ELFQm4",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Free weekly yoga class",
-    "link": "https://qc.event.cuny.edu/events/UeSsTKzMTfOphM4a5RB2/veDmc6eBS19xzYieBLa13",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:00PM",
-    "tags": []
-  },
-  {
-    "title": "FAID Workshop",
-    "link": "https://qc.event.cuny.edu/events/Da5KEskgngVMRDc3WhEp/JSUa6K2zFZD0d5OC58UA15",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Transfer to Stem Student Success Graduate Fellow",
-    "link": "https://qc.event.cuny.edu/events/LusQhvq8ElgdyhARPUyW/KSEPAG5jwmX3AHQzoerU3",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Pre-law Program",
-    "link": "https://qc.event.cuny.edu/events/dV6RXOZVbpOt152Mal6G/N6504tPPLmiqAh9tJqrW8",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Computer Sci. Colloquium",
-    "link": "https://qc.event.cuny.edu/events/PxAG0oWeVomWZbL10sq4/a3A8FqVDuujMouy0cyBQ",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:15PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers Program",
-    "link": "https://qc.event.cuny.edu/events/wju3TfFdOp2Ngqm54Sgi/ebbxgyDGzRP4Q6U7yBMa14",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:15PM",
-    "tags": []
-  },
-  {
-    "title": "SP25 SEEK Workshops",
-    "link": "https://qc.event.cuny.edu/events/UDYEoYk3UflPGbl0JAA3/f8p3x48ZQD2wtlnY5Gqy12",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Assoc. Prov. For Inn. & Student Success: Transfer Orientation Sessions",
-    "link": "https://qc.event.cuny.edu/events/bGFZ5sf4E4U79ew3d8mY/kpNIrV9DIimaua8UrEtl15",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Tutoring Services",
-    "link": "https://qc.event.cuny.edu/events/rBXP5CeCOe9GqT6eupo9/nssflnILTel0ikNS2HSs15",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Math Workshops",
-    "link": "https://qc.event.cuny.edu/events/IIJyboiXFCQi8aAn7Eww/vBCL0Yawch99E91ybB5015",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:15PM",
-    "tags": []
-  },
-  {
-    "title": "LC Workshop",
-    "link": "https://qc.event.cuny.edu/events/oDa8Fnj7XfCZMpeINxNA/OgLa0fohwaLWEoJ49Pj5",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    2:30PM",
-    "tags": []
-  },
-  {
-    "title": "QNS DA's Office Site Visit",
-    "link": "https://qc.event.cuny.edu/events/w9e8vPIrMOREChrjdOzp/KCexvOlFWn0b0SC3tjPs",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    3:45PM",
-    "tags": []
-  },
-  {
-    "title": "BIOL 106 Make Up Exams",
-    "link": "https://qc.event.cuny.edu/events/U4cVHG6IGQeRsnfbq93o/tSWOsngSUjEoC3YQXF148",
-    "college": "Queens College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    4:00PM",
-    "tags": []
-  },
-  {
-    "title": "Torah Learning",
-    "link": "https://baruch.event.cuny.edu/events/qi5TB5fX0l2ERvuxnAgp/LQrcvJzurkzPblmtJYdB",
-    "college": "Baruch College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:00PM",
-    "tags": []
-  },
-  {
-    "title": "20 Minute Mondays",
-    "link": "https://baruch.event.cuny.edu/events/z4UNXejNBD7Ckxa5xjra/MRiYo0ZZOk4k0icnfTSE",
-    "college": "Baruch College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:00PM",
-    "tags": []
-  },
-  {
-    "title": "S&P Capital IQ @ Remote Via Zoom - Prof. Costello",
-    "link": "https://baruch.event.cuny.edu/events/C8Fzf31EoYzQ3cPyhLaa/YTH8bgPCFqktjRVBdcAE",
-    "college": "Baruch College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:45PM",
-    "tags": []
-  },
-  {
-    "title": "Hebrew Class",
-    "link": "https://baruch.event.cuny.edu/events/oTfpkLpPsyzyZCaKN3Xk/yVGT2xkKxvQh0DbFlcwE",
-    "college": "Baruch College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    5:30PM",
+    "date": "Wed Mar 19 2025",
+    "time": "|\n    8:00AM",
     "tags": []
   },
   {
@@ -3335,59 +3287,35 @@
     "tags": []
   },
   {
-    "title": "Online registration for Fall 2025 begins",
-    "link": "https://citytech.event.cuny.edu/events/cKPbQ4BxS8AAIwbc84KG/JDfCGZ131plWnpoS4ly2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 17 2025",
+    "title": "FQE Speaker Session: Christina Qi",
+    "link": "https://baruch.event.cuny.edu/events/eboyfiivT5j3CYXx6Ei4/02pMalqxtlgW1tmOa5Po",
+    "college": "Baruch College",
+    "date": "Fri Mar 21 2025",
+    "time": "|\n    12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Literature Review",
+    "link": "https://baruch.event.cuny.edu/events/mopslYh2GgNMHCED3dBj/g6FLY8Und75fVYnHEtML",
+    "college": "Baruch College",
+    "date": "Fri Mar 21 2025",
+    "time": "|\n    12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Spring Seven Week II: Late registration ends.",
+    "link": "https://baruch.event.cuny.edu/events/DWAbRjGvL25PA0QcTGCq/IwQJD9UThmfcbMtiEjlZ",
+    "college": "Baruch College",
+    "date": "Sun Mar 23 2025",
     "time": "|\n    false",
     "tags": []
   },
   {
-    "title": "DC 37 Event",
-    "link": "https://citytech.event.cuny.edu/events/Rh5NrzeCC137hWlvB2YE/qU8wBaC87Jws2wQKRGbj",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    9:00AM",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/ffcHGrpk3xkheBdjZei51",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    10:00AM",
-    "tags": []
-  },
-  {
-    "title": "General Tour",
-    "link": "https://citytech.event.cuny.edu/events/UDanZKWF89WNlIXFUh9F/HX5PDgL4FJ4fYqg56e3w",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    2:30PM",
-    "tags": []
-  },
-  {
-    "title": "SGA: Ramadan's Iftar",
-    "link": "https://citytech.event.cuny.edu/events/aiuLR0qg2nU3K7p5a4YK/B8P9wK95k1amM4au1AyT9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    5:00PM",
-    "tags": []
-  },
-  {
-    "title": "CMCE/ASCE Lecture",
-    "link": "https://citytech.event.cuny.edu/events/K5JDdjCDwAhH34HzgrmR/c9q3qLjiW7U5Syltbp4p",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    5:00PM",
-    "tags": []
-  },
-  {
-    "title": "ASCE Club: Fireside Chat",
-    "link": "https://citytech.event.cuny.edu/events/HZd5Qri91KLBjevPb61E/gJK34PMBLTNtajLX0WyY",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    5:30PM",
+    "title": "Spring Seven Week II: Last day to add a course.",
+    "link": "https://baruch.event.cuny.edu/events/qGfY1z5inMPZnZIcp56M/Lg84wzoloZldxkE343Y0",
+    "college": "Baruch College",
+    "date": "Sun Mar 23 2025",
+    "time": "|\n    false",
     "tags": []
   },
   {
@@ -3495,11 +3423,59 @@
     "tags": []
   },
   {
-    "title": "Hope Program Information Table",
-    "link": "https://hostos.event.cuny.edu/events/HkP1rpHukayE2bEQ2TX3/yJhp8hKWYKOafd8iLuD013",
-    "college": "Hostos Community College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    12:00PM",
+    "title": "SGA: Ramadan's Iftar",
+    "link": "https://citytech.event.cuny.edu/events/aiuLR0qg2nU3K7p5a4YK/B8P9wK95k1amM4au1AyT11",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Wed Mar 19 2025",
+    "time": "|\n    5:00PM",
+    "tags": []
+  },
+  {
+    "title": "P&B Meeting",
+    "link": "https://citytech.event.cuny.edu/events/WxYJfwaBD3BO4pOrGh6l/oRmruFtfTy04BD0ZyHZK",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Mar 20 2025",
+    "time": "|\n    9:00AM",
+    "tags": []
+  },
+  {
+    "title": "SGA Coffee Chats",
+    "link": "https://citytech.event.cuny.edu/events/A2tslbD0tAKwoEf9XZj0/IpMIqd4BKGm8d3mEyQW1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Mar 20 2025",
+    "time": "|\n    10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Brain Awarness Day",
+    "link": "https://citytech.event.cuny.edu/events/kW2R6Dn9bz4pC8nav1ug/BkIqY6peOeGBxmueFTaZ",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Mar 20 2025",
+    "time": "|\n    11:00AM",
+    "tags": []
+  },
+  {
+    "title": "City Tech Spring 2025 Group Tour - School of Technology & Design",
+    "link": "https://citytech.event.cuny.edu/events/IGzBNxSgAhWRa0E9ZEyV/pj7Uguhs83M6iaCYK7t3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Mar 20 2025",
+    "time": "|\n    11:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/zVehjO3CNf7tzBsGmF7j2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Mar 20 2025",
+    "time": "|\n    11:00AM",
+    "tags": []
+  },
+  {
+    "title": "SGA General Board Meeting",
+    "link": "https://citytech.event.cuny.edu/events/fVggMDSwpEVlC2CYaq0d/Clhtyfq2fZMZN6uLee38",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Mar 20 2025",
+    "time": "|\n    12:30PM",
     "tags": []
   },
   {
@@ -3567,171 +3543,179 @@
     "tags": []
   },
   {
+    "title": "Immigration Town Hall",
+    "link": "https://hostos.event.cuny.edu/events/xL27p5YABwv2cCLFpKZc/LBINj6GQjMs6iw0K3XxN",
+    "college": "Hostos Community College",
+    "date": "Tue Mar 25 2025",
+    "time": "|\n    12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Rainbow Club movie presentation and discussion",
+    "link": "https://hostos.event.cuny.edu/events/K2wFaVCD0hIXg9GnyRtS/vL9QzeKumTUdmOW8m9lD",
+    "college": "Hostos Community College",
+    "date": "Tue Mar 25 2025",
+    "time": "|\n    2:00PM",
+    "tags": []
+  },
+  {
     "title": "Room  Offline\\Registrar - Rooms: B-116, M-B69",
-    "link": "https://laguardia.event.cuny.edu/events/r33qkrrUMKku1vnJIlU3/dUXgGGTDkpNyXfz5Prwj17",
+    "link": "https://laguardia.event.cuny.edu/events/r33qkrrUMKku1vnJIlU3/dUXgGGTDkpNyXfz5Prwj18",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    6:45AM",
     "tags": []
   },
   {
-    "title": "Room saved for reservation",
-    "link": "https://laguardia.event.cuny.edu/events/RRaIR0hCMHi36mmFK8T0/2nbZMIsFqLm0Ob6AQlHN2",
-    "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    8:00AM",
-    "tags": []
-  },
-  {
-    "title": "EMTB100.W25.T10.01",
-    "link": "https://laguardia.event.cuny.edu/events/JSLS3mls6LYUDRCmN96R/nXNwfI8XoSR1N5IZh4Fd21",
-    "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Carli Sinclair",
-    "link": "https://laguardia.event.cuny.edu/events/t9ifl7FlX2IfMrVpns7r/nrBNbilNKkMFCct1UQ7s4",
-    "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    8:00AM",
-    "tags": []
-  },
-  {
     "title": "CLIP100.S25.T10.01",
-    "link": "https://laguardia.event.cuny.edu/events/qyDdbBcjuJwdqKTDYLMd/WN0yG7k9YYSIkMtmxjC84",
+    "link": "https://laguardia.event.cuny.edu/events/qyDdbBcjuJwdqKTDYLMd/WN0yG7k9YYSIkMtmxjC85",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    8:45AM",
     "tags": []
   },
   {
     "title": "WDCSOLAR.W25.G23.01",
-    "link": "https://laguardia.event.cuny.edu/events/yN0aYoRxHrzlPXbzCZ2X/DOLj8w1Gz27EPBl227wQ1",
+    "link": "https://laguardia.event.cuny.edu/events/yN0aYoRxHrzlPXbzCZ2X/DOLj8w1Gz27EPBl227wQ2",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    9:00AM",
+    "tags": []
+  },
+  {
+    "title": "ABSCMP.W25.G04.01",
+    "link": "https://laguardia.event.cuny.edu/events/OUmatPJ26egpdGzfL7U7/EPLWbyXoxHOMUSCPhEPV17",
+    "college": "LaGuardia Community College",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    9:00AM",
     "tags": []
   },
   {
     "title": "MATHSTCH3.S25.T04.01",
-    "link": "https://laguardia.event.cuny.edu/events/Jl25iWeP4apJukYUDWvr/Gp9gdY0z3VAPZz8HQtBG5",
+    "link": "https://laguardia.event.cuny.edu/events/Jl25iWeP4apJukYUDWvr/Gp9gdY0z3VAPZz8HQtBG6",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    9:00AM",
     "tags": []
   },
   {
     "title": "WECWLG.W25.G13.01",
-    "link": "https://laguardia.event.cuny.edu/events/Of8SFU7bayFicrazKPAw/HXPC8nxATkRuibZaYXIr43",
+    "link": "https://laguardia.event.cuny.edu/events/Of8SFU7bayFicrazKPAw/HXPC8nxATkRuibZaYXIr44",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    9:00AM",
     "tags": []
   },
   {
     "title": "CUNYFTH.W25.G03.01",
-    "link": "https://laguardia.event.cuny.edu/events/JkGUwWfFPizTw9s5Gpgy/RBeFKmCcr5oppFTW7Egk42",
+    "link": "https://laguardia.event.cuny.edu/events/JkGUwWfFPizTw9s5Gpgy/RBeFKmCcr5oppFTW7Egk43",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    9:00AM",
+    "tags": []
+  },
+  {
+    "title": "CUNYSTLAB.S25.T04.01",
+    "link": "https://laguardia.event.cuny.edu/events/Z3rPaOFiYYpAKVQoPSQz/WC80lDj12MLyZ2Q2c3mP",
+    "college": "LaGuardia Community College",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    9:00AM",
     "tags": []
   },
   {
     "title": "CUNYSTMTH1.S25.T04.01",
-    "link": "https://laguardia.event.cuny.edu/events/fUUuwN6G4cBzq7dgfPya/jU1LiM2yCpI9Vx9xL8HG6",
+    "link": "https://laguardia.event.cuny.edu/events/fUUuwN6G4cBzq7dgfPya/jU1LiM2yCpI9Vx9xL8HG7",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    9:00AM",
-    "tags": []
-  },
-  {
-    "title": "CCMATST.W25.T10.01",
-    "link": "https://laguardia.event.cuny.edu/events/aAFujBGnvuDneUmiIZ9M/nEFcP2MbUwrPTKh40iGU",
-    "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    9:00AM",
     "tags": []
   },
   {
     "title": "WECP2G.W25.G13.02",
-    "link": "https://laguardia.event.cuny.edu/events/WDyiaycPVt9ZpuItbD9O/nhBi06ZYlIMswAkwcnOz127",
+    "link": "https://laguardia.event.cuny.edu/events/WDyiaycPVt9ZpuItbD9O/nhBi06ZYlIMswAkwcnOz128",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    9:00AM",
     "tags": []
   },
   {
     "title": "CUNYSTMTH.S25.T04.01",
-    "link": "https://laguardia.event.cuny.edu/events/aSsiqReuhfgjkbCBD8aP/q1onpETrTdwyoLU55AsI6",
+    "link": "https://laguardia.event.cuny.edu/events/aSsiqReuhfgjkbCBD8aP/q1onpETrTdwyoLU55AsI7",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    9:00AM",
     "tags": []
   },
   {
     "title": "CUNYSTENG1.S25.T04.01",
-    "link": "https://laguardia.event.cuny.edu/events/x8OyJRZuGlKbTr1BQYIr/ryR4spxn6bY6zbVEhph96",
+    "link": "https://laguardia.event.cuny.edu/events/x8OyJRZuGlKbTr1BQYIr/ryR4spxn6bY6zbVEhph97",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    9:00AM",
     "tags": []
   },
   {
     "title": "WECP2G.W25.G13.01",
-    "link": "https://laguardia.event.cuny.edu/events/z3t5MdMsMS0SuJnrPDCu/zcIBJcnbnzGEuOCWObFe54",
+    "link": "https://laguardia.event.cuny.edu/events/z3t5MdMsMS0SuJnrPDCu/zcIBJcnbnzGEuOCWObFe55",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    9:00AM",
     "tags": []
   },
   {
     "title": "CIETFAMLIT.W25.G06.01",
-    "link": "https://laguardia.event.cuny.edu/events/fW6uPpO9svH4iMANkZPi/RhCF7T8Rhq7UUR38tB3f3",
+    "link": "https://laguardia.event.cuny.edu/events/fW6uPpO9svH4iMANkZPi/RhCF7T8Rhq7UUR38tB3f4",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    9:15AM",
     "tags": []
   },
   {
+    "title": "CIETCALPAM.W25.G06.01",
+    "link": "https://laguardia.event.cuny.edu/events/Y7dY6TPXHEXf1cDuTA16/UgjmfM3Er01aSvBfAIiA1119",
+    "college": "LaGuardia Community College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    9:15AM",
+    "tags": []
+  },
+  {
+    "title": "CIETCTYCNL.W25.G06.01",
+    "link": "https://laguardia.event.cuny.edu/events/jIVx7yZJ1inw6p2d1Ae7/e4tUKTB5bqGQVtpWkp0Y3",
+    "college": "LaGuardia Community College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    9:15AM",
+    "tags": []
+  },
+  {
+    "title": "SCB 204 .295A (17997) - Extra Time",
+    "link": "https://laguardia.event.cuny.edu/events/lYAPYb8LNj0yfrz0Vb9D/uuWGNZ641lc1m1fbbdwb2",
+    "college": "LaGuardia Community College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    9:15AM",
+    "tags": []
+  },
+  {
+    "title": "ABS100.W25.G04.01",
+    "link": "https://laguardia.event.cuny.edu/events/ADpwabzLpDjR8UkHUsOJ/WjMjirJfgJ702SW8yTTK17",
+    "college": "LaGuardia Community College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    9:30AM",
+    "tags": []
+  },
+  {
+    "title": "CUNYSTENG.S25.T04.02",
+    "link": "https://laguardia.event.cuny.edu/events/JjJnvRxlDbVTb3LPnMcH/d9NKCm6pviPfd44o1hIj1",
+    "college": "LaGuardia Community College",
+    "date": "Tue Mar 18 2025",
+    "time": "|\n    9:30AM",
+    "tags": []
+  },
+  {
     "title": "MHPS100.W25.G23.01",
-    "link": "https://laguardia.event.cuny.edu/events/QzyB5sNNOkGxMm6EBCpz/jxX7zpnYXLCJsKdKupBC8",
+    "link": "https://laguardia.event.cuny.edu/events/jal77uUmg7dqP0pMb3w3/cKgEBTx01dcQyoc8c7W48",
     "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
+    "date": "Tue Mar 18 2025",
     "time": "|\n    10:00AM",
-    "tags": []
-  },
-  {
-    "title": "CCMA101.S25.T11.01",
-    "link": "https://laguardia.event.cuny.edu/events/LA0NqGsD7cNeflko2Xbf/kKfUXocqIHl3FEF39wEy3",
-    "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    10:00AM",
-    "tags": []
-  },
-  {
-    "title": "PHMT100.W25.T05.01",
-    "link": "https://laguardia.event.cuny.edu/events/YVHKtPWweesEc5NxfmUS/sqlfWKsgPNby6fqAEvnG2",
-    "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    10:00AM",
-    "tags": []
-  },
-  {
-    "title": "SCO205",
-    "link": "https://laguardia.event.cuny.edu/events/GtCu8gWBMJPkN448t0M2/oQGXHrnumBthDjQXSGzg3",
-    "college": "LaGuardia Community College",
-    "date": "Mon Mar 17 2025",
-    "time": "|\n    10:15AM",
-    "tags": []
-  },
-  {
-    "title": "Dissertation Defense by Saskia Shuman",
-    "link": "https://sph.cuny.edu/event/dissertation-defense-by-saskia-shuman/",
-    "college": "CUNY School of Public Health",
-    "date": "Monday, March 17, 2025",
-    "time": "11:00 am - 1:00 pm",
     "tags": []
   },
   {
@@ -3871,30 +3855,6 @@
     "tags": []
   },
   {
-    "title": "Innovating Tomorrow: Dell Technologies Leadership Insights",
-    "link": "https://www.lehman.edu/events/2024/Innovating-Tomorrow-Dell-Technologies-Leadership-Insights.php",
-    "college": "Lehman College",
-    "date": "March 17, 2025",
-    "time": "11:00 a.m. - 3:00 p.m.",
-    "tags": []
-  },
-  {
-    "title": "A Touch of Opera",
-    "link": "https://www.lehman.edu/events/2025/A-Touch-of-Opera.php",
-    "college": "Lehman College",
-    "date": "March 17, 2025",
-    "time": "1:00 p.m. - 2:30 p.m.",
-    "tags": []
-  },
-  {
-    "title": "Business, MSB Information Session",
-    "link": "https://www.lehman.edu/events/2025/Business-MSB-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "March 17, 2025",
-    "time": "5:30 p.m. - 6:30 p.m.",
-    "tags": []
-  },
-  {
     "title": "Epic Games Chat!",
     "link": "https://www.lehman.edu/events/2024/Epic-Games-Chat.php",
     "college": "Lehman College",
@@ -3948,6 +3908,30 @@
     "college": "Lehman College",
     "date": "March 19, 2025",
     "time": "1:00 p.m. - 4:00 p.m.",
+    "tags": []
+  },
+  {
+    "title": "Causalities of Racism: Racial Discrimination and Youth Suicide Risk Among Ethnoracially Minoritized Youth",
+    "link": "https://www.lehman.edu/events/2025/Causalities-of-Racism-Racial-Discrimination-and-Youth-Suicide-Risk-Among-Ethnoracially-Minoritized-Youth.php",
+    "college": "Lehman College",
+    "date": "March 19, 2025",
+    "time": "3:00 p.m. - 4:00 p.m.",
+    "tags": []
+  },
+  {
+    "title": "Careers in Psychology with Dr. Lillian Polanco-Roman",
+    "link": "https://www.lehman.edu/events/2025/Careers-in-Psychology-with-Dr-Lillian-Polanco-Roman-1.php",
+    "college": "Lehman College",
+    "date": "March 19, 2025",
+    "time": "4:00 p.m. - 5:00 p.m.",
+    "tags": []
+  },
+  {
+    "title": "Spring 2025 Queer Theater and Performance Speaker series",
+    "link": "https://www.lehman.edu/events/2025/Spring-2025-Queer-Theater-and-Performance-Speaker-series.php",
+    "college": "Lehman College",
+    "date": "March 19, 2025",
+    "time": "6:00 p.m. - 7:00 p.m.",
     "tags": []
   }
 ]
