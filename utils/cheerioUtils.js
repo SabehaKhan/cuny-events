@@ -1,6 +1,8 @@
 export const cleanString = (s) => {
   if (!s) return null;
-
+  if (typeof s !== 'string') {
+    s = String(s);
+  }
   s = s.replace(/\\"/g, '"');
   s = s.replace(/\n/g, ' ');
   s = s.replace(/(?<!\\)\\(?!")/g, '');

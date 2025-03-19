@@ -8,8 +8,6 @@ import { icalConfigs } from "./utils/icalConfig.js";
 import puppeteer from "puppeteer";
 import fs from "fs";
 
-//null date issue
-
 function removeDuplicateEvents(events) {
   const seen = new Set();
   return events.filter(event => {
@@ -122,19 +120,30 @@ async function fetchICSEvents(icsUrl, collegeName) {
   try {
     const { data } = await axios.get(icsUrl);
     const parsedData = ical.parseICS(data);
+    // console.log("Parsed ICS data:", parsedData);
     const events = [];
 
     for (const key in parsedData) {
       const event = parsedData[key];
 
       if (event.type === "VEVENT") {
+        const startDate = new Date(event.start);
+        const endDate = new Date(event.end);
+        const startTime = startDate.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+        const endTime = endDate.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+
+        let title = event.summary;
+        if (typeof title === "object" && "val" in title) {
+          title = title.val;
+        }
+
         events.push({
-          title: cleanString(event.summary || "Untitled Event"),
+          title: cleanString(title || "Untitled Event"),
           link: event.url || "",
           college: collegeName,
-          date: event.start ? new Date(event.start).toISOString().split("T")[0] : "",
-          time: event.start ? new Date(event.start).toLocaleTimeString() : "",
-          tags: [],
+          date: startDate.toISOString().split("T")[0],
+          time: `${startTime} - ${endTime}`,
+          tags: event.categories || [], // Add categories as tags
         });
       }
     }
@@ -196,12 +205,25 @@ function removePastEvents(events) {
   });
 }
 
+
+function removeEventsWithKeywords(events) {
+  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED"]; // Add more keywords as needed
+  return events.filter(event => {
+    const title = event.title.toLowerCase();
+    const hasKeyword = keywords.some(keyword => title.includes(keyword.toLowerCase()));
+    if (hasKeyword) {
+      console.log(`Removing event with title: "${event.title}" due to keyword match.`);
+    }
+    return !hasKeyword;
+  });
+}
+
 export async function fetchAllEvents() {
   const allEvents = [];
   // Fetch ICS events
   for (const config of icalConfigs) {
     if (config.icsUrl) {
-      console.log(`Fetching ICS events for ${config.collegeName}...`);
+      // console.log(`Fetching ICS events for ${config.collegeName}...`);
       const icsEvents = await fetchICSEvents(config.icsUrl, config.collegeName);
       const cleanedEvents = icsEvents.map((event) => {
         let title = event.title;
@@ -223,11 +245,13 @@ export async function fetchAllEvents() {
   const yorkEvents = await scrapeYorkEvents();
   allEvents.push(...yorkEvents);
 
-  // Remove events from the past before deduplication
+  // Remove events from the past
   const futureEvents = removePastEvents(allEvents);
+  // Remove events with specific keywords
+  const filteredEvents = removeEventsWithKeywords(futureEvents);
 
   // Deduplicate the events
-  const uniqueEvents = removeDuplicateEvents(futureEvents);
+  const uniqueEvents = removeDuplicateEvents(filteredEvents);
   return uniqueEvents;
 
 }
