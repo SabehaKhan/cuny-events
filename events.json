@@ -1,21 +1,5 @@
 [
   {
-    "title": "LGBTQ+ Peer Support Group",
-    "link": "https://www.ccny.cuny.edu/calendar/lgbtq-peer-support-group-43",
-    "college": "City College of New York",
-    "date": "2025-03-19",
-    "time": "11:30:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Biochemistry Seminar: John McGeehan, \"Learning from Nature: Engineering Enzymes to Tackle Plastic Pollution\"",
-    "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-john-mcgeehan-learning-nature-engineering-enzymes-tackle-plastic",
-    "college": "City College of New York",
-    "date": "2025-03-19",
-    "time": "12:00:00 PM",
-    "tags": []
-  },
-  {
     "title": "Home Court - Film and Talk",
     "link": "https://www.ccny.cuny.edu/calendar/home-court-film-and-talk",
     "college": "City College of New York",
@@ -745,6 +729,14 @@
   },
   {
     "title": "Free Flu Shots for Faculty and Staff",
+    "link": "https://www.ccny.cuny.edu/calendar/free-flu-shots-faculty-and-staff",
+    "college": "City College of New York",
+    "date": "2025-09-29",
+    "time": "10:00:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Free Flu Shots for Faculty and Staff",
     "link": "https://www.ccny.cuny.edu/calendar/cca-connection-between-exercise-and-mental-health",
     "college": "City College of New York",
     "date": "2025-10-21",
@@ -989,14 +981,6 @@
     "college": "CUNY School of Law",
     "date": "2025-06-18",
     "time": "12:00:00 AM",
-    "tags": []
-  },
-  {
-    "title": "AI for Community Media: AI Tools | Prompt Writing",
-    "link": "https://www.journalism.cuny.edu/events/ai-for-community-media-session-2-ai-tools-prompt-writing/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2025-03-19",
-    "time": "12:00:00 PM",
     "tags": []
   },
   {
@@ -2134,14 +2118,6 @@
     "tags": []
   },
   {
-    "title": "The 17th Annual CUNitY Educational Summit",
-    "link": "https://lehman.edu/events/2025/The-17th-Annual-CUNitY-Educational-Summit.php",
-    "college": "Lehman College",
-    "date": "March 19, 2025",
-    "time": "12:00 PM - 3:00 PM",
-    "tags": []
-  },
-  {
     "title": "Health Education M.S.Ed. Information Session",
     "link": "https://lehman.edu/events/2025/Health-Education-MSEd-Information-Session-.php",
     "college": "Lehman College",
@@ -2865,7 +2841,7 @@
   },
   {
     "title": "Speed-Friending",
-    "link": "https://www.lehman.edu/events/2025/Speed-Friending-1.php",
+    "link": "https://www.lehman.edu/events/2025/Speed-Friending.php",
     "college": "Lehman College",
     "date": "March 19, 2025",
     "time": "12:30 p.m. - 1:30 p.m.",
@@ -2873,7 +2849,7 @@
   },
   {
     "title": "Tech Week Event: Machine Learning and AI Workshop",
-    "link": "https://www.lehman.edu/events/2025/Tech-Week-Event-Machine-Learning-and-AI-Workshop-1.php",
+    "link": "https://www.lehman.edu/events/2025/Tech-Week-Event-Machine-Learning-and-AI-Workshop.php",
     "college": "Lehman College",
     "date": "March 19, 2025",
     "time": "1:00 p.m. - 4:00 p.m.",
