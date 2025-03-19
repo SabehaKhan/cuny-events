@@ -24,6 +24,7 @@
     "axios": "^1.8.3",
     "cheerio": "^1.0.0",
     "ical": "^0.8.0",
-    "puppeteer": "^24.4.0"
+    "puppeteer": "^24.4.0",
+    "text-cleaner": "^1.2.1"
   }
 }

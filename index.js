@@ -8,6 +8,8 @@ import { icalConfigs } from "./utils/icalConfig.js";
 import puppeteer from "puppeteer";
 import fs from "fs";
 
+//null date issue
+
 function removeDuplicateEvents(events) {
   const seen = new Set();
   return events.filter(event => {
@@ -127,7 +129,7 @@ async function fetchICSEvents(icsUrl, collegeName) {
 
       if (event.type === "VEVENT") {
         events.push({
-          title: event.summary || "Untitled Event",
+          title: cleanString(event.summary || "Untitled Event"),
           link: event.url || "",
           college: collegeName,
           date: event.start ? new Date(event.start).toISOString().split("T")[0] : "",

@@ -61,16 +61,17 @@ export const siteConfigs = [
     timeSelector: '[data-test="event-date-time"] span[aria-label*="Event starts at"]',
     tagsSelector: ".tags a",
   },
-  {
-    baseUrl: "https://laguardia.event.cuny.edu/upcoming",
-    eventItemSelector: '[data-test="event-card"]',
-    titleSelector: 'a.text-black.font-bold',
-    linkSelector: 'a.text-black.font-bold',
-    collegeName: "LaGuardia Community College", // Hardcoded since it’s not on the card
-    dateSelector: '[data-test="event-date-time"] span[aria-label*="Event date"]',
-    timeSelector: '[data-test="event-date-time"] span[aria-label*="Event starts at"]',
-    tagsSelector: ".tags a",
-  },
+  //USE https://www.laguardia.edu/events/ instead
+  // {
+  //   baseUrl: "https://laguardia.event.cuny.edu/upcoming",
+  //   eventItemSelector: '[data-test="event-card"]',
+  //   titleSelector: 'a.text-black.font-bold',
+  //   linkSelector: 'a.text-black.font-bold',
+  //   collegeName: "LaGuardia Community College", // Hardcoded since it’s not on the card
+  //   dateSelector: '[data-test="event-date-time"] span[aria-label*="Event date"]',
+  //   timeSelector: '[data-test="event-date-time"] span[aria-label*="Event starts at"]',
+  //   tagsSelector: ".tags a",
+  // },
     {
       baseUrl: "https://www.brooklyn.edu/events/",
       eventItemSelector: ".tribe-events-calendar-list__event-wrapper",
