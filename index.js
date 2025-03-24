@@ -253,8 +253,8 @@ export async function fetchAllEvents() {
     const events = await fetchEventsFromSite(config);
     allEvents.push(...events);
   }
-  const yorkEvents = await scrapeYorkEvents();
-  allEvents.push(...yorkEvents);
+  // const yorkEvents = await scrapeYorkEvents();
+  // allEvents.push(...yorkEvents);
 
   // Remove events from the past
   const futureEvents = removePastEvents(allEvents);
