@@ -130,7 +130,6 @@ export async function fetchEventsFromSite(config, page = 1) {
         tags,
       };
 
-      console.log("Event being pushed:", eventData);
       if (!time) {
         console.log("Skipping event without time:", title);
         return;
@@ -248,7 +247,7 @@ function removePastEvents(events) {
 
 
 function removeEventsWithKeywords(events) {
-  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED","No Classes"]; 
+  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED","No Classes","Out of Comission","HOLDs","Canceled","LALS","SPST 3963-003","Exam Review"]; 
   return events.filter(event => {
     const title = event.title.toLowerCase();
     const hasKeyword = keywords.some(keyword => title.includes(keyword.toLowerCase()));
