@@ -84,8 +84,7 @@ export const siteConfigs = [
     titleSelector: "h3.listing-item__title a",
     linkSelector: "h3.listing-item__title a",
     collegeName: "CUNY School of Professional Studies", 
-    dateSelector: "span.date-display-single",
-    timeSelector: "p.listing-item__timestamp:first-of-type", 
+    dateTimeObjectSelector: "div.field--name-field-event-date time",
     tagsSelector: "",
   },
   {

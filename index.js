@@ -74,7 +74,17 @@ export async function fetchEventsFromSite(config, page = 1) {
           console.log("Skipping event without valid date/time:", title);
           return; // Skip events without valid time format
         }
-      } else {
+      } 
+      else if (config.dateTimeObjectSelector){
+        const dateTimeElement = $(element).find(config.dateTimeObjectSelector);
+        const dateTimeObject = dateTimeElement.attr("datetime");
+        if (dateTimeObject) {
+          const dateTime = new Date(dateTimeObject);
+          date = dateTime.toISOString().split("T")[0];
+          time = dateTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+        }
+      }
+      else {
         date = cleanString($(element).find(config.dateSelector).text() || null);
         time = cleanString($(element).find(config.timeSelector).text() || null);
        
@@ -86,10 +96,18 @@ export async function fetchEventsFromSite(config, page = 1) {
         time = time.substring(1).trim();
       }
       //remove events without time
-      if (time && (time===null || time==='false')) {
-        console.log("Skipping event without valid time:", title);
+      if (time && (time===null || time==='false' || time==="Online"||date===null || date==='false')) {
+        console.log("Skipping event without valid time/date:", title);
         return;
       }
+
+      // Split the time string by the delimiter and take the first valid time range
+      if (time && time.includes("pm")) {
+        time = time.split("pm")[0].trim() + "pm";
+      } else if (time && time.includes("am")) {
+        time = time.split("am")[0].trim() + "am";
+      }
+
 
       const tags = $(element)
         .find(config.tagsSelector)
