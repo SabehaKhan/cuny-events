@@ -77,6 +77,18 @@ export async function fetchEventsFromSite(config, page = 1) {
       } else {
         date = cleanString($(element).find(config.dateSelector).text() || null);
         time = cleanString($(element).find(config.timeSelector).text() || null);
+       
+        console.log("Time:", time);
+      }
+
+      // Remove the leading "|" character from the time string
+      if (time && time.startsWith("|")) {
+        time = time.substring(1).trim();
+      }
+      //remove events without time
+      if (time && (time===null || time==='false')) {
+        console.log("Skipping event without valid time:", title);
+        return;
       }
 
       const tags = $(element)
@@ -120,7 +132,7 @@ async function fetchICSEvents(icsUrl, collegeName) {
   try {
     const { data } = await axios.get(icsUrl);
     const parsedData = ical.parseICS(data);
-    // console.log("Parsed ICS data:", parsedData);
+    //console.log("Parsed ICS data:", parsedData);
     const events = [];
 
     for (const key in parsedData) {
@@ -207,7 +219,7 @@ function removePastEvents(events) {
 
 
 function removeEventsWithKeywords(events) {
-  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED"]; // Add more keywords as needed
+  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED"]; 
   return events.filter(event => {
     const title = event.title.toLowerCase();
     const hasKeyword = keywords.some(keyword => title.includes(keyword.toLowerCase()));
@@ -232,7 +244,6 @@ export async function fetchAllEvents() {
         }
         return { ...event, title };
       });
-      console.log(cleanedEvents);
       allEvents.push(...cleanedEvents);
     }
   }
@@ -252,6 +263,11 @@ export async function fetchAllEvents() {
 
   // Deduplicate the events
   const uniqueEvents = removeDuplicateEvents(filteredEvents);
+  console.log(`Total events fetched: ${allEvents.length}`);
+  console.log(`Total future events: ${futureEvents.length}`);
+  console.log(`Total filtered events: ${filteredEvents.length}`);
+  console.log(`Total unique events: ${uniqueEvents.length}`);
+  // console.log("Unique events:", uniqueEvents);
   return uniqueEvents;
 
 }
@@ -260,6 +276,7 @@ export async function fetchAllEvents() {
 fetchAllEvents()
   .then((events) => {
     fs.writeFileSync("events.json", JSON.stringify(events, null, 2));
+    // console.log(events);
     console.log("Events saved to events.json");
   })
   .catch((error) => {

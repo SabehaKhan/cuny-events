@@ -27,5 +27,4 @@ export const icalConfigs = [
         collegeName: "Guttman Community College",
         icsUrl: "https://cg.guttman.cuny.edu/ical/guttman/ical_guttman.ics",
     },
-
 ];
