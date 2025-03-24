@@ -185,7 +185,7 @@ async function fetchICSEvents(icsUrl, collegeName) {
   }
 }
 
-async function scrapeYorkEvents() {
+async function scrapeYorkEvents(cleanString) {
   const browser = await puppeteer.launch({
     headless: true,
     args: ['--no-sandbox', '--disable-setuid-sandbox'], // Disable sandbox for CI environments
@@ -196,17 +196,27 @@ async function scrapeYorkEvents() {
   try {
     await page.goto('https://www.york.cuny.edu/events/list', { waitUntil: 'networkidle2' });
 
-    const events = await page.evaluate(() => {
-      return Array.from(document.querySelectorAll('div.nine.wide.column')).map(event => ({
-        title: event.querySelector('h3.threelines a')?.innerText.trim() || '',
-        link: event.querySelector('h3.threelines a')?.href || '',
-        college: 'York College', // Hardcoded since it's not in the HTML
-        date: event.querySelector('div.cal_date')?.innerText.trim() || '',
-        time: event.querySelector('span.start-time')?.innerText.trim() || '',
-        tags: [], // No tag selector in the given HTML, defaulting to an empty array
-      }))
-      .filter(e => !e.time.includes('All Day')); // Exclude events with "All Day" in the time field
-    });
+    const cleanStringFunction = cleanString.toString();
+
+    const events = await page.evaluate((cleanStringFunction) => {
+      const cleanString = new Function('return ' + cleanStringFunction)();
+      return Array.from(document.querySelectorAll('div.nine.wide.column')).map(event => {
+        const dateElement = event.querySelector('div.cal_date');
+        const month = dateElement.querySelector('span.cal_month')?.innerText.trim() || '';
+        const day = dateElement.querySelector('span.cal_day')?.innerText.trim() || '';
+        const year = new Date().getFullYear(); // Assuming the current year for simplicity
+        const date = `${month} ${day}, ${year}`;
+
+        return {
+          title: cleanString(event.querySelector('h3.threelines a')?.innerText.trim() || ''),
+          link: event.querySelector('h3.threelines a')?.href || '',
+          college: 'York College', // Hardcoded since it's not in the HTML
+          date: date,
+          time: event.querySelector('span.start-time')?.innerText.trim() || '',
+          tags: [], // No tag selector in the given HTML, defaulting to an empty array
+        };
+      }).filter(e => !e.time.includes('All Day')); // Exclude events with "All Day" in the time field
+    }, cleanStringFunction);
 
     return events;
   } catch (error) {
@@ -216,6 +226,7 @@ async function scrapeYorkEvents() {
     await browser.close();
   }
 }
+
 
 function removePastEvents(events) {
   const today = new Date();
@@ -271,8 +282,8 @@ export async function fetchAllEvents() {
     const events = await fetchEventsFromSite(config);
     allEvents.push(...events);
   }
-  // const yorkEvents = await scrapeYorkEvents();
-  // allEvents.push(...yorkEvents);
+  const yorkEvents = await scrapeYorkEvents(cleanString);
+  allEvents.push(...yorkEvents);
 
   // Remove events from the past
   const futureEvents = removePastEvents(allEvents);
