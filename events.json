@@ -1,13 +1,5 @@
 [
   {
-    "title": "YASS! Mondays",
-    "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-3",
-    "college": "City College of New York",
-    "date": "2025-03-24",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Gaymers Against Violence: Monthly Workshop Series",
     "link": "https://www.ccny.cuny.edu/calendar/gaymers-against-violence-monthly-workshop-series-5",
     "college": "City College of New York",
@@ -1971,39 +1963,6 @@
     "tags": []
   },
   {
-    "title": "Passport Day",
-    "link": "https://www.laguardia.edu/event/passport-day/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-24",
-    "time": "11:30 AM - 03:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Study Abroad Workshop",
-    "link": "https://www.laguardia.edu/event/study-abroad-workshop/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-24",
-    "time": "11:45 AM - 01:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Sesiones Informativas en Español",
-    "link": "https://www.laguardia.edu/event/sesiones-informativas-en-espanol-8/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-24",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "CUNY EDGE 20 Minute Info Sessions",
     "link": "https://www.laguardia.edu/event/cuny-edge-20-minute-info-sessions/2025-03-25/",
     "college": "LaGuardia Community College",
@@ -2299,6 +2258,36 @@
       "all calendars",
       "community & business events"
     ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-03-31/",
+    "college": "LaGuardia Community College",
+    "date": "2025-03-31",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Sesiones Informativas en Español",
+    "link": "https://www.laguardia.edu/event/sesiones-informativas-en-espanol-9/",
+    "college": "LaGuardia Community College",
+    "date": "2025-03-31",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Application Deadline: CUNY Macaulay Honors Friedman Transfer Scholarship Program",
+    "link": "https://www.laguardia.edu/event/application-deadline-cuny-macaulay-honors-friedman-transfer-scholarship-program/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-01",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": []
   },
   {
     "title": "Women's Tea Party 2025",
@@ -3658,14 +3647,6 @@
     "tags": []
   },
   {
-    "title": "Life Dance/Biodanza Series - Let’s Dance! (followed by Pizza and Salad Party)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=650155",
-    "college": "Borough of Manhattan Community College",
-    "date": "March 24, 2025",
-    "time": "04:30 PM - 06:30 PM",
-    "tags": []
-  },
-  {
     "title": "Gaymers Against Violence: Monthly Workshop Series",
     "link": "https://events.cuny.edu/cec/gaymers-against-violence-monthly-workshop-series-7/",
     "college": "The City College of New York",
@@ -3684,6 +3665,16 @@
     "tags": [
       "Student Life",
       "Womens Studies"
+    ]
+  },
+  {
+    "title": "Stop the Bleed",
+    "link": "https://events.cuny.edu/cec/stop-the-bleed/",
+    "college": "College of Staten Island",
+    "date": "March 25, 2025",
+    "time": "2:30 PM - 3:30 PM",
+    "tags": [
+      "Health and Wellness Services"
     ]
   },
   {
@@ -4295,8 +4286,8 @@
     "tags": []
   },
   {
-    "title": "CUNY SPH Spring 2025 Virtual Career Fair",
-    "link": "https://sph.cuny.edu/event/cuny-sph-spring-2025-virtual-career-fair/",
+    "title": "Spring 2025 Virtual Career Fair",
+    "link": "https://sph.cuny.edu/event/spring-2025-virtual-career-fair/",
     "college": "CUNY School of Public Health",
     "date": "Friday, April 25, 2025",
     "time": "12:00pm",
