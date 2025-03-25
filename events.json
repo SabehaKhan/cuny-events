@@ -1515,14 +1515,6 @@
     "tags": []
   },
   {
-    "title": "LIM College - College Visit",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/b2a9f62a-5c49-4113-b61f-13866c866226",
-    "college": "Kingsborough Community College",
-    "date": "2025-03-24",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Long Island University - College Visit",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/57e67a40-819e-49b2-870e-b46752342f92",
     "college": "Kingsborough Community College",
@@ -1655,14 +1647,6 @@
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/e2fab5af-641d-4647-91dd-07a09ed30cb5",
     "college": "Kingsborough Community College",
     "date": "2025-04-01",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "John Jay College of Criminal Justice - Virtual Info Session",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/ecf3d268-1225-4c2a-9ced-e7e1c21de980",
-    "college": "Kingsborough Community College",
-    "date": "2025-03-24",
     "time": "03:00 PM - 04:00 PM",
     "tags": []
   },
@@ -3588,65 +3572,6 @@
     ]
   },
   {
-    "title": "YASS! Mondays",
-    "link": "https://events.cuny.edu/cec/yass-mondays-5/",
-    "college": "The City College of New York",
-    "date": "March 24, 2025",
-    "time": "12:00 PM - 4:00 PM",
-    "tags": [
-      "LGBTQI+"
-    ]
-  },
-  {
-    "title": "Weekly Tea Time",
-    "link": "https://events.cuny.edu/cec/weekly-tea-time-8/",
-    "college": "College of Staten Island",
-    "date": "March 24, 2025",
-    "time": "12:30 PM - 1:30 PM",
-    "tags": [
-      "LGBTQ+"
-    ]
-  },
-  {
-    "title": "The CSI Jazz Combo – Mid-Term Recital",
-    "link": "https://events.cuny.edu/cec/the-csi-jazz-combo-mid-term-recital/",
-    "college": "College of Staten Island",
-    "date": "March 24, 2025",
-    "time": "3:00 PM - 4:00 PM",
-    "tags": [
-      "Division of Humanities and Social Sciences",
-      "Music",
-      "Performing and Creative Arts"
-    ]
-  },
-  {
-    "title": "Schooling in the Camps: The Effects of Wartime Incarceration on Japanese American Youth (Online Talk)",
-    "link": "https://events.cuny.edu/cec/schooling-in-the-camps-the-effects-of-wartime-incarceration-on-japanese-american-youth-online-talk/",
-    "college": "Asian American / Asian Research Institute",
-    "date": "March 24, 2025",
-    "time": "7:00 PM - 8:30 PM",
-    "tags": []
-  },
-  {
-    "title": "BS in Medical Laboratory Science, Department of Biology",
-    "link": "https://events.cuny.edu/cec/bs-in-medical-laboratory-science-department-of-biology-2/",
-    "college": "College of Staten Island",
-    "date": "March 24, 2025",
-    "time": "7:30 PM - 8:30 PM",
-    "tags": [
-      "Biology",
-      "Division of Science and Technology"
-    ]
-  },
-  {
-    "title": "Nutrition M.S. Information Session",
-    "link": "https://lehman.edu/events/2025/Nutrition-MS-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "March 24, 2025",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "Gaymers Against Violence: Monthly Workshop Series",
     "link": "https://events.cuny.edu/cec/gaymers-against-violence-monthly-workshop-series-7/",
     "college": "The City College of New York",
@@ -3678,131 +3603,222 @@
     ]
   },
   {
-    "title": "Get Certified Part II IMA QC Student Chapter",
-    "link": "https://qc.event.cuny.edu/events/KKL2GFTxvqU4TGBjtE2s/g9ZAEkzEerMFLhJpCflE",
+    "title": "Spring into Healthy Eating",
+    "link": "https://events.cuny.edu/cec/spring-into-healthy-eating/",
+    "college": "College of Staten Island",
+    "date": "March 25, 2025",
+    "time": "2:30 PM - 3:30 PM",
+    "tags": [
+      "Health and Wellness Services"
+    ]
+  },
+  {
+    "title": "The Regulation of Gene Activation and Its Application in Biotechnology",
+    "link": "https://events.cuny.edu/cec/the-regulation-of-gene-activation-and-its-application-in-biotechnology/",
+    "college": "College of Staten Island",
+    "date": "March 25, 2025",
+    "time": "2:30 PM - 3:30 PM",
+    "tags": [
+      "Biology",
+      "CSTEP",
+      "Center for Teaching and Learning",
+      "Chemistry",
+      "Computer Science",
+      "Division of Science and Technology",
+      "Engineering and Environmental Science",
+      "Health and Wellness Services",
+      "Macaulay Honors College",
+      "Nursing",
+      "Physical Therapy",
+      "Physics and Astronomy",
+      "Psychology",
+      "STEP",
+      "School of Health Sciences",
+      "Verrazzano School"
+    ]
+  },
+  {
+    "title": "Design Your Unique Degree in CUNY with CUNY BA – Info Session [ONLINE]",
+    "link": "https://events.cuny.edu/cec/interdisciplinary-studies-fall-semester/",
+    "college": "CUNY Baccalaureate for Unique and Interdisciplinary Studies",
+    "date": "March 25, 2025",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Undergraduate Information Sessions",
+      "Undergraduate Open House",
+      "#IamCUNYBA",
+      "Bachelor's degree",
+      "CUNY Baccalaureate for Unique and Interdisciplinary Studies",
+      "CUNY programs",
+      "Faculty mentors",
+      "college info session",
+      "cuny degree",
+      "higher education",
+      "interdisciplinary degree",
+      "interdisciplinary studies;",
+      "media and comms",
+      "media design",
+      "new york colleges",
+      "undergraduate degree",
+      "unique degree"
+    ]
+  },
+  {
+    "title": "CSI’s Engineering and Environmental Science Degree Programs-BSEES, BSEE, BSENS, MEEE and PhD",
+    "link": "https://events.cuny.edu/cec/csis-engineering-and-environmental-science-degree-programs-bsees-bsee-bsens-meee-and-phd-6/",
+    "college": "College of Staten Island",
+    "date": "March 25, 2025",
+    "time": "6:30 PM - 7:30 PM",
+    "tags": [
+      "Division of Science and Technology",
+      "Engineering and Environmental Science"
+    ]
+  },
+  {
+    "title": "BS, MS and PhD in Mathematics, CS/Math, STEM Required Math Curriculum",
+    "link": "https://events.cuny.edu/cec/bs-ms-and-phd-in-mathematics-cs-math-stem-required-math-curriculum/",
+    "college": "College of Staten Island",
+    "date": "March 25, 2025",
+    "time": "7:30 PM - 8:30 PM",
+    "tags": [
+      "Division of Science and Technology",
+      "Mathematics"
+    ]
+  },
+  {
+    "title": "Herbert H. Lehman Memorial Lecture Speakers: Selenis Leyva and Marizol Leyva",
+    "link": "https://lehman.edu/events/2025/Herbert-H-Lehman-Memorial-Lecture-Speakers-Selenis-Leyva-and-Marizol-Leyva-1.php",
+    "college": "Lehman College",
+    "date": "March 25, 2025",
+    "time": "11:00 AM - 12:15 PM",
+    "tags": []
+  },
+  {
+    "title": "Queens School of Inquiry 2024-2025",
+    "link": "https://qc.event.cuny.edu/events/xjlNJrtfkwRAfov6lMMk/Vk0Q97hoECq5r78ddjCa117",
     "college": "Queens College",
-    "date": "Mon Mar 24 2025",
+    "date": "Tue Mar 25 2025",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "College Discovery Day '25 (add'l space)",
+    "link": "https://qc.event.cuny.edu/events/ntY86rLCtN4zEoMxw81p/g3rsVk9gpOdx5xhsViMu",
+    "college": "Queens College",
+    "date": "Tue Mar 25 2025",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "College Discovery Day 2025",
+    "link": "https://qc.event.cuny.edu/events/g61rsPgstXvbLrmdotnx/sewWZ28Jfw7g1UKL0RD7",
+    "college": "Queens College",
+    "date": "Tue Mar 25 2025",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "IMA Student Chapter Meeting",
+    "link": "https://qc.event.cuny.edu/events/RML7ThiHKBTHSARXdZjf/IGobpIF0OGawZlKTtGPI1",
+    "college": "Queens College",
+    "date": "Tue Mar 25 2025",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "DC 37 Meeting",
+    "link": "https://qc.event.cuny.edu/events/ghUqNvWTNpKfn9TPQxjK/r3UDoInISitbNwQ8FDvd",
+    "college": "Queens College",
+    "date": "Tue Mar 25 2025",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Immigrant Student Career Success Workshop",
+    "link": "https://qc.event.cuny.edu/events/s7BnUaA7mOgCKRKxl401/NOo65DlGaGIWxJbbTjqE",
+    "college": "Queens College",
+    "date": "Tue Mar 25 2025",
     "time": "11:00AM",
     "tags": []
   },
   {
-    "title": "QC Dance Team Spring Bake Sale",
-    "link": "https://qc.event.cuny.edu/events/NgxLyzWIrM8KqI6WJWyW/SWjbapuIq4rFxJiYi6ch",
+    "title": "SOC Coffee and Code meetings",
+    "link": "https://qc.event.cuny.edu/events/JbET3wwTlqCbSYlHREnq/m5UihurhSkzcm17Ay3U39",
     "college": "Queens College",
-    "date": "Mon Mar 24 2025",
-    "time": "11:30AM",
+    "date": "Tue Mar 25 2025",
+    "time": "11:00AM",
     "tags": []
   },
   {
-    "title": "Career Pathways and Asian American Studies Panel",
-    "link": "https://qc.event.cuny.edu/events/vEm2xPcuS2JVWdwGCdJA/f1Q83cfwaZ582JYkonSl",
+    "title": "Prof. Jian Xiao",
+    "link": "https://qc.event.cuny.edu/events/EBZQ4cBydX1bWzgpvgJ8/qYC2QU32IsVLFZVpblnw14",
     "college": "Queens College",
-    "date": "Mon Mar 24 2025",
+    "date": "Tue Mar 25 2025",
     "time": "12:00PM",
     "tags": []
   },
   {
-    "title": "Free weekly yoga class",
-    "link": "https://qc.event.cuny.edu/events/UeSsTKzMTfOphM4a5RB2/veDmc6eBS19xzYieBLa14",
+    "title": "CUNY Explorers Program",
+    "link": "https://qc.event.cuny.edu/events/wju3TfFdOp2Ngqm54Sgi/ebbxgyDGzRP4Q6U7yBMa20",
     "college": "Queens College",
-    "date": "Mon Mar 24 2025",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Social Sci: Small Business Inf. Session",
-    "link": "https://qc.event.cuny.edu/events/CKO8iHZnDdKSeu0ZhHSL/peUYlqHXBi9eRnG1nccx",
-    "college": "Queens College",
-    "date": "Mon Mar 24 2025",
-    "time": "12:05PM",
-    "tags": []
-  },
-  {
-    "title": "ACE Workshop",
-    "link": "https://qc.event.cuny.edu/events/WImPVT1Dxrv78vqFjWQy/JGtSFWoEQOQYLz62tQCs",
-    "college": "Queens College",
-    "date": "Mon Mar 24 2025",
+    "date": "Tue Mar 25 2025",
     "time": "12:15PM",
     "tags": []
   },
   {
-    "title": "FAID Workshop",
-    "link": "https://qc.event.cuny.edu/events/Da5KEskgngVMRDc3WhEp/JSUa6K2zFZD0d5OC58UA17",
+    "title": "ROTC Lecture Classes",
+    "link": "https://qc.event.cuny.edu/events/Fw2aJb8yqeqchKslVKmh/ldBOcUaWM0CtCeb60kbB9",
     "college": "Queens College",
-    "date": "Mon Mar 24 2025",
-    "time": "12:15PM",
+    "date": "Tue Mar 25 2025",
+    "time": "1:00PM",
     "tags": []
   },
   {
-    "title": "Transfer to Stem Student Success Graduate Fellow",
-    "link": "https://qc.event.cuny.edu/events/LusQhvq8ElgdyhARPUyW/KSEPAG5jwmX3AHQzoerU4",
+    "title": "PSYCH Midterm Exam",
+    "link": "https://qc.event.cuny.edu/events/ZDvBIgJZvCbKA1nqhKFp/yLe4bX797JWn64W84xDm",
     "college": "Queens College",
-    "date": "Mon Mar 24 2025",
-    "time": "12:15PM",
+    "date": "Tue Mar 25 2025",
+    "time": "1:40PM",
     "tags": []
   },
   {
-    "title": "Pre-law Program",
-    "link": "https://qc.event.cuny.edu/events/dV6RXOZVbpOt152Mal6G/N6504tPPLmiqAh9tJqrW9",
+    "title": "SEEK Recitation",
+    "link": "https://qc.event.cuny.edu/events/qyEP9NZCD0RFmrGG0SyG/AX6aTmfuY33yWqY41tR4114",
     "college": "Queens College",
-    "date": "Mon Mar 24 2025",
-    "time": "12:15PM",
+    "date": "Tue Mar 25 2025",
+    "time": "2:30PM",
     "tags": []
   },
   {
-    "title": "PSC Chapter Meetings Sp'25",
-    "link": "https://qc.event.cuny.edu/events/JmT3VrPb0aBcMXSLewMt/Pm3k0IV1ZXcazgHPdGQc",
+    "title": "Assessment Mixer for Academic Departments",
+    "link": "https://qc.event.cuny.edu/events/kj5RXFFhERbR77EIkKhz/PrcBWJpOpDYWcDvfrHFj",
     "college": "Queens College",
-    "date": "Mon Mar 24 2025",
-    "time": "12:15PM",
+    "date": "Tue Mar 25 2025",
+    "time": "4:00PM",
     "tags": []
   },
   {
-    "title": "SEES Club Event",
-    "link": "https://qc.event.cuny.edu/events/m1UxZoqAl5kVEUuS5UrP/Uq8SKqSJ6qI7wKUYba5T",
+    "title": "OSDL: Realigning your goals",
+    "link": "https://qc.event.cuny.edu/events/ZDAgOnZUN3QS8cr08jgm/pBcYLzoderMbrbSNtYGR",
     "college": "Queens College",
-    "date": "Mon Mar 24 2025",
-    "time": "12:15PM",
+    "date": "Tue Mar 25 2025",
+    "time": "5:00PM",
     "tags": []
   },
   {
-    "title": "First Year Experience (FYE) Workshop",
-    "link": "https://qc.event.cuny.edu/events/cJwbvjpVA0S9zh8ULUxl/aoI1IYoJu6up4WSm6VS4",
+    "title": "BIOL 105 Midterm Exams",
+    "link": "https://qc.event.cuny.edu/events/iZI23BuwdKPFW8yX9O1c/ueBdS0OiWFiI064ylARk",
     "college": "Queens College",
-    "date": "Mon Mar 24 2025",
-    "time": "12:15PM",
+    "date": "Tue Mar 25 2025",
+    "time": "6:30PM",
     "tags": []
   },
   {
-    "title": "2o minute mondays",
-    "link": "https://baruch.event.cuny.edu/events/kdMSk9f4upbq7G37WaIO/BzjhNcMfxeSyp6mj8byO",
-    "college": "Baruch College",
-    "date": "Mon Mar 24 2025",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Torah Learning",
-    "link": "https://baruch.event.cuny.edu/events/fVIfXlttVByC36lK7HZo/N9Q7UsOIQXPjMAsLozud",
-    "college": "Baruch College",
-    "date": "Mon Mar 24 2025",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Current and Future Policy Challenges Facing the US Nonprofit Sector at Home and Abroad",
-    "link": "https://baruch.event.cuny.edu/events/P0ekq6p4ov3EJrnM4YQp/mKUEoB5jJKtrIVvs2cTn",
-    "college": "Baruch College",
-    "date": "Mon Mar 24 2025",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Hebrew Class",
-    "link": "https://baruch.event.cuny.edu/events/feJu4K9Pre48ZOXD0gh4/YBIkocbrYL680uO6uGM4",
-    "college": "Baruch College",
-    "date": "Mon Mar 24 2025",
-    "time": "5:30PM",
+    "title": "Choirs of America",
+    "link": "https://qc.event.cuny.edu/events/o1td1izbFpJPHpy0kJMZ/mau7VkR1qwsDipXB0hZV",
+    "college": "Queens College",
+    "date": "Wed Mar 26 2025",
+    "time": "7:00AM",
     "tags": []
   },
   {
@@ -3878,51 +3894,43 @@
     "tags": []
   },
   {
-    "title": "Chase Bank- Financial Health Workshops",
-    "link": "https://citytech.event.cuny.edu/events/rfrM5wm03XgPELx0CiMD/XOsy8ejUipVEwNaTwZzP1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 24 2025",
-    "time": "9:00AM",
+    "title": "Kesher meeting",
+    "link": "https://baruch.event.cuny.edu/events/R4GVCygLTuxYlGtdf1ub/FhLA8XjKElxDLO0tMOyH",
+    "college": "Baruch College",
+    "date": "Wed Mar 26 2025",
+    "time": "12:00PM",
     "tags": []
   },
   {
-    "title": "ASAP/ACE Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/ffcHGrpk3xkheBdjZei53",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 24 2025",
-    "time": "10:00AM",
+    "title": "Israel Learning Fellowship",
+    "link": "https://baruch.event.cuny.edu/events/ZIQV05l1FnovvAhn8GzB/Y1X5X4CCqeBzYg0jcboz",
+    "college": "Baruch College",
+    "date": "Wed Mar 26 2025",
+    "time": "5:30PM",
     "tags": []
   },
   {
-    "title": "Spring 2025 General Tour",
-    "link": "https://citytech.event.cuny.edu/events/xnOvGXR5A2kpYMgfIzHg/IotHnYUQwzcxFIDCy4Kz",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 24 2025",
-    "time": "11:00AM",
+    "title": "Zotero Citation Management Workshop (Via Zoom) @ Thurs. 3/27/2025, 12:30-1:30 p.m. Prof. Hartnett",
+    "link": "https://baruch.event.cuny.edu/events/UMtu6wLID2edKLVoH71E/eiCKQ89aKQX1QI8LUNUB",
+    "college": "Baruch College",
+    "date": "Thu Mar 27 2025",
+    "time": "12:30PM",
     "tags": []
   },
   {
-    "title": "Queer Kiki",
-    "link": "https://citytech.event.cuny.edu/events/pEiSPo6bnml5whrQsxtB/Wj3Qj0STLLf5KkmZiFbZ2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 24 2025",
-    "time": "1:00PM",
+    "title": "Thursday Writing Hours",
+    "link": "https://baruch.event.cuny.edu/events/dGAU3PnPVzRNL1uyoDoc/jqCcUdSB3JVUcb2Ah40j8",
+    "college": "Baruch College",
+    "date": "Thu Mar 27 2025",
+    "time": "12:30PM",
     "tags": []
   },
   {
-    "title": "Jaws Club: Fundraiser Bake Sale",
-    "link": "https://citytech.event.cuny.edu/events/Zkd6SXQr7h9xtFs4aUj9/HjzaVZz5aHLIY0FvICen",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 24 2025",
-    "time": "2:00PM",
-    "tags": []
-  },
-  {
-    "title": "SGA: Ramadan's Iftar",
-    "link": "https://citytech.event.cuny.edu/events/aiuLR0qg2nU3K7p5a4YK/B8P9wK95k1amM4au1AyT13",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Mon Mar 24 2025",
-    "time": "5:00PM",
+    "title": "Faculty Research Symposium + Spring Mentoring Network Gathering",
+    "link": "https://baruch.event.cuny.edu/events/KsZXyO3uWHviB20nOBmw/SaxhituR9tSERMeiioVp",
+    "college": "Baruch College",
+    "date": "Thu Mar 27 2025",
+    "time": "1:30PM",
     "tags": []
   },
   {
@@ -4038,19 +4046,51 @@
     "tags": []
   },
   {
-    "title": "Hope Program Information Table",
-    "link": "https://hostos.event.cuny.edu/events/HkP1rpHukayE2bEQ2TX3/yJhp8hKWYKOafd8iLuD014",
-    "college": "Hostos Community College",
-    "date": "Mon Mar 24 2025",
+    "title": "ASAP/ACE Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/zVehjO3CNf7tzBsGmF7j4",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Mar 27 2025",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "CST Colloquium",
+    "link": "https://citytech.event.cuny.edu/events/Bis1TT05ohtO0OAG2Wy1/xGU5VvQURyQiYyJIRLbf",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Mar 27 2025",
     "time": "12:00PM",
     "tags": []
   },
   {
-    "title": "Manga Drawing and History Event",
-    "link": "https://hostos.event.cuny.edu/events/GWFEzVSdDQeLkhHW4Ngt/tsU89xEqElOgt6jvQFf6",
-    "college": "Hostos Community College",
-    "date": "Mon Mar 24 2025",
-    "time": "4:00PM",
+    "title": "PSC Chapter Meeting",
+    "link": "https://citytech.event.cuny.edu/events/zocSodjrLOyEEyQLVJ7p/QOBcP3IHkuS1Gnghpjvs",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Mar 27 2025",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "American Society of Civil Engineers Club Meetings",
+    "link": "https://citytech.event.cuny.edu/events/i72ua6xRGlzDfLIlZikz/P6q43QDawQ0ZefsGeMHx6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Mar 27 2025",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "INK Club Meeting Room",
+    "link": "https://citytech.event.cuny.edu/events/GGP74n9otB3NOp4okLjN/gddzZz3JQ4c4Ccs9iCYu6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Mar 27 2025",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Mechatronics Club Meetings",
+    "link": "https://citytech.event.cuny.edu/events/q54H3BjZdOXLZwhKR6bS/jOoaPacc0b5ZevtnpTel6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Mar 27 2025",
+    "time": "12:30PM",
     "tags": []
   },
   {
@@ -4115,14 +4155,6 @@
     "college": "Hostos Community College",
     "date": "Mon Mar 31 2025",
     "time": "3:30PM",
-    "tags": []
-  },
-  {
-    "title": "Faculty Workshop: The Pedagogy of Social Annotations",
-    "link": "https://sps.cuny.edu/about/events/faculty-workshop-the-pedagogy-of-social-annotations-0",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-03-24",
-    "time": "04:00 PM",
     "tags": []
   },
   {
@@ -4198,14 +4230,6 @@
     "tags": []
   },
   {
-    "title": "Fellowship Discovery Series: NYC DOHMH Pipeline to Preparedness Fellowship Program",
-    "link": "https://sph.cuny.edu/event/fellowship-discovery-series-nyc-dohmh-pipeline-to-preparedness-fellowship-program/",
-    "college": "CUNY School of Public Health",
-    "date": "Monday, March 24, 2025",
-    "time": "2:00pm",
-    "tags": []
-  },
-  {
     "title": "Career Workshop: Assertiveness and Self-Advocacy",
     "link": "https://sph.cuny.edu/event/career-workshop-assertiveness-and-self-advocacy/",
     "college": "CUNY School of Public Health",
@@ -4227,6 +4251,14 @@
     "college": "CUNY School of Public Health",
     "date": "Tuesday, April 1, 2025",
     "time": "1:00pm",
+    "tags": []
+  },
+  {
+    "title": "Epi-Bios Forum – April 2025",
+    "link": "https://sph.cuny.edu/event/epi-bios-forum-april-2025/",
+    "college": "CUNY School of Public Health",
+    "date": "Wednesday, April 2, 2025",
+    "time": "3:30pm",
     "tags": []
   },
   {
@@ -4318,30 +4350,6 @@
     "tags": []
   },
   {
-    "title": "Sociology Spring 2025 Colloquium - \"How I Learned What I Learned: An Ethnographic Portrait of Misunderstandings and Their Consequences\" by Dr. Waverly Duck",
-    "link": "https://www.lehman.edu/events/2025/Sociology-Spring-2025-Colloquium---How-I-Learned-What-I-Learned-An-Ethnographic-Portrait-of-Misunderstandings-and-Their-Consequences-by-Dr-Waverly-Duck.php",
-    "college": "Lehman College",
-    "date": "March 24, 2025",
-    "time": "12:00 p.m. - 2:00 p.m.",
-    "tags": []
-  },
-  {
-    "title": "Echoes of HERitage: Women, Power, and Movement",
-    "link": "https://www.lehman.edu/events/2025/Echoes-of-HERitage-Women-Power-and-Movement.php",
-    "college": "Lehman College",
-    "date": "March 24, 2025",
-    "time": "3:30 p.m. - 4:30 p.m.",
-    "tags": []
-  },
-  {
-    "title": "Nutrition M.S. Information Session",
-    "link": "https://www.lehman.edu/events/2025/Nutrition-MS-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "March 24, 2025",
-    "time": "6:00 p.m. - 7:00 p.m.",
-    "tags": []
-  },
-  {
     "title": "Herbert H. Lehman Memorial Lecture Speakers: Selenis Leyva and Marizol Leyva",
     "link": "https://www.lehman.edu/events/2025/Herbert-H-Lehman-Memorial-Lecture-Speakers-Selenis-Leyva-and-Marizol-Leyva-1.php",
     "college": "Lehman College",
@@ -4398,163 +4406,27 @@
     "tags": []
   },
   {
-    "title": "Trichotomy Fireside Chat",
-    "link": "https://www.york.cuny.edu/events/trichotomy-fireside-chat",
-    "college": "York College",
-    "date": "March 24, 2025",
-    "time": "10:00 PM - 12:30 AM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - noon",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025-afternoon",
-    "college": "York College",
-    "date": "March 25, 2025",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Diabetes Workshop",
-    "link": "https://www.york.cuny.edu/health/diabetes-workshop-1",
-    "college": "York College",
-    "date": "March 25, 2025",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Artificial Intelligence: What Students Should Know",
-    "link": "https://www.york.cuny.edu/student-development/fye/artificial-intelligence-what-students-should-know",
-    "college": "York College",
-    "date": "March 25, 2025",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Yoga-March",
-    "link": "https://www.york.cuny.edu/events/yoga-march",
-    "college": "York College",
-    "date": "March 25, 2025",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Curriculum to Career: Networking and Communication",
-    "link": "https://www.york.cuny.edu/events/curriculum-to-career-networking-communication-with-malika-christopher-york-2017",
-    "college": "York College",
-    "date": "March 25, 2025",
-    "time": "8:30 PM - 10:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Book Talk: We Should All Be Feminists",
-    "link": "https://www.york.cuny.edu/womens-center/book-talk-we-should-all-be-feminists",
-    "college": "York College",
-    "date": "March 25, 2025",
-    "time": "8:30 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Volleyball vs. Lehman College",
-    "link": "https://www.york.cuny.edu/events/2025/mens-volleyball-vs-lehman-03252025",
-    "college": "York College",
-    "date": "March 25, 2025",
-    "time": "10:00 PM - 12:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Let's Talk Career Success",
-    "link": "https://www.york.cuny.edu/events/lets-talk-career-success",
-    "college": "York College",
-    "date": "March 26, 2025",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Wellness Wednesday - March",
-    "link": "https://www.york.cuny.edu/events/wellness-wednesday-1",
-    "college": "York College",
-    "date": "March 26, 2025",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Responsible Decision Making: Socratic Method",
-    "link": "https://www.york.cuny.edu/mens-center/mens-center-calendar/responsible-decision-making-socratic-method",
-    "college": "York College",
-    "date": "March 26, 2025",
-    "time": "9:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Library Scavenger Hunt",
-    "link": "https://www.york.cuny.edu/student-development/fye/student-success-sessions/library-scavenger-hunt-6",
-    "college": "York College",
+    "title": "English M.A. Information Session",
+    "link": "https://www.lehman.edu/events/2025/English-MA-Information-Session--1.php",
+    "college": "Lehman College",
     "date": "March 27, 2025",
-    "time": "4:00 PM - 6:00 PM",
+    "time": "5:00 p.m. - 6:00 p.m.",
     "tags": []
   },
   {
-    "title": "Fresh Food Bag Program",
-    "link": "https://www.york.cuny.edu/womens-center/fresh-food-bag-program-1",
-    "college": "York College",
+    "title": "Financial Management to Win in Business",
+    "link": "https://www.lehman.edu/events/2025/Financial-Management-to-Win-in-Business.php",
+    "college": "Lehman College",
     "date": "March 27, 2025",
-    "time": "6:00 PM - 7:00 PM",
+    "time": "6:00 p.m. - 8:00 p.m.",
     "tags": []
   },
   {
-    "title": "LGBTQIA+ Safe Zone Trainings - Part 2 Sec 2",
-    "link": "https://www.york.cuny.edu/womens-center/calendar-of-events/lgbtqia-safe-zone-trainings-3",
-    "college": "York College",
-    "date": "March 27, 2025",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Deep Dish with the Dean - March",
-    "link": "https://www.york.cuny.edu/student-development/fye/deep-dish-with-the-dean-1",
-    "college": "York College",
-    "date": "March 27, 2025",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Volleyball vs. Brooklyn College",
-    "link": "https://www.york.cuny.edu/events/2025/mens-volleyball-vs-brooklyn-03272025",
-    "college": "York College",
-    "date": "March 27, 2025",
-    "time": "10:00 PM - 12:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Can We Talk? - Black Women in Leadership Conversation",
-    "link": "https://www.york.cuny.edu/events/can-we-talk-black-women-in-leadership-conversation",
-    "college": "York College",
-    "date": "March 27, 2025",
-    "time": "10:00 PM - 12:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Softball vs. Cedar Crest College",
-    "link": "https://www.york.cuny.edu/events/2025/softball-vs-cedar-crest-03282025",
-    "college": "York College",
-    "date": "March 28, 2025",
-    "time": "7:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women's History Month Book Discussion Featuring Tamika Mallory",
-    "link": "https://www.york.cuny.edu/events/womens-history-month-book-discussion-featuring-tamika-mallory",
-    "college": "York College",
+    "title": "Free Tax Preparation",
+    "link": "https://www.lehman.edu/events/2025/Free-Tax-Preparation.php?event_type=recurs_3",
+    "college": "Lehman College",
     "date": "March 29, 2025",
-    "time": "8:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Sweet Club Meetings",
-    "link": "https://www.york.cuny.edu/events/2024/sweet-club-meetings",
-    "college": "York College",
-    "date": "March 30, 2025",
-    "time": "10:00 PM - 11:00 PM",
+    "time": "11:00 a.m. - 3:30 p.m.",
     "tags": []
   }
 ]
