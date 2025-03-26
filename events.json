@@ -1939,28 +1939,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-65/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-26",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-03-26/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-26",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "CTL Open House",
     "link": "https://www.laguardia.edu/event/ctl-open-house/",
     "college": "LaGuardia Community College",
@@ -2260,6 +2238,28 @@
     "college": "LaGuardia Community College",
     "date": "2025-04-02",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "500 Words of April",
+    "link": "https://www.laguardia.edu/event/500-words-of-april/2025-04-02/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-02",
+    "time": "02:15 PM - 03:15 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "IYQ'25 Conference",
+    "link": "https://www.laguardia.edu/event/iyq25-conference/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-02",
+    "time": "02:15 PM - 06:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2623,18 +2623,6 @@
       "Workshop",
       "Financial Aid",
       "FASFA & TAP Applications"
-    ]
-  },
-  {
-    "title": "SPRING into Stories: A Creative Writing Workshop",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=375995",
-    "college": "Guttman Community College",
-    "date": "2025-04-08",
-    "time": "03:30 PM - 05:00 PM",
-    "tags": [
-      "OAA",
-      "Educational/Awareness",
-      "Weeks Of Welcome"
     ]
   },
   {
@@ -3461,6 +3449,101 @@
     ]
   },
   {
+    "title": "LGBTQ+ Peer Support Group",
+    "link": "https://events.cuny.edu/cec/lgbtq-peer-support-group-7/",
+    "college": "The City College of New York",
+    "date": "March 26, 2025",
+    "time": "11:30 AM - 12:30 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
+  },
+  {
+    "title": "Biochemistry Seminar: Kim Orth, “Black Spot, Black Death, Black Pearl: The Tales of Bacterial Pathogens”",
+    "link": "https://events.cuny.edu/cec/biochemistry-seminar-kim-orth-black-spot-black-death-black-pearl-the-tales-of-bacterial-pathogens/",
+    "college": "The City College of New York",
+    "date": "March 26, 2025",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": [
+      "Biochemistry Seminar"
+    ]
+  },
+  {
+    "title": "My Experiences Supporting Families Affected by Autism and Other Intellectual/Developmental Disabilities in Liberia and Sierra Leone",
+    "link": "https://events.cuny.edu/cec/my-experiences-supporting-families-affected-by-autism-and-other-intellectual-developmental-disabilities-in-liberia-and-sierra-leone/",
+    "college": "College of Staten Island",
+    "date": "March 26, 2025",
+    "time": "12:15 PM - 1:30 PM",
+    "tags": [
+      "Center for Global Engagement",
+      "Macaulay Honors College",
+      "Sociology and Anthropology",
+      "Verrazzano School",
+      "World Language and Literature"
+    ]
+  },
+  {
+    "title": "Free LinkedIn Head Shot",
+    "link": "https://events.cuny.edu/cec/free-linkedin-head-shot-3/",
+    "college": "College of Staten Island",
+    "date": "March 26, 2025",
+    "time": "2:30 PM - 4:30 PM",
+    "tags": [
+      "Career Center"
+    ]
+  },
+  {
+    "title": "Planetarium Show: Next Stop, Mars!",
+    "link": "https://events.cuny.edu/cec/planetarium-show-next-stop-mars-2/",
+    "college": "The City College of New York",
+    "date": "March 26, 2025",
+    "time": "3:30 PM - 4:30 PM",
+    "tags": [
+      "CCNY Planetarium"
+    ]
+  },
+  {
+    "title": "Drop In and Ask Us Anything about Brightspace",
+    "link": "https://events.cuny.edu/cec/drop-in-and-ask-us-anything-about-brightspace-11/",
+    "college": "College of Staten Island",
+    "date": "March 26, 2025",
+    "time": "4:00 PM - 5:30 PM",
+    "tags": [
+      "Cener for Teaching and Learning"
+    ]
+  },
+  {
+    "title": "Social Awareness (Building Community): How to Identify a Support System",
+    "link": "https://events.cuny.edu/cec/social-awareness-building-community-how-to-identify-a-support-system/",
+    "college": "York College",
+    "date": "March 26, 2025",
+    "time": "5:00 PM",
+    "tags": [
+      "Black Male Initiative"
+    ]
+  },
+  {
+    "title": "Book Talk: Emporialism, Department Store Fictions and The Politics of the Mediterranean",
+    "link": "https://events.cuny.edu/cec/book-talk-emporialism-department-store-fictions-and-the-politics-of-the-mediterranean/",
+    "college": "The City College of New York",
+    "date": "March 26, 2025",
+    "time": "5:00 PM - 6:30 PM",
+    "tags": [
+      "Book Talk"
+    ]
+  },
+  {
+    "title": "Distribution/Exhibition – Looking at the Indie Landscape",
+    "link": "https://events.cuny.edu/cec/distribution-exhibition-looking-at-the-indie-landscape/",
+    "college": "The City College of New York",
+    "date": "March 26, 2025",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": [
+      "Karin Chien",
+      "Malkah Manouel"
+    ]
+  },
+  {
     "title": "Choirs of America",
     "link": "https://qc.event.cuny.edu/events/o1td1izbFpJPHpy0kJMZ/mau7VkR1qwsDipXB0hZV",
     "college": "Queens College",
@@ -4005,6 +4088,46 @@
     "tags": []
   },
   {
+    "title": "RHIT/RHIA Certification Exam Prep Session",
+    "link": "https://sps.cuny.edu/about/events/rhitrhia-certification-exam-prep-session-1",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-03-29",
+    "time": "01:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Refresh Your Resume Webinar - Afternoon Session",
+    "link": "https://sps.cuny.edu/about/events/refresh-your-resume-webinar-afternoon-session",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-01",
+    "time": "04:30 PM",
+    "tags": []
+  },
+  {
+    "title": "ePortfolio 101: The Basics",
+    "link": "https://sps.cuny.edu/about/events/eportfolio-101-basics-3",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-01",
+    "time": "10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Networking & Public Speaking for Career Success",
+    "link": "https://sps.cuny.edu/about/events/networking-public-speaking-for-career-success",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-01",
+    "time": "10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Governance Council Meeting",
+    "link": "https://sph.cuny.edu/event/governance-council-meeting/",
+    "college": "CUNY School of Public Health",
+    "date": "Wednesday, March 26, 2025",
+    "time": "1:30pm",
+    "tags": []
+  },
+  {
     "title": "Book Talk: The Painful Truth About Hunger in America",
     "link": "https://sph.cuny.edu/event/book-talk-the-painful-truth-about-hunger-in-america/",
     "college": "CUNY School of Public Health",
@@ -4213,14 +4336,6 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center - noon",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025-afternoon",
-    "college": "York College",
-    "date": "March 26, 2025",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "Let's Talk Career Success",
     "link": "https://www.york.cuny.edu/events/lets-talk-career-success",
     "college": "York College",
@@ -4250,6 +4365,14 @@
     "college": "York College",
     "date": "March 26, 2025",
     "time": "9:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - noon",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025-afternoon",
+    "college": "York College",
+    "date": "March 27, 2025",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
