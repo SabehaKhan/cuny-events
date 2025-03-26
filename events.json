@@ -1,21 +1,5 @@
 [
   {
-    "title": "LGBTQ+ Peer Support Group",
-    "link": "https://www.ccny.cuny.edu/calendar/lgbtq-peer-support-group-44",
-    "college": "City College of New York",
-    "date": "2025-03-26",
-    "time": "11:30 AM - 12:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Biochemistry Seminar: Kim Orth, \"Black Spot, Black Death, Black Pearl: The Tales of Bacterial Pathogens\"",
-    "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-kim-orth-black-spot-black-death-black-pearl-tales-bacterial-pathogens",
-    "college": "City College of New York",
-    "date": "2025-03-26",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "Planetarium Show: Next Stop, Mars!",
     "link": "https://www.ccny.cuny.edu/calendar/planetarium-show-next-stop-mars-0",
     "college": "City College of New York",
@@ -781,14 +765,6 @@
   },
   {
     "title": "El Ritmo es la Ley: Weekly Latin Dance Classes",
-    "link": "https://www.law.cuny.edu/event/el-ritmo-es-la-ley-weekly-latin-dance-classes/2025-03-26/",
-    "college": "CUNY School of Law",
-    "date": "2025-03-26",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
-    "title": "El Ritmo es la Ley: Weekly Latin Dance Classes",
     "link": "https://www.law.cuny.edu/event/el-ritmo-es-la-ley-weekly-latin-dance-classes/2025-04-02/",
     "college": "CUNY School of Law",
     "date": "2025-04-02",
@@ -942,16 +918,6 @@
     "tags": [
       "Alumni",
       "Special Event"
-    ]
-  },
-  {
-    "title": "AI for Community Media: AI Tools for Journalists | Image Creation",
-    "link": "https://www.journalism.cuny.edu/events/ai-for-community-media-session-3-ai-tools-for-journalists-image-creation/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2025-03-26",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Center for Community Media"
     ]
   },
   {
@@ -1939,50 +1905,6 @@
     "tags": []
   },
   {
-    "title": "CTL Open House",
-    "link": "https://www.laguardia.edu/event/ctl-open-house/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-26",
-    "time": "12:30 PM - 03:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Women in STEM – Panel Discussions on Careers and Health",
-    "link": "https://www.laguardia.edu/event/women-in-stem-panel-discussions-on-careers-and-health/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-26",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Club Fest",
-    "link": "https://www.laguardia.edu/event/club-fest/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-26",
-    "time": "02:00 PM - 04:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Interview Preparation: Practice make permanent: Sharpen Your Virtual Interview Skills",
-    "link": "https://www.laguardia.edu/event/interview-preparation-practice-make-permanent-sharpen-your-virtual-interview-skills-5/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-26",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Cornell Cooperative Extension",
     "link": "https://www.laguardia.edu/event/cornell-cooperative-extension/",
     "college": "LaGuardia Community College",
@@ -2266,6 +2188,50 @@
     ]
   },
   {
+    "title": "Know Your Rights Workshop",
+    "link": "https://www.laguardia.edu/event/know-your-rights-workshop-2/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-02",
+    "time": "04:30 PM - 06:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-04-02/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-02",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-04-03/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-03",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Developing the Leader Within",
+    "link": "https://www.laguardia.edu/event/developing-the-leader-within/2025-04-03/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-03",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "President's Speaker Series / Celebrating Women's HerStory Month",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376092",
     "college": "Guttman Community College",
@@ -2473,6 +2439,19 @@
     ]
   },
   {
+    "title": "Dr J Surprise (Dont worry, this is hidden from his account)",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376168",
+    "college": "Guttman Community College",
+    "date": "2025-04-01",
+    "time": "03:30 PM - 04:05 PM",
+    "tags": [
+      "OSL",
+      "Social",
+      "Student Life",
+      "United Men of Color"
+    ]
+  },
+  {
     "title": "The Writing Process Workshop Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376073",
     "college": "Guttman Community College",
@@ -2520,6 +2499,22 @@
       "Educational/Awareness",
       "AccessABILITY Services",
       "Disability Awareness Month"
+    ]
+  },
+  {
+    "title": "Financial Aid Awareness Day",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376169",
+    "college": "Guttman Community College",
+    "date": "2025-04-02",
+    "time": "03:00 PM - 07:00 PM",
+    "tags": [
+      "EMSA",
+      "Social",
+      "FASFA & TAP Applications",
+      "Financial Aid",
+      "Federal Work Study",
+      "Satisfactory Academic Progress (SAP)",
+      "Food - Lunch "
     ]
   },
   {
@@ -4257,7 +4252,7 @@
   },
   {
     "title": "Careers in Psychology with Dr. Kait Gould",
-    "link": "https://www.lehman.edu/events/2025/Careers-in-Psychology-with-Dr-Kait-Gould-1.php",
+    "link": "https://www.lehman.edu/events/2025/Careers-in-Psychology-with-Dr-Kait-Gould.php",
     "college": "Lehman College",
     "date": "March 26, 2025",
     "time": "3:00 p.m. - 4:00 p.m.",
@@ -4349,14 +4344,6 @@
     "college": "York College",
     "date": "March 26, 2025",
     "time": "4:30 PM - 7:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Wellness Wednesday - March",
-    "link": "https://www.york.cuny.edu/events/wellness-wednesday-1",
-    "college": "York College",
-    "date": "March 26, 2025",
-    "time": "7:00 PM - 8:00 PM",
     "tags": []
   },
   {
