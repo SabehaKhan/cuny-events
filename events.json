@@ -1887,6 +1887,22 @@
     "tags": []
   },
   {
+    "title": "Museum Meetups",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/46834dc2-e306-4274-a9bf-74116a51b189",
+    "college": "Kingsborough Community College",
+    "date": "2025-05-02",
+    "time": "11:30 AM - 11:30 AM",
+    "tags": []
+  },
+  {
+    "title": "Museum Meetups",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/92b004b4-3761-4933-aebe-dc10d4ea8b0a",
+    "college": "Kingsborough Community College",
+    "date": "2025-05-30",
+    "time": "03:30 PM - 03:30 PM",
+    "tags": []
+  },
+  {
     "title": "Job & Internship Fair Prep Tabling",
     "link": "https://www.laguardia.edu/event/job-internship-fair-prep-tabling/2025-03-27/",
     "college": "LaGuardia Community College",
@@ -2034,6 +2050,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-03-31",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Art Unfolded: Exploration Through Art Therapy",
+    "link": "https://www.laguardia.edu/event/art-unfolded-exploration-through-art-therapy/2025-03-31/",
+    "college": "LaGuardia Community College",
+    "date": "2025-03-31",
+    "time": "02:00 PM - 03:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2197,17 +2224,6 @@
     "college": "LaGuardia Community College",
     "date": "2025-04-03",
     "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Music Program presents Faculty Sampler Concert",
-    "link": "https://www.laguardia.edu/event/music-program-presents-faculty-sampler-concert/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-03",
-    "time": "07:00 PM - 09:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -4020,6 +4036,22 @@
     "tags": []
   },
   {
+    "title": "Networking & Public Speaking for Career Success",
+    "link": "https://sps.cuny.edu/about/events/networking-public-speaking-for-career-success",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-01",
+    "time": "10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Act Your Age: Age Beliefs in Media and Entertainment",
+    "link": "https://sps.cuny.edu/about/events/act-your-age-age-beliefs-in-media-and-entertainment",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-01",
+    "time": "10:00 PM",
+    "tags": []
+  },
+  {
     "title": "ePortfolio 101: The Basics",
     "link": "https://sps.cuny.edu/about/events/eportfolio-101-basics-3",
     "college": "CUNY School of Professional Studies",
@@ -4028,11 +4060,19 @@
     "tags": []
   },
   {
-    "title": "Networking & Public Speaking for Career Success",
-    "link": "https://sps.cuny.edu/about/events/networking-public-speaking-for-career-success",
+    "title": "4th Annual CUNY LGBTQI+ Student Leadership Conference",
+    "link": "https://sps.cuny.edu/about/events/4th-annual-cuny-lgbtqi-student-leadership-conference",
     "college": "CUNY School of Professional Studies",
-    "date": "2025-04-01",
-    "time": "10:00 PM",
+    "date": "2025-04-04",
+    "time": "01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Faculty Workshop: Using Video in Brightspace (Panopto/Video Notes)",
+    "link": "https://sps.cuny.edu/about/events/faculty-workshop-using-video-in-brightspace-panoptovideo-notes",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-08",
+    "time": "03:00 PM",
     "tags": []
   },
   {
