@@ -1,29 +1,5 @@
 [
   {
-    "title": "Baskerville Chemical Society's \"The Chemistry Carousel\"",
-    "link": "https://www.ccny.cuny.edu/calendar/baskerville-chemical-societys-chemistry-carousel",
-    "college": "City College of New York",
-    "date": "2025-03-27",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Philosophy Pizza Forum: Prof. Graham Priest, CUNY Graduate Center \"Nothing\"",
-    "link": "https://www.ccny.cuny.edu/calendar/philosophy-pizza-forum-prof-graham-priest-cuny-graduate-center-nothing",
-    "college": "City College of New York",
-    "date": "2025-03-27",
-    "time": "12:30 PM - 01:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Mathematics Colloquium: Michael Burr (Clemson University)- Monodromy, trace tests, and Galois groups of branched covers",
-    "link": "https://www.ccny.cuny.edu/calendar/mathematics-colloquium-michael-burr-clemson-university-monodromy-trace-tests-and-galois",
-    "college": "City College of New York",
-    "date": "2025-03-27",
-    "time": "12:30 PM - 01:25 PM",
-    "tags": []
-  },
-  {
     "title": "CCNY VIRTUAL Graduate Admissions Info Session/Tour EVENT",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-virtual-graduate-admissions-info-sessiontour-event-1",
     "college": "City College of New York",
@@ -101,6 +77,14 @@
     "college": "City College of New York",
     "date": "2025-04-03",
     "time": "06:00 PM - 06:45 PM",
+    "tags": []
+  },
+  {
+    "title": "4th Annual CUNY LGBTQI+ Student Conference",
+    "link": "https://www.ccny.cuny.edu/calendar/4th-annual-cuny-lgbtqi-student-conference",
+    "college": "City College of New York",
+    "date": "2025-04-04",
+    "time": "09:00 AM - 06:00 PM",
     "tags": []
   },
   {
@@ -472,6 +456,14 @@
     "tags": []
   },
   {
+    "title": "In Defense of Childhood: Keeping Active Inquiry-based Learning Alive",
+    "link": "https://www.ccny.cuny.edu/calendar/defense-childhood-keeping-active-inquiry-based-learning-alive",
+    "college": "City College of New York",
+    "date": "2025-05-10",
+    "time": "08:30 AM - 04:00 PM",
+    "tags": []
+  },
+  {
     "title": "Gaymers Against Violence: Monthly Workshop Series",
     "link": "https://www.ccny.cuny.edu/calendar/gaymers-against-violence-monthly-workshop-series-7",
     "college": "City College of New York",
@@ -730,6 +722,16 @@
     "date": "2025-04-21",
     "time": "05:30 PM - 08:00 PM",
     "tags": []
+  },
+  {
+    "title": "Going for Gold is Celebrating National Minority Health Month",
+    "link": "https://www.mec.cuny.edu/event/going-for-gold-is-celebrating-national-minority-health-month/",
+    "college": "Medgar Evers College",
+    "date": "2025-04-22",
+    "time": "09:00 AM - 03:00 PM",
+    "tags": [
+      "Rock Your Health"
+    ]
   },
   {
     "title": "2025 Spring Fest & Graduates BBQ",
@@ -1929,61 +1931,6 @@
     "tags": []
   },
   {
-    "title": "Job & Internship Fair Prep Tabling",
-    "link": "https://www.laguardia.edu/event/job-internship-fair-prep-tabling/2025-03-27/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-27",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Rutgers University Field Tour",
-    "link": "https://www.laguardia.edu/event/rutgers-university-field-tour/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-27",
-    "time": "12:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Ciguapa Unbound: Tranceformations of AfroLatinx Feminist Epistemologies",
-    "link": "https://www.laguardia.edu/event/ciguapa-unbound-tranceformations-of-afrolatinx-feminist-epistemologies/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-27",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Queens College Transfer Honors Information Session",
-    "link": "https://www.laguardia.edu/event/queens-college-transfer-honors-information-session/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-27",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Queer Connections: A Support Group for LGBTQIA+ Students",
-    "link": "https://www.laguardia.edu/event/queer-connections-a-support-group-for-lgbtqia-students/2025-03-27/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-27",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "QPR Gatekeeper Virtual Training: A Lifesaving Skill for Faculty, Staff, and Students",
     "link": "https://www.laguardia.edu/event/qpr-gatekeeper-virtual-training-a-lifesaving-skill-for-faculty-staff-and-students/2025-03-28/",
     "college": "LaGuardia Community College",
@@ -2250,6 +2197,64 @@
     "college": "LaGuardia Community College",
     "date": "2025-04-04",
     "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "4th Annual CUNY LGBTQI+ Student Conference",
+    "link": "https://www.laguardia.edu/event/4th-annual-cuny-lgbtqi-student-conference/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-04",
+    "time": "09:00 AM - 06:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Book Presentation and Signing: THE DEAN OF NEW THINGS: Bringing Change to CUNY and New York City",
+    "link": "https://www.laguardia.edu/event/book-presentation-and-signing-the-dean-of-new-things-bringing-change-to-cuny-and-new-york-city/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-04",
+    "time": "10:00 AM - 11:30 AM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-04-04/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-04",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Student Success Saturday",
+    "link": "https://www.laguardia.edu/event/student-success-saturday/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-05",
+    "time": "10:00 AM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-04-07/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-07",
+    "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -3302,17 +3307,6 @@
     ]
   },
   {
-    "title": "Spring Nature-Based Learning Event",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376170",
-    "college": "Guttman Community College",
-    "date": "2025-05-27",
-    "time": "03:30 PM - 05:00 PM",
-    "tags": [
-      "OAA",
-      "Academic"
-    ]
-  },
-  {
     "title": "Gaming Grizzlies Freeplay Session",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376010",
     "college": "Guttman Community College",
@@ -4001,14 +3995,6 @@
     "tags": []
   },
   {
-    "title": "ePortfolio 101: The Basics",
-    "link": "https://sps.cuny.edu/about/events/eportfolio-101-basics-3",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-04-01",
-    "time": "10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Networking & Public Speaking for Career Success",
     "link": "https://sps.cuny.edu/about/events/networking-public-speaking-for-career-success",
     "college": "CUNY School of Professional Studies",
@@ -4019,6 +4005,14 @@
   {
     "title": "Act Your Age: Age Beliefs in Media and Entertainment",
     "link": "https://sps.cuny.edu/about/events/act-your-age-age-beliefs-in-media-and-entertainment",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-01",
+    "time": "10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "ePortfolio 101: The Basics",
+    "link": "https://sps.cuny.edu/about/events/eportfolio-101-basics-3",
     "college": "CUNY School of Professional Studies",
     "date": "2025-04-01",
     "time": "10:00 PM",
@@ -4249,14 +4243,6 @@
     "tags": []
   },
   {
-    "title": "Fresh Food Bag Program",
-    "link": "https://www.york.cuny.edu/womens-center/fresh-food-bag-program-1",
-    "college": "York College",
-    "date": "March 27, 2025",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "LGBTQIA+ Safe Zone Trainings - Part 2 Sec 2",
     "link": "https://www.york.cuny.edu/womens-center/calendar-of-events/lgbtqia-safe-zone-trainings-3",
     "college": "York College",
@@ -4390,6 +4376,14 @@
     "college": "York College",
     "date": "April 1, 2025",
     "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Fresh Food Bag Program",
+    "link": "https://www.york.cuny.edu/womens-center/fresh-food-bag-program-1",
+    "college": "York College",
+    "date": "April 3, 2025",
+    "time": "6:00 PM - 7:00 PM",
     "tags": []
   }
 ]
