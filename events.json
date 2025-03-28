@@ -1,21 +1,5 @@
 [
   {
-    "title": "CCNY VIRTUAL Graduate Admissions Info Session/Tour EVENT",
-    "link": "https://www.ccny.cuny.edu/calendar/ccny-virtual-graduate-admissions-info-sessiontour-event-1",
-    "college": "City College of New York",
-    "date": "2025-03-28",
-    "time": "01:30 PM - 02:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Ballroom Culture 101: Runway and Performance",
-    "link": "https://www.ccny.cuny.edu/calendar/ballroom-culture-101-runway-and-performance",
-    "college": "City College of New York",
-    "date": "2025-03-28",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Frame Forward CUNY Student Video Festival | Submissions Ongoing",
     "link": "https://www.ccny.cuny.edu/calendar/frame-forward-cuny-student-video-festival",
     "college": "City College of New York",
@@ -1923,39 +1907,6 @@
     "tags": []
   },
   {
-    "title": "Advising & Mentoring Summit",
-    "link": "https://www.laguardia.edu/event/advising-mentoring-summit/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-28",
-    "time": "10:00 AM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-03-28/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-28",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Brown Bag Series: Online Conduct Expectations",
-    "link": "https://www.laguardia.edu/event/brown-bag-series-online-conduct-expectations-2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-03-28",
-    "time": "01:00 PM - 02:30 PM",
-    "tags": [
-      "all calendars"
-    ]
-  },
-  {
     "title": "Carnegie Hall Citywide: Soh Daiko",
     "link": "https://www.laguardia.edu/event/carnegie-hall-citywide-soh-daiko/",
     "college": "LaGuardia Community College",
@@ -2069,6 +2020,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-04-02",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "BMEC Movie Day: Mufasa: The Lion King",
+    "link": "https://www.laguardia.edu/event/bmec-movie-day-mufasa-the-lion-king/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-02",
+    "time": "02:00 PM - 04:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2254,6 +2216,28 @@
     ]
   },
   {
+    "title": "CUNY EDGE 20 Minute Info Sessions",
+    "link": "https://www.laguardia.edu/event/cuny-edge-20-minute-info-sessions/2025-04-08/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-08",
+    "time": "10:00 AM - 03:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Networking 101: LinkedIn, Connect, and Engage",
+    "link": "https://www.laguardia.edu/event/networking-101-linkedin-connect-and-engage-7/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-08",
+    "time": "02:15 PM - 03:15 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Abilities Club Invite to CCSD",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376091",
     "college": "Guttman Community College",
@@ -2349,18 +2333,6 @@
       "ASC",
       "Academic",
       "Tutoring"
-    ]
-  },
-  {
-    "title": "Gaming Grizzlies TEKKEN 8 Tournament",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376163",
-    "college": "Guttman Community College",
-    "date": "2025-04-01",
-    "time": "06:00 PM - 09:00 PM",
-    "tags": [
-      "TGG",
-      "Social",
-      "Student Life"
     ]
   },
   {
@@ -2495,18 +2467,6 @@
     ]
   },
   {
-    "title": "Vision Boards",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376173",
-    "college": "Guttman Community College",
-    "date": "2025-04-03",
-    "time": "07:00 PM - 08:30 PM",
-    "tags": [
-      "LGBT",
-      "Social",
-      "LGBTQ+"
-    ]
-  },
-  {
     "title": "2025 CUNY LGBTQI+ Student Conference",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=375814",
     "college": "Guttman Community College",
@@ -2524,7 +2484,7 @@
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376157",
     "college": "Guttman Community College",
     "date": "2025-04-05",
-    "time": "02:00 PM - 05:00 PM",
+    "time": "02:00 PM - 06:00 PM",
     "tags": [
       "EMSA",
       "Workshop",
@@ -2602,20 +2562,6 @@
       "Workshop",
       "Financial Aid",
       "FASFA & TAP Applications"
-    ]
-  },
-  {
-    "title": "Conduct Cafe",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376174",
-    "college": "Guttman Community College",
-    "date": "2025-04-10",
-    "time": "03:30 PM - 04:30 PM",
-    "tags": [
-      "EMSA",
-      "Educational/Awareness",
-      "Conduct & Community Standards",
-      "Food - Breakfast",
-      "Information Session"
     ]
   },
   {
@@ -3977,243 +3923,67 @@
     "tags": []
   },
   {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
+    "title": "Information Session for MPH and MS programs",
+    "link": "https://sph.cuny.edu/event/information-session-for-mph-and-ms-programs/",
     "college": "CUNY School of Public Health",
     "date": "Thursday, April 17, 2025",
-    "time": "5:30pm",
+    "time": "6:00pm",
     "tags": []
   },
   {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Friday, April 18, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Saturday, April 19, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Sunday, April 20, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Monday, April 21, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Tuesday, April 22, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
+    "title": "Upholding Rights, Ensuring Justice: The Government’s Role in Protecting and Advancing Sexual and Reproductive Justice",
+    "link": "https://sph.cuny.edu/event/upholding-rights-ensuring-justice/",
     "college": "CUNY School of Public Health",
     "date": "Wednesday, April 23, 2025",
-    "time": "5:30pm",
+    "time": "1:00pm",
     "tags": []
   },
   {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
+    "title": "2025 NYC Mayoral Candidates Forum: Let’s Talk about Hunger and Food Policy in NYC",
+    "link": "https://sph.cuny.edu/event/2025-nyc-mayoral-candidates-forum-lets-talk-about-hunger-and-food-policy-in-nyc/",
     "college": "CUNY School of Public Health",
     "date": "Thursday, April 24, 2025",
-    "time": "5:30pm",
+    "time": "10:00 am - 12:00pm",
     "tags": []
   },
   {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
+    "title": "Spring 2025 Virtual Career Fair",
+    "link": "https://sph.cuny.edu/event/spring-2025-virtual-career-fair/",
     "college": "CUNY School of Public Health",
     "date": "Friday, April 25, 2025",
-    "time": "5:30pm",
+    "time": "12:00pm",
     "tags": []
   },
   {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Saturday, April 26, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Sunday, April 27, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Monday, April 28, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Tuesday, April 29, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Wednesday, April 30, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
+    "title": "Dissertation Defense by Dima Masoud",
+    "link": "https://sph.cuny.edu/event/dissertation-defense-by-dima-masoud/",
     "college": "CUNY School of Public Health",
     "date": "Thursday, May 1, 2025",
-    "time": "5:30pm",
+    "time": "12:00pm",
     "tags": []
   },
   {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Friday, May 2, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Saturday, May 3, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Sunday, May 4, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
+    "title": "Career Skills Masterclass: Negotiating the Job Offer with Claudia Ponce",
+    "link": "https://sph.cuny.edu/event/career-skills-masterclass-negotiating-the-job-offer-with-claudia-ponce/",
     "college": "CUNY School of Public Health",
     "date": "Monday, May 5, 2025",
-    "time": "5:30pm",
+    "time": "6:00pm",
     "tags": []
   },
   {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
+    "title": "Internship Discovery Series: CUNY x Metropolitan Transportation Authority (MTA) Internship Program",
+    "link": "https://sph.cuny.edu/event/internship-discovery-series-cuny-x-metropolitan-transportation-authority-mta-internship-program/",
     "college": "CUNY School of Public Health",
     "date": "Tuesday, May 6, 2025",
-    "time": "5:30pm",
+    "time": "12:00pm",
     "tags": []
   },
   {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Wednesday, May 7, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
+    "title": "Career Corner: Decision Making in Difficult Circumstance",
+    "link": "https://sph.cuny.edu/event/career-corner-decision-making-in-difficult-circumstance/",
     "college": "CUNY School of Public Health",
     "date": "Thursday, May 8, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Friday, May 9, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Saturday, May 10, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Sunday, May 11, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Monday, May 12, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Tuesday, May 13, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Wednesday, May 14, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Thursday, May 15, 2025",
-    "time": "5:30pm",
-    "tags": []
-  },
-  {
-    "title": "Birthing Justice: Film Screening and Panel Discussion",
-    "link": "https://sph.cuny.edu/event/birthing-justice-film-screening-and-panel-discussion/",
-    "college": "CUNY School of Public Health",
-    "date": "Friday, May 16, 2025",
-    "time": "5:30pm",
+    "time": "6:00pm",
     "tags": []
   },
   {
@@ -4294,158 +4064,6 @@
     "college": "Lehman College",
     "date": "April 3, 2025",
     "time": "12:00 p.m. - 3:00 p.m.",
-    "tags": []
-  },
-  {
-    "title": "Softball vs. Cedar Crest College",
-    "link": "https://www.york.cuny.edu/events/2025/softball-vs-cedar-crest-03282025",
-    "college": "York College",
-    "date": "March 28, 2025",
-    "time": "7:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women's History Month Book Discussion Featuring Tamika Mallory",
-    "link": "https://www.york.cuny.edu/events/womens-history-month-book-discussion-featuring-tamika-mallory",
-    "college": "York College",
-    "date": "March 29, 2025",
-    "time": "8:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Sweet Club Meetings",
-    "link": "https://www.york.cuny.edu/events/2024/sweet-club-meetings",
-    "college": "York College",
-    "date": "March 30, 2025",
-    "time": "10:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for the term",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/r2t4-60-date-for-the-term",
-    "college": "York College",
-    "date": "March 31, 2025",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - noon",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025-afternoon",
-    "college": "York College",
-    "date": "March 31, 2025",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Last day to APPLY for Pass/Fail Option",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/last-day-to-apply-for-pass-fail-option",
-    "college": "York College",
-    "date": "April 1, 2025",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Course Withdrawal period ends Last day to withdraw from a course(s) WITH a grade of W without Committee on Academic Policy and Standards approval",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/course-withdrawal-period-ends-last-day-to-withdraw-from-a-course-s-with-a-grade-of-w-without-committee-on-academic-policy-and-standards-approval",
-    "college": "York College",
-    "date": "April 1, 2025",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Leadership, Equity and Inclusion",
-    "link": "https://www.york.cuny.edu/mens-center/insight-1/leadership-equity-inclusion",
-    "college": "York College",
-    "date": "April 1, 2025",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "PFA Day",
-    "link": "https://www.york.cuny.edu/events/pfa-day",
-    "college": "York College",
-    "date": "April 1, 2025",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "STI Awareness Workshop",
-    "link": "https://www.york.cuny.edu/health/sti-awareness-workshop",
-    "college": "York College",
-    "date": "April 1, 2025",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "WAC Talk",
-    "link": "https://www.york.cuny.edu/wac/wac-talk",
-    "college": "York College",
-    "date": "April 1, 2025",
-    "time": "4:00 PM - 5:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Yoga - April",
-    "link": "https://www.york.cuny.edu/events/yoga-april",
-    "college": "York College",
-    "date": "April 1, 2025",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Tennis vs. Pratt Institute",
-    "link": "https://www.york.cuny.edu/events/2025/mens-tennis-vs-pratt-04012025",
-    "college": "York College",
-    "date": "April 1, 2025",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Senior Portraits",
-    "link": "https://www.york.cuny.edu/events/senior-portraits-day",
-    "college": "York College",
-    "date": "April 2, 2025",
-    "time": "2:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Wellness Wednesday - April",
-    "link": "https://www.york.cuny.edu/events/wellness-wednesday-2",
-    "college": "York College",
-    "date": "April 2, 2025",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Relationship Skills: Effective Communication",
-    "link": "https://www.york.cuny.edu/mens-center/mens-center-calendar/relationship-skills-effective-communication",
-    "college": "York College",
-    "date": "April 2, 2025",
-    "time": "9:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "York College Association Meeting - 4/03/25",
-    "link": "https://www.york.cuny.edu/yca/york-college-association-meeting-04-03-25",
-    "college": "York College",
-    "date": "April 3, 2025",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Center for Students with Disabilities Film Series",
-    "link": "https://www.york.cuny.edu/events/center-for-students-with-disabilities-film-series",
-    "college": "York College",
-    "date": "April 3, 2025",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fresh Food Bag Program",
-    "link": "https://www.york.cuny.edu/womens-center/fresh-food-bag-program-1",
-    "college": "York College",
-    "date": "April 3, 2025",
-    "time": "6:00 PM - 7:00 PM",
     "tags": []
   }
 ]
