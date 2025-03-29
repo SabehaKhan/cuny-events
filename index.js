@@ -88,17 +88,22 @@ export async function fetchEventsFromSite(config, page = 1) {
         date = cleanString($(element).find(config.dateSelector).text() || null);
         time = cleanString($(element).find(config.timeSelector).text() || null);
        
-        console.log("Time:", time);
+        
       }
 
       // Remove the leading "|" character from the time string
       if (time && time.startsWith("|")) {
         time = time.substring(1).trim();
       }
-      //remove events without time
-      if (time && (time===null || time==='false' || time==="Online"||date===null || date==='false')) {
-        console.log("Skipping event without valid time/date:", title);
-        return;
+      
+      if (!date || date === "false") {
+        console.log("Skipping event without a valid date:", title);
+        return; // Skip events without a valid date
+      }
+      
+      // Allow events without a time but ensure time is set to an empty string
+      if (!time || time === "false" || time.toLowerCase() === "online") {
+        time = ""; // Set time to an empty string if missing or invalid
       }
 
       // Split the time string by the delimiter and take the first valid time range
@@ -106,6 +111,15 @@ export async function fetchEventsFromSite(config, page = 1) {
         time = time.split("pm")[0].trim() + "pm";
       } else if (time && time.includes("am")) {
         time = time.split("am")[0].trim() + "am";
+      }
+      console.log("Time:", time);
+      const timeRegex = /^(1[0-2]|0?[1-9]):[0-5][0-9]\s?(AM|PM|am|pm|a\.m\.|p\.m\.)(\s?-\s?(1[0-2]|0?[1-9]):[0-5][0-9]\s?(AM|PM|am|pm|a\.m\.|p\.m\.))?$/;
+      if (!timeRegex.test(time)) {
+        console.log(`Invalid time detected: "${time}", setting time to empty.`);
+        time = ""; // Set time to an empty string if invalid
+      } else {
+        // Normalize time format (e.g., convert "p.m." to "PM")
+        time = time.replace(/\.\s?/g, "").toUpperCase();
       }
 
 
@@ -130,10 +144,7 @@ export async function fetchEventsFromSite(config, page = 1) {
         tags,
       };
 
-      if (!time) {
-        console.log("Skipping event without time:", title);
-        return;
-      }
+      
 
       events.push(eventData);
     });
@@ -247,7 +258,7 @@ function removePastEvents(events) {
 
 
 function removeEventsWithKeywords(events) {
-  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED","No Classes","Out of Comission","HOLDs","Canceled","LALS","SPST 3963-003","Exam Review"]; 
+  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED","No Classes","Out of Comission","HOLDs","Canceled","LALS","SPST 3963-003","Exam Review","Registration Opens"]; 
   return events.filter(event => {
     const title = event.title.toLowerCase();
     const hasKeyword = keywords.some(keyword => title.includes(keyword.toLowerCase()));
