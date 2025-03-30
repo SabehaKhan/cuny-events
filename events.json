@@ -2249,20 +2249,6 @@
     ]
   },
   {
-    "title": "CUNY Annual March in March with SGA",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376139",
-    "college": "Guttman Community College",
-    "date": "2025-03-29",
-    "time": "03:00 PM - 07:00 PM",
-    "tags": [
-      "SGA",
-      "Educational/Awareness",
-      "Off-Campus",
-      "SGA",
-      "Weeks Of Welcome"
-    ]
-  },
-  {
     "title": "Math Drop-In Support Sessions",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376027",
     "college": "Guttman Community College",
@@ -3379,16 +3365,6 @@
     ]
   },
   {
-    "title": "Financial Aid Application Support Session – New York Public Library",
-    "link": "https://events.cuny.edu/cec/financial-aid-application-support-session-new-york-public-library/",
-    "college": "The University",
-    "date": "March 29, 2025",
-    "time": "",
-    "tags": [
-      "Financial Aid"
-    ]
-  },
-  {
     "title": "Jane Young Spring 2025 Film Series: Films of Resistance and Revolt",
     "link": "https://www.bmcc.cuny.edu/event/?p=648391",
     "college": "Borough of Manhattan Community College",
@@ -3439,12 +3415,25 @@
     "tags": []
   },
   {
-    "title": "College Now Classes",
-    "link": "https://qc.event.cuny.edu/events/e6g5uKQBgP7O8vgtvqHJ/VWtc0lzLeQF7ZsPTmbhs5",
-    "college": "Queens College",
-    "date": "Sat Mar 29 2025",
-    "time": "9:00AM",
-    "tags": []
+    "title": "A More Fair Playing Field: Trans Rights in School and Sports",
+    "link": "https://events.cuny.edu/cec/a-more-fair-playing-field-trans-rights-in-school-and-sports/",
+    "college": "Hunter College",
+    "date": "April 1, 2025",
+    "time": "1:00 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
+  },
+  {
+    "title": "Film Screening April 1st",
+    "link": "https://events.cuny.edu/cec/film-screening-april-1st/",
+    "college": "The University",
+    "date": "April 1, 2025",
+    "time": "2:00 PM",
+    "tags": [
+      "Disability and Accessibility",
+      "Students with Disabilities"
+    ]
   },
   {
     "title": "Autism Program",
@@ -3532,6 +3521,30 @@
     "college": "Queens College",
     "date": "Mon Mar 31 2025",
     "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Tutoring Services",
+    "link": "https://qc.event.cuny.edu/events/rBXP5CeCOe9GqT6eupo9/nssflnILTel0ikNS2HSs19",
+    "college": "Queens College",
+    "date": "Mon Mar 31 2025",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Math Workshops",
+    "link": "https://qc.event.cuny.edu/events/IIJyboiXFCQi8aAn7Eww/vBCL0Yawch99E91ybB5019",
+    "college": "Queens College",
+    "date": "Mon Mar 31 2025",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "BIOL 106 Make Up Exams",
+    "link": "https://qc.event.cuny.edu/events/U4cVHG6IGQeRsnfbq93o/tSWOsngSUjEoC3YQXF1410",
+    "college": "Queens College",
+    "date": "Mon Mar 31 2025",
+    "time": "4:00PM",
     "tags": []
   },
   {
@@ -3679,62 +3692,6 @@
     "tags": []
   },
   {
-    "title": "Data Science Club: Datathon",
-    "link": "https://citytech.event.cuny.edu/events/LNTAoSUhjWrM0BTVc7i8/lpDhjO1DepaMvh0WSKBy",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Sat Mar 29 2025",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "STEP spring 2025 program",
-    "link": "https://citytech.event.cuny.edu/events/SrhNnlfUfZjUy77kVoAg/DZErqUYOu3mQzacerbjX5",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Sat Mar 29 2025",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "STEP biology workshop",
-    "link": "https://citytech.event.cuny.edu/events/RCpb2iQI6J5rWsjKlqlv/EoR1EX0kK2X3tLS8YJSQ",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Sat Mar 29 2025",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "College Now: ENG1101",
-    "link": "https://citytech.event.cuny.edu/events/PE9vOR4ruGR2vBeUQ8Sn/sF38mNBKXVEES01M0YOe",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Sat Mar 29 2025",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "Datathon",
-    "link": "https://citytech.event.cuny.edu/events/y6AYMkaFJGzoDzfMYe11/nIV4Ic52RM10GjZg1wnZ",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Sat Mar 29 2025",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "College Now: Workshops",
-    "link": "https://citytech.event.cuny.edu/events/FRAF4oDNGNwEgTfmQk25/eqrjaxBhwReYXuGjFBwu7",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Sat Mar 29 2025",
-    "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "NYC Deaf and Hard of  Hearing Association",
-    "link": "https://citytech.event.cuny.edu/events/TpOB7rDBK8MQbyVPXXP8/UK7Y1By8tuNjqYTqZG4i",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "Sat Mar 29 2025",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
     "title": "NUR 1030",
     "link": "https://citytech.event.cuny.edu/events/UQxDa1xs0lXWbqGlJxRn/HyCtvR1Mg6n6SHMpJqfK1",
     "college": "New York City College of Technology (City Tech)",
@@ -3756,6 +3713,134 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "Tue Apr 01 2025",
     "time": "",
+    "tags": []
+  },
+  {
+    "title": "US Marines Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/lgXNQBJOlSUATljXOwSB/kKjhE7OQvZ1XRXI7QUFj10",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Tue Apr 01 2025",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/zVehjO3CNf7tzBsGmF7j5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Tue Apr 01 2025",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Jewish Club Meeting Room",
+    "link": "https://citytech.event.cuny.edu/events/DdpEeyUZVbXvrQZDPufH/ioeVmSWlJyWFuyWxLQfg6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Tue Apr 01 2025",
+    "time": "12:45PM",
+    "tags": []
+  },
+  {
+    "title": "City Tech ASAP/ACE Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/YpeFFoWE7M6beYn01I2L/H7ZjwV5xJHnmPH8O2goL3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Tue Apr 01 2025",
+    "time": "2:30PM",
+    "tags": []
+  },
+  {
+    "title": "General Tour",
+    "link": "https://citytech.event.cuny.edu/events/SJCcS5d1BXjbco3Vf9mR/BkWLrfeglAtmfoSNdiaI",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Tue Apr 01 2025",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/ffcHGrpk3xkheBdjZei56",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Wed Apr 02 2025",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Development Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/ucXGTq5ms8iUBUWPqNlv/leaMowTtWtB0cn42f0ZE",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Wed Apr 02 2025",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Fashion Show Rehearsal",
+    "link": "https://citytech.event.cuny.edu/events/v07Vlh06n6csEOSVVjwk/ya9MSyLldu4Ed9e5sjtg",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Wed Apr 02 2025",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "AI Roundtable : Career pathways in age of AI (faculty/staff)",
+    "link": "https://citytech.event.cuny.edu/events/dXGj5LWldlFce3BGqJpW/L0sfk9e5U3OMJfjxo4kt",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Wed Apr 02 2025",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Commencement Committee Meetings",
+    "link": "https://citytech.event.cuny.edu/events/Cd56XFgTisAvoaCPEET5/X5TwqDHeIe4A3V1Tf4f2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Wed Apr 02 2025",
+    "time": "2:30PM",
+    "tags": []
+  },
+  {
+    "title": "Spring 2025 General Tour",
+    "link": "https://citytech.event.cuny.edu/events/pSb9oj37vw9Pfv5dRVv1/UamqzyKB0AiU23RtwwO6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Wed Apr 02 2025",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "AI Roundtable : Career pathways in age of AI (students)",
+    "link": "https://citytech.event.cuny.edu/events/yVymTWnZc8ix7rthSxnP/qNJHWdX2pZMulDJ0nSmI",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Wed Apr 02 2025",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "P&B Meeting",
+    "link": "https://citytech.event.cuny.edu/events/WxYJfwaBD3BO4pOrGh6l/pJo2YxGy3MLClew5aJGX",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Apr 03 2025",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "SGA Coffee Chats",
+    "link": "https://citytech.event.cuny.edu/events/A2tslbD0tAKwoEf9XZj0/Hlm79KoJ0moFkWDcip8j",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Apr 03 2025",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "City Tech Spring 2025 Group Tour - School of Technology & Design",
+    "link": "https://citytech.event.cuny.edu/events/rZ7CEftWYpsRga4A5bRL/U1C3sicUYE8ueAAWCOTV",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Apr 03 2025",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/zVehjO3CNf7tzBsGmF7j6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "Thu Apr 03 2025",
+    "time": "11:00AM",
     "tags": []
   },
   {
@@ -3844,14 +3929,6 @@
     "college": "Hostos Community College",
     "date": "Fri Apr 04 2025",
     "time": "2:30PM",
-    "tags": []
-  },
-  {
-    "title": "RHIT/RHIA Certification Exam Prep Session",
-    "link": "https://sps.cuny.edu/about/events/rhitrhia-certification-exam-prep-session-1",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-03-29",
-    "time": "01:30 PM",
     "tags": []
   },
   {
@@ -4039,14 +4116,6 @@
     "tags": []
   },
   {
-    "title": "Free Tax Preparation",
-    "link": "https://www.lehman.edu/events/2025/Free-Tax-Preparation.php?event_type=recurs_3",
-    "college": "Lehman College",
-    "date": "March 29, 2025",
-    "time": "11:00 AM- 3:30 PM",
-    "tags": []
-  },
-  {
     "title": "Geographic Information Science M.S. Information",
     "link": "https://www.lehman.edu/events/2025/Geographic-Information-Science-MS-Information-.php",
     "college": "Lehman College",
@@ -4119,11 +4188,11 @@
     "tags": []
   },
   {
-    "title": "Women's History Month Book Discussion Featuring Tamika Mallory",
-    "link": "https://www.york.cuny.edu/events/womens-history-month-book-discussion-featuring-tamika-mallory",
-    "college": "York College",
-    "date": "March 29, 2025",
-    "time": "8:00 PM - 11:00 PM",
+    "title": "Graduate Application and Enrollment Roundtable",
+    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--5.php",
+    "college": "Lehman College",
+    "date": "April 3, 2025",
+    "time": "12:00 PM- 1:00 PM",
     "tags": []
   },
   {
@@ -4268,6 +4337,14 @@
     "college": "York College",
     "date": "April 3, 2025",
     "time": "8:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Defining Proud Disabled Identities screening",
+    "link": "https://www.york.cuny.edu/events/defining-proud-disabled-identities-screening",
+    "college": "York College",
+    "date": "April 3, 2025",
+    "time": "10:00 PM - 12:00 AM",
     "tags": []
   }
 ]
