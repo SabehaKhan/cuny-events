@@ -232,6 +232,14 @@
     "tags": []
   },
   {
+    "title": "PItch Your Doc!",
+    "link": "https://www.ccny.cuny.edu/calendar/pitch-your-doc",
+    "college": "City College of New York",
+    "date": "2025-04-23",
+    "time": "06:30 PM - 08:00 PM",
+    "tags": []
+  },
+  {
     "title": "Philosophy Pizza Forum: Prof. Christina Weinbaum, CCNY \"Logic, A Love Story\"",
     "link": "https://www.ccny.cuny.edu/calendar/philosophy-pizza-forum-prof-christina-weinbaum-ccny-logic-love-story",
     "college": "City College of New York",
@@ -3351,14 +3359,6 @@
     ]
   },
   {
-    "title": "Jane Young Spring 2025 Film Series: Films of Resistance and Revolt",
-    "link": "https://www.bmcc.cuny.edu/event/?p=648391",
-    "college": "Borough of Manhattan Community College",
-    "date": "March 30, 2025",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": []
-  },
-  {
     "title": "Geographic Information Science M.S. Information",
     "link": "https://lehman.edu/events/2025/Geographic-Information-Science-MS-Information-.php",
     "college": "Lehman College",
@@ -3422,12 +3422,14 @@
     ]
   },
   {
-    "title": "Autism Program",
-    "link": "https://qc.event.cuny.edu/events/jRBMqE6GSDdnKY6nQ6f9/wRUMj8j401EPTaByRsyb10",
-    "college": "Queens College",
-    "date": "Sun Mar 30 2025",
-    "time": "8:00AM",
-    "tags": []
+    "title": "Compost Workshop",
+    "link": "https://events.cuny.edu/cec/compost-workshop-4/",
+    "college": "College of Staten Island",
+    "date": "April 1, 2025",
+    "time": "2:30 PM - 4:00 PM",
+    "tags": [
+      "sustainabiliy"
+    ]
   },
   {
     "title": "DC 37 Meeting",
@@ -3918,6 +3920,30 @@
     "tags": []
   },
   {
+    "title": "League of Women Voters and the New York York Health Act",
+    "link": "https://hostos.event.cuny.edu/events/IqqVD7SbWUhzSPMVbOzn/2eqCUufaYpxj0SPPbZJ9",
+    "college": "Hostos Community College",
+    "date": "Mon Apr 07 2025",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Sisterhood Self Care Day",
+    "link": "https://hostos.event.cuny.edu/events/JKqsWmTt8XfpFZchgEHi/2ohc4JFpcYaFBYojTZPh",
+    "college": "Hostos Community College",
+    "date": "Mon Apr 07 2025",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Hope Program Information Table",
+    "link": "https://hostos.event.cuny.edu/events/HkP1rpHukayE2bEQ2TX3/yJhp8hKWYKOafd8iLuD016",
+    "college": "Hostos Community College",
+    "date": "Mon Apr 07 2025",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
     "title": "Refresh Your Resume Webinar - Afternoon Session",
     "link": "https://sps.cuny.edu/about/events/refresh-your-resume-webinar-afternoon-session",
     "college": "CUNY School of Professional Studies",
@@ -4190,14 +4216,6 @@
     "tags": []
   },
   {
-    "title": "Sweet Club Meetings",
-    "link": "https://www.york.cuny.edu/events/2024/sweet-club-meetings",
-    "college": "York College",
-    "date": "March 30, 2025",
-    "time": "10:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
     "title": "R2T4 60% date for the term",
     "link": "https://www.york.cuny.edu/registrar/calendar/spring/r2t4-60-date-for-the-term",
     "college": "York College",
@@ -4339,6 +4357,14 @@
     "college": "York College",
     "date": "April 3, 2025",
     "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Sweet Club Meetings",
+    "link": "https://www.york.cuny.edu/events/2024/sweet-club-meetings",
+    "college": "York College",
+    "date": "April 6, 2025",
+    "time": "10:00 PM - 11:00 PM",
     "tags": []
   }
 ]
