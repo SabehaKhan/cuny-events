@@ -1,13 +1,5 @@
 [
   {
-    "title": "LGBTQ+ Peer Support Group",
-    "link": "https://www.ccny.cuny.edu/calendar/lgbtq-peer-support-group-45",
-    "college": "City College of New York",
-    "date": "2025-04-02",
-    "time": "11:30 AM - 12:30 PM",
-    "tags": []
-  },
-  {
     "title": "We Want the Funk!",
     "link": "https://www.ccny.cuny.edu/calendar/we-want-funk",
     "college": "City College of New York",
@@ -680,16 +672,6 @@
     "tags": []
   },
   {
-    "title": "Eid Ul Fitr Celebration",
-    "link": "https://www.mec.cuny.edu/event/eid-ul-fitr-celebration/",
-    "college": "Medgar Evers College",
-    "date": "2025-04-02",
-    "time": "11:30 AM - 02:00 PM",
-    "tags": [
-      "Student Life"
-    ]
-  },
-  {
     "title": "Advancing Criminal and Social Justice through Higher Education and Social Work Conference",
     "link": "https://www.mec.cuny.edu/event/advancing-criminal-and-social-justice-through-higher-education-and-social-work-conference/",
     "college": "Medgar Evers College",
@@ -772,35 +754,6 @@
     ]
   },
   {
-    "title": "El Ritmo es la Ley: Weekly Latin Dance Classes",
-    "link": "https://www.law.cuny.edu/event/el-ritmo-es-la-ley-weekly-latin-dance-classes/2025-04-02/",
-    "college": "CUNY School of Law",
-    "date": "2025-04-02",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Presentation on the Skadden Fellowship",
-    "link": "https://www.law.cuny.edu/event/presentation-on-the-skadden-fellowship/",
-    "college": "CUNY School of Law",
-    "date": "2025-04-02",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Info Session",
-      "Panel Discussion"
-    ]
-  },
-  {
-    "title": "Colaboración Clínica EEUU-México: Políticas Migratorias en la Frontera y el Interior EEUU-México",
-    "link": "https://www.law.cuny.edu/event/colaboracion-clinica-eeuu-mexico-politicas-migratorias-en-la-frontera-y-el-interior-eeuu-mexico/",
-    "college": "CUNY School of Law",
-    "date": "2025-04-02",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Homepage Feature"
-    ]
-  },
-  {
     "title": "REFORMA: Organizing @ CUNY Panel",
     "link": "https://www.law.cuny.edu/event/reforma-organizing-cuny-panel/",
     "college": "CUNY School of Law",
@@ -857,6 +810,14 @@
     "tags": [
       "Meeting"
     ]
+  },
+  {
+    "title": "Racialized State Surveillance of Arabs + Muslims - Film Screening",
+    "link": "https://www.law.cuny.edu/event/racialized-state-surveillance-of-arabs-muslims-film-screening-2/",
+    "college": "CUNY School of Law",
+    "date": "2025-04-10",
+    "time": "05:00 PM - 09:00 PM",
+    "tags": []
   },
   {
     "title": "Racialized State Surveillance of Arabs + Muslims - Film Screening",
@@ -1939,40 +1900,6 @@
     "tags": []
   },
   {
-    "title": "Job and Internship Fair",
-    "link": "https://www.laguardia.edu/event/job-and-internship-fair/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-02",
-    "time": "11:00 AM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "student events"
-    ]
-  },
-  {
-    "title": "BMEC Movie Day: Mufasa: The Lion King",
-    "link": "https://www.laguardia.edu/event/bmec-movie-day-mufasa-the-lion-king/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-02",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "500 Words of April",
-    "link": "https://www.laguardia.edu/event/500-words-of-april/2025-04-02/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-02",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "IYQ'25 Conference",
     "link": "https://www.laguardia.edu/event/iyq25-conference/",
     "college": "LaGuardia Community College",
@@ -2101,6 +2028,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-04-04",
     "time": "12:30 PM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "QSTEM Lounge - Résumé, Cover Letter and Interview Skills Workshop",
+    "link": "https://www.laguardia.edu/event/qstem-lounge-resume-cover-letter-and-interview-skills-workshop/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-04",
+    "time": "03:00 PM - 05:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2273,6 +2211,29 @@
     "tags": [
       "all calendars",
       "community & business events",
+      "student events"
+    ]
+  },
+  {
+    "title": "Black Empowerment Summit 2025 Workshop: Knowledge is Power: Leveraging Education for Success",
+    "link": "https://www.laguardia.edu/event/black-empowerment-summit-2025-workshop-knowledge-is-power-leveraging-education-for-success/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-09",
+    "time": "02:00 PM - 03:15 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "student events"
+    ]
+  },
+  {
+    "title": "Crack the Code for Being a Successful Student",
+    "link": "https://www.laguardia.edu/event/crack-the-code-for-being-a-successful-student-3/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-09",
+    "time": "02:15 PM - 03:15 PM",
+    "tags": [
+      "all calendars",
       "student events"
     ]
   },
@@ -2594,20 +2555,6 @@
     ]
   },
   {
-    "title": "Internship Power Hour",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376115",
-    "college": "Guttman Community College",
-    "date": "2025-04-17",
-    "time": "07:00 PM - 08:30 PM",
-    "tags": [
-      "CCPP",
-      "Career Workshop",
-      "Information Session",
-      "Discussion",
-      "Food - Light Refreshments "
-    ]
-  },
-  {
     "title": "Grizzlies Spring Connections Lunch",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=375996",
     "college": "Guttman Community College",
@@ -2657,6 +2604,18 @@
     ]
   },
   {
+    "title": "Art Swap",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376187",
+    "college": "Guttman Community College",
+    "date": "2025-04-22",
+    "time": "03:30 PM - 05:00 PM",
+    "tags": [
+      "PLP",
+      "Cultural/Heritage",
+      "Student Life"
+    ]
+  },
+  {
     "title": "The Writing Process Workshop Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376075",
     "college": "Guttman Community College",
@@ -2691,6 +2650,46 @@
       "Athletic/Sports",
       "United Men of Color",
       "Sporting Event"
+    ]
+  },
+  {
+    "title": "New York Mets Game - Phillies @ Mets |  $5 Collateral/Deposit Required",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376186",
+    "college": "Guttman Community College",
+    "date": "2025-04-22",
+    "time": "11:10 PM - 01:45 AM",
+    "tags": [
+      "WOG",
+      "Athletic/Sports",
+      "Women of GRIT",
+      "United Men of Color",
+      "Student Life",
+      "Sporting Event",
+      "Off-Campus"
+    ]
+  },
+  {
+    "title": "Navigate360 Workshop",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376184",
+    "college": "Guttman Community College",
+    "date": "2025-04-23",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "ASC",
+      "Workshop",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Navigate360 Workshop",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376185",
+    "college": "Guttman Community College",
+    "date": "2025-04-24",
+    "time": "04:30 PM - 05:30 PM",
+    "tags": [
+      "ASC",
+      "Workshop",
+      "Tutoring"
     ]
   },
   {
@@ -2752,6 +2751,20 @@
       "Educational/Awareness",
       "AccessABILITY Services",
       "Disability Awareness Month"
+    ]
+  },
+  {
+    "title": "Internship Power Hour",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376188",
+    "college": "Guttman Community College",
+    "date": "2025-04-24",
+    "time": "07:00 PM - 08:30 PM",
+    "tags": [
+      "CCPP",
+      "Career Workshop",
+      "Information Session",
+      "Discussion",
+      "Food - Light Refreshments "
     ]
   },
   {
@@ -2977,7 +2990,8 @@
     "tags": [
       "OSL",
       "Leadership",
-      "APIDA Heritage Month"
+      "APIDA Heritage Month",
+      "Women of GRIT"
     ]
   },
   {
@@ -3234,7 +3248,7 @@
   },
   {
     "title": "Internship Power Hour",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376118",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376191",
     "college": "Guttman Community College",
     "date": "2025-06-05",
     "time": "07:00 PM - 08:30 PM",
@@ -3270,9 +3284,9 @@
   },
   {
     "title": "Internship Power Hour",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376119",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376192",
     "college": "Guttman Community College",
-    "date": "2025-06-19",
+    "date": "2025-06-26",
     "time": "07:00 PM - 08:30 PM",
     "tags": [
       "CCPP",
@@ -3348,6 +3362,17 @@
     ]
   },
   {
+    "title": "Annual Autism Awareness Walk",
+    "link": "https://events.cuny.edu/cec/annual-autism-awareness-walk/",
+    "college": "The University",
+    "date": "April 2, 2025",
+    "time": "2:00 PM",
+    "tags": [
+      "Disability and Accessibility",
+      "Students with Disabilities"
+    ]
+  },
+  {
     "title": "Relationship Skills: Effective Communication",
     "link": "https://events.cuny.edu/cec/relationship-skills-effective-communication/",
     "college": "York College",
@@ -3372,14 +3397,6 @@
     "tags": [
       "Stanley Nelson"
     ]
-  },
-  {
-    "title": "Environmental Justice Film Screening",
-    "link": "https://lehman.edu/events/2025/Environmental-Justice-Film-Screening-1.php",
-    "college": "Lehman College",
-    "date": "April 2, 2025",
-    "time": "3:45 PM - 5:15 PM",
-    "tags": []
   },
   {
     "title": "President's Council Meetings 2024 - 2025",
@@ -4078,6 +4095,14 @@
     "tags": []
   },
   {
+    "title": "Wellness Through Time Management: Creating Space for You",
+    "link": "https://sph.cuny.edu/event/wellness-through-time-management-creating-space-for-you/",
+    "college": "CUNY School of Public Health",
+    "date": "Friday, May 2, 2025",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
     "title": "Career Skills Masterclass: Negotiating the Job Offer with Claudia Ponce",
     "link": "https://sph.cuny.edu/event/career-skills-masterclass-negotiating-the-job-offer-with-claudia-ponce/",
     "college": "CUNY School of Public Health",
@@ -4111,7 +4136,7 @@
   },
   {
     "title": "Environmental Justice Film Screening",
-    "link": "https://www.lehman.edu/events/2025/Environmental-Justice-Film-Screening-1.php",
+    "link": "https://www.lehman.edu/events/2025/Environmental-Justice-Film-Screening.php",
     "college": "Lehman College",
     "date": "April 2, 2025",
     "time": "3:45 PM- 5:15 PM",
@@ -4179,14 +4204,6 @@
     "college": "Lehman College",
     "date": "April 5, 2025",
     "time": "11:00 AM- 3:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Wellness Wednesday - April",
-    "link": "https://www.york.cuny.edu/events/wellness-wednesday-2",
-    "college": "York College",
-    "date": "April 2, 2025",
-    "time": "6:00 PM - 7:00 PM",
     "tags": []
   },
   {
@@ -4339,6 +4356,14 @@
     "college": "York College",
     "date": "April 8, 2025",
     "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Wellness Wednesday - April",
+    "link": "https://www.york.cuny.edu/events/wellness-wednesday-2",
+    "college": "York College",
+    "date": "April 9, 2025",
+    "time": "6:00 PM - 7:00 PM",
     "tags": []
   }
 ]
