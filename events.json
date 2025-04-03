@@ -3187,6 +3187,16 @@
     ]
   },
   {
+    "title": "Wellness Fair",
+    "link": "https://events.cuny.edu/cec/wellness-fair-2/",
+    "college": "College of Staten Island",
+    "date": "April 3, 2025",
+    "time": "12:30 PM - 3:30 PM",
+    "tags": [
+      "Health and Wellness Services"
+    ]
+  },
+  {
     "title": "Bertha Harris Women’s Center Presents Origami II: Bertha vs. Godzilla",
     "link": "https://events.cuny.edu/cec/origami-ii-bertha-vs-godzilla/",
     "college": "College of Staten Island",
@@ -3247,18 +3257,6 @@
     "tags": [
       "Disability and Accessibility",
       "Students with Disabilities"
-    ]
-  },
-  {
-    "title": "William Shakespeare’s “Twelfth Night”",
-    "link": "https://events.cuny.edu/cec/william-shakespeares-twelfth-night/",
-    "college": "College of Staten Island",
-    "date": "April 3, 2025",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": [
-      "Division of Humanities and Social Sciences",
-      "Drama",
-      "Performing and Creative Arts"
     ]
   },
   {
@@ -3758,6 +3756,14 @@
     "tags": []
   },
   {
+    "title": "BSS",
+    "link": "https://hostos.event.cuny.edu/events/oLN5htEjL7GPVIPaSa89/WwKtawynUirYyJKVWykX",
+    "college": "Hostos Community College",
+    "date": "Mon Apr 07 2025",
+    "time": "12:45PM",
+    "tags": []
+  },
+  {
     "title": "Spring 2025 Flag Installation Ceremony",
     "link": "https://hostos.event.cuny.edu/events/LXJO3jmgVoWW6o3yTxjH/sZR9awzhRFlc0aBFEW5F",
     "college": "Hostos Community College",
@@ -3854,14 +3860,6 @@
     "tags": []
   },
   {
-    "title": "Test Flight: Online Learning Simulation",
-    "link": "https://sps.cuny.edu/about/events/test-flight-online-learning-simulation",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-04-10",
-    "time": "04:00 AM",
-    "tags": []
-  },
-  {
     "title": "Faculty Workshop: Advanced Panopto for SPS Faculty",
     "link": "https://sps.cuny.edu/about/events/faculty-workshop-advanced-panopto-for-sps-faculty-0",
     "college": "CUNY School of Professional Studies",
@@ -3875,6 +3873,14 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-04-10",
     "time": "10:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Faculty Workshop: Brightspace - Notifications and the Pulse App",
+    "link": "https://sps.cuny.edu/about/events/faculty-workshop-brightspace-notifications-and-the-pulse-app-0",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-11",
+    "time": "05:00 PM",
     "tags": []
   },
   {
