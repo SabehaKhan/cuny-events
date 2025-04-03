@@ -5,8 +5,16 @@ import ical from "ical";
 import { cleanString } from "./utils/cheerioUtils.js";
 import { URL } from "url";
 import { icalConfigs } from "./utils/icalConfig.js";
-import puppeteer from "puppeteer";
+//import puppeteer from "puppeteer";
+import puppeteer from 'puppeteer-extra';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import fs from "fs";
+
+// Enable stealth mode
+//for scrapeGraduateCenterEvents since
+//it does not work in headless mode
+puppeteer.use(StealthPlugin());
+
 
 function removeDuplicateEvents(events) {
   const seen = new Set();
@@ -112,7 +120,6 @@ export async function fetchEventsFromSite(config, page = 1) {
       } else if (time && time.includes("am")) {
         time = time.split("am")[0].trim() + "am";
       }
-      console.log("Time:", time);
       const timeRegex = /^(1[0-2]|0?[1-9]):[0-5][0-9]\s?(AM|PM|am|pm|a\.m\.|p\.m\.)(\s?-\s?(1[0-2]|0?[1-9]):[0-5][0-9]\s?(AM|PM|am|pm|a\.m\.|p\.m\.))?$/;
       if (!timeRegex.test(time)) {
         console.log(`Invalid time detected: "${time}", setting time to empty.`);
@@ -238,21 +245,90 @@ async function scrapeYorkEvents(cleanString) {
 }
 
 
+async function scrapeGraduateCenterEvents(cleanString) {
+  const browser = await puppeteer.launch({
+    headless: true, // Run in headless mode
+    args: ['--no-sandbox', '--disable-setuid-sandbox'], // Required for CI environments
+  });
+
+  const page = await browser.newPage();
+  await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
+
+  try {
+    await page.goto('https://www.gc.cuny.edu/events', { waitUntil: 'networkidle2', timeout: 60000 });
+    await page.waitForSelector('div.card__content__inner', { timeout: 10000 });
+
+    const cleanStringFunction = cleanString.toString();
+
+    const events = await page.evaluate((cleanStringFunction) => {
+      const cleanString = new Function('return ' + cleanStringFunction)();
+
+      return Array.from(document.querySelectorAll('div.card__content__inner')).map(event => {
+        const dateElement = event.querySelector('div.start_date');
+        const month = dateElement?.childNodes[0]?.nodeValue.trim() || '';
+        const day = dateElement?.querySelector('span.h3')?.innerText.trim() || '';
+        const year = new Date().getFullYear();
+        const date = `${month} ${day}, ${year}`;
+
+        const title = cleanString(event.querySelector('h3.card__title a')?.innerText.trim() || '');
+        const link = event.querySelector('h3.card__title a')?.href || '';
+        const time = event.querySelector('span.card__time')?.innerText.trim() || '';
+        const tags = Array.from(event.querySelectorAll('ul.tags li')).map(tag =>
+          cleanString(tag.innerText.trim())
+        );
+        const location = cleanString(
+          event.querySelector('span.card__location')?.innerText.trim() || ''
+        );
+
+        return {
+          title,
+          link: link.startsWith('/') ? `https://www.gc.cuny.edu${link}` : link,
+          college: 'CUNY Graduate Center',
+          date,
+          time,
+          location,
+          tags,
+        };
+      });
+    }, cleanStringFunction);
+
+    return events;
+  } catch (error) {
+    console.error('Error scraping Graduate Center events:', error);
+    return [];
+  } finally {
+    await browser.close();
+  }
+}
 function removePastEvents(events) {
   const today = new Date();
-  today.setHours(0, 0, 0, 0); // normalize to start of today
+  today.setHours(0, 0, 0, 0); // Normalize to the start of today
 
   return events.filter((event) => {
-    if (!event.date) return false; // skip if no date available
+    console.log(`Original Event date: ${event.date}, Title: ${event.title}`); // Log the original event date and title
 
-    const eventDate = new Date(event.date);
-    if (isNaN(eventDate.getTime())) {
-      console.warn(`Unable to parse date for event: ${event.title}`);
-      return false; // skip events with invalid date formats
+    if (!event.date) {
+      console.warn(`Skipping event without a date: ${event.title}`);
+      return false; // Skip if no date is available
     }
 
-    // Keep event if its date is today or in the future.
-    return eventDate >= today;
+    // Normalize the date to YYYY-MM-DD format
+    let normalizedDate;
+    try {
+      const parsedDate = new Date(event.date);
+      if (isNaN(parsedDate.getTime())) {
+        throw new Error(`Invalid date format: ${event.date}`);
+      }
+      normalizedDate = parsedDate.toISOString().split('T')[0]; // Convert to YYYY-MM-DD
+    } catch (error) {
+      console.warn(`Unable to parse date for event: ${event.title}, Date: ${event.date}`);
+      return false; // Skip events with invalid date formats
+    }
+
+    console.log(`Normalized Event date: ${normalizedDate}, Title: ${event.title}`); // Log the normalized date
+
+    // Keep the event if its date is today or in the future
+    return new Date(normalizedDate) >= today;
   });
 }
 
@@ -272,6 +348,7 @@ function removeEventsWithKeywords(events) {
 export async function fetchAllEvents() {
   const allEvents = [];
   // Fetch ICS events
+  
   for (const config of icalConfigs) {
     if (config.icsUrl) {
       // console.log(`Fetching ICS events for ${config.collegeName}...`);
@@ -294,6 +371,9 @@ export async function fetchAllEvents() {
   }
   const yorkEvents = await scrapeYorkEvents(cleanString);
   allEvents.push(...yorkEvents);
+
+  const graduateCenterEvents = await scrapeGraduateCenterEvents(cleanString);
+  allEvents.push(...graduateCenterEvents);
 
   // Remove events from the past
   const futureEvents = removePastEvents(allEvents);
