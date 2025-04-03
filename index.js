@@ -93,7 +93,18 @@ export async function fetchEventsFromSite(config, page = 1) {
         }
       }
       else {
-        date = cleanString($(element).find(config.dateSelector).text() || null);
+        //date = cleanString($(element).find(config.dateSelector).text() || null);
+        if (config.dateSelector) {
+          const dateText = cleanString($(element).find(config.dateSelector).text() || null);
+        
+          if (dateText && dateText.includes("-")) {
+            // Handle date ranges like "April 9, 2025 - April 13, 2025"
+            const [startDate] = dateText.split("-").map(part => part.trim());
+            date = startDate; // Use the start date for filtering
+          } else {
+            date = dateText; // Use the single date if no range is present
+          }
+        }
         time = cleanString($(element).find(config.timeSelector).text() || null);
        
         
@@ -320,6 +331,7 @@ function removePastEvents(events) {
         throw new Error(`Invalid date format: ${event.date}`);
       }
       normalizedDate = parsedDate.toISOString().split('T')[0]; // Convert to YYYY-MM-DD
+      event.date= normalizedDate;
     } catch (error) {
       console.warn(`Unable to parse date for event: ${event.title}, Date: ${event.date}`);
       return false; // Skip events with invalid date formats
@@ -334,7 +346,7 @@ function removePastEvents(events) {
 
 
 function removeEventsWithKeywords(events) {
-  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED","No Classes","Out of Comission","HOLDs","Canceled","LALS","SPST 3963-003","Exam Review","Registration Opens","Recess","Closed"]; 
+  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED","No Classes","Out of Comission","HOLDs","Canceled","LALS","SPST 3963-003","Exam Review","Registration Opens","Recess","Closed","Pre-Registration","Registration"]; 
   return events.filter(event => {
     const title = event.title.toLowerCase();
     const hasKeyword = keywords.some(keyword => title.includes(keyword.toLowerCase()));

@@ -109,5 +109,16 @@ export const siteConfigs = [
     descriptionSelector: "div.teaser__detailed__node__body",
     tagsSelector: "", // No tags found in the provided HTML
   },
+  {
+    baseUrl: "https://macaulay.cuny.edu/news-events/calendar-of-events/",
+    eventItemSelector: "article.espresso_events",
+    titleSelector: "header.event-header h2.entry-title a",
+    linkSelector: "header.event-header h2.entry-title a",
+    collegeName: "Macaulay Honors College",
+    dateSelector: "span.ee-event-datetimes-li-daterange",
+    timeSelector: "span.ee-event-datetimes-li-timerange",
+    descriptionSelector: "div.event-content p",
+    tagsSelector: "", // No tags found in the provided HTML
+}
 
 ];
