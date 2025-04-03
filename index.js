@@ -311,6 +311,55 @@ async function scrapeGraduateCenterEvents(cleanString) {
     await browser.close();
   }
 }
+
+async function scrapeQCCEvents() {
+  const url = "https://www.qcc.cuny.edu/calendar/views/2025/index.html";
+
+  try {
+    const { data } = await axios.get(url);
+    const $ = cheerio.load(data);
+    const events = [];
+
+    $("div.col-sm-6").each((_i, element) => {
+      const title = cleanString($(element).find("a.newstitle").text().trim());
+      const relativeLink = $(element).find("a.newstitle").attr("href") || null;
+
+      // Convert relative link to absolute URL
+      const link = relativeLink
+        ? new URL(relativeLink.replace("../../", ""), "https://www.qcc.cuny.edu/calendar/").href
+        : null;
+
+      const dateTimeText = $(element).find("time").text().trim();
+      const [date, timeRange] = dateTimeText.includes("|")
+        ? dateTimeText.split("|").map(part => part.trim())
+        : [dateTimeText.trim(), null]; // Handle cases where time is missing
+
+      // Clean up the time field if it exists
+      let cleanedTime = timeRange ? timeRange.replace(/\s+/g, " ").trim() : "";
+
+      // Replace "to" with "-" in the time field
+      if (cleanedTime.includes("to")) {
+        cleanedTime = cleanedTime.replace(/\sto\s/g, " - ");
+      }
+
+      const description = $(element).find("span").text().trim();
+
+      events.push({
+        title,
+        link,
+        college: "Queensborough Community College",
+        date,
+        time: cleanedTime,
+        description,
+      });
+    });
+
+    return events;
+  } catch (error) {
+    console.error("Error scraping QCC events:", error);
+    return [];
+  }
+}
 function removePastEvents(events) {
   const today = new Date();
   today.setHours(0, 0, 0, 0); // Normalize to the start of today
@@ -386,6 +435,8 @@ export async function fetchAllEvents() {
 
   const graduateCenterEvents = await scrapeGraduateCenterEvents(cleanString);
   allEvents.push(...graduateCenterEvents);
+  const QCCEvents=await scrapeQCCEvents();
+  allEvents.push(...QCCEvents);
 
   // Remove events from the past
   const futureEvents = removePastEvents(allEvents);

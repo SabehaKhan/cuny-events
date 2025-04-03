@@ -119,6 +119,7 @@ export const siteConfigs = [
     timeSelector: "span.ee-event-datetimes-li-timerange",
     descriptionSelector: "div.event-content p",
     tagsSelector: "", // No tags found in the provided HTML
-}
+},
+
 
 ];
