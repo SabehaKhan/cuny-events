@@ -30,6 +30,7 @@ export const siteConfigs = [
     timeSelector: '[data-test="event-date-time"] span[aria-label*="Event starts at"]',
     tagsSelector: ".tags a",
   },
+  //ical test
   {
     baseUrl: "https://slu.event.cuny.edu/upcoming",
     eventItemSelector: '[data-test="event-card"]',

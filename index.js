@@ -446,9 +446,12 @@ export async function fetchAllEvents() {
   const futureEvents = removePastEvents(allEvents);
   // Remove events with specific keywords
   const filteredEvents = removeEventsWithKeywords(futureEvents);
-
+   // Remove events with invalid time
+   const validTimeEvents = removeEventsWithInvalidTime(filteredEvents);
+   // Deduplicate the events
+   const uniqueEvents = removeDuplicateEvents(validTimeEvents); 
   // Deduplicate the events
-  const uniqueEvents = removeDuplicateEvents(filteredEvents);
+  //const uniqueEvents = removeDuplicateEvents(filteredEvents);
   console.log(`Total events fetched: ${allEvents.length}`);
   console.log(`Total future events: ${futureEvents.length}`);
   console.log(`Total filtered events: ${filteredEvents.length}`);
@@ -456,6 +459,15 @@ export async function fetchAllEvents() {
   // console.log("Unique events:", uniqueEvents);
   return uniqueEvents;
 
+}
+function removeEventsWithInvalidTime(events) {
+  return events.filter(event => {
+    if (event.time === "12:00 AM - 12:00 AM") {
+      console.log(`Removing event with invalid time: "${event.title}"`);
+      return false; // Exclude events with invalid time
+    }
+    return true; // Include valid events
+  });
 }
 
 // Execute the scraper and save the results to events.json

@@ -43,4 +43,9 @@ export const icalConfigs = [
         collegeName:"College of Staten Island",
         icsUrl: "https://csi.campuslabs.com/engage/events.ics",
     },
+    //CUNY School of Labor and Urban Studies
+    // {
+    //     collegeName: "CUNY School of Labor and Urban Studies",
+    //     icsUrl: "https://calendar.google.com/calendar/ical/cunyslustudentservices@gmail.com/public/basic.ics",
+    // },
 ];
