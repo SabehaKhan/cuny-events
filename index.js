@@ -334,7 +334,7 @@ function removePastEvents(events) {
 
 
 function removeEventsWithKeywords(events) {
-  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED","No Classes","Out of Comission","HOLDs","Canceled","LALS","SPST 3963-003","Exam Review","Registration Opens"]; 
+  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED","No Classes","Out of Comission","HOLDs","Canceled","LALS","SPST 3963-003","Exam Review","Registration Opens","Recess","Closed"]; 
   return events.filter(event => {
     const title = event.title.toLowerCase();
     const hasKeyword = keywords.some(keyword => title.includes(keyword.toLowerCase()));
