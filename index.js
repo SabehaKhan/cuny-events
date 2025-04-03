@@ -1,4 +1,5 @@
 import axios from "axios";
+import https from "https";
 import * as cheerio from "cheerio";
 import { siteConfigs } from "./config.js";
 import ical from "ical";
@@ -176,9 +177,12 @@ export async function fetchEventsFromSite(config, page = 1) {
 
 async function fetchICSEvents(icsUrl, collegeName) {
   try {
-    const { data } = await axios.get(icsUrl);
+    const agent = new https.Agent({
+      rejectUnauthorized: false, // Ignore SSL certificate errors
+    });
+
+    const { data } = await axios.get(icsUrl, { httpsAgent: agent });
     const parsedData = ical.parseICS(data);
-    //console.log("Parsed ICS data:", parsedData);
     const events = [];
 
     for (const key in parsedData) {
@@ -212,7 +216,6 @@ async function fetchICSEvents(icsUrl, collegeName) {
     return [];
   }
 }
-
 async function scrapeYorkEvents(cleanString) {
   const browser = await puppeteer.launch({
     headless: true,
@@ -395,7 +398,7 @@ function removePastEvents(events) {
 
 
 function removeEventsWithKeywords(events) {
-  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED","No Classes","Out of Comission","HOLDs","Canceled","LALS","SPST 3963-003","Exam Review","Registration Opens","Recess","Closed","Pre-Registration","Registration"]; 
+  const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED","No Classes","Out of Comission","HOLDs","Canceled","LALS","SPST 3963-003","Exam Review","Registration Opens","Recess","Closed","Pre-Registration","Registration","Committee","Last Day","tentative","Meeting","Council"]; 
   return events.filter(event => {
     const title = event.title.toLowerCase();
     const hasKeyword = keywords.some(keyword => title.includes(keyword.toLowerCase()));
@@ -426,6 +429,7 @@ export async function fetchAllEvents() {
   }
 
   // Fetch events from configured sites
+
   for (const config of siteConfigs) {
     const events = await fetchEventsFromSite(config);
     allEvents.push(...events);

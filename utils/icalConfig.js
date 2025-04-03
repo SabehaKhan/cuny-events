@@ -34,5 +34,9 @@ export const icalConfigs = [
     {
         collegeName: "Borough of Manhattan Community College",
         icsUrl:"https://www.bmcc.cuny.edu/events-calendar/list/?hide_subsequent_recurrences=1&ical=1",
-    }
+    },
+    {
+        collegeName:"Bronx Community College",
+        icsUrl: "https://www.bcc.cuny.edu/events/list/?ical=1",
+    },
 ];
