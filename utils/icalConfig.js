@@ -31,4 +31,8 @@ export const icalConfigs = [
         collegeName: "Hunter College",
         icsUrl:"https://hunter.cuny.edu/events/list/?ical=1",
     },
+    {
+        collegeName: "Borough of Manhattan Community College",
+        icsUrl:"https://www.bmcc.cuny.edu/events-calendar/list/?hide_subsequent_recurrences=1&ical=1",
+    }
 ];

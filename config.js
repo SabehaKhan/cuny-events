@@ -69,15 +69,6 @@ export const siteConfigs = [
       dateTimeSelector: ".tribe-events-calendar-list__event-datetime",
       tagsSelector: ".tribe-events-calendar-list__event article",
     },
-      {
-    collegeName: "Borough of Manhattan Community College",
-    baseUrl: "https://www.bmcc.cuny.edu/events-calendar/",
-    eventItemSelector: ".tribe-events-calendar-list__event-details",
-    titleSelector: ".tribe-events-calendar-list__event-title a",
-    linkSelector: ".tribe-events-calendar-list__event-title a",
-    dateTimeSelector: ".tribe-events-calendar-list__event-datetime",
-    tagsSelector: "",
-  },
   {
     baseUrl: "https://sps.cuny.edu/about/events",
     eventItemSelector: "div.views-row",
@@ -106,6 +97,17 @@ export const siteConfigs = [
     dateSelector: "p.eventsListing__block__desc__date span",
     timeSelector: "p.eventsListing__block__desc__time",
     tagsSelector: "", 
+  },
+  {
+    baseUrl: "https://www.jjay.cuny.edu/news-events/events",
+    eventItemSelector: "div.views-row.teaser-card",
+    titleSelector: "div.card__title h3",
+    linkSelector: "div.card__title a",
+    collegeName: "John Jay College of Criminal Justice",
+    dateTimeObjectSelector: "div.event__date time",
+    locationSelector: "div.card__location div",
+    descriptionSelector: "div.teaser__detailed__node__body",
+    tagsSelector: "", // No tags found in the provided HTML
   },
 
 ];
