@@ -39,4 +39,8 @@ export const icalConfigs = [
         collegeName:"Bronx Community College",
         icsUrl: "https://www.bcc.cuny.edu/events/list/?ical=1",
     },
+    {
+        collegeName:"College of Staten Island",
+        icsUrl: "https://csi.campuslabs.com/engage/events.ics",
+    },
 ];
