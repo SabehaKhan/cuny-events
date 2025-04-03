@@ -30,17 +30,17 @@ export const siteConfigs = [
     timeSelector: '[data-test="event-date-time"] span[aria-label*="Event starts at"]',
     tagsSelector: ".tags a",
   },
-  //ical test
-  {
-    baseUrl: "https://slu.event.cuny.edu/upcoming",
-    eventItemSelector: '[data-test="event-card"]',
-    titleSelector: 'a.text-black.font-bold',
-    linkSelector: 'a.text-black.font-bold',
-    collegeName: "CUNY School of Labor and Urban Studies", 
-    dateSelector: '[data-test="event-date-time"] span[aria-label*="Event date"]',
-    timeSelector: '[data-test="event-date-time"] span[aria-label*="Event starts at"]',
-    tagsSelector: ".tags a",
-  },
+  //using ical in individual function
+  // {
+  //   baseUrl: "https://slu.event.cuny.edu/upcoming",
+  //   eventItemSelector: '[data-test="event-card"]',
+  //   titleSelector: 'a.text-black.font-bold',
+  //   linkSelector: 'a.text-black.font-bold',
+  //   collegeName: "CUNY School of Labor and Urban Studies", 
+  //   dateSelector: '[data-test="event-date-time"] span[aria-label*="Event date"]',
+  //   timeSelector: '[data-test="event-date-time"] span[aria-label*="Event starts at"]',
+  //   tagsSelector: ".tags a",
+  // },
   {
     baseUrl: "https://citytech.event.cuny.edu/upcoming",
     eventItemSelector: '[data-test="event-card"]',

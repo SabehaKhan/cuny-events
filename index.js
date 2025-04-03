@@ -363,6 +363,57 @@ async function scrapeQCCEvents() {
     return [];
   }
 }
+
+async function fetchSLUEvents() {
+  const icsUrl = "https://calendar.google.com/calendar/ical/cunyslustudentservices@gmail.com/public/basic.ics";
+  const collegeName = "CUNY School of Labor and Urban Studies";
+
+  try {
+    const { data } = await axios.get(icsUrl);
+    const parsedData = ical.parseICS(data);
+    const events = [];
+
+    for (const key in parsedData) {
+      const event = parsedData[key];
+
+      if (event.type === "VEVENT") {
+        const startDate = new Date(event.start);
+        const endDate = new Date(event.end);
+        const startTime = startDate.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+        const endTime = endDate.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+
+        let title = event.summary || "Untitled Event";
+        if (typeof title === "object" && "val" in title) {
+          title = title.val;
+        }
+
+        // Extract link from the description if it exists
+        let link = "";
+        if (event.description) {
+          const linkMatch = event.description.match(/href="([^"]+)"/);
+          if (linkMatch) {
+            link = linkMatch[1]; // Extract the href value
+          }
+        }
+
+        events.push({
+          title: cleanString(title),
+          link: link || "", // Use the extracted link or leave it empty
+          college: collegeName,
+          date: startDate.toISOString().split("T")[0],
+          time: `${startTime} - ${endTime}`,
+          description: event.description || "",
+        });
+      }
+    }
+
+    return events;
+  } catch (error) {
+    console.error(`Error fetching SLU events from ${icsUrl}:`, error);
+    return [];
+  }
+}
+
 function removePastEvents(events) {
   const today = new Date();
   today.setHours(0, 0, 0, 0); // Normalize to the start of today
@@ -395,7 +446,15 @@ function removePastEvents(events) {
     return new Date(normalizedDate) >= today;
   });
 }
-
+function removeEventsWithoutTitleOrLink(events) {
+  return events.filter(event => {
+    if (!event.title || !event.link) {
+      console.log(`Removing event missing title or link: Title="${event.title || "N/A"}", Link="${event.link || "N/A"}"`);
+      return false; // Exclude events without a title or link
+    }
+    return true; // Include events with both title and link
+  });
+}
 
 function removeEventsWithKeywords(events) {
   const keywords = ["D75 Program", "Faculty Meeting", "COLLEGE CLOSED","No Classes","Out of Comission","HOLDs","Canceled","LALS","SPST 3963-003","Exam Review","Registration Opens","Recess","Closed","Pre-Registration","Registration","Committee","Last Day","tentative","Meeting","Council","Submit","Drop","Deadline"]; 
@@ -441,6 +500,9 @@ export async function fetchAllEvents() {
   allEvents.push(...graduateCenterEvents);
   const QCCEvents=await scrapeQCCEvents();
   allEvents.push(...QCCEvents);
+  const sluEvents = await fetchSLUEvents();
+  allEvents.push(...sluEvents);
+
 
   // Remove events from the past
   const futureEvents = removePastEvents(allEvents);
@@ -448,13 +510,17 @@ export async function fetchAllEvents() {
   const filteredEvents = removeEventsWithKeywords(futureEvents);
    // Remove events with invalid time
    const validTimeEvents = removeEventsWithInvalidTime(filteredEvents);
+  
+  
+   // Remove events missing title or link
+   const eventsWithTitleAndLink = removeEventsWithoutTitleOrLink(validTimeEvents);
    // Deduplicate the events
-   const uniqueEvents = removeDuplicateEvents(validTimeEvents); 
-  // Deduplicate the events
-  //const uniqueEvents = removeDuplicateEvents(filteredEvents);
+   const uniqueEvents = removeDuplicateEvents(eventsWithTitleAndLink);
+   //const uniqueEvents = removeDuplicateEvents(filteredEvents);
   console.log(`Total events fetched: ${allEvents.length}`);
   console.log(`Total future events: ${futureEvents.length}`);
   console.log(`Total filtered events: ${filteredEvents.length}`);
+  console.log(`Total events with title and link: ${eventsWithTitleAndLink.length}`);
   console.log(`Total unique events: ${uniqueEvents.length}`);
   // console.log("Unique events:", uniqueEvents);
   return uniqueEvents;
