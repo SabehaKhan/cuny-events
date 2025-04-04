@@ -1,13 +1,5 @@
 [
   {
-    "title": "4th Annual CUNY LGBTQI+ Student Conference",
-    "link": "https://www.ccny.cuny.edu/calendar/4th-annual-cuny-lgbtqi-student-conference",
-    "college": "City College of New York",
-    "date": "2025-04-04",
-    "time": "09:00 AM - 06:00 PM",
-    "tags": []
-  },
-  {
     "title": "Frame Forward CUNY Student Video Festival | Submissions Ongoing",
     "link": "https://www.ccny.cuny.edu/calendar/frame-forward-cuny-student-video-festival",
     "college": "City College of New York",
@@ -21,6 +13,14 @@
     "college": "City College of New York",
     "date": "2025-04-07",
     "time": "12:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Panel Discussion: The Harlem African Burial Ground",
+    "link": "https://www.ccny.cuny.edu/calendar/panel-discussion-harlem-african-burial-ground",
+    "college": "City College of New York",
+    "date": "2025-04-07",
+    "time": "06:00 PM - 08:00 PM",
     "tags": []
   },
   {
@@ -69,6 +69,14 @@
     "college": "City College of New York",
     "date": "2025-04-09",
     "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Planetarium Show: Voyage to the Center of the Milky Way",
+    "link": "https://www.ccny.cuny.edu/calendar/planetarium-show-voyage-center-milky-way-0",
+    "college": "City College of New York",
+    "date": "2025-04-09",
+    "time": "03:30 PM - 04:30 PM",
     "tags": []
   },
   {
@@ -678,16 +686,6 @@
     "tags": []
   },
   {
-    "title": "Stress Management for Beginners",
-    "link": "https://www.law.cuny.edu/event/stress-management-for-beginners/",
-    "college": "CUNY School of Law",
-    "date": "2025-04-11",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Workshop"
-    ]
-  },
-  {
     "title": "Meet & Greet with Chief Admin Judge Ally: Learn about Trial Level Court Attorney/Law Clerk Positions",
     "link": "https://www.law.cuny.edu/event/meet-greet-with-chief-admin-judge-ally-learn-about-trial-level-court-attorney-law-clerk-positions/",
     "college": "CUNY School of Law",
@@ -724,6 +722,16 @@
     "tags": [
       "Faculty",
       "Student",
+      "Workshop"
+    ]
+  },
+  {
+    "title": "Stress Management for Beginners",
+    "link": "https://www.law.cuny.edu/event/stress-management-for-beginners/",
+    "college": "CUNY School of Law",
+    "date": "2025-04-18",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
       "Workshop"
     ]
   },
@@ -1417,6 +1425,14 @@
     "tags": []
   },
   {
+    "title": "Wellness Center",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a725da58-4f15-4be9-a27e-d09398b38726",
+    "college": "Kingsborough Community College",
+    "date": "2025-04-08",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
     "title": "Black Empowerment Summit 2025: Collage Making Competition",
     "link": "https://www.laguardia.edu/event/black-empowerment-summit-2025-collage-making-competition/",
     "college": "LaGuardia Community College",
@@ -1435,18 +1451,6 @@
     "time": "09:00 AM - 06:00 PM",
     "tags": [
       "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Book Presentation and Signing: THE DEAN OF NEW THINGS: Bringing Change to CUNY and New York City",
-    "link": "https://www.laguardia.edu/event/book-presentation-and-signing-the-dean-of-new-things-bringing-change-to-cuny-and-new-york-city/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-04",
-    "time": "10:00 AM - 11:30 AM",
-    "tags": [
-      "all calendars",
-      "community & business events",
       "student events"
     ]
   },
@@ -1756,6 +1760,17 @@
     ]
   },
   {
+    "title": "Vision Board Workshop",
+    "link": "https://www.laguardia.edu/event/vision-board-workshop-2/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-10",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "2025 CUNY LGBTQI+ Student Conference",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=375814",
     "college": "Guttman Community College",
@@ -1884,6 +1899,18 @@
       "Educational/Awareness",
       "Disability Awareness Month",
       "AccessABILITY Services"
+    ]
+  },
+  {
+    "title": "Manis and Mingle",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376193",
+    "college": "Guttman Community College",
+    "date": "2025-04-10",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "PLP",
+      "Cultural/Heritage",
+      "Student Life"
     ]
   },
   {
@@ -2160,6 +2187,20 @@
     ]
   },
   {
+    "title": "Pickle Ball Wednesday's",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376194",
+    "college": "Guttman Community College",
+    "date": "2025-05-07",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": [
+      "OSL",
+      "Athletic/Sports",
+      "APIDA Heritage Month",
+      "Student Life",
+      "Off-Campus"
+    ]
+  },
+  {
     "title": "Guttman Big Read",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376090",
     "college": "Guttman Community College",
@@ -2209,6 +2250,20 @@
     ]
   },
   {
+    "title": "Pickle Ball Wednesday's",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376195",
+    "college": "Guttman Community College",
+    "date": "2025-05-14",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": [
+      "OSL",
+      "Athletic/Sports",
+      "APIDA Heritage Month",
+      "Student Life",
+      "Off-Campus"
+    ]
+  },
+  {
     "title": "Acupuncture",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376123",
     "college": "Guttman Community College",
@@ -2242,6 +2297,20 @@
       "TGG",
       "Social",
       "Student Life"
+    ]
+  },
+  {
+    "title": "Pickle Ball Wednesday's",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376196",
+    "college": "Guttman Community College",
+    "date": "2025-05-21",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": [
+      "OSL",
+      "Athletic/Sports",
+      "APIDA Heritage Month",
+      "Student Life",
+      "Off-Campus"
     ]
   },
   {
@@ -2295,6 +2364,20 @@
     ]
   },
   {
+    "title": "Pickle Ball Wednesday's",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376197",
+    "college": "Guttman Community College",
+    "date": "2025-05-28",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": [
+      "OSL",
+      "Athletic/Sports",
+      "APIDA Heritage Month",
+      "Student Life",
+      "Off-Campus"
+    ]
+  },
+  {
     "title": "Internship Power Hour",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376191",
     "college": "Guttman Community College",
@@ -2309,6 +2392,17 @@
     ]
   },
   {
+    "title": "The Stella Awards Student Ceremony and End of the Year Cruise",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376199",
+    "college": "Guttman Community College",
+    "date": "2025-06-05",
+    "time": "10:00 PM - 03:00 AM",
+    "tags": [
+      "OSL",
+      "Dinner/Gala"
+    ]
+  },
+  {
     "title": "Internship Power Hour",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376192",
     "college": "Guttman Community College",
@@ -2320,16 +2414,6 @@
       "Information Session",
       "Discussion",
       "Food - Light Refreshments "
-    ]
-  },
-  {
-    "title": "RN-to-BS Nursing Program Information Session",
-    "link": "https://hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-3/2025-04-04/",
-    "college": "Hunter College",
-    "date": "2025-04-04",
-    "time": "10:00 AM - 11:30 AM",
-    "tags": [
-      "Open Houses"
     ]
   },
   {
@@ -2545,6 +2629,14 @@
     "tags": []
   },
   {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2/2025-04-16/",
+    "college": "Hunter College",
+    "date": "2025-04-16",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
+  },
+  {
     "title": "Immigrant Advocacy Conference",
     "link": "https://www.bmcc.cuny.edu/event/immigrant-advocacy-conference/2025-04-04/",
     "college": "Borough of Manhattan Community College",
@@ -2563,28 +2655,6 @@
       "Human Services and Criminal Justice",
       "Student Affairs",
       "Teacher Education"
-    ]
-  },
-  {
-    "title": "Good Deeds Week: Unwind Your Anxious Mind",
-    "link": "https://www.bmcc.cuny.edu/event/good-deeds-week-unwind-your-anxious-mind/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-04",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Unwind Your Anxious Mind",
-    "link": "https://www.bmcc.cuny.edu/event/unwind-your-anxious-mind/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-04",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Student Affairs"
     ]
   },
   {
@@ -2814,6 +2884,27 @@
     ]
   },
   {
+    "title": "Healing Rhythms: Drumming Circle",
+    "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle/2025-04-09/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-09",
+    "time": "01:30 PM - 03:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (In-Person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-47/2025-04-09/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-09",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
     "title": "BCC STEM Day",
     "link": "https://www.bcc.cuny.edu/event/bcc-stem-day/",
     "college": "Bronx Community College",
@@ -2898,19 +2989,6 @@
     "date": "2025-05-01",
     "time": "02:00 PM - 03:00 PM",
     "tags": []
-  },
-  {
-    "title": "Hispanic Leadership Conference",
-    "link": "https://csi.campuslabs.com/engage/event/11165357",
-    "college": "College of Staten Island",
-    "date": "2025-04-04",
-    "time": "01:00 PM - 05:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Leadership",
-      "Conference",
-      "Career Development"
-    ]
   },
   {
     "title": "William Shakespeare's Twelfth Night (252067-CC)",
@@ -3073,6 +3151,16 @@
     "college": "College of Staten Island",
     "date": "2025-04-09",
     "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "ThoughtfulLearning"
+    ]
+  },
+  {
+    "title": "Mock Trial",
+    "link": "https://csi.campuslabs.com/engage/event/11232414",
+    "college": "College of Staten Island",
+    "date": "2025-04-09",
+    "time": "08:00 PM - 09:00 PM",
     "tags": [
       "ThoughtfulLearning"
     ]
@@ -3287,19 +3375,6 @@
     ]
   },
   {
-    "title": "Buy Now: Film Screening & Discussion (Double CLUE: 252078-PG & 252068-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/11163209",
-    "college": "College of Staten Island",
-    "date": "2025-04-21",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "Arts",
-      "Double CLUE (1 PG and 1 CC)",
-      "Film and Television",
-      "Sustainability"
-    ]
-  },
-  {
     "title": "Earth Day Documentary Short : Sun Come Up (252027-CC)",
     "link": "https://csi.campuslabs.com/engage/event/10966797",
     "college": "College of Staten Island",
@@ -3310,6 +3385,19 @@
       "CC CLUE",
       "Film and Television",
       "Cultural"
+    ]
+  },
+  {
+    "title": "Buy Now: Film Screening & Discussion (Double CLUE: 252078-PG & 252068-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11163209",
+    "college": "College of Staten Island",
+    "date": "2025-04-22",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "Arts",
+      "Double CLUE (1 PG and 1 CC)",
+      "Film and Television",
+      "Sustainability"
     ]
   },
   {
@@ -3351,7 +3439,7 @@
     ]
   },
   {
-    "title": "Bertha Harris Women's Center Presents Women Scientists Saving the Earth",
+    "title": "Bertha Harris Women's Center Presents Women Scientists Saving the Earth (252079-CC)",
     "link": "https://csi.campuslabs.com/engage/event/11230240",
     "college": "College of Staten Island",
     "date": "2025-04-22",
@@ -3509,6 +3597,16 @@
       "Health and Wellness",
       "Social",
       "Entertainment"
+    ]
+  },
+  {
+    "title": "Bibingka Workshop",
+    "link": "https://csi.campuslabs.com/engage/event/11232411",
+    "college": "College of Staten Island",
+    "date": "2025-04-24",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Cultural"
     ]
   },
   {
@@ -4514,16 +4612,16 @@
     "tags": []
   },
   {
-    "title": "Nursing M.S., Adv. Cert., DNP Information Session",
-    "link": "https://www.lehman.edu/events/2025/Nursing-MS-Adv-Cert-DNP-Information-Session--1.php",
+    "title": "Women in the Mix: Hop Hop's Voices, Beats & Breakthroughs",
+    "link": "https://www.lehman.edu/events/2025/Women-in-the-Mix-Hop-Hops-Voices-Beats--Breakthroughs.php",
     "college": "Lehman College",
     "date": "2025-04-08",
-    "time": "5:30 PM- 7:00 PM",
+    "time": "5:00 PM- 7:00 PM",
     "tags": []
   },
   {
-    "title": "Book Discussion: Class and Inequality in China and India, 1950–2010",
-    "link": "https://www.jjay.cuny.edu/news-events/events/book-discussion-class-and-inequality-china-and-india-1950-2010",
+    "title": "Class & Inequality in China & India, 1950–2010",
+    "link": "https://www.jjay.cuny.edu/news-events/events/class-inequality-china-india-1950-2010",
     "college": "John Jay College of Criminal Justice",
     "date": "2025-04-07",
     "time": "05:40 AM",
@@ -4794,22 +4892,6 @@
     "tags": []
   },
   {
-    "title": "Senior Portraits",
-    "link": "https://www.york.cuny.edu/events/senior-portraits-day",
-    "college": "York College",
-    "date": "2025-04-04",
-    "time": "2:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
-    "college": "York College",
-    "date": "2025-04-04",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "Softball vs. Baruch College",
     "link": "https://www.york.cuny.edu/events/2025/softball-vs-baruch-04042025",
     "college": "York College",
@@ -4823,6 +4905,30 @@
     "college": "York College",
     "date": "2025-04-05",
     "time": "2:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
+    "college": "York College",
+    "date": "2025-04-07",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "The Impact of Social Justice on K-12 Literature",
+    "link": "https://www.york.cuny.edu/events/impact-of-social-justice-on-k-12-literature",
+    "college": "York College",
+    "date": "2025-04-07",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "The Future of DEI in the Current Political Climate",
+    "link": "https://www.york.cuny.edu/events/the-future-of-dei-in-the-current-political-climate",
+    "college": "York College",
+    "date": "2025-04-07",
+    "time": "10:00 PM - 12:00 AM",
     "tags": []
   },
   {
@@ -4852,6 +4958,14 @@
   {
     "title": "The Nursing Program Experience - Part 2",
     "link": "https://www.york.cuny.edu/student-development/fye/the-nursing-program-experience-part-2",
+    "college": "York College",
+    "date": "2025-04-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Get to Know Your Co-pilot!",
+    "link": "https://www.york.cuny.edu/ctlet/calendar/episode-2-get-to-know-your-co-pilot",
     "college": "York College",
     "date": "2025-04-08",
     "time": "4:00 PM - 6:00 PM",
@@ -4903,30 +5017,6 @@
     "college": "York College",
     "date": "2025-04-09",
     "time": "9:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Observatory Public Open Night 4-9-25",
-    "link": "https://www.york.cuny.edu/observatory/copy7_of_observatory-public-open-night",
-    "college": "York College",
-    "date": "2025-04-10",
-    "time": "12:30 AM - 1:30 AM",
-    "tags": []
-  },
-  {
-    "title": "Nursing Information Session - April",
-    "link": "https://www.york.cuny.edu/events/2024/april-nursing-information-session",
-    "college": "York College",
-    "date": "2025-04-10",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Spring 2025 Library Skills Workshop",
-    "link": "https://www.york.cuny.edu/student-development/fye/student-success-sessions/spring-2025-library-skills-workshop",
-    "college": "York College",
-    "date": "2025-04-10",
-    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
