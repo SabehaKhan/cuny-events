@@ -704,16 +704,6 @@
     "tags": []
   },
   {
-    "title": "Myth vs. Reality: Common Misconceptions about Eating Disorders",
-    "link": "https://www.law.cuny.edu/event/myth-vs-reality-common-misconceptions-about-eating-disorders/",
-    "college": "CUNY School of Law",
-    "date": "2025-04-16",
-    "time": "12:30 PM - 02:00 PM",
-    "tags": [
-      "Workshop"
-    ]
-  },
-  {
     "title": "Communications Skills",
     "link": "https://www.law.cuny.edu/event/56830/",
     "college": "CUNY School of Law",
@@ -761,6 +751,16 @@
     "date": "2025-04-30",
     "time": "12:30 PM - 01:30 PM",
     "tags": []
+  },
+  {
+    "title": "Myth vs. Reality: Common Misconceptions about Eating Disorders",
+    "link": "https://www.law.cuny.edu/event/myth-vs-reality-common-misconceptions-about-eating-disorders/",
+    "college": "CUNY School of Law",
+    "date": "2025-04-30",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "Workshop"
+    ]
   },
   {
     "title": "Screening of the Documentary: The Union",
@@ -1433,67 +1433,11 @@
     "tags": []
   },
   {
-    "title": "Black Empowerment Summit 2025: Collage Making Competition",
-    "link": "https://www.laguardia.edu/event/black-empowerment-summit-2025-collage-making-competition/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-04",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "4th Annual CUNY LGBTQI+ Student Conference",
     "link": "https://www.laguardia.edu/event/4th-annual-cuny-lgbtqi-student-conference/",
     "college": "LaGuardia Community College",
     "date": "2025-04-04",
     "time": "09:00 AM - 06:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-04-04/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-04",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "FUN Fridays",
-    "link": "https://www.laguardia.edu/event/fun-fridays-2/2025-04-04/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-04",
-    "time": "12:30 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Queens College Transfer Honors Program Open House and Information Session",
-    "link": "https://www.laguardia.edu/event/queens-college-transfer-honors-program-open-house-and-information-session/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-04",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "QSTEM Lounge - Résumé, Cover Letter and Interview Skills Workshop",
-    "link": "https://www.laguardia.edu/event/qstem-lounge-resume-cover-letter-and-interview-skills-workshop/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-04",
-    "time": "03:00 PM - 05:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1765,6 +1709,62 @@
     "college": "LaGuardia Community College",
     "date": "2025-04-10",
     "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Leadership and Development: Developing the Leader Within",
+    "link": "https://www.laguardia.edu/event/developing-the-leader-within/2025-04-10/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-10",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Queer Connections: A Support Group for LGBTQIA+ Students",
+    "link": "https://www.laguardia.edu/event/queer-connections-a-support-group-for-lgbtqia-students/2025-04-10/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-10",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "QPR Gatekeeper Virtual Training: A Lifesaving Skill for Faculty, Staff, and Students",
+    "link": "https://www.laguardia.edu/event/qpr-gatekeeper-virtual-training-a-lifesaving-skill-for-faculty-staff-and-students/2025-04-11/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-11",
+    "time": "10:00 AM - 12:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-04-11/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-11",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "FUN Fridays",
+    "link": "https://www.laguardia.edu/event/fun-fridays-2/2025-04-11/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-11",
+    "time": "12:30 PM - 02:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2392,17 +2392,6 @@
     ]
   },
   {
-    "title": "The Stella Awards Student Ceremony and End of the Year Cruise",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376199",
-    "college": "Guttman Community College",
-    "date": "2025-06-05",
-    "time": "10:00 PM - 03:00 AM",
-    "tags": [
-      "OSL",
-      "Dinner/Gala"
-    ]
-  },
-  {
     "title": "Internship Power Hour",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376192",
     "college": "Guttman Community College",
@@ -2637,271 +2626,13 @@
     "tags": []
   },
   {
-    "title": "Immigrant Advocacy Conference",
-    "link": "https://www.bmcc.cuny.edu/event/immigrant-advocacy-conference/2025-04-04/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-04",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": [
-      "Advocacy and Resource Center",
-      "Asian and Pacific Islander Bridge Initiaitve",
-      "Center for Belonging and Inclusion",
-      "CUNY in The Heights",
-      "Evening-Weekend",
-      "Featured",
-      "Immigration Support",
-      "International Student Events/Workshops",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Student Affairs",
-      "Teacher Education"
-    ]
-  },
-  {
-    "title": "Asian Heritage Month: Twilight of the Warriors: Walled In",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-monthl-twilight-of-the-warriors-walled-in/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-04",
-    "time": "02:00 PM - 04:30 PM",
-    "tags": [
-      "Asian Heritage Month",
-      "Co-Curricular Transcript",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Nursing at BMCC and Beyond",
-    "link": "https://www.bmcc.cuny.edu/event/nursing-at-bmcc-and-beyond-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-04",
-    "time": "04:00 PM - 05:30 PM",
-    "tags": [
-      "Featured",
-      "Learning Academy",
-      "Nursing"
-    ]
-  },
-  {
-    "title": "Start your Next Journey: Attend a hands-on transfer resource training",
-    "link": "https://www.bmcc.cuny.edu/event/start-your-next-journey-attend-a-hands-on-transfer-resource-training/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-05",
+    "title": "Accelerated Second-Degree BS Nursing Program Information Session",
+    "link": "https://hunter.cuny.edu/event/accelerated-second-degree-bs-nursing-program-information-session-2/2025-04-18/",
+    "college": "Hunter College",
+    "date": "2025-04-18",
     "time": "10:00 AM - 11:30 AM",
     "tags": [
-      "Academic Advisement & Transfer",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Join us for the Spring 2025 5K Fun Run/Walk (Step Challenge begins April 7)",
-    "link": "https://www.bmcc.cuny.edu/event/join-us-for-the-spring-2025-5k-fun-run-walk/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-07",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": [
-      "Featured",
-      "Health Education",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Free HIV/STI Testing for BMCC Students",
-    "link": "https://www.bmcc.cuny.edu/event/free-hiv-sti-testing-for-bmcc-students-6/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-07",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services"
-    ]
-  },
-  {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session-34/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-07",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
-    "title": "Know Your Rights: Gender Identity and Expression Discrimination Protections in New York City",
-    "link": "https://www.bmcc.cuny.edu/event/know-your-rights-gender-identity-and-expression-discrimination-protections-in-new-york-city-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-07",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "Featured",
-      "Pride Center",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Malaysia’s ASEAN Chairmanship 2025: A Talk by Consul General of Malaysia in New York Amir Farid Abu Hasan",
-    "link": "https://www.bmcc.cuny.edu/event/malaysias-asean-chairmanship-2025/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-07",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Diplomatic Engagement and Training",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Asian Heritage Month: Talk by Consul General of Malaysia on Malaysia’s ASEAN Chairmanship 2025: Its Role, Priorities, and Regional Impact",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-talk-by-consul-general-of-malaysia-on-malaysias-asean-chairmanship-2025-its-role-priorities-and-regional-impact/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-07",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Asian Heritage Month",
-      "Co-Curricular Transcript"
-    ]
-  },
-  {
-    "title": "Healing Through Hip-Hop: Live Performance and Participation",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-live-performance-and-participation-2/2025-04-07/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-07",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Asian Heritage Month Film: To Kill a Tiger",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-film-to-kill-a-tiger/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-07",
-    "time": "03:00 PM - 05:30 PM",
-    "tags": [
-      "Asian Heritage Month",
-      "Center for Belonging and Inclusion",
-      "Co-Curricular Transcript",
-      "Women's Resource Center"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-251/2025-04-07/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-07",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-86/2025-04-08/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-08",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "Good Deeds Week: Pet Therapy",
-    "link": "https://www.bmcc.cuny.edu/event/good-deeds-week-pet-therapy/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-08",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Hunter College 'Instant Decision Day'",
-    "link": "https://www.bmcc.cuny.edu/event/hunter-college-instant-decision-day/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-08",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer"
-    ]
-  },
-  {
-    "title": "Teacher Education Career Fair",
-    "link": "https://www.bmcc.cuny.edu/event/teacher-education-career-fair-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-08",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Early Childhood Education",
-      "Featured",
-      "Teacher Education"
-    ]
-  },
-  {
-    "title": "Study Skills Workshops: Prioritize like a Pro (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-prioritize-like-a-pro-students-only-13/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-08",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "Asian Heritage Month Film: The Missing",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-film-the-missing/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-09",
-    "time": "11:30 AM - 01:30 PM",
-    "tags": [
-      "Asian Heritage Month",
-      "Co-Curricular Transcript"
-    ]
-  },
-  {
-    "title": "City Harvest Nutrition Education",
-    "link": "https://www.bmcc.cuny.edu/event/city-harvest-nutrition-education-2/2025-04-09/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-09",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services"
-    ]
-  },
-  {
-    "title": "Spring Blood Drive: Help Save Lives",
-    "link": "https://www.bmcc.cuny.edu/event/spring-blood-drive-help-save-lives/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-09",
-    "time": "12:00 PM - 06:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services"
-    ]
-  },
-  {
-    "title": "Healing Rhythms: Drumming Circle",
-    "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle/2025-04-09/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-09",
-    "time": "01:30 PM - 03:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (In-Person)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-47/2025-04-09/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-09",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Admissions"
+      "Open Houses"
     ]
   },
   {
@@ -3074,6 +2805,20 @@
     "time": "06:30 PM - 07:30 PM",
     "tags": [
       "ThoughtfulLearning"
+    ]
+  },
+  {
+    "title": "Ranked Choice Voting 101 (252093-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11234028",
+    "college": "College of Staten Island",
+    "date": "2025-04-08",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Social Justice\\",
+      "Diversity\\",
+      "Equity and Inclusion",
+      "PG CLUE"
     ]
   },
   {
@@ -4812,14 +4557,6 @@
     "tags": []
   },
   {
-    "title": "Macaulay Summit on Health Research and Innovation Day 2: Comprehensive Cardiovascular Disease Management Symposium",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/9th-annual-comprehensive-cardiovascular-disease-management-symposium/",
-    "college": "Macaulay Honors College",
-    "date": "2025-04-04",
-    "time": "7:00 AM - 4:00PM",
-    "tags": []
-  },
-  {
     "title": "Alumni Workshop",
     "link": "https://macaulay.cuny.edu/calendar-of-events/alumni-workshop/",
     "college": "Macaulay Honors College",
@@ -4881,6 +4618,14 @@
     "college": "Macaulay Honors College",
     "date": "2025-04-25",
     "time": "10:00 AM - 12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Macaulay Story Slam",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-story-slam/",
+    "college": "Macaulay Honors College",
+    "date": "2025-04-26",
+    "time": "5:00PM",
     "tags": []
   },
   {
@@ -5144,54 +4889,6 @@
     ]
   },
   {
-    "title": "Qualitative Research: Survey Design & Data Analysis",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-04-qualitative-research-survey-design-data-analysis.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-04",
-    "time": "09:20 AM - 12:30 PM",
-    "description": "Conference and Workshop"
-  },
-  {
-    "title": "Free Tax Preparation and E-Filing",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-04-free-tax-preparation-and-e-filing1.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-04",
-    "time": "09:30 AM - 04:30 PM",
-    "description": "Conference and Workshop"
-  },
-  {
-    "title": "Planting Career Roots: GROW Your Future as a Student",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-04-planting-career-roots-grow-your-future-as-a-student.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-04",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "Eid Gathering",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-04-eid-gathering.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-04",
-    "time": "12:30 PM - 03:30 PM",
-    "description": "Club Event"
-  },
-  {
-    "title": "Four-Year College Transfer Application Workshop",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-04-four-year-college-transfer.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-04",
-    "time": "01:00 PM - 02:00 PM",
-    "description": "Transfer Resource Center Event"
-  },
-  {
-    "title": "Research 101 Certificate Classes",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-04-research-101-certificate-classes.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-04",
-    "time": "01:10 PM - 02:30 PM",
-    "description": "Special Event / Fair"
-  },
-  {
     "title": "Hit the Wall",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-04-hit-the-wall.html",
     "college": "Queensborough Community College",
@@ -5302,6 +4999,54 @@
     "date": "2025-04-08",
     "time": "11:00 AM - 12:00 PM",
     "description": "ASAP Career Event"
+  },
+  {
+    "title": "Midday Yoga",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-08-midday-yoga.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-08",
+    "time": "12:00 PM - 01:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Poetry and Conversation with National Youth Poet Laureate Stephanie Pacheco",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-08-poetry-and-conversation-with.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-08",
+    "time": "12:00 PM - 02:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Fresh Food Bag Distribution",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-03-fresh-food-bag-distribution.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-08",
+    "time": "01:30 PM - 02:30 PM",
+    "description": "Fight Campus Hunger Event"
+  },
+  {
+    "title": "Walk and Talk Around the Track",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-08-walk-and-talk-around-the-track.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-08",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "2025 Student Government Elections",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-09-2025-student-government-elections.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-09",
+    "time": "09:00 AM - 10:00 PM",
+    "description": "Student Event"
+  },
+  {
+    "title": "Four-Year College Transfer Application Workshop",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-09-four-year-college-transfer.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-09",
+    "time": "10:00 AM - 11:00 AM",
+    "description": "Transfer Resource Center Event"
   },
   {
     "title": "Survey Design and Measurement",
