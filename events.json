@@ -144,14 +144,6 @@
     "tags": []
   },
   {
-    "title": "LGBTQ+ Peer Support Group",
-    "link": "https://www.ccny.cuny.edu/calendar/lgbtq-peer-support-group-47",
-    "college": "City College of New York",
-    "date": "2025-04-16",
-    "time": "11:30 AM - 12:30 PM",
-    "tags": []
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-5",
     "college": "City College of New York",
@@ -1425,17 +1417,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-04-07/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-07",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Art Unfolded: Exploration Through Art Therapy",
     "link": "https://www.laguardia.edu/event/art-unfolded-exploration-through-art-therapy/2025-04-07/",
     "college": "LaGuardia Community College",
@@ -1485,6 +1466,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-04-08",
     "time": "02:15 PM - 03:15 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "QSTEM Lounge Importance of Research Workshop",
+    "link": "https://www.laguardia.edu/event/qstem-lounge-importance-of-research-workshop/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-09",
+    "time": "08:00 AM - 05:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1611,6 +1603,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-04-09",
     "time": "02:15 PM - 03:15 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "QSTEM Lounge Importance of Research Workshop",
+    "link": "https://www.laguardia.edu/event/qstem-lounge-importance-of-research-workshop/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-09",
+    "time": "03:15 PM - 05:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1748,17 +1751,6 @@
     "tags": [
       "all calendars",
       "student events"
-    ]
-  },
-  {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-68/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-14",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
     ]
   },
   {
@@ -3051,16 +3043,6 @@
     "tags": []
   },
   {
-    "title": "Fiscal and Financial Affairs Commission",
-    "link": "https://csi.campuslabs.com/engage/event/10768867",
-    "college": "College of Staten Island",
-    "date": "2025-04-07",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "ThoughtfulLearning"
-    ]
-  },
-  {
     "title": "Weekly Tea Time at the LGBTQ Resource Center",
     "link": "https://csi.campuslabs.com/engage/event/10847779",
     "college": "College of Staten Island",
@@ -3963,6 +3945,16 @@
     ]
   },
   {
+    "title": "Earth Day",
+    "link": "https://csi.campuslabs.com/engage/event/11237617",
+    "college": "College of Staten Island",
+    "date": "2025-04-22",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Social"
+    ]
+  },
+  {
     "title": "Get it Done Writers and Doers Club",
     "link": "https://events.cuny.edu/cec/get-it-done-writers-and-doers-club-3/",
     "college": "College of Staten Island",
@@ -4372,6 +4364,14 @@
     "tags": []
   },
   {
+    "title": "GDG Club: IBM Z Day Watch Party",
+    "link": "https://citytech.event.cuny.edu/events/d3JziWtnBmWJyEkqh0nw/mT38MbMkGVhYTVOrJe0e",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-08",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
     "title": "ASAP Career Workshop: Readiness",
     "link": "https://citytech.event.cuny.edu/events/GpCJQ8wn1axfn2gLRM2N/GA5269g2Fb9DAtu76YtR",
     "college": "New York City College of Technology (City Tech)",
@@ -4676,11 +4676,19 @@
     "tags": []
   },
   {
-    "title": "Student Wellness Week 2025: Therapy Dog Visit",
-    "link": "https://sph.cuny.edu/event/student-wellness-week-2025-therapy-dog-visit/",
+    "title": "Student Wellness Week 2025: Virtual Chair Yoga Workshop",
+    "link": "https://sph.cuny.edu/event/student-wellness-week-2025-virtual-chair-yoga-workshop/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-04-28",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "Student Wellness Week 2025: Chair Massage",
+    "link": "https://sph.cuny.edu/event/student-wellness-week-2025-chair-massage/",
     "college": "CUNY School of Public Health",
     "date": "2025-04-29",
-    "time": "4:00PM",
+    "time": "3:30PM",
     "tags": []
   },
   {
@@ -4817,14 +4825,6 @@
     "college": "Lehman College",
     "date": "2025-04-10",
     "time": "11:00 AM- 2:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Sentence Proofing & Editing for Grammar Errors",
-    "link": "https://www.jjay.cuny.edu/news-events/events/sentence-proofing-editing-grammar-errors-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-07",
-    "time": "03:00 PM",
     "tags": []
   },
   {
@@ -5012,6 +5012,14 @@
     "tags": []
   },
   {
+    "title": "The Sexual Evolution: The Inherent Queerness of Animals",
+    "link": "https://www.jjay.cuny.edu/news-events/events/sexual-evolution-inherent-queerness-animals",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-04-23",
+    "time": "08:30 PM",
+    "tags": []
+  },
+  {
     "title": "Alumni Workshop",
     "link": "https://macaulay.cuny.edu/calendar-of-events/alumni-workshop/",
     "college": "Macaulay Honors College",
@@ -5084,14 +5092,6 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
-    "college": "York College",
-    "date": "2025-04-07",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "The Impact of Social Justice on K-12 Literature",
     "link": "https://www.york.cuny.edu/events/impact-of-social-justice-on-k-12-literature",
     "college": "York College",
@@ -5105,6 +5105,14 @@
     "college": "York College",
     "date": "2025-04-07",
     "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
+    "college": "York College",
+    "date": "2025-04-08",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5365,30 +5373,6 @@
     "description": ""
   },
   {
-    "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-07-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-07",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Career Services Event"
-  },
-  {
-    "title": "The MRC and Fourleaf Present - Financial Wellness: The Basics of Personal Finance",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-07-the-mrc-and-fourleaf-present-financial-wellness-the-basics-of-personal-finance.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-07",
-    "time": "12:00 PM - 01:00 PM",
-    "description": "Male Resource Center Event"
-  },
-  {
-    "title": "Knitting Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-07-knitting-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-07",
-    "time": "01:00 PM - 02:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
     "title": "Color, Create & Be Calm",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-07-color-create-be-calm.html",
     "college": "Queensborough Community College",
@@ -5410,6 +5394,14 @@
     "college": "Queensborough Community College",
     "date": "2025-04-07",
     "time": "03:10 PM - 04:30 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "National Library Week April 2025",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-08-national-library-week-april-2025.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-08",
+    "time": "09:00 AM - 07:45 PM",
     "description": "Special Event / Fair"
   },
   {
@@ -5458,6 +5450,14 @@
     "college": "Queensborough Community College",
     "date": "2025-04-08",
     "time": "02:00 PM - 03:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "National Library Week April 2025",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-09-national-library-week-april-2025.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-09",
+    "time": "09:00 AM - 07:45 PM",
     "description": "Special Event / Fair"
   },
   {
@@ -5515,6 +5515,14 @@
     "date": "2025-04-09",
     "time": "12:00 PM - 02:00 PM",
     "description": "Club Event"
+  },
+  {
+    "title": "The Frank Egan Memorial Health Lecture Series",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-09-the-frank-egan-memorial-health.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-09",
+    "time": "12:00 PM - 01:15 PM",
+    "description": "Lecture"
   },
   {
     "title": "Survey Design and Measurement",
