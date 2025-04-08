@@ -1541,6 +1541,17 @@
     ]
   },
   {
+    "title": "Phi Theta Kappa Informational Sessions",
+    "link": "https://www.laguardia.edu/event/phi-theta-kappa-informational-sessions/2025-04-09/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-09",
+    "time": "03:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Mindfulness Meditation Wednesdays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-04-09/",
     "college": "LaGuardia Community College",
@@ -1660,17 +1671,6 @@
     "tags": [
       "admissions",
       "all calendars"
-    ]
-  },
-  {
-    "title": "Art Unfolded: Exploration Through Art Therapy",
-    "link": "https://www.laguardia.edu/event/art-unfolded-exploration-through-art-therapy/2025-04-14/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-14",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
     ]
   },
   {
@@ -4971,14 +4971,6 @@
     "tags": []
   },
   {
-    "title": "Men’s Tennis vs. St. Joseph's University (L.I.)",
-    "link": "https://www.york.cuny.edu/events/2025/mens-tennis-vs-sjli-04082025",
-    "college": "York College",
-    "date": "2025-04-08",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
     "title": "York SAVES Domestic Violence Advocacy Training",
     "link": "https://www.york.cuny.edu/womens-center/york-saves-domestic-violence-advocacy-training",
     "college": "York College",
@@ -5053,6 +5045,14 @@
   {
     "title": "Financial Literacy Series #3",
     "link": "https://www.york.cuny.edu/mens-center/mens-center-calendar/financial-literacy-series-3",
+    "college": "York College",
+    "date": "2025-04-10",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "2025 Spring Symposium",
+    "link": "https://www.york.cuny.edu/events/2025/2025-spring-symposium",
     "college": "York College",
     "date": "2025-04-10",
     "time": "4:00 PM - 6:00 PM",
@@ -5195,22 +5195,6 @@
     "description": ""
   },
   {
-    "title": "National Library Week April 2025",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-08-national-library-week-april-2025.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-08",
-    "time": "09:00 AM - 07:45 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "2025 Student Government Elections",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-08-2025-student-government-elections.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-08",
-    "time": "09:00 AM - 10:00 PM",
-    "description": "Student Event"
-  },
-  {
     "title": "CCSD@QCC Bake Sale",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-08-ccsd@qcc-bake-sale.html",
     "college": "Queensborough Community College",
@@ -5345,6 +5329,22 @@
     "date": "2025-04-09",
     "time": "12:15 PM - 02:00 PM",
     "description": "Free Concert"
+  },
+  {
+    "title": "Disability Allyship Workshop",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-09-disability-allyship-workshop.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-09",
+    "time": "12:30 PM - 02:00 PM",
+    "description": "Club Event"
+  },
+  {
+    "title": "QCC Youth Reel Film Festival Spring 2025",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-09-qcc-youth-reel-film-festival-spring-2025.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-09",
+    "time": "12:30 PM - 03:00 PM",
+    "description": "Performing Arts / Film Event"
   },
   {
     "title": "Survey Design and Measurement",
