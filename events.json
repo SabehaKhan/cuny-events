@@ -80,6 +80,14 @@
     "tags": []
   },
   {
+    "title": "World Quantum Day at CCNY",
+    "link": "https://www.ccny.cuny.edu/calendar/world-quantum-day-ccny",
+    "college": "City College of New York",
+    "date": "2025-04-14",
+    "time": "12:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
     "title": "Academic Empowerment Workshop Series: Time Management",
     "link": "https://www.ccny.cuny.edu/calendar/academic-empowerment-workshop-series-time-management",
     "college": "City College of New York",
@@ -125,6 +133,14 @@
     "college": "City College of New York",
     "date": "2025-04-22",
     "time": "10:00 AM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CCNY and Columbia Environmental Justice Summit",
+    "link": "https://www.ccny.cuny.edu/calendar/ccny-and-columbia-environmental-justice-summit",
+    "college": "City College of New York",
+    "date": "2025-04-22",
+    "time": "12:00 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -2389,16 +2405,6 @@
     ]
   },
   {
-    "title": "Workshop: Transfer Survival Toolkit",
-    "link": "https://hunter.cuny.edu/event/workshop-transfer-survival-toolkit/",
-    "college": "Hunter College",
-    "date": "2025-04-08",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Person Place Thing: Live Recording Randy Cohen with Special Guest Gregory Mosher",
     "link": "https://hunter.cuny.edu/event/person-place-thing-recording-with-gregory-mosher/",
     "college": "Hunter College",
@@ -2625,24 +2631,14 @@
     "tags": []
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-86/2025-04-08/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-08",
-    "time": "11:00 AM - 12:00 PM",
+    "title": "Salary Negotiation Workshop",
+    "link": "https://hunter.cuny.edu/event/salary-negotiation-workshop-3/",
+    "college": "Hunter College",
+    "date": "2025-04-22",
+    "time": "03:30 PM - 04:30 PM",
     "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "Good Deeds Week: Pet Therapy",
-    "link": "https://www.bmcc.cuny.edu/event/good-deeds-week-pet-therapy/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-08",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Featured",
-      "Student Affairs"
+      "Conferences & Workshops",
+      "Student Events"
     ]
   },
   {
@@ -2653,16 +2649,6 @@
     "time": "11:00 AM - 02:00 PM",
     "tags": [
       "Academic Advisement & Transfer"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-251/2025-04-08/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-08",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions"
     ]
   },
   {
@@ -2701,7 +2687,7 @@
   },
   {
     "title": "City Harvest Nutrition Education",
-    "link": "https://www.bmcc.cuny.edu/event/city-harvest-nutrition-education-2/2025-04-09/",
+    "link": "https://www.bmcc.cuny.edu/event/city-harvest-nutrition-education-2-2/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-04-09",
     "time": "12:00 PM - 01:00 PM",
@@ -2719,6 +2705,16 @@
     "tags": [
       "Featured",
       "Health Services"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-86/2025-04-09/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-09",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "Admissions"
     ]
   },
   {
@@ -2885,6 +2881,16 @@
     ]
   },
   {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-251/2025-04-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-14",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
     "title": "Stop by our FAFSA (Free Application for Federal Student Aid) Information Table",
     "link": "https://www.bmcc.cuny.edu/event/stop-by-our-fafsa-free-application-for-federal-student-aid-information-table-7/2025-04-15/",
     "college": "Borough of Manhattan Community College",
@@ -2893,6 +2899,16 @@
     "tags": [
       "Featured",
       "Financial Aid Office"
+    ]
+  },
+  {
+    "title": "Transfer Talk Tuesday: Explore Your Options After BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/transfer-talk-tuesday-explore-your-options-after-bmcc-19/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-15",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Academic Advisement & Transfer"
     ]
   },
   {
@@ -3219,7 +3235,7 @@
     ]
   },
   {
-    "title": "More Than Skin Deep",
+    "title": "More Than Skin Deep (252092-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11197525",
     "college": "College of Staten Island",
     "date": "2025-04-10",
@@ -3632,6 +3648,17 @@
     "time": "07:30 PM - 08:30 PM",
     "tags": [
       "ThoughtfulLearning"
+    ]
+  },
+  {
+    "title": "Ultimate Game Event",
+    "link": "https://csi.campuslabs.com/engage/event/11242638",
+    "college": "College of Staten Island",
+    "date": "2025-04-30",
+    "time": "05:30 PM - 09:30 PM",
+    "tags": [
+      "Social",
+      "Entertainment"
     ]
   },
   {
@@ -4299,6 +4326,14 @@
     "tags": []
   },
   {
+    "title": "SGA Coffee Chats",
+    "link": "https://citytech.event.cuny.edu/events/A2tslbD0tAKwoEf9XZj0/WclKdLA86V7sAWiqwujb",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-10",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
     "title": "Spring 2025 Flag Installation Ceremony",
     "link": "https://hostos.event.cuny.edu/events/LXJO3jmgVoWW6o3yTxjH/sZR9awzhRFlc0aBFEW5F",
     "college": "Hostos Community College",
@@ -4435,6 +4470,14 @@
     "tags": []
   },
   {
+    "title": "Faculty Workshop: Humanize Your Online Course with VoiceThread",
+    "link": "https://sps.cuny.edu/about/events/faculty-workshop-humanize-your-online-course-with-voicethread",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-15",
+    "time": "02:00 PM",
+    "tags": []
+  },
+  {
     "title": "Career Skills Masterclass: Emotional Intelligence to Manage Conflict with Alicia Voorhees",
     "link": "https://sph.cuny.edu/event/career-skills-masterclass-emotional-intelligence-to-manage-conflict-with-alicia-voorhees/",
     "college": "CUNY School of Public Health",
@@ -4448,6 +4491,14 @@
     "college": "CUNY School of Public Health",
     "date": "2025-04-10",
     "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Spring 2025 CUNY SPH Student Candidates’ Forum",
+    "link": "https://sph.cuny.edu/event/spring-2025-cuny-sph-student-candidates-forum/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-04-11",
+    "time": "4:00PM",
     "tags": []
   },
   {
@@ -4651,30 +4702,6 @@
     "tags": []
   },
   {
-    "title": "Documenting Research APA Style",
-    "link": "https://www.jjay.cuny.edu/news-events/events/documenting-research-apa-style-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-08",
-    "time": "04:15 PM",
-    "tags": []
-  },
-  {
-    "title": "Screening: Tick, Tick...Boom!",
-    "link": "https://www.jjay.cuny.edu/news-events/events/screening-tick-tickboom",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-08",
-    "time": "05:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Effective Editing Strategies",
-    "link": "https://www.jjay.cuny.edu/news-events/events/effective-editing-strategies-1",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-08",
-    "time": "05:41 PM",
-    "tags": []
-  },
-  {
     "title": "Writing the Lit Paper: Integrating Evidence",
     "link": "https://www.jjay.cuny.edu/news-events/events/writing-lit-paper-integrating-evidence-0",
     "college": "John Jay College of Criminal Justice",
@@ -4843,6 +4870,30 @@
     "tags": []
   },
   {
+    "title": "Writing Law/Grad School Personal Statements",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-lawgrad-school-personal-statements-1",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-04-23",
+    "time": "10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Avoiding Sentence Errors: Commas",
+    "link": "https://www.jjay.cuny.edu/news-events/events/avoiding-sentence-errors-commas-1",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-04-24",
+    "time": "03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Writing a Social Science Research Proposal",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-social-science-research-proposal-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-04-24",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
     "title": "Alumni Workshop",
     "link": "https://macaulay.cuny.edu/calendar-of-events/alumni-workshop/",
     "college": "Macaulay Honors College",
@@ -4915,22 +4966,6 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
-    "college": "York College",
-    "date": "2025-04-08",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Yoga - April",
-    "link": "https://www.york.cuny.edu/events/yoga-april",
-    "college": "York College",
-    "date": "2025-04-08",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
     "title": "Budgeting, Savings and Investing - Financial Literacy Intensive",
     "link": "https://www.york.cuny.edu/mens-center/mens-center-calendar/financial-literacy-intensive-april-8th",
     "college": "York College",
@@ -4984,6 +5019,14 @@
     "college": "York College",
     "date": "2025-04-08",
     "time": "8:30 PM - 9:50 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
+    "college": "York College",
+    "date": "2025-04-09",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5064,6 +5107,14 @@
     "college": "York College",
     "date": "2025-04-10",
     "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Yoga - April",
+    "link": "https://www.york.cuny.edu/events/yoga-april",
+    "college": "York College",
+    "date": "2025-04-15",
+    "time": "4:00 PM - 5:00 PM",
     "tags": []
   },
   {
@@ -5195,30 +5246,6 @@
     "description": ""
   },
   {
-    "title": "CCSD@QCC Bake Sale",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-08-ccsd@qcc-bake-sale.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-08",
-    "time": "10:00 AM - 03:00 PM",
-    "description": "Club Event"
-  },
-  {
-    "title": "Getting Started: Exploring Internships and Job Opportunities",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-08-getting-started-exploring-internships-and-job-opportunities.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-08",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "Midday Yoga",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-08-midday-yoga.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-08",
-    "time": "12:00 PM - 01:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
     "title": "Fresh Food Bag Distribution",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-03-fresh-food-bag-distribution.html",
     "college": "Queensborough Community College",
@@ -5345,6 +5372,38 @@
     "date": "2025-04-09",
     "time": "12:30 PM - 03:00 PM",
     "description": "Performing Arts / Film Event"
+  },
+  {
+    "title": "Meditation & Self-Care",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-09-meditation-self-care.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-09",
+    "time": "01:00 PM - 02:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "FAFSA Fest",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-09-fafsa-fest.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-09",
+    "time": "01:00 PM - 04:00 PM",
+    "description": "Financial Aid Event"
+  },
+  {
+    "title": "In-Person Walk-In Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-09-in-person-walk-in-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-09",
+    "time": "02:00 PM - 03:30 PM",
+    "description": "Career Services Event"
+  },
+  {
+    "title": "QCC Parent Webinar Series: How To Support Your New College Student",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-09-qcc-parent-webinar-series-how-to.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-09",
+    "time": "05:30 PM - 06:30 PM",
+    "description": "Admissions Event"
   },
   {
     "title": "Survey Design and Measurement",
