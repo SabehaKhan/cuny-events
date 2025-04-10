@@ -1360,28 +1360,6 @@
     "tags": []
   },
   {
-    "title": "Street Mural Information Session",
-    "link": "https://www.laguardia.edu/event/street-mural-information-session/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-10",
-    "time": "11:00 AM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-04-10/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-10",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Vision Board Workshop",
     "link": "https://www.laguardia.edu/event/vision-board-workshop-2/",
     "college": "LaGuardia Community College",
@@ -1689,6 +1667,17 @@
     "tags": [
       "all calendars",
       "student events"
+    ]
+  },
+  {
+    "title": "Admissions Virtual Accounting Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-virtual-accounting-information-session/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-21",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
     ]
   },
   {
@@ -2360,16 +2349,6 @@
     ]
   },
   {
-    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
-    "link": "https://hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-3/2025-04-10/",
-    "college": "Hunter College",
-    "date": "2025-04-10",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
     "title": "Graduate Admissions Application Support Session",
     "link": "https://hunter.cuny.edu/event/graduate-admissions-application-support-session-8/",
     "college": "Hunter College",
@@ -2609,13 +2588,37 @@
     ]
   },
   {
-    "title": "Study Skills Workshops: How to Recover from a Bad Grade (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-how-to-recover-from-a-bad-grade-students-only-4/",
+    "title": "Workshop on Financial Planning",
+    "link": "https://hunter.cuny.edu/event/senior-week-workshop-on-financial-planning/",
+    "college": "Hunter College",
+    "date": "2025-04-28",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-04-28/",
+    "college": "Hunter College",
+    "date": "2025-04-28",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "BMCC Student Art Exhibition at Shirley Fiterman Art Center",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-student-art-exhibition-at-shirley-fiterman-art-center/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-04-10",
-    "time": "12:00 PM - 01:00 PM",
+    "time": "12:00 PM - 05:00 PM",
     "tags": [
-      "Learning Resource Center"
+      "Featured",
+      "Music & Art",
+      "Shirley Fiterman Art Center"
     ]
   },
   {
@@ -2858,17 +2861,6 @@
     ]
   },
   {
-    "title": "International Book Day",
-    "link": "https://www.bmcc.cuny.edu/event/international-book-day/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-23",
-    "time": "09:00 AM - 04:00 PM",
-    "tags": [
-      "English",
-      "Featured"
-    ]
-  },
-  {
     "title": "BCC STEM Day",
     "link": "https://www.bcc.cuny.edu/event/bcc-stem-day/",
     "college": "Bronx Community College",
@@ -2953,19 +2945,6 @@
     "date": "2025-05-01",
     "time": "02:00 PM - 03:00 PM",
     "tags": []
-  },
-  {
-    "title": "CSI Pathways to Success: Spring 2025 Career Fair",
-    "link": "https://csi.campuslabs.com/engage/event/11145071",
-    "college": "College of Staten Island",
-    "date": "2025-04-10",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Conference",
-      "Career Development"
-    ]
   },
   {
     "title": "Open Minds Exchange Meet",
@@ -3065,7 +3044,8 @@
       "Equity and Inclusion",
       "PG CLUE",
       "Entertainment",
-      "Cultural"
+      "Cultural",
+      "VELA"
     ]
   },
   {
@@ -3846,6 +3826,16 @@
     ]
   },
   {
+    "title": "FAFSA and TAP Completion Event at Guttman Community College",
+    "link": "https://events.cuny.edu/cec/fafsa-and-tap-completion-event-at-guttman-community-college/",
+    "college": "The University",
+    "date": "2025-04-10",
+    "time": "",
+    "tags": [
+      "Financial Aid"
+    ]
+  },
+  {
     "title": "Spring Into Wellness",
     "link": "https://events.cuny.edu/cec/spring-into-wellness-5/",
     "college": "The University",
@@ -3923,17 +3913,6 @@
     "time": "3:00 PM - 5:00 PM",
     "tags": [
       "Financial Aid"
-    ]
-  },
-  {
-    "title": "Palestine Lives!",
-    "link": "https://events.cuny.edu/cec/palestine-lives/",
-    "college": "College of Staten Island",
-    "date": "2025-04-10",
-    "time": "3:00 PM - 4:00 PM",
-    "tags": [
-      "Division of Humanities and Social Sciences",
-      "Performing and Creative Arts"
     ]
   },
   {
@@ -4017,6 +3996,14 @@
     "tags": []
   },
   {
+    "title": "PSYCH 314 Lab Use",
+    "link": "https://qc.event.cuny.edu/events/FIXocKxP0ZxdZusN5I9u/QX9kQgoUH6NTMAbVzGkR",
+    "college": "Queens College",
+    "date": "2025-04-10",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
     "title": "SEEK Recitation",
     "link": "https://qc.event.cuny.edu/events/qyEP9NZCD0RFmrGG0SyG/AX6aTmfuY33yWqY41tR4119",
     "college": "Queens College",
@@ -4035,14 +4022,6 @@
   {
     "title": "Scitech Conference 2025",
     "link": "https://qc.event.cuny.edu/events/tRTOUUEHVbMkmlaVXjPS/mje2LFl1pav1X4jLcQ56",
-    "college": "Queens College",
-    "date": "2025-04-11",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ROTC Lecture Classes",
-    "link": "https://qc.event.cuny.edu/events/Fw2aJb8yqeqchKslVKmh/vQyQmMFihRg0uawi6T0a11",
     "college": "Queens College",
     "date": "2025-04-11",
     "time": "8:00AM",
@@ -4530,7 +4509,7 @@
   },
   {
     "title": "Graduate Admissions: The Application Process and Other Tips",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--6.php",
+    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips-.php",
     "college": "Lehman College",
     "date": "2025-04-10",
     "time": "12:00 PM- 1:00 PM",
@@ -4598,22 +4577,6 @@
     "college": "Lehman College",
     "date": "2025-04-17",
     "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Effective Editing Strategies",
-    "link": "https://www.jjay.cuny.edu/news-events/events/effective-editing-strategies-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-10",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
-    "title": "Know Your Rights: Gender Identity & Expression Discrimination Protections in NYC",
-    "link": "https://www.jjay.cuny.edu/news-events/events/know-your-rights-gender-identity-expression-discrimination-protections-nyc",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-10",
-    "time": "05:40 PM",
     "tags": []
   },
   {
@@ -4793,6 +4756,22 @@
     "tags": []
   },
   {
+    "title": "Crime Victims’ Rights Week Information Expo",
+    "link": "https://www.jjay.cuny.edu/news-events/events/crime-victims-rights-week-information-expo",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-04-29",
+    "time": "03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Lavender Celebration",
+    "link": "https://www.jjay.cuny.edu/news-events/events/lavender-celebration",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-04-30",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
     "title": "Online – Information Session for Prospective Students",
     "link": "https://macaulay.cuny.edu/calendar-of-events/online-information-session-for-prospective-students-4/",
     "college": "Macaulay Honors College",
@@ -4857,14 +4836,6 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
-    "college": "York College",
-    "date": "2025-04-10",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "Nursing Information Session - April",
     "link": "https://www.york.cuny.edu/events/2024/april-nursing-information-session",
     "college": "York College",
@@ -4926,6 +4897,14 @@
     "college": "York College",
     "date": "2025-04-11",
     "time": "2:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
+    "college": "York College",
+    "date": "2025-04-11",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5093,30 +5072,6 @@
     "description": ""
   },
   {
-    "title": "National Library Week April 2025",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-10-national-library-week-april-2025.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-10",
-    "time": "09:00 AM - 07:45 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Alumni Conversations",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-10-alumni-conversations.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-10",
-    "time": "12:10 PM - 02:00 PM",
-    "description": "Academy Event"
-  },
-  {
-    "title": "Resume Fundamentals: Building Your Path to Success",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-10-resume-fundamentals-building-your-path-to-success.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-10",
-    "time": "01:00 PM - 02:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
     "title": "Virtual Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-10-virtual-resume-hour.html",
     "college": "Queensborough Community College",
@@ -5242,6 +5197,30 @@
     "college": "Queensborough Community College",
     "date": "2025-04-18",
     "time": "09:00 AM - 07:45 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "National Library Week April 2025",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-21-national-library-week-april-2025.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-21",
+    "time": "09:00 AM - 07:45 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Virtual Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-21-virtual-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-21",
+    "time": "11:00 AM - 12:00 PM",
+    "description": "Career Services Event"
+  },
+  {
+    "title": "Walk and Talk Around the Track",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-21-walk-and-talk-around-the-track.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-21",
+    "time": "12:00 PM - 01:00 PM",
     "description": "Special Event / Fair"
   },
   {
