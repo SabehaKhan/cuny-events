@@ -1332,17 +1332,6 @@
     "tags": []
   },
   {
-    "title": "QPR Gatekeeper Virtual Training: A Lifesaving Skill for Faculty, Staff, and Students",
-    "link": "https://www.laguardia.edu/event/qpr-gatekeeper-virtual-training-a-lifesaving-skill-for-faculty-staff-and-students/2025-04-11/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-11",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-04-11/",
     "college": "LaGuardia Community College",
@@ -1609,28 +1598,6 @@
     ]
   },
   {
-    "title": "Admissions Virtual Accounting Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-virtual-accounting-information-session/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-21",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Admissions Virtual Paralegal Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-virtual-paralegal-information-session/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-21",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Art Unfolded: Exploration Through Art Therapy",
     "link": "https://www.laguardia.edu/event/art-unfolded-exploration-through-art-therapy/2025-04-21/",
     "college": "LaGuardia Community College",
@@ -1650,6 +1617,39 @@
     "tags": [
       "admissions",
       "all calendars"
+    ]
+  },
+  {
+    "title": "Admissions Adult Learner In-Person Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-adult-learner-in-person-information-session-7/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-21",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "CUNY EDGE 20 Minute Info Sessions",
+    "link": "https://www.laguardia.edu/event/cuny-edge-20-minute-info-sessions/2025-04-22/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-22",
+    "time": "10:00 AM - 03:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "BMEC: Student Success Series (Spring 2025)",
+    "link": "https://www.laguardia.edu/event/bmec-student-success-series-spring-2025/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-22",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
     ]
   },
   {
@@ -2711,7 +2711,7 @@
     ]
   },
   {
-    "title": "International Book Day",
+    "title": "Marathon Reading of Octavia Butler Novel: Join Us and Take Part!",
     "link": "https://www.bmcc.cuny.edu/event/international-book-day/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-04-23",
@@ -2771,13 +2771,19 @@
     ]
   },
   {
-    "title": "Study Skills Workshops: Build Your Confidence as a Student (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-build-your-confidence-as-a-student-students-only-8/",
+    "title": "Justice Reimagined Symposium: Addressing Stigma, Integrating Gender Equality and Sex Worker Rights",
+    "link": "https://www.bmcc.cuny.edu/event/justice-reimagined-symposium-addressing-stigma-integrating-gender-equality-and-sex-worker-rights/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-04-24",
-    "time": "12:00 PM - 01:00 PM",
+    "time": "09:00 AM - 05:00 PM",
     "tags": [
-      "Learning Resource Center"
+      "Center for Belonging and Inclusion",
+      "Civic Engagement",
+      "Ethnic and Race Studies",
+      "Featured",
+      "Pride Center",
+      "Social Sciences",
+      "Human Services and Criminal Justice"
     ]
   },
   {
@@ -3033,6 +3039,18 @@
     "college": "College of Staten Island",
     "date": "2025-04-23",
     "time": "06:30 PM - 08:00 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "Health and Wellness"
+    ]
+  },
+  {
+    "title": "Flow & Glow Chair Yoga",
+    "link": "https://csi.campuslabs.com/engage/event/11254369",
+    "college": "College of Staten Island",
+    "date": "2025-04-23",
+    "time": "09:30 PM - 10:30 PM",
     "tags": [
       "ThoughtfulLearning",
       "Learning",
@@ -3743,6 +3761,16 @@
     ]
   },
   {
+    "title": "CCNY VIRTUAL Graduate Admissions Info Session/Tour EVENT",
+    "link": "https://events.cuny.edu/cec/ccny-virtual-graduate-admissions-info-session-tour-event-4/",
+    "college": "The City College of New York",
+    "date": "2025-04-15",
+    "time": "2:00 PM - 3:15 PM",
+    "tags": [
+      "CCNY VIRTUAL Graduate Admissions Info Session/Tour EVENT"
+    ]
+  },
+  {
     "title": "NIH U-rise",
     "link": "https://qc.event.cuny.edu/events/SfI5pICFNmfCs9zkTIYk/E8SCpATQGpPj6FFvhoSZ",
     "college": "Queens College",
@@ -4079,6 +4107,22 @@
     "tags": []
   },
   {
+    "title": "Online Information Session: Jump Start Application",
+    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-24",
+    "time": "04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Introduction to Zotero",
+    "link": "https://sps.cuny.edu/about/events/introduction-zotero",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-24",
+    "time": "04:30 PM",
+    "tags": []
+  },
+  {
     "title": "Spring 2025 CUNY SPH Student Candidates’ Forum",
     "link": "https://sph.cuny.edu/event/spring-2025-cuny-sph-student-candidates-forum/",
     "college": "CUNY School of Public Health",
@@ -4175,11 +4219,11 @@
     "tags": []
   },
   {
-    "title": "Career Skills Masterclass: Negotiating the Job Offer with Claudia Ponce",
-    "link": "https://sph.cuny.edu/event/career-skills-masterclass-negotiating-the-job-offer-with-claudia-ponce/",
+    "title": "Dissertation Defense: Alexa D’Angelo",
+    "link": "https://sph.cuny.edu/event/dissertation-defense-alexa-dangelo/",
     "college": "CUNY School of Public Health",
     "date": "2025-05-05",
-    "time": "6:00PM",
+    "time": "12:30PM",
     "tags": []
   },
   {
@@ -4191,11 +4235,11 @@
     "tags": []
   },
   {
-    "title": "PhD (Virtual) Open House",
-    "link": "https://sph.cuny.edu/event/phd-virtual-open-house/",
+    "title": "Dissertation Defense by Jeffrey Wilhite",
+    "link": "https://sph.cuny.edu/event/dissertation-defense-by-jeffrey-wilhite/",
     "college": "CUNY School of Public Health",
     "date": "2025-05-07",
-    "time": "6:00PM",
+    "time": "1:00PM",
     "tags": []
   },
   {
@@ -4204,6 +4248,14 @@
     "college": "CUNY School of Public Health",
     "date": "2025-05-08",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Career Workshop: Advanced Networking and Branding",
+    "link": "https://sph.cuny.edu/event/career-workshop-advanced-networking-and-branding/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-05-14",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -4586,7 +4638,7 @@
     "title": "It's Fitness Time in the Fitness Center",
     "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
     "college": "York College",
-    "date": "2025-04-11",
+    "date": "2025-04-14",
     "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
@@ -4776,22 +4828,6 @@
     "description": ""
   },
   {
-    "title": "Free Tax Preparation and E-Filing",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-11-free-tax-preparation-and-e-filing1.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-11",
-    "time": "09:30 AM - 04:30 PM",
-    "description": "Conference and Workshop"
-  },
-  {
-    "title": "Thriving as a First-Gen Student: Finding Balance and Success",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-11-thriving-as-a-first-gen-student-finding-balance-and-success.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-11",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
     "title": "National Library Week April 2025",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-14-national-library-week-april-2025.html",
     "college": "Queensborough Community College",
@@ -4933,6 +4969,22 @@
     "college": "Queensborough Community College",
     "date": "2025-04-22",
     "time": "09:00 AM - 07:45 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Midday Yoga",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-22-midday-yoga.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-22",
+    "time": "12:00 PM - 01:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Paint & Plant Herbs",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-22-paint-plant-herbs.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-22",
+    "time": "12:00 PM - 01:30 PM",
     "description": "Special Event / Fair"
   },
   {
