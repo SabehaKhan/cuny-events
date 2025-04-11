@@ -1332,29 +1332,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-04-11/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-11",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "FUN Fridays",
-    "link": "https://www.laguardia.edu/event/fun-fridays-2/2025-04-11/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-11",
-    "time": "12:30 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-04-14/",
     "college": "LaGuardia Community College",
@@ -1649,6 +1626,29 @@
     "time": "11:00 AM - 12:00 PM",
     "tags": [
       "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Earth Day",
+    "link": "https://www.laguardia.edu/event/earth-day/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-22",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Greenway Earth Day",
+    "link": "https://www.laguardia.edu/event/greenway-earth-day/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-22",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
       "student events"
     ]
   },
@@ -2527,19 +2527,6 @@
     ]
   },
   {
-    "title": "Safezone 101 Training",
-    "link": "https://www.bmcc.cuny.edu/event/safezone-101-training/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-11",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "Featured",
-      "Pride Center",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Healing Through Hip-Hop: Live Performance and Participation",
     "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-live-performance-and-participation-2/2025-04-14/",
     "college": "Borough of Manhattan Community College",
@@ -2787,6 +2774,27 @@
     ]
   },
   {
+    "title": "Study Skills Workshops: Build Your Confidence as a Student (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-build-your-confidence-as-a-student-students-only-8/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-24",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Asian Heritage Month Film: Return to Seoul",
+    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-film-return-to-seoul/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-24",
+    "time": "12:30 PM - 03:00 PM",
+    "tags": [
+      "Asian Heritage Month",
+      "Co-Curricular Transcript"
+    ]
+  },
+  {
     "title": "eSearch for Research",
     "link": "https://www.bcc.cuny.edu/event/esearch-for-research/2025-04-16/",
     "college": "Bronx Community College",
@@ -2854,6 +2862,14 @@
     "college": "Bronx Community College",
     "date": "2025-05-01",
     "time": "02:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Senate",
+    "link": "https://www.bcc.cuny.edu/event/senate-tentative/2025-05-15/",
+    "college": "Bronx Community College",
+    "date": "2025-05-15",
+    "time": "12:00 PM - 02:00 PM",
     "tags": []
   },
   {
@@ -3022,6 +3038,16 @@
     ]
   },
   {
+    "title": "African International Club ELections",
+    "link": "https://csi.campuslabs.com/engage/event/11255290",
+    "college": "College of Staten Island",
+    "date": "2025-04-22",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Social"
+    ]
+  },
+  {
     "title": "Blossom & Stitch : A Crochet Workshop (252079-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11166822",
     "college": "College of Staten Island",
@@ -3133,6 +3159,21 @@
       "ThoughtfulLearning",
       "Learning",
       "CC CLUE"
+    ]
+  },
+  {
+    "title": "CUNY LEADS Alumni Panel",
+    "link": "https://csi.campuslabs.com/engage/event/11255878",
+    "college": "College of Staten Island",
+    "date": "2025-04-24",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "Social Justice\\",
+      "Diversity\\",
+      "Equity and Inclusion",
+      "Career Development"
     ]
   },
   {
@@ -3259,7 +3300,7 @@
     ]
   },
   {
-    "title": "Spirit Week International Talnet Night",
+    "title": "Spirit Week International Talent Night",
     "link": "https://csi.campuslabs.com/engage/event/11252082",
     "college": "College of Staten Island",
     "date": "2025-04-29",
@@ -3472,6 +3513,21 @@
       "Entertainment",
       "Willowbrook Campus",
       "Cultural"
+    ]
+  },
+  {
+    "title": "Pia Hargrove Presents: A Discussion on Intersectionality and Disability Justice",
+    "link": "https://csi.campuslabs.com/engage/event/11255991",
+    "college": "College of Staten Island",
+    "date": "2025-05-06",
+    "time": "06:30 PM - 08:00 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "Social Justice\\",
+      "Diversity\\",
+      "Equity and Inclusion",
+      "Career Development"
     ]
   },
   {
@@ -4371,14 +4427,6 @@
     "tags": []
   },
   {
-    "title": "Leadership in Public Organization & Social Agencies",
-    "link": "https://www.jjay.cuny.edu/news-events/events/leadership-public-organization-social-agencies-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-11",
-    "time": "10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Writing a Social Science Research Proposal",
     "link": "https://www.jjay.cuny.edu/news-events/events/writing-social-science-research-proposal",
     "college": "John Jay College of Criminal Justice",
@@ -4560,6 +4608,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-05-01",
     "time": "05:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Grad Brunch & Bingo",
+    "link": "https://www.jjay.cuny.edu/news-events/events/grad-brunch-bingo",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-05-02",
+    "time": "05:40 PM",
     "tags": []
   },
   {
