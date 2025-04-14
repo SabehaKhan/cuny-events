@@ -1,13 +1,5 @@
 [
   {
-    "title": "World Quantum Day at CCNY",
-    "link": "https://www.ccny.cuny.edu/calendar/world-quantum-day-ccny",
-    "college": "City College of New York",
-    "date": "2025-04-14",
-    "time": "12:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
     "title": "Academic Empowerment Workshop Series: Time Management",
     "link": "https://www.ccny.cuny.edu/calendar/academic-empowerment-workshop-series-time-management",
     "college": "City College of New York",
@@ -1356,50 +1348,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-68/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-14",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Art Unfolded: Exploration Through Art Therapy",
-    "link": "https://www.laguardia.edu/event/art-unfolded-exploration-through-art-therapy/2025-04-14/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-14",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "\"Make it happen Monday\" Transfer Credit Pre-Evaluation Session",
-    "link": "https://www.laguardia.edu/event/make-it-happen-monday-transfer-credit-pre-evaluation-session-14/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-14",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Sesiones Informativas en Español",
-    "link": "https://www.laguardia.edu/event/sesiones-informativas-en-espanol-10/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-14",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Admissions Adult Learner In-Person Information Session",
     "link": "https://www.laguardia.edu/event/admissions-adult-learner-in-person-information-session-6/",
     "college": "LaGuardia Community College",
@@ -1671,6 +1619,50 @@
     "college": "LaGuardia Community College",
     "date": "2025-04-22",
     "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Hunter College: Hunter Promise Transfer Information Session",
+    "link": "https://www.laguardia.edu/event/hunter-college-hunter-promise-transfer-information-session/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-23",
+    "time": "10:30 AM - 11:30 AM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-55/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-23",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Restaurant Worker Forum",
+    "link": "https://www.laguardia.edu/event/restaurant-worker-forum/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-23",
+    "time": "11:00 AM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Tai Chi (In-Person)",
+    "link": "https://www.laguardia.edu/event/tai-chi-in-person-2/2025-04-23/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-23",
+    "time": "11:45 AM - 12:45 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2253,16 +2245,6 @@
     ]
   },
   {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-04-14/",
-    "college": "Hunter College",
-    "date": "2025-04-14",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Wall Street Prep Financial Modeling and Valuation Boot Camp",
     "link": "https://hunter.cuny.edu/event/wall-street-prep-financial-modeling-and-valuation-boot-camp/",
     "college": "Hunter College",
@@ -2543,14 +2525,13 @@
     ]
   },
   {
-    "title": "Healing Through Hip-Hop: Live Performance and Participation",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-live-performance-and-participation-2/2025-04-14/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-14",
-    "time": "03:00 PM - 05:00 PM",
+    "title": "Building Bridges, Creating Futures: Community-Led Dialogue & Action",
+    "link": "https://hunter.cuny.edu/event/building-bridges-creating-futures-community-led-dialogue-action/",
+    "college": "Hunter College",
+    "date": "2025-04-30",
+    "time": "09:00 AM - 03:30 PM",
     "tags": [
-      "Counseling Center",
-      "Student Affairs"
+      "Lectures"
     ]
   },
   {
@@ -2630,6 +2611,17 @@
     ]
   },
   {
+    "title": "Healing Through Hip-Hop: Live Performance and Participation",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-live-performance-and-participation-2/2025-04-16/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-16",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Chat with an Admissions Representative",
     "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-128/2025-04-17/",
     "college": "Borough of Manhattan Community College",
@@ -2660,6 +2652,26 @@
       "Health Services",
       "Student Affairs"
     ]
+  },
+  {
+    "title": "Guest Speaker: The Visible and Invisible Disabilities of Ukraine’s “Invisible Battalion”: Women’s Stories from the Russia-Ukraine War",
+    "link": "https://www.bmcc.cuny.edu/event/guest-speaker-the-visible-and-invisible-disabilities-of-ukraines-invisible-battalion-womens-stories-from-the-russia-ukraine-war/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-22",
+    "time": "10:00 AM - 11:30 AM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "English",
+      "Featured"
+    ]
+  },
+  {
+    "title": "The Visible and Invisible Disabilities of Ukraine’s “Invisible Battalion”: Women’s Stories from the Russia-Ukraine War.",
+    "link": "https://www.bmcc.cuny.edu/event/the-visible-and-invisible-disabilities-of-ukraines-invisible-battalion-womens-stories-from-the-russia-ukraine-war/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-22",
+    "time": "10:00 AM - 11:30 AM",
+    "tags": []
   },
   {
     "title": "Crafting Your Future: Resume & Cover Letter Workshop",
@@ -2800,6 +2812,18 @@
     ]
   },
   {
+    "title": "Spring 2025 Career Day",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2025-career-day/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-24",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
     "title": "Asian Heritage Month Film: Return to Seoul",
     "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-film-return-to-seoul/",
     "college": "Borough of Manhattan Community College",
@@ -2808,30 +2832,6 @@
     "tags": [
       "Asian Heritage Month",
       "Co-Curricular Transcript"
-    ]
-  },
-  {
-    "title": "From Applicant to Employee: How to Succeed in Your Next Interview",
-    "link": "https://www.bmcc.cuny.edu/event/from-applicant-to-employee-how-to-succeed-in-your-next-interview-6/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-24",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development"
-    ]
-  },
-  {
-    "title": "Safezone Training 101",
-    "link": "https://www.bmcc.cuny.edu/event/safezone-training-101/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-25",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "Featured",
-      "Pride Center",
-      "Student Affairs"
     ]
   },
   {
@@ -3577,7 +3577,7 @@
     ]
   },
   {
-    "title": "Pia Hargrove Presents: A Discussion on Intersectionality and Disability Justice",
+    "title": "Pia Hargrove: A Discussion on Intersectionality and Disability Justice",
     "link": "https://csi.campuslabs.com/engage/event/11255991",
     "college": "College of Staten Island",
     "date": "2025-05-06",
@@ -3788,7 +3788,8 @@
     "time": "06:30 PM - 07:30 PM",
     "tags": [
       "ThoughtfulLearning",
-      "Learning"
+      "Learning",
+      "Career Development"
     ]
   },
   {
@@ -4425,6 +4426,14 @@
     "college": "CUNY School of Public Health",
     "date": "2025-05-14",
     "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "4+1 information session",
+    "link": "https://sph.cuny.edu/event/41-information-session-2/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-05-15",
+    "time": "6:00PM",
     "tags": []
   },
   {
