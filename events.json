@@ -1348,17 +1348,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Adult Learner In-Person Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-adult-learner-in-person-information-session-6/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-14",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "CUNY EDGE 20 Minute Info Sessions",
     "link": "https://www.laguardia.edu/event/cuny-edge-20-minute-info-sessions/2025-04-15/",
     "college": "LaGuardia Community College",
@@ -1663,6 +1652,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-04-23",
     "time": "11:45 AM - 12:45 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Jane LaTour Memorial Lecture",
+    "link": "https://www.laguardia.edu/event/jane-latour-memorial-lecture/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-23",
+    "time": "11:45 AM - 01:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2535,16 +2535,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-251/2025-04-14/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-14",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
     "title": "Take a Tour of BMCC’s Campus",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-86/2025-04-15/",
     "college": "Borough of Manhattan Community College",
@@ -2563,6 +2553,16 @@
     "tags": [
       "Featured",
       "Financial Aid Office"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-251/2025-04-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-15",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions"
     ]
   },
   {
@@ -3837,26 +3837,6 @@
     ]
   },
   {
-    "title": "World Quantum Day at CCNY",
-    "link": "https://events.cuny.edu/cec/world-quantum-day-at-ccny/",
-    "college": "The City College of New York",
-    "date": "2025-04-14",
-    "time": "12:00 PM - 3:00 PM",
-    "tags": [
-      "World Quantum Day at CCNY"
-    ]
-  },
-  {
-    "title": "Lightning Session-Improve Productivity",
-    "link": "https://events.cuny.edu/cec/lightning-session-improve-productivity-2/",
-    "college": "College of Staten Island",
-    "date": "2025-04-14",
-    "time": "1:00 PM - 1:15 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
     "title": "Tech Talk Time",
     "link": "https://events.cuny.edu/cec/tech-talk-time-5/",
     "college": "College of Staten Island",
@@ -3917,100 +3897,24 @@
     ]
   },
   {
-    "title": "Queens-wide 2nd Undergraduate Research Day",
-    "link": "https://qc.event.cuny.edu/events/sTbCtAX3ki40WxAYgDjx/hEktVzSTCzV5YTRSZoT9",
-    "college": "Queens College",
-    "date": "2025-04-14",
-    "time": "9:00AM",
-    "tags": []
+    "title": "LGBTQ+ Peer Support Group",
+    "link": "https://events.cuny.edu/cec/lgbtq-peer-support-group-10/",
+    "college": "The City College of New York",
+    "date": "2025-04-16",
+    "time": "11:30 AM - 12:30 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
   },
   {
-    "title": "CUNY Explorers Program",
-    "link": "https://qc.event.cuny.edu/events/wju3TfFdOp2Ngqm54Sgi/ACp8NbveqY74m0xEx6109",
-    "college": "Queens College",
-    "date": "2025-04-14",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "FAID Workshop",
-    "link": "https://qc.event.cuny.edu/events/Da5KEskgngVMRDc3WhEp/JSUa6K2zFZD0d5OC58UA23",
-    "college": "Queens College",
-    "date": "2025-04-14",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Transfer to Stem Student Success Graduate Fellow",
-    "link": "https://qc.event.cuny.edu/events/LusQhvq8ElgdyhARPUyW/KSEPAG5jwmX3AHQzoerU7",
-    "college": "Queens College",
-    "date": "2025-04-14",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Pre-law Program",
-    "link": "https://qc.event.cuny.edu/events/dV6RXOZVbpOt152Mal6G/N6504tPPLmiqAh9tJqrW12",
-    "college": "Queens College",
-    "date": "2025-04-14",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Computer Sci. Colloquium",
-    "link": "https://qc.event.cuny.edu/events/PxAG0oWeVomWZbL10sq4/SQ4Fin7Yd1sOFdsFyelL",
-    "college": "Queens College",
-    "date": "2025-04-14",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "SP25 SEEK Workshops",
-    "link": "https://qc.event.cuny.edu/events/UDYEoYk3UflPGbl0JAA3/f8p3x48ZQD2wtlnY5Gqy20",
-    "college": "Queens College",
-    "date": "2025-04-14",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Assoc. Prov. For Inn. & Student Success: Transfer Orientation Sessions",
-    "link": "https://qc.event.cuny.edu/events/bGFZ5sf4E4U79ew3d8mY/kpNIrV9DIimaua8UrEtl23",
-    "college": "Queens College",
-    "date": "2025-04-14",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Learning Commons Workshops",
-    "link": "https://qc.event.cuny.edu/events/me80eps4EURPKsny7urO/lN5QkmfkSQZSiAALYc7T3",
-    "college": "Queens College",
-    "date": "2025-04-14",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Tutoring Services",
-    "link": "https://qc.event.cuny.edu/events/rBXP5CeCOe9GqT6eupo9/nssflnILTel0ikNS2HSs23",
-    "college": "Queens College",
-    "date": "2025-04-14",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Math Workshops",
-    "link": "https://qc.event.cuny.edu/events/IIJyboiXFCQi8aAn7Eww/vBCL0Yawch99E91ybB5023",
-    "college": "Queens College",
-    "date": "2025-04-14",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "BIOL 106 Make Up Exams",
-    "link": "https://qc.event.cuny.edu/events/U4cVHG6IGQeRsnfbq93o/tSWOsngSUjEoC3YQXF1412",
-    "college": "Queens College",
-    "date": "2025-04-14",
-    "time": "4:00PM",
-    "tags": []
+    "title": "Tech Talk Time",
+    "link": "https://events.cuny.edu/cec/lightning-sessions-improve-productivity/",
+    "college": "College of Staten Island",
+    "date": "2025-04-16",
+    "time": "11:30 AM - 12:00 PM",
+    "tags": [
+      "Technology Training"
+    ]
   },
   {
     "title": "Queens School of Inquiry 2024-2025",
@@ -4021,35 +3925,83 @@
     "tags": []
   },
   {
-    "title": "Visible Communication: Works from the Baruch College Art Collection",
-    "link": "https://baruch.event.cuny.edu/events/eFmyf5kE5Qrerzdr7IFD/wY0pjUe5AxtnjvGV2n9i11",
-    "college": "Baruch College",
-    "date": "2025-04-14",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "2o minute mondays",
-    "link": "https://baruch.event.cuny.edu/events/kdMSk9f4upbq7G37WaIO/6C7e8IjCDghUXdCPAMnb",
-    "college": "Baruch College",
-    "date": "2025-04-14",
+    "title": "Prof. Jian Xiao",
+    "link": "https://qc.event.cuny.edu/events/EBZQ4cBydX1bWzgpvgJ8/qYC2QU32IsVLFZVpblnw20",
+    "college": "Queens College",
+    "date": "2025-04-15",
     "time": "12:00PM",
     "tags": []
   },
   {
-    "title": "Torah Learning",
-    "link": "https://baruch.event.cuny.edu/events/fVIfXlttVByC36lK7HZo/HcY13XZSczRktxE1sG2j",
-    "college": "Baruch College",
-    "date": "2025-04-14",
-    "time": "12:00PM",
+    "title": "CUNY Explorers Program",
+    "link": "https://qc.event.cuny.edu/events/wju3TfFdOp2Ngqm54Sgi/ACp8NbveqY74m0xEx61010",
+    "college": "Queens College",
+    "date": "2025-04-15",
+    "time": "12:15PM",
     "tags": []
   },
   {
-    "title": "Hebrew Class",
-    "link": "https://baruch.event.cuny.edu/events/feJu4K9Pre48ZOXD0gh4/JM7heES9Aa9HILYquBPy",
-    "college": "Baruch College",
-    "date": "2025-04-14",
-    "time": "5:30PM",
+    "title": "ROTC Lecture Classes",
+    "link": "https://qc.event.cuny.edu/events/Fw2aJb8yqeqchKslVKmh/ldBOcUaWM0CtCeb60kbB12",
+    "college": "Queens College",
+    "date": "2025-04-15",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Recitation",
+    "link": "https://qc.event.cuny.edu/events/qyEP9NZCD0RFmrGG0SyG/AX6aTmfuY33yWqY41tR4120",
+    "college": "Queens College",
+    "date": "2025-04-15",
+    "time": "2:30PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Explorers Program",
+    "link": "https://qc.event.cuny.edu/events/wju3TfFdOp2Ngqm54Sgi/ACp8NbveqY74m0xEx61011",
+    "college": "Queens College",
+    "date": "2025-04-16",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Computer Sci. Colloquium",
+    "link": "https://qc.event.cuny.edu/events/PxAG0oWeVomWZbL10sq4/IuWhRVGRhAgLrZExysBn",
+    "college": "Queens College",
+    "date": "2025-04-16",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "FAID Workshop",
+    "link": "https://qc.event.cuny.edu/events/Da5KEskgngVMRDc3WhEp/JSUa6K2zFZD0d5OC58UA24",
+    "college": "Queens College",
+    "date": "2025-04-16",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Economics Seminars",
+    "link": "https://qc.event.cuny.edu/events/uMFIFyBQ12DOZmKtuAE4/M6EdwCGnApbzgXLbt9Yz111",
+    "college": "Queens College",
+    "date": "2025-04-16",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Assoc. Prov. For Inn. & Student Success: Transfer Orientation Sessions",
+    "link": "https://qc.event.cuny.edu/events/bGFZ5sf4E4U79ew3d8mY/kpNIrV9DIimaua8UrEtl24",
+    "college": "Queens College",
+    "date": "2025-04-16",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Tutoring Services",
+    "link": "https://qc.event.cuny.edu/events/rBXP5CeCOe9GqT6eupo9/nssflnILTel0ikNS2HSs24",
+    "college": "Queens College",
+    "date": "2025-04-16",
+    "time": "12:15PM",
     "tags": []
   },
   {
@@ -4125,19 +4077,11 @@
     "tags": []
   },
   {
-    "title": "NUR 1030",
-    "link": "https://citytech.event.cuny.edu/events/UQxDa1xs0lXWbqGlJxRn/HyCtvR1Mg6n6SHMpJqfK3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-14",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/ffcHGrpk3xkheBdjZei59",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-14",
-    "time": "10:00AM",
+    "title": "Visible Communication: Works from the Baruch College Art Collection",
+    "link": "https://baruch.event.cuny.edu/events/eFmyf5kE5Qrerzdr7IFD/wY0pjUe5AxtnjvGV2n9i15",
+    "college": "Baruch College",
+    "date": "2025-04-18",
+    "time": "11:00AM",
     "tags": []
   },
   {
@@ -4205,11 +4149,11 @@
     "tags": []
   },
   {
-    "title": "DC 37",
-    "link": "https://hostos.event.cuny.edu/events/fDhY0o7A1sMBRRCVYPfh/klT43dW1YxqWfbF4du6m",
-    "college": "Hostos Community College",
-    "date": "2025-04-14",
-    "time": "10:00AM",
+    "title": "The Professional and Technical Writing (PTW) Club",
+    "link": "https://citytech.event.cuny.edu/events/Axb1DZyIi5pJvGT3qEv8/OYjap3UsdRqk59XukkPE8",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-17",
+    "time": "12:45PM",
     "tags": []
   },
   {
@@ -4813,14 +4757,6 @@
     "tags": []
   },
   {
-    "title": "Softball vs. Lehman College",
-    "link": "https://www.york.cuny.edu/events/2025/softball-vs-lehman-04142025",
-    "college": "York College",
-    "date": "2025-04-14",
-    "time": "4:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
     "title": "It's Fitness Time in the Fitness Center",
     "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
     "college": "York College",
@@ -4893,6 +4829,22 @@
     "tags": []
   },
   {
+    "title": "Financial Empowerment Seminar",
+    "link": "https://www.york.cuny.edu/womens-center/calendar-of-events/financial-empowerment-seminar",
+    "college": "York College",
+    "date": "2025-04-22",
+    "time": "4:30 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Earth Day 2025",
+    "link": "https://www.york.cuny.edu/events/earth-day-2025",
+    "college": "York College",
+    "date": "2025-04-22",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
     "title": "Wellness Wednesday - April",
     "link": "https://www.york.cuny.edu/events/wellness-wednesday-2",
     "college": "York College",
@@ -4907,17 +4859,6 @@
     "date": "2025-05-14",
     "time": "4:00 PM - 6:00 PM",
     "tags": []
-  },
-  {
-    "title": "REFLECTING ON \"THE ANTITHEATRICAL PREJUDICE\" WITH JOSEPH ROACH",
-    "link": "https://www.gc.cuny.edu/events/reflecting-antitheatrical-prejudice-joseph-roach",
-    "college": "CUNY Graduate Center",
-    "date": "2025-04-14",
-    "time": "6:30 pm — 9:00 pm",
-    "location": "1218: Segal Theatre",
-    "tags": [
-      "Martin E. Segal Theatre Center"
-    ]
   },
   {
     "title": "RECITAL: ROBERT BROOKS CARLSON, PIANO",
@@ -5010,6 +4951,17 @@
     ]
   },
   {
+    "title": "WORKSHOP: TAKING SMARTER NOTES",
+    "link": "https://www.gc.cuny.edu/events/workshop-taking-smarter-notes",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-22",
+    "time": "3:00 pm — 4:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
+  },
+  {
     "title": "Fresh Food Bag Distribution",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-22-fresh-food-bag-distribution.html",
     "college": "Queensborough Community College",
@@ -5024,14 +4976,6 @@
     "date": "2025-04-23",
     "time": "12:10 PM - 01:25 PM",
     "description": ""
-  },
-  {
-    "title": "Nassau Night at QCC",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-14-nassau-night-at-qcc.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-14",
-    "time": "03:00 PM - 06:00 PM",
-    "description": "Admissions Event"
   },
   {
     "title": "National Library Week April 2025",
@@ -5176,6 +5120,14 @@
     "date": "2025-04-22",
     "time": "03:00 PM - 04:00 PM",
     "description": "ASAP Career Event"
+  },
+  {
+    "title": "National Library Week April 2025",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-23-national-library-week-april-2025.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-23",
+    "time": "09:00 AM - 07:45 PM",
+    "description": "Special Event / Fair"
   },
   {
     "title": "Lunch Hour Workshop: Freeing Your Ideas",
