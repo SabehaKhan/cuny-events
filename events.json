@@ -1,13 +1,5 @@
 [
   {
-    "title": "CUNY Compliance ESPARC and WVP Virtual Zoom Trainings",
-    "link": "https://www.ccny.cuny.edu/calendar/cuny-compliance-esparc-and-wvp-virtual-zoom-trainings-0",
-    "college": "City College of New York",
-    "date": "2025-04-17",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-5",
     "college": "City College of New York",
@@ -718,6 +710,16 @@
     "date": "2025-04-23",
     "time": "12:30 PM - 01:30 PM",
     "tags": []
+  },
+  {
+    "title": "Faculty Book Launch: Ending Isolation: The Case Against Solitary Confinement Featuring co-author Professor Deborah Zalesne",
+    "link": "https://www.law.cuny.edu/event/faculty-book-launch-ending-isolation-the-case-against-solitary-confinement-featuring-co-author-professor-deborah-zalesne/",
+    "college": "CUNY School of Law",
+    "date": "2025-04-24",
+    "time": "06:30 PM - 08:00 PM",
+    "tags": [
+      "Faculty"
+    ]
   },
   {
     "title": "El Ritmo es la Ley: Weekly Latin Dance Classes",
@@ -1864,6 +1866,17 @@
     ]
   },
   {
+    "title": "Abilities Club Invite to CCSD Movie Night",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376236",
+    "college": "Guttman Community College",
+    "date": "2025-04-24",
+    "time": "11:00 PM - 02:00 AM",
+    "tags": [
+      "EMSA",
+      "Educational/Awareness"
+    ]
+  },
+  {
     "title": "Guttman Goes to Orlando",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376161",
     "college": "Guttman Community College",
@@ -1916,6 +1929,17 @@
       "Workshop",
       "Financial Aid",
       "FASFA & TAP Applications"
+    ]
+  },
+  {
+    "title": "The Confidence Code: Embrace Your DISC Style",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376237",
+    "college": "Guttman Community College",
+    "date": "2025-04-30",
+    "time": "04:00 PM - 06:00 PM",
+    "tags": [
+      "EMSA",
+      "Educational/Awareness"
     ]
   },
   {
@@ -3825,36 +3849,6 @@
     ]
   },
   {
-    "title": "Tech Talk Time",
-    "link": "https://events.cuny.edu/cec/lightning-sessions-improve-productivity-2/",
-    "college": "College of Staten Island",
-    "date": "2025-04-17",
-    "time": "11:00 AM - 11:30 AM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "Tech Talk Time",
-    "link": "https://events.cuny.edu/cec/lightning-sessions-improve-productivity-3/",
-    "college": "College of Staten Island",
-    "date": "2025-04-17",
-    "time": "11:30 AM - 12:00 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "Virtual FAFSA Completion Event",
-    "link": "https://events.cuny.edu/cec/virtual-fafsa-completion-event/",
-    "college": "The University",
-    "date": "2025-04-17",
-    "time": "3:00 PM - 5:00 PM",
-    "tags": [
-      "Financial Aid"
-    ]
-  },
-  {
     "title": "FAFSA and TAP Completion Event at Kingsborough Community College",
     "link": "https://events.cuny.edu/cec/fafsa-and-tap-completion-event-at-kingsborough-community-college-december-21st/",
     "college": "The University",
@@ -3925,36 +3919,34 @@
     ]
   },
   {
-    "title": "QC Counseling Services Group Session",
-    "link": "https://qc.event.cuny.edu/events/Dj9inDx7ROOkSzkkAWxy/kjd3DfLwAo3Yld0rksbc10",
-    "college": "Queens College",
-    "date": "2025-04-17",
-    "time": "11:00AM",
+    "title": "Migration Narratives in the U.S: Building Community Capacity and Resilience",
+    "link": "https://events.cuny.edu/cec/migration-narratives-in-the-u-s-building-community-capacity-and-resilience/",
+    "college": "Hunter College",
+    "date": "2025-04-21",
+    "time": "5:00 PM - 6:30 PM",
     "tags": []
   },
   {
-    "title": "Prof. Jian Xiao",
-    "link": "https://qc.event.cuny.edu/events/EBZQ4cBydX1bWzgpvgJ8/qYC2QU32IsVLFZVpblnw21",
-    "college": "Queens College",
-    "date": "2025-04-17",
-    "time": "12:00PM",
-    "tags": []
+    "title": "Virtual Information Session Series for Transfer Students and Adults",
+    "link": "https://events.cuny.edu/cec/virtual-information-session-series-for-transfer-students-and-adults/",
+    "college": "College of Staten Island",
+    "date": "2025-04-21",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": [
+      "Admissions",
+      "Adult Learners"
+    ]
   },
   {
-    "title": "CUNY Explorers Program",
-    "link": "https://qc.event.cuny.edu/events/wju3TfFdOp2Ngqm54Sgi/ACp8NbveqY74m0xEx61012",
-    "college": "Queens College",
-    "date": "2025-04-17",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Recitation",
-    "link": "https://qc.event.cuny.edu/events/qyEP9NZCD0RFmrGG0SyG/AX6aTmfuY33yWqY41tR4121",
-    "college": "Queens College",
-    "date": "2025-04-17",
-    "time": "2:30PM",
-    "tags": []
+    "title": "Virtual Transfer Event: Your Bridge to CSI",
+    "link": "https://events.cuny.edu/cec/virtual-transfer-event-your-bridge-to-csi/",
+    "college": "College of Staten Island",
+    "date": "2025-04-21",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": [
+      "Admissions",
+      "Adult Learners"
+    ]
   },
   {
     "title": "Diversity week - Reaffirming Unity, Strength, Belonging , and Progress conference",
@@ -3997,35 +3989,51 @@
     "tags": []
   },
   {
-    "title": "New Venture Accelerator 1 - Fall 2025 Applications",
-    "link": "https://baruch.event.cuny.edu/events/auyg8YwbCWlCoPvsCQg3/CNZR2xKwYkRaZ3gd5WIk",
-    "college": "Baruch College",
-    "date": "2025-04-17",
-    "time": "12:00AM",
-    "tags": []
-  },
-  {
-    "title": "Visible Communication: Works from the Baruch College Art Collection",
-    "link": "https://baruch.event.cuny.edu/events/eFmyf5kE5Qrerzdr7IFD/wY0pjUe5AxtnjvGV2n9i14",
-    "college": "Baruch College",
-    "date": "2025-04-17",
+    "title": "Sally Izquierdo's Event",
+    "link": "https://qc.event.cuny.edu/events/zFVdFzs9HpQyzYvBL8La/aG1mAU6zWYCY1FxF8EmZ",
+    "college": "Queens College",
+    "date": "2025-04-21",
     "time": "11:00AM",
     "tags": []
   },
   {
-    "title": "Soviet learning fellowship",
-    "link": "https://baruch.event.cuny.edu/events/LlHgMq4XwiEzqcPIzBnG/dpliC1sCWsNzlXTBbfuh",
-    "college": "Baruch College",
-    "date": "2025-04-17",
-    "time": "5:30PM",
+    "title": "OSDL LGBTQI+: Spring 2025 Events",
+    "link": "https://qc.event.cuny.edu/events/mKydvpdiWYc5vHpBPH0M/n7UJ41sUSlhYwWwOV7dt",
+    "college": "Queens College",
+    "date": "2025-04-21",
+    "time": "11:00AM",
     "tags": []
   },
   {
-    "title": "FaithFULL Fellowship",
-    "link": "https://baruch.event.cuny.edu/events/GqvOIiy22TT0eJCtpm9w/kA5mVgbPrkZOnklkpgaG",
-    "college": "Baruch College",
-    "date": "2025-04-17",
-    "time": "5:30PM",
+    "title": "LALAS: Women in Color Exhibition",
+    "link": "https://qc.event.cuny.edu/events/P9YZWUiqVchPqMYBI6Ey/wQu2m717PyeFSzA7lQi7",
+    "college": "Queens College",
+    "date": "2025-04-21",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Resource Fair for Diversity Week",
+    "link": "https://qc.event.cuny.edu/events/ecNwEXLY3Ol5hqWmrj3P/L2YMBNfdEofocmB9AoqA",
+    "college": "Queens College",
+    "date": "2025-04-21",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Free weekly yoga class",
+    "link": "https://qc.event.cuny.edu/events/UeSsTKzMTfOphM4a5RB2/veDmc6eBS19xzYieBLa18",
+    "college": "Queens College",
+    "date": "2025-04-21",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Explorers Program",
+    "link": "https://qc.event.cuny.edu/events/wju3TfFdOp2Ngqm54Sgi/ACp8NbveqY74m0xEx61014",
+    "college": "Queens College",
+    "date": "2025-04-21",
+    "time": "12:15PM",
     "tags": []
   },
   {
@@ -4109,67 +4117,43 @@
     "tags": []
   },
   {
-    "title": "Spring 2025 General Tour",
-    "link": "https://citytech.event.cuny.edu/events/zcRgA6WdfIa1qVBITSz5/Wfyw9RAxPFvmzStxiA3Y",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-17",
+    "title": "Marxe Talks Series",
+    "link": "https://baruch.event.cuny.edu/events/EUhg6B6w6mG2qnxec17Q/LC2mDbQDbvpYdjOueGAK",
+    "college": "Baruch College",
+    "date": "2025-04-22",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Clash Ideas Competition @ AMAZON",
+    "link": "https://baruch.event.cuny.edu/events/JGW84q2BnGp16GAVXy12/pfUBi148oJKjqUUcwRs2",
+    "college": "Baruch College",
+    "date": "2025-04-23",
+    "time": "12:00AM",
+    "tags": []
+  },
+  {
+    "title": "Women's Learning",
+    "link": "https://baruch.event.cuny.edu/events/DG3f5ypBPtMo1UIpybRo/sjc8zivf5KHeMTQvJXqX",
+    "college": "Baruch College",
+    "date": "2025-04-23",
     "time": "11:00AM",
     "tags": []
   },
   {
-    "title": "ASAP/ACE Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/zVehjO3CNf7tzBsGmF7j10",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-17",
+    "title": "Visible Communication: Works from the Baruch College Art Collection",
+    "link": "https://baruch.event.cuny.edu/events/eFmyf5kE5Qrerzdr7IFD/wY0pjUe5AxtnjvGV2n9i18",
+    "college": "Baruch College",
+    "date": "2025-04-23",
     "time": "11:00AM",
     "tags": []
   },
   {
-    "title": "The Professional and Technical Writing (PTW) Club",
-    "link": "https://citytech.event.cuny.edu/events/Axb1DZyIi5pJvGT3qEv8/OYjap3UsdRqk59XukkPE8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-17",
-    "time": "12:45PM",
-    "tags": []
-  },
-  {
-    "title": "South Asian Student Association",
-    "link": "https://citytech.event.cuny.edu/events/f84ACDAV16L0gL3VZhMD/RiPDCp22460hXIZdTjK37",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-17",
-    "time": "12:45PM",
-    "tags": []
-  },
-  {
-    "title": "MoneyWi$e Financial Education Workshop",
-    "link": "https://citytech.event.cuny.edu/events/MavvAdyjknOaYA4F2i1k/H4TuWdzrGsjJk6eCEOwR",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-17",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "SPRING 2025 - SEEK WORKSHOP",
-    "link": "https://citytech.event.cuny.edu/events/nhihryEkgGuaMMdBC61j/HqIOGJB1eTelOjR1nHbU11",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-17",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK ACADEMIC WOKSHOPS- SPRING 2025",
-    "link": "https://citytech.event.cuny.edu/events/mCkVXpkHch27GnWFR9Ee/r9gVewpTR0DiFN064AYR10",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-17",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Building Mechanicals: Systems and Equipment",
-    "link": "https://citytech.event.cuny.edu/events/XUQ18vQdnwXu1ZLO7vIc/P9D4FievPRGmteRswSR9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-17",
-    "time": "6:00PM",
+    "title": "Hillel Tabling",
+    "link": "https://baruch.event.cuny.edu/events/hJYBZUwVDBkEjicxHgq2/meTPeVW9ZfcBVvd5oj2s",
+    "college": "Baruch College",
+    "date": "2025-04-23",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -4186,6 +4170,54 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-04-18",
     "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "STEP spring 2025 program",
+    "link": "https://citytech.event.cuny.edu/events/SrhNnlfUfZjUy77kVoAg/DZErqUYOu3mQzacerbjX8",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-19",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "College Now: Workshops",
+    "link": "https://citytech.event.cuny.edu/events/FRAF4oDNGNwEgTfmQk25/eqrjaxBhwReYXuGjFBwu10",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-19",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "NYC Deaf and Hard of  Hearing Association",
+    "link": "https://citytech.event.cuny.edu/events/TpOB7rDBK8MQbyVPXXP8/wPniFnEOSasMsQNbRIaf",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-19",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Love Fellowship Tabernacle - Morning Service",
+    "link": "https://citytech.event.cuny.edu/events/AUoe10MsWvNb2O4b6Dhq/udcrmnOGgziHWe7fpQkD",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-20",
+    "time": "6:00AM",
+    "tags": []
+  },
+  {
+    "title": "NUR 1030",
+    "link": "https://citytech.event.cuny.edu/events/UQxDa1xs0lXWbqGlJxRn/HyCtvR1Mg6n6SHMpJqfK4",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/ffcHGrpk3xkheBdjZei511",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-21",
+    "time": "10:00AM",
     "tags": []
   },
   {
@@ -4226,6 +4258,22 @@
     "college": "Hostos Community College",
     "date": "2025-04-24",
     "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "Student Symposium",
+    "link": "https://hostos.event.cuny.edu/events/DPo2NfjhtNnxpuTM5Opy/EuklqhBsmFHNrmtFjCGk",
+    "college": "Hostos Community College",
+    "date": "2025-04-25",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Hostos Student Leadership Academy Friday Ambassador Workshop Series-Spring",
+    "link": "https://hostos.event.cuny.edu/events/Yi1yWOacLz0YvnIJWlix/KePVG01YNQkYqvPvCYfS12",
+    "college": "Hostos Community College",
+    "date": "2025-04-25",
+    "time": "2:30PM",
     "tags": []
   },
   {
@@ -4290,14 +4338,6 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-04-29",
     "time": "10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Information Session for MPH and MS programs",
-    "link": "https://sph.cuny.edu/event/information-session-for-mph-and-ms-programs/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-04-17",
-    "time": "6:00PM",
     "tags": []
   },
   {
@@ -4450,14 +4490,6 @@
     "college": "CUNY School of Public Health",
     "date": "2025-08-07",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Graduate Application and Enrollment Roundtable",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable-.php",
-    "college": "Lehman College",
-    "date": "2025-04-17",
-    "time": "12:00 PM- 1:00 PM",
     "tags": []
   },
   {
@@ -4797,14 +4829,6 @@
     "tags": []
   },
   {
-    "title": "Softball vs. John Jay College",
-    "link": "https://www.york.cuny.edu/events/2025/softball-vs-john-jay-04172025",
-    "college": "York College",
-    "date": "2025-04-17",
-    "time": "4:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
     "title": "It's Fitness Time in the Fitness Center",
     "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
     "college": "York College",
@@ -4917,18 +4941,6 @@
     "tags": []
   },
   {
-    "title": "M.A. IN LIBERAL STUDIES - VIRTUAL INFO SESSION",
-    "link": "https://www.gc.cuny.edu/events/ma-liberal-studies-virtual-info-session-april-17-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-04-17",
-    "time": "6:00 pm",
-    "location": "Online",
-    "tags": [
-      "Liberal Studies",
-      "Admissions"
-    ]
-  },
-  {
     "title": "FRIDAYS@1: BEVERLY GAGE",
     "link": "https://www.gc.cuny.edu/events/fridays1-beverly-gage",
     "college": "CUNY Graduate Center",
@@ -5018,6 +5030,17 @@
       "Climate",
       "Inequality",
       "Sciences"
+    ]
+  },
+  {
+    "title": "READING THUCYDIDES",
+    "link": "https://www.gc.cuny.edu/events/reading-thucydides",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-22",
+    "time": "5:00 pm — 7:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Classics"
     ]
   },
   {
@@ -5179,14 +5202,6 @@
     "date": "2025-04-23",
     "time": "12:15 PM - 01:15 PM",
     "description": "Career Services Event"
-  },
-  {
-    "title": "Lunch Hour Workshop: Freeing Your Ideas",
-    "link": "https://www.eventbrite.com/e/lunch-hour-workshops-tickets-1119423238039?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-04-17",
-    "time": "05:15 PM - 05:45 PM",
-    "description": "<b>REGISTRATION LINK: </b><a href=\"https://www.eventbrite.com/e/lunch-hour-workshops-tickets-1119423238039?aff=oddtdtcreator\">https://www.eventbrite.com/e/lunch-hour-workshops-tickets-1119423238039?aff=oddtdtcreator</a>"
   },
   {
     "title": "Writing Snack",
