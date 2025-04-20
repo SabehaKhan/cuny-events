@@ -4105,16 +4105,6 @@
     ]
   },
   {
-    "title": "FAFSA and TAP Completion Event at Kingsborough Community College",
-    "link": "https://events.cuny.edu/cec/fafsa-and-tap-completion-event-at-kingsborough-community-college-december-21st/",
-    "college": "The University",
-    "date": "2025-04-19",
-    "time": "10:00 AM - 2:00 PM",
-    "tags": [
-      "Financial Aid"
-    ]
-  },
-  {
     "title": "Spring Into Wellness",
     "link": "https://events.cuny.edu/cec/spring-into-wellness-8/",
     "college": "The University",
@@ -4203,6 +4193,14 @@
       "Admissions",
       "Adult Learners"
     ]
+  },
+  {
+    "title": "Business, MSB Information Session",
+    "link": "https://lehman.edu/events/2025/Business-MSB-Information-Session--1.php",
+    "college": "Lehman College",
+    "date": "2025-04-21",
+    "time": "5:30 PM - 6:30 PM",
+    "tags": []
   },
   {
     "title": "Autism Program",
@@ -4303,6 +4301,14 @@
   {
     "title": "Career Readiness Workshops",
     "link": "https://qc.event.cuny.edu/events/pi80EtLli6Ft6QLAJG1j/VAWjxU3RUa6O6lWbqmGB",
+    "college": "Queens College",
+    "date": "2025-04-21",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "SP25 SEEK Workshops",
+    "link": "https://qc.event.cuny.edu/events/UDYEoYk3UflPGbl0JAA3/f8p3x48ZQD2wtlnY5Gqy22",
     "college": "Queens College",
     "date": "2025-04-21",
     "time": "12:15PM",
@@ -4437,27 +4443,11 @@
     "tags": []
   },
   {
-    "title": "STEP spring 2025 program",
-    "link": "https://citytech.event.cuny.edu/events/SrhNnlfUfZjUy77kVoAg/DZErqUYOu3mQzacerbjX8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-19",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "College Now: Workshops",
-    "link": "https://citytech.event.cuny.edu/events/FRAF4oDNGNwEgTfmQk25/eqrjaxBhwReYXuGjFBwu10",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-19",
-    "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "NYC Deaf and Hard of  Hearing Association",
-    "link": "https://citytech.event.cuny.edu/events/TpOB7rDBK8MQbyVPXXP8/wPniFnEOSasMsQNbRIaf",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-04-19",
-    "time": "1:00PM",
+    "title": "Gangs and Security in Haiti",
+    "link": "https://baruch.event.cuny.edu/events/BsXSmzwCDOdQLPsJq0dz/eGrig9fcSFeIUB0RvoIF",
+    "college": "Baruch College",
+    "date": "2025-04-24",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -4498,6 +4488,94 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-04-21",
     "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "US Marines Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/lgXNQBJOlSUATljXOwSB/kKjhE7OQvZ1XRXI7QUFj13",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-22",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/zVehjO3CNf7tzBsGmF7j11",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-22",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "SLD Student Leadership Workshop #3: Effective Communication",
+    "link": "https://citytech.event.cuny.edu/events/rgoBTXo33iYAFjM1DY1N/cvl3Tpx9K3lCtDElcRaE",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-22",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP Career Workshop: Interview Skills",
+    "link": "https://citytech.event.cuny.edu/events/PrG4Q2f7E6eFeHoem8QD/bGItFDSUL3h9u20miBOO",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-22",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "City Tech ASAP/ACE Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/YpeFFoWE7M6beYn01I2L/H7ZjwV5xJHnmPH8O2goL6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-22",
+    "time": "2:30PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Information Sessions",
+    "link": "https://citytech.event.cuny.edu/events/SYZ3zNG8hLa1TDRp9YiX/mBU3dYD3EeX2vgky2xAX",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-22",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "Building Mechanicals: Systems and Equipment",
+    "link": "https://citytech.event.cuny.edu/events/XUQ18vQdnwXu1ZLO7vIc/J5gwG85fmgjGrIfHylhc",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-22",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Rep Dan Goldman NY10 Town Hall",
+    "link": "https://citytech.event.cuny.edu/events/AoR73IJcTKkuVmioJhNa/iolUTSLnu7jA4sBsnHaP",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-22",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/ffcHGrpk3xkheBdjZei512",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-23",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Development Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/ucXGTq5ms8iUBUWPqNlv/WMj2Lwsg4JMjtTxSqWkK",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-23",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Spring 2025 General Tour",
+    "link": "https://citytech.event.cuny.edu/events/Y2IuQvlC4Pjpe8yl9Ntt/hhoOQChcPv1UPvQAWQVb",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-23",
+    "time": "11:00AM",
     "tags": []
   },
   {
@@ -4765,14 +4843,6 @@
     "tags": []
   },
   {
-    "title": "CANCELLED -Eddie Palmieri Returns!",
-    "link": "https://www.lehman.edu/events/2025/CANCELLED--Eddie-Palmieri-Returns.php",
-    "college": "Lehman College",
-    "date": "2025-04-19",
-    "time": "8:00 PM- 11:00 PM",
-    "tags": []
-  },
-  {
     "title": "Business, MSB Information Session",
     "link": "https://www.lehman.edu/events/2025/Business-MSB-Information-Session--1.php",
     "college": "Lehman College",
@@ -4842,6 +4912,14 @@
     "college": "Lehman College",
     "date": "2025-04-24",
     "time": "9:30 AM- 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Reading day in Celebration of the Dia del Libro and Sant Jordi's day",
+    "link": "https://www.lehman.edu/events/2025/Reading-day-in-Celebration-of-the-Dia-del-Libro-and-Sant-Jordis-day-1.php",
+    "college": "Lehman College",
+    "date": "2025-04-24",
+    "time": "11:30 AM- 3:30 PM",
     "tags": []
   },
   {
@@ -5234,6 +5312,14 @@
     "college": "York College",
     "date": "2025-04-25",
     "time": "2:00 PM - 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Softball vs. Hunter College",
+    "link": "https://www.york.cuny.edu/events/2025/softball-vs-hunter-04252025",
+    "college": "York College",
+    "date": "2025-04-25",
+    "time": "7:00 PM - 11:00 PM",
     "tags": []
   },
   {
