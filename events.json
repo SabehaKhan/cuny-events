@@ -4094,6 +4094,20 @@
     ]
   },
   {
+    "title": "CSI Chorus - (CLUE 252068-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11275985",
+    "college": "College of Staten Island",
+    "date": "2025-05-13",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "Arts",
+      "Health and Wellness",
+      "Social",
+      "Entertainment",
+      "Cultural"
+    ]
+  },
+  {
     "title": "Bertha Harris Women's Center Presents: Empowerment Through Makeup! (252094-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11251587",
     "college": "College of Staten Island",
@@ -4104,6 +4118,66 @@
       "Learning",
       "Health and Wellness",
       "PG CLUE"
+    ]
+  },
+  {
+    "title": "The Young Artists' Recital - (252069-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11275987",
+    "college": "College of Staten Island",
+    "date": "2025-05-13",
+    "time": "11:00 PM - 12:30 AM",
+    "tags": [
+      "Arts",
+      "Health and Wellness",
+      "Social",
+      "Entertainment",
+      "Willowbrook Campus",
+      "Cultural"
+    ]
+  },
+  {
+    "title": "The CSI Jazz Ensemble (CLUE 252070-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11275990",
+    "college": "College of Staten Island",
+    "date": "2025-05-14",
+    "time": "11:00 PM - 01:00 AM",
+    "tags": [
+      "Arts",
+      "Health and Wellness",
+      "Social",
+      "Entertainment",
+      "Willowbrook Campus",
+      "Cultural"
+    ]
+  },
+  {
+    "title": "The CSI Jazz Combo (252071-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11275994",
+    "college": "College of Staten Island",
+    "date": "2025-05-15",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "Arts",
+      "Health and Wellness",
+      "Social",
+      "Entertainment",
+      "Willowbrook Campus",
+      "Cultural"
+    ]
+  },
+  {
+    "title": "The CSI Guitar Ensemble (CLUE 252072-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11275997",
+    "college": "College of Staten Island",
+    "date": "2025-05-15",
+    "time": "11:30 PM - 12:30 AM",
+    "tags": [
+      "Arts",
+      "Health and Wellness",
+      "Social",
+      "Entertainment",
+      "Willowbrook Campus",
+      "Cultural"
     ]
   },
   {
@@ -5391,108 +5465,6 @@
     "date": "2025-05-14",
     "time": "4:00 PM - 6:00 PM",
     "tags": []
-  },
-  {
-    "title": "MUSIC, MIGRATION, AND THE EXCHANGE OF KNOWLEDGE: SPAIN – NORTH AMERICA – LATIN AMERICA",
-    "link": "https://www.gc.cuny.edu/events/music-migration-and-exchange-knowledge-spain-north-america-latin-america",
-    "college": "CUNY Graduate Center",
-    "date": "2025-04-22",
-    "time": "",
-    "location": "9100: Skylight Room",
-    "tags": [
-      "Barry S. Brook Center for Music Research and Documentation"
-    ]
-  },
-  {
-    "title": "WORKSHOP: TAKING SMARTER NOTES",
-    "link": "https://www.gc.cuny.edu/events/workshop-taking-smarter-notes",
-    "college": "CUNY Graduate Center",
-    "date": "2025-04-22",
-    "time": "3:00 pm — 4:00 pm",
-    "location": "Online",
-    "tags": [
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "FUTURES INITIATIVE: FUTURE OF THE PLANET",
-    "link": "https://www.gc.cuny.edu/events/futures-initiative-future-planet",
-    "college": "CUNY Graduate Center",
-    "date": "2025-04-22",
-    "time": "5:00 pm — 7:00 pm",
-    "location": "1218: Segal Theatre",
-    "tags": [
-      "Futures Initiative",
-      "Climate",
-      "Inequality",
-      "Sciences"
-    ]
-  },
-  {
-    "title": "READING THUCYDIDES",
-    "link": "https://www.gc.cuny.edu/events/reading-thucydides",
-    "college": "CUNY Graduate Center",
-    "date": "2025-04-22",
-    "time": "5:00 pm — 7:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Classics"
-    ]
-  },
-  {
-    "title": "DRUPAL OPEN SESSION",
-    "link": "https://www.gc.cuny.edu/events/drupal-open-session-april-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-04-23",
-    "time": "10:00 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "PUTTING LINKEDIN TO WORK: JOB SEARCHING, NETWORKING, AND PERSONAL BRANDING",
-    "link": "https://www.gc.cuny.edu/events/putting-linkedin-work-job-searching-networking-and-personal-branding",
-    "college": "CUNY Graduate Center",
-    "date": "2025-04-23",
-    "time": "12:00 pm — 1:15 pm",
-    "location": "Online",
-    "tags": [
-      "Career Planning and Professional Development"
-    ]
-  },
-  {
-    "title": "BOOK TALK: SANDRA KINGAN, \"GRAPHS AND NETWORKS\"",
-    "link": "https://www.gc.cuny.edu/events/book-talk-sandra-kingan-graphs-and-networks",
-    "college": "CUNY Graduate Center",
-    "date": "2025-04-23",
-    "time": "3:00 pm",
-    "location": "Online",
-    "tags": [
-      "CUNY Academy for the Humanities and Sciences"
-    ]
-  },
-  {
-    "title": "SCHOLARLY PROGRAMS AND RESEARCH FELLOWSHIP OPPORTUNITIES AT THE FOLGER SHAKESPEARE LIBRARY",
-    "link": "https://www.gc.cuny.edu/events/scholarly-programs-and-research-fellowship-opportunities-folger-shakespeare-library",
-    "college": "CUNY Graduate Center",
-    "date": "2025-04-23",
-    "time": "4:30 pm",
-    "location": "Online",
-    "tags": [
-      "Global Early Modern Studies"
-    ]
-  },
-  {
-    "title": "RAYMOND CAPRA, LECTURER, QUEENS COLLEGE “THE GREEKS IN SPAIN: TRADING AND BEING ON THE WESTERN FRINGES”",
-    "link": "https://www.gc.cuny.edu/events/raymond-capra-lecturer-queens-college-greeks-spain-trading-and-being-western-fringes",
-    "college": "CUNY Graduate Center",
-    "date": "2025-04-23",
-    "time": "5:00 pm — 7:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Classics"
-    ]
   },
   {
     "title": "Fresh Food Bag Distribution",
