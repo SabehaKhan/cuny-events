@@ -1,13 +1,5 @@
 [
   {
-    "title": "Philosophy Pizza Forum: Prof. Christina Weinbaum, CCNY \"Logic, A Love Story\"",
-    "link": "https://www.ccny.cuny.edu/calendar/philosophy-pizza-forum-prof-christina-weinbaum-ccny-logic-love-story",
-    "college": "City College of New York",
-    "date": "2025-04-24",
-    "time": "12:30 PM - 01:45 PM",
-    "tags": []
-  },
-  {
     "title": "CUNY Compliance ESPARC and WVP Virtual Zoom Trainings",
     "link": "https://www.ccny.cuny.edu/calendar/cuny-compliance-esparc-and-wvp-virtual-zoom-trainings-0",
     "college": "City College of New York",
@@ -598,6 +590,16 @@
     "date": "2025-10-29",
     "time": "10:00 AM - 12:00 PM",
     "tags": []
+  },
+  {
+    "title": "Black Brooklyn Empowerment Summit II",
+    "link": "https://www.mec.cuny.edu/event/black-brooklyn-empowerment-summit-ii/",
+    "college": "Medgar Evers College",
+    "date": "2025-04-25",
+    "time": "08:00 AM - 04:00 PM",
+    "tags": [
+      "Dubois-Bunche Center"
+    ]
   },
   {
     "title": "The Voices Play",
@@ -1277,73 +1279,6 @@
     "tags": []
   },
   {
-    "title": "Symbols and Self: A Creative Workshop with Artist Alia Benslimane",
-    "link": "https://www.laguardia.edu/event/symbols-and-self-a-creative-workshop-with-artist-alia-benslimane/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-24",
-    "time": "02:00 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "student events"
-    ]
-  },
-  {
-    "title": "USDA Career Panel",
-    "link": "https://www.laguardia.edu/event/usda-career-panel/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-24",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Job/Internship Search: Ways to Supercharge Your Job/Internship Search",
-    "link": "https://www.laguardia.edu/event/job-internship-search-ways-to-supercharge-your-job-internship-search-7/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-24",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Leadership and Development: Developing the Leader Within",
-    "link": "https://www.laguardia.edu/event/developing-the-leader-within/2025-04-24/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-24",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Women in the Arts: Josefina Lopez",
-    "link": "https://www.laguardia.edu/event/women-in-the-arts-josefina-lopez/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-24",
-    "time": "03:30 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Queer Connections: A Support Group for LGBTQIA+ Students",
-    "link": "https://www.laguardia.edu/event/queer-connections-a-support-group-for-lgbtqia-students/2025-04-24/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-24",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Contemporary Workshop with Yaa Samar! Dance Theatre",
     "link": "https://www.laguardia.edu/event/contemporary-workshop-with-yaa-samar-dance-theatre/",
     "college": "LaGuardia Community College",
@@ -1600,6 +1535,72 @@
     ]
   },
   {
+    "title": "500 Words of April",
+    "link": "https://www.laguardia.edu/event/500-words-of-april/2025-04-30/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-30",
+    "time": "02:15 PM - 03:15 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Emergency Preparedness and Recovery",
+    "link": "https://www.laguardia.edu/event/emergency-preparedness-and-recovery/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-30",
+    "time": "02:15 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Job Search 2.0: LinkedIn + ChatGPT Secrets Revealed",
+    "link": "https://www.laguardia.edu/event/job-search-2-0-linkedin-chatgpt-secrets-revealed/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-30",
+    "time": "02:30 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Student-Parent Power Hour: Managing Finances During Uncertain Times",
+    "link": "https://www.laguardia.edu/event/student-parent-power-hour-managing-finances-during-uncertain-times/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-30",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Know Your Rights: Gender Identity and Expression Discrimination Protections in New York City",
+    "link": "https://www.laguardia.edu/event/know-your-rights-gender-identity-and-expression-discrimination-protections-in-new-york-city/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-30",
+    "time": "02:30 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Exploring Global Careers through Local and Global NGOs",
+    "link": "https://www.laguardia.edu/event/exploring-global-careers-through-local-and-global-ngos/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-30",
+    "time": "02:30 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Navigate360 Workshop",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376185",
     "college": "Guttman Community College",
@@ -1677,6 +1678,20 @@
       "Federal Work Study",
       "FASFA & TAP Applications",
       "Satisfactory Academic Progress (SAP)"
+    ]
+  },
+  {
+    "title": "Queer Internet Culture",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376299",
+    "college": "Guttman Community College",
+    "date": "2025-04-24",
+    "time": "07:00 PM - 08:30 PM",
+    "tags": [
+      "LGBT",
+      "Educational/Awareness",
+      "LGBTQ+",
+      "Information Session",
+      "Discussion"
     ]
   },
   {
@@ -2825,66 +2840,6 @@
     ]
   },
   {
-    "title": "Justice Reimagined Symposium: Addressing Stigma, Integrating Gender Equality and Sex Worker Rights",
-    "link": "https://www.bmcc.cuny.edu/event/justice-reimagined-symposium-addressing-stigma-integrating-gender-equality-and-sex-worker-rights/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-24",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "Civic Engagement",
-      "Ethnic and Race Studies",
-      "Featured",
-      "Pride Center",
-      "Social Sciences",
-      "Human Services and Criminal Justice"
-    ]
-  },
-  {
-    "title": "Spring 2025 Career Day",
-    "link": "https://www.bmcc.cuny.edu/event/spring-2025-career-day-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-24",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Asian Heritage Month Film: Return to Seoul",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-film-return-to-seoul/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-24",
-    "time": "12:30 PM - 03:00 PM",
-    "tags": [
-      "Asian Heritage Month",
-      "Co-Curricular Transcript"
-    ]
-  },
-  {
-    "title": "From Applicant to Employee: How to Succeed in Your Next Interview",
-    "link": "https://www.bmcc.cuny.edu/event/from-applicant-to-employee-how-to-succeed-in-your-next-interview-6/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-24",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development"
-    ]
-  },
-  {
-    "title": "Asian Heritage Month: Tea Tasting",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-tea-tasting-6/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-24",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Asian Heritage Month",
-      "Co-Curricular Transcript"
-    ]
-  },
-  {
     "title": "Chat with an Admissions Representative",
     "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-128/2025-04-24/",
     "college": "Borough of Manhattan Community College",
@@ -3143,12 +3098,83 @@
     ]
   },
   {
-    "title": "Senate",
-    "link": "https://www.bcc.cuny.edu/event/senate/2025-04-24/",
-    "college": "Bronx Community College",
-    "date": "2025-04-24",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
+    "title": "Asylum, Is It for Me?",
+    "link": "https://www.bmcc.cuny.edu/event/asylum-is-it-for-me/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-30",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Evening-Weekend",
+      "Immigration Support",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "What’s Your Love Language? Navigating Your Seasonal Love Language",
+    "link": "https://www.bmcc.cuny.edu/event/whats-your-love-language-navigating-your-seasonal-love-language/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-30",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Counseling Center",
+      "CUNY in The Heights",
+      "Featured",
+      "Student Affairs",
+      "Urban Male Leadership Academy",
+      "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "Asian Heritage Month: Wayang Kulit A Shadow Puppet Perfomance",
+    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-wayang-kulit-a-shadow-puppet-perfomance/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-30",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Asian Heritage Month",
+      "Co-Curricular Transcript"
+    ]
+  },
+  {
+    "title": "Women’s Herstory Month: Where the Line Resides: Surviving The Cycle of Sexual Harm",
+    "link": "https://www.bmcc.cuny.edu/event/womens-herstory-month-where-the-line-resides-surviving-the-cycle-of-sexual-harm/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-30",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Asian Heritage Month",
+      "Center for Belonging and Inclusion",
+      "Co-Curricular Transcript",
+      "CUNY in The Heights",
+      "Featured",
+      "Pride Center",
+      "Student Affairs",
+      "Women's HerStory Month",
+      "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "2025 James Tolan Writing Awards",
+    "link": "https://www.bmcc.cuny.edu/event/james-tolan-writing-awards/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-30",
+    "time": "04:00 PM - 05:30 PM",
+    "tags": [
+      "English",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Study Skills Workshops: LRC Orientation Overview (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-lrc-orientation-overview-students-only-6/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-01",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
   },
   {
     "title": "Faculty Day",
@@ -3181,181 +3207,6 @@
     "date": "2025-05-15",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
-  },
-  {
-    "title": "Slow Stitch for Sanity  (252089-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11208757",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "04:30 PM - 06:00 PM",
-    "tags": [
-      "Social",
-      "Health and Wellness",
-      "Cultural"
-    ]
-  },
-  {
-    "title": "Club Elections // Open Minds Exchange Meet",
-    "link": "https://csi.campuslabs.com/engage/event/11048582",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "Social",
-      "Learning",
-      "Cultural"
-    ]
-  },
-  {
-    "title": "Bible Study",
-    "link": "https://csi.campuslabs.com/engage/event/11097162",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "Spirituality",
-      "Faith Based"
-    ]
-  },
-  {
-    "title": "Community Building Circle (252053-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11134491",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "Social",
-      "Learning",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion",
-      "Willowbrook Campus"
-    ]
-  },
-  {
-    "title": "Engineering & Environmental Science Speaker Series: What is the future of fieldwork? (242050-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/11115070",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "CC CLUE"
-    ]
-  },
-  {
-    "title": "CUNY LEADS Alumni Panel (252096-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11255878",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "07:00 PM - 08:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion",
-      "PG CLUE",
-      "Career Development"
-    ]
-  },
-  {
-    "title": "Elections",
-    "link": "https://csi.campuslabs.com/engage/event/11263346",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": [
-      "Social"
-    ]
-  },
-  {
-    "title": "Sexual Assault Awareness Month Event , Presented by SI Assistant District Attorney Dana Gambardella (252099-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11279660",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Health and Wellness",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion",
-      "PG CLUE",
-      "Counseling"
-    ]
-  },
-  {
-    "title": "The Art of Self-Care",
-    "link": "https://csi.campuslabs.com/engage/event/11228952",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "Arts",
-      "Learning",
-      "Health and Wellness",
-      "Social",
-      "Entertainment"
-    ]
-  },
-  {
-    "title": "Bibingka Workshop and Club Leader Elections",
-    "link": "https://csi.campuslabs.com/engage/event/11232411",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "Cultural"
-    ]
-  },
-  {
-    "title": "Earth Day",
-    "link": "https://csi.campuslabs.com/engage/event/11237617",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "Social"
-    ]
-  },
-  {
-    "title": "Accounting Club Elections for 2025-2026 Semester",
-    "link": "https://csi.campuslabs.com/engage/event/11240033",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "Social"
-    ]
-  },
-  {
-    "title": "Can't Spell Earth Without Art: An Environmental Art Expo",
-    "link": "https://csi.campuslabs.com/engage/event/11276463",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "Arts",
-      "Learning",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion",
-      "Entertainment",
-      "Sustainability"
-    ]
-  },
-  {
-    "title": "ASL Club Leadership Elections 2025-26",
-    "link": "https://csi.campuslabs.com/engage/event/11277714",
-    "college": "College of Staten Island",
-    "date": "2025-04-24",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "GroupBusiness",
-      "Faith Based"
-    ]
   },
   {
     "title": "Arbor Day Tree Planting (252016-PG & 252022-CC)",
@@ -3475,6 +3326,18 @@
     "time": "07:00 PM - 08:00 PM",
     "tags": [
       "GroupBusiness"
+    ]
+  },
+  {
+    "title": "IEEE Club Officer Elections",
+    "link": "https://csi.campuslabs.com/engage/event/11283489",
+    "college": "College of Staten Island",
+    "date": "2025-04-29",
+    "time": "06:30 PM - 08:15 PM",
+    "tags": [
+      "GroupBusiness",
+      "Leadership",
+      "Social"
     ]
   },
   {
@@ -3613,7 +3476,7 @@
     ]
   },
   {
-    "title": "Bible Study",
+    "title": "Coffee and Christ",
     "link": "https://csi.campuslabs.com/engage/event/11097165",
     "college": "College of Staten Island",
     "date": "2025-05-01",
@@ -3692,6 +3555,19 @@
       "Learning",
       "Health and Wellness",
       "Fitness/Recreation"
+    ]
+  },
+  {
+    "title": "The Vanderbilts: An Empire Founded on Staten Island (252085-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11283825",
+    "college": "College of Staten Island",
+    "date": "2025-05-02",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "CC CLUE",
+      "Virtual event (online offering)"
     ]
   },
   {
@@ -4756,14 +4632,6 @@
     "tags": []
   },
   {
-    "title": "Online Information Session: Jump Start Application",
-    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-04-24",
-    "time": "04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Introduction to Zotero",
     "link": "https://sps.cuny.edu/about/events/introduction-zotero",
     "college": "CUNY School of Professional Studies",
@@ -4788,14 +4656,6 @@
     "tags": []
   },
   {
-    "title": "Transforming my ePortfolio",
-    "link": "https://sps.cuny.edu/about/events/transforming-my-eportfolio-1",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-04-29",
-    "time": "10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Online Information Session: SEEK",
     "link": "https://sps.cuny.edu/about/events/online-information-session-seek-1",
     "college": "CUNY School of Professional Studies",
@@ -4806,6 +4666,14 @@
   {
     "title": "Student Leadership & Service Ceremony",
     "link": "https://sps.cuny.edu/about/events/student-leadership-service-ceremony",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-29",
+    "time": "10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Transforming my ePortfolio",
+    "link": "https://sps.cuny.edu/about/events/transforming-my-eportfolio-1",
     "college": "CUNY School of Professional Studies",
     "date": "2025-04-29",
     "time": "10:00 PM",
@@ -4825,6 +4693,14 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-04-30",
     "time": "06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Early Childhood Education Job and Resource Fair",
+    "link": "https://sps.cuny.edu/about/events/early-childhood-education-job-and-resource-fair",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-30",
+    "time": "09:00 PM",
     "tags": []
   },
   {
@@ -4973,7 +4849,7 @@
   },
   {
     "title": "Reading day in Celebration of the Dia del Libro and Sant Jordi's day",
-    "link": "https://www.lehman.edu/events/2025/Reading-day-in-Celebration-of-the-Dia-del-Libro-and-Sant-Jordis-day-1.php",
+    "link": "https://www.lehman.edu/events/2025/Reading-day-in-Celebration-of-the-Dia-del-Libro-and-Sant-Jordis-day.php",
     "college": "Lehman College",
     "date": "2025-04-24",
     "time": "11:30 AM- 3:30 PM",
@@ -4981,7 +4857,7 @@
   },
   {
     "title": "Graduate Admissions: The Application Process and Other Tips",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--7.php",
+    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips-.php",
     "college": "Lehman College",
     "date": "2025-04-24",
     "time": "12:00 PM- 1:00 PM",
@@ -4993,6 +4869,14 @@
     "college": "Lehman College",
     "date": "2025-04-24",
     "time": "1:00 PM- 2:00 PM",
+    "tags": []
+  },
+  {
+    "title": "27th Annual Day of Percussion: Collaboration between the Royal Irish Academy of Music and the City University of New York",
+    "link": "https://www.lehman.edu/events/2025/27th-Annual-Day-of-PercussionCollaboration-between-the-Royal-Irish-Academy-of-Music-and-the-City-University-of-New-York.php",
+    "college": "Lehman College",
+    "date": "2025-04-24",
+    "time": "2:00 PM- 3:30 PM",
     "tags": []
   },
   {
@@ -5033,38 +4917,6 @@
     "college": "Lehman College",
     "date": "2025-04-28",
     "time": "11:30 AM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Science Education M.S.Ed. Information Session",
-    "link": "https://www.lehman.edu/events/2025/Science-Education-MSEd-Information-Session--1.php",
-    "college": "Lehman College",
-    "date": "2025-04-28",
-    "time": "6:00 PM- 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Writing the Lit Paper: Constructing Arguments",
-    "link": "https://www.jjay.cuny.edu/news-events/events/writing-lit-paper-constructing-arguments",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-24",
-    "time": "07:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Documenting Research MLA Style",
-    "link": "https://www.jjay.cuny.edu/news-events/events/documenting-research-mla-style-3",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-24",
-    "time": "08:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Youth Take the Mic with El Puente, YA-YA Network & More",
-    "link": "https://www.jjay.cuny.edu/news-events/events/youth-take-mic-el-puente-ya-ya-network-more",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-24",
-    "time": "09:00 PM",
     "tags": []
   },
   {
@@ -5364,6 +5216,14 @@
     "tags": []
   },
   {
+    "title": "Building AI Smart Workflows and Models with KNIME",
+    "link": "https://www.york.cuny.edu/events/building-ai-smart-workflows-and-models-with-knime",
+    "college": "York College",
+    "date": "2025-04-29",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
     "title": "Denim Day",
     "link": "https://www.york.cuny.edu/events/2025/denim-day",
     "college": "York College",
@@ -5417,14 +5277,6 @@
     "college": "York College",
     "date": "2025-05-01",
     "time": "3:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Deloitte Academy at York College",
-    "link": "https://www.york.cuny.edu/events/deloitte-academy",
-    "college": "York College",
-    "date": "2025-05-01",
-    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
