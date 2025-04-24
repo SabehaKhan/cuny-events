@@ -1261,15 +1261,20 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-04-24/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-24",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
+    "title": "Career Planning in a Tough Economy",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/788f312f-2e81-4907-b29d-7ec7a6137806",
+    "college": "Kingsborough Community College",
+    "date": "2025-05-20",
+    "time": "07:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Internship to Employment (I2E) Information Session",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/e369dde3-0784-42a7-8836-088a29d33a40",
+    "college": "Kingsborough Community College",
+    "date": "2025-06-11",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": []
   },
   {
     "title": "Symbols and Self: A Creative Workshop with Artist Alia Benslimane",
@@ -1584,6 +1589,17 @@
     ]
   },
   {
+    "title": "BMEC Self-Care and Nutrition for Academic Success: Session 2: Food Demo",
+    "link": "https://www.laguardia.edu/event/bmec-self-care-and-nutrition-for-academic-success-session-2-food-demo/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-30",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Navigate360 Workshop",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376185",
     "college": "Guttman Community College",
@@ -1661,20 +1677,6 @@
       "Federal Work Study",
       "FASFA & TAP Applications",
       "Satisfactory Academic Progress (SAP)"
-    ]
-  },
-  {
-    "title": "Queer Internet Culture",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376299",
-    "college": "Guttman Community College",
-    "date": "2025-04-24",
-    "time": "07:00 PM - 08:30 PM",
-    "tags": [
-      "LGBT",
-      "Educational/Awareness",
-      "LGBTQ+",
-      "Information Session",
-      "Discussion"
     ]
   },
   {
@@ -2497,17 +2499,6 @@
     ]
   },
   {
-    "title": "Unlocking Your Interview Potential",
-    "link": "https://hunter.cuny.edu/event/unlocking-your-interview-potential-3/",
-    "college": "Hunter College",
-    "date": "2025-04-24",
-    "time": "11:30 AM - 12:30 PM",
-    "tags": [
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Cafecito con... Rudy Guevarra: Aloha Compadre - Latinxs in Hawai'i",
     "link": "https://hunter.cuny.edu/event/cafecito-con-rudy-guevarra-aloha-compadre-latinxs-in-hawaii/",
     "college": "Hunter College",
@@ -2801,6 +2792,19 @@
     ]
   },
   {
+    "title": "Intersection Between Language, Technology and Literature: MATI and TISH 5th Annual Language Works Conference",
+    "link": "https://hunter.cuny.edu/event/intersection-between-language-technology-and-literature-mati-and-tish-5th-annual-language-works-conference/",
+    "college": "Hunter College",
+    "date": "2025-05-02",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Conferences & Workshops",
+      "Lectures",
+      "Special Events",
+      "Student Events"
+    ]
+  },
+  {
     "title": "MS-IPND Challenge Exams",
     "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-05-05/",
     "college": "Hunter College",
@@ -2837,17 +2841,6 @@
     ]
   },
   {
-    "title": "Insights Employer Panel: Hear from Hiring Professionals",
-    "link": "https://www.bmcc.cuny.edu/event/insights-employer-panel-hear-from-hiring-professionals/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-24",
-    "time": "11:00 AM - 11:45 AM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Featured"
-    ]
-  },
-  {
     "title": "Spring 2025 Career Day",
     "link": "https://www.bmcc.cuny.edu/event/spring-2025-career-day-2/",
     "college": "Borough of Manhattan Community College",
@@ -2856,16 +2849,6 @@
     "tags": [
       "Career Workshops/Fairs",
       "Featured"
-    ]
-  },
-  {
-    "title": "Study Skills Workshops: Build Your Confidence as a Student (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-build-your-confidence-as-a-student-students-only-8/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-24",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Learning Resource Center"
     ]
   },
   {
@@ -3048,6 +3031,20 @@
     ]
   },
   {
+    "title": "Project Impact Reentry Simulation",
+    "link": "https://www.bmcc.cuny.edu/event/project-impact-reentry-simulation/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-29",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Project Impact",
+      "Social Sciences",
+      "Human Services and Criminal Justice",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Online Free Workshop: Microsoft Word (Students Only)",
     "link": "https://www.bmcc.cuny.edu/event/online-free-workshop-microsoft-word-students-only-165/",
     "college": "Borough of Manhattan Community College",
@@ -3131,6 +3128,18 @@
       "Speech",
       "Communications and Theatre Arts",
       "Theatre"
+    ]
+  },
+  {
+    "title": "Join us for the Spring 2025 5K Fun Run/Walk",
+    "link": "https://www.bmcc.cuny.edu/event/join-us-for-the-spring-2025-5k-fun-run-walk-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-04-30",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Health Education",
+      "Student Affairs"
     ]
   },
   {
@@ -3622,6 +3631,18 @@
     "time": "06:30 PM - 08:00 PM",
     "tags": [
       "Social"
+    ]
+  },
+  {
+    "title": "Meet and Greet with French HS Students from Montpellier, France(252084-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11282729",
+    "college": "College of Staten Island",
+    "date": "2025-05-01",
+    "time": "06:30 PM - 08:00 PM",
+    "tags": [
+      "Cultural",
+      "Global Engagement",
+      "CC CLUE"
     ]
   },
   {
@@ -4639,6 +4660,14 @@
     "tags": []
   },
   {
+    "title": "CEWD",
+    "link": "https://hostos.event.cuny.edu/events/mlZHWKwRQ3PJmEiqTtsO/yFa9c5cQN7odXmEeC23W",
+    "college": "Hostos Community College",
+    "date": "2025-04-24",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
     "title": "Raj Tawney Author Book Talk Event: Colorful Palate",
     "link": "https://hostos.event.cuny.edu/events/RogkBLZmOhlNcLdDTq9B/5QZmqT6cSEz7pCeHWeEO",
     "college": "Hostos Community College",
@@ -4759,14 +4788,6 @@
     "tags": []
   },
   {
-    "title": "Student Leadership & Service Ceremony",
-    "link": "https://sps.cuny.edu/about/events/student-leadership-service-ceremony",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-04-29",
-    "time": "10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Transforming my ePortfolio",
     "link": "https://sps.cuny.edu/about/events/transforming-my-eportfolio-1",
     "college": "CUNY School of Professional Studies",
@@ -4777,6 +4798,14 @@
   {
     "title": "Online Information Session: SEEK",
     "link": "https://sps.cuny.edu/about/events/online-information-session-seek-1",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-29",
+    "time": "10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Student Leadership & Service Ceremony",
+    "link": "https://sps.cuny.edu/about/events/student-leadership-service-ceremony",
     "college": "CUNY School of Professional Studies",
     "date": "2025-04-29",
     "time": "10:00 PM",
@@ -5015,30 +5044,6 @@
     "tags": []
   },
   {
-    "title": "Avoiding Sentence Errors: Commas",
-    "link": "https://www.jjay.cuny.edu/news-events/events/avoiding-sentence-errors-commas-1",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-24",
-    "time": "03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Acting Out: How a Prison Theatre Workshop Broke Free",
-    "link": "https://www.jjay.cuny.edu/news-events/events/acting-out-how-prison-theatre-workshop-broke-free-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-24",
-    "time": "05:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Writing a Social Science Research Proposal",
-    "link": "https://www.jjay.cuny.edu/news-events/events/writing-social-science-research-proposal-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-24",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
     "title": "Writing the Lit Paper: Constructing Arguments",
     "link": "https://www.jjay.cuny.edu/news-events/events/writing-lit-paper-constructing-arguments",
     "college": "John Jay College of Criminal Justice",
@@ -5207,6 +5212,14 @@
     "tags": []
   },
   {
+    "title": "Commencement '25",
+    "link": "https://www.jjay.cuny.edu/news-events/events/commencement-25",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-05-28",
+    "time": "07:30 PM",
+    "tags": []
+  },
+  {
     "title": "Macaulay Newly Admitted Student Event – This is an in-person event",
     "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-newly-admitted-student-event-this-is-an-in-person-event-3/",
     "college": "Macaulay Honors College",
@@ -5279,14 +5292,6 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
-    "college": "York College",
-    "date": "2025-04-24",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "The First 100 Days of the 47th Administration",
     "link": "https://www.york.cuny.edu/health-human-performance/the-first-100-days",
     "college": "York College",
@@ -5316,6 +5321,14 @@
     "college": "York College",
     "date": "2025-04-25",
     "time": "2:00 PM - 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
+    "college": "York College",
+    "date": "2025-04-25",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5547,36 +5560,12 @@
     "description": ""
   },
   {
-    "title": "National Library Week April 2025",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-24-national-library-week-april-2025.html",
+    "title": "From Częstochowa to Bayside: The Story of the KHC’s Torah Scroll",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-07-from-czestochowa-to-bayside-the-story-of-the-khcs-torah-scroll.html",
     "college": "Queensborough Community College",
-    "date": "2025-04-24",
-    "time": "09:00 AM - 07:45 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Research 101 Certificate Classes",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-24-research-101-certificate-classes.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-24",
-    "time": "10:10 AM - 11:30 AM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "LinkedIn Lab with Rachel Jerome",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-24-linkedin-lab-with-rachel-jerome.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-24",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "NYPIRG Presents: Live Rendition of 'The Lorax'",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-24-nypirg-presents-live-rendition-of-the-lorax.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-24",
-    "time": "12:00 PM - 04:00 PM",
-    "description": "Club Event"
+    "date": "2025-05-07",
+    "time": "02:30 PM - 04:30 PM",
+    "description": ""
   },
   {
     "title": "Virtual Resume Hour",
@@ -5697,6 +5686,46 @@
     "date": "2025-04-29",
     "time": "09:00 AM - 07:45 PM",
     "description": "Special Event / Fair"
+  },
+  {
+    "title": "Queensborough Community College 2025 Aurora Yearbook Portraits",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-29-queensborough-community-college-2025.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-29",
+    "time": "10:00 AM - 05:30 PM",
+    "description": "Student Event"
+  },
+  {
+    "title": "Reading with Dr. Fred Gardaphé",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-29-reading-with-dr.-fred-gardaph%C3%A9.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-29",
+    "time": "10:30 AM - 12:00 PM",
+    "description": "Lecture"
+  },
+  {
+    "title": "Midday Yoga",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-29-midday-yoga.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-29",
+    "time": "12:00 PM - 01:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Research 101 Certificate Classes",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-29-research-101-certificate-classes.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-29",
+    "time": "12:10 PM - 01:30 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Beyond the Mask: Balancing Professional Growth and Cultural Identity: Find success without losing yourself in the process",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-29-beyond-the-mask-balancing-professional-growth-and-cultural-identity-find-success-without-losing-yourself-in-the-process.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-29",
+    "time": "01:00 PM - 03:00 PM",
+    "description": "Male Resource Center Event"
   },
   {
     "title": "Last Minute Lit Review Research",
