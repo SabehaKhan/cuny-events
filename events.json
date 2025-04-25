@@ -1,13 +1,5 @@
 [
   {
-    "title": "School of Education Admissions Test (SEAT) | Spring 2025 | 3/4",
-    "link": "https://www.ccny.cuny.edu/calendar/school-education-admissions-test-seat-spring-2025-34",
-    "college": "City College of New York",
-    "date": "2025-04-25",
-    "time": "10:00 AM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "Lunar New Year Celebration and Awards Dinner",
     "link": "https://www.ccny.cuny.edu/calendar/lunar-new-year-celebration-and-awards-dinner-0",
     "college": "City College of New York",
@@ -32,8 +24,24 @@
     "tags": []
   },
   {
+    "title": "Salzberg Chemistry Seminar: Dr. Alison Keimowitz, \"Uranium and Heavy Metals in Fracking Flowback\"",
+    "link": "https://www.ccny.cuny.edu/calendar/salzberg-chemistry-seminar-dr-alison-keimowitz-uranium-and-heavy-metals-fracking-flowback",
+    "college": "City College of New York",
+    "date": "2025-04-28",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
     "title": "Protect Your Family, Know Your Rights",
     "link": "https://www.ccny.cuny.edu/calendar/protect-your-family-know-your-rights",
+    "college": "City College of New York",
+    "date": "2025-04-28",
+    "time": "12:30 PM - 01:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Protect Your Family by Knowing Your Right",
+    "link": "https://www.ccny.cuny.edu/calendar/protect-your-family-knowing-your-right",
     "college": "City College of New York",
     "date": "2025-04-28",
     "time": "12:30 PM - 01:45 PM",
@@ -53,6 +61,14 @@
     "college": "City College of New York",
     "date": "2025-04-29",
     "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Immigrant Stories of Resiliency - Audry Funk Feminist Hip Hop Artist",
+    "link": "https://www.ccny.cuny.edu/calendar/immigrant-stories-resiliency-audry-funk-feminist-hip-hop-artist",
+    "college": "City College of New York",
+    "date": "2025-04-29",
+    "time": "12:30 PM - 02:00 PM",
     "tags": []
   },
   {
@@ -381,6 +397,14 @@
     "college": "City College of New York",
     "date": "2025-05-14",
     "time": "11:30 AM - 12:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Drag Brunch After Dark",
+    "link": "https://www.ccny.cuny.edu/calendar/drag-brunch-after-dark-0",
+    "college": "City College of New York",
+    "date": "2025-05-14",
+    "time": "08:00 PM - 11:00 PM",
     "tags": []
   },
   {
@@ -1213,39 +1237,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-04-25/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-25",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "FUN Fridays",
-    "link": "https://www.laguardia.edu/event/fun-fridays-2/2025-04-25/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-25",
-    "time": "12:30 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Brown Bag Series: Rights and Responsibilities: Academic Integrity, Accommodations and more",
-    "link": "https://www.laguardia.edu/event/brown-bag-series-rights-and-responsibilities-academic-integrity-accommodations-and-more-2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-25",
-    "time": "01:00 PM - 02:30 PM",
-    "tags": [
-      "all calendars"
-    ]
-  },
-  {
     "title": "Emerging Choreographer Series 2025",
     "link": "https://www.laguardia.edu/event/emerging-choreographer-series-2025/2025-04-25/",
     "college": "LaGuardia Community College",
@@ -1543,6 +1534,28 @@
     "tags": [
       "all calendars",
       "community & business events",
+      "student events"
+    ]
+  },
+  {
+    "title": "Phi Theta Kappa Informational Sessions",
+    "link": "https://www.laguardia.edu/event/phi-theta-kappa-informational-sessions/2025-04-30/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-30",
+    "time": "03:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-04-30/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-30",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
       "student events"
     ]
   },
@@ -2383,17 +2396,6 @@
     ]
   },
   {
-    "title": "Paycheck Playbook: How to Maximize Your Internship Paycheck",
-    "link": "https://hunter.cuny.edu/event/paycheck-playbook-how-to-maximize-your-internship-paycheck/",
-    "college": "Hunter College",
-    "date": "2025-04-25",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Pre-Business",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Hunter Queer Prom in Outer Space",
     "link": "https://hunter.cuny.edu/event/hunter-queer-prom-in-outer-space/",
     "college": "Hunter College",
@@ -2697,38 +2699,13 @@
     ]
   },
   {
-    "title": "Safezone Training 101",
-    "link": "https://www.bmcc.cuny.edu/event/safezone-training-101/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-25",
-    "time": "12:00 PM - 02:00 PM",
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-05-05/",
+    "college": "Hunter College",
+    "date": "2025-05-05",
+    "time": "01:00 PM - 03:00 PM",
     "tags": [
-      "Center for Belonging and Inclusion",
-      "Featured",
-      "Pride Center",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Asian Heritage Month: Anime Cosplay",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-anime-cosplay/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-25",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Asian Heritage Month",
-      "Co-Curricular Transcript"
-    ]
-  },
-  {
-    "title": "Asian Heritage Month: Henna",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-henna/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-25",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Asian Heritage Month",
-      "Co-Curricular Transcript"
+      "Student Events"
     ]
   },
   {
@@ -3034,27 +3011,38 @@
     ]
   },
   {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2025-04-25/",
-    "college": "Bronx Community College",
-    "date": "2025-04-25",
-    "time": "02:00 PM - 05:00 PM",
+    "title": "Asian Heritage Month: Banquet Dinner",
+    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-banquet-dinner/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-01",
+    "time": "06:00 PM - 09:00 PM",
     "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Virtual Event"
+      "Asian Heritage Month",
+      "Co-Curricular Transcript"
     ]
   },
   {
-    "title": "Office of Financial Aid Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-financial-aid-virtual-counter/2025-04-25/",
-    "college": "Bronx Community College",
-    "date": "2025-04-25",
-    "time": "02:00 PM - 05:00 PM",
+    "title": "Global Learning Unveiled: The Alumni Tell-All!",
+    "link": "https://www.bmcc.cuny.edu/event/global-learning-unveiled-the-alumni-tell-all/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-02",
+    "time": "11:00 AM - 01:00 PM",
     "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Virtual Event"
+      "Featured",
+      "Modern Languages",
+      "Study Abroad"
+    ]
+  },
+  {
+    "title": "Asian Heritage Month: Writers Cafe",
+    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-writers-cafe/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-02",
+    "time": "01:00 PM - 03:30 PM",
+    "tags": [
+      "Asian and Pacific Islander Bridge Initiaitve",
+      "Asian Heritage Month",
+      "Co-Curricular Transcript"
     ]
   },
   {
@@ -3079,6 +3067,26 @@
       "Enrollment Management",
       "Feature",
       "Virtual Event"
+    ]
+  },
+  {
+    "title": "\"Can You Hear Me Now\" Focus Group",
+    "link": "https://www.bcc.cuny.edu/event/can-you-hear-me-now-focus-group/2025-04-29/1/",
+    "college": "Bronx Community College",
+    "date": "2025-04-29",
+    "time": "12:00 PM - 12:45 PM",
+    "tags": [
+      "Feature"
+    ]
+  },
+  {
+    "title": "\"Can You Hear Me Now\" Focus Group",
+    "link": "https://www.bcc.cuny.edu/event/can-you-hear-me-now-focus-group/2025-04-29/2/",
+    "college": "Bronx Community College",
+    "date": "2025-04-29",
+    "time": "01:00 PM - 01:45 PM",
+    "tags": [
+      "Feature"
     ]
   },
   {
@@ -3191,17 +3199,6 @@
       "Enrollment Management",
       "Feature",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "Coquette Brunch",
-    "link": "https://csi.campuslabs.com/engage/event/11257409",
-    "college": "College of Staten Island",
-    "date": "2025-04-25",
-    "time": "04:00 PM - 08:00 PM",
-    "tags": [
-      "Social",
-      "Entertainment"
     ]
   },
   {
@@ -4568,10 +4565,10 @@
     "tags": []
   },
   {
-    "title": "ePortfolio Support Labs",
-    "link": "https://sps.cuny.edu/about/events/eportfolio-support-labs-2",
+    "title": "Mental Health Through the Lens of Traditional Chinese Medicine (TCM) & Asian American Herbalism",
+    "link": "https://sps.cuny.edu/about/events/mental-health-through-the-lens-of-traditional-chinese-medicine-tcm-asian-american",
     "college": "CUNY School of Professional Studies",
-    "date": "2025-05-06",
+    "date": "2025-05-01",
     "time": "04:00 PM",
     "tags": []
   },
@@ -4808,6 +4805,14 @@
     "tags": []
   },
   {
+    "title": "Marathon Reading of John Milton’s Paradise Lost",
+    "link": "https://www.jjay.cuny.edu/news-events/events/marathon-reading-john-miltons-paradise-lost",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-04-29",
+    "time": "12:30 PM",
+    "tags": []
+  },
+  {
     "title": "Crime Victims’ Rights Week Information Expo",
     "link": "https://www.jjay.cuny.edu/news-events/events/crime-victims-rights-week-information-expo",
     "college": "John Jay College of Criminal Justice",
@@ -4853,6 +4858,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-04-30",
     "time": "07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Would You Let AI Mediate Your Conflict? Considering the Future",
+    "link": "https://www.jjay.cuny.edu/news-events/events/would-you-let-ai-mediate-your-conflict-considering-future",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-05-01",
+    "time": "12:00 PM",
     "tags": []
   },
   {
