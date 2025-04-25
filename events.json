@@ -1213,17 +1213,6 @@
     "tags": []
   },
   {
-    "title": "Contemporary Workshop with Yaa Samar! Dance Theatre",
-    "link": "https://www.laguardia.edu/event/contemporary-workshop-with-yaa-samar-dance-theatre/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-25",
-    "time": "10:00 AM - 11:30 AM",
-    "tags": [
-      "community & business events",
-      "student events"
-    ]
-  },
-  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-04-25/",
     "college": "LaGuardia Community College",
@@ -1469,6 +1458,17 @@
     ]
   },
   {
+    "title": "Career in the Arts Guest Lecture Series: Rebecca Wack",
+    "link": "https://www.laguardia.edu/event/career-in-the-arts-guest-lecture-series-rebecca-wack/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-30",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "500 Words of April",
     "link": "https://www.laguardia.edu/event/500-words-of-april/2025-04-30/",
     "college": "LaGuardia Community College",
@@ -1650,6 +1650,35 @@
     ]
   },
   {
+    "title": "Demin Day Programming: Sign Making, Runway Show, & More",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376300",
+    "college": "Guttman Community College",
+    "date": "2025-04-30",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "OSL",
+      "Social",
+      "Denim Day",
+      "Sexual Assault Awareness",
+      "Women of GRIT",
+      "United Men of Color",
+      "Discussion"
+    ]
+  },
+  {
+    "title": "Table Talk",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376301",
+    "college": "Guttman Community College",
+    "date": "2025-05-01",
+    "time": "05:00 PM - 06:40 PM",
+    "tags": [
+      "PLP",
+      "Social",
+      "Discussion",
+      "Student Life"
+    ]
+  },
+  {
     "title": "Internship Power Hour",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376116",
     "college": "Guttman Community College",
@@ -1675,6 +1704,17 @@
       "Food - Lunch",
       "Denim Day",
       "Sexual Assault Awareness"
+    ]
+  },
+  {
+    "title": "Manis & Mingle",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376278",
+    "college": "Guttman Community College",
+    "date": "2025-05-01",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "PLP",
+      "Social"
     ]
   },
   {
@@ -1790,6 +1830,19 @@
       "United Men of Color",
       "Women of GRIT",
       "Food - Dinner"
+    ]
+  },
+  {
+    "title": "SAVVY SPENDING: THE BUDGET BLUEPRINT",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376302",
+    "college": "Guttman Community College",
+    "date": "2025-05-06",
+    "time": "09:00 PM - 10:00 PM",
+    "tags": [
+      "FEWT",
+      "Workshop",
+      "Women of GRIT",
+      "United Men of Color"
     ]
   },
   {
@@ -1999,6 +2052,21 @@
       "Educational/Awareness",
       "Counseling & Wellness",
       "APIDA Heritage Month"
+    ]
+  },
+  {
+    "title": "AccessABILITY in Games & Tech",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376279",
+    "college": "Guttman Community College",
+    "date": "2025-05-15",
+    "time": "07:00 PM - 08:30 PM",
+    "tags": [
+      "TGG",
+      "Meeting",
+      "AccessABILITY Services",
+      "Discussion",
+      "Food - Lunch",
+      "Student Life"
     ]
   },
   {
@@ -2966,12 +3034,52 @@
     ]
   },
   {
-    "title": "Faculty Day",
-    "link": "https://www.bcc.cuny.edu/event/faculty-day/",
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2025-04-25/",
     "college": "Bronx Community College",
     "date": "2025-04-25",
-    "time": "09:30 AM - 01:00 PM",
-    "tags": []
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of Financial Aid Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-financial-aid-virtual-counter/2025-04-25/",
+    "college": "Bronx Community College",
+    "date": "2025-04-25",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2025-04-28/",
+    "college": "Bronx Community College",
+    "date": "2025-04-28",
+    "time": "02:00 PM - 07:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of Financial Aid Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-financial-aid-virtual-counter/2025-04-28/",
+    "college": "Bronx Community College",
+    "date": "2025-04-28",
+    "time": "04:00 PM - 07:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
   },
   {
     "title": "eSearch for Research",
@@ -2990,23 +3098,99 @@
     "tags": []
   },
   {
-    "title": "College Senate",
-    "link": "https://www.bcc.cuny.edu/event/senate-tentative/2025-05-15/",
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2025-05-02/",
     "college": "Bronx Community College",
-    "date": "2025-05-15",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
+    "date": "2025-05-02",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
   },
   {
-    "title": "Arbor Day Tree Planting (252016-PG & 252022-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/10956146",
-    "college": "College of Staten Island",
-    "date": "2025-04-25",
-    "time": "02:00 PM - 04:00 PM",
+    "title": "Office of Financial Aid Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-financial-aid-virtual-counter/2025-05-02/",
+    "college": "Bronx Community College",
+    "date": "2025-05-02",
+    "time": "02:00 PM - 05:00 PM",
     "tags": [
-      "CommunityService",
-      "Double CLUE (1 PG and 1 CC)",
-      "Sustainability"
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2025-05-05/",
+    "college": "Bronx Community College",
+    "date": "2025-05-05",
+    "time": "02:00 PM - 07:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of Financial Aid Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-financial-aid-virtual-counter/2025-05-05/",
+    "college": "Bronx Community College",
+    "date": "2025-05-05",
+    "time": "04:00 PM - 07:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2025-05-09/",
+    "college": "Bronx Community College",
+    "date": "2025-05-09",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of Financial Aid Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-financial-aid-virtual-counter/2025-05-09/",
+    "college": "Bronx Community College",
+    "date": "2025-05-09",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2025-05-12/",
+    "college": "Bronx Community College",
+    "date": "2025-05-12",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of Financial Aid Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-financial-aid-virtual-counter/2025-05-12/",
+    "college": "Bronx Community College",
+    "date": "2025-05-12",
+    "time": "04:00 PM - 07:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
     ]
   },
   {
@@ -3902,6 +4086,14 @@
     ]
   },
   {
+    "title": "Contemporary Workshop with Yaa Samar! Dance Theatre",
+    "link": "https://events.cuny.edu/cec/contemporary-workshop-with-yaa-samar-dance-theatre/",
+    "college": "LaGuardia Community College",
+    "date": "2025-04-25",
+    "time": "10:00 AM - 11:30 AM",
+    "tags": []
+  },
+  {
     "title": "Central Park Nature Walk and City Nature Challenge Kickoff",
     "link": "https://events.cuny.edu/cec/central-park-nature-walk-and-city-nature-challenge-kickoff/",
     "college": "Macaulay Honors College",
@@ -4376,6 +4568,14 @@
     "tags": []
   },
   {
+    "title": "ePortfolio Support Labs",
+    "link": "https://sps.cuny.edu/about/events/eportfolio-support-labs-2",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-05-06",
+    "time": "04:00 PM",
+    "tags": []
+  },
+  {
     "title": "Spring 2025 Virtual Career Fair",
     "link": "https://sph.cuny.edu/event/spring-2025-virtual-career-fair/",
     "college": "CUNY School of Public Health",
@@ -4584,14 +4784,6 @@
     "tags": []
   },
   {
-    "title": "International Crime & Justice MA Alumni Talk",
-    "link": "https://www.jjay.cuny.edu/news-events/events/international-crime-justice-ma-alumni-talk",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-25",
-    "time": "04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Documenting Research APA Style",
     "link": "https://www.jjay.cuny.edu/news-events/events/documenting-research-apa-style-2",
     "college": "John Jay College of Criminal Justice",
@@ -4704,6 +4896,14 @@
     "tags": []
   },
   {
+    "title": "Creating John Jay's Vision for the Future",
+    "link": "https://www.jjay.cuny.edu/news-events/events/creating-john-jays-vision-future-1",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-05-08",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
     "title": "Graduate Power: Interviews with Alumni in Public Management",
     "link": "https://www.jjay.cuny.edu/news-events/events/graduate-power-interviews-alumni-public-management-0",
     "college": "John Jay College of Criminal Justice",
@@ -4741,14 +4941,6 @@
     "college": "Macaulay Honors College",
     "date": "2025-04-25",
     "time": "12:00AM",
-    "tags": []
-  },
-  {
-    "title": "City Nature Challenge Kickoff",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/city-nature-challenge-launch-event/",
-    "college": "Macaulay Honors College",
-    "date": "2025-04-25",
-    "time": "10:00 AM - 12:00PM",
     "tags": []
   },
   {
@@ -4808,19 +5000,19 @@
     "tags": []
   },
   {
+    "title": "Journeys Begun: Hike, Art, Cookout & Reflection",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/journeys-begun-hike-art-cookout-reflection/",
+    "college": "Macaulay Honors College",
+    "date": "2025-05-02",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
     "title": "Certificate of Gerontology",
     "link": "https://www.york.cuny.edu/events/certificate-of-gerontology",
     "college": "York College",
     "date": "2025-04-25",
     "time": "2:00 PM - 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
-    "college": "York College",
-    "date": "2025-04-25",
-    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -4845,6 +5037,14 @@
     "college": "York College",
     "date": "2025-04-26",
     "time": "11:00 PM - 2:00 AM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
+    "college": "York College",
+    "date": "2025-04-28",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5067,28 +5267,12 @@
     ]
   },
   {
-    "title": "From Częstochowa to Bayside: The Story of the KHC’s Torah Scroll",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-07-from-czestochowa-to-bayside-the-story-of-the-khcs-torah-scroll.html",
+    "title": "Asian American and Pacific Islander Heritage Month: Closing Festival",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-aapi-closing-festival.html",
     "college": "Queensborough Community College",
-    "date": "2025-05-07",
-    "time": "02:30 PM - 04:30 PM",
+    "date": "2025-04-30",
+    "time": "04:30 PM - 06:30 PM",
     "description": ""
-  },
-  {
-    "title": "Knitting Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-25-knitting-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-25",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Getting Started: Exploring Internships and Job Opportunities",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-25-getting-started-exploring-internships-and-job-opportunities.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-25",
-    "time": "12:00 PM - 01:00 PM",
-    "description": "ASAP Career Event"
   },
   {
     "title": "Saturday at QCC",
@@ -5233,6 +5417,22 @@
     "date": "2025-04-29",
     "time": "03:00 PM - 04:00 PM",
     "description": "ASAP Career Event"
+  },
+  {
+    "title": "QCC Makeup Day",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-qcc-makeup-day.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-30",
+    "time": "09:00 AM - 05:00 PM",
+    "description": "Male Resource Center Event"
+  },
+  {
+    "title": "National Library Week April 2025",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-national-library-week-april-2025.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-30",
+    "time": "09:00 AM - 07:45 PM",
+    "description": "Special Event / Fair"
   },
   {
     "title": "Last Minute Lit Review Research",
