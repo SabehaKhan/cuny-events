@@ -1176,18 +1176,6 @@
     "tags": []
   },
   {
-    "title": "Emerging Choreographer Series 2025",
-    "link": "https://www.laguardia.edu/event/emerging-choreographer-series-2025/2025-04-27/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-27",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-04-28/",
     "college": "LaGuardia Community College",
@@ -1480,6 +1468,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-05-01",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Queering the Caribbean Film Series",
+    "link": "https://www.laguardia.edu/event/queering-the-caribbean-film-series/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-01",
+    "time": "01:00 PM - 05:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -3809,6 +3808,26 @@
     ]
   },
   {
+    "title": "ALPFA CSI 2025–2026 Executive Board Elections",
+    "link": "https://csi.campuslabs.com/engage/event/11265657",
+    "college": "College of Staten Island",
+    "date": "2025-05-27",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "GroupBusiness"
+    ]
+  },
+  {
+    "title": "Lavender Graduation",
+    "link": "https://csi.campuslabs.com/engage/event/11192434",
+    "college": "College of Staten Island",
+    "date": "2025-05-27",
+    "time": "08:00 PM - 09:00 PM",
+    "tags": [
+      "Social"
+    ]
+  },
+  {
     "title": "Spring Into Wellness",
     "link": "https://events.cuny.edu/cec/spring-into-wellness-10/",
     "college": "The University",
@@ -4958,6 +4977,118 @@
     "date": "2025-05-14",
     "time": "4:00 PM - 6:00 PM",
     "tags": []
+  },
+  {
+    "title": "FRANS DE WAAL MEMORIAL SYMPOSIUM",
+    "link": "https://www.gc.cuny.edu/events/frans-de-waal-memorial-symposium",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-28",
+    "time": "9:00 am — 5:00 pm",
+    "location": "Non-GC Location (see description for details)",
+    "tags": [
+      "Advanced Science Research Center"
+    ]
+  },
+  {
+    "title": "INFO SESSION: FALL 2025 TEACHING OPPORTUNITIES IN NEW YORK CITY PUBLIC SCHOOLS",
+    "link": "https://www.gc.cuny.edu/events/info-session-fall-2025-teaching-opportunities-new-york-city-public-schools",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-28",
+    "time": "10:00 am — 11:15 am",
+    "location": "Online",
+    "tags": [
+      "Career Planning and Professional Development"
+    ]
+  },
+  {
+    "title": "2025 WELLNESS FESTIVAL",
+    "link": "https://www.gc.cuny.edu/events/2025-wellness-festival",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-28",
+    "time": "11:00 am — 3:00 pm",
+    "location": "Entire Concourse Level",
+    "tags": [
+      "Wellness Center",
+      "Student Health Services",
+      "LGBTQ +"
+    ]
+  },
+  {
+    "title": "CENTS AND SENSE: STUDENT LOAN REPAYMENT AND PUBLIC SERVICE LOAN FORGIVENESS",
+    "link": "https://www.gc.cuny.edu/events/cents-and-sense-student-loan-repayment-and-public-service-loan-forgiveness",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-28",
+    "time": "12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Fellowships and Financial Aid"
+    ]
+  },
+  {
+    "title": "RECITAL: MEERA GUDIPATI, FLUTE",
+    "link": "https://www.gc.cuny.edu/events/recital-meera-gudipati-flute",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-28",
+    "time": "6:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Music"
+    ]
+  },
+  {
+    "title": "DENIM DAY 2025",
+    "link": "https://www.gc.cuny.edu/events/denim-day-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-29",
+    "time": "",
+    "location": "Not Applicable",
+    "tags": [
+      "Compliance and Diversity"
+    ]
+  },
+  {
+    "title": "NORMAL VIOLENCE",
+    "link": "https://www.gc.cuny.edu/events/normal-violence",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-29",
+    "time": "3:00 pm — 5:00 pm",
+    "location": "9205",
+    "tags": [
+      "Compliance and Diversity"
+    ]
+  },
+  {
+    "title": "WORKSHOP: THE ANATOMY OF A GOOD HOOK",
+    "link": "https://www.gc.cuny.edu/events/workshop-anatomy-good-hook",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-29",
+    "time": "4:00 pm — 5:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
+  },
+  {
+    "title": "FILM SCREENING: NO",
+    "link": "https://www.gc.cuny.edu/events/film-screening-no",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-29",
+    "time": "6:00 pm — 8:30 pm",
+    "location": "1218: Segal Theatre",
+    "tags": [
+      "Bildner Center for Western Hemisphere Studies"
+    ]
+  },
+  {
+    "title": "WHAT’S LEFT FOR THE ANIMALS? A DISCUSSION ON MULTISPECIES POLITICS AND ANTICAPITALIST RESISTANCE",
+    "link": "https://www.gc.cuny.edu/events/whats-left-animals-discussion-multispecies-politics-and-anticapitalist-resistance",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-29",
+    "time": "6:00 pm — 8:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Center for the Humanities"
+    ]
   },
   {
     "title": "Asian American and Pacific Islander Heritage Month: Closing Festival",
