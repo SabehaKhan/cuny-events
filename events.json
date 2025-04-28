@@ -136,6 +136,14 @@
     "tags": []
   },
   {
+    "title": "Day of Service",
+    "link": "https://www.ccny.cuny.edu/calendar/day-service-may-1st",
+    "college": "City College of New York",
+    "date": "2025-05-01",
+    "time": "11:00 AM - 05:00 PM",
+    "tags": []
+  },
+  {
     "title": "The President's Scholarship Luncheon",
     "link": "https://www.ccny.cuny.edu/calendar/presidents-scholarship-luncheon",
     "college": "City College of New York",
@@ -1176,17 +1184,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-04-28/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-28",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Admissions Virtual Accounting Information Session",
     "link": "https://www.laguardia.edu/event/admissions-virtual-accounting-information-session/",
     "college": "LaGuardia Community College",
@@ -1479,6 +1476,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-05-01",
     "time": "01:00 PM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "From Major to Career: Finding Your Best Fit (Collaboration with Vault)",
+    "link": "https://www.laguardia.edu/event/from-major-to-career-finding-your-best-fit-collaboration-with-vault/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-01",
+    "time": "02:15 PM - 03:15 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2771,6 +2779,19 @@
     ]
   },
   {
+    "title": "Spring 2025 De-Stress Fest: Chair Massage",
+    "link": "https://www.bmcc.cuny.edu/event/654248/2025-05-03/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-03",
+    "time": "11:00 AM - 05:00 PM",
+    "tags": [
+      "De-Stress Fest",
+      "Evening-Weekend",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "BMCC Film Festival",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-film-festival-6/",
     "college": "Borough of Manhattan Community College",
@@ -3113,6 +3134,18 @@
     "time": "07:30 PM - 08:30 PM",
     "tags": [
       "Social"
+    ]
+  },
+  {
+    "title": "Re-Election for The Black Student Union 25-26'",
+    "link": "https://csi.campuslabs.com/engage/event/11286742",
+    "college": "College of Staten Island",
+    "date": "2025-04-29",
+    "time": "06:30 PM - 09:00 PM",
+    "tags": [
+      "GroupBusiness",
+      "Leadership",
+      "Group Business"
     ]
   },
   {
@@ -3510,6 +3543,16 @@
     ]
   },
   {
+    "title": "SJP Elections",
+    "link": "https://csi.campuslabs.com/engage/event/11286745",
+    "college": "College of Staten Island",
+    "date": "2025-05-06",
+    "time": "07:30 PM - 08:30 PM",
+    "tags": [
+      "GroupBusiness"
+    ]
+  },
+  {
     "title": "Junior Recital - Genevieve Steinmetz, soprano (252066-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11191398",
     "college": "College of Staten Island",
@@ -3595,6 +3638,16 @@
       "Social",
       "Entertainment",
       "Willowbrook Campus"
+    ]
+  },
+  {
+    "title": "Jollof Rice Competition",
+    "link": "https://csi.campuslabs.com/engage/event/11286735",
+    "college": "College of Staten Island",
+    "date": "2025-05-08",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Cultural"
     ]
   },
   {
@@ -4387,6 +4440,14 @@
     "tags": []
   },
   {
+    "title": "Transforming my ePortfolio",
+    "link": "https://sps.cuny.edu/about/events/transforming-my-eportfolio-1",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-04-29",
+    "time": "10:00 PM",
+    "tags": []
+  },
+  {
     "title": "Online Information Session: SEEK",
     "link": "https://sps.cuny.edu/about/events/online-information-session-seek-1",
     "college": "CUNY School of Professional Studies",
@@ -4397,14 +4458,6 @@
   {
     "title": "Student Leadership & Service Ceremony",
     "link": "https://sps.cuny.edu/about/events/student-leadership-service-ceremony",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-04-29",
-    "time": "10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Transforming my ePortfolio",
-    "link": "https://sps.cuny.edu/about/events/transforming-my-eportfolio-1",
     "college": "CUNY School of Professional Studies",
     "date": "2025-04-29",
     "time": "10:00 PM",
@@ -4883,19 +4936,19 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
-    "college": "York College",
-    "date": "2025-04-28",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "Department of Occupational Therapy Annual Research Colloquia",
     "link": "https://www.york.cuny.edu/events/department-of-occupational-therapy-annual-research-colloquia",
     "college": "York College",
     "date": "2025-04-28",
     "time": "10:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
+    "college": "York College",
+    "date": "2025-04-29",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5155,54 +5208,6 @@
     "description": ""
   },
   {
-    "title": "Balancing Act: Mastering School, Work and Career Prep",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-28-balancing-act-mastering-school,-work-and-career-prep.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-28",
-    "time": "10:00 AM - 11:00 AM",
-    "description": "Student Event"
-  },
-  {
-    "title": "Queensborough Community College 2025 Aurora Yearbook Portraits",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-28-queensborough-community-college-2025.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-28",
-    "time": "10:00 AM - 05:30 PM",
-    "description": "Student Event"
-  },
-  {
-    "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-28-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-28",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Career Services Event"
-  },
-  {
-    "title": "Walk and Talk Around the Track",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-28-walk-and-talk-around-the-track.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-28",
-    "time": "12:00 PM - 01:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Mindfulness and Art",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-28-mindfulness-and-art.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-28",
-    "time": "12:30 PM - 01:30 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Color, Create & Be Calm",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-28-color-create-be-calm.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-28",
-    "time": "01:10 PM - 02:00 PM",
-    "description": "Conference and Workshop"
-  },
-  {
     "title": "Barbershop Day",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-28-barbershop-day.html",
     "college": "Queensborough Community College",
@@ -5313,6 +5318,54 @@
     "date": "2025-04-30",
     "time": "12:00 PM - 02:00 PM",
     "description": "Club Event"
+  },
+  {
+    "title": "Carri-Oke Day with CSC and MRC",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-carri-oke-day-with-csc-and-mrc.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-30",
+    "time": "12:10 PM - 02:00 PM",
+    "description": "Club Event"
+  },
+  {
+    "title": "QCC VAPA Performance Showcase",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-qcc-vapa-performance-showcase.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-30",
+    "time": "12:10 PM - 02:00 PM",
+    "description": "Performing Arts / Film Event"
+  },
+  {
+    "title": "NYPD Cadet Corps In-Person Information Session",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-nypd-cadet-corps-in-person-information-session.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-30",
+    "time": "12:10 PM - 02:00 PM",
+    "description": "Career Services Event"
+  },
+  {
+    "title": "Equipping Next Generation Leaders for Career Readiness",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-equipping-next-generation-leaders-for-career-readiness.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-30",
+    "time": "01:00 PM - 02:30 PM",
+    "description": "ASAP Career Event"
+  },
+  {
+    "title": "FAFSA Fest",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-fafsa-fest.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-30",
+    "time": "01:00 PM - 04:00 PM",
+    "description": "Financial Aid Event"
+  },
+  {
+    "title": "In-Person Walk-In Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-in-person-walk-in-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-04-30",
+    "time": "02:00 PM - 03:30 PM",
+    "description": "Career Services Event"
   },
   {
     "title": "Lunch Hour Workshop: Proofreading",
