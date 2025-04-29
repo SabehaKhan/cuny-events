@@ -1,37 +1,5 @@
 [
   {
-    "title": "Gaymers Against Violence: Monthly Workshop Series",
-    "link": "https://www.ccny.cuny.edu/calendar/gaymers-against-violence-monthly-workshop-series-6",
-    "college": "City College of New York",
-    "date": "2025-04-29",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Immigrant Stories of Resiliency - Audry Funk Feminist Hip Hop Artist",
-    "link": "https://www.ccny.cuny.edu/calendar/immigrant-stories-resiliency-audry-funk-feminist-hip-hop-artist",
-    "college": "City College of New York",
-    "date": "2025-04-29",
-    "time": "12:30 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Free Weekly Yoga Classes – Spring 2025",
-    "link": "https://www.ccny.cuny.edu/calendar/free-weekly-yoga-classes-spring-2025-8",
-    "college": "City College of New York",
-    "date": "2025-04-29",
-    "time": "01:00 PM - 01:45 PM",
-    "tags": []
-  },
-  {
-    "title": "CCNY VIRTUAL Graduate Admissions IN-PERSON Info Session/Tour EVENT",
-    "link": "https://www.ccny.cuny.edu/calendar/ccny-virtual-graduate-admissions-info-sessiontour-event-3",
-    "college": "City College of New York",
-    "date": "2025-04-29",
-    "time": "01:00 PM - 02:15 PM",
-    "tags": []
-  },
-  {
     "title": "Louis Levine-Gabriella de Beer Lecture in Genetics",
     "link": "https://www.ccny.cuny.edu/calendar/louis-levine-gabriella-de-beer-lecture-genetics-0",
     "college": "City College of New York",
@@ -157,6 +125,14 @@
     "college": "City College of New York",
     "date": "2025-05-05",
     "time": "12:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Salzberg Chemistry Seminar: Prof. James Mayer of Yale University",
+    "link": "https://www.ccny.cuny.edu/calendar/salzberg-chemistry-seminar-prof-james-mayer-yale-university",
+    "college": "City College of New York",
+    "date": "2025-05-05",
+    "time": "12:00 PM - 01:00 PM",
     "tags": []
   },
   {
@@ -542,16 +518,6 @@
     "date": "2025-10-29",
     "time": "10:00 AM - 12:00 PM",
     "tags": []
-  },
-  {
-    "title": "Earth Day Extravaganza at Medgar Evers College",
-    "link": "https://www.mec.cuny.edu/event/earth-day-extravaganza-at-medgar-evers-college/",
-    "college": "Medgar Evers College",
-    "date": "2025-04-29",
-    "time": "10:00 AM - 02:00 PM",
-    "tags": [
-      "Transition Academy"
-    ]
   },
   {
     "title": "Owning A Home in NYC Workshop",
@@ -1250,28 +1216,6 @@
     "tags": []
   },
   {
-    "title": "CUNY EDGE 20 Minute Info Sessions",
-    "link": "https://www.laguardia.edu/event/cuny-edge-20-minute-info-sessions/2025-04-29/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-29",
-    "time": "10:00 AM - 03:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "BMEC: Navigating Academic Challenges: Strategies For Success",
-    "link": "https://www.laguardia.edu/event/bmec-navigating-academic-challenges-strategies-for-success/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-29",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-56/",
     "college": "LaGuardia Community College",
@@ -1310,17 +1254,6 @@
     "college": "LaGuardia Community College",
     "date": "2025-04-30",
     "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Career in the Arts Guest Lecture Series: Rebecca Wack",
-    "link": "https://www.laguardia.edu/event/career-in-the-arts-guest-lecture-series-rebecca-wack/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-30",
-    "time": "02:00 PM - 04:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1559,6 +1492,39 @@
     "tags": [
       "all calendars",
       "student events"
+    ]
+  },
+  {
+    "title": "Art Unfolded: Exploration Through Art Therapy",
+    "link": "https://www.laguardia.edu/event/art-unfolded-exploration-through-art-therapy/2025-05-05/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-05",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "\"Make it Happen Monday\" Transfer Credit Pre-Evaluation Session",
+    "link": "https://www.laguardia.edu/event/make-it-happen-monday-transfer-credit-pre-evaluation-session-17/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-05",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Admissions Adult Learner In-Person Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-adult-learner-in-person-information-session-8/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-05",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
     ]
   },
   {
@@ -2336,62 +2302,6 @@
     "tags": []
   },
   {
-    "title": "The Intolerance of Monotheism: Towards a Religious History of Antisemitism",
-    "link": "https://hunter.cuny.edu/event/the-intolerance-of-monotheism-towards-a-religious-history-of-antisemitism/",
-    "college": "Hunter College",
-    "date": "2025-04-29",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Understanding Your Benefits Package",
-    "link": "https://hunter.cuny.edu/event/understanding-your-benefits-package/",
-    "college": "Hunter College",
-    "date": "2025-04-29",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Event: How Tariffs Affect You (and the Economy)",
-    "link": "https://hunter.cuny.edu/event/event-how-tariffs-affect-you-and-the-economy/",
-    "college": "Hunter College",
-    "date": "2025-04-29",
-    "time": "01:00 PM - 02:30 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Success Academy: Education and more",
-    "link": "https://hunter.cuny.edu/event/success-academy-education-and-more/",
-    "college": "Hunter College",
-    "date": "2025-04-29",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Mastering the Art of Resume Writing",
-    "link": "https://hunter.cuny.edu/event/mastering-the-art-of-resume-writing-13/",
-    "college": "Hunter College",
-    "date": "2025-04-29",
-    "time": "03:30 PM - 04:30 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
     "title": "From Application to Offer: ONE Advisors & Accountants",
     "link": "https://hunter.cuny.edu/event/from-application-to-offer-one-accountant-and-advisors/",
     "college": "Hunter College",
@@ -2625,60 +2535,46 @@
     ]
   },
   {
-    "title": "Stop by our FAFSA (Free Application for Federal Student Aid) Information Table",
-    "link": "https://www.bmcc.cuny.edu/event/stop-by-our-fafsa-free-application-for-federal-student-aid-information-table-7/2025-04-29/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-29",
-    "time": "11:00 AM - 02:00 PM",
+    "title": "Preventing Procrastination – Counseling Workshop",
+    "link": "https://hunter.cuny.edu/event/preventing-procrastination-counseling-workshop-2/",
+    "college": "Hunter College",
+    "date": "2025-05-07",
+    "time": "02:30 PM - 04:00 PM",
     "tags": [
-      "Featured",
-      "Financial Aid Office"
+      "Student Events"
     ]
   },
   {
-    "title": "Asian Heritage Month: Volleyball Tournament",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-volleyball/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-29",
-    "time": "12:00 PM - 03:00 PM",
+    "title": "2nd Annual Climate Science and Action Forum",
+    "link": "https://hunter.cuny.edu/event/2nd-annual-climate-science-and-action-forum/",
+    "college": "Hunter College",
+    "date": "2025-05-07",
+    "time": "03:30 PM - 05:00 PM",
     "tags": [
-      "Asian Heritage Month",
-      "Co-Curricular Transcript",
-      "Featured"
+      "Conferences & Workshops",
+      "Lectures",
+      "Special Events"
     ]
   },
   {
-    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-13/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-29",
-    "time": "01:00 PM - 02:00 PM",
+    "title": "Hunter MFA Playwrights Festival",
+    "link": "https://hunter.cuny.edu/event/hunter-mfa-playwrights-festival-3/2025-05-07/",
+    "college": "Hunter College",
+    "date": "2025-05-07",
+    "time": "04:00 PM - 06:00 PM",
     "tags": [
-      "Learning Resource Center"
+      "Performing Arts & Film"
     ]
   },
   {
-    "title": "Project Impact Reentry Simulation",
-    "link": "https://www.bmcc.cuny.edu/event/project-impact-reentry-simulation/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-29",
-    "time": "02:00 PM - 04:00 PM",
+    "title": "Cafecito con... Glorimar Garcia: En tus manos/ en mi nombre",
+    "link": "https://hunter.cuny.edu/event/cafecito-con-glorimar-garcia-en-tus-manos-en-mi-nombre/",
+    "college": "Hunter College",
+    "date": "2025-05-07",
+    "time": "06:00 PM - 08:00 PM",
     "tags": [
-      "Featured",
-      "Project Impact",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Online Free Workshop: Microsoft Word (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/online-free-workshop-microsoft-word-students-only-165/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-04-29",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Learning Resource Center"
+      "Conferences & Workshops",
+      "Performing Arts & Film"
     ]
   },
   {
@@ -2977,6 +2873,17 @@
     ]
   },
   {
+    "title": "Stop by our FAFSA (Free Application for Federal Student Aid) Information Table",
+    "link": "https://www.bmcc.cuny.edu/event/stop-by-our-fafsa-free-application-for-federal-student-aid-information-table-7/2025-05-06/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-06",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "Financial Aid Office"
+    ]
+  },
+  {
     "title": "Brooklyn College 'Instant Decision Day'",
     "link": "https://www.bmcc.cuny.edu/event/brooklyn-college-instant-decision-day-4/",
     "college": "Borough of Manhattan Community College",
@@ -2988,13 +2895,47 @@
     ]
   },
   {
-    "title": "\"Can You Hear Me Now\" Focus Group",
-    "link": "https://www.bcc.cuny.edu/event/can-you-hear-me-now-focus-group/2025-04-29/2/",
-    "college": "Bronx Community College",
-    "date": "2025-04-29",
-    "time": "01:00 PM - 01:45 PM",
+    "title": "The Power of Connections: Networking for Success",
+    "link": "https://www.bmcc.cuny.edu/event/the-power-of-connections-networking-for-success-5/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-06",
+    "time": "12:00 PM - 01:00 PM",
     "tags": [
-      "Feature"
+      "Career Workshops/Fairs",
+      "Center for Career Development"
+    ]
+  },
+  {
+    "title": "Transfer Talk Tuesday: Explore Your Options After BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/transfer-talk-tuesday-explore-your-options-after-bmcc-20/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-06",
+    "time": "01:00 PM - 01:00 PM",
+    "tags": [
+      "Academic Advisement & Transfer"
+    ]
+  },
+  {
+    "title": "Study Skills Workshops: Prioritize like a Pro (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-prioritize-like-a-pro-students-only-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-06",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Walk-In Storytelling Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/walk-in-storytelling-workshop/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-07",
+    "time": "02:00 AM - 04:00 PM",
+    "tags": [
+      "English",
+      "Featured",
+      "Speech",
+      "Communications and Theatre Arts"
     ]
   },
   {
@@ -3129,132 +3070,6 @@
     "date": "2025-05-15",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
-  },
-  {
-    "title": "Prestigious Scholarship and Fellowship Opportunities!",
-    "link": "https://csi.campuslabs.com/engage/event/11248866",
-    "college": "College of Staten Island",
-    "date": "2025-04-29",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Career Development",
-      "VELA"
-    ]
-  },
-  {
-    "title": "Art Club Elections",
-    "link": "https://csi.campuslabs.com/engage/event/11280584",
-    "college": "College of Staten Island",
-    "date": "2025-04-29",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "Arts"
-    ]
-  },
-  {
-    "title": "Academic Standing Resource Workshop: Navigate Your Academic Success (252053-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/11117159",
-    "college": "College of Staten Island",
-    "date": "2025-04-29",
-    "time": "06:45 PM - 07:45 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "CC CLUE",
-      "Counseling"
-    ]
-  },
-  {
-    "title": "Elections for Open Minds Exchange",
-    "link": "https://csi.campuslabs.com/engage/event/11276429",
-    "college": "College of Staten Island",
-    "date": "2025-04-29",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": [
-      "GroupBusiness",
-      "Leadership"
-    ]
-  },
-  {
-    "title": "Physics simulations using maple",
-    "link": "https://csi.campuslabs.com/engage/event/11280590",
-    "college": "College of Staten Island",
-    "date": "2025-04-29",
-    "time": "07:00 PM - 08:00 PM",
-    "tags": [
-      "GroupBusiness"
-    ]
-  },
-  {
-    "title": "IEEE Club Officer Elections",
-    "link": "https://csi.campuslabs.com/engage/event/11283489",
-    "college": "College of Staten Island",
-    "date": "2025-04-29",
-    "time": "06:30 PM - 08:15 PM",
-    "tags": [
-      "GroupBusiness",
-      "Leadership",
-      "Social"
-    ]
-  },
-  {
-    "title": "SPIRIT WEEK: United We Celebrate - Spring Festival 2025",
-    "link": "https://csi.campuslabs.com/engage/event/11242867",
-    "college": "College of Staten Island",
-    "date": "2025-04-29",
-    "time": "04:30 PM - 08:30 PM",
-    "tags": [
-      "Social",
-      "Entertainment"
-    ]
-  },
-  {
-    "title": "Student Workers Alliance",
-    "link": "https://csi.campuslabs.com/engage/event/11274640",
-    "college": "College of Staten Island",
-    "date": "2025-04-29",
-    "time": "07:30 PM - 08:30 PM",
-    "tags": [
-      "GroupBusiness",
-      "Group Business"
-    ]
-  },
-  {
-    "title": "AI in Action: A Hands On Workshop Covering LLMs & Prompt Engineering (252083-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/11280075",
-    "college": "College of Staten Island",
-    "date": "2025-04-29",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "CC CLUE",
-      "Career Development"
-    ]
-  },
-  {
-    "title": "Color & Clarity",
-    "link": "https://csi.campuslabs.com/engage/event/11280582",
-    "college": "College of Staten Island",
-    "date": "2025-04-29",
-    "time": "07:30 PM - 08:30 PM",
-    "tags": [
-      "Social"
-    ]
-  },
-  {
-    "title": "Re-Election for The Black Student Union 25-26'",
-    "link": "https://csi.campuslabs.com/engage/event/11286742",
-    "college": "College of Staten Island",
-    "date": "2025-04-29",
-    "time": "06:30 PM - 09:00 PM",
-    "tags": [
-      "GroupBusiness",
-      "Leadership",
-      "Group Business"
-    ]
   },
   {
     "title": "Spirit Week International Talent Night",
@@ -4685,16 +4500,16 @@
     "tags": []
   },
   {
-    "title": "Wellness Wars",
-    "link": "https://www.lehman.edu/events/2025/Wellness-Wars-1.php",
+    "title": "Lead to Win: Talk and Book signing with Carla Harris",
+    "link": "https://www.lehman.edu/events/2025/Lead-to-Win-Talk-and-Book-signing-with-Carla-Harris.php",
     "college": "Lehman College",
     "date": "2025-04-29",
     "time": "2:00 PM- 4:00 PM",
     "tags": []
   },
   {
-    "title": "Lead to Win: Talk and Book signing with Carla Harris",
-    "link": "https://www.lehman.edu/events/2025/Lead-to-Win-Talk-and-Book-signing-with-Carla-Harris.php",
+    "title": "Wellness Wars",
+    "link": "https://www.lehman.edu/events/2025/Wellness-Wars.php",
     "college": "Lehman College",
     "date": "2025-04-29",
     "time": "2:00 PM- 4:00 PM",
@@ -4733,19 +4548,11 @@
     "tags": []
   },
   {
-    "title": "CodePath Session",
-    "link": "https://www.lehman.edu/events/2025/CodePath-Session-.php",
+    "title": "Sight and Sound: A Musical Journey of Visual Art",
+    "link": "https://www.lehman.edu/events/2025/Sight-and-Sound-A-Musical-Journey-of-Visual-Art.php",
     "college": "Lehman College",
     "date": "2025-05-01",
-    "time": "1:00 PM- 2:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Proofing & Editing for Grammar Errors",
-    "link": "https://www.jjay.cuny.edu/news-events/events/proofing-editing-grammar-errors-1",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-29",
-    "time": "05:40 PM",
+    "time": "1:00 PM- 2:30 PM",
     "tags": []
   },
   {
@@ -4781,8 +4588,8 @@
     "tags": []
   },
   {
-    "title": "Would You Let AI Mediate Your Conflict? Considering the Future",
-    "link": "https://www.jjay.cuny.edu/news-events/events/would-you-let-ai-mediate-your-conflict-considering-future",
+    "title": "Would You Let AI Mediate Your Conflict?",
+    "link": "https://www.jjay.cuny.edu/news-events/events/would-you-let-ai-mediate-your-conflict",
     "college": "John Jay College of Criminal Justice",
     "date": "2025-05-01",
     "time": "12:00 PM",
@@ -4813,6 +4620,14 @@
     "tags": []
   },
   {
+    "title": "AAPI Heritage Month Celebration",
+    "link": "https://www.jjay.cuny.edu/news-events/events/aapi-heritage-month-celebration",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-05-06",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
     "title": "Graduate Salute",
     "link": "https://www.jjay.cuny.edu/news-events/events/graduate-salute",
     "college": "John Jay College of Criminal Justice",
@@ -4826,6 +4641,22 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-05-08",
     "time": "04:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Seeing Rape",
+    "link": "https://www.jjay.cuny.edu/news-events/events/seeing-rape-1",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-05-08",
+    "time": "05:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Digital Video Production Spring Showcase",
+    "link": "https://www.jjay.cuny.edu/news-events/events/digital-video-production-spring-showcase",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-05-08",
+    "time": "10:00 PM",
     "tags": []
   },
   {
@@ -5077,14 +4908,117 @@
     "tags": []
   },
   {
-    "title": "REMEMBERING AS A CURE FOR POST-TRUTH AND POPULISM",
-    "link": "https://www.gc.cuny.edu/events/remembering-cure-post-truth-and-populism",
+    "title": "DENIM DAY 2025",
+    "link": "https://www.gc.cuny.edu/events/denim-day-2025",
     "college": "CUNY Graduate Center",
-    "date": "2025-11-13",
-    "time": "6:30 pm",
-    "location": "C205",
+    "date": "2025-04-29",
+    "time": "",
+    "location": "GC Lobby (first floor)",
     "tags": [
-      "Middle East and Middle Eastern American Center"
+      "Compliance and Diversity"
+    ]
+  },
+  {
+    "title": "NORMAL VIOLENCE",
+    "link": "https://www.gc.cuny.edu/events/normal-violence",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-29",
+    "time": "3:00 pm — 5:00 pm",
+    "location": "9205",
+    "tags": [
+      "Compliance and Diversity"
+    ]
+  },
+  {
+    "title": "WORKSHOP: THE ANATOMY OF A GOOD HOOK",
+    "link": "https://www.gc.cuny.edu/events/workshop-anatomy-good-hook",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-29",
+    "time": "4:00 pm — 5:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
+  },
+  {
+    "title": "FILM SCREENING: NO",
+    "link": "https://www.gc.cuny.edu/events/film-screening-no",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-29",
+    "time": "6:00 pm — 8:30 pm",
+    "location": "1218: Segal Theatre",
+    "tags": [
+      "Bildner Center for Western Hemisphere Studies"
+    ]
+  },
+  {
+    "title": "WHAT’S LEFT FOR THE ANIMALS? A DISCUSSION ON MULTISPECIES POLITICS AND ANTICAPITALIST RESISTANCE",
+    "link": "https://www.gc.cuny.edu/events/whats-left-animals-discussion-multispecies-politics-and-anticapitalist-resistance",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-29",
+    "time": "6:00 pm — 8:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Center for the Humanities"
+    ]
+  },
+  {
+    "title": "MAMES BOOK TALK: MATAN KAMINER, CAPITALIST COLONIAL: THAI MIGRANT WORKERS IN ISRAELI AGRICULTURE",
+    "link": "https://www.gc.cuny.edu/events/mames-book-talk-matan-kaminer-capitalist-colonial-thai-migrant-workers-israeli-agriculture",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-29",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "6304.23: MEMEAC Conference Room",
+    "tags": [
+      "Middle Eastern Studies",
+      "Anthropology"
+    ]
+  },
+  {
+    "title": "BOOK TALK: PETER ECKERSALL, \"DRAMATURGY TO MAKE VISIBLE\"",
+    "link": "https://www.gc.cuny.edu/events/book-talk-peter-eckersall-dramaturgy-make-visible",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-30",
+    "time": "4:00 pm",
+    "location": "9205",
+    "tags": [
+      "Theatre and Performance",
+      "CUNY Academy for the Humanities and Sciences"
+    ]
+  },
+  {
+    "title": "ARE WE ON THE BRINK OF A NEW ECONOMIC ORDER?",
+    "link": "https://www.gc.cuny.edu/events/are-we-brink-new-economic-order",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-30",
+    "time": "6:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Public Programs",
+      "Stone Center on Socio-Economic Inequality",
+      "GC Presents"
+    ]
+  },
+  {
+    "title": "GC COMPOSERS’ CONCERT: NEW SOUNDS ON FIFTH FEAT. THE NUNTEMPE GUITAR ENSAMBLE",
+    "link": "https://www.gc.cuny.edu/events/gc-composers-concert-new-sounds-fifth-feat-nuntempe-guitar-ensamble",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-30",
+    "time": "7:30 pm",
+    "location": "1218: Segal Theatre",
+    "tags": [
+      "Music"
+    ]
+  },
+  {
+    "title": "WORKSHOP: UNDERSTANDING THE PUBLICATION PROCESS - HUMANITIES AND SOCIAL SCIENCES",
+    "link": "https://www.gc.cuny.edu/events/workshop-understanding-publication-process-humanities-and-social-sciences",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-01",
+    "time": "4:00 pm — 5:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
     ]
   },
   {
@@ -5102,22 +5036,6 @@
     "date": "2025-05-01",
     "time": "12:00 PM - 01:00 PM",
     "description": ""
-  },
-  {
-    "title": "Fresh Food Bag Distribution",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-29-fresh-food-bag-distribution.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-29",
-    "time": "01:30 PM - 02:30 PM",
-    "description": "Fight Campus Hunger Event"
-  },
-  {
-    "title": "Building Connections: Networking Essentials for College Students",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-29-building-connections-networking-essentials-for-college-students.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-29",
-    "time": "03:00 PM - 04:00 PM",
-    "description": "ASAP Career Event"
   },
   {
     "title": "QCC Makeup Day",
@@ -5246,6 +5164,22 @@
     "date": "2025-05-05",
     "time": "12:00 PM - 01:00 PM",
     "description": "Male Resource Center Event"
+  },
+  {
+    "title": "Color, Create & Be Calm",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-05-color-create-be-calm.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-05",
+    "time": "01:10 PM - 02:00 PM",
+    "description": "Conference and Workshop"
+  },
+  {
+    "title": "Transfer Night at QCC",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-05-transfer-night-at-qcc.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-05",
+    "time": "04:00 PM - 06:00 PM",
+    "description": "Admissions Event"
   },
   {
     "title": "Lunch Hour Workshop: Proofreading",
