@@ -1,13 +1,5 @@
 [
   {
-    "title": "International Conference on the Historical Links Between Spain and The Americas | Day 1",
-    "link": "https://www.ccny.cuny.edu/calendar/international-conference-historical-links-between-spain-and-americas-day-1",
-    "college": "City College of New York",
-    "date": "2025-04-30",
-    "time": "08:00 AM - 08:00 PM",
-    "tags": []
-  },
-  {
     "title": "LGBTQ+ Peer Support Group",
     "link": "https://www.ccny.cuny.edu/calendar/lgbtq-peer-support-group-48",
     "college": "City College of New York",
@@ -518,6 +510,24 @@
     "date": "2025-04-30",
     "time": "05:15 PM - 06:30 PM",
     "tags": []
+  },
+  {
+    "title": "The Huddle Podcast: Immigration & Mental Health",
+    "link": "https://www.mec.cuny.edu/event/the-huddle-podcast-immigration-mental-health/",
+    "college": "Medgar Evers College",
+    "date": "2025-05-01",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Creating a Culture of Leadership from the Ground Up with Dr. Malik Yoba",
+    "link": "https://www.mec.cuny.edu/event/creating-a-culture-of-leadership-from-the-ground-up-with-dr-malik-yoba/",
+    "college": "Medgar Evers College",
+    "date": "2025-05-01",
+    "time": "04:00 PM - 05:30 PM",
+    "tags": [
+      "Black Male Initiative"
+    ]
   },
   {
     "title": "Voices of Change Youth Leadership Conference",
@@ -1166,39 +1176,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-56/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-30",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Tai Chi (In-Person)",
-    "link": "https://www.laguardia.edu/event/tai-chi-in-person-2/2025-04-30/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-30",
-    "time": "11:45 AM - 12:45 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-04-30/",
-    "college": "LaGuardia Community College",
-    "date": "2025-04-30",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "BMEC Self-Care and Nutrition for Academic Success: Session 2: Food Demo",
     "link": "https://www.laguardia.edu/event/bmec-self-care-and-nutrition-for-academic-success-session-2-food-demo/",
     "college": "LaGuardia Community College",
@@ -1475,6 +1452,40 @@
     "tags": [
       "admissions",
       "all calendars"
+    ]
+  },
+  {
+    "title": "CUNY EDGE 20 Minute Info Sessions",
+    "link": "https://www.laguardia.edu/event/cuny-edge-20-minute-info-sessions/2025-05-06/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-06",
+    "time": "10:00 AM - 03:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Just Breathe!",
+    "link": "https://www.laguardia.edu/event/just-breathe/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-06",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "You Can Do Anything with an English Major",
+    "link": "https://www.laguardia.edu/event/you-can-do-anything-with-an-english-major/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-07",
+    "time": "10:30 AM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "student events"
     ]
   },
   {
@@ -2246,7 +2257,7 @@
     ]
   },
   {
-    "title": "Seminar: Mushfiq Mubarak (Yale University)",
+    "title": "Seminar: Mushfiq Mobarak (Yale University)",
     "link": "https://hunter.cuny.edu/event/seminar-mushfiq-mubarak-yale-university/",
     "college": "Hunter College",
     "date": "2025-04-30",
@@ -2961,16 +2972,6 @@
     "tags": []
   },
   {
-    "title": "Accessibility, Inclusion, and Diversity Commission",
-    "link": "https://csi.campuslabs.com/engage/event/10816643",
-    "college": "College of Staten Island",
-    "date": "2025-04-30",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "ThoughtfulLearning"
-    ]
-  },
-  {
     "title": "Academic and Curricular Affairs Commission",
     "link": "https://csi.campuslabs.com/engage/event/10789571",
     "college": "College of Staten Island",
@@ -3040,6 +3041,18 @@
     ]
   },
   {
+    "title": "Re-Election for The Black Student Union 25-26'",
+    "link": "https://csi.campuslabs.com/engage/event/11286742",
+    "college": "College of Staten Island",
+    "date": "2025-05-01",
+    "time": "06:00 PM - 06:30 PM",
+    "tags": [
+      "GroupBusiness",
+      "Leadership",
+      "Group Business"
+    ]
+  },
+  {
     "title": "Coffee and Christ",
     "link": "https://csi.campuslabs.com/engage/event/11097165",
     "college": "College of Staten Island",
@@ -3083,7 +3096,7 @@
     ]
   },
   {
-    "title": "Spirit Week: CSI Squid Games",
+    "title": "Spirit Week: Food Truck Festival and CSI Squid Games",
     "link": "https://csi.campuslabs.com/engage/event/11257389",
     "college": "College of Staten Island",
     "date": "2025-04-30",
@@ -3241,18 +3254,6 @@
       "PG CLUE",
       "Social",
       "Sustainability"
-    ]
-  },
-  {
-    "title": "Puppies and Pizza! (252048-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11096137",
-    "college": "College of Staten Island",
-    "date": "2025-05-06",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "Social",
-      "Health and Wellness",
-      "Entertainment"
     ]
   },
   {
@@ -3623,6 +3624,18 @@
       "Entertainment",
       "Willowbrook Campus",
       "Cultural"
+    ]
+  },
+  {
+    "title": "Puppies and Pizza! (252048-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11096137",
+    "college": "College of Staten Island",
+    "date": "2025-05-22",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "Social",
+      "Health and Wellness",
+      "Entertainment"
     ]
   },
   {
@@ -4050,6 +4063,14 @@
     "tags": []
   },
   {
+    "title": "SLD: Grad Fair Cap Decorations",
+    "link": "https://citytech.event.cuny.edu/events/raGUG4pi14MqGfTPQLZt/DWBHnfHCGAEXuyARy3lk",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-04-30",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
     "title": "Spring 2025 General Tour",
     "link": "https://citytech.event.cuny.edu/events/wy7jUQ8h8bPBhEjqO1yK/q0q8brUmnuv7XaeZjr7R",
     "college": "New York City College of Technology (City Tech)",
@@ -4450,22 +4471,6 @@
     "tags": []
   },
   {
-    "title": "Effective Editing Strategies",
-    "link": "https://www.jjay.cuny.edu/news-events/events/effective-editing-strategies-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-30",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
-    "title": "Lavender Celebration",
-    "link": "https://www.jjay.cuny.edu/news-events/events/lavender-celebration",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-04-30",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
     "title": "Writing the Research Paper",
     "link": "https://www.jjay.cuny.edu/news-events/events/writing-research-paper-0",
     "college": "John Jay College of Criminal Justice",
@@ -4551,6 +4556,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-05-08",
     "time": "10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "John Jay Singers 10 Year Reunion Concert",
+    "link": "https://www.jjay.cuny.edu/news-events/events/john-jay-singers-10-year-reunion-concert",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-05-12",
+    "time": "11:00 PM",
     "tags": []
   },
   {
@@ -4666,14 +4679,6 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
-    "college": "York College",
-    "date": "2025-04-30",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "Wellness Wednesday - April",
     "link": "https://www.york.cuny.edu/events/wellness-wednesday-2",
     "college": "York College",
@@ -4687,6 +4692,14 @@
     "college": "York College",
     "date": "2025-05-01",
     "time": "3:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
+    "college": "York College",
+    "date": "2025-05-01",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -4827,6 +4840,19 @@
     ]
   },
   {
+    "title": "LESSONS FROM DIETRICH BONHOEFFER",
+    "link": "https://www.gc.cuny.edu/events/lessons-dietrich-bonhoeffer",
+    "college": "CUNY Graduate Center",
+    "date": "2025-04-30",
+    "time": "7:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Ralph Bunche Institute for International Studies",
+      "CUNY Academy for the Humanities and Sciences",
+      "European Union Studies Center"
+    ]
+  },
+  {
     "title": "GC COMPOSERS’ CONCERT: NEW SOUNDS ON FIFTH FEAT. THE NUNTEMPE GUITAR ENSAMBLE",
     "link": "https://www.gc.cuny.edu/events/gc-composers-concert-new-sounds-fifth-feat-nuntempe-guitar-ensamble",
     "college": "CUNY Graduate Center",
@@ -4907,17 +4933,6 @@
     ]
   },
   {
-    "title": "DON ROBOTHAM: A CELEBRATION!",
-    "link": "https://www.gc.cuny.edu/events/don-robotham-celebration",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-02",
-    "time": "4:15 pm",
-    "location": "C415A",
-    "tags": [
-      "Anthropology"
-    ]
-  },
-  {
     "title": "Asian American and Pacific Islander Heritage Month: Closing Festival",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-aapi-closing-festival.html",
     "college": "Queensborough Community College",
@@ -4932,78 +4947,6 @@
     "date": "2025-05-01",
     "time": "12:00 PM - 01:00 PM",
     "description": ""
-  },
-  {
-    "title": "QCC Makeup Day",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-qcc-makeup-day.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-30",
-    "time": "09:00 AM - 05:00 PM",
-    "description": "Male Resource Center Event"
-  },
-  {
-    "title": "National Library Week April 2025",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-national-library-week-april-2025.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-30",
-    "time": "09:00 AM - 07:45 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Queensborough Community College 2025 Aurora Yearbook Portraits",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-queensborough-community-college-2025.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-30",
-    "time": "10:00 AM - 05:30 PM",
-    "description": "Student Event"
-  },
-  {
-    "title": "QCC Chemistry - York College Pharmaceutical Sciences infosession and seminar",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-qcc-chemistry-york-college-pharmaceutical-sciences-infosession-and-seminar.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-30",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Club Event"
-  },
-  {
-    "title": "Carri-Oke Day with CSC and MRC",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-carri-oke-day-with-csc-and-mrc.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-30",
-    "time": "12:10 PM - 02:00 PM",
-    "description": "Club Event"
-  },
-  {
-    "title": "QCC VAPA Performance Showcase",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-qcc-vapa-performance-showcase.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-30",
-    "time": "12:10 PM - 02:00 PM",
-    "description": "Performing Arts / Film Event"
-  },
-  {
-    "title": "NYPD Cadet Corps In-Person Information Session",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-nypd-cadet-corps-in-person-information-session.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-30",
-    "time": "12:10 PM - 02:00 PM",
-    "description": "Career Services Event"
-  },
-  {
-    "title": "Equipping Next Generation Leaders for Career Readiness",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-equipping-next-generation-leaders-for-career-readiness.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-30",
-    "time": "01:00 PM - 02:30 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "FAFSA Fest",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-04-30-fafsa-fest.html",
-    "college": "Queensborough Community College",
-    "date": "2025-04-30",
-    "time": "01:00 PM - 04:00 PM",
-    "description": "Financial Aid Event"
   },
   {
     "title": "In-Person Walk-In Resume Hour",
@@ -5076,6 +5019,78 @@
     "date": "2025-05-05",
     "time": "04:00 PM - 06:00 PM",
     "description": "Admissions Event"
+  },
+  {
+    "title": "Fresh Food Bag Distribution",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-06-fresh-food-bag-distribution.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-06",
+    "time": "01:30 PM - 02:30 PM",
+    "description": "Fight Campus Hunger Event"
+  },
+  {
+    "title": "QCC-Baruch Business Academy: Info Sessions",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-06-qcc-baruch-business-academy-info-sessions.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-06",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "Transfer Resource Center Event"
+  },
+  {
+    "title": "Gardening",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-07-gardening.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-07",
+    "time": "12:00 PM - 02:00 PM",
+    "description": "Conference and Workshop"
+  },
+  {
+    "title": "Healthy Living Day",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-07-healthy-living-day1.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-07",
+    "time": "12:00 PM - 02:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "The Frank Egan Memorial Health Lecture",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-07-the-frank-egan-memorial-health.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-07",
+    "time": "12:00 PM - 01:15 PM",
+    "description": "Lecture"
+  },
+  {
+    "title": "Music Department Alumni Panel",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-07-music-department-alumni-panel.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-07",
+    "time": "12:10 PM - 02:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Four-Year College Transfer Application Workshop",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-07-four-year-college-transfer-application-workshop.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-07",
+    "time": "01:00 PM - 02:00 PM",
+    "description": "Transfer Resource Center Event"
+  },
+  {
+    "title": "Pre-Finals connection: Thriving as an International Student",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-07-pre-finals-connection-thriving-as-an.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-07",
+    "time": "01:00 PM - 02:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "FAFSA Fest",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-07-fafsa-fest.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-07",
+    "time": "01:00 PM - 04:00 PM",
+    "description": "Financial Aid Event"
   },
   {
     "title": "Lunch Hour Workshop: Proofreading",
