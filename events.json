@@ -1,29 +1,5 @@
 [
   {
-    "title": "Day of Service",
-    "link": "https://www.ccny.cuny.edu/calendar/day-service-may-1st",
-    "college": "City College of New York",
-    "date": "2025-05-01",
-    "time": "11:00 AM - 05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "The President's Scholarship Luncheon",
-    "link": "https://www.ccny.cuny.edu/calendar/presidents-scholarship-luncheon",
-    "college": "City College of New York",
-    "date": "2025-05-01",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Philosophy Pizza Forum: Philosophy Graduation Celebration & Thesis presentations",
-    "link": "https://www.ccny.cuny.edu/calendar/philosophy-pizza-forum-philosophy-graduation-celebration-thesis-presentations",
-    "college": "City College of New York",
-    "date": "2025-05-01",
-    "time": "12:30 PM - 01:45 PM",
-    "tags": []
-  },
-  {
     "title": "GORGONA - Film and Talk",
     "link": "https://www.ccny.cuny.edu/calendar/gorgona-film-and-talk",
     "college": "City College of New York",
@@ -568,6 +544,14 @@
     ]
   },
   {
+    "title": "Book Talk: Empire of AI",
+    "link": "https://www.journalism.cuny.edu/events/book-talk-empire-of-ai/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-05-21",
+    "time": "05:30 PM - 07:00 PM",
+    "tags": []
+  },
+  {
     "title": "Columbus Day",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/d2082901-5ec8-4204-93a4-b226f5a13a34",
     "college": "Kingsborough Community College",
@@ -1040,50 +1024,6 @@
     "tags": []
   },
   {
-    "title": "Queering the Caribbean Film Series",
-    "link": "https://www.laguardia.edu/event/queering-the-caribbean-film-series/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-01",
-    "time": "01:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "From Major to Career: Finding Your Best Fit (Collaboration with Vault)",
-    "link": "https://www.laguardia.edu/event/from-major-to-career-finding-your-best-fit-collaboration-with-vault/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-01",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Leadership and Development: Developing the Leader Within",
-    "link": "https://www.laguardia.edu/event/developing-the-leader-within/2025-05-01/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-01",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Queer Connections: A Support Group for LGBTQIA+ Students",
-    "link": "https://www.laguardia.edu/event/queer-connections-a-support-group-for-lgbtqia-students/2025-05-01/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-01",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Healing During Uncertainty: Asian American Mental Health",
     "link": "https://www.laguardia.edu/event/healing-during-uncertainty-asian-american-mental-health/",
     "college": "LaGuardia Community College",
@@ -1347,6 +1287,73 @@
     "date": "2025-05-07",
     "time": "03:30 PM - 04:30 PM",
     "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-05-07/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-07",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Street Mural Information Session",
+    "link": "https://www.laguardia.edu/event/street-mural-information-session-2/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-08",
+    "time": "11:00 AM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-05-08/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-08",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Leadership and Development: Developing the Leader Within",
+    "link": "https://www.laguardia.edu/event/developing-the-leader-within/2025-05-08/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-08",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Bad Bunny: Identity and Resistance",
+    "link": "https://www.laguardia.edu/event/bad-bunny-identity-and-resistance/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-08",
+    "time": "03:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-05-09/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-09",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
       "all calendars",
       "student events"
     ]
@@ -2107,15 +2114,12 @@
     ]
   },
   {
-    "title": "Salary Negotiation Workshop",
-    "link": "https://hunter.cuny.edu/event/salary-negotiation-workshop-4/",
+    "title": "Susan Isaacs Best Selling Author Book Talk",
+    "link": "https://hunter.cuny.edu/event/susan-isaacs-best-selling-author-book-talk/",
     "college": "Hunter College",
     "date": "2025-05-01",
-    "time": "03:30 PM - 04:30 PM",
-    "tags": [
-      "Conferences & Workshops",
-      "Student Events"
-    ]
+    "time": "06:30 PM - 07:30 PM",
+    "tags": []
   },
   {
     "title": "Bachelor of Science in Nursing Generic Program Information Session",
@@ -2343,13 +2347,13 @@
     ]
   },
   {
-    "title": "Online Free Workshop: Photoshop (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/online-free-workshop-photoshop-students-only-255/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-01",
-    "time": "04:00 PM - 05:00 PM",
+    "title": "Nurse Anesthesia Acute Care NP (DNP) Program Information Session - In Person",
+    "link": "https://hunter.cuny.edu/event/nurse-anesthesia-acute-care-np-dnp-program-information-session-in-person/",
+    "college": "Hunter College",
+    "date": "2025-05-19",
+    "time": "04:00 PM - 06:00 PM",
     "tags": [
-      "Learning Resource Center"
+      "Open Houses"
     ]
   },
   {
@@ -2692,25 +2696,14 @@
     ]
   },
   {
-    "title": "\"Following Harry\" Documentary Screening",
-    "link": "https://www.bcc.cuny.edu/event/following-harry-documentary-screening/",
-    "college": "Bronx Community College",
-    "date": "2025-05-01",
-    "time": "12:00 PM - 02:00 PM",
+    "title": "Online Free Workshop: Intro to Computer Basics (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/online-free-workshop-intro-to-computer-basics-students-only-6/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-08",
+    "time": "04:00 PM - 05:00 PM",
     "tags": [
-      "Campus Events",
-      "Cultural Event",
-      "Enrollment Management",
-      "Feature"
+      "Learning Resource Center"
     ]
-  },
-  {
-    "title": "Academic Freedom",
-    "link": "https://www.bcc.cuny.edu/event/academic-freedom/2025-05-01/",
-    "college": "Bronx Community College",
-    "date": "2025-05-01",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": []
   },
   {
     "title": "Office of the Registrar Virtual Counter",
@@ -2827,100 +2820,6 @@
     "date": "2025-05-15",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
-  },
-  {
-    "title": "Re-Election for The Black Student Union 25-26'",
-    "link": "https://csi.campuslabs.com/engage/event/11286742",
-    "college": "College of Staten Island",
-    "date": "2025-05-01",
-    "time": "06:00 PM - 06:30 PM",
-    "tags": [
-      "GroupBusiness",
-      "Leadership",
-      "Group Business"
-    ]
-  },
-  {
-    "title": "Coffee and Christ",
-    "link": "https://csi.campuslabs.com/engage/event/11097165",
-    "college": "College of Staten Island",
-    "date": "2025-05-01",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "Spirituality",
-      "Faith Based"
-    ]
-  },
-  {
-    "title": "End of Semester and Elections",
-    "link": "https://csi.campuslabs.com/engage/event/11288239",
-    "college": "College of Staten Island",
-    "date": "2025-05-01",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "GroupBusiness"
-    ]
-  },
-  {
-    "title": "NSBE Elections",
-    "link": "https://csi.campuslabs.com/engage/event/11276444",
-    "college": "College of Staten Island",
-    "date": "2025-05-01",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": [
-      "Social"
-    ]
-  },
-  {
-    "title": "Meet and Greet with French HS Students from Montpellier, France(252084-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/11282729",
-    "college": "College of Staten Island",
-    "date": "2025-05-01",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": [
-      "Cultural",
-      "Global Engagement",
-      "CC CLUE"
-    ]
-  },
-  {
-    "title": "World Languages Open house",
-    "link": "https://csi.campuslabs.com/engage/event/11284160",
-    "college": "College of Staten Island",
-    "date": "2025-05-01",
-    "time": "06:00 PM - 08:30 PM",
-    "tags": [
-      "Social",
-      "Counseling",
-      "Cultural"
-    ]
-  },
-  {
-    "title": "SPIRIT WEEK: Faculty/Staff vs. Student Flag Football Game",
-    "link": "https://csi.campuslabs.com/engage/event/11168486",
-    "college": "College of Staten Island",
-    "date": "2025-05-01",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "Athletics",
-      "Health and Wellness",
-      "Fitness/Recreation",
-      "Social",
-      "Entertainment"
-    ]
-  },
-  {
-    "title": "FREE Health Fair: Learn How to Nurture Your Mind, Love Your Heart & Live Well! (252103-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11276658",
-    "college": "College of Staten Island",
-    "date": "2025-05-01",
-    "time": "05:00 PM - 09:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Health and Wellness",
-      "Fitness/Recreation"
-    ]
   },
   {
     "title": "The Vanderbilts: An Empire Founded on Staten Island (252085-CC)",
@@ -4098,19 +3997,19 @@
     "tags": []
   },
   {
-    "title": "Sight and Sound: A Musical Journey of Visual Art",
-    "link": "https://www.lehman.edu/events/2025/Sight-and-Sound-A-Musical-Journey-of-Visual-Art.php",
-    "college": "Lehman College",
-    "date": "2025-05-01",
-    "time": "1:00 PM- 2:30 PM",
-    "tags": []
-  },
-  {
     "title": "CodePath Session",
     "link": "https://www.lehman.edu/events/2025/CodePath-Session-.php",
     "college": "Lehman College",
     "date": "2025-05-01",
     "time": "1:00 PM- 2:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Sight and Sound: A Musical Journey of Visual Art",
+    "link": "https://www.lehman.edu/events/2025/Sight-and-Sound-A-Musical-Journey-of-Visual-Art.php",
+    "college": "Lehman College",
+    "date": "2025-05-01",
+    "time": "1:00 PM- 2:30 PM",
     "tags": []
   },
   {
