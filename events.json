@@ -1,13 +1,5 @@
 [
   {
-    "title": "International Conference on the Historical Links Between Spain and The Americas | Day 2",
-    "link": "https://www.ccny.cuny.edu/calendar/international-conference-historical-links-between-spain-and-americas-day-2",
-    "college": "City College of New York",
-    "date": "2025-05-01",
-    "time": "08:00 AM - 08:00 PM",
-    "tags": []
-  },
-  {
     "title": "Day of Service",
     "link": "https://www.ccny.cuny.edu/calendar/day-service-may-1st",
     "college": "City College of New York",
@@ -464,14 +456,6 @@
     "tags": []
   },
   {
-    "title": "The Huddle Podcast: Immigration & Mental Health",
-    "link": "https://www.mec.cuny.edu/event/the-huddle-podcast-immigration-mental-health/",
-    "college": "Medgar Evers College",
-    "date": "2025-05-01",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "Creating a Culture of Leadership from the Ground Up with Dr. Malik Yoba",
     "link": "https://www.mec.cuny.edu/event/creating-a-culture-of-leadership-from-the-ground-up-with-dr-malik-yoba/",
     "college": "Medgar Evers College",
@@ -571,6 +555,16 @@
       "Homepage Feature",
       "Special Event",
       "Webinar"
+    ]
+  },
+  {
+    "title": "Homecoming 2025",
+    "link": "https://www.journalism.cuny.edu/events/homecoming-2025/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-05-09",
+    "time": "11:00 AM - 06:00 PM",
+    "tags": [
+      "Alumni"
     ]
   },
   {
@@ -1046,17 +1040,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-05-01/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-01",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Queering the Caribbean Film Series",
     "link": "https://www.laguardia.edu/event/queering-the-caribbean-film-series/",
     "college": "LaGuardia Community College",
@@ -1358,6 +1341,17 @@
     ]
   },
   {
+    "title": "Phi Theta Kappa Informational Sessions",
+    "link": "https://www.laguardia.edu/event/phi-theta-kappa-informational-sessions/2025-05-07/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-07",
+    "time": "03:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Table Talk",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376301",
     "college": "Guttman Community College",
@@ -1424,6 +1418,19 @@
     ]
   },
   {
+    "title": "Movie Night!",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376303",
+    "college": "Guttman Community College",
+    "date": "2025-05-01",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "GBG",
+      "Social",
+      "Food - Light Refreshments",
+      "Immigrant Student Success"
+    ]
+  },
+  {
     "title": "The HUB Hour",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376305",
     "college": "Guttman Community College",
@@ -1437,6 +1444,18 @@
     ]
   },
   {
+    "title": "DCAS Info Session (NYC Government Careers)",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376324",
+    "college": "Guttman Community College",
+    "date": "2025-05-01",
+    "time": "10:00 PM - 11:30 PM",
+    "tags": [
+      "CCPP",
+      "Job/Volunteer Opportunities",
+      "Information Session"
+    ]
+  },
+  {
     "title": "Abilities Club Invite to CUNY Votes - NYC Votes NYC Ranked Choice Voting 101",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376297",
     "college": "Guttman Community College",
@@ -1445,6 +1464,17 @@
     "tags": [
       "EMSA",
       "Educational/Awareness"
+    ]
+  },
+  {
+    "title": "TEDxCUNY 2025: FAST TRACK",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376327",
+    "college": "Guttman Community College",
+    "date": "2025-05-02",
+    "time": "01:00 PM - 09:00 PM",
+    "tags": [
+      "OSL",
+      "Social - Off-Campus"
     ]
   },
   {
@@ -1760,6 +1790,19 @@
     ]
   },
   {
+    "title": "TABLE TALK APIDA Edition",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376323",
+    "college": "Guttman Community College",
+    "date": "2025-05-15",
+    "time": "05:00 PM - 06:40 PM",
+    "tags": [
+      "PLP",
+      "Social",
+      "Student Life",
+      "Discussion"
+    ]
+  },
+  {
     "title": "Acupuncture",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376123",
     "college": "Guttman Community College",
@@ -1996,6 +2039,20 @@
     ]
   },
   {
+    "title": "Man Cave",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376322",
+    "college": "Guttman Community College",
+    "date": "2025-05-29",
+    "time": "07:00 PM - 08:30 PM",
+    "tags": [
+      "EMSA",
+      "Educational/Awareness",
+      "Counseling & Wellness",
+      "Student Life",
+      "United Men of Color"
+    ]
+  },
+  {
     "title": "Guttman Karaoke",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376317",
     "college": "Guttman Community College",
@@ -2034,31 +2091,6 @@
       "Information Session",
       "Discussion",
       "Food - Light Refreshments "
-    ]
-  },
-  {
-    "title": "We The People: A Forum on Working Class Artists in America",
-    "link": "https://hunter.cuny.edu/event/we-the-people-a-forum-on-working-class-artists-in-america/",
-    "college": "Hunter College",
-    "date": "2025-05-01",
-    "time": "09:00 AM - 01:00 PM",
-    "tags": [
-      "Conferences & Workshops",
-      "Lectures",
-      "Performing Arts & Film",
-      "Special Events"
-    ]
-  },
-  {
-    "title": "The Power of Networking & Graduation Breakfast",
-    "link": "https://hunter.cuny.edu/event/the-power-of-networking-graduation-breakfast/",
-    "college": "Hunter College",
-    "date": "2025-05-01",
-    "time": "09:30 AM - 11:30 AM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
     ]
   },
   {
@@ -2301,23 +2333,13 @@
     ]
   },
   {
-    "title": "Study Skills Workshops: LRC Orientation Overview (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-lrc-orientation-overview-students-only-6/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-01",
-    "time": "12:00 PM - 01:00 PM",
+    "title": "RN-to-BS Nursing Program Information Session",
+    "link": "https://hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-3/2025-05-16/",
+    "college": "Hunter College",
+    "date": "2025-05-16",
+    "time": "10:00 AM - 11:30 AM",
     "tags": [
-      "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "Chat with an Admissions Representative",
-    "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-129/2025-05-01/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-01",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions"
+      "Open Houses"
     ]
   },
   {
@@ -2641,6 +2663,35 @@
     ]
   },
   {
+    "title": "Address by Consul General Ambassador Binaya Srikanta Pradhan of India",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-welcomes-consul-general-ambassador-binaya-srikanta-pradhan/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-08",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Asian Heritage Month",
+      "Diplomatic Engagement and Training",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Women’s Herstory Month: Sexpo! A Sexual/Reproductive Health Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/womens-herstory-month-sexpo-a-sexual-reproductive-health-workshop/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-08",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Co-Curricular Transcript",
+      "CUNY in The Heights",
+      "Featured",
+      "Pride Center",
+      "Student Affairs",
+      "Women's HerStory Month",
+      "Women's Resource Center"
+    ]
+  },
+  {
     "title": "\"Following Harry\" Documentary Screening",
     "link": "https://www.bcc.cuny.edu/event/following-harry-documentary-screening/",
     "college": "Bronx Community College",
@@ -2776,16 +2827,6 @@
     "date": "2025-05-15",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
-  },
-  {
-    "title": "Elections and Advocacy Commission",
-    "link": "https://csi.campuslabs.com/engage/event/10892488",
-    "college": "College of Staten Island",
-    "date": "2025-05-01",
-    "time": "01:15 PM - 02:15 PM",
-    "tags": [
-      "ThoughtfulLearning"
-    ]
   },
   {
     "title": "Re-Election for The Black Student Union 25-26'",
@@ -3585,6 +3626,14 @@
     "tags": []
   },
   {
+    "title": "ITS Maintenance",
+    "link": "https://qc.event.cuny.edu/events/GymTjsZ5pgoXDrcoG3gJ/aUwnOXg1CnXF6YPYA4zj",
+    "college": "Queens College",
+    "date": "2025-05-02",
+    "time": "7:00AM",
+    "tags": []
+  },
+  {
     "title": "Neuropsychology Conference 2025",
     "link": "https://qc.event.cuny.edu/events/Tbi2EN3R1wYG9rnfxLut/Xpyix1hMEoMMoPUA9Z5U",
     "college": "Queens College",
@@ -3606,14 +3655,6 @@
     "college": "Queens College",
     "date": "2025-05-02",
     "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "ECO 393",
-    "link": "https://qc.event.cuny.edu/events/P6vDfN1SdzXZqVaQJrhi/ASNSUDJJNNa1jhBG33AC13",
-    "college": "Queens College",
-    "date": "2025-05-02",
-    "time": "10:30AM",
     "tags": []
   },
   {
@@ -3921,11 +3962,35 @@
     "tags": []
   },
   {
+    "title": "Bite Sized Self-Care and Stress Management Techniques",
+    "link": "https://sps.cuny.edu/about/events/bite-sized-selfcare-and-stress-management-techniques",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-05-07",
+    "time": "04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Online Information Session: Bachelor's Degree Programs",
+    "link": "https://sps.cuny.edu/about/events/online-information-session-bachelors-degree-programs-4",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-05-07",
+    "time": "04:00 PM",
+    "tags": []
+  },
+  {
     "title": "ePortfolio Support Labs",
     "link": "https://sps.cuny.edu/about/events/eportfolio-support-labs-1",
     "college": "CUNY School of Professional Studies",
     "date": "2025-05-07",
     "time": "04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Nursing Convocation & Pinning Ceremony",
+    "link": "https://sps.cuny.edu/about/events/nursing-convocation-pinning-ceremony",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-05-07",
+    "time": "10:00 PM",
     "tags": []
   },
   {
@@ -4026,7 +4091,7 @@
   },
   {
     "title": "Graduate Application and Enrollment Roundtable",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--7.php",
+    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--1.php",
     "college": "Lehman College",
     "date": "2025-05-01",
     "time": "12:00 PM- 1:00 PM",
@@ -4066,7 +4131,7 @@
   },
   {
     "title": "CEDC Salary Workshop",
-    "link": "https://www.lehman.edu/events/2025/CEDC-Salary-Workshop.php",
+    "link": "https://www.lehman.edu/events/2025/CEDC-Salary-Workshop-1.php",
     "college": "Lehman College",
     "date": "2025-05-05",
     "time": "3:00 PM- 4:00 PM",
@@ -4094,14 +4159,6 @@
     "college": "Lehman College",
     "date": "2025-05-06",
     "time": "1:00 PM- 2:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fetal Positions: Understanding Cross-National Public Opinion about Abortion",
-    "link": "https://www.jjay.cuny.edu/news-events/events/fetal-positions-understanding-cross-national-public-opinion-about-abortion",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-05-01",
-    "time": "05:30 PM",
     "tags": []
   },
   {
@@ -4174,6 +4231,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-05-13",
     "time": "10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Strategic Planning Forum",
+    "link": "https://www.jjay.cuny.edu/news-events/events/strategic-planning-forum",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-05-15",
+    "time": "05:40 PM",
     "tags": []
   },
   {
@@ -4281,14 +4346,6 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
-    "college": "York College",
-    "date": "2025-05-01",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "Deloitte Academy at York College",
     "link": "https://www.york.cuny.edu/events/deloitte-academy",
     "college": "York College",
@@ -4310,6 +4367,14 @@
     "college": "York College",
     "date": "2025-05-01",
     "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
+    "college": "York College",
+    "date": "2025-05-02",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -4535,30 +4600,6 @@
     ]
   },
   {
-    "title": "Law Day Celebration: The Constitution's Promise",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-01-law-day-celebration.html",
-    "college": "Queensborough Community College",
-    "date": "2025-05-01",
-    "time": "12:00 PM - 01:00 PM",
-    "description": ""
-  },
-  {
-    "title": "Queensborough Community College 2025 Aurora Yearbook Portraits",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-01-queensborough-community-college-2025.html",
-    "college": "Queensborough Community College",
-    "date": "2025-05-01",
-    "time": "10:00 AM - 05:30 PM",
-    "description": "Student Event"
-  },
-  {
-    "title": "Student Club Advisor Info Session",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-01-student-club-advisor-info-session.html",
-    "college": "Queensborough Community College",
-    "date": "2025-05-01",
-    "time": "12:30 PM - 01:30 PM",
-    "description": "Club Event"
-  },
-  {
     "title": "Virtual Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-01-virtual-resume-hour.html",
     "college": "Queensborough Community College",
@@ -4693,6 +4734,30 @@
     "date": "2025-05-08",
     "time": "02:00 PM - 04:00 PM",
     "description": "Special Event / Fair"
+  },
+  {
+    "title": "Yoga",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-08-yoga.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-08",
+    "time": "02:10 PM - 03:00 PM",
+    "description": "Conference and Workshop"
+  },
+  {
+    "title": "Virtual Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-08-virtual-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-08",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "Career Services Event"
+  },
+  {
+    "title": "QCC-Baruch Business Academy: Info Sessions",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-08-qcc-baruch-business-academy-info-sessions.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-08",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "Transfer Resource Center Event"
   },
   {
     "title": "Lunch Hour Workshop: Proofreading",
