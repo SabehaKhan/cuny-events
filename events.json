@@ -1,13 +1,5 @@
 [
   {
-    "title": "CCNY'S 53rd Annual Poetry Festival",
-    "link": "https://www.ccny.cuny.edu/calendar/ccnys-53rd-annual-poetry-festival",
-    "college": "City College of New York",
-    "date": "2025-05-02",
-    "time": "10:30 AM - 05:00 PM",
-    "tags": []
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-6",
     "college": "City College of New York",
@@ -974,53 +966,6 @@
     "tags": []
   },
   {
-    "title": "Healing During Uncertainty: Asian American Mental Health",
-    "link": "https://www.laguardia.edu/event/healing-during-uncertainty-asian-american-mental-health/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-02",
-    "time": "08:30 AM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-05-02/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-02",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "FUN Fridays",
-    "link": "https://www.laguardia.edu/event/fun-fridays-2/2025-05-02/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-02",
-    "time": "12:30 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Brown Bag Series: Recognizing and Responding to Students in Distress",
-    "link": "https://www.laguardia.edu/event/brown-bag-series-recognizing-and-responding-to-students-in-distress-2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-02",
-    "time": "01:00 PM - 02:30 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "student events"
-    ]
-  },
-  {
     "title": "LHI Action Workshop: Digital Marketing",
     "link": "https://www.laguardia.edu/event/lhi-action-workshop-digital-marketing/",
     "college": "LaGuardia Community College",
@@ -1220,6 +1165,17 @@
     ]
   },
   {
+    "title": "Career in Arts Guest Lecture Series: Alex Bero",
+    "link": "https://www.laguardia.edu/event/career-in-arts-guest-lecture-series-alex-bero/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-07",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Creative Writing Read-A-Thon",
     "link": "https://www.laguardia.edu/event/creative-writing-read-a-thon-2/",
     "college": "LaGuardia Community College",
@@ -1306,6 +1262,38 @@
       "admissions",
       "all calendars",
       "student events"
+    ]
+  },
+  {
+    "title": "Brown Bag Series: From Investigation to Adjudication - Student Conduct Explained",
+    "link": "https://www.laguardia.edu/event/brown-bag-series-from-investigation-to-adjudication-student-conduct-explained-2/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-09",
+    "time": "01:00 PM - 02:30 PM",
+    "tags": [
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-05-12/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-12",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "\"Make it Happen Monday\" Transfer Credit Pre-Evaluation Session",
+    "link": "https://www.laguardia.edu/event/make-it-happen-monday-transfer-credit-pre-evaluation-session-18/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-12",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
     ]
   },
   {
@@ -1450,6 +1438,33 @@
     ]
   },
   {
+    "title": "The HUB Hour",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376332",
+    "college": "Guttman Community College",
+    "date": "2025-05-07",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "Building your LinkedIn",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376335",
+    "college": "Guttman Community College",
+    "date": "2025-05-07",
+    "time": "02:45 PM - 05:15 PM",
+    "tags": [
+      "EMSA",
+      "Career Workshop",
+      "Food - Light Refreshments",
+      "Information Session",
+      "Discussion"
+    ]
+  },
+  {
     "title": "Complete Your FAFSA & TAP Application",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376293",
     "college": "Guttman Community College",
@@ -1526,6 +1541,19 @@
       "United Men of Color",
       "Women of GRIT",
       "Discussion"
+    ]
+  },
+  {
+    "title": "The HUB Hour",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376334",
+    "college": "Guttman Community College",
+    "date": "2025-05-08",
+    "time": "08:00 PM - 09:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
     ]
   },
   {
@@ -1965,19 +1993,6 @@
     ]
   },
   {
-    "title": "Intersection Between Language, Technology and Literature: MATI and TISH 5th Annual Language Works Conference",
-    "link": "https://hunter.cuny.edu/event/intersection-between-language-technology-and-literature-mati-and-tish-5th-annual-language-works-conference/",
-    "college": "Hunter College",
-    "date": "2025-05-02",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": [
-      "Conferences & Workshops",
-      "Lectures",
-      "Special Events",
-      "Student Events"
-    ]
-  },
-  {
     "title": "MS-IPND Challenge Exams",
     "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-05-05/",
     "college": "Hunter College",
@@ -2200,15 +2215,27 @@
     ]
   },
   {
-    "title": "Asian Heritage Month: Writers Cafe",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-writers-cafe/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-02",
-    "time": "01:00 PM - 03:30 PM",
+    "title": "Diasporican Cultural Summit",
+    "link": "https://hunter.cuny.edu/event/diasporican-cultural-summit/2025-06-04/",
+    "college": "Hunter College",
+    "date": "2025-06-04",
+    "time": "12:30 PM - 08:30 PM",
     "tags": [
-      "Asian and Pacific Islander Bridge Initiaitve",
-      "Asian Heritage Month",
-      "Co-Curricular Transcript"
+      "Conferences & Workshops",
+      "Lectures",
+      "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "Words That Work: Résumés & Cover Letters",
+    "link": "https://hunter.cuny.edu/event/cover-letter-writing-workshop-crafting-your-key-to-success-6/",
+    "college": "Hunter College",
+    "date": "2025-06-04",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
     ]
   },
   {
@@ -2462,6 +2489,23 @@
     ]
   },
   {
+    "title": "Ballroom Culture 101: Voguing Workshop Series with Felix Luar",
+    "link": "https://www.bmcc.cuny.edu/event/ballroom-culture-101-voguing-workshop-series-with-felix-luar-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-07",
+    "time": "05:30 PM - 07:30 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "CUNY in The Heights",
+      "De-Stress Fest",
+      "Domestic Violence Awareness Month",
+      "Featured",
+      "Pride Center",
+      "Student Affairs",
+      "Women's Resource Center"
+    ]
+  },
+  {
     "title": "Study Skills Workshops: Preventing and Overcoming Burnout (Students Only)",
     "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-preventing-and-overcoming-burnout-students-only-8/",
     "college": "Borough of Manhattan Community College",
@@ -2469,6 +2513,18 @@
     "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Spring 2025 De-Stressfest: Kindness Cards",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2025-de-stressfest-kindness-cards/2025-05-08/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-08",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "De-Stress Fest",
+      "Featured",
+      "Library"
     ]
   },
   {
@@ -2536,29 +2592,96 @@
     ]
   },
   {
-    "title": "Study Abroad Information Session with Emely Moises",
-    "link": "https://www.bmcc.cuny.edu/event/study-abroad-information-session-with-emely-moises/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-09",
-    "time": "12:00 PM - 01:30 PM",
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2025-05-05/",
+    "college": "Bronx Community College",
+    "date": "2025-05-05",
+    "time": "02:00 PM - 07:00 PM",
     "tags": [
-      "Featured",
-      "Modern Languages",
-      "Study Abroad"
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
     ]
   },
   {
-    "title": "The Vanderbilts: An Empire Founded on Staten Island (252085-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/11283825",
-    "college": "College of Staten Island",
-    "date": "2025-05-02",
-    "time": "06:30 PM - 08:30 PM",
+    "title": "Office of Financial Aid Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-financial-aid-virtual-counter/2025-05-05/",
+    "college": "Bronx Community College",
+    "date": "2025-05-05",
+    "time": "04:00 PM - 07:00 PM",
     "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "CC CLUE",
-      "Virtual event (online offering)"
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
     ]
+  },
+  {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2025-05-09/",
+    "college": "Bronx Community College",
+    "date": "2025-05-09",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of Financial Aid Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-financial-aid-virtual-counter/2025-05-09/",
+    "college": "Bronx Community College",
+    "date": "2025-05-09",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Creating Comics! - A Panel Discussion",
+    "link": "https://www.bcc.cuny.edu/event/creating-comics-a-panel-discussion/",
+    "college": "Bronx Community College",
+    "date": "2025-05-10",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Campus Events",
+      "Enrollment Management",
+      "Feature"
+    ]
+  },
+  {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2025-05-12/",
+    "college": "Bronx Community College",
+    "date": "2025-05-12",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of Financial Aid Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-financial-aid-virtual-counter/2025-05-12/",
+    "college": "Bronx Community College",
+    "date": "2025-05-12",
+    "time": "04:00 PM - 07:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "College Senate",
+    "link": "https://www.bcc.cuny.edu/event/senate-tentative/2025-05-15/",
+    "college": "Bronx Community College",
+    "date": "2025-05-15",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "Spirit Week Baseball Game vs D'Youville University",
@@ -2582,6 +2705,16 @@
     ]
   },
   {
+    "title": "Spirit Week Baseball Game Double Header  and Baseball Bingo",
+    "link": "https://csi.campuslabs.com/engage/event/11251655",
+    "college": "College of Staten Island",
+    "date": "2025-05-03",
+    "time": "02:00 PM - 06:00 PM",
+    "tags": [
+      "Athletics"
+    ]
+  },
+  {
     "title": "CSI Swap - Free Community ReUse Event (252082-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11182890",
     "college": "College of Staten Island",
@@ -2592,16 +2725,6 @@
       "Learning",
       "PG CLUE",
       "Sustainability"
-    ]
-  },
-  {
-    "title": "Spirit Week Baseball Game Double Header  and Baseball Bingo",
-    "link": "https://csi.campuslabs.com/engage/event/11251655",
-    "college": "College of Staten Island",
-    "date": "2025-05-03",
-    "time": "04:00 PM - 10:00 PM",
-    "tags": [
-      "Athletics"
     ]
   },
   {
@@ -3159,14 +3282,6 @@
     ]
   },
   {
-    "title": "2025 Bronx EdTech Showcase – Human AI Synergy",
-    "link": "https://lehman.edu/events/2025/2025-Bronx-EdTech-Showcase---Human-AI-Synergy.php",
-    "college": "Lehman College",
-    "date": "2025-05-02",
-    "time": "9:00 AM - 4:00 PM",
-    "tags": []
-  },
-  {
     "title": "FAFSA and TAP Completion Event at Kingsborough Community College",
     "link": "https://events.cuny.edu/cec/fafsa-and-tap-completion-event-at-kingsborough-community-college-december-21st/",
     "college": "The University",
@@ -3625,6 +3740,14 @@
     "tags": []
   },
   {
+    "title": "ePortfolio Support Labs",
+    "link": "https://sps.cuny.edu/about/events/eportfolio-support-labs-1",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-05-07",
+    "time": "04:00 PM",
+    "tags": []
+  },
+  {
     "title": "Bite Sized Self-Care and Stress Management Techniques",
     "link": "https://sps.cuny.edu/about/events/bite-sized-selfcare-and-stress-management-techniques",
     "college": "CUNY School of Professional Studies",
@@ -3635,14 +3758,6 @@
   {
     "title": "Online Information Session: Bachelor's Degree Programs",
     "link": "https://sps.cuny.edu/about/events/online-information-session-bachelors-degree-programs-4",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-05-07",
-    "time": "04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ePortfolio Support Labs",
-    "link": "https://sps.cuny.edu/about/events/eportfolio-support-labs-1",
     "college": "CUNY School of Professional Studies",
     "date": "2025-05-07",
     "time": "04:00 PM",
@@ -3778,7 +3893,7 @@
   },
   {
     "title": "CEDC Salary Workshop",
-    "link": "https://www.lehman.edu/events/2025/CEDC-Salary-Workshop-1.php",
+    "link": "https://www.lehman.edu/events/2025/CEDC-Salary-Workshop.php",
     "college": "Lehman College",
     "date": "2025-05-05",
     "time": "3:00 PM- 4:00 PM",
@@ -3929,22 +4044,6 @@
     "tags": []
   },
   {
-    "title": "Toast to the Future: Conversations about Life after Graduation!",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/toast-to-the-future-conversations-about-life-after-graduation/",
-    "college": "Macaulay Honors College",
-    "date": "2025-05-02",
-    "time": "10:30 AM - 3:30PM",
-    "tags": []
-  },
-  {
-    "title": "Journeys Begun: Hike, Art, Cookout & Reflection",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/journeys-begun-hike-art-cookout-reflection/",
-    "college": "Macaulay Honors College",
-    "date": "2025-05-02",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
     "title": "Macaulay Honors College’s Outstanding Research Awards Celebration",
     "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-honors-colleges-outstanding-research-awards-celebration/",
     "college": "Macaulay Honors College",
@@ -4005,6 +4104,22 @@
     "link": "https://macaulay.cuny.edu/calendar-of-events/in-person-information-session-for-prospective-students-4/",
     "college": "Macaulay Honors College",
     "date": "2025-05-15",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Class of 2020 5th Year Reunion Happy Hour",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/class-of-2020-5th-year-reunion-happy-hour/",
+    "college": "Macaulay Honors College",
+    "date": "2025-05-22",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Senior Celebration at Bedford Falls Bar & Grill: Hunter College",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/senior-celebration-at-bedford-falls-bar-grill-hunter-college/",
+    "college": "Macaulay Honors College",
+    "date": "2025-05-22",
     "time": "6:00PM",
     "tags": []
   },
