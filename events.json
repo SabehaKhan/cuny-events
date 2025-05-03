@@ -2402,6 +2402,17 @@
     ]
   },
   {
+    "title": "Spring 2025 De-Stress Fest: Chess Time",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2025-de-stress-fest-chess-time/2025-05-06/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-06",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "De-Stress Fest",
+      "Featured"
+    ]
+  },
+  {
     "title": "Walk-In Storytelling Workshop",
     "link": "https://www.bmcc.cuny.edu/event/walk-in-storytelling-workshop/",
     "college": "Borough of Manhattan Community College",
@@ -2561,16 +2572,6 @@
     "time": "04:00 PM - 05:00 PM",
     "tags": [
       "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "Chat with an Admissions Representative",
-    "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-129/2025-05-08/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-08",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions"
     ]
   },
   {
@@ -3203,6 +3204,27 @@
     "time": "10:30 AM - 12:00 PM",
     "tags": [
       "Center for Teaching and Learning"
+    ]
+  },
+  {
+    "title": "YASS! Mondays",
+    "link": "https://events.cuny.edu/cec/yass-mondays-8/",
+    "college": "The City College of New York",
+    "date": "2025-05-05",
+    "time": "12:00 PM - 4:00 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
+  },
+  {
+    "title": "Salzberg Chemistry Seminar: Prof. James Mayer of Yale University",
+    "link": "https://events.cuny.edu/cec/salzberg-chemistry-seminar-prof-james-mayer-of-yale-university/",
+    "college": "The City College of New York",
+    "date": "2025-05-05",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": [
+      "IDEALS Salzberg Chemistry Seminar",
+      "James Mayer"
     ]
   },
   {
@@ -4148,6 +4170,120 @@
     "date": "2025-05-14",
     "time": "4:00 PM - 6:00 PM",
     "tags": []
+  },
+  {
+    "title": "RECITAL: SAMUEL ANDONIAN, VIOLIN",
+    "link": "https://www.gc.cuny.edu/events/recital-samuel-andonian-violin",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-05",
+    "time": "6:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Music"
+    ]
+  },
+  {
+    "title": "YOU ONLY GET WHAT YOU'RE ORGANIZED TO TAKE: LESSONS FROM THE MOVEMENT TO END POVERTY",
+    "link": "https://www.gc.cuny.edu/events/you-only-get-what-youre-organized-take-lessons-movement-end-poverty",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-05",
+    "time": "6:00 pm — 8:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Center for Place, Culture and Politics"
+    ]
+  },
+  {
+    "title": "WORKSHOP: STRUCTURING ARGUMENT-BASED WRITING",
+    "link": "https://www.gc.cuny.edu/events/workshop-structuring-argument-based-writing",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "1:00 pm — 2:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
+  },
+  {
+    "title": "INFORMATION SESSION: COMPLETING INTERNSHIPS FOR ACADEMIC CREDIT",
+    "link": "https://www.gc.cuny.edu/events/information-session-completing-internships-academic-credit-may-6-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "2:00 pm — 3:00 pm",
+    "location": "Online",
+    "tags": [
+      "Career Planning and Professional Development"
+    ]
+  },
+  {
+    "title": "M.A. IN LIBERAL STUDIES - VIRTUAL INFO SESSION",
+    "link": "https://www.gc.cuny.edu/events/ma-liberal-studies-virtual-info-session-may-6-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "2:00 pm",
+    "location": "Online",
+    "tags": [
+      "Liberal Studies",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "CUNY BA STUDENT SHOWCASE",
+    "link": "https://www.gc.cuny.edu/events/cuny-ba-student-showcase",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "5:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "CUNY Baccalaureate for Unique and Interdisciplinary Studies"
+    ]
+  },
+  {
+    "title": "DATA SCIENCE OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/data-science-open-house-may-06-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "6:00 pm — 7:00 pm",
+    "location": "Online",
+    "tags": [
+      "Computer Science",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "COPLAND HOUSE ENSEMBLE: BETTER ANGELS",
+    "link": "https://www.gc.cuny.edu/events/copland-house-ensemble-better-angels",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "STUDENT POSTER COMPETITION AND ALUMNI NETWORKING",
+    "link": "https://www.gc.cuny.edu/events/student-poster-competition-and-alumni-networking-spring-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-07",
+    "time": "10:00 am — 2:00 pm",
+    "location": "1218: Segal Theatre",
+    "tags": [
+      "Computer Science",
+      "Data Science",
+      "Alumni"
+    ]
+  },
+  {
+    "title": "CREATIVE JOB SEARCH STRATEGIES IN UNCERTAIN TIMES",
+    "link": "https://www.gc.cuny.edu/events/creative-job-search-strategies-uncertain-times",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-07",
+    "time": "12:00 pm — 1:15 pm",
+    "location": "Online",
+    "tags": [
+      "Career Planning and Professional Development"
+    ]
   },
   {
     "title": "QCC Day",
