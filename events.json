@@ -2197,30 +2197,6 @@
     ]
   },
   {
-    "title": "BMCC Film Festival",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-film-festival-6/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-04",
-    "time": "03:00 PM - 08:00 PM",
-    "tags": [
-      "Evening-Weekend",
-      "Featured",
-      "Media Arts and Technology",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Jane Young Spring 2025 Film Series: Films of Resistance and Revolt",
-    "link": "https://www.bmcc.cuny.edu/event/jane-young-spring-2025-film-series-films-of-resistance-and-revolt-9/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-04",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "English",
-      "Featured"
-    ]
-  },
-  {
     "title": "Free HIV/STI Testing for BMCC Students",
     "link": "https://www.bmcc.cuny.edu/event/free-hiv-sti-testing-for-bmcc-students-4/2025-05-05/",
     "college": "Borough of Manhattan Community College",
@@ -2548,6 +2524,30 @@
     "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Admissions"
+    ]
+  },
+  {
+    "title": "Study Abroad Information Session with Emely Moises",
+    "link": "https://www.bmcc.cuny.edu/event/study-abroad-information-session-with-emely-moises/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-09",
+    "time": "12:00 PM - 01:30 PM",
+    "tags": [
+      "Featured",
+      "Modern Languages",
+      "Study Abroad"
+    ]
+  },
+  {
+    "title": "BMCC Admissions Saturday Information Session & Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-saturday-information-session-campus-tour-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-10",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Evening-Weekend",
+      "Featured"
     ]
   },
   {
@@ -3179,14 +3179,6 @@
     "tags": []
   },
   {
-    "title": "Autism Program",
-    "link": "https://qc.event.cuny.edu/events/jRBMqE6GSDdnKY6nQ6f9/wRUMj8j401EPTaByRsyb15",
-    "college": "Queens College",
-    "date": "2025-05-04",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
     "title": "SEES talk",
     "link": "https://qc.event.cuny.edu/events/xy46sWTjR843EoZEDtVS/dbGugBI1x8sLiA0YyyiA",
     "college": "Queens College",
@@ -3269,6 +3261,22 @@
   {
     "title": "Transfer to Stem Student Success Graduate Fellow",
     "link": "https://qc.event.cuny.edu/events/LusQhvq8ElgdyhARPUyW/KSEPAG5jwmX3AHQzoerU10",
+    "college": "Queens College",
+    "date": "2025-05-05",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Pre-law Program",
+    "link": "https://qc.event.cuny.edu/events/dV6RXOZVbpOt152Mal6G/N6504tPPLmiqAh9tJqrW115",
+    "college": "Queens College",
+    "date": "2025-05-05",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Computer Sci. Colloquium",
+    "link": "https://qc.event.cuny.edu/events/PxAG0oWeVomWZbL10sq4/WuLzM9WivisLHX0Yl4P1",
     "college": "Queens College",
     "date": "2025-05-05",
     "time": "12:15PM",
@@ -3619,6 +3627,30 @@
     "tags": []
   },
   {
+    "title": "Dominicanos USA (DUSA) Information Table",
+    "link": "https://hostos.event.cuny.edu/events/ENtek3LbzMvgOESP4dEH/hxYZjBfoYOyoF99PPNg9",
+    "college": "Hostos Community College",
+    "date": "2025-05-12",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Union Tabling",
+    "link": "https://hostos.event.cuny.edu/events/eoS69R3hvBGIStRr80MJ/oPfiPCMBvWxin4YPu754",
+    "college": "Hostos Community College",
+    "date": "2025-05-12",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Spring 2025 LLAC Studies Student Conference",
+    "link": "https://hostos.event.cuny.edu/events/Lfbthhnavs20DvpZHoYs/z2wRQUzMBny1hr5vtrIW",
+    "college": "Hostos Community College",
+    "date": "2025-05-12",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
     "title": "Shop Your age: Age Beliefs in Advertising",
     "link": "https://sps.cuny.edu/about/events/shop-your-age-age-beliefs-in-advertising",
     "college": "CUNY School of Professional Studies",
@@ -3699,14 +3731,6 @@
     "tags": []
   },
   {
-    "title": "Spring Concert | Lehman College & Community Chorus | Lehman Symphony Orchestra",
-    "link": "https://www.lehman.edu/events/2025/Spring-Concert--Lehman-College--Community-Chorus--Lehman-Symphony-Orchestra.php",
-    "college": "Lehman College",
-    "date": "2025-05-04",
-    "time": "2:30 PM- 4:30 PM",
-    "tags": []
-  },
-  {
     "title": "CEDC Salary Workshop",
     "link": "https://www.lehman.edu/events/2025/CEDC-Salary-Workshop.php",
     "college": "Lehman College",
@@ -3776,6 +3800,14 @@
     "college": "Lehman College",
     "date": "2025-05-07",
     "time": "6:30 PM- 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Rooted in Awareness: Pause, Reflect, and Connect Through Emotional Intelligence",
+    "link": "https://www.lehman.edu/events/2025/Rooted-in-Awareness-Pause-Reflect-and-Connect-Through-Emotional-Intelligence.php",
+    "college": "Lehman College",
+    "date": "2025-05-08",
+    "time": "10:00 AM- 12:00 PM",
     "tags": []
   },
   {
@@ -4105,6 +4137,120 @@
     "date": "2025-05-14",
     "time": "4:00 PM - 6:00 PM",
     "tags": []
+  },
+  {
+    "title": "RECITAL: SAMUEL ANDONIAN, VIOLIN",
+    "link": "https://www.gc.cuny.edu/events/recital-samuel-andonian-violin",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-05",
+    "time": "6:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Music"
+    ]
+  },
+  {
+    "title": "YOU ONLY GET WHAT YOU'RE ORGANIZED TO TAKE: LESSONS FROM THE MOVEMENT TO END POVERTY",
+    "link": "https://www.gc.cuny.edu/events/you-only-get-what-youre-organized-take-lessons-movement-end-poverty",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-05",
+    "time": "6:00 pm — 8:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Center for Place, Culture and Politics"
+    ]
+  },
+  {
+    "title": "WORKSHOP: STRUCTURING ARGUMENT-BASED WRITING",
+    "link": "https://www.gc.cuny.edu/events/workshop-structuring-argument-based-writing",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "1:00 pm — 2:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
+  },
+  {
+    "title": "INFORMATION SESSION: COMPLETING INTERNSHIPS FOR ACADEMIC CREDIT",
+    "link": "https://www.gc.cuny.edu/events/information-session-completing-internships-academic-credit-may-6-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "2:00 pm — 3:00 pm",
+    "location": "Online",
+    "tags": [
+      "Career Planning and Professional Development"
+    ]
+  },
+  {
+    "title": "M.A. IN LIBERAL STUDIES - VIRTUAL INFO SESSION",
+    "link": "https://www.gc.cuny.edu/events/ma-liberal-studies-virtual-info-session-may-6-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "2:00 pm",
+    "location": "Online",
+    "tags": [
+      "Liberal Studies",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "CUNY BA STUDENT SHOWCASE",
+    "link": "https://www.gc.cuny.edu/events/cuny-ba-student-showcase",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "5:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "CUNY Baccalaureate for Unique and Interdisciplinary Studies"
+    ]
+  },
+  {
+    "title": "DATA SCIENCE OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/data-science-open-house-may-06-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "6:00 pm — 7:00 pm",
+    "location": "Online",
+    "tags": [
+      "Computer Science",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "COPLAND HOUSE ENSEMBLE: BETTER ANGELS",
+    "link": "https://www.gc.cuny.edu/events/copland-house-ensemble-better-angels",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "STUDENT POSTER COMPETITION AND ALUMNI NETWORKING",
+    "link": "https://www.gc.cuny.edu/events/student-poster-competition-and-alumni-networking-spring-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-07",
+    "time": "10:00 am — 2:00 pm",
+    "location": "1218: Segal Theatre",
+    "tags": [
+      "Computer Science",
+      "Data Science",
+      "Alumni"
+    ]
+  },
+  {
+    "title": "CREATIVE JOB SEARCH STRATEGIES IN UNCERTAIN TIMES",
+    "link": "https://www.gc.cuny.edu/events/creative-job-search-strategies-uncertain-times",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-07",
+    "time": "12:00 pm — 1:15 pm",
+    "location": "Online",
+    "tags": [
+      "Career Planning and Professional Development"
+    ]
   },
   {
     "title": "QCC Day",
