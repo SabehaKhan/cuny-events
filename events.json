@@ -1,13 +1,5 @@
 [
   {
-    "title": "NYS Advocacy Day",
-    "link": "https://www.ccny.cuny.edu/calendar/nys-advocacy-day",
-    "college": "City College of New York",
-    "date": "2025-05-06",
-    "time": "06:30 AM - 07:30 PM",
-    "tags": []
-  },
-  {
     "title": "Demo Day - Zahn Innovation Center",
     "link": "https://www.ccny.cuny.edu/calendar/demo-day-zahn-innovation-center",
     "college": "City College of New York",
@@ -487,18 +479,6 @@
     "time": "12:00 PM - 12:00 PM",
     "tags": [
       "Dubois-Bunche Center"
-    ]
-  },
-  {
-    "title": "Trauma-Informed Yoga Program - Spring 2025",
-    "link": "https://www.law.cuny.edu/event/trauma-informed-yoga-program-spring-2025/2025-05-06/",
-    "college": "CUNY School of Law",
-    "date": "2025-05-06",
-    "time": "12:30 PM - 01:15 PM",
-    "tags": [
-      "Health & Wellness",
-      "Student",
-      "Student Affairs"
     ]
   },
   {
@@ -1019,7 +999,7 @@
     "time": "10:30 AM - 12:30 PM",
     "tags": [
       "all calendars",
-      "community & business events",
+      "Faculty and Staff",
       "student events"
     ]
   },
@@ -1229,7 +1209,8 @@
     "date": "2025-05-09",
     "time": "01:00 PM - 02:30 PM",
     "tags": [
-      "all calendars"
+      "all calendars",
+      "Faculty and Staff"
     ]
   },
   {
@@ -2211,17 +2192,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-87/2025-05-06/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-06",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Stop by our FAFSA (Free Application for Federal Student Aid) Information Table",
     "link": "https://www.bmcc.cuny.edu/event/stop-by-our-fafsa-free-application-for-federal-student-aid-information-table-7/2025-05-06/",
     "college": "Borough of Manhattan Community College",
@@ -2249,38 +2219,6 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-05-06",
     "time": "11:00 AM - 03:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer"
-    ]
-  },
-  {
-    "title": "The Power of Connections: Networking for Success",
-    "link": "https://www.bmcc.cuny.edu/event/the-power-of-connections-networking-for-success-5/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-06",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-253/2025-05-06/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-06",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Transfer Talk Tuesday: Explore Your Options After BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/transfer-talk-tuesday-explore-your-options-after-bmcc-20/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-06",
-    "time": "01:00 PM - 01:00 PM",
     "tags": [
       "Academic Advisement & Transfer"
     ]
@@ -2555,6 +2493,58 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-87/2025-05-13/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-13",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-253/2025-05-13/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-13",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-13",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "BMCC Annual Research Symposium (BARS)",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-annual-research-symposium-bars-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-14",
+    "time": "10:00 AM - 05:00 PM",
+    "tags": [
+      "Academic Affairs",
+      "Computer Information Systems",
+      "Featured",
+      "GIS",
+      "Math",
+      "Research & Scholarly Inquiry",
+      "Science",
+      "Social Sciences",
+      "Human Services and Criminal Justice",
+      "Student Success",
+      "Women in STEM"
     ]
   },
   {
@@ -3104,16 +3094,6 @@
     ]
   },
   {
-    "title": "CCNY Libraries | Counseling Center Pop Up @ Cohen Library",
-    "link": "https://events.cuny.edu/cec/ccny-libraries-counseling-center-pop-up-cohen-library/",
-    "college": "The City College of New York",
-    "date": "2025-05-06",
-    "time": "11:00 AM - 11:30 AM",
-    "tags": [
-      "CCNY Libraries"
-    ]
-  },
-  {
     "title": "Demo Day – Zahn Innovation Center",
     "link": "https://events.cuny.edu/cec/demo-day-zahn-innovation-center/",
     "college": "The City College of New York",
@@ -3121,6 +3101,16 @@
     "time": "12:15 PM - 1:45 PM",
     "tags": [
       "Zahn Innovation Center"
+    ]
+  },
+  {
+    "title": "CCNY Libraries | Counseling Center Pop Up @ Cohen Library",
+    "link": "https://events.cuny.edu/cec/ccny-libraries-counseling-center-pop-up-cohen-library/",
+    "college": "The City College of New York",
+    "date": "2025-05-06",
+    "time": "2:00 PM - 2:30 PM",
+    "tags": [
+      "CCNY Libraries"
     ]
   },
   {
@@ -3683,14 +3673,6 @@
     "tags": []
   },
   {
-    "title": "ePortfolio Support Labs",
-    "link": "https://sps.cuny.edu/about/events/eportfolio-support-labs-1",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-05-07",
-    "time": "04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Bite Sized Self-Care and Stress Management Techniques",
     "link": "https://sps.cuny.edu/about/events/bite-sized-selfcare-and-stress-management-techniques",
     "college": "CUNY School of Professional Studies",
@@ -3701,6 +3683,14 @@
   {
     "title": "Online Information Session: Bachelor's Degree Programs",
     "link": "https://sps.cuny.edu/about/events/online-information-session-bachelors-degree-programs-4",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-05-07",
+    "time": "04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "ePortfolio Support Labs",
+    "link": "https://sps.cuny.edu/about/events/eportfolio-support-labs-1",
     "college": "CUNY School of Professional Studies",
     "date": "2025-05-07",
     "time": "04:00 PM",
@@ -3728,6 +3718,14 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-05-08",
     "time": "11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "ePortfolio Support Labs",
+    "link": "https://sps.cuny.edu/about/events/eportfolio-support-labs-0",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-05-13",
+    "time": "04:00 PM",
     "tags": []
   },
   {
@@ -3768,6 +3766,14 @@
     "college": "CUNY School of Public Health",
     "date": "2025-05-15",
     "time": "11:00 AM - 1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Dissertation Defense by Carice Craffey",
+    "link": "https://sph.cuny.edu/event/dissertation-defense-by-carice-craffey/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-05-16",
+    "time": "3:00PM",
     "tags": []
   },
   {
@@ -3883,22 +3889,6 @@
     "tags": []
   },
   {
-    "title": "Justice at a Crossroads in NYC",
-    "link": "https://www.jjay.cuny.edu/news-events/events/justice-crossroads-nyc",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-05-06",
-    "time": "04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "AAPI Heritage Month Celebration",
-    "link": "https://www.jjay.cuny.edu/news-events/events/aapi-heritage-month-celebration",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-05-06",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
     "title": "Graduate Salute",
     "link": "https://www.jjay.cuny.edu/news-events/events/graduate-salute",
     "college": "John Jay College of Criminal Justice",
@@ -4003,6 +3993,14 @@
     "tags": []
   },
   {
+    "title": "Finals Wellness Spring 2025",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/finals-wellness-spring-2025/",
+    "college": "Macaulay Honors College",
+    "date": "2025-05-09",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
     "title": "Macaulay Baruch Senior Send Off: “John Proctor Is The Villain” on Broadway",
     "link": "https://macaulay.cuny.edu/calendar-of-events/baruch-visits-broadway-1/",
     "college": "Macaulay Honors College",
@@ -4051,12 +4049,271 @@
     "tags": []
   },
   {
-    "title": "Senior Celebration at Bedford Falls Bar & Grill: Hunter College",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/senior-celebration-at-bedford-falls-bar-grill-hunter-college/",
-    "college": "Macaulay Honors College",
-    "date": "2025-05-22",
-    "time": "6:00PM",
+    "title": "Meet the Candidates: Public Health Faculty Presentations - Session 3",
+    "link": "https://www.york.cuny.edu/health-human-performance/public-health-faculty-presentations-session3",
+    "college": "York College",
+    "date": "2025-05-06",
+    "time": "3:00 PM - 4:00 PM",
     "tags": []
+  },
+  {
+    "title": "Nursing Information Session - May",
+    "link": "https://www.york.cuny.edu/events/2024/may-nursing-information-session",
+    "college": "York College",
+    "date": "2025-05-06",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Environmental Justice in Urban Communities",
+    "link": "https://www.york.cuny.edu/events/environmental-justice-in-urban-communities",
+    "college": "York College",
+    "date": "2025-05-06",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Projecting Success Through Style",
+    "link": "https://www.york.cuny.edu/mens-center/mens-center-calendar/projecting-success-through-style",
+    "college": "York College",
+    "date": "2025-05-06",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Meet the Candidates: Public Health Faculty Presentations - Session 4",
+    "link": "https://www.york.cuny.edu/health-human-performance/public-health-faculty-presentations-session4",
+    "college": "York College",
+    "date": "2025-05-07",
+    "time": "1:00 PM - 2:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Meet the Candidates: Public Health Faculty Presentations - Session 5",
+    "link": "https://www.york.cuny.edu/health-human-performance/public-health-faculty-presentations-session5",
+    "college": "York College",
+    "date": "2025-05-07",
+    "time": "2:30 PM - 3:30 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
+    "college": "York College",
+    "date": "2025-05-07",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Meet the Candidates: Public Health Faculty Presentations - Session 6",
+    "link": "https://www.york.cuny.edu/health-human-performance/public-health-faculty-presentations-session6",
+    "college": "York College",
+    "date": "2025-05-07",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Wellness Wednesday - May",
+    "link": "https://www.york.cuny.edu/events/wellness-wednesday-3",
+    "college": "York College",
+    "date": "2025-05-07",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Meet the Candidates: Public Health Faculty Presentations - Session 7",
+    "link": "https://www.york.cuny.edu/health-human-performance/public-health-faculty-presentations-session7",
+    "college": "York College",
+    "date": "2025-05-07",
+    "time": "6:30 PM - 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Mother's Day Mingle at York College",
+    "link": "https://www.york.cuny.edu/womens-center/mothers-day-mingle-2025",
+    "college": "York College",
+    "date": "2025-05-07",
+    "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Alpha Phi Alpha Fraternity Inc. Awareness Seminar",
+    "link": "https://www.york.cuny.edu/events/alpha-phi-alpha-fraternity-inc-awareness-seminar",
+    "college": "York College",
+    "date": "2025-05-07",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Academic Achievement Recognition",
+    "link": "https://www.york.cuny.edu/advisement/events/academic_achievement_recognition",
+    "college": "York College",
+    "date": "2025-05-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "NAMI On Campus - Mental Health Awareness",
+    "link": "https://www.york.cuny.edu/events/nami-on-campus-mental-health-awareness",
+    "college": "York College",
+    "date": "2025-05-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Converge 2025",
+    "link": "https://www.york.cuny.edu/events/2025/converge-2025",
+    "college": "York College",
+    "date": "2025-05-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Entrepreneur Day",
+    "link": "https://www.york.cuny.edu/events/entrepreneur-day",
+    "college": "York College",
+    "date": "2025-05-08",
+    "time": "4:00 PM - 5:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Celebration of Graduates - History, Philosophy, and Anthropology",
+    "link": "https://www.york.cuny.edu/events/celebration-of-graduates-history-philosophy-and-anthropology",
+    "college": "York College",
+    "date": "2025-05-08",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Financial Literacy Series #4",
+    "link": "https://www.york.cuny.edu/events/financial-literacy-series-4",
+    "college": "York College",
+    "date": "2025-05-08",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Discover Serenity: Eco-Therapy",
+    "link": "https://www.york.cuny.edu/events/discover-serenity-eco-therapy",
+    "college": "York College",
+    "date": "2025-05-14",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "WORKSHOP: STRUCTURING ARGUMENT-BASED WRITING",
+    "link": "https://www.gc.cuny.edu/events/workshop-structuring-argument-based-writing",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "1:00 pm — 2:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
+  },
+  {
+    "title": "INFORMATION SESSION: COMPLETING INTERNSHIPS FOR ACADEMIC CREDIT",
+    "link": "https://www.gc.cuny.edu/events/information-session-completing-internships-academic-credit-may-6-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "2:00 pm — 3:00 pm",
+    "location": "Online",
+    "tags": [
+      "Career Planning and Professional Development"
+    ]
+  },
+  {
+    "title": "M.A. IN LIBERAL STUDIES - VIRTUAL INFO SESSION",
+    "link": "https://www.gc.cuny.edu/events/ma-liberal-studies-virtual-info-session-may-6-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "2:00 pm",
+    "location": "Online",
+    "tags": [
+      "Liberal Studies",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "CUNY BA STUDENT SHOWCASE",
+    "link": "https://www.gc.cuny.edu/events/cuny-ba-student-showcase",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "5:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "CUNY Baccalaureate for Unique and Interdisciplinary Studies"
+    ]
+  },
+  {
+    "title": "DATA SCIENCE OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/data-science-open-house-may-06-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "6:00 pm — 7:00 pm",
+    "location": "Online",
+    "tags": [
+      "Computer Science",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "COPLAND HOUSE ENSEMBLE: BETTER ANGELS",
+    "link": "https://www.gc.cuny.edu/events/copland-house-ensemble-better-angels",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-06",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "STUDENT POSTER COMPETITION AND ALUMNI NETWORKING",
+    "link": "https://www.gc.cuny.edu/events/student-poster-competition-and-alumni-networking-spring-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-07",
+    "time": "10:00 am — 2:00 pm",
+    "location": "1218: Segal Theatre",
+    "tags": [
+      "Computer Science",
+      "Data Science",
+      "Alumni"
+    ]
+  },
+  {
+    "title": "CREATIVE JOB SEARCH STRATEGIES IN UNCERTAIN TIMES",
+    "link": "https://www.gc.cuny.edu/events/creative-job-search-strategies-uncertain-times",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-07",
+    "time": "12:00 pm — 1:15 pm",
+    "location": "Online",
+    "tags": [
+      "Career Planning and Professional Development"
+    ]
+  },
+  {
+    "title": "BOOK TALK: RICHARD OCEJO, \"SIXTY MILES UPRIVER\"",
+    "link": "https://www.gc.cuny.edu/events/book-talk-richard-ocejo-sixty-miles-upriver",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-07",
+    "time": "3:00 pm",
+    "location": "Online",
+    "tags": [
+      "CUNY Academy for the Humanities and Sciences"
+    ]
+  },
+  {
+    "title": "ELISSA BEMPORAD IN CONVERSATION WITH WENDY GOLDMAN ON JEWS IN THE SOVIET UNION",
+    "link": "https://www.gc.cuny.edu/events/elissa-bemporad-conversation-wendy-goldman-jews-soviet-union",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-07",
+    "time": "6:00 pm",
+    "location": "9205",
+    "tags": [
+      "History",
+      "Center for Jewish Studies"
+    ]
   },
   {
     "title": "QCC Day",
