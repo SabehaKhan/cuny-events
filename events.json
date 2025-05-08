@@ -1,21 +1,5 @@
 [
   {
-    "title": "Planetarium Show: Next Stop Mars!",
-    "link": "https://www.ccny.cuny.edu/calendar/planetarium-show-next-stop-mars-1",
-    "college": "City College of New York",
-    "date": "2025-05-07",
-    "time": "03:30 PM - 04:30 PM",
-    "tags": []
-  },
-  {
-    "title": "The Dortort Lecture in the Dramatic Arts",
-    "link": "https://www.ccny.cuny.edu/calendar/dortort-lecture-dramatic-arts",
-    "college": "City College of New York",
-    "date": "2025-05-07",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": []
-  },
-  {
     "title": "Department of Electrical Engineering May Seminar",
     "link": "https://www.ccny.cuny.edu/calendar/department-electrical-engineering-may-seminar",
     "college": "City College of New York",
@@ -508,14 +492,6 @@
     "tags": []
   },
   {
-    "title": "CCTOP Virtual Information Session",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/7f5cb23e-f240-4632-bbff-bbb01aa0f764",
-    "college": "Kingsborough Community College",
-    "date": "2025-05-07",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "Career Pathways Through Education",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/e1467969-3be1-4f67-9d43-58a31e964eee",
     "college": "Kingsborough Community College",
@@ -676,14 +652,6 @@
     "tags": []
   },
   {
-    "title": "KCC Celebrates- College Decision Day",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/b8582508-17fe-48c5-9ef4-69097f8387ec",
-    "college": "Kingsborough Community College",
-    "date": "2025-05-07",
-    "time": "04:00 PM - 06:00 PM",
-    "tags": []
-  },
-  {
     "title": "The Business of Brooklyn College",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/5c24f024-be20-42d3-be2a-99393ccc1536",
     "college": "Kingsborough Community College",
@@ -826,25 +794,6 @@
     "date": "2025-05-20",
     "time": "06:00 PM - 06:00 PM",
     "tags": []
-  },
-  {
-    "title": "Baseball Championship Game Today",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/99e47b0b-f452-4bc1-8414-4bc34057ca0e",
-    "college": "Kingsborough Community College",
-    "date": "2025-05-07",
-    "time": "05:00 PM - 05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-05-07/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-07",
-    "time": "08:00 PM - 08:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
   },
   {
     "title": "Street Mural Information Session",
@@ -1170,71 +1119,15 @@
     ]
   },
   {
-    "title": "The HUB Hour",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376332",
-    "college": "Guttman Community College",
-    "date": "2025-05-07",
-    "time": "02:00 PM - 03:00 PM",
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-05-16/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-16",
+    "time": "10:00 AM - 03:00 PM",
     "tags": [
-      "EMSA",
-      "Support Session",
-      "Discussion",
-      "Information Session"
-    ]
-  },
-  {
-    "title": "Building your LinkedIn",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376335",
-    "college": "Guttman Community College",
-    "date": "2025-05-07",
-    "time": "02:45 PM - 05:15 PM",
-    "tags": [
-      "EMSA",
-      "Career Workshop",
-      "Food - Light Refreshments",
-      "Information Session",
-      "Discussion"
-    ]
-  },
-  {
-    "title": "Complete Your FAFSA & TAP Application",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376293",
-    "college": "Guttman Community College",
-    "date": "2025-05-07",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "Financial Aid",
-      "FASFA & TAP Applications",
-      "Satisfactory Academic Progress (SAP)"
-    ]
-  },
-  {
-    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376285",
-    "college": "Guttman Community College",
-    "date": "2025-05-07",
-    "time": "09:30 PM - 11:30 PM",
-    "tags": [
-      "EMSA",
-      "Workshop",
-      "Financial Aid",
-      "FASFA & TAP Applications"
-    ]
-  },
-  {
-    "title": "Pickle Ball Wednesday's",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376194",
-    "college": "Guttman Community College",
-    "date": "2025-05-07",
-    "time": "10:00 PM - 12:00 AM",
-    "tags": [
-      "OSL",
-      "Athletic/Sports",
-      "APIDA Heritage Month",
-      "Student Life",
-      "Off-Campus"
+      "admissions",
+      "all calendars",
+      "student events"
     ]
   },
   {
@@ -1470,19 +1363,6 @@
       "Educational/Awareness",
       "AccessABILITY Services",
       "Food - Light Refreshments "
-    ]
-  },
-  {
-    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376289",
-    "college": "Guttman Community College",
-    "date": "2025-05-17",
-    "time": "02:00 PM - 05:30 PM",
-    "tags": [
-      "EMSA",
-      "Workshop",
-      "Financial Aid",
-      "FASFA & TAP Applications"
     ]
   },
   {
@@ -1738,27 +1618,6 @@
   },
   {
     "title": "Hunter MFA Playwrights Festival",
-    "link": "https://hunter.cuny.edu/event/hunter-mfa-playwrights-festival-3/2025-05-07/",
-    "college": "Hunter College",
-    "date": "2025-05-07",
-    "time": "04:00 PM - 06:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Cafecito con... Glorimar Garcia: En tus manos/ en mi nombre",
-    "link": "https://hunter.cuny.edu/event/cafecito-con-glorimar-garcia-en-tus-manos-en-mi-nombre/",
-    "college": "Hunter College",
-    "date": "2025-05-07",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": [
-      "Conferences & Workshops",
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Hunter MFA Playwrights Festival",
     "link": "https://hunter.cuny.edu/event/hunter-mfa-playwrights-festival-3/2025-05-08/",
     "college": "Hunter College",
     "date": "2025-05-08",
@@ -1978,20 +1837,27 @@
     ]
   },
   {
-    "title": "Ballroom Culture 101: Voguing Workshop Series with Felix Luar",
-    "link": "https://www.bmcc.cuny.edu/event/ballroom-culture-101-voguing-workshop-series-with-felix-luar-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-07",
-    "time": "05:30 PM - 07:30 PM",
+    "title": "Words That Work: Résumés & Cover Letters",
+    "link": "https://hunter.cuny.edu/event/words-that-work-resumes-cover-letters/",
+    "college": "Hunter College",
+    "date": "2025-06-25",
+    "time": "01:00 PM - 02:00 PM",
     "tags": [
-      "Center for Belonging and Inclusion",
-      "CUNY in The Heights",
-      "De-Stress Fest",
-      "Domestic Violence Awareness Month",
-      "Featured",
-      "Pride Center",
-      "Student Affairs",
-      "Women's Resource Center"
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Networking for Career Success: LinkedIn & Beyond",
+    "link": "https://hunter.cuny.edu/event/networking-for-career-success-linkedin-beyond/",
+    "college": "Hunter College",
+    "date": "2025-07-02",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
     ]
   },
   {
@@ -2115,6 +1981,21 @@
       "Featured",
       "Modern Languages",
       "Study Abroad"
+    ]
+  },
+  {
+    "title": "Ballroom Culture 101: Voguing Workshop Series with Felix Luar",
+    "link": "https://www.bmcc.cuny.edu/event/ballroom-culture-101-voguing-workshop-series-with-felix-luar/2025-05-09/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-09",
+    "time": "05:30 PM - 07:30 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "CUNY in The Heights",
+      "Featured",
+      "Pride Center",
+      "Student Affairs",
+      "Women's Resource Center"
     ]
   },
   {
@@ -2808,291 +2689,230 @@
     ]
   },
   {
-    "title": "Get Over the Hump with FAFSA Wednesdays at Medgar Evers College",
-    "link": "https://events.cuny.edu/cec/get-over-the-hump-with-fafsa-wednesdays-at-medgar-evers-college/",
-    "college": "The University",
-    "date": "2025-05-07",
-    "time": "",
-    "tags": [
-      "Financial Aid"
-    ]
-  },
-  {
-    "title": "Tech Talk Time",
-    "link": "https://events.cuny.edu/cec/tech-talk-time-10/",
-    "college": "College of Staten Island",
-    "date": "2025-05-07",
+    "title": "CCNY Libraries | Counseling Center Pop Up @ Cohen Library",
+    "link": "https://events.cuny.edu/cec/ccny-libraries-counseling-center-pop-up-cohen-library-2/",
+    "college": "The City College of New York",
+    "date": "2025-05-08",
     "time": "11:00 AM - 11:30 AM",
     "tags": [
-      "Technology Training"
+      "CCNY Libraries"
     ]
   },
   {
-    "title": "LGBTQ+ Peer Support Group",
-    "link": "https://events.cuny.edu/cec/lgbtq-peer-support-group-12/",
+    "title": "2025 CUNY Jazz Festival",
+    "link": "https://events.cuny.edu/cec/2025-cuny-jazz-festival/",
     "college": "The City College of New York",
-    "date": "2025-05-07",
-    "time": "11:30 AM - 12:30 PM",
+    "date": "2025-05-08",
+    "time": "12:00 PM - 10:00 PM",
     "tags": [
-      "LGBTQI+"
+      "2025 CUNY Jazz Festival"
     ]
   },
   {
-    "title": "Tech Talk Time",
-    "link": "https://events.cuny.edu/cec/tech-talk-time-11/",
-    "college": "College of Staten Island",
-    "date": "2025-05-07",
-    "time": "11:30 AM - 12:00 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "CREATE YOUR UNIQUE DEGREE IN CUNY WITH CUNY BA – INFO SESSION [ONLINE]",
-    "link": "https://events.cuny.edu/cec/create-unique-interdisciplinary-cunyba/",
-    "college": "CUNY Baccalaureate for Unique and Interdisciplinary Studies",
-    "date": "2025-05-07",
+    "title": "Mathematics Colloquium: Dr. Mariusz Urbanski (University of North Texas) – Thermodynamic Formalism for Symbolic Open Systems via Singular Perturbations",
+    "link": "https://events.cuny.edu/cec/mathematics-colloquium-dr-mariusz-urbanski-university-of-north-texas-thermodynamic-formalism-for-symbolic-open-systems-via-singular-perturbations/",
+    "college": "The City College of New York",
+    "date": "2025-05-08",
     "time": "12:30 PM - 1:30 PM",
     "tags": [
-      "Undergraduate Information Sessions",
-      "Undergraduate Open House",
-      "Bachelor's degree",
-      "CUNY Baccalaureate for Unique and Interdisciplinary Studies",
-      "CUNY programs",
-      "CUNYBA",
-      "NYC COLLEGE",
-      "bachelor's degrees",
-      "college info session",
-      "communications design",
-      "creative degree",
-      "interdisciplinary studies;",
-      "new york colleges",
-      "undergrad information session",
-      "undergraduate degree",
-      "unique degree",
-      "unique degrees",
-      "unique majors;",
-      "virtual open house"
+      "Dr. Mariusz Urbanski",
+      "Mathematics Colloquium"
     ]
   },
   {
-    "title": "Matter of Mind – My Alzheimer’s – Film and Talk",
-    "link": "https://events.cuny.edu/cec/matter-of-mind-my-alzheimers-film-and-talk/",
+    "title": "Mathematics Colloquium: Dr. Mariusz Urbanski (University of North Texas) – Thermodynamic Formalism for Symbolic Open Systems via Singular Perturbations.",
+    "link": "https://events.cuny.edu/cec/mathematics-colloquium-dr-mariusz-urbanski-university-of-north-texas-thermodynamic-formalism-for-symbolic-open-systems-via-singular-perturbations-2/",
     "college": "The City College of New York",
-    "date": "2025-05-07",
-    "time": "12:30 PM - 2:00 PM",
+    "date": "2025-05-08",
+    "time": "12:30 PM - 1:30 PM",
     "tags": [
-      "Matter of Mind: My Alzheimer’s"
+      "Dr. Mariusz Urbanski",
+      "Mathematics Colloquium"
     ]
   },
   {
-    "title": "Matter of Mind: My Alzheimer’s – Film and Talk",
-    "link": "https://events.cuny.edu/cec/matter-of-mind-my-alzheimers-film-and-talk-2/",
-    "college": "The City College of New York",
-    "date": "2025-05-07",
-    "time": "12:30 PM - 2:00 PM",
-    "tags": [
-      "Matter of Mind"
-    ]
-  },
-  {
-    "title": "From Częstochowa to Bayside: The Story of the KHC’s Torah Scroll",
-    "link": "https://events.cuny.edu/cec/from-czestochowa-to-bayside-the-story-of-the-khcs-torah-scroll/",
-    "college": "Queensborough Community College",
-    "date": "2025-05-07",
-    "time": "2:30 PM",
-    "tags": [
-      "Holocaust",
-      "Holocaust Memory",
-      "Holocaust Remembrance",
-      "Human Rights Issues",
-      "Human Rights and the Museum",
-      "Jewish History",
-      "KHC",
-      "Kupferberg Holocaust Center",
-      "Museums",
-      "curatorial"
-    ]
-  },
-  {
-    "title": "The Bertha Harris Women’s Center Presents Chair Yoga Class",
-    "link": "https://events.cuny.edu/cec/chair-yoga-class/",
+    "title": "Bertha Harris Women’s Center Presents Social Mingle Bingo",
+    "link": "https://events.cuny.edu/cec/bertha-harris-womens-center-presents-social-mingle-bingo/",
     "college": "College of Staten Island",
-    "date": "2025-05-07",
-    "time": "3:00 PM - 4:00 PM",
+    "date": "2025-05-08",
+    "time": "2:30 PM - 4:00 PM",
     "tags": [
       "Bertha Harris Women's Center",
       "Womens Studies"
     ]
   },
   {
-    "title": "Planetarium Show: Next Stop Mars!",
-    "link": "https://events.cuny.edu/cec/planetarium-show-next-stop-mars-3/",
-    "college": "The City College of New York",
-    "date": "2025-05-07",
-    "time": "3:30 PM - 4:30 PM",
+    "title": "Virtual FAFSA Completion Event",
+    "link": "https://events.cuny.edu/cec/virtual-fafsa-completion-event/",
+    "college": "The University",
+    "date": "2025-05-08",
+    "time": "3:00 PM - 5:00 PM",
     "tags": [
-      "CCNY Planetarium"
+      "Financial Aid"
     ]
   },
   {
-    "title": "OSDL: Spring 2025 Events",
-    "link": "https://qc.event.cuny.edu/events/fA7QJIEVJaJqa071IidQ/D2H7MRf6grwTJA1zxEQv",
-    "college": "Queens College",
-    "date": "2025-05-07",
-    "time": "7:00AM",
-    "tags": []
+    "title": "Calpulli, Mexican Dance Company – Cinco de Mayo Assembly",
+    "link": "https://events.cuny.edu/cec/calpulli-mexican-dance-company-cinco-de-mayo-assembly/",
+    "college": "College of Staten Island",
+    "date": "2025-05-08",
+    "time": "3:30 PM - 4:30 PM",
+    "tags": [
+      "Center for Global Engagement",
+      "LGBTQ+",
+      "Macaulay Honors College",
+      "Student Life",
+      "Verrazzano School"
+    ]
   },
   {
-    "title": "President's Office: Chief Marshal & Assistant Marshal Luncheon",
-    "link": "https://qc.event.cuny.edu/events/AhJqNAEyVnIsLtQsQQ9U/J7BKGKyaS74jIIdl5aya",
-    "college": "Queens College",
-    "date": "2025-05-07",
-    "time": "8:00AM",
-    "tags": []
+    "title": "Academic Freedom from a Unionist Perspective",
+    "link": "https://events.cuny.edu/cec/academic-freedom-from-a-unionist-perspective/",
+    "college": "College of Staten Island",
+    "date": "2025-05-08",
+    "time": "3:30 PM - 4:30 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
+  },
+  {
+    "title": "Snagit Beginner",
+    "link": "https://events.cuny.edu/cec/snagit-beginner/",
+    "college": "College of Staten Island",
+    "date": "2025-05-08",
+    "time": "3:30 PM - 4:30 PM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "International Coffee Hour",
+    "link": "https://events.cuny.edu/cec/international-coffee-hour-15/",
+    "college": "College of Staten Island",
+    "date": "2025-05-08",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": [
+      "ASAP",
+      "Bertha Harris Women's Center",
+      "Center for Global Engagement",
+      "LGBTQ+",
+      "Macaulay Honors College",
+      "Student Life",
+      "Verrazzano School",
+      "Willowbrook",
+      "World Language and Literature"
+    ]
   },
   {
     "title": "Queens School of Inquiry 2024-2025",
-    "link": "https://qc.event.cuny.edu/events/xjlNJrtfkwRAfov6lMMk/Ug62qfvfZipr93FceSyZ14",
+    "link": "https://qc.event.cuny.edu/events/xjlNJrtfkwRAfov6lMMk/Vk0Q97hoECq5r78ddjCa130",
     "college": "Queens College",
-    "date": "2025-05-07",
+    "date": "2025-05-08",
     "time": "8:00AM",
     "tags": []
   },
   {
     "title": "Queens School of Inquiry",
-    "link": "https://qc.event.cuny.edu/events/iJHP7N3tvsFesJqaNXxi/eZa09C9IgCeJWrFMyxRm36",
+    "link": "https://qc.event.cuny.edu/events/iJHP7N3tvsFesJqaNXxi/eZa09C9IgCeJWrFMyxRm37",
     "college": "Queens College",
-    "date": "2025-05-07",
+    "date": "2025-05-08",
     "time": "8:00AM",
     "tags": []
   },
   {
     "title": "VP SAEM: Interview Sessions",
-    "link": "https://qc.event.cuny.edu/events/pF0kbhXGZ8LH1qc6UQDE/PZJdlQQK4EoloeLLlnjG",
+    "link": "https://qc.event.cuny.edu/events/pF0kbhXGZ8LH1qc6UQDE/qqJVxErrP5EurmRgBtNH",
     "college": "Queens College",
-    "date": "2025-05-07",
+    "date": "2025-05-08",
     "time": "9:00AM",
     "tags": []
   },
   {
-    "title": "TIME 2000 Graduation Celebration",
-    "link": "https://qc.event.cuny.edu/events/GfQGweZdI9s2GgFnmXBJ/P1Q3L9aWkHMhkxCMUJLo",
+    "title": "QC Counseling Services Group Session",
+    "link": "https://qc.event.cuny.edu/events/Dj9inDx7ROOkSzkkAWxy/kjd3DfLwAo3Yld0rksbc13",
     "college": "Queens College",
-    "date": "2025-05-07",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "US Army Recruit Sessions Fall '24",
-    "link": "https://qc.event.cuny.edu/events/V1QrwoqupRRdso5VIsxH/0ii6Gi24oCN4piZbdlMY",
-    "college": "Queens College",
-    "date": "2025-05-07",
+    "date": "2025-05-08",
     "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Voces Latinas STI Education and Testing",
-    "link": "https://qc.event.cuny.edu/events/aZzBlxyh2LtoVNpoTSsI/NbpXg2Iek0TA8LwKGVDX",
-    "college": "Queens College",
-    "date": "2025-05-07",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Office of Graduate Studies",
-    "link": "https://qc.event.cuny.edu/events/vbIitwsuO8wwycBscDT3/Yl3DsHGBxm41cWH8HwJ3",
-    "college": "Queens College",
-    "date": "2025-05-07",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Pages of Reading Group",
-    "link": "https://qc.event.cuny.edu/events/lV0PrwZy9rmgq0W5EnGa/YldxWTOmMlDmqsrn45py",
-    "college": "Queens College",
-    "date": "2025-05-07",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "FHP Museum Presentation",
-    "link": "https://qc.event.cuny.edu/events/sBoZz6rNHdZYTIzE5Qxb/lCqRSmAm2Z701I6FwM99",
-    "college": "Queens College",
-    "date": "2025-05-07",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "OSDL: Realigning your goals",
-    "link": "https://qc.event.cuny.edu/events/ZDAgOnZUN3QS8cr08jgm/wFl4t37EFoelhL5Bsn9K",
-    "college": "Queens College",
-    "date": "2025-05-07",
-    "time": "12:00PM",
     "tags": []
   },
   {
     "title": "Pre-Pride Event",
-    "link": "https://qc.event.cuny.edu/events/StrJ3wUShvMnbpyvXCtm/pDrVBuASI90ukzalC8HV",
+    "link": "https://qc.event.cuny.edu/events/StrJ3wUShvMnbpyvXCtm/JW20GvgtO0IyJke2a7yi",
     "college": "Queens College",
-    "date": "2025-05-07",
-    "time": "12:05PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers Program",
-    "link": "https://qc.event.cuny.edu/events/wju3TfFdOp2Ngqm54Sgi/ACp8NbveqY74m0xEx61026",
-    "college": "Queens College",
-    "date": "2025-05-07",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "SOC Seminar Series",
-    "link": "https://qc.event.cuny.edu/events/oHELgXyXefOgEDyLi7mv/CDbr9TOni1yOyrSLtwjR",
-    "college": "Queens College",
-    "date": "2025-05-07",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Women's Learning",
-    "link": "https://baruch.event.cuny.edu/events/DG3f5ypBPtMo1UIpybRo/3iAhPzbHdTkxWUyBKyZz",
-    "college": "Baruch College",
-    "date": "2025-05-07",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Visible Communication: Works from the Baruch College Art Collection",
-    "link": "https://baruch.event.cuny.edu/events/eFmyf5kE5Qrerzdr7IFD/wY0pjUe5AxtnjvGV2n9i28",
-    "college": "Baruch College",
-    "date": "2025-05-07",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Hillel Tabling",
-    "link": "https://baruch.event.cuny.edu/events/wYqiIxi52SsJucNnJQkD/uh5cDWyXNSMvWBS7dy5P",
-    "college": "Baruch College",
-    "date": "2025-05-07",
+    "date": "2025-05-08",
     "time": "12:00PM",
     "tags": []
   },
   {
-    "title": "S&P Capital IQ  @ SFSC Trading Floor, Rm. 124 - Prof. Phillips",
-    "link": "https://baruch.event.cuny.edu/events/VEAZAifeRGpiQBH0SpbJ/en7vg6o09BtHTlTcqh4L",
-    "college": "Baruch College",
-    "date": "2025-05-07",
-    "time": "12:45PM",
+    "title": "Prof. Jian Xiao",
+    "link": "https://qc.event.cuny.edu/events/EBZQ4cBydX1bWzgpvgJ8/qYC2QU32IsVLFZVpblnw27",
+    "college": "Queens College",
+    "date": "2025-05-08",
+    "time": "12:00PM",
     "tags": []
   },
   {
-    "title": "Israel learning fellowship",
-    "link": "https://baruch.event.cuny.edu/events/iUswd50mfKU0Nwsd1tRa/PHHaZ0jOyTc4D1mSX8YN",
-    "college": "Baruch College",
-    "date": "2025-05-07",
-    "time": "5:30PM",
+    "title": "CUNY Explorers Program",
+    "link": "https://qc.event.cuny.edu/events/wju3TfFdOp2Ngqm54Sgi/ACp8NbveqY74m0xEx61027",
+    "college": "Queens College",
+    "date": "2025-05-08",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Writing Center",
+    "link": "https://qc.event.cuny.edu/events/CzgGOwossl3Ypo8NVRgo/GvLLMWdcIiFEFP7dTD6d",
+    "college": "Queens College",
+    "date": "2025-05-08",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "CLF Orientation",
+    "link": "https://qc.event.cuny.edu/events/m2AWxxfqyOVCMoWoZzGN/ycarhMpqrdPRUult07ly",
+    "college": "Queens College",
+    "date": "2025-05-08",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Recitation",
+    "link": "https://qc.event.cuny.edu/events/qyEP9NZCD0RFmrGG0SyG/AX6aTmfuY33yWqY41tR4127",
+    "college": "Queens College",
+    "date": "2025-05-08",
+    "time": "2:30PM",
+    "tags": []
+  },
+  {
+    "title": "SEYS Social Studies Combined Student Teaching Seminar",
+    "link": "https://qc.event.cuny.edu/events/K6WQ02NYOcsMzwjUhAHX/FrWNIZk6HaVoTbPOQgwa",
+    "college": "Queens College",
+    "date": "2025-05-08",
+    "time": "4:30PM",
+    "tags": []
+  },
+  {
+    "title": "Tutoring Sessions",
+    "link": "https://qc.event.cuny.edu/events/xUFezBalM2UQ8dROJO7f/I7aAy0feGBCDqL7bUh0n",
+    "college": "Queens College",
+    "date": "2025-05-08",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "QC Jalsa Di Raat",
+    "link": "https://qc.event.cuny.edu/events/rJCNT13w8j4gV3oC6OVx/h9xXaTF5dEWpqGz7uhAE",
+    "college": "Queens College",
+    "date": "2025-05-08",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "NYGU Downstate Queens Tour",
+    "link": "https://qc.event.cuny.edu/events/YqXcRJSEdsM2T83NDFsM/Ul7bIK5HNU6F4ulNqzGn",
+    "college": "Queens College",
+    "date": "2025-05-09",
+    "time": "8:00AM",
     "tags": []
   },
   {
@@ -3216,59 +3036,27 @@
     "tags": []
   },
   {
-    "title": "Adult Learning Center Classes",
-    "link": "https://citytech.event.cuny.edu/events/sZYQ4MIr3aF64Y7HIzG3/OZLY2qpgVKgC8FqmWONZ1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-07",
-    "time": "9:00AM",
+    "title": "Bloomberg: Introduction to Bloomberg Professional for Equities @ SFSC Trading Floor, Rm. 124 - Prof. Gee",
+    "link": "https://baruch.event.cuny.edu/events/t00jnKeXUQoAi24q1AgY/jt4Pq0lOnYJKMSlFLvvb",
+    "college": "Baruch College",
+    "date": "2025-05-13",
+    "time": "12:45PM",
     "tags": []
   },
   {
-    "title": "42nd Semi-Annual Dr. Janet Liou-Mark Honors Scholars and Undergraduate Research Poster Presentation",
-    "link": "https://citytech.event.cuny.edu/events/iIwEBODHxoWDsc9GVMh5/7F8K2wa9fq3ls5552uIo",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-07",
-    "time": "10:00AM",
+    "title": "Caribbean Week Coffee Chat & Tea Talk",
+    "link": "https://baruch.event.cuny.edu/events/fBswisGkSgaEKHyRm5Lz/JB3oHX5sKwbkvleBJsFZ",
+    "college": "Baruch College",
+    "date": "2025-05-14",
+    "time": "9:30AM",
     "tags": []
   },
   {
-    "title": "ASAP/ACE Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/ffcHGrpk3xkheBdjZei516",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-07",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "Spring 2025 General Tour",
-    "link": "https://citytech.event.cuny.edu/events/j4VjcTEJQPkV0rDCMOwO/NhIHhhmblp85Zci8D53h",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-07",
+    "title": "Visible Communication: Works from the Baruch College Art Collection",
+    "link": "https://baruch.event.cuny.edu/events/eFmyf5kE5Qrerzdr7IFD/wY0pjUe5AxtnjvGV2n9i33",
+    "college": "Baruch College",
+    "date": "2025-05-14",
     "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "CT Boost!",
-    "link": "https://citytech.event.cuny.edu/events/v9dz0FDjbOldWVRchln3/ZGGov2pVu4cFOK1jJYjd",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-07",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Spring Student Writing Showcase",
-    "link": "https://citytech.event.cuny.edu/events/HQqd0TRzPn3TuprSYbg8/rlAt2GpnB7TVaNl1uaeH",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-07",
-    "time": "2:30PM",
-    "tags": []
-  },
-  {
-    "title": "SMPTE Student Meet-Up",
-    "link": "https://citytech.event.cuny.edu/events/sbFpsdudBz57f3GRw0IR/Ew0krwWNZENmY8YtUaWH",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-07",
-    "time": "4:30PM",
     "tags": []
   },
   {
@@ -3352,19 +3140,19 @@
     "tags": []
   },
   {
-    "title": "Seasonal Allergies and National Asthma Awareness Month",
-    "link": "https://hostos.event.cuny.edu/events/veCa27azUbyvB1UeYYBb/XTtYh9ta9wPdUVJXTn5l",
-    "college": "Hostos Community College",
-    "date": "2025-05-07",
-    "time": "10:00AM",
+    "title": "Graduation Volunteer Training",
+    "link": "https://citytech.event.cuny.edu/events/uz0TRPsyVAPOIVyyknRd/uefmuSc7kSzVg1wXOgRk",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-08",
+    "time": "12:30PM",
     "tags": []
   },
   {
-    "title": "College Discovery Graduation Celebration",
-    "link": "https://hostos.event.cuny.edu/events/ehC1CfqQPTMEe7RRDuwD/OhqCXfTnOX3wrunVq1wp",
-    "college": "Hostos Community College",
-    "date": "2025-05-07",
-    "time": "3:00PM",
+    "title": "The Professional and Technical Writing (PTW) Club",
+    "link": "https://citytech.event.cuny.edu/events/Axb1DZyIi5pJvGT3qEv8/OYjap3UsdRqk59XukkPE11",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-08",
+    "time": "12:45PM",
     "tags": []
   },
   {
@@ -3432,35 +3220,35 @@
     "tags": []
   },
   {
-    "title": "Online Information Session: Bachelor's Degree Programs",
-    "link": "https://sps.cuny.edu/about/events/online-information-session-bachelors-degree-programs-4",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-05-07",
-    "time": "04:00 PM",
+    "title": "Industry Summit",
+    "link": "https://hostos.event.cuny.edu/events/jbYmGrrY3tlCnfL7EU7D/enOqiiXl8bZgZgvbDJQy",
+    "college": "Hostos Community College",
+    "date": "2025-05-15",
+    "time": "7:00AM",
     "tags": []
   },
   {
-    "title": "ePortfolio Support Labs",
-    "link": "https://sps.cuny.edu/about/events/eportfolio-support-labs-1",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-05-07",
-    "time": "04:00 PM",
+    "title": "De-Stress for Success",
+    "link": "https://hostos.event.cuny.edu/events/oK1FtHvnJYGiuauSmuOm/kaAdDQfVZKWXZDFVZU8r",
+    "college": "Hostos Community College",
+    "date": "2025-05-15",
+    "time": "11:00AM",
     "tags": []
   },
   {
-    "title": "Bite Sized Self-Care and Stress Management Techniques",
-    "link": "https://sps.cuny.edu/about/events/bite-sized-selfcare-and-stress-management-techniques",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-05-07",
-    "time": "04:00 PM",
+    "title": "College Wide Senate",
+    "link": "https://hostos.event.cuny.edu/events/BEPZJjpEJVhfRbhQneav/O3J9McrkcqRoSp2iaTdH121",
+    "college": "Hostos Community College",
+    "date": "2025-05-15",
+    "time": "3:00PM",
     "tags": []
   },
   {
-    "title": "Nursing Convocation & Pinning Ceremony",
-    "link": "https://sps.cuny.edu/about/events/nursing-convocation-pinning-ceremony",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-05-07",
-    "time": "10:00 PM",
+    "title": "Paint Night",
+    "link": "https://hostos.event.cuny.edu/events/ew2TqSR6eNzcqO4y09DL/IJzcAn6uYBzW9bTXiJh0",
+    "college": "Hostos Community College",
+    "date": "2025-05-15",
+    "time": "3:30PM",
     "tags": []
   },
   {
@@ -3509,14 +3297,6 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-05-15",
     "time": "04:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Dissertation Defense by Jeffrey Wilhite",
-    "link": "https://sph.cuny.edu/event/dissertation-defense-by-jeffrey-wilhite/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-05-07",
-    "time": "1:00PM",
     "tags": []
   },
   {
@@ -3584,30 +3364,6 @@
     "tags": []
   },
   {
-    "title": "CEDC Overview: How We Can Help You!",
-    "link": "https://www.lehman.edu/events/2025/CEDC-Overview-How-We-Can-Help-You-.php",
-    "college": "Lehman College",
-    "date": "2025-05-07",
-    "time": "2:00 PM- 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Career Conversation with Brian Crowell",
-    "link": "https://www.lehman.edu/events/2025/Career-Conversation-with-Brian-Crowell.php",
-    "college": "Lehman College",
-    "date": "2025-05-07",
-    "time": "4:00 PM- 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Career Open House",
-    "link": "https://www.lehman.edu/events/2025/Career-Open-House.php",
-    "college": "Lehman College",
-    "date": "2025-05-07",
-    "time": "6:30 PM- 7:30 PM",
-    "tags": []
-  },
-  {
     "title": "Rooted in Awareness: Pause, Reflect, and Connect Through Emotional Intelligence",
     "link": "https://www.lehman.edu/events/2025/Rooted-in-Awareness-Pause-Reflect-and-Connect-Through-Emotional-Intelligence.php",
     "college": "Lehman College",
@@ -3661,6 +3417,30 @@
     "college": "Lehman College",
     "date": "2025-05-09",
     "time": "8:00 AM- 2:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Rapunzel: An Original Musical",
+    "link": "https://www.lehman.edu/events/2025/Rapunzel-An-Original-Musical.php?event_type=recurs_2",
+    "college": "Lehman College",
+    "date": "2025-05-09",
+    "time": "10:45 AM- 12:30 PM",
+    "tags": []
+  },
+  {
+    "title": "LinkedIn Workshop",
+    "link": "https://www.lehman.edu/events/2025/LinkedIn-Workshop-.php",
+    "college": "Lehman College",
+    "date": "2025-05-09",
+    "time": "2:00 PM- 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "McDonald's Gospelfest 2025!",
+    "link": "https://www.lehman.edu/events/2025/McDonalds-Gospelfest-2025.php",
+    "college": "Lehman College",
+    "date": "2025-05-09",
+    "time": "8:00 PM- 11:00 PM",
     "tags": []
   },
   {
@@ -3832,121 +3612,148 @@
     "tags": []
   },
   {
-    "title": "STUDENT POSTER COMPETITION AND ALUMNI NETWORKING",
-    "link": "https://www.gc.cuny.edu/events/student-poster-competition-and-alumni-networking-spring-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-07",
-    "time": "10:00 am — 2:00 pm",
-    "location": "1218: Segal Theatre",
-    "tags": [
-      "Computer Science",
-      "Data Science",
-      "Alumni"
-    ]
-  },
-  {
-    "title": "CREATIVE JOB SEARCH STRATEGIES IN UNCERTAIN TIMES",
-    "link": "https://www.gc.cuny.edu/events/creative-job-search-strategies-uncertain-times",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-07",
-    "time": "12:00 pm — 1:15 pm",
-    "location": "Online",
-    "tags": [
-      "Career Planning and Professional Development"
-    ]
-  },
-  {
-    "title": "BOOK TALK: RICHARD OCEJO, \"SIXTY MILES UPRIVER\"",
-    "link": "https://www.gc.cuny.edu/events/book-talk-richard-ocejo-sixty-miles-upriver",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-07",
-    "time": "3:00 pm",
-    "location": "Online",
-    "tags": [
-      "CUNY Academy for the Humanities and Sciences"
-    ]
-  },
-  {
-    "title": "ELISSA BEMPORAD IN CONVERSATION WITH WENDY GOLDMAN ON JEWS IN THE SOVIET UNION",
-    "link": "https://www.gc.cuny.edu/events/elissa-bemporad-conversation-wendy-goldman-jews-soviet-union",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-07",
-    "time": "6:00 pm",
-    "location": "9205",
-    "tags": [
-      "History",
-      "Center for Jewish Studies"
-    ]
-  },
-  {
-    "title": "INFLUENCE AND IN-FLUENCY WITH TONYA M. FOSTER, SAMIYA BASHIR AND TRACIE MORRIS",
-    "link": "https://www.gc.cuny.edu/events/influence-and-fluency-tonya-m-foster-samiya-bashir-and-tracie-morris",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-07",
-    "time": "6:30 pm",
-    "location": "9100: Skylight Room",
-    "tags": [
-      "Center for the Humanities"
-    ]
-  },
-  {
-    "title": "SALINGER’S SOUL: HIS PERSONAL AND RELIGIOUS ODYSSEY - STEPHEN SHEPARD IN CONVERSATION WITH DAVID NASAW",
-    "link": "https://www.gc.cuny.edu/events/salingers-soul-his-personal-and-religious-odyssey-stephen-shepard-conversation-david-nasaw",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-07",
-    "time": "6:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Public Programs",
-      "Leon Levy Center for Biography",
-      "GC Presents"
-    ]
-  },
-  {
-    "title": "ALONDRA NELSON AND CATHY N. DAVIDSON: AI AND THE FUTURE OF HIGHER EDUCATION WEBINAR",
-    "link": "https://www.gc.cuny.edu/events/alondra-nelson-and-cathy-n-davidson-ai-and-future-higher-education-webinar",
-    "college": "CUNY Graduate Center",
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
+    "college": "York College",
     "date": "2025-05-08",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Futures Initiative",
-      "Artificial Intelligence"
-    ]
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
   },
   {
-    "title": "MUSIC IN MIDTOWN: CHAMBER MUSIC ON FIFTH III",
-    "link": "https://www.gc.cuny.edu/events/music-midtown-chamber-music-fifth-iii-spring-2025",
-    "college": "CUNY Graduate Center",
+    "title": "Academic Achievement Recognition",
+    "link": "https://www.york.cuny.edu/advisement/events/academic_achievement_recognition",
+    "college": "York College",
     "date": "2025-05-08",
-    "time": "1:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Music",
-      "Music in Midtown"
-    ]
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
   },
   {
-    "title": "GEOS COLLOQUIUM, PACE-PAX MISSION UPDATE",
-    "link": "https://www.gc.cuny.edu/events/geos-colloquium-pace-pax-mission-update",
-    "college": "CUNY Graduate Center",
+    "title": "NAMI On Campus - Mental Health Awareness",
+    "link": "https://www.york.cuny.edu/events/nami-on-campus-mental-health-awareness",
+    "college": "York College",
     "date": "2025-05-08",
-    "time": "4:15 pm — 6:15 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Earth and Environmental Sciences"
-    ]
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
   },
   {
-    "title": "LINGUISTICS COLLOQUIUM: NAOMI LEE, BARUCH COLLEGE",
-    "link": "https://www.gc.cuny.edu/events/linguistics-colloquium-naomi-lee-baruch-college",
-    "college": "CUNY Graduate Center",
+    "title": "Converge 2025",
+    "link": "https://www.york.cuny.edu/events/2025/converge-2025",
+    "college": "York College",
     "date": "2025-05-08",
-    "time": "4:15 pm — 6:15 pm",
-    "location": "9205",
-    "tags": [
-      "Linguistics"
-    ]
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Entrepreneur Day",
+    "link": "https://www.york.cuny.edu/events/entrepreneur-day",
+    "college": "York College",
+    "date": "2025-05-08",
+    "time": "4:00 PM - 5:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Celebration of Graduates - History, Philosophy, and Anthropology",
+    "link": "https://www.york.cuny.edu/events/celebration-of-graduates-history-philosophy-and-anthropology",
+    "college": "York College",
+    "date": "2025-05-08",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Financial Literacy Series #4",
+    "link": "https://www.york.cuny.edu/events/financial-literacy-series-4",
+    "college": "York College",
+    "date": "2025-05-08",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Thursday Night Jazz Presents: Harish Raghavan",
+    "link": "https://www.york.cuny.edu/events/thursday-night-jazz-presents-harish-raghavan",
+    "college": "York College",
+    "date": "2025-05-09",
+    "time": "12:00 AM - 1:30 AM",
+    "tags": []
+  },
+  {
+    "title": "Converge 2025 - May 9",
+    "link": "https://www.york.cuny.edu/events/2025/converge-2025-may-9",
+    "college": "York College",
+    "date": "2025-05-09",
+    "time": "2:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Cardinal Soar Celebration",
+    "link": "https://www.york.cuny.edu/advisement/events/cardinal-soar",
+    "college": "York College",
+    "date": "2025-05-09",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Mr. RHOyalty",
+    "link": "https://www.york.cuny.edu/events/mr-rhoyalty",
+    "college": "York College",
+    "date": "2025-05-09",
+    "time": "9:00 PM - 2:00 AM",
+    "tags": []
+  },
+  {
+    "title": "English Department's Senior Symposium",
+    "link": "https://www.york.cuny.edu/english/enggrads2025",
+    "college": "York College",
+    "date": "2025-05-12",
+    "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Political Science Open House",
+    "link": "https://www.york.cuny.edu/events/political-science-open-house",
+    "college": "York College",
+    "date": "2025-05-13",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Connecting Calculus 2 Curriculum with Career Skills - May 2025",
+    "link": "https://www.york.cuny.edu/events/connecting-calculus-2-curriculum-with-career-skills-may",
+    "college": "York College",
+    "date": "2025-05-13",
+    "time": "4:15 PM - 5:50 PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Graduation Ceremony",
+    "link": "https://www.york.cuny.edu/seek/events/seek-graduation-ceremony",
+    "college": "York College",
+    "date": "2025-05-13",
+    "time": "7:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Discover Serenity: Eco-Therapy",
+    "link": "https://www.york.cuny.edu/events/discover-serenity-eco-therapy",
+    "college": "York College",
+    "date": "2025-05-14",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Wellness Wednesday - May",
+    "link": "https://www.york.cuny.edu/events/wellness-wednesday-3",
+    "college": "York College",
+    "date": "2025-05-14",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Observatory Public Open Night 5-14-25",
+    "link": "https://www.york.cuny.edu/observatory/copy_of_observatory-public-open-night",
+    "college": "York College",
+    "date": "2025-05-15",
+    "time": "12:30 AM - 1:30 AM",
+    "tags": []
   },
   {
     "title": "QCC Day",
