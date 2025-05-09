@@ -706,29 +706,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-05-09/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-09",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Brown Bag Series: From Investigation to Adjudication - Student Conduct Explained",
-    "link": "https://www.laguardia.edu/event/brown-bag-series-from-investigation-to-adjudication-student-conduct-explained-2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-09",
-    "time": "01:00 PM - 02:30 PM",
-    "tags": [
-      "all calendars",
-      "Faculty and Staff"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-05-12/",
     "college": "LaGuardia Community College",
@@ -884,6 +861,28 @@
     ]
   },
   {
+    "title": "CHASE Financial Literacy Confrence",
+    "link": "https://www.laguardia.edu/event/chase-financial-literacy-confrence/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-14",
+    "time": "01:30 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "MoneyBoss: Entrepreneurship",
+    "link": "https://www.laguardia.edu/event/moneyboss-entrepreneurship/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-14",
+    "time": "02:15 PM - 03:45 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Family Pride Student Virtual Panel Discussion",
     "link": "https://www.laguardia.edu/event/family-pride-student-virtual-panel-discussion/",
     "college": "LaGuardia Community College",
@@ -891,6 +890,18 @@
     "time": "02:30 PM - 03:30 PM",
     "tags": [
       "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Alumni Artist Lecture Series and Portfolio Review: Gabriel Ponte-Fleary",
+    "link": "https://www.laguardia.edu/event/alumni-artist-lecture-series-and-portfolio-review-gabriel-ponte-fleary/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-14",
+    "time": "02:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff",
       "student events"
     ]
   },
@@ -1025,18 +1036,6 @@
     "college": "LaGuardia Community College",
     "date": "2025-05-17",
     "time": "02:30 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "student events"
-    ]
-  },
-  {
-    "title": "Love and Information",
-    "link": "https://www.laguardia.edu/event/love-and-information/2025-05-17/2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-17",
-    "time": "07:00 PM - 09:00 PM",
     "tags": [
       "all calendars",
       "community & business events",
@@ -1750,18 +1749,6 @@
     ]
   },
   {
-    "title": "Study Abroad Information Session with Emely Moises",
-    "link": "https://www.bmcc.cuny.edu/event/study-abroad-information-session-with-emely-moises/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-09",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "Featured",
-      "Modern Languages",
-      "Study Abroad"
-    ]
-  },
-  {
     "title": "Ballroom Culture 101: Voguing Workshop Series with Felix Luar",
     "link": "https://www.bmcc.cuny.edu/event/ballroom-culture-101-voguing-workshop-series-with-felix-luar/2025-05-09/",
     "college": "Borough of Manhattan Community College",
@@ -2058,30 +2045,6 @@
     ]
   },
   {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2025-05-09/",
-    "college": "Bronx Community College",
-    "date": "2025-05-09",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Virtual Event"
-    ]
-  },
-  {
-    "title": "Office of Financial Aid Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-financial-aid-virtual-counter/2025-05-09/",
-    "college": "Bronx Community College",
-    "date": "2025-05-09",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Virtual Event"
-    ]
-  },
-  {
     "title": "Creating Comics! - A Panel Discussion",
     "link": "https://www.bcc.cuny.edu/event/creating-comics-a-panel-discussion/",
     "college": "Bronx Community College",
@@ -2124,22 +2087,6 @@
     "date": "2025-05-15",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
-  },
-  {
-    "title": "The Art of the Business Meal:  An Etiquette Luncheon (Double CLUE: 252098-PG & 252082-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/11262571",
-    "college": "College of Staten Island",
-    "date": "2025-05-09",
-    "time": "03:30 PM - 06:00 PM",
-    "tags": [
-      "Cultural",
-      "PG CLUE",
-      "CC CLUE",
-      "Double CLUE (1 PG and 1 CC)",
-      "Social",
-      "Group Business",
-      "Career Development"
-    ]
   },
   {
     "title": "Weekly Tea Time at the LGBTQ Resource Center",
@@ -2450,14 +2397,6 @@
     ]
   },
   {
-    "title": "Health Equity Summit",
-    "link": "https://lehman.edu/events/2025/Health-Equity-Summit.php",
-    "college": "Lehman College",
-    "date": "2025-05-09",
-    "time": "8:00 AM - 2:00 PM",
-    "tags": []
-  },
-  {
     "title": "CUNYSciCom’s 2025 Symposium",
     "link": "https://asrc.gc.cuny.edu/event/cunyscicoms-2025-symposium/",
     "college": "Advanced Science Research Center, GC/CUNY",
@@ -2499,6 +2438,16 @@
     "time": "11:00 AM - 3:00 PM",
     "tags": [
       "Undergraduate Open House"
+    ]
+  },
+  {
+    "title": "Juan Usera y La Tribu del Juey (The Sambuco Tribe): Caribeando",
+    "link": "https://events.cuny.edu/cec/juan-usera-y-la-tribu-del-juey-the-sambuco-tribe-caribeando/",
+    "college": "The University",
+    "date": "2025-05-10",
+    "time": "2:00 PM",
+    "tags": [
+      "CUNY Dance Initiative"
     ]
   },
   {
@@ -3190,14 +3139,6 @@
     "tags": []
   },
   {
-    "title": "Macaulay Senior Luncheon with Anthony Meyer 2025",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-senior-luncheon-with-anthony-meyer-2025/",
-    "college": "Macaulay Honors College",
-    "date": "2025-05-09",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
     "title": "Finals Wellness Spring 2025",
     "link": "https://macaulay.cuny.edu/calendar-of-events/finals-wellness/",
     "college": "Macaulay Honors College",
@@ -3256,6 +3197,14 @@
   {
     "title": "Class of 2020 5th Year Reunion Happy Hour",
     "link": "https://macaulay.cuny.edu/calendar-of-events/class-of-2020-5th-year-reunion-happy-hour/",
+    "college": "Macaulay Honors College",
+    "date": "2025-05-22",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Senior Celebration at Bedford Falls Bar & Grill: Hunter College",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/senior-celebration-at-bedford-falls-bar-grill-hunter-college/",
     "college": "Macaulay Honors College",
     "date": "2025-05-22",
     "time": "6:00PM",
