@@ -152,6 +152,14 @@
     "tags": []
   },
   {
+    "title": "8th Annual CUNY Pridefest",
+    "link": "https://www.ccny.cuny.edu/calendar/8th-annual-cuny-pridefest",
+    "college": "City College of New York",
+    "date": "2025-06-06",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
     "title": "CUNY Marches in Brooklyn Pride",
     "link": "https://www.ccny.cuny.edu/calendar/cuny-marches-brooklyn-pride-0",
     "college": "City College of New York",
@@ -670,28 +678,6 @@
     "tags": []
   },
   {
-    "title": "\"Make it Happen Monday\" Transfer Credit Pre-Evaluation Session",
-    "link": "https://www.laguardia.edu/event/make-it-happen-monday-transfer-credit-pre-evaluation-session-18/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-12",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Sesiones Informativas en Español",
-    "link": "https://www.laguardia.edu/event/sesiones-informativas-en-espanol-12/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-12",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Admissions Adult Learner In-Person Information Session",
     "link": "https://www.laguardia.edu/event/admissions-adult-learner-in-person-information-session-9/",
     "college": "LaGuardia Community College",
@@ -1005,6 +991,29 @@
       "all calendars",
       "community & business events",
       "student events"
+    ]
+  },
+  {
+    "title": "Love and Information",
+    "link": "https://www.laguardia.edu/event/love-and-information/2025-05-18/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-18",
+    "time": "02:30 PM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "student events"
+    ]
+  },
+  {
+    "title": "Brown Bag Series: Mental Health First Aid Training",
+    "link": "https://www.laguardia.edu/event/brown-bag-series-mental-health-first-aid-training/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-19",
+    "time": "09:30 AM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff"
     ]
   },
   {
@@ -1443,16 +1452,6 @@
     ]
   },
   {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-05-12/",
-    "college": "Hunter College",
-    "date": "2025-05-12",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
     "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2/2025-05-14/",
     "college": "Hunter College",
@@ -1701,15 +1700,252 @@
     ]
   },
   {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2025-05-12/",
-    "college": "Bronx Community College",
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-252/2025-05-12/",
+    "college": "Borough of Manhattan Community College",
     "date": "2025-05-12",
-    "time": "02:00 PM - 05:00 PM",
+    "time": "06:00 PM - 07:00 PM",
     "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Virtual Event"
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-87/2025-05-13/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-13",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-253-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-13",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-13",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Spring 2025 De-Stress Fest: Chess Time",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2025-de-stress-fest-chess-time-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-13",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "De-Stress Fest"
+    ]
+  },
+  {
+    "title": "BMCC Annual Research Symposium (BARS)",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-annual-research-symposium-bars-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-14",
+    "time": "10:00 AM - 05:00 PM",
+    "tags": [
+      "Academic Affairs",
+      "Computer Information Systems",
+      "Featured",
+      "GIS",
+      "Math",
+      "Research & Scholarly Inquiry",
+      "Science",
+      "Social Sciences",
+      "Human Services and Criminal Justice",
+      "Student Success",
+      "Women in STEM"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-88/2025-05-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-14",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Healing Rhythms: Drumming Circle",
+    "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle/2025-05-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-14",
+    "time": "01:30 PM - 03:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (In-Person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-48/2025-05-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-14",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Healing Through Hip-Hop: Live Performance and Participation",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-live-performance-and-participation-2/2025-05-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-14",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-15",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Chat with an Admissions Representative",
+    "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-129/2025-05-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-15",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Spring 2025 De-Stressfest: Kindness Cards",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2025-de-stressfest-kindness-cards/2025-05-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-15",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "De-Stress Fest",
+      "Featured",
+      "Library"
+    ]
+  },
+  {
+    "title": "Stop by our FAFSA (Free Application for Federal Student Aid) Information Table",
+    "link": "https://www.bmcc.cuny.edu/event/stop-by-our-fafsa-free-application-for-federal-student-aid-information-table-7/2025-05-20/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-20",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "Financial Aid Office"
+    ]
+  },
+  {
+    "title": "Storytelling LIVES",
+    "link": "https://www.bmcc.cuny.edu/event/storytelling-lives-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-21",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Theatre"
+    ]
+  },
+  {
+    "title": "Lavender Graduation and Pride Month Brunch",
+    "link": "https://www.bmcc.cuny.edu/event/lavender-graduation/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-30",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "Pride Center",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Life Dance/Biodanza Series -- Let's Dance!",
+    "link": "https://www.bmcc.cuny.edu/event/life-dance-biodanza-series-lets-dance-6/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-02",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Counseling Center",
+      "Featured",
+      "Student Affairs",
+      "Theatre",
+      "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "BMCC Commencement 2025",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-commencement-2025/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-04",
+    "time": "09:00 AM - 01:00 PM",
+    "tags": [
+      "Academic Affairs",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Ballroom Culture 101: Voguing Workshop Series with Felix Luar",
+    "link": "https://www.bmcc.cuny.edu/event/ballroom-culture-101-voguing-workshop-series-with-felix-luar/2025-06-06/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-06",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "CUNY in The Heights",
+      "Featured",
+      "Pride Center",
+      "Student Affairs",
+      "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "Active Threats on Campuses: Protective Measures and Response Course (PER-374)",
+    "link": "https://www.bmcc.cuny.edu/event/active-threats-on-campuses-protective-measures-and-response-course-per-374/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-24",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Emergency Preparedness",
+      "Featured",
+      "Public Safety"
+    ]
+  },
+  {
+    "title": "Active Threats on Campuses: Protective Measures and Response course (PER-374)",
+    "link": "https://www.bmcc.cuny.edu/event/active-threats-on-campuses-protective-measures-and-response-course-per-374-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-25",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Emergency Preparedness",
+      "Featured",
+      "Public Safety"
     ]
   },
   {
@@ -1731,16 +1967,6 @@
     "date": "2025-05-15",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
-  },
-  {
-    "title": "Weekly Tea Time at the LGBTQ Resource Center",
-    "link": "https://csi.campuslabs.com/engage/event/10847783",
-    "college": "College of Staten Island",
-    "date": "2025-05-12",
-    "time": "04:30 PM - 05:30 PM",
-    "tags": [
-      "Social"
-    ]
   },
   {
     "title": "2025 Spring Dance Recital",
@@ -2038,30 +2264,6 @@
     ]
   },
   {
-    "title": "Spring 2025 De-Stress: Puzzle Corner",
-    "link": "https://www.bmcc.cuny.edu/event/?p=652225",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-12",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Healing Through Hip-Hop Showcase: The Missing Piece",
-    "link": "https://www.bmcc.cuny.edu/event/?p=654487",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-12",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=654468",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-12",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "CCNY Blood Drive",
     "link": "https://events.cuny.edu/cec/ccny-blood-drive/",
     "college": "The City College of New York",
@@ -2090,6 +2292,38 @@
     "tags": [
       "Bertha Harris Women's Center",
       "Womens Studies"
+    ]
+  },
+  {
+    "title": "Bertha Harris Women’s Center Presents Empowerment through Makeup",
+    "link": "https://events.cuny.edu/cec/bertha-harris-womens-center-presents-empowerment-through-makeup/",
+    "college": "College of Staten Island",
+    "date": "2025-05-13",
+    "time": "2:30 PM - 5:00 PM",
+    "tags": [
+      "Bertha Harris Women's Center",
+      "Womens Studies"
+    ]
+  },
+  {
+    "title": "Speed Networking for Adult Students",
+    "link": "https://events.cuny.edu/cec/speed-networking-for-adult-students/",
+    "college": "College of Staten Island",
+    "date": "2025-05-13",
+    "time": "2:30 PM - 3:30 PM",
+    "tags": [
+      "Adult Learners",
+      "Career Center"
+    ]
+  },
+  {
+    "title": "CSI Student Film Festival Day 1",
+    "link": "https://events.cuny.edu/cec/csi-student-film-festival-day-1/",
+    "college": "College of Staten Island",
+    "date": "2025-05-13",
+    "time": "2:30 PM - 4:30 PM",
+    "tags": [
+      "Media Culture"
     ]
   },
   {
@@ -3029,119 +3263,6 @@
     "tags": []
   },
   {
-    "title": "RECITAL: PATRICE EATON, MEZZO-SOPRANO",
-    "link": "https://www.gc.cuny.edu/events/recital-patrice-eaton-mezzo-soprano",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-12",
-    "time": "6:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Music"
-    ]
-  },
-  {
-    "title": "VISITING SCHOLAR SEMINAR: THEATRE AND PERFORMANCE: SIR ANRIL P. TIATCO & TOMOKO SEKI",
-    "link": "https://www.gc.cuny.edu/events/visiting-scholar-seminar-theatre-and-performance-sir-anril-p-tiatco-tomoko-seki",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-12",
-    "time": "6:00 pm — 8:00 pm",
-    "location": "3111: Theatre Green Room",
-    "tags": [
-      "Theatre and Performance"
-    ]
-  },
-  {
-    "title": "DIGITAL SCHOLARSHIP DAY",
-    "link": "https://www.gc.cuny.edu/events/digital-scholarship-day",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-13",
-    "time": "2:00 pm — 7:30 pm",
-    "location": "Multiple Locations (see description for details)",
-    "tags": [
-      "Graduate Center Digital Initiatives"
-    ]
-  },
-  {
-    "title": "DAN NADEL ON ROBERT CRUMB, IN CONVERSATION WITH ELISABETH SHERMAN",
-    "link": "https://www.gc.cuny.edu/events/dan-nadel-robert-crumb-conversation-elisabeth-sherman",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-13",
-    "time": "6:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Leon Levy Center for Biography",
-      "Humanities and Social Sciences"
-    ]
-  },
-  {
-    "title": "INSIDE THE CUNY GRADUATE CENTER: A DISSERTATION SHOWCASE",
-    "link": "https://www.gc.cuny.edu/events/inside-cuny-graduate-center-dissertation-showcase-2",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-13",
-    "time": "6:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Public Programs",
-      "GC Presents"
-    ]
-  },
-  {
-    "title": "DRUPAL BASICS TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-may-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-14",
-    "time": "10:00 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "ADVANCED DRUPAL TRAINING",
-    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-may-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-14",
-    "time": "2:00 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "OPEN WRITING WORKSHOP",
-    "link": "https://www.gc.cuny.edu/events/open-writing-workshop-may-14-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-14",
-    "time": "5:30 pm — 7:00 pm",
-    "location": "CUNY@Amazon (12 West 39th St, first floor community classroom)",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "MASTER'S THESIS & CAPSTONE SHOWCASE",
-    "link": "https://www.gc.cuny.edu/events/masters-thesis-capstone-showcase",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-14",
-    "time": "6:00 pm — 8:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Provost's Office"
-    ]
-  },
-  {
-    "title": "CURATOR'S PERSPECTIVE: PROF. DR. BONAVENTURE SOH BEJENG NDIKUNG",
-    "link": "https://www.gc.cuny.edu/events/curators-perspective-prof-dr-bonaventure-soh-bejeng-ndikung",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-14",
-    "time": "6:30 pm",
-    "location": "1218: Segal Theatre",
-    "tags": [
-      "Art History",
-      "James Gallery"
-    ]
-  },
-  {
     "title": "QCC Day",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-17-qcc-day.html",
     "college": "Queensborough Community College",
@@ -3156,30 +3277,6 @@
     "date": "2025-05-14",
     "time": "12:10 PM - 02:00 PM",
     "description": ""
-  },
-  {
-    "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-12-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-05-12",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Career Services Event"
-  },
-  {
-    "title": "QCC-Baruch Business Academy: Info Sessions",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-12-qcc-baruch-business-academy-info-sessions.html",
-    "college": "Queensborough Community College",
-    "date": "2025-05-12",
-    "time": "01:00 PM - 02:00 PM",
-    "description": "Transfer Resource Center Event"
-  },
-  {
-    "title": "Color, Create & Be Calm",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-12-color-create-be-calm.html",
-    "college": "Queensborough Community College",
-    "date": "2025-05-12",
-    "time": "01:10 PM - 02:00 PM",
-    "description": "Conference and Workshop"
   },
   {
     "title": "Annual Induction Ceremony - Phi Theta Kappa International Honor Society",
@@ -3308,6 +3405,30 @@
     "date": "2025-05-15",
     "time": "03:00 PM - 04:00 PM",
     "description": "Career Services Event"
+  },
+  {
+    "title": "QCC Jazz and Percussion Ensembles Conceert",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-15-qcc-jazz-and-percussion-ensembles.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-15",
+    "time": "07:00 PM - 09:00 PM",
+    "description": "Performing Arts / Film Event"
+  },
+  {
+    "title": "Spring 2025 Fuel Up for Finals",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-16-spring-2025-fuel-up-for-finals.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-16",
+    "time": "09:00 AM - 11:00 AM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Queensborough Tigers 5K Run/Walk",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-17-queensborough-tigers-5k-runwalk.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-17",
+    "time": "08:30 AM - 09:30 AM",
+    "description": "Athletics Event"
   },
   {
     "title": "Warm Up to Presenting: A Practice Session",
