@@ -670,17 +670,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-05-12/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-12",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "\"Make it Happen Monday\" Transfer Credit Pre-Evaluation Session",
     "link": "https://www.laguardia.edu/event/make-it-happen-monday-transfer-credit-pre-evaluation-session-18/",
     "college": "LaGuardia Community College",
@@ -1000,6 +989,18 @@
     "college": "LaGuardia Community College",
     "date": "2025-05-17",
     "time": "02:30 PM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "student events"
+    ]
+  },
+  {
+    "title": "Love and Information",
+    "link": "https://www.laguardia.edu/event/love-and-information/2025-05-17/2/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-17",
+    "time": "07:00 PM - 09:00 PM",
     "tags": [
       "all calendars",
       "community & business events",
@@ -1442,16 +1443,6 @@
     ]
   },
   {
-    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
-    "link": "https://hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-3/2025-05-12/",
-    "college": "Hunter College",
-    "date": "2025-05-12",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
     "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
     "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-05-12/",
     "college": "Hunter College",
@@ -1694,6 +1685,16 @@
     "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-08-19/",
     "college": "Hunter College",
     "date": "2025-08-19",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "MS-IPND Challenge Exams",
+    "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-12-10/",
+    "college": "Hunter College",
+    "date": "2025-12-10",
     "time": "11:00 AM - 01:00 PM",
     "tags": [
       "Open Houses"
@@ -2828,14 +2829,6 @@
     "tags": []
   },
   {
-    "title": "Queens College Senior Ice Cream Social & Game Afternoon",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/queens-college-senior-ice-cream-social-game-afternoon/",
-    "college": "Macaulay Honors College",
-    "date": "2025-05-12",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
     "title": "Macaulay Central Cap Decorating Party",
     "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-central-cap-decorating-party/",
     "college": "Macaulay Honors College",
@@ -2876,16 +2869,16 @@
     "tags": []
   },
   {
-    "title": "Class of 2020 5th Year Reunion Happy Hour",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/class-of-2020-5th-year-reunion-happy-hour/",
+    "title": "CCNY Honors Senior Dinner",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/ccny-honors-senior-dinner/",
     "college": "Macaulay Honors College",
     "date": "2025-05-22",
     "time": "6:00PM",
     "tags": []
   },
   {
-    "title": "CCNY Honors Senior Dinner",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/ccny-honors-senior-dinner/",
+    "title": "Class of 2020 5th Year Reunion Happy Hour",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/class-of-2020-5th-year-reunion-happy-hour/",
     "college": "Macaulay Honors College",
     "date": "2025-05-22",
     "time": "6:00PM",
@@ -2908,11 +2901,11 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
-    "college": "York College",
-    "date": "2025-05-12",
-    "time": "4:00 PM - 6:00 PM",
+    "title": "Alumni Law Networking Night",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/alumni-law-networking-night/",
+    "college": "Macaulay Honors College",
+    "date": "2025-06-12",
+    "time": "6:00PM",
     "tags": []
   },
   {
@@ -2921,6 +2914,14 @@
     "college": "York College",
     "date": "2025-05-12",
     "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-spring-2025",
+    "college": "York College",
+    "date": "2025-05-13",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
