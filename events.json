@@ -1,13 +1,5 @@
 [
   {
-    "title": "CCNY Alumni Subway Series 2025",
-    "link": "https://www.ccny.cuny.edu/calendar/ccny-alumni-subway-series-2025",
-    "college": "City College of New York",
-    "date": "2025-05-16",
-    "time": "07:05 PM - 09:30 PM",
-    "tags": []
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-7",
     "college": "City College of New York",
@@ -438,14 +430,6 @@
     "tags": []
   },
   {
-    "title": "Museum Meetups Museum of the City of New York",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/b8cdd75b-2d5f-4106-b724-ed2b9baf603b",
-    "college": "Kingsborough Community College",
-    "date": "2025-05-16",
-    "time": "03:30 PM - 03:30 PM",
-    "tags": []
-  },
-  {
     "title": "Career Planning in a Tough Economy",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/788f312f-2e81-4907-b29d-7ec7a6137806",
     "college": "Kingsborough Community College",
@@ -527,14 +511,6 @@
   },
   {
     "title": "A Musical Adaptation of Shakespeare's Twelfth Night",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/01fb3539-dd9c-4260-900c-941bf4d9ffcf",
-    "college": "Kingsborough Community College",
-    "date": "2025-05-16",
-    "time": "11:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "A Musical Adaptation of Shakespeare's Twelfth Night",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/8ba70d2d-621c-4fb7-a657-27b517434c1a",
     "college": "Kingsborough Community College",
     "date": "2025-05-17",
@@ -572,18 +548,6 @@
     "date": "2025-05-22",
     "time": "03:00 PM - 07:00 PM",
     "tags": []
-  },
-  {
-    "title": "Love and Information",
-    "link": "https://www.laguardia.edu/event/love-and-information/2025-05-16/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-16",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "student events"
-    ]
   },
   {
     "title": "Love and Information",
@@ -909,6 +873,17 @@
     "tags": [
       "all calendars",
       "student events"
+    ]
+  },
+  {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-60/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-28",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
     ]
   },
   {
@@ -1844,78 +1819,6 @@
     ]
   },
   {
-    "title": "Special Services Testing",
-    "link": "https://qc.event.cuny.edu/events/hzX0DlDJZyqb0JDU6OBV/SsHjo49OK5hqV3UPEbeQ1",
-    "college": "Queens College",
-    "date": "2025-05-16",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ROTC Lecture Classes",
-    "link": "https://qc.event.cuny.edu/events/Fw2aJb8yqeqchKslVKmh/vQyQmMFihRg0uawi6T0a16",
-    "college": "Queens College",
-    "date": "2025-05-16",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ECO 393",
-    "link": "https://qc.event.cuny.edu/events/P6vDfN1SdzXZqVaQJrhi/ASNSUDJJNNa1jhBG33AC15",
-    "college": "Queens College",
-    "date": "2025-05-16",
-    "time": "10:30AM",
-    "tags": []
-  },
-  {
-    "title": "OIT- Q Card Station",
-    "link": "https://qc.event.cuny.edu/events/IgNaYwh2S1Dcl9TXILrC/TIadrjuqrQaJvrVjwdB8",
-    "college": "Queens College",
-    "date": "2025-05-16",
-    "time": "10:30AM",
-    "tags": []
-  },
-  {
-    "title": "Xiu Huang",
-    "link": "https://qc.event.cuny.edu/events/BQ75GnTPWYXmT5CPjw2C/gWIsRjCICDzg3lExnSee",
-    "college": "Queens College",
-    "date": "2025-05-16",
-    "time": "10:45AM",
-    "tags": []
-  },
-  {
-    "title": "Graduation Awards Ceremony",
-    "link": "https://qc.event.cuny.edu/events/TUK2kwgTVdUOzny0OXXW/m6kDBkER6jFL1O0DaA54",
-    "college": "Queens College",
-    "date": "2025-05-16",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "CSCI 313-221",
-    "link": "https://qc.event.cuny.edu/events/gBn6lrPnxuyVVLIc3BCm/oMoORQstgNvLyqHB1H2A",
-    "college": "Queens College",
-    "date": "2025-05-16",
-    "time": "3:10PM",
-    "tags": []
-  },
-  {
-    "title": "CSCI 331-231",
-    "link": "https://qc.event.cuny.edu/events/j6eFn2WN3hrQ2bjAqGqj/HEhDAvv4qdDRTsPjbPls",
-    "college": "Queens College",
-    "date": "2025-05-16",
-    "time": "6:30PM",
-    "tags": []
-  },
-  {
-    "title": "CSCI 313-232",
-    "link": "https://qc.event.cuny.edu/events/pMAr5GxwhbqlJnu5pulR/RG2ZJkljdqJX9ZH6lalA",
-    "college": "Queens College",
-    "date": "2025-05-16",
-    "time": "8:00PM",
-    "tags": []
-  },
-  {
     "title": "College Now Classes",
     "link": "https://qc.event.cuny.edu/events/e6g5uKQBgP7O8vgtvqHJ/GNBL1Ia6ofTA9B2Gv3FD4",
     "college": "Queens College",
@@ -1948,19 +1851,75 @@
     "tags": []
   },
   {
-    "title": "Spring 2025: Final Examinations",
-    "link": "https://baruch.event.cuny.edu/events/uEjweVSTnlvuVvRZi8tU/P3o3TZE5fmiu2R6DMf6f",
-    "college": "Baruch College",
-    "date": "2025-05-16",
-    "time": "",
+    "title": "Special Services Testing",
+    "link": "https://qc.event.cuny.edu/events/hzX0DlDJZyqb0JDU6OBV/jyE971plDhrjeongEcAn",
+    "college": "Queens College",
+    "date": "2025-05-19",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Visible Communication: Works from the Baruch College Art Collection",
-    "link": "https://baruch.event.cuny.edu/events/eFmyf5kE5Qrerzdr7IFD/wY0pjUe5AxtnjvGV2n9i35",
-    "college": "Baruch College",
-    "date": "2025-05-16",
-    "time": "11:00AM",
+    "title": "Emergency preparedness / Salvage workshops by CCAHA",
+    "link": "https://qc.event.cuny.edu/events/YcwnHTepcb9X9Xf01LVa/C4PylL3KySht7oYgNHey",
+    "college": "Queens College",
+    "date": "2025-05-19",
+    "time": "8:30AM",
+    "tags": []
+  },
+  {
+    "title": "Accounting",
+    "link": "https://qc.event.cuny.edu/events/JRzW1qHWMF0BlAZCUhWJ/xQ7hTewFRfmNW6fcFIuA",
+    "college": "Queens College",
+    "date": "2025-05-19",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "SP25 SEEK Workshops",
+    "link": "https://qc.event.cuny.edu/events/UDYEoYk3UflPGbl0JAA3/f8p3x48ZQD2wtlnY5Gqy30",
+    "college": "Queens College",
+    "date": "2025-05-19",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Tutoring Services",
+    "link": "https://qc.event.cuny.edu/events/rBXP5CeCOe9GqT6eupo9/nssflnILTel0ikNS2HSs133",
+    "college": "Queens College",
+    "date": "2025-05-19",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Math Workshops",
+    "link": "https://qc.event.cuny.edu/events/IIJyboiXFCQi8aAn7Eww/vBCL0Yawch99E91ybB5033",
+    "college": "Queens College",
+    "date": "2025-05-19",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "FNES Workshop",
+    "link": "https://qc.event.cuny.edu/events/Nkw4EDsIeMCGlU4O3PsC/mNIGS32oCQSA8PbDtQyV",
+    "college": "Queens College",
+    "date": "2025-05-19",
+    "time": "1:45PM",
+    "tags": []
+  },
+  {
+    "title": "Anthropology Honors & Awards Ceremony",
+    "link": "https://qc.event.cuny.edu/events/j4CdqXQIrU2goBHVArCL/Ym9zG0Ir2erinQosyLMz",
+    "college": "Queens College",
+    "date": "2025-05-19",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Dean of Arts & Humanities Candidates Open Forum",
+    "link": "https://qc.event.cuny.edu/events/Gj50QAS1T4IhXMRgncpt/zpZ79Bstm7CaLvE7Cw3o",
+    "college": "Queens College",
+    "date": "2025-05-19",
+    "time": "3:00PM",
     "tags": []
   },
   {
@@ -2077,30 +2036,6 @@
   },
   {
     "title": "Final Examinations",
-    "link": "https://citytech.event.cuny.edu/events/kfmEFhMsyKq6O9mNKbMV/F4pkIif7THSJjI6RTGPz",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-16",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers MS/HS Workshops",
-    "link": "https://citytech.event.cuny.edu/events/c6NQfY72kwBEXTFcCUHz/ILdXtDsrnpibOrdQULz515",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-16",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center Classes",
-    "link": "https://citytech.event.cuny.edu/events/dUKOeAXeFQ7bp4IfisBS/EDZ2Zv4zMMavAeKbJWF52",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-16",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
     "link": "https://citytech.event.cuny.edu/events/kfmEFhMsyKq6O9mNKbMV/COxUoxJd4sASdgWIde7V",
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-05-17",
@@ -2156,27 +2091,35 @@
     "tags": []
   },
   {
-    "title": "Honoring The Fallen & Mothers in the Military",
-    "link": "https://hostos.event.cuny.edu/events/aP3zYhlpvn8We0p1jVup/BXq5qqDRl27qOyJYJkmD",
-    "college": "Hostos Community College",
-    "date": "2025-05-16",
+    "title": "ASAP/ACE Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/ffcHGrpk3xkheBdjZei519",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-19",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Queer Kiki",
+    "link": "https://citytech.event.cuny.edu/events/pEiSPo6bnml5whrQsxtB/Wj3Qj0STLLf5KkmZiFbZ6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-19",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://citytech.event.cuny.edu/events/kfmEFhMsyKq6O9mNKbMV/z6lrQfnTkvg8tTSO3hmg",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-20",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "US Marines Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/lgXNQBJOlSUATljXOwSB/kKjhE7OQvZ1XRXI7QUFj17",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-20",
     "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Hostos Student Leadership Academy Friday Ambassador Workshop Series-Spring",
-    "link": "https://hostos.event.cuny.edu/events/Yi1yWOacLz0YvnIJWlix/KePVG01YNQkYqvPvCYfS15",
-    "college": "Hostos Community College",
-    "date": "2025-05-16",
-    "time": "2:30PM",
-    "tags": []
-  },
-  {
-    "title": "Spring Carnival",
-    "link": "https://hostos.event.cuny.edu/events/ct7X8vjOZCHx1zNavVQv/ThRjULs67RD97LTnhCI6",
-    "college": "Hostos Community College",
-    "date": "2025-05-16",
-    "time": "2:30PM",
     "tags": []
   },
   {
@@ -2249,14 +2192,6 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-12",
     "time": "10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Dissertation Defense by Carice Craffey",
-    "link": "https://sph.cuny.edu/event/dissertation-defense-by-carice-craffey/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-05-16",
-    "time": "3:00PM",
     "tags": []
   },
   {
@@ -2428,14 +2363,6 @@
     "tags": []
   },
   {
-    "title": "Macaulay Triplets – Spring Concert 2025",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-triplets-concert/",
-    "college": "Macaulay Honors College",
-    "date": "2025-05-16",
-    "time": "6:00PM",
-    "tags": []
-  },
-  {
     "title": "Senior Celebration at Bedford Falls Bar & Grill: Hunter College",
     "link": "https://macaulay.cuny.edu/calendar-of-events/senior-celebration-at-bedford-falls-bar-grill-hunter-college/",
     "college": "Macaulay Honors College",
@@ -2497,22 +2424,6 @@
     "college": "Macaulay Honors College",
     "date": "2025-09-07",
     "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations",
-    "college": "York College",
-    "date": "2025-05-16",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Lavender Graduation Celebration",
-    "link": "https://www.york.cuny.edu/womens-center/calendar-of-events/lavender-graduation-celebration",
-    "college": "York College",
-    "date": "2025-05-16",
-    "time": "7:00 PM - 9:00 PM",
     "tags": []
   },
   {
@@ -2604,60 +2515,12 @@
     "tags": []
   },
   {
-    "title": "CHEMISTRY SEMINAR DAY & POSTER SESSION",
-    "link": "https://www.gc.cuny.edu/events/chemistry-seminar-day-poster-session",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-16",
-    "time": "10:00 am — 5:00 pm",
-    "location": "Entire Concourse Level",
-    "tags": [
-      "Chemistry"
-    ]
-  },
-  {
-    "title": "SEGAL CENTER FILM FESTIVAL 2025",
-    "link": "https://www.gc.cuny.edu/events/segal-center-film-festival-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-16",
-    "time": "",
-    "location": "1218: Segal Theatre",
-    "tags": [
-      "Martin E. Segal Theatre Center"
-    ]
-  },
-  {
-    "title": "MICROBIAL DIVERSITY IN WILD PRIMATES - ABIGAIL E. ASANGBA, NYU",
-    "link": "https://www.gc.cuny.edu/events/microbial-diversity-wild-primates-abigail-e-asangba-nyu",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-16",
-    "time": "4:15 pm",
-    "location": "C415A",
-    "tags": [
-      "Anthropology"
-    ]
-  },
-  {
-    "title": "ECONOMICS PH.D. PROGRAM SPRING OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/economics-phd-program-spring-open-house",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-16",
-    "time": "5:00 pm — 6:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Economics",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "RECITAL: TIFFANY CHANG, VIOLIN",
-    "link": "https://www.gc.cuny.edu/events/recital-tiffany-chang-violin",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-16",
-    "time": "6:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Music"
-    ]
+    "title": "Spring 2025 Degree Conferral date",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/spring-2025-degree-conferral-date",
+    "college": "York College",
+    "date": "2025-06-01",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
   },
   {
     "title": "WORKSHOP: REVISING FOR AN ARTICLE-LENGTH PUBLICATION",
@@ -2702,6 +2565,74 @@
     "tags": [
       "Leon Levy Center for Biography",
       "Humanities and Social Sciences"
+    ]
+  },
+  {
+    "title": "RECITAL: ELZBIETA BILICKA, PIANO",
+    "link": "https://www.gc.cuny.edu/events/recital-elzbieta-bilicka-piano",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-23",
+    "time": "6:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Music"
+    ]
+  },
+  {
+    "title": "SITES + SOUNDS + SCENES: LAUNCHING THREE REMARKABLE ACHIEVEMENTS IN POPULAR MUSIC AND TECHNOLOGY",
+    "link": "https://www.gc.cuny.edu/events/sites-sounds-scenes-launching-three-remarkable-achievements-popular-music-and-technology",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-27",
+    "time": "4:30 pm — 7:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Barry S. Brook Center for Music Research and Documentation"
+    ]
+  },
+  {
+    "title": "CLAIRE HOFFMAN ON AIMEE SEMPLE MCPHERSON, IN CONVERSATION WITH DEBBY APPLEGATE",
+    "link": "https://www.gc.cuny.edu/events/claire-hoffman-aimee-semple-mcpherson-conversation-debby-applegate",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-27",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Leon Levy Center for Biography"
+    ]
+  },
+  {
+    "title": "DRUPAL OPEN SESSION",
+    "link": "https://www.gc.cuny.edu/events/drupal-open-session-may-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-28",
+    "time": "10:00 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "M.A. IN MIDDLE EASTERN STUDIES OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/ma-middle-eastern-studies-open-house",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-30",
+    "time": "6:30 pm — 8:30 pm",
+    "location": "6304B: MEMEAC Student Lounge",
+    "tags": [
+      "Middle Eastern Studies",
+      "Middle East and Middle Eastern American Center",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "COMPUTATIONAL GEOMETRIC ANALYSIS PROBLEM-SOLVING WORKSHOP",
+    "link": "https://www.gc.cuny.edu/events/computational-geometric-analysis-problem-solving-workshop",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-02",
+    "time": "",
+    "location": "TBD",
+    "tags": [
+      "Mathematics"
     ]
   },
   {
@@ -2855,13 +2786,5 @@
     "date": "2025-05-28",
     "time": "01:00 PM - 04:00 PM",
     "description": "Financial Aid Event"
-  },
-  {
-    "title": "Warm Up to Presenting: A Practice Session",
-    "link": "https://www.eventbrite.com/e/warm-up-to-presenting-a-practice-session-tickets-1131154316009?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-05-16",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "<br><br><p>Practice builds familiarity and confidence, and rehearsing a presentation in front of a low-pressure audience is a great way to gauge timing, troubleshoot technology, and make adjustments. This practice session invites all students to sign up to rehearse an in-progress speech or presentation online in front of a small and supportive group of peers and a writing advisor. Your presentation does not need to be polished or complete. <b>*Registration closes at 4:30pm on 5/16*</b></p><b>REGISTRATION LINK: </b><a href=\"https://www.eventbrite.com/e/warm-up-to-presenting-a-practice-session-tickets-1131154316009?aff=oddtdtcreator\">https://www.eventbrite.com/e/warm-up-to-presenting-a-practice-session-tickets-1131154316009?aff=oddtdtcreator</a>"
   }
 ]
