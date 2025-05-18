@@ -510,14 +510,6 @@
     "tags": []
   },
   {
-    "title": "A Musical Adaptation of Shakespeare's Twelfth Night",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/8ba70d2d-621c-4fb7-a657-27b517434c1a",
-    "college": "Kingsborough Community College",
-    "date": "2025-05-17",
-    "time": "06:00 PM - 06:00 PM",
-    "tags": []
-  },
-  {
     "title": "The Watermark at Brooklyn Heights Information Session",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/765c1e92-ef9f-4cc6-868c-c8c2bbe4cf10",
     "college": "Kingsborough Community College",
@@ -548,18 +540,6 @@
     "date": "2025-05-22",
     "time": "03:00 PM - 07:00 PM",
     "tags": []
-  },
-  {
-    "title": "Love and Information",
-    "link": "https://www.laguardia.edu/event/love-and-information/2025-05-17/2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-17",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "student events"
-    ]
   },
   {
     "title": "Love and Information",
@@ -880,6 +860,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-05-28",
     "time": "11:45 AM - 12:45 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-05-28/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-28",
+    "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1717,66 +1708,6 @@
     ]
   },
   {
-    "title": "FAFSA and TAP Completion Event at Kingsborough Community College",
-    "link": "https://events.cuny.edu/cec/fafsa-and-tap-completion-event-at-kingsborough-community-college-december-21st/",
-    "college": "The University",
-    "date": "2025-05-17",
-    "time": "10:00 AM - 2:00 PM",
-    "tags": [
-      "Financial Aid"
-    ]
-  },
-  {
-    "title": "CUNY Spring Citizenship Drive – “Become a Citizen: Opportunities Await”",
-    "link": "https://events.cuny.edu/cec/cuny-spring-citizenship-drive-become-a-citizen-opportunities-await/",
-    "college": "The University",
-    "date": "2025-05-17",
-    "time": "10:00 AM - 1:00 PM",
-    "tags": [
-      "Citizenship Now!"
-    ]
-  },
-  {
-    "title": "FAFSA and TAP Completion Event at John Jay College of Criminal Justice",
-    "link": "https://events.cuny.edu/cec/fafsa-and-tap-completion-event-at-john-jay-college-of-criminal-justice/",
-    "college": "The University",
-    "date": "2025-05-17",
-    "time": "10:15 AM - 3:30 PM",
-    "tags": [
-      "Financial Aid"
-    ]
-  },
-  {
-    "title": "Learn to Ride a Bike at CSI",
-    "link": "https://events.cuny.edu/cec/learn-to-ride-a-bike-at-csi/",
-    "college": "College of Staten Island",
-    "date": "2025-05-17",
-    "time": "11:00 AM - 1:00 PM",
-    "tags": [
-      "Sustainability"
-    ]
-  },
-  {
-    "title": "CSI Bike Swap",
-    "link": "https://events.cuny.edu/cec/csi-bike-swap/",
-    "college": "College of Staten Island",
-    "date": "2025-05-17",
-    "time": "11:00 AM - 3:00 PM",
-    "tags": [
-      "Sustainability"
-    ]
-  },
-  {
-    "title": "Edible Tales: REST by Dancers Unlimited",
-    "link": "https://events.cuny.edu/cec/edible-tales-rest-by-dancers-unlimited/",
-    "college": "The University",
-    "date": "2025-05-17",
-    "time": "2:00 PM",
-    "tags": [
-      "CUNY Dance Initiative"
-    ]
-  },
-  {
     "title": "Inclusive Family Program: Create a Multi-Media Artwork",
     "link": "https://lehman.edu/events/2025/Inclusive-Family-Program-Create-a-Multi-Media-Artwork.php",
     "college": "Lehman College",
@@ -1805,12 +1736,35 @@
     ]
   },
   {
-    "title": "College Now Classes",
-    "link": "https://qc.event.cuny.edu/events/e6g5uKQBgP7O8vgtvqHJ/GNBL1Ia6ofTA9B2Gv3FD4",
-    "college": "Queens College",
-    "date": "2025-05-17",
-    "time": "9:00AM",
-    "tags": []
+    "title": "Schuyler the Therapy Dog Visits the CSI Library",
+    "link": "https://events.cuny.edu/cec/schuyler-the-therapy-dog-visits-the-csi-library-4/",
+    "college": "College of Staten Island",
+    "date": "2025-05-20",
+    "time": "2:30 PM - 3:15 PM",
+    "tags": [
+      "Health and Wellness Services",
+      "Student Life"
+    ]
+  },
+  {
+    "title": "Virtual FAFSA Completion Event",
+    "link": "https://events.cuny.edu/cec/virtual-fafsa-completion-event/",
+    "college": "The University",
+    "date": "2025-05-20",
+    "time": "3:00 PM - 5:00 PM",
+    "tags": [
+      "Financial Aid"
+    ]
+  },
+  {
+    "title": "Learn about MS PowerPoint",
+    "link": "https://events.cuny.edu/cec/learn-about-ms-powerpoint/",
+    "college": "College of Staten Island",
+    "date": "2025-05-20",
+    "time": "3:30 PM - 4:30 PM",
+    "tags": [
+      "Technology Training"
+    ]
   },
   {
     "title": "Autism Program",
@@ -1906,14 +1860,6 @@
     "college": "Queens College",
     "date": "2025-05-19",
     "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "Spring 2025: Final Examinations",
-    "link": "https://baruch.event.cuny.edu/events/rvXXDuNfcN8iG6hiEi5V/fCeNSCT161G9a85VmKdm",
-    "college": "Baruch College",
-    "date": "2025-05-17",
-    "time": "",
     "tags": []
   },
   {
@@ -2022,30 +1968,6 @@
   },
   {
     "title": "Final Examinations",
-    "link": "https://citytech.event.cuny.edu/events/kfmEFhMsyKq6O9mNKbMV/COxUoxJd4sASdgWIde7V",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-17",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "STEP spring 2025 program",
-    "link": "https://citytech.event.cuny.edu/events/SrhNnlfUfZjUy77kVoAg/DZErqUYOu3mQzacerbjX12",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-17",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "College Now: Workshops",
-    "link": "https://citytech.event.cuny.edu/events/FRAF4oDNGNwEgTfmQk25/eqrjaxBhwReYXuGjFBwu14",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-17",
-    "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
     "link": "https://citytech.event.cuny.edu/events/kfmEFhMsyKq6O9mNKbMV/J8Nn477Ar7Z2qM2GOrAH",
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-05-18",
@@ -2109,11 +2031,91 @@
     "tags": []
   },
   {
-    "title": "Spring Carnival",
-    "link": "https://hostos.event.cuny.edu/events/ct7X8vjOZCHx1zNavVQv/xTmamUPBM0CDzmIGem83",
-    "college": "Hostos Community College",
-    "date": "2025-05-17",
+    "title": "ASAP/ACE Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/zVehjO3CNf7tzBsGmF7j19",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-20",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "DNALC NYC Barcoding Symposium",
+    "link": "https://citytech.event.cuny.edu/events/ihwy6IK3YJtYS0Iax8fp/r506tsBNHDpXdBWynkxc",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-20",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Building Mechanicals: Systems and Equipment",
+    "link": "https://citytech.event.cuny.edu/events/XUQ18vQdnwXu1ZLO7vIc/LMeMpmzx1cNg7bcyyStv",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-20",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Law & Paralegal Studies Department Mock Trial",
+    "link": "https://citytech.event.cuny.edu/events/s715ANJaUbgzBHgyxb6X/xWkBvXjCgpvlrmKeSJUo",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-20",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://citytech.event.cuny.edu/events/kfmEFhMsyKq6O9mNKbMV/TYHzJAWUEm3WAvdxvBRP",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-21",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center Classes",
+    "link": "https://citytech.event.cuny.edu/events/sZYQ4MIr3aF64Y7HIzG3/OZLY2qpgVKgC8FqmWONZ3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-21",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/qBHFwQwea5XP20Li1bry/ffcHGrpk3xkheBdjZei520",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-21",
     "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Development Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/ucXGTq5ms8iUBUWPqNlv/sfW6tXhE7tuJXZ1EPX3C",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-21",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "A Better Chance for Success Workshop",
+    "link": "https://citytech.event.cuny.edu/events/v9dz0FDjbOldWVRchln3/ZGGov2pVu4cFOK1jJYjd3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-21",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "End of Spring 2025 term",
+    "link": "https://citytech.event.cuny.edu/events/sXShLEmlk8n9eqjOETo2/WVte7wQpZPfLTupntTl1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-22",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://citytech.event.cuny.edu/events/kfmEFhMsyKq6O9mNKbMV/xv562DPWnzn8sUzhw0Qs",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-22",
+    "time": "",
     "tags": []
   },
   {
@@ -2410,14 +2412,6 @@
     "college": "Macaulay Honors College",
     "date": "2025-09-07",
     "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-1",
-    "college": "York College",
-    "date": "2025-05-17",
-    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
