@@ -260,6 +260,16 @@
     "tags": []
   },
   {
+    "title": "How to Cover Municipal Elections",
+    "link": "https://www.journalism.cuny.edu/events/how-to-cover-municipal-elections/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-05-29",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Center for Community Media"
+    ]
+  },
+  {
     "title": "Community Archives: Preserving & Protecting AAPI History",
     "link": "https://www.journalism.cuny.edu/events/community-archives-preserving-protecting-aapi-history/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -547,28 +557,6 @@
     "college": "LaGuardia Community College",
     "date": "2025-05-19",
     "time": "09:30 AM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "Faculty and Staff"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-05-19/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-19",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "The English Department’s Sabbatical Discussion",
-    "link": "https://www.laguardia.edu/event/the-english-departments-sabbatical-discussion/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-19",
-    "time": "12:00 PM - 01:15 PM",
     "tags": [
       "all calendars",
       "Faculty and Staff"
@@ -870,6 +858,27 @@
     "college": "LaGuardia Community College",
     "date": "2025-05-28",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Faculty and Staff Research, Scholarship, and Creative Works Showcase",
+    "link": "https://www.laguardia.edu/event/faculty-and-staff-research-scholarship-and-creative-works-showcase/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-28",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Phi Theta Kappa Informational Sessions",
+    "link": "https://www.laguardia.edu/event/phi-theta-kappa-informational-sessions/2025-05-28/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-28",
+    "time": "03:30 PM - 04:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1854,11 +1863,11 @@
     "tags": []
   },
   {
-    "title": "NYPD Youth Event",
-    "link": "https://qc.event.cuny.edu/events/uGnQu0BQ1NoumJH1HLw0/vIkcx9k7KA38tfk8Uyys",
+    "title": "Emergency preparedness / Salvage workshops by CCAHA",
+    "link": "https://qc.event.cuny.edu/events/YcwnHTepcb9X9Xf01LVa/z43PcgHyxIBAPacragAI",
     "college": "Queens College",
     "date": "2025-05-20",
-    "time": "8:00AM",
+    "time": "8:30AM",
     "tags": []
   },
   {
@@ -2583,14 +2592,6 @@
     ]
   },
   {
-    "title": "Spring 2025 Fuel Up for Finals",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-19-spring-2025-fuel-up-for-finals.html",
-    "college": "Queensborough Community College",
-    "date": "2025-05-19",
-    "time": "09:00 AM - 11:00 AM",
-    "description": "Special Event / Fair"
-  },
-  {
     "title": "Virtual Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-19-virtual-resume-hour.html",
     "college": "Queensborough Community College",
@@ -2733,5 +2734,13 @@
     "date": "2025-06-02",
     "time": "04:00 PM - 06:00 PM",
     "description": "Admissions Event"
+  },
+  {
+    "title": "Four-Year College Transfer Application Workshop",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-06-03-four-year-college-transfer-application-workshop.html",
+    "college": "Queensborough Community College",
+    "date": "2025-06-03",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "Transfer Resource Center Event"
   }
 ]
