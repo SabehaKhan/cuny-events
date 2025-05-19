@@ -1,13 +1,5 @@
 [
   {
-    "title": "YASS! Mondays",
-    "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-7",
-    "college": "City College of New York",
-    "date": "2025-05-19",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "TIAA - One on One Counseling for CCNY Faculty and Staff",
     "link": "https://www.ccny.cuny.edu/calendar/tiaa-one-one-counseling-ccny-faculty-and-staff-0",
     "college": "City College of New York",
@@ -250,6 +242,30 @@
     "tags": [
       "Dubois-Bunche Center"
     ]
+  },
+  {
+    "title": "Kaplan Midterm",
+    "link": "https://www.law.cuny.edu/event/kaplan-midterm/",
+    "college": "CUNY School of Law",
+    "date": "2025-06-23",
+    "time": "09:15 AM - 04:30 PM",
+    "tags": []
+  },
+  {
+    "title": "MBE Mock Test Day (using PMBR)",
+    "link": "https://www.law.cuny.edu/event/mbe-mock-test-day-using-pmbr/",
+    "college": "CUNY School of Law",
+    "date": "2025-07-09",
+    "time": "09:15 AM - 04:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Bar Game Night",
+    "link": "https://www.law.cuny.edu/event/bar-game-night/",
+    "college": "CUNY School of Law",
+    "date": "2025-07-10",
+    "time": "04:00 PM - 06:00 PM",
+    "tags": []
   },
   {
     "title": "Book Talk: Empire of AI",
@@ -552,40 +568,6 @@
     "tags": []
   },
   {
-    "title": "Brown Bag Series: Mental Health First Aid Training",
-    "link": "https://www.laguardia.edu/event/brown-bag-series-mental-health-first-aid-training/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-19",
-    "time": "09:30 AM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "Faculty and Staff"
-    ]
-  },
-  {
-    "title": "Love and Information",
-    "link": "https://www.laguardia.edu/event/love-and-information/2025-05-19/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-19",
-    "time": "02:30 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "student events"
-    ]
-  },
-  {
-    "title": "Sesiones Informativas en Español",
-    "link": "https://www.laguardia.edu/event/sesiones-informativas-en-espanol-13/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-19",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Admissions Adult Learner Virtual Information Session",
     "link": "https://www.laguardia.edu/event/admissions-adult-learner-virtual-information-session-8/",
     "college": "LaGuardia Community College",
@@ -831,6 +813,17 @@
     ]
   },
   {
+    "title": "Packet Detective: An Introduction to Wireshark - A Hands-on Workshop",
+    "link": "https://www.laguardia.edu/event/packet-detective-an-introduction-to-wireshark-a-hands-on-workshop/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-28",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-60/",
     "college": "LaGuardia Community College",
@@ -879,6 +872,28 @@
     "college": "LaGuardia Community College",
     "date": "2025-05-28",
     "time": "03:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Packet Detective: An Introduction to Wireshark - A Hands-on Workshop",
+    "link": "https://www.laguardia.edu/event/packet-detective-an-introduction-to-wireshark-a-hands-on-workshop/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-28",
+    "time": "03:30 PM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-05-28/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-28",
+    "time": "08:00 PM - 08:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1030,6 +1045,19 @@
     ]
   },
   {
+    "title": "Humanities and Social Sciences Open House",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376357",
+    "college": "Guttman Community College",
+    "date": "2025-05-27",
+    "time": "02:20 PM - 04:40 PM",
+    "tags": [
+      "OAA",
+      "Academic",
+      "Food - Lunch",
+      "Information Session"
+    ]
+  },
+  {
     "title": "Spring Nature-Based Learning Event",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376170",
     "college": "Guttman Community College",
@@ -1077,6 +1105,19 @@
       "Workshop",
       "Financial Aid",
       "FASFA & TAP Applications"
+    ]
+  },
+  {
+    "title": "The HUB Hour",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376358",
+    "college": "Guttman Community College",
+    "date": "2025-05-28",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
     ]
   },
   {
@@ -1146,6 +1187,19 @@
     ]
   },
   {
+    "title": "The HUB Hour",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376359",
+    "college": "Guttman Community College",
+    "date": "2025-05-29",
+    "time": "08:00 PM - 09:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
+    ]
+  },
+  {
     "title": "Guttman Karaoke",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376317",
     "college": "Guttman Community College",
@@ -1186,6 +1240,19 @@
     ]
   },
   {
+    "title": "The HUB Hour",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376360",
+    "college": "Guttman Community College",
+    "date": "2025-06-04",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
+    ]
+  },
+  {
     "title": "Internship Power Hour",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376191",
     "college": "Guttman Community College",
@@ -1197,6 +1264,45 @@
       "Information Session",
       "Discussion",
       "Food - Light Refreshments "
+    ]
+  },
+  {
+    "title": "The HUB Hour",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376361",
+    "college": "Guttman Community College",
+    "date": "2025-06-05",
+    "time": "08:00 PM - 09:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "The HUB Hour",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376362",
+    "college": "Guttman Community College",
+    "date": "2025-06-11",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "The HUB Hour",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376363",
+    "college": "Guttman Community College",
+    "date": "2025-06-12",
+    "time": "08:00 PM - 09:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
     ]
   },
   {
@@ -1433,17 +1539,6 @@
     ]
   },
   {
-    "title": "Healing Through Hip-Hop: Live Performance and Participation",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-live-performance-and-participation-2/2025-05-19/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-19",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Admissions Information Session (Online)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-252/2025-05-19/",
     "college": "Borough of Manhattan Community College",
@@ -1550,6 +1645,17 @@
     "time": "02:30 PM - 05:30 PM",
     "tags": [
       "Admissions"
+    ]
+  },
+  {
+    "title": "Healing Through Hip-Hop: Live Performance and Participation",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-live-performance-and-participation-2/2025-05-21/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-21",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Student Affairs"
     ]
   },
   {
@@ -2159,6 +2265,14 @@
     "tags": []
   },
   {
+    "title": "8th Annual Multi-Campus Alumni Event",
+    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-06-10",
+    "time": "10:00 PM",
+    "tags": []
+  },
+  {
     "title": "Test Flight: Online Learning Simulation",
     "link": "https://sps.cuny.edu/about/events/test-flight-online-learning-simulation",
     "college": "CUNY School of Professional Studies",
@@ -2592,28 +2706,20 @@
     ]
   },
   {
-    "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-19-virtual-resume-hour.html",
+    "title": "The BFSA's Fourth Annual Juneteenth Celebration",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-06-12-the-bfsas-fourth-annual-juneteenth.html",
     "college": "Queensborough Community College",
-    "date": "2025-05-19",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Career Services Event"
+    "date": "2025-06-12",
+    "time": "12:00 PM - 01:30 PM",
+    "description": ""
   },
   {
-    "title": "Spring 2025 Fuel Up for Finals",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-19-spring-2025-fuel-up-for-finals1.html",
+    "title": "Pride Flag Raising",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-22-pride-flag-raising.html",
     "college": "Queensborough Community College",
-    "date": "2025-05-19",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Transfer Night at QCC",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-19-transfer-night-at-qcc.html",
-    "college": "Queensborough Community College",
-    "date": "2025-05-19",
-    "time": "04:00 PM - 06:00 PM",
-    "description": "Admissions Event"
+    "date": "2025-05-22",
+    "time": "04:00 PM - 04:30 PM",
+    "description": ""
   },
   {
     "title": "Spring 2025 Fuel Up for Finals",
@@ -2680,19 +2786,19 @@
     "description": "LGBTQ Event"
   },
   {
-    "title": "Pride Flag Raising",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-22-pride-flag-raising.html",
-    "college": "Queensborough Community College",
-    "date": "2025-05-22",
-    "time": "04:00 PM - 04:30 PM",
-    "description": "LGBTQ Event"
-  },
-  {
     "title": "Sankofa Celebration 2025",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-27-sankofa-celebration-2025.html",
     "college": "Queensborough Community College",
     "date": "2025-05-27",
     "time": "12:00 PM - 02:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "QCC Swap Meet",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-28-qcc-swap-meet.html",
+    "college": "Queensborough Community College",
+    "date": "2025-05-28",
+    "time": "09:00 AM - 05:00 PM",
     "description": "Special Event / Fair"
   },
   {
@@ -2742,5 +2848,21 @@
     "date": "2025-06-03",
     "time": "02:00 PM - 03:00 PM",
     "description": "Transfer Resource Center Event"
+  },
+  {
+    "title": "FAFSA Fest",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-06-04-fafsa-fest.html",
+    "college": "Queensborough Community College",
+    "date": "2025-06-04",
+    "time": "01:00 PM - 04:00 PM",
+    "description": "Financial Aid Event"
+  },
+  {
+    "title": "Virtual Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-06-05-virtual-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-06-05",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "Career Services Event"
   }
 ]
