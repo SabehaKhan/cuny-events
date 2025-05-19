@@ -502,7 +502,7 @@
     "tags": []
   },
   {
-    "title": "A Musical Adaptation of Shakespeare's Twelfth Night",
+    "title": "A Musical Adaptation Shakespeare's Twelfth Night",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/c9492a17-dd83-435d-8977-65f6399cab9e",
     "college": "Kingsborough Community College",
     "date": "2025-05-19",
@@ -743,6 +743,17 @@
     ]
   },
   {
+    "title": "Eating Disorder Awareness",
+    "link": "https://www.laguardia.edu/event/eating-disorder-awareness/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-22",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "CUNY Queens Lavender Graduation",
     "link": "https://www.laguardia.edu/event/cuny-queens-lavender-graduation-2/",
     "college": "LaGuardia Community College",
@@ -862,16 +873,6 @@
     "tags": [
       "all calendars",
       "student events"
-    ]
-  },
-  {
-    "title": "Faculty and Staff Research, Scholarship, and Creative Works Showcase",
-    "link": "https://www.laguardia.edu/event/faculty-and-staff-research-scholarship-and-creative-works-showcase/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-28",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars"
     ]
   },
   {
@@ -2378,6 +2379,94 @@
     "college": "Macaulay Honors College",
     "date": "2025-09-07",
     "time": "11:00 AM - 2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-3",
+    "college": "York College",
+    "date": "2025-05-19",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-4",
+    "college": "York College",
+    "date": "2025-05-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-5",
+    "college": "York College",
+    "date": "2025-05-21",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-6",
+    "college": "York College",
+    "date": "2025-05-22",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "End of Spring 2025 term",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/end-of-spring-2025-term",
+    "college": "York College",
+    "date": "2025-05-22",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "York Big Carnival",
+    "link": "https://www.york.cuny.edu/events/york-big-carnival",
+    "college": "York College",
+    "date": "2025-05-22",
+    "time": "4:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "2025 Senior Ball",
+    "link": "https://www.york.cuny.edu/commencement/2025-senior-ball-masquerade",
+    "college": "York College",
+    "date": "2025-05-23",
+    "time": "12:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "2025 Commencement Ceremony",
+    "link": "https://www.york.cuny.edu/commencement/2025-commencement",
+    "college": "York College",
+    "date": "2025-05-28",
+    "time": "2:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Cardinal Spotlight Commitment Celebration",
+    "link": "https://www.york.cuny.edu/advisement/events/2025-cardinal-spotlight-1",
+    "college": "York College",
+    "date": "2025-05-30",
+    "time": "7:00 PM - 10:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Spring 2025 Degree Conferral date",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/spring-2025-degree-conferral-date",
+    "college": "York College",
+    "date": "2025-06-01",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes for 4-Week 1, 7-Week 1 and 10-Week Summer sessions",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-1-1",
+    "college": "York College",
+    "date": "2025-06-02",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
