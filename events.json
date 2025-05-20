@@ -1,13 +1,5 @@
 [
   {
-    "title": "TIAA - One on One Counseling for CCNY Faculty and Staff",
-    "link": "https://www.ccny.cuny.edu/calendar/tiaa-one-one-counseling-ccny-faculty-and-staff-0",
-    "college": "City College of New York",
-    "date": "2025-05-20",
-    "time": "10:00 AM - 05:00 PM",
-    "tags": []
-  },
-  {
     "title": "Spring 2025 Jazz Recitals: Vasilis Koutsonanos (bass) Graduate Jazz Recital",
     "link": "https://www.ccny.cuny.edu/calendar/spring-2025-jazz-recitals-vasilis-koutsonanos-bass-graduate-jazz-recital",
     "college": "City College of New York",
@@ -1524,17 +1516,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-87/2025-05-20/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-20",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Stop by our FAFSA (Free Application for Federal Student Aid) Information Table",
     "link": "https://www.bmcc.cuny.edu/event/stop-by-our-fafsa-free-application-for-federal-student-aid-information-table-7/2025-05-20/",
     "college": "Borough of Manhattan Community College",
@@ -1543,17 +1524,6 @@
     "tags": [
       "Featured",
       "Financial Aid Office"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-253/2025-05-20/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-20",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
     ]
   },
   {
@@ -1639,6 +1609,17 @@
     "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Admissions"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-87/2025-05-27/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-27",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -1843,6 +1824,16 @@
     "time": "11:30 AM - 12:00 PM",
     "tags": [
       "Technology Training"
+    ]
+  },
+  {
+    "title": "4th Annual City College of New York Lavender Ceremony",
+    "link": "https://events.cuny.edu/cec/4th-annual-city-college-of-new-york-lavender-ceremony/",
+    "college": "The City College of New York",
+    "date": "2025-05-21",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": [
+      "4th Annual City College of New York Lavender Ceremony"
     ]
   },
   {
@@ -2800,5 +2791,13 @@
     "date": "2025-06-07",
     "time": "10:00 AM - 01:00 PM",
     "description": "Admissions Event"
+  },
+  {
+    "title": "Virtual Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-06-09-virtual-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-06-09",
+    "time": "11:00 AM - 12:00 PM",
+    "description": "Career Services Event"
   }
 ]
