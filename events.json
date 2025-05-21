@@ -520,51 +520,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-59/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-21",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Housing in NYC: Past and Present a Student Showcase",
-    "link": "https://www.laguardia.edu/event/housing-in-nyc-past-and-present-a-student-showcase/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-21",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "all calendars",
-      "Faculty and Staff",
-      "student events"
-    ]
-  },
-  {
-    "title": "Tai Chi (In-Person)",
-    "link": "https://www.laguardia.edu/event/tai-chi-in-person-2/2025-05-21/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-21",
-    "time": "11:45 AM - 12:45 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-05-21/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-21",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Allyship and Safety Training for LGBTQIA+ Communities",
     "link": "https://www.laguardia.edu/event/allyship-and-safety-training-for-lgbtqia-communities/",
     "college": "LaGuardia Community College",
@@ -848,6 +803,51 @@
     "time": "10:00 AM - 03:00 PM",
     "tags": [
       "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "KASSET - LPAC Music Lab Residency",
+    "link": "https://www.laguardia.edu/event/kasset-lpac-music-lab-residency/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-30",
+    "time": "07:00 PM - 09:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-06-02/",
+    "college": "LaGuardia Community College",
+    "date": "2025-06-02",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Admissions Adult Learner In-Person Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-adult-learner-in-person-information-session-10/",
+    "college": "LaGuardia Community College",
+    "date": "2025-06-02",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "CUNY EDGE 20 Minute Info Sessions",
+    "link": "https://www.laguardia.edu/event/cuny-edge-20-minute-info-sessions/2025-06-03/",
+    "college": "LaGuardia Community College",
+    "date": "2025-06-03",
+    "time": "10:00 AM - 03:30 PM",
+    "tags": [
       "all calendars",
       "student events"
     ]
@@ -1734,6 +1734,16 @@
     ]
   },
   {
+    "title": "Labor Market Impacts and Long Run Benefits of the ASAP|ACE Model: Research Insights from the Replication Collaborative",
+    "link": "https://events.cuny.edu/cec/labor-market-impacts-and-long-run-benefits-of-the-asapace-model-research-insights-from-the-replication-collaborative/",
+    "college": "The University",
+    "date": "2025-05-22",
+    "time": "12:00 PM - 1:30 PM",
+    "tags": [
+      "CUNY ASAP"
+    ]
+  },
+  {
     "title": "Commencement 2025",
     "link": "https://qc.event.cuny.edu/events/TEitCj4A1khatujs8nqi/jBOC2q2MMsj8ogZ48ejE",
     "college": "Queens College",
@@ -1747,14 +1757,6 @@
     "college": "Queens College",
     "date": "2025-05-21",
     "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Women for Afghan",
-    "link": "https://qc.event.cuny.edu/events/kDYE8uwbVlZ7s7BlqcxF/RdltRdayEPASAtONG3oi",
-    "college": "Queens College",
-    "date": "2025-05-21",
-    "time": "9:00AM",
     "tags": []
   },
   {
@@ -1966,6 +1968,14 @@
     "tags": []
   },
   {
+    "title": "CUNY CIS Datacenter Tour",
+    "link": "https://citytech.event.cuny.edu/events/XRgATB7yqBlSpP01PIhG/sH8S5YBmQOPMwdR0sI7A",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-05-22",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
     "title": "City Tech Spring 2025 Group Tour - SPS/SAS",
     "link": "https://citytech.event.cuny.edu/events/Vt1NvwyHdFhhpAQ7MtKF/Ztaf8c2y07ZvLebMXeiQ",
     "college": "New York City College of Technology (City Tech)",
@@ -2000,14 +2010,6 @@
   {
     "title": "Rad Tech - Pinning Ceremony",
     "link": "https://citytech.event.cuny.edu/events/ylSLhHTGV487V4EjRiM4/ELwI7qlCL07jNI9Xo0C6",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-05-22",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "BMI: Class of 2025 Graduation & Awards Ceremony",
-    "link": "https://citytech.event.cuny.edu/events/OLTAOltAd6pkXSDsrXe3/fLs1l3GC8M24aNHbENMa",
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-05-22",
     "time": "3:00PM",
@@ -2106,6 +2108,14 @@
     "link": "https://sph.cuny.edu/event/information-session-for-mph-and-ms-programs-7/",
     "college": "CUNY School of Public Health",
     "date": "2025-06-12",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Career Skills Workshop: Job Searching for Recent Grads",
+    "link": "https://sph.cuny.edu/event/career-skills-workshop-job-searching-for-recent-grads-2/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-06-24",
     "time": "6:00PM",
     "tags": []
   },
@@ -2294,6 +2304,78 @@
     "tags": []
   },
   {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-5",
+    "college": "York College",
+    "date": "2025-05-21",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-6",
+    "college": "York College",
+    "date": "2025-05-22",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "End of Spring 2025 term",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/end-of-spring-2025-term",
+    "college": "York College",
+    "date": "2025-05-22",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "York Big Carnival",
+    "link": "https://www.york.cuny.edu/events/york-big-carnival",
+    "college": "York College",
+    "date": "2025-05-22",
+    "time": "4:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "2025 Senior Ball",
+    "link": "https://www.york.cuny.edu/commencement/2025-senior-ball-masquerade",
+    "college": "York College",
+    "date": "2025-05-23",
+    "time": "12:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "2025 Commencement Ceremony",
+    "link": "https://www.york.cuny.edu/commencement/2025-commencement",
+    "college": "York College",
+    "date": "2025-05-28",
+    "time": "2:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Cardinal Spotlight Commitment Celebration",
+    "link": "https://www.york.cuny.edu/advisement/events/2025-cardinal-spotlight-1",
+    "college": "York College",
+    "date": "2025-05-30",
+    "time": "7:00 PM - 10:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Spring 2025 Degree Conferral date",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/spring-2025-degree-conferral-date",
+    "college": "York College",
+    "date": "2025-06-01",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes for 4-Week 1, 7-Week 1 and 10-Week Summer sessions",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-1-1",
+    "college": "York College",
+    "date": "2025-06-02",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
     "title": "RECITAL: ELZBIETA BILICKA, PIANO",
     "link": "https://www.gc.cuny.edu/events/recital-elzbieta-bilicka-piano",
     "college": "CUNY Graduate Center",
@@ -2424,14 +2506,6 @@
     "date": "2025-05-22",
     "time": "04:00 PM - 04:30 PM",
     "description": ""
-  },
-  {
-    "title": "FAFSA Fest",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-21-fafsa-fest.html",
-    "college": "Queensborough Community College",
-    "date": "2025-05-21",
-    "time": "01:00 PM - 04:00 PM",
-    "description": "Financial Aid Event"
   },
   {
     "title": "In-Person Walk-In Resume Hour",
@@ -2568,5 +2642,13 @@
     "date": "2025-06-11",
     "time": "04:00 PM - 06:00 PM",
     "description": "Admissions Event"
+  },
+  {
+    "title": "Virtual Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-06-12-virtual-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-06-12",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "Career Services Event"
   }
 ]
