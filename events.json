@@ -785,19 +785,6 @@
     ]
   },
   {
-    "title": "Humanities and Social Sciences Open House",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376357",
-    "college": "Guttman Community College",
-    "date": "2025-05-27",
-    "time": "02:20 PM - 04:40 PM",
-    "tags": [
-      "OAA",
-      "Academic",
-      "Food - Lunch",
-      "Information Session"
-    ]
-  },
-  {
     "title": "Spring Nature-Based Learning Event",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376170",
     "college": "Guttman Community College",
@@ -819,6 +806,19 @@
       "Educational/Awareness",
       "Advising & Transfer Support",
       "Food - Light Refreshments",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "Humanities and Social Sciences Open House",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376357",
+    "college": "Guttman Community College",
+    "date": "2025-05-27",
+    "time": "03:30 PM - 05:00 PM",
+    "tags": [
+      "OAA",
+      "Academic",
+      "Food - Lunch",
       "Information Session"
     ]
   },
@@ -1286,6 +1286,140 @@
     ]
   },
   {
+    "title": "Healing Through Hip-Hop: Live Performance and Participation",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-live-performance-and-participation-2/2025-05-26/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-26",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "CUNY in Tribeca: Applicant Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-in-tribeca-applicant-workshop-5/2025-05-27/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-27",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-87/2025-05-27/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-27",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Healing Rhythms: Drumming Circle",
+    "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle/2025-05-28/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-28",
+    "time": "01:30 PM - 03:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "CUNY in Harlem: Applicant Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-in-harlem-applicant-workshop-12/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-29",
+    "time": "10:00 AM - 03:30 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Lavender Graduation and Pride Month Brunch",
+    "link": "https://www.bmcc.cuny.edu/event/lavender-graduation/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-30",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "Pride Center",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Life Dance/Biodanza Series -- Let's Dance!",
+    "link": "https://www.bmcc.cuny.edu/event/life-dance-biodanza-series-lets-dance-6/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-02",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Counseling Center",
+      "Featured",
+      "Student Affairs",
+      "Theatre",
+      "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "BMCC Commencement 2025",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-commencement-2025/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-04",
+    "time": "09:00 AM - 01:00 PM",
+    "tags": [
+      "Academic Affairs",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Ballroom Culture 101: Voguing Workshop Series with Felix Luar",
+    "link": "https://www.bmcc.cuny.edu/event/ballroom-culture-101-voguing-workshop-series-with-felix-luar/2025-06-06/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-06",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "CUNY in The Heights",
+      "Featured",
+      "Pride Center",
+      "Student Affairs",
+      "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "Active Threats on Campuses: Protective Measures and Response Course (PER-374)",
+    "link": "https://www.bmcc.cuny.edu/event/active-threats-on-campuses-protective-measures-and-response-course-per-374/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-24",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Emergency Preparedness",
+      "Featured",
+      "Public Safety"
+    ]
+  },
+  {
+    "title": "Active Threats on Campuses: Protective Measures and Response course (PER-374)",
+    "link": "https://www.bmcc.cuny.edu/event/active-threats-on-campuses-protective-measures-and-response-course-per-374-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-25",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Emergency Preparedness",
+      "Featured",
+      "Public Safety"
+    ]
+  },
+  {
     "title": "Bronco Reconnect Mixer",
     "link": "https://www.bcc.cuny.edu/event/bronco-reconnect-mixer/",
     "college": "Bronx Community College",
@@ -1328,14 +1462,6 @@
     ]
   },
   {
-    "title": "Healing Through Hip-Hop: Live Performance and Participation",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10004372",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-26",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": []
-  },
-  {
     "title": "Lavender Graduation",
     "link": "https://events.cuny.edu/cec/lavender-graduation-5/",
     "college": "College of Staten Island",
@@ -1352,22 +1478,6 @@
     "college": "Asian American / Asian Research Institute",
     "date": "2025-05-27",
     "time": "5:30 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY in Tribeca: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005245",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-27",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005218",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-27",
-    "time": "11:00 AM - 12:00 PM",
     "tags": []
   },
   {
@@ -1414,14 +1524,6 @@
     "college": "Lehman College",
     "date": "2025-05-28",
     "time": "12:00 PM - 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Healing Rhythms: Drumming Circle",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10002137",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-28",
-    "time": "01:30 PM - 03:00 PM",
     "tags": []
   },
   {
