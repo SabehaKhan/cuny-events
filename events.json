@@ -464,28 +464,6 @@
     "tags": []
   },
   {
-    "title": "CUNY EDGE 20 Minute Info Sessions",
-    "link": "https://www.laguardia.edu/event/cuny-edge-20-minute-info-sessions/2025-05-27/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-27",
-    "time": "10:00 AM - 03:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Paint & Sip",
-    "link": "https://www.laguardia.edu/event/paint-sip/2025-05-27/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-27",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Packet Detective: An Introduction to Wireshark - A Hands-on Workshop",
     "link": "https://www.laguardia.edu/event/packet-detective-an-introduction-to-wireshark-a-hands-on-workshop/",
     "college": "LaGuardia Community College",
@@ -799,6 +777,28 @@
     ]
   },
   {
+    "title": "Sesiones Informativas en Español",
+    "link": "https://www.laguardia.edu/event/sesiones-informativas-en-espanol-14/",
+    "college": "LaGuardia Community College",
+    "date": "2025-06-09",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Admissions Adult Learner Virtual Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-adult-learner-virtual-information-session-9/",
+    "college": "LaGuardia Community College",
+    "date": "2025-06-09",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
     "title": "Spring Nature-Based Learning Event",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376170",
     "college": "Guttman Community College",
@@ -991,6 +991,30 @@
     ]
   },
   {
+    "title": "Spring 1 2025 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376369",
+    "college": "Guttman Community College",
+    "date": "2025-06-02",
+    "time": "01:00 PM - 01:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Spring 1 2025 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376373",
+    "college": "Guttman Community College",
+    "date": "2025-06-03",
+    "time": "12:00 PM - 12:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
     "title": "Women of GRIT & UMOC - End Of the Year Event",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376329",
     "college": "Guttman Community College",
@@ -1019,6 +1043,18 @@
     ]
   },
   {
+    "title": "Spring 1 2025 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376375",
+    "college": "Guttman Community College",
+    "date": "2025-06-04",
+    "time": "12:00 PM - 01:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
     "title": "The HUB Hour",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376360",
     "college": "Guttman Community College",
@@ -1029,6 +1065,18 @@
       "Support Session",
       "Discussion",
       "Information Session"
+    ]
+  },
+  {
+    "title": "Spring 1 2025 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376377",
+    "college": "Guttman Community College",
+    "date": "2025-06-05",
+    "time": "01:00 PM - 12:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
     ]
   },
   {
@@ -1059,6 +1107,54 @@
     ]
   },
   {
+    "title": "Spring 1 2025 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376379",
+    "college": "Guttman Community College",
+    "date": "2025-06-06",
+    "time": "12:00 PM - 10:00 PM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Spring 1 2025 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376370",
+    "college": "Guttman Community College",
+    "date": "2025-06-09",
+    "time": "01:00 PM - 01:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Spring 1 2025 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376374",
+    "college": "Guttman Community College",
+    "date": "2025-06-10",
+    "time": "12:00 PM - 12:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Spring 1 2025 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376376",
+    "college": "Guttman Community College",
+    "date": "2025-06-11",
+    "time": "12:00 PM - 01:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
     "title": "The HUB Hour",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376362",
     "college": "Guttman Community College",
@@ -1072,6 +1168,18 @@
     ]
   },
   {
+    "title": "Spring 1 2025 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376378",
+    "college": "Guttman Community College",
+    "date": "2025-06-12",
+    "time": "01:00 PM - 12:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
     "title": "The HUB Hour",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376363",
     "college": "Guttman Community College",
@@ -1082,6 +1190,30 @@
       "Support Session",
       "Discussion",
       "Information Session"
+    ]
+  },
+  {
+    "title": "Spring 1 2025 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376380",
+    "college": "Guttman Community College",
+    "date": "2025-06-13",
+    "time": "12:00 PM - 10:00 PM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Spring 1 2025 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376371",
+    "college": "Guttman Community College",
+    "date": "2025-06-16",
+    "time": "01:00 PM - 01:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
     ]
   },
   {
@@ -1300,28 +1432,6 @@
     ]
   },
   {
-    "title": "CUNY in Tribeca: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-in-tribeca-applicant-workshop-5/2025-05-27/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-27",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-87/2025-05-27/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-27",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Healing Rhythms: Drumming Circle",
     "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle/2025-05-28/",
     "college": "Borough of Manhattan Community College",
@@ -1351,7 +1461,8 @@
     "date": "2025-05-29",
     "time": "10:00 AM - 03:30 PM",
     "tags": [
-      "Admissions"
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -1457,26 +1568,6 @@
     ]
   },
   {
-    "title": "ALPFA CSI 2025–2026 Executive Board Elections",
-    "link": "https://csi.campuslabs.com/engage/event/11265657",
-    "college": "College of Staten Island",
-    "date": "2025-05-27",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "GroupBusiness"
-    ]
-  },
-  {
-    "title": "Lavender Graduation",
-    "link": "https://csi.campuslabs.com/engage/event/11192434",
-    "college": "College of Staten Island",
-    "date": "2025-05-27",
-    "time": "08:00 PM - 09:00 PM",
-    "tags": [
-      "Social"
-    ]
-  },
-  {
     "title": "Lavender Graduation",
     "link": "https://events.cuny.edu/cec/lavender-graduation-5/",
     "college": "College of Staten Island",
@@ -1548,6 +1639,16 @@
     "date": "2025-05-29",
     "time": "6:00 PM - 8:00 PM",
     "tags": []
+  },
+  {
+    "title": "Photonics Initiative Seminar: Angel Rubio",
+    "link": "https://asrc.gc.cuny.edu/event/photonics-initiative-seminar-angel-rubio/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2025-05-29",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Photonics"
+    ]
   },
   {
     "title": "Humanities Symposium",
@@ -2188,6 +2289,123 @@
     "date": "2025-06-06",
     "time": "4:00 AM - 3:59 AM",
     "tags": []
+  },
+  {
+    "title": "SITES + SOUNDS + SCENES: LAUNCHING THREE REMARKABLE ACHIEVEMENTS IN POPULAR MUSIC AND TECHNOLOGY",
+    "link": "https://www.gc.cuny.edu/events/sites-sounds-scenes-launching-three-remarkable-achievements-popular-music-and-technology",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-27",
+    "time": "4:30 pm — 7:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Barry S. Brook Center for Music Research and Documentation"
+    ]
+  },
+  {
+    "title": "CLAIRE HOFFMAN ON AIMEE SEMPLE MCPHERSON, IN CONVERSATION WITH DEBBY APPLEGATE",
+    "link": "https://www.gc.cuny.edu/events/claire-hoffman-aimee-semple-mcpherson-conversation-debby-applegate",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-27",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Leon Levy Center for Biography"
+    ]
+  },
+  {
+    "title": "DRUPAL OPEN SESSION",
+    "link": "https://www.gc.cuny.edu/events/drupal-open-session-may-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-28",
+    "time": "10:00 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "M.A. IN MIDDLE EASTERN STUDIES OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/ma-middle-eastern-studies-open-house",
+    "college": "CUNY Graduate Center",
+    "date": "2025-05-30",
+    "time": "6:30 pm — 8:30 pm",
+    "location": "6304B: MEMEAC Student Lounge",
+    "tags": [
+      "Middle Eastern Studies",
+      "Middle East and Middle Eastern American Center",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "REVERENCE: BOOTBLACKING AND THE LEGACIES THAT BIND US",
+    "link": "https://www.gc.cuny.edu/events/reverence-bootblacking-and-legacies-bind-us",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-01",
+    "time": "2:00 pm — 4:00 pm",
+    "location": "Non-GC Location (see description for details)",
+    "tags": [
+      "CLAGS: The Center for LGBTQ Studies",
+      "LGBTQ +"
+    ]
+  },
+  {
+    "title": "COMPUTATIONAL GEOMETRIC ANALYSIS PROBLEM-SOLVING WORKSHOP",
+    "link": "https://www.gc.cuny.edu/events/computational-geometric-analysis-problem-solving-workshop",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-02",
+    "time": "",
+    "location": "4102: Science Center",
+    "tags": [
+      "Mathematics"
+    ]
+  },
+  {
+    "title": "ANNUAL JOSÉ MUÑOZ AWARD: ANGELA Y. DAVIS",
+    "link": "https://www.gc.cuny.edu/events/annual-jose-munoz-award-angela-y-davis",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-02",
+    "time": "6:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Public Programs",
+      "CLAGS: The Center for LGBTQ Studies",
+      "GC Presents",
+      "LGBTQ +"
+    ]
+  },
+  {
+    "title": "SYMPOSIUM ON MUSIC, SOUND, AND ANTISEMITISM",
+    "link": "https://www.gc.cuny.edu/events/symposium-music-sound-and-antisemitism",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-03",
+    "time": "",
+    "location": "Online",
+    "tags": [
+      "Barry S. Brook Center for Music Research and Documentation"
+    ]
+  },
+  {
+    "title": "WRITING IN IMPOSSIBLE TIMES: THINKING WITH AND BEYOND THE FIRST BOOK",
+    "link": "https://www.gc.cuny.edu/events/writing-impossible-times-thinking-and-beyond-first-book",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-03",
+    "time": "6:30 pm",
+    "location": "Online",
+    "tags": [
+      "Intellectual Publics"
+    ]
+  },
+  {
+    "title": "CLAGS X MOMA PRESENT: PRIDE WRITING CLUB WITH ALEXANDRA JUHASZ",
+    "link": "https://www.gc.cuny.edu/events/clags-x-moma-present-pride-writing-club-alexandra-juhasz-june4-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-04",
+    "time": "7:00 pm — 8:30 pm",
+    "location": "Non-GC Location (see description for details)",
+    "tags": [
+      "CLAGS: The Center for LGBTQ Studies",
+      "LGBTQ +"
+    ]
   },
   {
     "title": "The BFSA's Fourth Annual Juneteenth Celebration",
