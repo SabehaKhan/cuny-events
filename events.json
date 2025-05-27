@@ -1,5 +1,13 @@
 [
   {
+    "title": "CUNY at Staten Island Pride",
+    "link": "https://www.ccny.cuny.edu/calendar/cuny-staten-island-pride",
+    "college": "City College of New York",
+    "date": "2025-05-31",
+    "time": "12:00 PM - 05:30 PM",
+    "tags": []
+  },
+  {
     "title": "CUNY Marches at Queens Pride",
     "link": "https://www.ccny.cuny.edu/calendar/march-cuny-queens-pride",
     "college": "City College of New York",
@@ -56,11 +64,27 @@
     "tags": []
   },
   {
+    "title": "CUNY at Bronx Pride",
+    "link": "https://www.ccny.cuny.edu/calendar/cuny-bronx-pride",
+    "college": "City College of New York",
+    "date": "2025-06-21",
+    "time": "12:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
     "title": "Classes follow a Thursday schedule",
     "link": "https://www.ccny.cuny.edu/calendar/classes-follow-thursday-schedule",
     "college": "City College of New York",
     "date": "2025-06-23",
     "time": "12:00 AM - 11:59 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY at Harlem Pride",
+    "link": "https://www.ccny.cuny.edu/calendar/cuny-harlem-pride",
+    "college": "City College of New York",
+    "date": "2025-06-24",
+    "time": "12:00 PM - 06:00 PM",
     "tags": []
   },
   {
@@ -238,6 +262,14 @@
     "tags": [
       "Center for Community Media"
     ]
+  },
+  {
+    "title": "Protecting Older New Yorkers from the Trump Administration’s Federal Funding Cuts, Thursday, June 5, 6 p.m.",
+    "link": "https://www.journalism.cuny.edu/events/protecting-older-new-yorkers-from-the-trump-administrations-federal-funding-cuts-thursday-june-5-6-p-m/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-06-05",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": []
   },
   {
     "title": "Columbus Day",
@@ -542,6 +574,19 @@
     ]
   },
   {
+    "title": "Tech Automation Gathering",
+    "link": "https://www.laguardia.edu/event/tech-automation-gathering/",
+    "college": "LaGuardia Community College",
+    "date": "2025-05-28",
+    "time": "06:00 PM - 09:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Faculty and Staff",
+      "student events"
+    ]
+  },
+  {
     "title": "Mindfulness Meditation Wednesdays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-05-28/",
     "college": "LaGuardia Community College",
@@ -709,6 +754,17 @@
     ]
   },
   {
+    "title": "Author Series: Alejandro Heredia",
+    "link": "https://www.laguardia.edu/event/author-series-alejandro-heredia/",
+    "college": "LaGuardia Community College",
+    "date": "2025-06-06",
+    "time": "10:00 AM - 12:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-06-06/",
     "college": "LaGuardia Community College",
@@ -732,17 +788,6 @@
     ]
   },
   {
-    "title": "Author Series: Alejandro Heredia",
-    "link": "https://www.laguardia.edu/event/author-series-alejandro-heredia/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-06",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-06-09/",
     "college": "LaGuardia Community College",
@@ -751,17 +796,6 @@
     "tags": [
       "all calendars",
       "student events"
-    ]
-  },
-  {
-    "title": "Sesiones Informativas en Español",
-    "link": "https://www.laguardia.edu/event/sesiones-informativas-en-espanol-14/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-09",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
     ]
   },
   {
@@ -2084,121 +2118,76 @@
     "tags": []
   },
   {
-    "title": "SITES + SOUNDS + SCENES: LAUNCHING THREE REMARKABLE ACHIEVEMENTS IN POPULAR MUSIC AND TECHNOLOGY",
-    "link": "https://www.gc.cuny.edu/events/sites-sounds-scenes-launching-three-remarkable-achievements-popular-music-and-technology",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-27",
-    "time": "4:30 pm — 7:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Barry S. Brook Center for Music Research and Documentation"
-    ]
-  },
-  {
-    "title": "CLAIRE HOFFMAN ON AIMEE SEMPLE MCPHERSON, IN CONVERSATION WITH DEBBY APPLEGATE",
-    "link": "https://www.gc.cuny.edu/events/claire-hoffman-aimee-semple-mcpherson-conversation-debby-applegate",
-    "college": "CUNY Graduate Center",
-    "date": "2025-05-27",
-    "time": "6:30 pm — 8:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Leon Levy Center for Biography"
-    ]
-  },
-  {
-    "title": "DRUPAL OPEN SESSION",
-    "link": "https://www.gc.cuny.edu/events/drupal-open-session-may-2025",
-    "college": "CUNY Graduate Center",
+    "title": "2025 Commencement Ceremony",
+    "link": "https://www.york.cuny.edu/commencement/2025-commencement",
+    "college": "York College",
     "date": "2025-05-28",
-    "time": "10:00 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
+    "time": "2:30 PM - 6:00 PM",
+    "tags": []
   },
   {
-    "title": "M.A. IN MIDDLE EASTERN STUDIES OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/ma-middle-eastern-studies-open-house",
-    "college": "CUNY Graduate Center",
+    "title": "Cardinal Spotlight Commitment Celebration",
+    "link": "https://www.york.cuny.edu/advisement/events/2025-cardinal-spotlight-1",
+    "college": "York College",
     "date": "2025-05-30",
-    "time": "6:30 pm — 8:30 pm",
-    "location": "6304B: MEMEAC Student Lounge",
-    "tags": [
-      "Middle Eastern Studies",
-      "Middle East and Middle Eastern American Center",
-      "Admissions"
-    ]
+    "time": "7:00 PM - 10:30 PM",
+    "tags": []
   },
   {
-    "title": "REVERENCE: BOOTBLACKING AND THE LEGACIES THAT BIND US",
-    "link": "https://www.gc.cuny.edu/events/reverence-bootblacking-and-legacies-bind-us",
-    "college": "CUNY Graduate Center",
+    "title": "Spring 2025 Degree Conferral date",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/spring-2025-degree-conferral-date",
+    "college": "York College",
     "date": "2025-06-01",
-    "time": "2:00 pm — 4:00 pm",
-    "location": "Non-GC Location (see description for details)",
-    "tags": [
-      "CLAGS: The Center for LGBTQ Studies",
-      "LGBTQ +"
-    ]
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
   },
   {
-    "title": "COMPUTATIONAL GEOMETRIC ANALYSIS PROBLEM-SOLVING WORKSHOP",
-    "link": "https://www.gc.cuny.edu/events/computational-geometric-analysis-problem-solving-workshop",
-    "college": "CUNY Graduate Center",
+    "title": "First day of classes for 4-Week 1, 7-Week 1 and 10-Week Summer sessions",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-1-1",
+    "college": "York College",
     "date": "2025-06-02",
-    "time": "",
-    "location": "TBD",
-    "tags": [
-      "Mathematics"
-    ]
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
   },
   {
-    "title": "ANNUAL JOSÉ MUÑOZ AWARD: ANGELA Y. DAVIS",
-    "link": "https://www.gc.cuny.edu/events/annual-jose-munoz-award-angela-y-davis",
-    "college": "CUNY Graduate Center",
-    "date": "2025-06-02",
-    "time": "6:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Public Programs",
-      "CLAGS: The Center for LGBTQ Studies",
-      "GC Presents",
-      "LGBTQ +"
-    ]
-  },
-  {
-    "title": "SYMPOSIUM ON MUSIC, SOUND, AND ANTISEMITISM",
-    "link": "https://www.gc.cuny.edu/events/symposium-music-sound-and-antisemitism",
-    "college": "CUNY Graduate Center",
+    "title": "Verification of Enrollment Rosters available to faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-4",
+    "college": "York College",
     "date": "2025-06-03",
-    "time": "",
-    "location": "Online",
-    "tags": [
-      "Barry S. Brook Center for Music Research and Documentation"
-    ]
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
   },
   {
-    "title": "WRITING IN IMPOSSIBLE TIMES: THINKING WITH AND BEYOND THE FIRST BOOK",
-    "link": "https://www.gc.cuny.edu/events/writing-impossible-times-thinking-and-beyond-first-book",
-    "college": "CUNY Graduate Center",
-    "date": "2025-06-03",
-    "time": "6:30 pm",
-    "location": "Online",
-    "tags": [
-      "Intellectual Publics"
-    ]
-  },
-  {
-    "title": "CLAGS X MOMA PRESENT: PRIDE WRITING CLUB WITH ALEXANDRA JUHASZ",
-    "link": "https://www.gc.cuny.edu/events/clags-x-moma-present-pride-writing-club-alexandra-juhasz",
-    "college": "CUNY Graduate Center",
+    "title": "National Business Aviation Association 2025",
+    "link": "https://www.york.cuny.edu/events/national-business-aviation-association",
+    "college": "York College",
     "date": "2025-06-04",
-    "time": "",
-    "location": "Non-GC Location (see description for details)",
-    "tags": [
-      "CLAGS: The Center for LGBTQ Studies",
-      "LGBTQ +"
-    ]
+    "time": "1:00 PM - 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment Rosters available to faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-5",
+    "college": "York College",
+    "date": "2025-06-05",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment Rosters due from faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-4",
+    "college": "York College",
+    "date": "2025-06-06",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment Rosters available to faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-6",
+    "college": "York College",
+    "date": "2025-06-06",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
   },
   {
     "title": "The BFSA's Fourth Annual Juneteenth Celebration",
@@ -2207,14 +2196,6 @@
     "date": "2025-06-12",
     "time": "12:00 PM - 01:30 PM",
     "description": ""
-  },
-  {
-    "title": "Sankofa Celebration 2025",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-27-sankofa-celebration-2025.html",
-    "college": "Queensborough Community College",
-    "date": "2025-05-27",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Special Event / Fair"
   },
   {
     "title": "QCC Swap Meet",
@@ -2359,5 +2340,13 @@
     "date": "2025-07-07",
     "time": "11:00 AM - 12:00 PM",
     "description": "Career Services Event"
+  },
+  {
+    "title": "Transfer Night at QCC",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-09-transfer-night-at-qcc.html",
+    "college": "Queensborough Community College",
+    "date": "2025-07-09",
+    "time": "04:00 PM - 06:00 PM",
+    "description": "Admissions Event"
   }
 ]
