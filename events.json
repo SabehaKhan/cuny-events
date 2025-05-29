@@ -244,16 +244,6 @@
     "tags": []
   },
   {
-    "title": "How to Cover Municipal Elections",
-    "link": "https://www.journalism.cuny.edu/events/how-to-cover-municipal-elections/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2025-05-29",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Center for Community Media"
-    ]
-  },
-  {
     "title": "Community Archives: Preserving & Protecting AAPI History",
     "link": "https://www.journalism.cuny.edu/events/community-archives-preserving-protecting-aapi-history/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -2278,14 +2268,6 @@
   },
   {
     "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-05-29-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-05-29",
-    "time": "03:00 PM - 04:00 PM",
-    "description": "Career Services Event"
-  },
-  {
-    "title": "Virtual Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-06-02-virtual-resume-hour.html",
     "college": "Queensborough Community College",
     "date": "2025-06-02",
@@ -2427,5 +2409,13 @@
     "date": "2025-07-16",
     "time": "04:00 PM - 06:00 PM",
     "description": "Admissions Event"
+  },
+  {
+    "title": "Virtual Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-17-virtual-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-07-17",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "Career Services Event"
   }
 ]
