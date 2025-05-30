@@ -184,16 +184,6 @@
     "tags": []
   },
   {
-    "title": "Commencement 2025",
-    "link": "https://www.mec.cuny.edu/event/commencement-2025/",
-    "college": "Medgar Evers College",
-    "date": "2025-05-30",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "Student Life"
-    ]
-  },
-  {
     "title": "Outdoor Housing Resource Fair",
     "link": "https://www.mec.cuny.edu/event/outdoor-housing-resource-fair/",
     "college": "Medgar Evers College",
@@ -396,18 +386,6 @@
     "date": "2025-06-10",
     "time": "12:30 PM - 12:30 PM",
     "tags": []
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-05-30/",
-    "college": "LaGuardia Community College",
-    "date": "2025-05-30",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
   },
   {
     "title": "KASSET - LPAC Music Lab Residency",
@@ -730,6 +708,17 @@
     "tags": [
       "all calendars",
       "student events"
+    ]
+  },
+  {
+    "title": "Sesiones Informativas en Español",
+    "link": "https://www.laguardia.edu/event/sesiones-informativas-en-espanol-15/",
+    "college": "LaGuardia Community College",
+    "date": "2025-06-16",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
     ]
   },
   {
@@ -1218,19 +1207,6 @@
     ]
   },
   {
-    "title": "Lavender Graduation and Pride Month Brunch",
-    "link": "https://www.bmcc.cuny.edu/event/lavender-graduation/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-05-30",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "Featured",
-      "Pride Center",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Life Dance/Biodanza Series -- Let's Dance!",
     "link": "https://www.bmcc.cuny.edu/event/life-dance-biodanza-series-lets-dance-6/",
     "college": "Borough of Manhattan Community College",
@@ -1266,6 +1242,17 @@
       "Academic Affairs",
       "Featured",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "Shirley Fiterman Art Center Opening: Susan Weil: About Time",
+    "link": "https://www.bmcc.cuny.edu/event/shirley-fiterman-art-center-susan-weil-about-time-opening/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-05",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": [
+      "Featured",
+      "Shirley Fiterman Art Center"
     ]
   },
   {
@@ -1332,6 +1319,14 @@
     "college": "LaGuardia Community College",
     "date": "2025-05-30",
     "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Lavender Graduation and Pride Month Brunch",
+    "link": "https://www.bmcc.cuny.edu/event/?p=653446",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-05-30",
+    "time": "11:00 AM - 01:00 PM",
     "tags": []
   },
   {
@@ -1850,7 +1845,7 @@
   },
   {
     "title": "Mindfulness and Contemplative Studies Adv. Cert. Information Session",
-    "link": "https://www.lehman.edu/events/2025/Mindfulness-and-Contemplative-Studies-Adv-Cert-Information-Session-2.php",
+    "link": "https://www.lehman.edu/events/2025/Mindfulness-and-Contemplative-Studies-Adv-Cert-Information-Session-1.php",
     "college": "Lehman College",
     "date": "2025-06-05",
     "time": "6:00 PM- 7:00 PM",
