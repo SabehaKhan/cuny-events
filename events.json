@@ -1,13 +1,5 @@
 [
   {
-    "title": "CUNY at Staten Island Pride",
-    "link": "https://www.ccny.cuny.edu/calendar/cuny-staten-island-pride",
-    "college": "City College of New York",
-    "date": "2025-05-31",
-    "time": "12:00 PM - 05:30 PM",
-    "tags": []
-  },
-  {
     "title": "CUNY Marches at Queens Pride",
     "link": "https://www.ccny.cuny.edu/calendar/march-cuny-queens-pride",
     "college": "City College of New York",
@@ -1213,17 +1205,6 @@
     ]
   },
   {
-    "title": "Healing Through Hip-Hop: Live Performance and Participation",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-live-performance-and-participation-2/2025-06-02/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-02",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "BMCC Commencement 2025",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-commencement-2025/",
     "college": "Borough of Manhattan Community College",
@@ -1233,17 +1214,6 @@
       "Academic Affairs",
       "Featured",
       "Student Affairs"
-    ]
-  },
-  {
-    "title": "Shirley Fiterman Art Center Opening: Susan Weil: About Time",
-    "link": "https://www.bmcc.cuny.edu/event/shirley-fiterman-art-center-susan-weil-about-time-opening/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-05",
-    "time": "05:00 PM - 07:00 PM",
-    "tags": [
-      "Featured",
-      "Shirley Fiterman Art Center"
     ]
   },
   {
@@ -1281,6 +1251,7 @@
     "time": "08:00 AM - 05:00 PM",
     "tags": [
       "Emergency Preparedness",
+      "Featured",
       "Public Safety"
     ]
   },
@@ -1332,6 +1303,14 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-06-02",
     "time": "02:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Healing Through Hip-Hop: Live Performance and Participation",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10004374",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-02",
+    "time": "03:00 PM - 05:00 PM",
     "tags": []
   },
   {
