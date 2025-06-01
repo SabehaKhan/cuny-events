@@ -1886,14 +1886,6 @@
     "tags": []
   },
   {
-    "title": "Welcome to the Alumni Network",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/welcome-to-the-alumni-network/",
-    "college": "Macaulay Honors College",
-    "date": "2025-06-01",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
     "title": "Class of 2025 Commencement",
     "link": "https://macaulay.cuny.edu/calendar-of-events/commencement-calendar-listing/",
     "college": "Macaulay Honors College",
@@ -1963,6 +1955,14 @@
     "college": "Macaulay Honors College",
     "date": "2025-06-26",
     "time": "7:00PM",
+    "tags": []
+  },
+  {
+    "title": "Class of 2005 20th Reunion",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/class-of-2005-20th-reunion/",
+    "college": "Macaulay Honors College",
+    "date": "2025-09-07",
+    "time": "11:00 AM - 2:00PM",
     "tags": []
   },
   {
