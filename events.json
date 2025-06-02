@@ -1,13 +1,5 @@
 [
   {
-    "title": "CUNY Marches at Queens Pride",
-    "link": "https://www.ccny.cuny.edu/calendar/march-cuny-queens-pride",
-    "college": "City College of New York",
-    "date": "2025-06-01",
-    "time": "12:00 PM - 06:00 PM",
-    "tags": []
-  },
-  {
     "title": "Start of Summer Extended Session",
     "link": "https://www.ccny.cuny.edu/calendar/start-summer-extended-session-0",
     "college": "City College of New York",
@@ -1334,16 +1326,6 @@
     ]
   },
   {
-    "title": "CUNY Marches at Queens Pride",
-    "link": "https://events.cuny.edu/cec/cuny-marches-at-queens-pride/",
-    "college": "The City College of New York",
-    "date": "2025-06-01",
-    "time": "12:00 PM - 6:00 PM",
-    "tags": [
-      "LGBTQI+"
-    ]
-  },
-  {
     "title": "Life Dance/Biodanza Series - Let’s Dance!",
     "link": "https://www.bmcc.cuny.edu/event/?p=654862",
     "college": "Borough of Manhattan Community College",
@@ -1404,6 +1386,16 @@
     "date": "2025-06-05",
     "time": "1:00 PM - 8:00 PM",
     "tags": []
+  },
+  {
+    "title": "CCNY CWE Admissions Workshop | Online | at CCNY CWE (25 Broadway)",
+    "link": "https://events.cuny.edu/cec/ccny-cwe-admissions-workshop-online-at-ccny-cwe-25-broadway-4/",
+    "college": "The City College of New York",
+    "date": "2025-06-05",
+    "time": "6:00 PM - 6:45 PM",
+    "tags": [
+      "CWE"
+    ]
   },
   {
     "title": "ITS Upgrade Project",
@@ -1510,14 +1502,6 @@
     "tags": []
   },
   {
-    "title": "Spring 2025 Degree Conferral Date",
-    "link": "https://baruch.event.cuny.edu/events/DJKAm1hw5NIaZ9X6lXLp/iIfHJDn0uXFConW54ZLk",
-    "college": "Baruch College",
-    "date": "2025-06-01",
-    "time": "",
-    "tags": []
-  },
-  {
     "title": "Visible Communication: Works from the Baruch College Art Collection",
     "link": "https://baruch.event.cuny.edu/events/eFmyf5kE5Qrerzdr7IFD/wY0pjUe5AxtnjvGV2n9i46",
     "college": "Baruch College",
@@ -1555,14 +1539,6 @@
     "college": "Baruch College",
     "date": "2025-06-06",
     "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Ifetayo HOLD",
-    "link": "https://citytech.event.cuny.edu/events/sR6fLpIK9d2zBNjvotbO/ahKf9MPnArVHiEjlpmZc",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-01",
-    "time": "",
     "tags": []
   },
   {
@@ -1715,6 +1691,14 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-06-07",
     "time": "10:30AM",
+    "tags": []
+  },
+  {
+    "title": "A Better Chance for Success Workshop",
+    "link": "https://citytech.event.cuny.edu/events/KpYpHBodtVGSMVKEANl3/HGJOF97FZJIMjxwGvbol16",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-09",
+    "time": "9:30AM",
     "tags": []
   },
   {
@@ -1966,14 +1950,6 @@
     "tags": []
   },
   {
-    "title": "Spring 2025 Degree Conferral date",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/spring-2025-degree-conferral-date",
-    "college": "York College",
-    "date": "2025-06-01",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
     "title": "First day of classes for 4-Week 1, 7-Week 1 and 10-Week Summer sessions",
     "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-1-1",
     "college": "York College",
@@ -2022,16 +1998,12 @@
     "tags": []
   },
   {
-    "title": "REVERENCE: BOOTBLACKING AND THE LEGACIES THAT BIND US",
-    "link": "https://www.gc.cuny.edu/events/reverence-bootblacking-and-legacies-bind-us",
-    "college": "CUNY Graduate Center",
-    "date": "2025-06-01",
-    "time": "2:00 pm — 4:00 pm",
-    "location": "Non-GC Location (see description for details)",
-    "tags": [
-      "CLAGS: The Center for LGBTQ Studies",
-      "LGBTQ +"
-    ]
+    "title": "Verification of Enrollment Rosters due from faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-5",
+    "college": "York College",
+    "date": "2025-06-11",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
   },
   {
     "title": "COMPUTATIONAL GEOMETRIC ANALYSIS PROBLEM-SOLVING WORKSHOP",
@@ -2136,6 +2108,18 @@
     "location": "Online",
     "tags": [
       "Career Planning and Professional Development"
+    ]
+  },
+  {
+    "title": "EDUCATIONAL PSYCHOLOGY OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/educational-psychology-open-house-june12-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-12",
+    "time": "5:30 pm",
+    "location": "Online",
+    "tags": [
+      "Educational Psychology",
+      "Admissions"
     ]
   },
   {
