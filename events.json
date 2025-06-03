@@ -340,17 +340,6 @@
     "tags": []
   },
   {
-    "title": "CUNY EDGE 20 Minute Info Sessions",
-    "link": "https://www.laguardia.edu/event/cuny-edge-20-minute-info-sessions/2025-06-03/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-03",
-    "time": "10:00 AM - 03:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-61/",
     "college": "LaGuardia Community College",
@@ -674,6 +663,17 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-06-18/",
+    "college": "LaGuardia Community College",
+    "date": "2025-06-18",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Spring 1 2025 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376373",
     "college": "Guttman Community College",
@@ -890,6 +890,18 @@
       "Social",
       "Student Life",
       "SGA"
+    ]
+  },
+  {
+    "title": "Fresh Grocery Pick Up",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376389",
+    "college": "Guttman Community College",
+    "date": "2025-06-11",
+    "time": "04:00 PM - 09:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Connect Center"
     ]
   },
   {
@@ -1506,16 +1518,6 @@
     ]
   },
   {
-    "title": "Neuroscience Spring 2025 Seminar Series: “The neural circuits underlying overgeneralization.”",
-    "link": "https://asrc.gc.cuny.edu/event/neuroscience-spring-2025-seminar-series-the-neural-circuits-underlying-overgeneralization/",
-    "college": "Advanced Science Research Center, GC/CUNY",
-    "date": "2025-06-05",
-    "time": "12:00 PM - 1:00 PM",
-    "tags": [
-      "Neuroscience"
-    ]
-  },
-  {
     "title": "ITS Upgrade Project",
     "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/lkr1CL9XMA9uGIfycXWd2",
     "college": "Queens College",
@@ -1569,6 +1571,14 @@
     "college": "Queens College",
     "date": "2025-06-04",
     "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Set Up for Provost Office: Summer Plunge",
+    "link": "https://qc.event.cuny.edu/events/RqxQXDkrfnlQTZwU44MC/B5iFCZq48sW1PfdPVtIj",
+    "college": "Queens College",
+    "date": "2025-06-04",
+    "time": "3:00PM",
     "tags": []
   },
   {
@@ -1852,16 +1862,16 @@
     "tags": []
   },
   {
-    "title": "Online Information Session: Jump Start Application",
-    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
+    "title": "8th Annual Multi-Campus Alumni Event",
+    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-10",
     "time": "10:00 PM",
     "tags": []
   },
   {
-    "title": "8th Annual Multi-Campus Alumni Event",
-    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
+    "title": "Online Information Session: Jump Start Application",
+    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-10",
     "time": "10:00 PM",
