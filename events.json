@@ -236,22 +236,6 @@
     "tags": []
   },
   {
-    "title": "Internship Orientation Workshops",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/59e86436-2888-4b57-80e2-25c408311b57",
-    "college": "Kingsborough Community College",
-    "date": "2025-06-02",
-    "time": "02:20 PM - 02:20 PM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Evening Hours Career Development",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/71196ebd-8a3f-4be4-b326-487010770e33",
-    "college": "Kingsborough Community College",
-    "date": "2025-06-02",
-    "time": "08:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Fall 2025 CUNY Transfer Application Workshop",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/aafd9eee-7ad5-421e-b0d4-2c35b1d15ce6",
     "college": "Kingsborough Community College",
@@ -346,17 +330,6 @@
     "date": "2025-06-10",
     "time": "12:30 PM - 12:30 PM",
     "tags": []
-  },
-  {
-    "title": "Admissions Adult Learner In-Person Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-adult-learner-in-person-information-session-10/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-02",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
   },
   {
     "title": "CUNY EDGE 20 Minute Info Sessions",
@@ -682,15 +655,14 @@
     ]
   },
   {
-    "title": "Spring 1 2025 Study-a-Thon",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376369",
-    "college": "Guttman Community College",
-    "date": "2025-06-02",
-    "time": "01:00 PM - 01:00 AM",
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-63/",
+    "college": "LaGuardia Community College",
+    "date": "2025-06-18",
+    "time": "11:00 AM - 12:00 PM",
     "tags": [
-      "ASC",
-      "Academic",
-      "Tutoring"
+      "admissions",
+      "all calendars"
     ]
   },
   {
@@ -1414,38 +1386,6 @@
   },
   {
     "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/lkr1CL9XMA9uGIfycXWd1",
-    "college": "Queens College",
-    "date": "2025-06-02",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "SU25 Rooms Holding for Programs",
-    "link": "https://qc.event.cuny.edu/events/Etjt0LCWyzOh9ZcmDtCP/x6y8Bew4YBJ2YfkUd4Vq1",
-    "college": "Queens College",
-    "date": "2025-06-02",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "QSI Program Summer 2025",
-    "link": "https://qc.event.cuny.edu/events/VNRcYTKQWedK7jMRxfPy/RywN820t4LAGbyYRNd3W5",
-    "college": "Queens College",
-    "date": "2025-06-02",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers",
-    "link": "https://qc.event.cuny.edu/events/r3eBJWA5bCAZhBNGCMmp/IrveWVC1qexgf5YxXiUu",
-    "college": "Queens College",
-    "date": "2025-06-02",
-    "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "ITS Upgrade Project",
     "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/lkr1CL9XMA9uGIfycXWd2",
     "college": "Queens College",
     "date": "2025-06-03",
@@ -1517,11 +1457,43 @@
     "tags": []
   },
   {
-    "title": "Visible Communication: Works from the Baruch College Art Collection",
-    "link": "https://baruch.event.cuny.edu/events/eFmyf5kE5Qrerzdr7IFD/wY0pjUe5AxtnjvGV2n9i46",
-    "college": "Baruch College",
-    "date": "2025-06-02",
-    "time": "11:00AM",
+    "title": "Implementing Brightspace + Universal Design for Learning Reunion Faculty Workshop",
+    "link": "https://qc.event.cuny.edu/events/dI8P7A3eJHUEkxFceECO/BN2zft6TzWSFBI4modzd",
+    "college": "Queens College",
+    "date": "2025-06-05",
+    "time": "5:00AM",
+    "tags": []
+  },
+  {
+    "title": "Provost Office: Summer Plunge",
+    "link": "https://qc.event.cuny.edu/events/puGsrZWBPP77HvG9xdcn/DPIsaSJBJbXp4Fq3AF21",
+    "college": "Queens College",
+    "date": "2025-06-05",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "QSI Program Summer 2025",
+    "link": "https://qc.event.cuny.edu/events/VNRcYTKQWedK7jMRxfPy/RywN820t4LAGbyYRNd3W8",
+    "college": "Queens College",
+    "date": "2025-06-05",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Central Workshop",
+    "link": "https://qc.event.cuny.edu/events/hQTUS1EMVa4bnM9DEyJm/Z4VkK3vQ2Pss7jXhFivB",
+    "college": "Queens College",
+    "date": "2025-06-05",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "OSDL LGBTQI+: Spring 2025 Events",
+    "link": "https://qc.event.cuny.edu/events/mKydvpdiWYc5vHpBPH0M/tBl5d0AlL4Lj1XaalKaD",
+    "college": "Queens College",
+    "date": "2025-06-05",
+    "time": "8:00AM",
     "tags": []
   },
   {
@@ -1554,22 +1526,6 @@
     "college": "Baruch College",
     "date": "2025-06-06",
     "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "A Better Chance for Success Workshop",
-    "link": "https://citytech.event.cuny.edu/events/KpYpHBodtVGSMVKEANl3/HGJOF97FZJIMjxwGvbol15",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-02",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "Math Department",
-    "link": "https://citytech.event.cuny.edu/events/D4nqRBSXnYjfQPxHLNFs/BNzCniPzZDNs00EeAdSS1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-02",
-    "time": "3:00PM",
     "tags": []
   },
   {
@@ -1714,6 +1670,30 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-06-09",
     "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "A Better Chance for Success Workshop",
+    "link": "https://citytech.event.cuny.edu/events/KpYpHBodtVGSMVKEANl3/HGJOF97FZJIMjxwGvbol16",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-09",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "NYC Teaching Fellows Welcome Event",
+    "link": "https://citytech.event.cuny.edu/events/xqFrTyzajHSlMwhCbjWf/GJV1n30ydxwkXYW1RHJL",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-09",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Dominicanos USA (DUSA) Information Table",
+    "link": "https://hostos.event.cuny.edu/events/BlxJG0B1lPna7APVlvJe/oSx9tfwqfR5LprQpDeEh",
+    "college": "Hostos Community College",
+    "date": "2025-06-10",
+    "time": "10:00AM",
     "tags": []
   },
   {
@@ -1949,30 +1929,6 @@
     "tags": []
   },
   {
-    "title": "New Student Virtual Summer Engagement Opportunities: Meet Your Orientation Leaders",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/meet-your-orientation-leaders/",
-    "college": "Macaulay Honors College",
-    "date": "2025-06-26",
-    "time": "7:00PM",
-    "tags": []
-  },
-  {
-    "title": "Class of 2005 20th Reunion",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/class-of-2005-20th-reunion/",
-    "college": "Macaulay Honors College",
-    "date": "2025-09-07",
-    "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
-    "title": "First day of classes for 4-Week 1, 7-Week 1 and 10-Week Summer sessions",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-1-1",
-    "college": "York College",
-    "date": "2025-06-02",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
     "title": "Verification of Enrollment Rosters available to faculty",
     "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-4",
     "college": "York College",
@@ -2021,29 +1977,20 @@
     "tags": []
   },
   {
-    "title": "COMPUTATIONAL GEOMETRIC ANALYSIS PROBLEM-SOLVING WORKSHOP",
-    "link": "https://www.gc.cuny.edu/events/computational-geometric-analysis-problem-solving-workshop",
-    "college": "CUNY Graduate Center",
-    "date": "2025-06-02",
-    "time": "",
-    "location": "4102: Science Center",
-    "tags": [
-      "Mathematics"
-    ]
+    "title": "Verification of Enrollment Rosters due from faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-6",
+    "college": "York College",
+    "date": "2025-06-15",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
   },
   {
-    "title": "ANNUAL JOSÉ MUÑOZ AWARD: ANGELA Y. DAVIS",
-    "link": "https://www.gc.cuny.edu/events/annual-jose-munoz-award-angela-y-davis",
-    "college": "CUNY Graduate Center",
-    "date": "2025-06-02",
-    "time": "6:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Public Programs",
-      "CLAGS: The Center for LGBTQ Studies",
-      "GC Presents",
-      "LGBTQ +"
-    ]
+    "title": "R2T4 60% date for 4-Week 1 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-1-session-1",
+    "college": "York College",
+    "date": "2025-06-16",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
   },
   {
     "title": "SYMPOSIUM ON MUSIC, SOUND, AND ANTISEMITISM",
@@ -2135,6 +2082,29 @@
     "tags": [
       "Educational Psychology",
       "Admissions"
+    ]
+  },
+  {
+    "title": "AFTER DEI: IMAGINING A DIFFERENT FUTURE FOR RACE-BASED POLICIES",
+    "link": "https://www.gc.cuny.edu/events/after-dei-imagining-different-future-race-based-policies",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-13",
+    "time": "1:15 pm — 3:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Stone Center on Socio-Economic Inequality",
+      "Diversity"
+    ]
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-june-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-18",
+    "time": "10:00 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
     ]
   },
   {
