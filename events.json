@@ -1,13 +1,5 @@
 [
   {
-    "title": "CCNY Libraries | Generative AI and Library Instruction",
-    "link": "https://www.ccny.cuny.edu/calendar/ccny-libraries-generative-ai-and-library-instruction",
-    "college": "City College of New York",
-    "date": "2025-06-04",
-    "time": "12:30 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "CCNY CWE Admissions Workshop | Online | at CCNY CWE (25 Broadway)",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-cwe-admissions-workshop-online-ccny-cwe-25-broadway-2",
     "college": "City College of New York",
@@ -332,39 +324,6 @@
     "tags": []
   },
   {
-    "title": "Pride, Health, and Wellness",
-    "link": "https://www.laguardia.edu/event/pride-health-and-wellness/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-04",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Panel Discussion Mural Unveiling & Pride Month Display",
-    "link": "https://www.laguardia.edu/event/panel-discussion-mural-unveiling-pride-month-display/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-04",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Phi Theta Kappa Informational Sessions",
-    "link": "https://www.laguardia.edu/event/phi-theta-kappa-informational-sessions/2025-06-04/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-04",
-    "time": "03:30 PM - 04:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Wednesdays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-06-04/",
     "college": "LaGuardia Community College",
@@ -667,6 +626,39 @@
     ]
   },
   {
+    "title": "Paint & Sip",
+    "link": "https://www.laguardia.edu/event/paint-sip/2025-06-24/",
+    "college": "LaGuardia Community College",
+    "date": "2025-06-24",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-64/",
+    "college": "LaGuardia Community College",
+    "date": "2025-06-25",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-06-25/",
+    "college": "LaGuardia Community College",
+    "date": "2025-06-25",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Spring 1 2025 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376375",
     "college": "Guttman Community College",
@@ -689,6 +681,19 @@
       "Support Session",
       "Discussion",
       "Information Session"
+    ]
+  },
+  {
+    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376390",
+    "college": "Guttman Community College",
+    "date": "2025-06-04",
+    "time": "09:30 PM - 11:30 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Financial Aid",
+      "FASFA & TAP Applications"
     ]
   },
   {
@@ -781,6 +786,19 @@
     ]
   },
   {
+    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376391",
+    "college": "Guttman Community College",
+    "date": "2025-06-10",
+    "time": "09:30 PM - 11:30 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Financial Aid",
+      "FASFA & TAP Applications"
+    ]
+  },
+  {
     "title": "Spring 1 2025 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376376",
     "college": "Guttman Community College",
@@ -828,6 +846,19 @@
       "EMSA",
       "Support Session",
       "Connect Center"
+    ]
+  },
+  {
+    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376392",
+    "college": "Guttman Community College",
+    "date": "2025-06-11",
+    "time": "09:30 PM - 11:30 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Financial Aid",
+      "FASFA & TAP Applications"
     ]
   },
   {
@@ -910,6 +941,19 @@
     ]
   },
   {
+    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop  (COPY)",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376393",
+    "college": "Guttman Community College",
+    "date": "2025-06-18",
+    "time": "09:30 PM - 11:30 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Financial Aid",
+      "FASFA & TAP Applications"
+    ]
+  },
+  {
     "title": "Complete Your FAFSA & TAP Application",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376387",
     "college": "Guttman Community College",
@@ -964,18 +1008,6 @@
     ]
   },
   {
-    "title": "Words That Work: Résumés & Cover Letters",
-    "link": "https://hunter.cuny.edu/event/cover-letter-writing-workshop-crafting-your-key-to-success-6/",
-    "college": "Hunter College",
-    "date": "2025-06-04",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Diasporican Cultural Summit",
     "link": "https://hunter.cuny.edu/event/diasporican-cultural-summit/2025-06-05/",
     "college": "Hunter College",
@@ -985,6 +1017,16 @@
       "Conferences & Workshops",
       "Lectures",
       "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-06-09/",
+    "college": "Hunter College",
+    "date": "2025-06-09",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Student Events"
     ]
   },
   {
@@ -1020,6 +1062,16 @@
     ]
   },
   {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-06-16/",
+    "college": "Hunter College",
+    "date": "2025-06-16",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Nurse Anesthesia Acute Care NP (DNP) Program Information Session - Online (Zoom)",
     "link": "https://hunter.cuny.edu/event/nurse-anesthesia-acute-care-np-dnp-program-information-session-online-zoom/",
     "college": "Hunter College",
@@ -1028,6 +1080,14 @@
     "tags": [
       "Open Houses"
     ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2/2025-06-18/",
+    "college": "Hunter College",
+    "date": "2025-06-18",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
   },
   {
     "title": "Ace That Interview",
@@ -1039,6 +1099,24 @@
       "Conferences & Workshops",
       "Student Events"
     ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-06-23/",
+    "college": "Hunter College",
+    "date": "2025-06-23",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2/2025-06-25/",
+    "college": "Hunter College",
+    "date": "2025-06-25",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
   },
   {
     "title": "Words That Work: Résumés & Cover Letters",
@@ -1053,6 +1131,24 @@
     ]
   },
   {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-06-30/",
+    "college": "Hunter College",
+    "date": "2025-06-30",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2/2025-07-02/",
+    "college": "Hunter College",
+    "date": "2025-07-02",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
+  },
+  {
     "title": "Networking for Career Success: LinkedIn & Beyond",
     "link": "https://hunter.cuny.edu/event/networking-for-career-success-linkedin-beyond/",
     "college": "Hunter College",
@@ -1063,6 +1159,24 @@
       "Conferences & Workshops",
       "Student Events"
     ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-07-07/",
+    "college": "Hunter College",
+    "date": "2025-07-07",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2/2025-07-09/",
+    "college": "Hunter College",
+    "date": "2025-07-09",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
   },
   {
     "title": "Using MBTI to Build Professional Skills",
@@ -1077,6 +1191,24 @@
     ]
   },
   {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-07-14/",
+    "college": "Hunter College",
+    "date": "2025-07-14",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2/2025-07-16/",
+    "college": "Hunter College",
+    "date": "2025-07-16",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
+  },
+  {
     "title": "From Offer to Acceptance: Negotiation Strategies That Work",
     "link": "https://hunter.cuny.edu/event/from-offer-to-acceptance-negotiation-strategies-that-work/",
     "college": "Hunter College",
@@ -1086,6 +1218,24 @@
       "Conferences & Workshops",
       "Student Events"
     ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-07-21/",
+    "college": "Hunter College",
+    "date": "2025-07-21",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2/2025-07-23/",
+    "college": "Hunter College",
+    "date": "2025-07-23",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
   },
   {
     "title": "Plan Your Path: Fall Internships Made Simple",
@@ -1100,31 +1250,39 @@
     ]
   },
   {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-07-28/",
+    "college": "Hunter College",
+    "date": "2025-07-28",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2/2025-07-30/",
+    "college": "Hunter College",
+    "date": "2025-07-30",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-08-04/",
+    "college": "Hunter College",
+    "date": "2025-08-04",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Nurse Anesthesia Acute Care NP (DNP) Program Information Session - Online (Zoom)",
     "link": "https://hunter.cuny.edu/event/nurse-anesthesia-acute-care-np-dnp-program-information-session-online-zoom-2/",
     "college": "Hunter College",
     "date": "2025-08-04",
     "time": "04:00 PM - 06:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "MS-IPND Challenge Exams",
-    "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-08-19/",
-    "college": "Hunter College",
-    "date": "2025-08-19",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "MS-IPND Challenge Exams",
-    "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-12-10/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "11:00 AM - 01:00 PM",
     "tags": [
       "Open Houses"
     ]
@@ -1802,16 +1960,16 @@
     "tags": []
   },
   {
-    "title": "8th Annual Multi-Campus Alumni Event",
-    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
+    "title": "Online Information Session: Jump Start Application",
+    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-10",
     "time": "10:00 PM",
     "tags": []
   },
   {
-    "title": "Online Information Session: Jump Start Application",
-    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
+    "title": "8th Annual Multi-Campus Alumni Event",
+    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-10",
     "time": "10:00 PM",
@@ -1839,6 +1997,14 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-12",
     "time": "10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CPAC Info Session",
+    "link": "https://sps.cuny.edu/about/events/cpac-info-session-1",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-06-18",
+    "time": "04:00 PM",
     "tags": []
   },
   {
@@ -1946,14 +2112,6 @@
     "tags": []
   },
   {
-    "title": "Class of 2025 Commencement",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/commencement-calendar-listing/",
-    "college": "Macaulay Honors College",
-    "date": "2025-06-04",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
     "title": "New Student Virtual Summer Engagement Opportunities: Your Macaulay Honors Academic Experience",
     "link": "https://macaulay.cuny.edu/calendar-of-events/new-student-virtual-summer-engagement-opportunities-your-macaulay-honors-academic-experience/",
     "college": "Macaulay Honors College",
@@ -2006,6 +2164,14 @@
     "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-leads-to-amazing-career-opportunities/",
     "college": "Macaulay Honors College",
     "date": "2025-06-24",
+    "time": "7:00PM",
+    "tags": []
+  },
+  {
+    "title": "New Student Virtual Summer Engagement Opportunities: Meet Your Orientation Leaders",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/meet-your-orientation-leaders/",
+    "college": "Macaulay Honors College",
+    "date": "2025-06-26",
     "time": "7:00PM",
     "tags": []
   },
