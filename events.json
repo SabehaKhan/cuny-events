@@ -260,14 +260,6 @@
     "tags": []
   },
   {
-    "title": "Take Yearbook Photos",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/1d2734b8-4dce-4d59-85c6-7eb65357139c",
-    "college": "Kingsborough Community College",
-    "date": "2025-06-03",
-    "time": "11:00 AM - 06:00 PM",
-    "tags": []
-  },
-  {
     "title": "Awards Night Ceremony",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/d9efb069-bb45-4de5-a7db-e048cecddc18",
     "college": "Kingsborough Community College",
@@ -289,22 +281,6 @@
     "college": "Kingsborough Community College",
     "date": "2025-06-10",
     "time": "07:00 PM - 09:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Graduation Cap Decorating",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/c278ca06-fe3c-425e-82bd-c158b27e319b",
-    "college": "Kingsborough Community College",
-    "date": "2025-06-03",
-    "time": "02:00 PM - 09:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Grad Fair",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/87b7cc7c-3138-4185-aa1d-25c0b39230d4",
-    "college": "Kingsborough Community College",
-    "date": "2025-06-03",
-    "time": "02:00 PM - 11:00 PM",
     "tags": []
   },
   {
@@ -675,73 +651,6 @@
   },
   {
     "title": "Spring 1 2025 Study-a-Thon",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376373",
-    "college": "Guttman Community College",
-    "date": "2025-06-03",
-    "time": "12:00 PM - 12:00 AM",
-    "tags": [
-      "ASC",
-      "Academic",
-      "Tutoring"
-    ]
-  },
-  {
-    "title": "Women of GRIT & UMOC - End Of the Year Event",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376329",
-    "college": "Guttman Community College",
-    "date": "2025-06-03",
-    "time": "03:30 PM - 05:00 PM",
-    "tags": [
-      "WOG",
-      "Social",
-      "United Men of Color",
-      "Women of GRIT",
-      "Food - Lunch "
-    ]
-  },
-  {
-    "title": "Breakfast for Lunch (Brunch destress with Student Life)",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376382",
-    "college": "Guttman Community College",
-    "date": "2025-06-03",
-    "time": "03:30 PM - 05:00 PM",
-    "tags": [
-      "OSL",
-      "Social",
-      "Food - Lunch",
-      "Student Life",
-      "United Men of Color",
-      "Weeks Of Welcome"
-    ]
-  },
-  {
-    "title": "Fuel Your Brain",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376383",
-    "college": "Guttman Community College",
-    "date": "2025-06-03",
-    "time": "03:30 PM - 05:00 PM",
-    "tags": [
-      "EMSA",
-      "Educational/Awareness",
-      "Counseling & Wellness",
-      "Connect Center"
-    ]
-  },
-  {
-    "title": "SGA Candidate Meet and Greet",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376384",
-    "college": "Guttman Community College",
-    "date": "2025-06-03",
-    "time": "03:30 PM - 05:00 PM",
-    "tags": [
-      "OSL",
-      "Social",
-      "SGA",
-      "Student Life"
-    ]
-  },
-  {
-    "title": "Spring 1 2025 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376375",
     "college": "Guttman Community College",
     "date": "2025-06-04",
@@ -763,6 +672,19 @@
       "Support Session",
       "Discussion",
       "Information Session"
+    ]
+  },
+  {
+    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376390",
+    "college": "Guttman Community College",
+    "date": "2025-06-04",
+    "time": "09:30 PM - 11:30 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Financial Aid",
+      "FASFA & TAP Applications"
     ]
   },
   {
@@ -855,6 +777,19 @@
     ]
   },
   {
+    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376391",
+    "college": "Guttman Community College",
+    "date": "2025-06-10",
+    "time": "09:30 PM - 11:30 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Financial Aid",
+      "FASFA & TAP Applications"
+    ]
+  },
+  {
     "title": "Spring 1 2025 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376376",
     "college": "Guttman Community College",
@@ -902,6 +837,19 @@
       "EMSA",
       "Support Session",
       "Connect Center"
+    ]
+  },
+  {
+    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376392",
+    "college": "Guttman Community College",
+    "date": "2025-06-11",
+    "time": "09:30 PM - 11:30 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Financial Aid",
+      "FASFA & TAP Applications"
     ]
   },
   {
@@ -981,6 +929,19 @@
       "Federal Work Study",
       "FASFA & TAP Applications",
       "Satisfactory Academic Progress (SAP)"
+    ]
+  },
+  {
+    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop  (COPY)",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376393",
+    "college": "Guttman Community College",
+    "date": "2025-06-18",
+    "time": "09:30 PM - 11:30 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Financial Aid",
+      "FASFA & TAP Applications"
     ]
   },
   {
@@ -1204,241 +1165,6 @@
     ]
   },
   {
-    "title": "BMCC Commencement 2025",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-commencement-2025/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-04",
-    "time": "09:00 AM - 01:00 PM",
-    "tags": [
-      "Academic Affairs",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-89/2025-06-04/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-04",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (In-Person)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-49/2025-06-04/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-04",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Healing Through Hip-Hop: Live Performance and Participation",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-live-performance-and-participation-2-4/2025-06-04/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-04",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "CUNY in the Heights: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-in-the-heights-applicant-workshop-18/2025-06-05/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-05",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": [
-      "Admissions",
-      "CUNY in The Heights",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Shirley Fiterman Art Center Opening: Susan Weil: About Time",
-    "link": "https://www.bmcc.cuny.edu/event/shirley-fiterman-art-center-susan-weil-about-time-opening/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-05",
-    "time": "05:00 PM - 07:00 PM",
-    "tags": [
-      "Featured",
-      "Shirley Fiterman Art Center"
-    ]
-  },
-  {
-    "title": "Chat with an Admissions Representative",
-    "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-130/2025-06-05/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-05",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Ballroom Culture 101: Voguing Workshop Series with Felix Luar",
-    "link": "https://www.bmcc.cuny.edu/event/ballroom-culture-101-voguing-workshop-series-with-felix-luar/2025-06-06/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-06",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "CUNY in The Heights",
-      "Featured",
-      "Pride Center",
-      "Student Affairs",
-      "Women's Resource Center"
-    ]
-  },
-  {
-    "title": "BMCC Admissions Saturday Information Session & Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-saturday-information-session-campus-tour-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-07",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Study Skills Workshops: Prioritize like a Pro (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-prioritize-like-a-pro-students-only-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-09",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Featured",
-      "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session-36/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-09",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
-    "title": "Life Dance/Biodanza Series -- Let's Dance!",
-    "link": "https://www.bmcc.cuny.edu/event/life-dance-biodanza-series-lets-dance-6-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-09",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "Counseling Center",
-      "Featured",
-      "Student Affairs",
-      "Theatre",
-      "Women's Resource Center"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-254/2025-06-09/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-09",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Join Us to Celebrate International Day of Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/international-day-of-yoga/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-12",
-    "time": "04:30 PM - 05:30 PM",
-    "tags": [
-      "Diplomatic Engagement and Training",
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-23",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Featured"
-    ]
-  },
-  {
-    "title": "Active Threats on Campuses: Protective Measures and Response Course (PER-374)",
-    "link": "https://www.bmcc.cuny.edu/event/active-threats-on-campuses-protective-measures-and-response-course-per-374/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-24",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": [
-      "Emergency Preparedness",
-      "Featured",
-      "Public Safety"
-    ]
-  },
-  {
-    "title": "Active Threats on Campuses: Protective Measures and Response course (PER-374)",
-    "link": "https://www.bmcc.cuny.edu/event/active-threats-on-campuses-protective-measures-and-response-course-per-374-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-25",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": [
-      "Emergency Preparedness",
-      "Public Safety"
-    ]
-  },
-  {
-    "title": "Randolph Library Book Club",
-    "link": "https://www.bmcc.cuny.edu/event/randolph-library-book-club/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-25",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "Library",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "BMCC Blood Drive: Urgent Need for Blood Donations",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-blood-drive-urgent-need-for-blood-donations/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-26",
-    "time": "12:00 PM - 06:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-17/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-30",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Featured"
-    ]
-  },
-  {
     "title": "Bronco Reconnect Mixer",
     "link": "https://www.bcc.cuny.edu/event/bronco-reconnect-mixer/",
     "college": "Bronx Community College",
@@ -1459,16 +1185,6 @@
     "tags": [
       "Social",
       "Cultural"
-    ]
-  },
-  {
-    "title": "Compost Workshop",
-    "link": "https://events.cuny.edu/cec/compost-workshop/",
-    "college": "College of Staten Island",
-    "date": "2025-06-03",
-    "time": "9:00 AM - 12:00 PM",
-    "tags": [
-      "sustainabiliy"
     ]
   },
   {
@@ -1500,6 +1216,38 @@
     ]
   },
   {
+    "title": "BMCC Commencement 2025",
+    "link": "https://www.bmcc.cuny.edu/event/?p=654455",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-04",
+    "time": "09:00 AM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005276",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-04",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (In-Person)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005281",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-04",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Healing Through Hip-Hop: Live Performance and Participation",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10004375",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-04",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
     "title": "Diasporican Cultural Summit",
     "link": "https://events.cuny.edu/cec/diasporican-cultural-summit-2/",
     "college": "Hunter College",
@@ -1518,36 +1266,14 @@
     ]
   },
   {
-    "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/lkr1CL9XMA9uGIfycXWd2",
-    "college": "Queens College",
-    "date": "2025-06-03",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "SU25 Rooms Holding for Programs",
-    "link": "https://qc.event.cuny.edu/events/Etjt0LCWyzOh9ZcmDtCP/x6y8Bew4YBJ2YfkUd4Vq2",
-    "college": "Queens College",
-    "date": "2025-06-03",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "District 29 Conference",
-    "link": "https://qc.event.cuny.edu/events/ZJyEb9FTlGECPdrVzC2B/B4w33FisHFyqL21g8hdC",
-    "college": "Queens College",
-    "date": "2025-06-03",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "QSI Program Summer 2025",
-    "link": "https://qc.event.cuny.edu/events/VNRcYTKQWedK7jMRxfPy/RywN820t4LAGbyYRNd3W6",
-    "college": "Queens College",
-    "date": "2025-06-03",
-    "time": "8:00AM",
-    "tags": []
+    "title": "Neuroscience Spring 2025 Seminar Series: “The neural circuits underlying overgeneralization.”",
+    "link": "https://asrc.gc.cuny.edu/event/neuroscience-spring-2025-seminar-series-the-neural-circuits-underlying-overgeneralization/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2025-06-05",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": [
+      "Neuroscience"
+    ]
   },
   {
     "title": "ITS Upgrade Project",
@@ -1638,11 +1364,43 @@
     "tags": []
   },
   {
-    "title": "Visible Communication: Works from the Baruch College Art Collection",
-    "link": "https://baruch.event.cuny.edu/events/eFmyf5kE5Qrerzdr7IFD/wY0pjUe5AxtnjvGV2n9i47",
-    "college": "Baruch College",
-    "date": "2025-06-03",
-    "time": "11:00AM",
+    "title": "CUNY Explorers",
+    "link": "https://qc.event.cuny.edu/events/r3eBJWA5bCAZhBNGCMmp/smDOcNB6V7oBQORZencr",
+    "college": "Queens College",
+    "date": "2025-06-05",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Pre-Test Incoming Students",
+    "link": "https://qc.event.cuny.edu/events/CDd6xdz6supOEu7u2XCY/SOa9ifJ559Bznd6bAKzl",
+    "college": "Queens College",
+    "date": "2025-06-05",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/lkr1CL9XMA9uGIfycXWd5",
+    "college": "Queens College",
+    "date": "2025-06-06",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "SU25 Rooms Holding for Programs",
+    "link": "https://qc.event.cuny.edu/events/Etjt0LCWyzOh9ZcmDtCP/x6y8Bew4YBJ2YfkUd4Vq5",
+    "college": "Queens College",
+    "date": "2025-06-06",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "QSI Program Summer 2025",
+    "link": "https://qc.event.cuny.edu/events/VNRcYTKQWedK7jMRxfPy/FPP3xxLUg2i0cyIC13ql19",
+    "college": "Queens College",
+    "date": "2025-06-06",
+    "time": "9:30AM",
     "tags": []
   },
   {
@@ -1683,38 +1441,6 @@
     "college": "Baruch College",
     "date": "2025-06-08",
     "time": "",
-    "tags": []
-  },
-  {
-    "title": "Graduation walk through",
-    "link": "https://citytech.event.cuny.edu/events/BHlP0BxZWHbQkAVGb8os/C1rioIL3qq9wkKnPXImZ",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-03",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "The Door CompTIA A+",
-    "link": "https://citytech.event.cuny.edu/events/eCdOCCC3WXjF9vB9YqTv/TOlduPmzLf2ke0b4uBvs3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-03",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Math Department",
-    "link": "https://citytech.event.cuny.edu/events/D4nqRBSXnYjfQPxHLNFs/BNzCniPzZDNs00EeAdSS2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-03",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "Building Systems and Mechanicals",
-    "link": "https://citytech.event.cuny.edu/events/NFVipoMx3DX1t5s1LbFO/uKMRpYbJMLYw6zNUSqkR3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-03",
-    "time": "6:00PM",
     "tags": []
   },
   {
@@ -1838,19 +1564,43 @@
     "tags": []
   },
   {
+    "title": "Writing Center tutoring",
+    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-09",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYC Teaching Fellows Welcome Event",
+    "link": "https://citytech.event.cuny.edu/events/xqFrTyzajHSlMwhCbjWf/GJV1n30ydxwkXYW1RHJL",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-09",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Department",
+    "link": "https://citytech.event.cuny.edu/events/D4nqRBSXnYjfQPxHLNFs/BNzCniPzZDNs00EeAdSS6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-09",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "NYC Rent Guidelines Board Public Hearing",
+    "link": "https://citytech.event.cuny.edu/events/jyFd9wfHsQl8mGoR3ZkA/aFFiWrjmc0UaPTPsXL06",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-09",
+    "time": "3:30PM",
+    "tags": []
+  },
+  {
     "title": "Dominicanos USA (DUSA) Information Table",
     "link": "https://hostos.event.cuny.edu/events/BlxJG0B1lPna7APVlvJe/oSx9tfwqfR5LprQpDeEh",
     "college": "Hostos Community College",
     "date": "2025-06-10",
     "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "Online Information Session: Bachelor's Degree Programs",
-    "link": "https://sps.cuny.edu/about/events/online-information-session-bachelors-degree-programs-4",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-06-03",
-    "time": "04:00 PM",
     "tags": []
   },
   {
@@ -1899,14 +1649,6 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-12",
     "time": "10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HPAM Research Headline series: Effects of Workplace Interventions on Sedentary Behaviour and Physical Activity",
-    "link": "https://sph.cuny.edu/event/hpam-research-headline-series-2/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-06-03",
-    "time": "12:00PM",
     "tags": []
   },
   {
@@ -2078,14 +1820,6 @@
     "tags": []
   },
   {
-    "title": "Verification of Enrollment Rosters available to faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-4",
-    "college": "York College",
-    "date": "2025-06-03",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
     "title": "National Business Aviation Association 2025",
     "link": "https://www.york.cuny.edu/events/national-business-aviation-association",
     "college": "York College",
@@ -2140,28 +1874,6 @@
     "date": "2025-06-16",
     "time": "4:00 AM - 3:59 AM",
     "tags": []
-  },
-  {
-    "title": "SYMPOSIUM ON MUSIC, SOUND, AND ANTISEMITISM",
-    "link": "https://www.gc.cuny.edu/events/symposium-music-sound-and-antisemitism",
-    "college": "CUNY Graduate Center",
-    "date": "2025-06-03",
-    "time": "",
-    "location": "Online",
-    "tags": [
-      "Barry S. Brook Center for Music Research and Documentation"
-    ]
-  },
-  {
-    "title": "WRITING IN IMPOSSIBLE TIMES: THINKING WITH AND BEYOND THE FIRST BOOK",
-    "link": "https://www.gc.cuny.edu/events/writing-impossible-times-thinking-and-beyond-first-book",
-    "college": "CUNY Graduate Center",
-    "date": "2025-06-03",
-    "time": "6:30 pm",
-    "location": "Online",
-    "tags": [
-      "Intellectual Publics"
-    ]
   },
   {
     "title": "CLAGS X MOMA PRESENT: PRIDE WRITING CLUB WITH ALEXANDRA JUHASZ",
@@ -2257,20 +1969,37 @@
     ]
   },
   {
+    "title": "ADVANCED DRUPAL TRAINING",
+    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-june-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-18",
+    "time": "2:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "ALUMNI WALKING TOUR OF THE NYC REVOLUTIONARY TRAIL",
+    "link": "https://www.gc.cuny.edu/events/alumni-walking-tour-nyc-revolutionary-trail",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-21",
+    "time": "11:00 am — 1:00 pm",
+    "location": "Non-GC Location (see description for details)",
+    "tags": [
+      "Institutional Advancement",
+      "Alumni Relations",
+      "Gotham Center for New York City History",
+      "Alumni"
+    ]
+  },
+  {
     "title": "The BFSA's Fourth Annual Juneteenth Celebration",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-06-12-the-bfsas-fourth-annual-juneteenth.html",
     "college": "Queensborough Community College",
     "date": "2025-06-12",
     "time": "12:00 PM - 01:30 PM",
     "description": ""
-  },
-  {
-    "title": "Four-Year College Transfer Application Workshop",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-06-03-four-year-college-transfer-application-workshop.html",
-    "college": "Queensborough Community College",
-    "date": "2025-06-03",
-    "time": "02:00 PM - 03:00 PM",
-    "description": "Transfer Resource Center Event"
   },
   {
     "title": "FAFSA Fest",
@@ -2415,5 +2144,13 @@
     "date": "2025-07-23",
     "time": "04:00 PM - 06:00 PM",
     "description": "Admissions Event"
+  },
+  {
+    "title": "Virtual Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-24-virtual-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-07-24",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "Career Services Event"
   }
 ]
