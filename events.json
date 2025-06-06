@@ -1,13 +1,5 @@
 [
   {
-    "title": "8th Annual CUNY Pridefest",
-    "link": "https://www.ccny.cuny.edu/calendar/8th-annual-cuny-pridefest",
-    "college": "City College of New York",
-    "date": "2025-06-06",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "CUNY Marches in Brooklyn Pride",
     "link": "https://www.ccny.cuny.edu/calendar/cuny-marches-brooklyn-pride-0",
     "college": "City College of New York",
@@ -264,29 +256,6 @@
     "date": "2025-06-09",
     "time": "11:00 AM - 11:00 AM",
     "tags": []
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-06-06/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-06",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Understanding Dementia and Alzheimer's: Supporting Those Who Support- Empowering the Caregiver Journey",
-    "link": "https://www.laguardia.edu/event/understanding-dementia-and-alzheimers-supporting-those-who-support-empowering-the-caregiver-journey/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-06",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "Faculty and Staff"
-    ]
   },
   {
     "title": "Mindfulness Meditation Mondays",
@@ -602,6 +571,28 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-07-02/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-02",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-07-07/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-07",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Spring 1 2025 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376379",
     "college": "Guttman Community College",
@@ -820,6 +811,18 @@
     ]
   },
   {
+    "title": "ADA Barbecue",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376395",
+    "college": "Guttman Community College",
+    "date": "2025-06-24",
+    "time": "03:00 PM - 07:00 PM",
+    "tags": [
+      "EMSA",
+      "Educational/Awareness",
+      "AccessABILITY Services"
+    ]
+  },
+  {
     "title": "Complete Your FAFSA & TAP Application",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376387",
     "college": "Guttman Community College",
@@ -859,6 +862,18 @@
       "Social - Off-Campus",
       "Student Life",
       "Trip - Day"
+    ]
+  },
+  {
+    "title": "Disability Pride Parade",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376396",
+    "college": "Guttman Community College",
+    "date": "2025-10-19",
+    "time": "02:00 PM - 07:00 PM",
+    "tags": [
+      "EMSA",
+      "Educational/Awareness",
+      "AccessABILITY Services"
     ]
   },
   {
@@ -1148,21 +1163,6 @@
     ]
   },
   {
-    "title": "Ballroom Culture 101: Voguing Workshop Series with Felix Luar",
-    "link": "https://www.bmcc.cuny.edu/event/ballroom-culture-101-voguing-workshop-series-with-felix-luar/2025-06-06/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-06",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "CUNY in The Heights",
-      "Featured",
-      "Pride Center",
-      "Student Affairs",
-      "Women's Resource Center"
-    ]
-  },
-  {
     "title": "BMCC Admissions Saturday Information Session & Campus Tour",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-saturday-information-session-campus-tour-4/",
     "college": "Borough of Manhattan Community College",
@@ -1372,17 +1372,6 @@
     ]
   },
   {
-    "title": "CUNY Pridefest!",
-    "link": "https://csi.campuslabs.com/engage/event/11321339",
-    "college": "College of Staten Island",
-    "date": "2025-06-06",
-    "time": "04:00 PM - 08:00 PM",
-    "tags": [
-      "Social",
-      "Cultural"
-    ]
-  },
-  {
     "title": "Daylight Hour 2025",
     "link": "https://csi.campuslabs.com/engage/event/11324293",
     "college": "College of Staten Island",
@@ -1450,6 +1439,14 @@
     "college": "Lehman College",
     "date": "2025-06-08",
     "time": "10:30 AM - 12:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Life Dance/Biodanza Series - Let’s Dance!",
+    "link": "https://www.bmcc.cuny.edu/event/?p=654871",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-09",
+    "time": "02:00 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -1741,16 +1738,16 @@
     "tags": []
   },
   {
-    "title": "Online Information Session: Jump Start Application",
-    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
+    "title": "8th Annual Multi-Campus Alumni Event",
+    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-10",
     "time": "10:00 PM",
     "tags": []
   },
   {
-    "title": "8th Annual Multi-Campus Alumni Event",
-    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
+    "title": "Online Information Session: Jump Start Application",
+    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-10",
     "time": "10:00 PM",
