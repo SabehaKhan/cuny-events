@@ -40,6 +40,14 @@
     "tags": []
   },
   {
+    "title": "CCA - What is Proactive Health Webinar",
+    "link": "https://www.ccny.cuny.edu/calendar/tiaa-one-one-counseling-ccny-faculty-and-staff-0",
+    "college": "City College of New York",
+    "date": "2025-06-26",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
     "title": "CCNY CWE Admissions Workshop | Online | at CCNY CWE (25 Broadway)",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-cwe-admissions-workshop-online-ccny-cwe-25-broadway-3",
     "college": "City College of New York",
@@ -194,6 +202,16 @@
     "tags": []
   },
   {
+    "title": "From Data to Story: Using AI for Reporting",
+    "link": "https://www.journalism.cuny.edu/events/from-data-to-story-using-ai-for-reporting/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-06-17",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Center for Community Media"
+    ]
+  },
+  {
     "title": "Columbus Day",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/d2082901-5ec8-4204-93a4-b226f5a13a34",
     "college": "Kingsborough Community College",
@@ -256,17 +274,6 @@
     "date": "2025-06-09",
     "time": "11:00 AM - 11:00 AM",
     "tags": []
-  },
-  {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-06-09/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-09",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
   },
   {
     "title": "Sesiones Informativas en Español",
@@ -593,6 +600,17 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-07-09/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-09",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Spring 1 2025 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376370",
     "college": "Guttman Community College",
@@ -602,6 +620,18 @@
       "ASC",
       "Academic",
       "Tutoring"
+    ]
+  },
+  {
+    "title": "Class of 2025 Graduation Cap Decorating",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376397",
+    "college": "Guttman Community College",
+    "date": "2025-06-09",
+    "time": "01:00 PM - 10:00 PM",
+    "tags": [
+      "OSL",
+      "Social",
+      "Student Life"
     ]
   },
   {
@@ -1151,6 +1181,180 @@
     ]
   },
   {
+    "title": "International Admissions Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session-36/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-09",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "Life Dance/Biodanza Series -- Let's Dance!",
+    "link": "https://www.bmcc.cuny.edu/event/life-dance-biodanza-series-lets-dance-6-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-09",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Counseling Center",
+      "Featured",
+      "Student Affairs",
+      "Theatre",
+      "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "BMCC Writing Center Composition Workshops: Summer Session 1",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-composition-workshops-summer-session-1/2025-06-09/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-09",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Writing Center"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-254/2025-06-09/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-09",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-89/2025-06-10/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-10",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (In-Person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-49/2025-06-11/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-11",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Chat with an Admissions Representative",
+    "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-130/2025-06-12/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-12",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Join Us to Celebrate International Day of Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/international-day-of-yoga/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-12",
+    "time": "04:30 PM - 05:30 PM",
+    "tags": [
+      "Diplomatic Engagement and Training",
+      "Featured",
+      "Health Services",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-16/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-23",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Featured"
+    ]
+  },
+  {
+    "title": "Active Threats on Campuses: Protective Measures and Response Course (PER-374)",
+    "link": "https://www.bmcc.cuny.edu/event/active-threats-on-campuses-protective-measures-and-response-course-per-374/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-24",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Emergency Preparedness",
+      "Featured",
+      "Public Safety"
+    ]
+  },
+  {
+    "title": "Active Threats on Campuses: Protective Measures and Response course (PER-374)",
+    "link": "https://www.bmcc.cuny.edu/event/active-threats-on-campuses-protective-measures-and-response-course-per-374-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-25",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Emergency Preparedness",
+      "Public Safety"
+    ]
+  },
+  {
+    "title": "Randolph Library Book Club",
+    "link": "https://www.bmcc.cuny.edu/event/randolph-library-book-club/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-25",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "Library",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "CUNY in the Heights: Applicant Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-in-the-heights-applicant-workshop-18/2025-06-26/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-26",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Admissions",
+      "CUNY in The Heights",
+      "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Blood Drive: Urgent Need for Blood Donations",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-blood-drive-urgent-need-for-blood-donations/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-26",
+    "time": "12:00 PM - 06:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-17/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-30",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Featured"
+    ]
+  },
+  {
     "title": "Bronco Reconnect Mixer",
     "link": "https://www.bcc.cuny.edu/event/bronco-reconnect-mixer/",
     "college": "Bronx Community College",
@@ -1193,43 +1397,11 @@
     "tags": []
   },
   {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/?p=656023",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-09",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Life Dance/Biodanza Series - Let’s Dance!",
     "link": "https://www.bmcc.cuny.edu/event/?p=654871",
     "college": "Borough of Manhattan Community College",
     "date": "2025-06-09",
     "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BMCC Writing Center Composition Workshops: Summer Session 1",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005368",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-09",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005269",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-09",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005277",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-10",
-    "time": "11:00 AM - 12:00 PM",
     "tags": []
   },
   {
@@ -1513,16 +1685,16 @@
     "tags": []
   },
   {
-    "title": "8th Annual Multi-Campus Alumni Event",
-    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
+    "title": "Online Information Session: Jump Start Application",
+    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-10",
     "time": "10:00 PM",
     "tags": []
   },
   {
-    "title": "Online Information Session: Jump Start Application",
-    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
+    "title": "8th Annual Multi-Campus Alumni Event",
+    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-10",
     "time": "10:00 PM",
@@ -2028,20 +2200,12 @@
     "description": ""
   },
   {
-    "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-06-09-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-06-09",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Career Services Event"
-  },
-  {
     "title": "FAFSA Fest",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-06-11-fafsa-fest.html",
     "college": "Queensborough Community College",
     "date": "2025-06-11",
     "time": "01:00 PM - 04:00 PM",
-    "description": "Conference and Workshop"
+    "description": "Financial Aid Event"
   },
   {
     "title": "Transfer Night at QCC",
@@ -2065,7 +2229,7 @@
     "college": "Queensborough Community College",
     "date": "2025-06-18",
     "time": "01:00 PM - 04:00 PM",
-    "description": "Conference and Workshop"
+    "description": "Financial Aid Event"
   },
   {
     "title": "Four-Year College Transfer Application Workshop",
@@ -2081,7 +2245,7 @@
     "college": "Queensborough Community College",
     "date": "2025-06-25",
     "time": "01:00 PM - 04:00 PM",
-    "description": "Conference and Workshop"
+    "description": "Financial Aid Event"
   },
   {
     "title": "Transfer Night at QCC",
@@ -2121,7 +2285,7 @@
     "college": "Queensborough Community College",
     "date": "2025-07-09",
     "time": "01:00 PM - 04:00 PM",
-    "description": "Conference and Workshop"
+    "description": "Financial Aid Event"
   },
   {
     "title": "Transfer Night at QCC",
@@ -2153,7 +2317,7 @@
     "college": "Queensborough Community College",
     "date": "2025-07-16",
     "time": "01:00 PM - 04:00 PM",
-    "description": "Conference and Workshop"
+    "description": "Financial Aid Event"
   },
   {
     "title": "Transfer Night at QCC",
@@ -2178,5 +2342,13 @@
     "date": "2025-07-21",
     "time": "11:00 AM - 12:00 PM",
     "description": "Career Services Event"
+  },
+  {
+    "title": "Transfer Night at QCC",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-23-transfer-night-at-qcc.html",
+    "college": "Queensborough Community College",
+    "date": "2025-07-23",
+    "time": "04:00 PM - 06:00 PM",
+    "description": "Admissions Event"
   }
 ]
