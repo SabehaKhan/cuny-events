@@ -276,17 +276,6 @@
     "tags": []
   },
   {
-    "title": "Sesiones Informativas en Español",
-    "link": "https://www.laguardia.edu/event/sesiones-informativas-en-espanol-14/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-09",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Admissions Adult Learner Virtual Information Session",
     "link": "https://www.laguardia.edu/event/admissions-adult-learner-virtual-information-session-9/",
     "college": "LaGuardia Community College",
@@ -381,17 +370,6 @@
     "college": "LaGuardia Community College",
     "date": "2025-06-12",
     "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "QPR Gatekeeper Virtual Training: A Lifesaving Skill for Faculty, Staff, and Students",
-    "link": "https://www.laguardia.edu/event/qpr-gatekeeper-virtual-training-a-lifesaving-skill-for-faculty-staff-and-students/2025-06-13/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-13",
-    "time": "10:00 AM - 12:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -611,6 +589,28 @@
     ]
   },
   {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-73/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-09",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-07-10/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-10",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Spring 1 2025 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376370",
     "college": "Guttman Community College",
@@ -620,18 +620,6 @@
       "ASC",
       "Academic",
       "Tutoring"
-    ]
-  },
-  {
-    "title": "Class of 2025 Graduation Cap Decorating",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376397",
-    "college": "Guttman Community College",
-    "date": "2025-06-09",
-    "time": "01:00 PM - 10:00 PM",
-    "tags": [
-      "OSL",
-      "Social",
-      "Student Life"
     ]
   },
   {
@@ -892,16 +880,6 @@
       "EMSA",
       "Educational/Awareness",
       "AccessABILITY Services"
-    ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-06-09/",
-    "college": "Hunter College",
-    "date": "2025-06-09",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "Student Events"
     ]
   },
   {
@@ -1181,42 +1159,12 @@
     ]
   },
   {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session-36/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-09",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
-    "title": "Life Dance/Biodanza Series -- Let's Dance!",
-    "link": "https://www.bmcc.cuny.edu/event/life-dance-biodanza-series-lets-dance-6-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-09",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "Counseling Center",
-      "Featured",
-      "Student Affairs",
-      "Theatre",
-      "Women's Resource Center"
-    ]
-  },
-  {
-    "title": "BMCC Writing Center Composition Workshops: Summer Session 1",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-composition-workshops-summer-session-1/2025-06-09/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-09",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "Writing Center"
-    ]
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2/2025-08-13/",
+    "college": "Hunter College",
+    "date": "2025-08-13",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
   },
   {
     "title": "Admissions Information Session (Online)",
@@ -1238,6 +1186,17 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Writing Center Composition Workshops: Summer Session 1",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-composition-workshops-summer-session-1/2025-06-10/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-10",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Writing Center"
     ]
   },
   {
@@ -1281,12 +1240,10 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-06-23",
     "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Featured"
-    ]
+    "tags": []
   },
   {
-    "title": "Active Threats on Campuses: Protective Measures and Response Course (PER-374)",
+    "title": "Active Threats on Campuses: Protective Measures and Response Course",
     "link": "https://www.bmcc.cuny.edu/event/active-threats-on-campuses-protective-measures-and-response-course-per-374/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-06-24",
@@ -1378,31 +1335,16 @@
     ]
   },
   {
-    "title": "Compost Workshop",
+    "title": "Compost Workshop (PG CLUE)",
     "link": "https://csi.campuslabs.com/engage/event/11324323",
     "college": "College of Staten Island",
     "date": "2025-07-01",
     "time": "01:00 PM - 02:00 PM",
     "tags": [
       "ThoughtfulLearning",
+      "PG CLUE",
       "Sustainability"
     ]
-  },
-  {
-    "title": "Study Skills Workshops: Prioritize like a Pro (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=655793",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-09",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Life Dance/Biodanza Series - Let’s Dance!",
-    "link": "https://www.bmcc.cuny.edu/event/?p=654871",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-09",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
   },
   {
     "title": "Admissions Information Session (Online)",
@@ -1413,19 +1355,27 @@
     "tags": []
   },
   {
-    "title": "BMCC Writing Center Composition Workshops: Summer Session 1",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005369",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-10",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Take a Tour of BMCC’s Campus",
     "link": "https://www.bmcc.cuny.edu/event/?p=10005278",
     "college": "Borough of Manhattan Community College",
     "date": "2025-06-11",
     "time": "12:30 PM - 01:30 PM",
+    "tags": []
+  },
+  {
+    "title": "BMCC Writing Center Composition Workshops: Summer Session 1",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005370",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-11",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Graduate Admissions: The Application Process and Other Tips",
+    "link": "https://lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--9.php",
+    "college": "Lehman College",
+    "date": "2025-06-12",
+    "time": "12:00 PM - 1:00 PM",
     "tags": []
   },
   {
@@ -1685,16 +1635,16 @@
     "tags": []
   },
   {
-    "title": "Online Information Session: Jump Start Application",
-    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
+    "title": "8th Annual Multi-Campus Alumni Event",
+    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-10",
     "time": "10:00 PM",
     "tags": []
   },
   {
-    "title": "8th Annual Multi-Campus Alumni Event",
-    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
+    "title": "Online Information Session: Jump Start Application",
+    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-10",
     "time": "10:00 PM",
@@ -1893,6 +1843,14 @@
     "tags": []
   },
   {
+    "title": "Salary Negotiation",
+    "link": "https://www.lehman.edu/events/2025/Salary-Negotiation.php",
+    "college": "Lehman College",
+    "date": "2025-06-11",
+    "time": "3:00 PM- 4:00 PM",
+    "tags": []
+  },
+  {
     "title": "Lehman College Spring Fling 2025",
     "link": "https://www.lehman.edu/events/2025/Lehman-College-Spring-Fling-2025.php",
     "college": "Lehman College",
@@ -1909,19 +1867,11 @@
     "tags": []
   },
   {
-    "title": "Graduate Application and Enrollment Roundtable",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--9.php",
+    "title": "Perfecting your Elevator Pitch",
+    "link": "https://www.lehman.edu/events/2025/Perfecting-your-Elevator-Pitch.php",
     "college": "Lehman College",
-    "date": "2025-06-19",
-    "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Graduate Admissions: The Application Process and Other Tips",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--10.php",
-    "college": "Lehman College",
-    "date": "2025-06-26",
-    "time": "12:00 PM- 1:00 PM",
+    "date": "2025-06-12",
+    "time": "2:00 PM- 3:00 PM",
     "tags": []
   },
   {
