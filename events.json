@@ -268,28 +268,6 @@
     "tags": []
   },
   {
-    "title": "CUNY EDGE 20 Minute Info Sessions",
-    "link": "https://www.laguardia.edu/event/cuny-edge-20-minute-info-sessions/2025-06-10/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-10",
-    "time": "10:00 AM - 03:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Paint & Sip",
-    "link": "https://www.laguardia.edu/event/paint-sip/2025-06-10/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-10",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Pride Blood Drive",
     "link": "https://www.laguardia.edu/event/pride-blood-drive/",
     "college": "LaGuardia Community College",
@@ -596,6 +574,28 @@
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-07-14/",
     "college": "LaGuardia Community College",
     "date": "2025-07-14",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-74/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-15",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-07-16/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-16",
     "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
@@ -1148,17 +1148,6 @@
     ]
   },
   {
-    "title": "BMCC Writing Center Composition Workshops: Summer Session 1",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-composition-workshops-summer-session-1/2025-06-10/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-10",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "Writing Center"
-    ]
-  },
-  {
     "title": "Take a Tour of BMCC’s Campus",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-89/2025-06-11/",
     "college": "Borough of Manhattan Community College",
@@ -1178,6 +1167,17 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Writing Center Composition Workshops: Summer Session 1",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-composition-workshops-summer-session-1/2025-06-11/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-11",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Writing Center"
     ]
   },
   {
@@ -1325,6 +1325,32 @@
       "ThoughtfulLearning",
       "PG CLUE",
       "Sustainability"
+    ]
+  },
+  {
+    "title": "Graduate Admissions: The Application Process and Other Tips",
+    "link": "https://lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--9.php",
+    "college": "Lehman College",
+    "date": "2025-06-12",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "BMCC Writing Center Composition Workshops: Summer Session 1",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005371",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-12",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Structural Biology Special Seminar",
+    "link": "https://asrc.gc.cuny.edu/event/structural-biology-special-seminar/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2025-06-13",
+    "time": "1:00 PM - 2:00 PM",
+    "tags": [
+      "Structural Biology"
     ]
   },
   {
@@ -1608,16 +1634,16 @@
     "tags": []
   },
   {
-    "title": "8th Annual Multi-Campus Alumni Event",
-    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
+    "title": "Online Information Session: Jump Start Application",
+    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-10",
     "time": "10:00 PM",
     "tags": []
   },
   {
-    "title": "Online Information Session: Jump Start Application",
-    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
+    "title": "8th Annual Multi-Campus Alumni Event",
+    "link": "https://sps.cuny.edu/about/events/8th-annual-multicampus-alumni-event",
     "college": "CUNY School of Professional Studies",
     "date": "2025-06-10",
     "time": "10:00 PM",
@@ -1952,6 +1978,14 @@
     "tags": []
   },
   {
+    "title": "Pop Up Enrollment (Thursdays)",
+    "link": "https://www.york.cuny.edu/student-development/pop-up-enrollment-days-thursday",
+    "college": "York College",
+    "date": "2025-06-13",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
     "title": "Verification of Enrollment Rosters due from faculty",
     "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-6",
     "college": "York College",
@@ -1976,18 +2010,18 @@
     "tags": []
   },
   {
+    "title": "Virtual Pop Up Enrollment (Tuesdays)",
+    "link": "https://www.york.cuny.edu/student-development/virtual-one-stop-to-register-hub-tuesdays",
+    "college": "York College",
+    "date": "2025-06-18",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
     "title": "Finals for classes in 4-Week 1",
     "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-1-1",
     "college": "York College",
     "date": "2025-06-26",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for 7-Week 1 session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-7-week-1-session",
-    "college": "York College",
-    "date": "2025-07-05",
     "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
