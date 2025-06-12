@@ -244,17 +244,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-06-12/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-12",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-06-13/",
     "college": "LaGuardia Community College",
@@ -575,6 +564,17 @@
     "tags": [
       "admissions",
       "all calendars"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-07-23/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-23",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
     ]
   },
   {
@@ -1081,14 +1081,13 @@
     ]
   },
   {
-    "title": "Chat with an Admissions Representative",
-    "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-130/2025-06-12/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-12",
-    "time": "12:00 PM - 01:00 PM",
+    "title": "MS-IPND Challenge Exams",
+    "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-08-19/",
+    "college": "Hunter College",
+    "date": "2025-08-19",
+    "time": "11:00 AM - 01:00 PM",
     "tags": [
-      "Admissions",
-      "Featured"
+      "Open Houses"
     ]
   },
   {
@@ -1143,6 +1142,17 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-06-18",
     "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Chat with an Admissions Representative",
+    "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-130/2025-06-19/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-19",
+    "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Admissions",
       "Featured"
@@ -1261,11 +1271,11 @@
     ]
   },
   {
-    "title": "Graduate Admissions: The Application Process and Other Tips",
-    "link": "https://lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--9.php",
-    "college": "Lehman College",
+    "title": "Chat with an Admissions Representative",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005286",
+    "college": "Borough of Manhattan Community College",
     "date": "2025-06-12",
-    "time": "12:00 PM - 1:00 PM",
+    "time": "12:00 PM - 01:00 PM",
     "tags": []
   },
   {
@@ -1313,6 +1323,17 @@
     "date": "2025-06-16",
     "time": "6:00 PM - 9:00 PM",
     "tags": []
+  },
+  {
+    "title": "SUMMER 2025 EARLY RESEARCH SERIES • Cell Biology and Microscopy",
+    "link": "https://events.cuny.edu/cec/summer-2025-early-research-series-cell-biology-and-microscopy/",
+    "college": "College of Staten Island",
+    "date": "2025-06-16",
+    "time": "6:00 PM - 9:00 PM",
+    "tags": [
+      "Biology",
+      "Division of Science and Technology"
+    ]
   },
   {
     "title": "ITS Upgrade Project",
@@ -1579,14 +1600,6 @@
     "tags": []
   },
   {
-    "title": "Test Flight: Online Learning Simulation",
-    "link": "https://sps.cuny.edu/about/events/test-flight-online-learning-simulation",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-06-12",
-    "time": "04:00 AM",
-    "tags": []
-  },
-  {
     "title": "Online Information Session: SEEK",
     "link": "https://sps.cuny.edu/about/events/online-information-session-seek-0",
     "college": "CUNY School of Professional Studies",
@@ -1732,7 +1745,7 @@
   },
   {
     "title": "Graduate Admissions: The Application Process and Other Tips",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--9.php",
+    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips-.php",
     "college": "Lehman College",
     "date": "2025-06-12",
     "time": "12:00 PM- 1:00 PM",
@@ -2236,5 +2249,13 @@
     "date": "2025-07-28",
     "time": "11:00 AM - 12:00 PM",
     "description": "Career Services Event"
+  },
+  {
+    "title": "FAFSA Fest",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-30-fafsa-fest.html",
+    "college": "Queensborough Community College",
+    "date": "2025-07-30",
+    "time": "01:00 PM - 04:00 PM",
+    "description": "Financial Aid Event"
   }
 ]
