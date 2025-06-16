@@ -56,6 +56,14 @@
     "tags": []
   },
   {
+    "title": "Overview of MetroPlusGOLD for NYC Public employees",
+    "link": "https://www.ccny.cuny.edu/calendar/tiaa-one-one-counseling-ccny-faculty-and-staff",
+    "college": "City College of New York",
+    "date": "2025-07-02",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
     "title": "Civil Engineering Event Test Two",
     "link": "https://www.ccny.cuny.edu/calendar/civil-engineering-event-test-two",
     "college": "City College of New York",
@@ -210,17 +218,6 @@
     "date": "2025-06-16",
     "time": "08:00 PM - 09:00 PM",
     "tags": []
-  },
-  {
-    "title": "Sesiones Informativas en Español",
-    "link": "https://www.laguardia.edu/event/sesiones-informativas-en-espanol-15/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-16",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
   },
   {
     "title": "Admissions Adult Learner In-Person Information Session",
@@ -545,6 +542,17 @@
     ]
   },
   {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-76/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-29",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
     "title": "Spring 1 2025 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376371",
     "college": "Guttman Community College",
@@ -589,7 +597,7 @@
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376407",
     "college": "Guttman Community College",
     "date": "2025-06-21",
-    "time": "02:00 PM - 06:00 PM",
+    "time": "02:30 PM - 06:30 PM",
     "tags": [
       "EMSA",
       "Support Session",
@@ -722,16 +730,6 @@
       "EMSA",
       "Educational/Awareness",
       "AccessABILITY Services"
-    ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-06-16/",
-    "college": "Hunter College",
-    "date": "2025-06-16",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "Student Events"
     ]
   },
   {
@@ -1015,6 +1013,16 @@
     "tags": []
   },
   {
+    "title": "MS-IPND Challenge Exams",
+    "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-12-10/",
+    "college": "Hunter College",
+    "date": "2025-12-10",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
     "title": "Admissions Information Session (Online)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-254/2025-06-16/",
     "college": "Borough of Manhattan Community College",
@@ -1034,6 +1042,27 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "Lunch and Learn at the Learning Resource Center",
+    "link": "https://www.bmcc.cuny.edu/event/lunch-and-learn-at-the-learning-resource-center/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-17",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Lunch and Learn at Learning Resource Center",
+    "link": "https://www.bmcc.cuny.edu/event/lunch-and-learn-at-learning-resource-center/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-18",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "Learning Resource Center"
     ]
   },
   {
@@ -1316,6 +1345,14 @@
     "college": "Queens College",
     "date": "2025-06-18",
     "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "SAEM Interviews for AVP",
+    "link": "https://qc.event.cuny.edu/events/HV0OuTwK47yg3PyWBoTk/llctT36aABiZGTiOk5DH",
+    "college": "Queens College",
+    "date": "2025-06-18",
+    "time": "9:00AM",
     "tags": []
   },
   {
@@ -1656,7 +1693,7 @@
   },
   {
     "title": "Your Job Search Action Plan",
-    "link": "https://www.lehman.edu/events/2025/Your-Job-Search-Action-Plan-1.php",
+    "link": "https://www.lehman.edu/events/2025/Your-Job-Search-Action-Plan.php",
     "college": "Lehman College",
     "date": "2025-06-16",
     "time": "2:00 PM- 3:00 PM",
