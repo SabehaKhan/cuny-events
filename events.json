@@ -1159,16 +1159,6 @@
     ]
   },
   {
-    "title": "CSI Summer Blood Drive",
-    "link": "https://events.cuny.edu/cec/csi-summer-blood-drive-2/",
-    "college": "College of Staten Island",
-    "date": "2025-06-15",
-    "time": "10:00 AM - 4:00 PM",
-    "tags": [
-      "Health and Wellness Services"
-    ]
-  },
-  {
     "title": "AAARI 24th Annual Gala",
     "link": "https://events.cuny.edu/cec/aaari-24th-annual-gala/",
     "college": "Asian American / Asian Research Institute",
@@ -1256,19 +1246,11 @@
     "tags": []
   },
   {
-    "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/lkr1CL9XMA9uGIfycXWd14",
-    "college": "Queens College",
-    "date": "2025-06-15",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "SU Ballroom Lighting Repairs",
-    "link": "https://qc.event.cuny.edu/events/Dn3t8jijRGIRwyY0OExM/UIzYIItsOEccYbqRbhkN",
-    "college": "Queens College",
-    "date": "2025-06-15",
-    "time": "8:00AM",
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005280",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-18",
+    "time": "12:30 PM - 01:30 PM",
     "tags": []
   },
   {
@@ -1384,19 +1366,11 @@
     "tags": []
   },
   {
-    "title": "BOE Primary Election",
-    "link": "https://citytech.event.cuny.edu/events/GslaQPT8EfirmCGMB2jI/Cb6twcYKj8rcKmp5mawv2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-15",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "Writing Center tutoring",
-    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju7",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-15",
-    "time": "10:00AM",
+    "title": "SU25 Rooms Holding for Programs",
+    "link": "https://qc.event.cuny.edu/events/Etjt0LCWyzOh9ZcmDtCP/x6y8Bew4YBJ2YfkUd4Vq14",
+    "college": "Queens College",
+    "date": "2025-06-19",
+    "time": "",
     "tags": []
   },
   {
@@ -1541,6 +1515,22 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-06-17",
     "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "Building Systems and Mechanicals",
+    "link": "https://citytech.event.cuny.edu/events/NFVipoMx3DX1t5s1LbFO/uKMRpYbJMLYw6zNUSqkR7",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-17",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "BOE Primary Election",
+    "link": "https://citytech.event.cuny.edu/events/GslaQPT8EfirmCGMB2jI/Cb6twcYKj8rcKmp5mawv5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-18",
+    "time": "7:00AM",
     "tags": []
   },
   {
@@ -1832,14 +1822,6 @@
     "tags": []
   },
   {
-    "title": "Verification of Enrollment Rosters due from faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-6",
-    "college": "York College",
-    "date": "2025-06-15",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
     "title": "R2T4 60% date for 4-Week 1 session",
     "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-1-session-1",
     "college": "York College",
@@ -1902,6 +1884,119 @@
     "date": "2025-07-07",
     "time": "4:00 AM - 3:59 AM",
     "tags": []
+  },
+  {
+    "title": "FILM SCREENING: NO NOS MOVERÁN / WE SHALL NOT BE MOVED",
+    "link": "https://www.gc.cuny.edu/events/film-screening-no-nos-moveran-we-shall-not-be-moved",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-17",
+    "time": "5:30 pm — 9:30 pm",
+    "location": "1218: Segal Theatre",
+    "tags": [
+      "Bildner Center for Western Hemisphere Studies"
+    ]
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-june-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-18",
+    "time": "10:00 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "ADVANCED DRUPAL TRAINING",
+    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-june-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-18",
+    "time": "2:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "ALUMNI WALKING TOUR OF THE NYC REVOLUTIONARY TRAIL",
+    "link": "https://www.gc.cuny.edu/events/alumni-walking-tour-nyc-revolutionary-trail",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-21",
+    "time": "11:00 am — 1:00 pm",
+    "location": "Non-GC Location (see description for details)",
+    "tags": [
+      "Institutional Advancement",
+      "Alumni Relations",
+      "Gotham Center for New York City History",
+      "Alumni"
+    ]
+  },
+  {
+    "title": "DRUPAL OPEN SESSION",
+    "link": "https://www.gc.cuny.edu/events/drupal-open-session-june-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-06-25",
+    "time": "10:00 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-july-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-09",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "ADVANCED DRUPAL TRAINING",
+    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-july-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-09",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "VALERIE STEELE: FASHION, HISTORY, MUSEUMS",
+    "link": "https://www.gc.cuny.edu/events/valerie-steele-fashion-history-museums",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-09",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "NGOZI OKARO: REDESIGNING THE FUTURE OF AMERICAN FASHION",
+    "link": "https://www.gc.cuny.edu/events/ngozi-okaro-redesigning-future-american-fashion",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-16",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "LESLIE E. HARRIS: THE MEDICALIZATION OF BEAUTY",
+    "link": "https://www.gc.cuny.edu/events/leslie-e-harris-medicalization-beauty",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-23",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
   },
   {
     "title": "QCC Resource Fair & Welcome Event",
