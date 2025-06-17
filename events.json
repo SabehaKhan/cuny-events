@@ -212,25 +212,6 @@
     ]
   },
   {
-    "title": "Fall 2025 CUNY Transfer Application Workshop",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/2b6de271-f163-4211-a1f8-9cfd959bea01",
-    "college": "Kingsborough Community College",
-    "date": "2025-06-16",
-    "time": "08:00 PM - 09:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Adult Learner In-Person Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-adult-learner-in-person-information-session-11/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-16",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Continuing Education Resource Fair",
     "link": "https://www.laguardia.edu/event/continuing-education-resource-fair-4/",
     "college": "LaGuardia Community College",
@@ -553,15 +534,14 @@
     ]
   },
   {
-    "title": "Spring 1 2025 Study-a-Thon",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376371",
-    "college": "Guttman Community College",
-    "date": "2025-06-16",
-    "time": "01:00 PM - 01:00 AM",
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-07-30/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-30",
+    "time": "12:00 PM - 12:30 PM",
     "tags": [
-      "ASC",
-      "Academic",
-      "Tutoring"
+      "all calendars",
+      "student events"
     ]
   },
   {
@@ -597,7 +577,7 @@
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376407",
     "college": "Guttman Community College",
     "date": "2025-06-21",
-    "time": "02:30 PM - 06:30 PM",
+    "time": "02:00 PM - 06:00 PM",
     "tags": [
       "EMSA",
       "Support Session",
@@ -730,16 +710,6 @@
       "EMSA",
       "Educational/Awareness",
       "AccessABILITY Services"
-    ]
-  },
-  {
-    "title": "Nurse Anesthesia Acute Care NP (DNP) Program Information Session - Online (Zoom)",
-    "link": "https://hunter.cuny.edu/event/nurse-anesthesia-acute-care-np-dnp-program-information-session-online-zoom/",
-    "college": "Hunter College",
-    "date": "2025-06-16",
-    "time": "04:00 PM - 06:00 PM",
-    "tags": [
-      "Open Houses"
     ]
   },
   {
@@ -1023,17 +993,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-254/2025-06-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-16",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Take a Tour of BMCC’s Campus",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-89/2025-06-17/",
     "college": "Borough of Manhattan Community College",
@@ -1053,6 +1012,17 @@
     "tags": [
       "Featured",
       "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-254/2025-06-17/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-17",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -1165,45 +1135,6 @@
     ]
   },
   {
-    "title": "AAARI 24th Annual Gala",
-    "link": "https://events.cuny.edu/cec/aaari-24th-annual-gala/",
-    "college": "Asian American / Asian Research Institute",
-    "date": "2025-06-16",
-    "time": "6:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "SUMMER 2025 EARLY RESEARCH SERIES • Cell Biology and Microscopy",
-    "link": "https://events.cuny.edu/cec/summer-2025-early-research-series-cell-biology-and-microscopy/",
-    "college": "College of Staten Island",
-    "date": "2025-06-16",
-    "time": "6:00 PM - 9:00 PM",
-    "tags": [
-      "Biology",
-      "Division of Science and Technology"
-    ]
-  },
-  {
-    "title": "The 13th ETOPIM International Conference",
-    "link": "https://asrc.gc.cuny.edu/event/the-13th-etopim-international-conference/",
-    "college": "Advanced Science Research Center, GC/CUNY",
-    "date": "2025-06-16",
-    "time": "8:15 AM - 5:00 PM",
-    "tags": [
-      "Photonics"
-    ]
-  },
-  {
-    "title": "The 2025 Research and Innovation Marathon Relay",
-    "link": "https://asrc.gc.cuny.edu/event/2025-research-and-innovation-marathon-relay/",
-    "college": "Advanced Science Research Center, GC/CUNY",
-    "date": "2025-06-16",
-    "time": "12:00 PM - 11:00 AM",
-    "tags": [
-      "Environmental Sciences"
-    ]
-  },
-  {
     "title": "Observance of Daylight Hour",
     "link": "https://events.cuny.edu/cec/observance-of-daylight-hour/",
     "college": "College of Staten Island",
@@ -1244,14 +1175,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005272",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-17",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "Take a Tour of BMCC’s Campus",
     "link": "https://www.bmcc.cuny.edu/event/?p=10005280",
     "college": "Borough of Manhattan Community College",
@@ -1260,36 +1183,22 @@
     "tags": []
   },
   {
-    "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/XQEFparLUCS3eDfgeDQQ15",
-    "college": "Queens College",
-    "date": "2025-06-16",
-    "time": "",
+    "title": "Graduate Application and Enrollment Roundtable",
+    "link": "https://lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--9.php",
+    "college": "Lehman College",
+    "date": "2025-06-19",
+    "time": "12:00 PM - 1:00 PM",
     "tags": []
   },
   {
-    "title": "SU25 Rooms Holding for Programs",
-    "link": "https://qc.event.cuny.edu/events/Etjt0LCWyzOh9ZcmDtCP/x6y8Bew4YBJ2YfkUd4Vq11",
-    "college": "Queens College",
-    "date": "2025-06-16",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "President's Office: Juneteenth Event",
-    "link": "https://qc.event.cuny.edu/events/kPJiHggrSeECnsiwr9nC/vw3dD6jGddHxugeYNURk",
-    "college": "Queens College",
-    "date": "2025-06-16",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Pre-Test Incoming Students",
-    "link": "https://qc.event.cuny.edu/events/CDd6xdz6supOEu7u2XCY/rvaGDVumn2rmkcx7DIoH",
-    "college": "Queens College",
-    "date": "2025-06-16",
-    "time": "3:00PM",
-    "tags": []
+    "title": "CUNY at Bronx Pride",
+    "link": "https://events.cuny.edu/cec/cuny-at-bronx-pride/",
+    "college": "The City College of New York",
+    "date": "2025-06-21",
+    "time": "12:00 PM - 6:00 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
   },
   {
     "title": "ITS Upgrade Project",
@@ -1388,59 +1297,35 @@
     "tags": []
   },
   {
-    "title": "BOE Primary Election",
-    "link": "https://citytech.event.cuny.edu/events/GslaQPT8EfirmCGMB2jI/Cb6twcYKj8rcKmp5mawv3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-16",
-    "time": "7:00AM",
+    "title": "LGA Commencement",
+    "link": "https://qc.event.cuny.edu/events/A84hbixJgmNkUjgym6VH/PtkLRvxwrPOjVXGJUcqW",
+    "college": "Queens College",
+    "date": "2025-06-19",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "A Better Chance for Success Workshop",
-    "link": "https://citytech.event.cuny.edu/events/KpYpHBodtVGSMVKEANl3/HGJOF97FZJIMjxwGvbol117",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-16",
-    "time": "9:30AM",
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/lkr1CL9XMA9uGIfycXWd19",
+    "college": "Queens College",
+    "date": "2025-06-20",
+    "time": "",
     "tags": []
   },
   {
-    "title": "National Science Foundation Summer Camp",
-    "link": "https://citytech.event.cuny.edu/events/HZ5kYuN1pBZKAiXjPFuH/Izc2MZ6YHwyRDNYz0r1Z",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-16",
-    "time": "10:00AM",
+    "title": "SU25 Rooms Holding for Programs",
+    "link": "https://qc.event.cuny.edu/events/Etjt0LCWyzOh9ZcmDtCP/x6y8Bew4YBJ2YfkUd4Vq15",
+    "college": "Queens College",
+    "date": "2025-06-20",
+    "time": "",
     "tags": []
   },
   {
-    "title": "CUNY2X Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/kWhuR18AumYM6AXuuzmt",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-16",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "Writing Center tutoring",
-    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-16",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "TTPR Bootcamp professional Development",
-    "link": "https://citytech.event.cuny.edu/events/Rk0sJxUzBb9xbfgPjTWg/fdHoSOMsvbOLWe2D7I8L4",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-16",
-    "time": "2:00PM",
-    "tags": []
-  },
-  {
-    "title": "Math Department",
-    "link": "https://citytech.event.cuny.edu/events/D4nqRBSXnYjfQPxHLNFs/BNzCniPzZDNs00EeAdSS11",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-16",
-    "time": "3:00PM",
+    "title": "Cuny Park",
+    "link": "https://qc.event.cuny.edu/events/nxE6p9qx3t5dGcX1fVgX/Aj3IKBgImRmQSluJ5aST",
+    "college": "Queens College",
+    "date": "2025-06-20",
+    "time": "6:00AM",
     "tags": []
   },
   {
@@ -1545,6 +1430,62 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-06-18",
     "time": "7:00AM",
+    "tags": []
+  },
+  {
+    "title": "Prepping for ceremony",
+    "link": "https://citytech.event.cuny.edu/events/PeYWn9sr4mbsMAyLoLeR/AGANsqQkbigAWpDm69PJ",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-18",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "CUNY2X Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/qZo7jYCbi8mspARWa5JX",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-18",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Development: Career Development Day",
+    "link": "https://citytech.event.cuny.edu/events/h3RqQHCv34wHYv7WW3fe/t4GlH07EBZacPkFLdx8a",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-18",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Writing Center tutoring",
+    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju10",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-18",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "General Tour",
+    "link": "https://citytech.event.cuny.edu/events/euQYteSOCmEyfW3XwROr/DuWncOx1746JLjpxNdvD",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-18",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "BEOC Allied Health Pinning Ceremony",
+    "link": "https://citytech.event.cuny.edu/events/D5YjzZci3cBY2sD3sw9b/vfwDRmJc2heg1NaokCsy",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-18",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "A Better Chance for Success Workshop",
+    "link": "https://citytech.event.cuny.edu/events/v9dz0FDjbOldWVRchln3/ZGGov2pVu4cFOK1jJYjd17",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-18",
+    "time": "1:00PM",
     "tags": []
   },
   {
@@ -1692,22 +1633,6 @@
     "tags": []
   },
   {
-    "title": "Your Job Search Action Plan",
-    "link": "https://www.lehman.edu/events/2025/Your-Job-Search-Action-Plan.php",
-    "college": "Lehman College",
-    "date": "2025-06-16",
-    "time": "2:00 PM- 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Land your Internship !",
-    "link": "https://www.lehman.edu/events/2025/Land-your-Internship-.php",
-    "college": "Lehman College",
-    "date": "2025-06-16",
-    "time": "3:00 PM- 4:00 PM",
-    "tags": []
-  },
-  {
     "title": "Mastering the Art of Interviewing",
     "link": "https://www.lehman.edu/events/2025/Mastering-the-Art-of-Interviewing--1.php",
     "college": "Lehman College",
@@ -1764,6 +1689,22 @@
     "tags": []
   },
   {
+    "title": "Graduate Application and Enrollment Roundtable",
+    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--11.php",
+    "college": "Lehman College",
+    "date": "2025-07-17",
+    "time": "12:00 PM- 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Graduate Admissions: The Application Process and Other Tips",
+    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--12.php",
+    "college": "Lehman College",
+    "date": "2025-07-24",
+    "time": "12:00 PM- 1:00 PM",
+    "tags": []
+  },
+  {
     "title": "Fourth of July",
     "link": "https://www.jjay.cuny.edu/news-events/events/fourth-july",
     "college": "John Jay College of Criminal Justice",
@@ -1785,14 +1726,6 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-09-01",
     "time": "01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "New Student Virtual Summer Engagement Opportunities: Parents & Families Partnering with Academic Affairs & Student Affairs",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/new-student-virtual-summer-engagement-opportunities-parents-families-partnering-with-academic-affairs-student-affairs/",
-    "college": "Macaulay Honors College",
-    "date": "2025-06-16",
-    "time": "7:00PM",
     "tags": []
   },
   {
@@ -1833,14 +1766,6 @@
     "college": "Macaulay Honors College",
     "date": "2025-09-07",
     "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for 4-Week 1 session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-1-session-1",
-    "college": "York College",
-    "date": "2025-06-16",
-    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
