@@ -982,115 +982,6 @@
     ]
   },
   {
-    "title": "Lunch and Learn at Learning Resource Center",
-    "link": "https://www.bmcc.cuny.edu/event/lunch-and-learn-at-learning-resource-center/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-18",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-89/2025-06-18/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-18",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (In-Person)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-49/2025-06-18/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-18",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Chat with an Admissions Representative",
-    "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-130/2025-06-19/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-19",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-23",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-254/2025-06-23/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-23",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Randolph Library Book Club",
-    "link": "https://www.bmcc.cuny.edu/event/randolph-library-book-club/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-25",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "Library",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "CUNY in the Heights: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-in-the-heights-applicant-workshop-18/2025-06-26/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-26",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": [
-      "Admissions",
-      "CUNY in The Heights",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Blood Drive: Urgent Need for Blood Donations",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-blood-drive-urgent-need-for-blood-donations/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-26",
-    "time": "12:00 PM - 06:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-17/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-30",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Featured"
-    ]
-  },
-  {
     "title": "Compost Workshop (PG CLUE)",
     "link": "https://csi.campuslabs.com/engage/event/11324323",
     "college": "College of Staten Island",
@@ -1103,11 +994,43 @@
     ]
   },
   {
+    "title": "Lunch and Learn at Learning Resource Center",
+    "link": "https://www.bmcc.cuny.edu/event/?p=656586",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-18",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005280",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-18",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (In-Person)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005283",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-18",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
     "title": "Graduate Application and Enrollment Roundtable",
     "link": "https://lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--9.php",
     "college": "Lehman College",
     "date": "2025-06-19",
     "time": "12:00 PM - 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Chat with an Admissions Representative",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005287",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-19",
+    "time": "06:00 PM - 07:00 PM",
     "tags": []
   },
   {
@@ -1136,6 +1059,22 @@
     "college": "Hunter College",
     "date": "2025-06-23",
     "time": "6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=655860",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-23",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005273",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-23",
+    "time": "06:00 PM - 07:00 PM",
     "tags": []
   },
   {
