@@ -202,18 +202,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom/2025-06-20/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-20",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Kaplan Education Foundation: Transfer College Visit to SUNY Old Westbury",
     "link": "https://www.laguardia.edu/event/kaplan-education-foundation-transfer-college-visit-to-suny-old-westbury/",
     "college": "LaGuardia Community College",
@@ -532,6 +520,18 @@
     "date": "2025-07-23",
     "time": "08:00 PM - 08:30 PM",
     "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom/2025-07-24/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-24",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
       "all calendars",
       "student events"
     ]
@@ -1772,119 +1772,6 @@
     "date": "2025-07-08",
     "time": "4:00 AM - 3:59 AM",
     "tags": []
-  },
-  {
-    "title": "ALUMNI WALKING TOUR OF THE NYC REVOLUTIONARY TRAIL",
-    "link": "https://www.gc.cuny.edu/events/alumni-walking-tour-nyc-revolutionary-trail",
-    "college": "CUNY Graduate Center",
-    "date": "2025-06-21",
-    "time": "11:00 am — 1:00 pm",
-    "location": "Non-GC Location (see description for details)",
-    "tags": [
-      "Institutional Advancement",
-      "Alumni Relations",
-      "Gotham Center for New York City History",
-      "Alumni"
-    ]
-  },
-  {
-    "title": "DRUPAL OPEN SESSION",
-    "link": "https://www.gc.cuny.edu/events/drupal-open-session-june-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-06-25",
-    "time": "10:00 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "DRUPAL BASICS TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-july-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-09",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "ADVANCED DRUPAL TRAINING",
-    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-july-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-09",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "VALERIE STEELE: FASHION, HISTORY, MUSEUMS",
-    "link": "https://www.gc.cuny.edu/events/valerie-steele-fashion-history-museums",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-09",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "NGOZI OKARO: REDESIGNING THE FUTURE OF AMERICAN FASHION",
-    "link": "https://www.gc.cuny.edu/events/ngozi-okaro-redesigning-future-american-fashion",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-16",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "LESLIE E. HARRIS: THE MEDICALIZATION OF BEAUTY",
-    "link": "https://www.gc.cuny.edu/events/leslie-e-harris-medicalization-beauty",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-23",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "DONNA ZAKOWSKA: FASHIONING COSTUMES, COSTUMING FASHION",
-    "link": "https://www.gc.cuny.edu/events/donna-zakowska-fashioning-costumes-costuming-fashion",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-30",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "DRUPAL BASICS TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-aug-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-08-13",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "ADVANCED DRUPAL TRAINING",
-    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-aug-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-08-13",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
   },
   {
     "title": "FAFSA Fest",
