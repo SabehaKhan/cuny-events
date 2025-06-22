@@ -1,13 +1,5 @@
 [
   {
-    "title": "CUNY at Bronx Pride",
-    "link": "https://www.ccny.cuny.edu/calendar/cuny-bronx-pride",
-    "college": "City College of New York",
-    "date": "2025-06-21",
-    "time": "12:00 PM - 06:00 PM",
-    "tags": []
-  },
-  {
     "title": "Classes follow a Thursday schedule",
     "link": "https://www.ccny.cuny.edu/calendar/classes-follow-thursday-schedule",
     "college": "City College of New York",
@@ -537,19 +529,6 @@
     ]
   },
   {
-    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376407",
-    "college": "Guttman Community College",
-    "date": "2025-06-21",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "Financial Aid",
-      "FASFA & TAP Applications"
-    ]
-  },
-  {
     "title": "Abilities Club Recruitment Time",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376409",
     "college": "Guttman Community College",
@@ -981,6 +960,93 @@
     ]
   },
   {
+    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-16/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-23",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-254/2025-06-23/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-23",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Randolph Library Book Club",
+    "link": "https://www.bmcc.cuny.edu/event/randolph-library-book-club/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-25",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "Library",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (In-Person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-49/2025-06-25/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-25",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "CUNY in the Heights: Applicant Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-in-the-heights-applicant-workshop-18/2025-06-26/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-26",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Admissions",
+      "CUNY in The Heights",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Chat with an Admissions Representative",
+    "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-130/2025-06-26/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-26",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Blood Drive: Urgent Need for Blood Donations",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-blood-drive-urgent-need-for-blood-donations/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-26",
+    "time": "12:00 PM - 06:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-17/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-30",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Featured"
+    ]
+  },
+  {
     "title": "Compost Workshop (PG CLUE)",
     "link": "https://csi.campuslabs.com/engage/event/11324323",
     "college": "College of Staten Island",
@@ -990,16 +1056,6 @@
       "ThoughtfulLearning",
       "PG CLUE",
       "Sustainability"
-    ]
-  },
-  {
-    "title": "CUNY at Bronx Pride",
-    "link": "https://events.cuny.edu/cec/cuny-at-bronx-pride/",
-    "college": "The City College of New York",
-    "date": "2025-06-21",
-    "time": "12:00 PM - 6:00 PM",
-    "tags": [
-      "LGBTQI+"
     ]
   },
   {
@@ -1018,22 +1074,6 @@
     "college": "Hunter College",
     "date": "2025-06-23",
     "time": "6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=655860",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-23",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005273",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-23",
-    "time": "06:00 PM - 07:00 PM",
     "tags": []
   },
   {
@@ -1060,30 +1100,6 @@
     "college": "Hunter College",
     "date": "2025-06-25",
     "time": "5:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Randolph Library Book Club",
-    "link": "https://www.bmcc.cuny.edu/event/?p=654964",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-25",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/XQEFparLUCS3eDfgeDQQ20",
-    "college": "Queens College",
-    "date": "2025-06-21",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "The SPEAKHIRE SUMMIT",
-    "link": "https://qc.event.cuny.edu/events/qKzRrhD6GPLOxMWdAJwu/eeoozVOyjOaNC0ymwdcy",
-    "college": "Queens College",
-    "date": "2025-06-21",
-    "time": "9:00AM",
     "tags": []
   },
   {
@@ -1191,27 +1207,19 @@
     "tags": []
   },
   {
+    "title": "Public Safety Lunch",
+    "link": "https://qc.event.cuny.edu/events/AQyvDOYB0vGI9vyg1Tlj/H8M8G8ETFXGEGEaUXoFW",
+    "college": "Queens College",
+    "date": "2025-06-25",
+    "time": "7:00AM",
+    "tags": []
+  },
+  {
     "title": "Recruitment Fair",
     "link": "https://baruch.event.cuny.edu/events/yn20uFewzOBPDv1mWrRm/JLnPNoHu0vr03jGOtL0H",
     "college": "Baruch College",
     "date": "2025-06-26",
     "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "BOE Primary Election",
-    "link": "https://citytech.event.cuny.edu/events/GslaQPT8EfirmCGMB2jI/Cb6twcYKj8rcKmp5mawv8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-21",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "Writing Center tutoring",
-    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju13",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-21",
-    "time": "10:00AM",
     "tags": []
   },
   {
@@ -1348,6 +1356,22 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-06-25",
     "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "A Better Chance for Success Workshop",
+    "link": "https://citytech.event.cuny.edu/events/v9dz0FDjbOldWVRchln3/ZGGov2pVu4cFOK1jJYjd18",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-25",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "TTPR Bootcamp professional Development",
+    "link": "https://citytech.event.cuny.edu/events/Rk0sJxUzBb9xbfgPjTWg/fdHoSOMsvbOLWe2D7I8L10",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-25",
+    "time": "2:00PM",
     "tags": []
   },
   {
@@ -1719,20 +1743,6 @@
     "tags": []
   },
   {
-    "title": "ALUMNI WALKING TOUR OF THE NYC REVOLUTIONARY TRAIL",
-    "link": "https://www.gc.cuny.edu/events/alumni-walking-tour-nyc-revolutionary-trail",
-    "college": "CUNY Graduate Center",
-    "date": "2025-06-21",
-    "time": "11:00 am — 1:00 pm",
-    "location": "Non-GC Location (see description for details)",
-    "tags": [
-      "Institutional Advancement",
-      "Alumni Relations",
-      "Gotham Center for New York City History",
-      "Alumni"
-    ]
-  },
-  {
     "title": "DRUPAL OPEN SESSION",
     "link": "https://www.gc.cuny.edu/events/drupal-open-session-june-2025",
     "college": "CUNY Graduate Center",
@@ -1826,6 +1836,17 @@
     "college": "CUNY Graduate Center",
     "date": "2025-08-13",
     "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-sept-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "10:00 am — 11:30 am",
     "location": "Online",
     "tags": [
       "Communications and Marketing"
