@@ -1,13 +1,5 @@
 [
   {
-    "title": "Classes follow a Thursday schedule",
-    "link": "https://www.ccny.cuny.edu/calendar/classes-follow-thursday-schedule",
-    "college": "City College of New York",
-    "date": "2025-06-23",
-    "time": "12:00 AM - 11:59 PM",
-    "tags": []
-  },
-  {
     "title": "Planetarium Event: First Look from Vera Rubin Observatory",
     "link": "https://www.ccny.cuny.edu/calendar/planetarium-event-first-look-vera-rubin-observatory",
     "college": "City College of New York",
@@ -1047,6 +1039,114 @@
     ]
   },
   {
+    "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter/2025-06-23/",
+    "college": "Bronx Community College",
+    "date": "2025-06-23",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Campus Events",
+      "Enrollment Management",
+      "Feature",
+      "Registration Events",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter/2025-06-30/",
+    "college": "Bronx Community College",
+    "date": "2025-06-30",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Campus Events",
+      "Enrollment Management",
+      "Feature",
+      "Registration Events",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter/2025-07-07/",
+    "college": "Bronx Community College",
+    "date": "2025-07-07",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Campus Events",
+      "Enrollment Management",
+      "Feature",
+      "Registration Events",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter/2025-07-14/",
+    "college": "Bronx Community College",
+    "date": "2025-07-14",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Campus Events",
+      "Enrollment Management",
+      "Feature",
+      "Registration Events",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "AI Workshop - Library",
+    "link": "https://www.bcc.cuny.edu/event/ai-workshop-library/2025-07-17/",
+    "college": "Bronx Community College",
+    "date": "2025-07-17",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter/2025-07-21/",
+    "college": "Bronx Community College",
+    "date": "2025-07-21",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Campus Events",
+      "Enrollment Management",
+      "Feature",
+      "Registration Events",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "AI Workshop - Library",
+    "link": "https://www.bcc.cuny.edu/event/ai-workshop-library/2025-07-23/",
+    "college": "Bronx Community College",
+    "date": "2025-07-23",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "AI Workshop - Library",
+    "link": "https://www.bcc.cuny.edu/event/ai-workshop-library/2025-07-24/",
+    "college": "Bronx Community College",
+    "date": "2025-07-24",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter/2025-07-28/",
+    "college": "Bronx Community College",
+    "date": "2025-07-28",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Campus Events",
+      "Enrollment Management",
+      "Feature",
+      "Registration Events",
+      "Virtual Event"
+    ]
+  },
+  {
     "title": "Compost Workshop (PG CLUE)",
     "link": "https://csi.campuslabs.com/engage/event/11324323",
     "college": "College of Staten Island",
@@ -1682,7 +1782,7 @@
     "title": "CLC Summer 2025 Tutoring Available!",
     "link": "https://www.york.cuny.edu/collaborative-learning-center/announcements/summer-2025-tutoring",
     "college": "York College",
-    "date": "2025-06-23",
+    "date": "2025-06-24",
     "time": "1:00 PM - 9:00 PM",
     "tags": []
   },
