@@ -1,13 +1,5 @@
 [
   {
-    "title": "Planetarium Event: First Look from Vera Rubin Observatory",
-    "link": "https://www.ccny.cuny.edu/calendar/planetarium-event-first-look-vera-rubin-observatory",
-    "college": "City College of New York",
-    "date": "2025-06-23",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": []
-  },
-  {
     "title": "CCA - What is Proactive Health Webinar",
     "link": "https://www.ccny.cuny.edu/calendar/tiaa-one-one-counseling-ccny-faculty-and-staff-0",
     "college": "City College of New York",
@@ -146,14 +138,6 @@
     ]
   },
   {
-    "title": "Kaplan Midterm",
-    "link": "https://www.law.cuny.edu/event/kaplan-midterm/",
-    "college": "CUNY School of Law",
-    "date": "2025-06-23",
-    "time": "09:15 AM - 04:30 PM",
-    "tags": []
-  },
-  {
     "title": "MBE Mock Test Day (using PMBR)",
     "link": "https://www.law.cuny.edu/event/mbe-mock-test-day-using-pmbr/",
     "college": "CUNY School of Law",
@@ -186,15 +170,64 @@
     "tags": []
   },
   {
-    "title": "Kaplan Education Foundation: Transfer College Visit to SUNY Old Westbury",
-    "link": "https://www.laguardia.edu/event/kaplan-education-foundation-transfer-college-visit-to-suny-old-westbury/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-23",
-    "time": "08:00 AM - 05:00 PM",
+    "title": "Grow Your Audience: AI for SEO Optimization",
+    "link": "https://www.journalism.cuny.edu/events/grow-your-audience-ai-for-seo-optimization/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-06-25",
+    "time": "02:00 PM - 03:30 PM",
     "tags": [
-      "all calendars",
-      "student events"
+      "Center for Community Media"
     ]
+  },
+  {
+    "title": "Marketing Strategy 2.0: Sustainable Revenue Streams in the Age of AI",
+    "link": "https://www.journalism.cuny.edu/events/marketing-strategy-2-0-sustainable-revenue-streams-in-the-age-of-ai/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-06-26",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Community Media"
+    ]
+  },
+  {
+    "title": "CUNY Transfer Application Workshop",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/db554850-144f-4f37-b316-3fa73901de3e",
+    "college": "Kingsborough Community College",
+    "date": "2025-06-24",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Transfer Application Workshop",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/8b47392a-7be7-4000-ae31-a1c9a35a701f",
+    "college": "Kingsborough Community College",
+    "date": "2025-07-09",
+    "time": "06:00 PM - 06:30 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Transfer Application Workshop",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/1090e913-50fe-4a3d-8483-d0eb10762b31",
+    "college": "Kingsborough Community College",
+    "date": "2025-07-21",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Transfer Application Workshop",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/02a74de4-1a5f-4f72-acdf-c92807de8b06",
+    "college": "Kingsborough Community College",
+    "date": "2025-08-06",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Transfer Application Workshop",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/23bff175-22e9-4335-964e-c823fbcc1b31",
+    "college": "Kingsborough Community College",
+    "date": "2025-08-19",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": []
   },
   {
     "title": "Paint & Sip",
@@ -521,6 +554,17 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-07-24/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-24",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Abilities Club Recruitment Time",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376409",
     "college": "Guttman Community College",
@@ -658,16 +702,6 @@
       "EMSA",
       "Educational/Awareness",
       "AccessABILITY Services"
-    ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-06-23/",
-    "college": "Hunter College",
-    "date": "2025-06-23",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "Student Events"
     ]
   },
   {
@@ -952,96 +986,13 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-254/2025-06-23/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-23",
+    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
+    "link": "https://hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-4/2025-10-22/",
+    "college": "Hunter College",
+    "date": "2025-10-22",
     "time": "06:00 PM - 07:00 PM",
     "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Randolph Library Book Club",
-    "link": "https://www.bmcc.cuny.edu/event/randolph-library-book-club/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-25",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "Library",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (In-Person)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-49/2025-06-25/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-25",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "CUNY in the Heights: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-in-the-heights-applicant-workshop-18/2025-06-26/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-26",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": [
-      "Admissions",
-      "CUNY in The Heights",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Chat with an Admissions Representative",
-    "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-130/2025-06-26/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-26",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Blood Drive: Urgent Need for Blood Donations",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-blood-drive-urgent-need-for-blood-donations/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-26",
-    "time": "12:00 PM - 06:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-17/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-30",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Featured"
-    ]
-  },
-  {
-    "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter/2025-06-23/",
-    "college": "Bronx Community College",
-    "date": "2025-06-23",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": [
-      "Campus Events",
-      "Enrollment Management",
-      "Feature",
-      "Registration Events",
-      "Virtual Event"
+      "Open Houses"
     ]
   },
   {
@@ -1169,11 +1120,11 @@
     "tags": []
   },
   {
-    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=655860",
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005273",
     "college": "Borough of Manhattan Community College",
     "date": "2025-06-23",
-    "time": "12:00 PM - 01:00 PM",
+    "time": "06:00 PM - 07:00 PM",
     "tags": []
   },
   {
@@ -1200,6 +1151,32 @@
     "college": "Hunter College",
     "date": "2025-06-25",
     "time": "5:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Photonics Initiative seminar: Wencan Jin",
+    "link": "https://asrc.gc.cuny.edu/event/photonics-initiative-seminar-wencan-jin/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2025-06-25",
+    "time": "1:00 PM - 2:00 PM",
+    "tags": [
+      "Photonics"
+    ]
+  },
+  {
+    "title": "Randolph Library Book Club",
+    "link": "https://www.bmcc.cuny.edu/event/?p=654964",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-25",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (In-Person)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005284",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-25",
+    "time": "02:00 PM - 03:00 PM",
     "tags": []
   },
   {
@@ -1379,6 +1356,14 @@
     "tags": []
   },
   {
+    "title": "Fall 2025 New Student Orientation: Staff Video Filming",
+    "link": "https://citytech.event.cuny.edu/events/VrwLgwPUVQrBdSkHLMd3/KHixRHpKx1zutuQ3nskF",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-24",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
     "title": "TTPR Bootcamp professional Development",
     "link": "https://citytech.event.cuny.edu/events/Rk0sJxUzBb9xbfgPjTWg/fdHoSOMsvbOLWe2D7I8L9",
     "college": "New York City College of Technology (City Tech)",
@@ -1443,6 +1428,14 @@
     "tags": []
   },
   {
+    "title": "Fall 2025 New Student Orientation: Staff Video Filming",
+    "link": "https://citytech.event.cuny.edu/events/VrwLgwPUVQrBdSkHLMd3/fKPwEcJZZhwd9t5h9inw",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-06-25",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
     "title": "A Better Chance for Success Workshop",
     "link": "https://citytech.event.cuny.edu/events/v9dz0FDjbOldWVRchln3/ZGGov2pVu4cFOK1jJYjd18",
     "college": "New York City College of Technology (City Tech)",
@@ -1456,22 +1449,6 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-06-25",
     "time": "2:00PM",
-    "tags": []
-  },
-  {
-    "title": "Math Department",
-    "link": "https://citytech.event.cuny.edu/events/D4nqRBSXnYjfQPxHLNFs/BNzCniPzZDNs00EeAdSS18",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-25",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "Graduation",
-    "link": "https://citytech.event.cuny.edu/events/XPh6eDEGD579xqTzIwPm/Y8m9I253OV2oMr4BWmfi",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-25",
-    "time": "3:00PM",
     "tags": []
   },
   {
@@ -1683,14 +1660,6 @@
     "tags": []
   },
   {
-    "title": "Evaluating Internet & Print Research Sources",
-    "link": "https://www.jjay.cuny.edu/news-events/events/evaluating-internet-print-research-sources-2",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-06-23",
-    "time": "06:30 PM",
-    "tags": []
-  },
-  {
     "title": "Proofing & Editing for Grammar Errors",
     "link": "https://www.jjay.cuny.edu/news-events/events/proofing-editing-grammar-errors-1",
     "college": "John Jay College of Criminal Justice",
@@ -1841,116 +1810,6 @@
     "date": "2025-07-08",
     "time": "4:00 AM - 3:59 AM",
     "tags": []
-  },
-  {
-    "title": "DRUPAL OPEN SESSION",
-    "link": "https://www.gc.cuny.edu/events/drupal-open-session-june-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-06-25",
-    "time": "10:00 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "DRUPAL BASICS TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-july-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-09",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "ADVANCED DRUPAL TRAINING",
-    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-july-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-09",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "VALERIE STEELE: FASHION, HISTORY, MUSEUMS",
-    "link": "https://www.gc.cuny.edu/events/valerie-steele-fashion-history-museums",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-09",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "NGOZI OKARO: REDESIGNING THE FUTURE OF AMERICAN FASHION",
-    "link": "https://www.gc.cuny.edu/events/ngozi-okaro-redesigning-future-american-fashion",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-16",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "LESLIE E. HARRIS: THE MEDICALIZATION OF BEAUTY",
-    "link": "https://www.gc.cuny.edu/events/leslie-e-harris-medicalization-beauty",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-23",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "DONNA ZAKOWSKA: FASHIONING COSTUMES, COSTUMING FASHION",
-    "link": "https://www.gc.cuny.edu/events/donna-zakowska-fashioning-costumes-costuming-fashion",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-30",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "DRUPAL BASICS TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-aug-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-08-13",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "ADVANCED DRUPAL TRAINING",
-    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-aug-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-08-13",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "DRUPAL BASICS TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-sept-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-10",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
   },
   {
     "title": "FAFSA Fest",
