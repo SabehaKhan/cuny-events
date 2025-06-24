@@ -230,28 +230,6 @@
     "tags": []
   },
   {
-    "title": "Paint & Sip",
-    "link": "https://www.laguardia.edu/event/paint-sip/2025-06-24/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-24",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Resume Writing Workshop",
-    "link": "https://www.laguardia.edu/event/resume-writing-workshop-8/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-24",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-64/",
     "college": "LaGuardia Community College",
@@ -559,6 +537,28 @@
     "college": "LaGuardia Community College",
     "date": "2025-07-24",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-07-28/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-28",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Public Speaking: Speak with Confidence",
+    "link": "https://www.laguardia.edu/event/public-speaking-speak-with-confidence-2/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-29",
+    "time": "11:45 AM - 12:45 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1180,12 +1180,14 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005274",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-24",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
+    "title": "Get Over the Hump with FAFSA Wednesdays at Medgar Evers College",
+    "link": "https://events.cuny.edu/cec/get-over-the-hump-with-fafsa-wednesdays-at-medgar-evers-college/",
+    "college": "The University",
+    "date": "2025-06-25",
+    "time": "",
+    "tags": [
+      "Financial Aid"
+    ]
   },
   {
     "title": "The Second “Little Aunt Dora” Public Lecture: Still Asking Dr. Ruth",
@@ -1661,7 +1663,7 @@
   },
   {
     "title": "Jazz Power Community Workshop",
-    "link": "https://www.lehman.edu/events/2025/Jazz-Power-Community-Workshop-1.php",
+    "link": "https://www.lehman.edu/events/2025/Jazz-Power-Community-Workshop.php",
     "college": "Lehman College",
     "date": "2025-06-24",
     "time": "6:00 PM- 9:00 PM",
@@ -1673,6 +1675,14 @@
     "college": "Lehman College",
     "date": "2025-06-26",
     "time": "12:00 PM- 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Tumble! An Improv Salon",
+    "link": "https://www.lehman.edu/events/2025/Tumble-An-Improv-Salon.php",
+    "college": "Lehman College",
+    "date": "2025-06-28",
+    "time": "3:30 PM- 6:30 PM",
     "tags": []
   },
   {
@@ -1721,22 +1731,6 @@
     "college": "Lehman College",
     "date": "2025-07-24",
     "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Graduate Application and Enrollment Roundtable",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--12.php",
-    "college": "Lehman College",
-    "date": "2025-07-31",
-    "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Writing the Research Paper",
-    "link": "https://www.jjay.cuny.edu/news-events/events/writing-research-paper-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-06-24",
-    "time": "07:00 PM",
     "tags": []
   },
   {
