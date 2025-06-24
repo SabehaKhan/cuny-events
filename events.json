@@ -985,17 +985,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-254/2025-06-24/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-24",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Randolph Library Book Club",
     "link": "https://www.bmcc.cuny.edu/event/randolph-library-book-club/",
     "college": "Borough of Manhattan Community College",
@@ -1060,6 +1049,17 @@
     "date": "2025-06-30",
     "time": "12:00 PM - 01:00 PM",
     "tags": [
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-254/2025-06-30/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-30",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Admissions",
       "Featured"
     ]
   },
@@ -1178,6 +1178,14 @@
     "tags": [
       "LGBTQI+"
     ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005274",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-24",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
   },
   {
     "title": "The Second “Little Aunt Dora” Public Lecture: Still Asking Dr. Ruth",
@@ -1345,6 +1353,14 @@
     "college": "Queens College",
     "date": "2025-06-25",
     "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/XQEFparLUCS3eDfgeDQQ25",
+    "college": "Queens College",
+    "date": "2025-06-26",
+    "time": "",
     "tags": []
   },
   {
@@ -1716,14 +1732,6 @@
     "tags": []
   },
   {
-    "title": "Proofing & Editing for Grammar Errors",
-    "link": "https://www.jjay.cuny.edu/news-events/events/proofing-editing-grammar-errors-1",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-06-24",
-    "time": "04:15 PM",
-    "tags": []
-  },
-  {
     "title": "Writing the Research Paper",
     "link": "https://www.jjay.cuny.edu/news-events/events/writing-research-paper-0",
     "college": "John Jay College of Criminal Justice",
@@ -1761,6 +1769,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-07-04",
     "time": "01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Journey to Law School",
+    "link": "https://www.jjay.cuny.edu/news-events/events/journey-law-school",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-29",
+    "time": "05:00 PM",
     "tags": []
   },
   {
