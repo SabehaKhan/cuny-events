@@ -1092,14 +1092,6 @@
     ]
   },
   {
-    "title": "Graduate Admissions: The Application Process and Other Tips",
-    "link": "https://lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--10.php",
-    "college": "Lehman College",
-    "date": "2025-06-26",
-    "time": "12:00 PM - 1:00 PM",
-    "tags": []
-  },
-  {
     "title": "CUNY Marches in NYC Pride",
     "link": "https://events.cuny.edu/cec/cuny-marches-in-nyc-pride-2/",
     "college": "The City College of New York",
@@ -1116,6 +1108,16 @@
     "date": "2025-07-03",
     "time": "12:00 PM - 1:00 PM",
     "tags": []
+  },
+  {
+    "title": "2025 IEEE Workshop: Photonics Automation with Python",
+    "link": "https://asrc.gc.cuny.edu/event/2025-ieee-workshop-photonics-automation-with-python/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2025-07-07",
+    "time": "9:00 AM - 5:00 PM",
+    "tags": [
+      "Photonics"
+    ]
   },
   {
     "title": "ITS Upgrade Project",
@@ -1143,10 +1145,10 @@
   },
   {
     "title": "D75 Relocation",
-    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/rkUMvAQuu1zYC26nFQvR3",
+    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq3",
     "college": "Queens College",
     "date": "2025-06-26",
-    "time": "4:00AM",
+    "time": "7:00AM",
     "tags": []
   },
   {
@@ -1207,10 +1209,10 @@
   },
   {
     "title": "D75 Relocation",
-    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/rkUMvAQuu1zYC26nFQvR4",
+    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq4",
     "college": "Queens College",
     "date": "2025-06-27",
-    "time": "4:00AM",
+    "time": "7:00AM",
     "tags": []
   },
   {
@@ -1543,7 +1545,7 @@
   },
   {
     "title": "Graduate Admissions: The Application Process and Other Tips",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--10.php",
+    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips-.php",
     "college": "Lehman College",
     "date": "2025-06-26",
     "time": "12:00 PM- 1:00 PM",
@@ -1667,6 +1669,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-09-01",
     "time": "01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "9/11 Flag Planting Ceremony",
+    "link": "https://www.jjay.cuny.edu/news-events/events/911-flag-planting-ceremony",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-09-09",
+    "time": "05:45 PM",
     "tags": []
   },
   {
