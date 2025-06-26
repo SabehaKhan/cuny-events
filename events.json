@@ -1,13 +1,5 @@
 [
   {
-    "title": "CCA - What is Proactive Health Webinar",
-    "link": "https://www.ccny.cuny.edu/calendar/tiaa-one-one-counseling-ccny-faculty-and-staff-0",
-    "college": "City College of New York",
-    "date": "2025-06-26",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "CCNY CWE Admissions Workshop | Online | at CCNY CWE (25 Broadway)",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-cwe-admissions-workshop-online-ccny-cwe-25-broadway-3",
     "college": "City College of New York",
@@ -210,18 +202,6 @@
     "date": "2025-08-19",
     "time": "02:00 PM - 03:00 PM",
     "tags": []
-  },
-  {
-    "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom/2025-06-26/",
-    "college": "LaGuardia Community College",
-    "date": "2025-06-26",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
   },
   {
     "title": "Embracing Innovation Government & Business Expo",
@@ -547,6 +527,17 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-07-30/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-30",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Internship Power Hour",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376192",
     "college": "Guttman Community College",
@@ -587,6 +578,34 @@
     ]
   },
   {
+    "title": "The HUB Hour: Coming Fall 2025",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376412",
+    "college": "Guttman Community College",
+    "date": "2025-06-30",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "Complete Your FAFSA & TAP Application",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376418",
+    "college": "Guttman Community College",
+    "date": "2025-07-02",
+    "time": "04:00 PM - 05:30 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "FASFA & TAP Applications",
+      "Financial Aid",
+      "Satisfactory Academic Progress (SAP)",
+      "Federal Work Study"
+    ]
+  },
+  {
     "title": "CCSD Get Connected with Awesome Opportunities",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376408",
     "college": "Guttman Community College",
@@ -595,6 +614,34 @@
     "tags": [
       "EMSA",
       "Educational/Awareness"
+    ]
+  },
+  {
+    "title": "The HUB Hour: Coming Fall 2025",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376413",
+    "college": "Guttman Community College",
+    "date": "2025-07-14",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "Complete Your FAFSA & TAP Application",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376419",
+    "college": "Guttman Community College",
+    "date": "2025-07-16",
+    "time": "06:00 PM - 07:30 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "FASFA & TAP Applications",
+      "Financial Aid",
+      "Satisfactory Academic Progress (SAP)",
+      "Federal Work Study"
     ]
   },
   {
@@ -610,6 +657,21 @@
     ]
   },
   {
+    "title": "Complete Your FAFSA & TAP Application",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376420",
+    "college": "Guttman Community College",
+    "date": "2025-07-24",
+    "time": "04:00 PM - 05:30 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "FASFA & TAP Applications",
+      "Financial Aid",
+      "Satisfactory Academic Progress (SAP)",
+      "Federal Work Study"
+    ]
+  },
+  {
     "title": "TheDream.US - 2025 Summer Career Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376410",
     "college": "Guttman Community College",
@@ -620,6 +682,58 @@
       "Career Workshop",
       "Immigrant Student Success",
       "Conference"
+    ]
+  },
+  {
+    "title": "The HUB Hour: Coming Fall 2025",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376414",
+    "college": "Guttman Community College",
+    "date": "2025-07-28",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "The HUB Hour: Coming Fall 2025",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376415",
+    "college": "Guttman Community College",
+    "date": "2025-08-11",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "The HUB Hour: Coming Fall 2025",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376416",
+    "college": "Guttman Community College",
+    "date": "2025-08-25",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "The HUB Hour: Coming Fall 2025",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376417",
+    "college": "Guttman Community College",
+    "date": "2025-09-08",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
     ]
   },
   {
@@ -908,29 +1022,6 @@
     ]
   },
   {
-    "title": "CUNY in the Heights: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-in-the-heights-applicant-workshop-18/2025-06-26/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-26",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": [
-      "Admissions",
-      "CUNY in The Heights",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Chat with an Admissions Representative",
-    "link": "https://www.bmcc.cuny.edu/event/chat-with-an-admissions-representative-130/2025-06-26/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-26",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "BMCC Blood Drive: Urgent Need for Blood Donations",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-blood-drive-urgent-need-for-blood-donations/",
     "college": "Borough of Manhattan Community College",
@@ -1117,6 +1208,17 @@
     "time": "9:00 AM - 5:00 PM",
     "tags": [
       "Photonics"
+    ]
+  },
+  {
+    "title": "SUMMER 2025 EARLY RESEARCH SERIES • Metagenomics: DNA Sequencing",
+    "link": "https://events.cuny.edu/cec/summer-2025-early-research-series-metagenomics-dna-sequencing/",
+    "college": "College of Staten Island",
+    "date": "2025-07-08",
+    "time": "2:00 PM - 4:00 PM",
+    "tags": [
+      "Biology",
+      "Division of Science and Technology"
     ]
   },
   {
@@ -1621,14 +1723,6 @@
     "college": "Lehman College",
     "date": "2025-08-07",
     "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Documenting Research MLA Style",
-    "link": "https://www.jjay.cuny.edu/news-events/events/documenting-research-mla-style-1",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-06-26",
-    "time": "07:00 PM",
     "tags": []
   },
   {
