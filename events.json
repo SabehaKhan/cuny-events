@@ -521,19 +521,6 @@
     ]
   },
   {
-    "title": "Guttman Community College takes Six Flags Great Adventure",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376349",
-    "college": "Guttman Community College",
-    "date": "2025-06-27",
-    "time": "12:00 PM - 01:00 AM",
-    "tags": [
-      "OSL",
-      "Social - Off-Campus",
-      "Student Life",
-      "Trip - Day"
-    ]
-  },
-  {
     "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376405",
     "college": "Guttman Community College",
@@ -991,27 +978,6 @@
     ]
   },
   {
-    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-17/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-30",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-254/2025-06-30/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-30",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter/2025-06-30/",
     "college": "Bronx Community College",
@@ -1128,6 +1094,22 @@
     ]
   },
   {
+    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=655862",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-30",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005275",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-30",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
     "title": "Graduate Application and Enrollment Roundtable",
     "link": "https://lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--10.php",
     "college": "Lehman College",
@@ -1172,54 +1154,6 @@
     "college": "Lehman College",
     "date": "2025-07-10",
     "time": "12:00 PM - 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/lkr1CL9XMA9uGIfycXWd26",
-    "college": "Queens College",
-    "date": "2025-06-27",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "ITS Media Upgrade",
-    "link": "https://qc.event.cuny.edu/events/OduvbUWpJIPGf5ZABkba/sKKJLgRPh7PDSxkSWr8K4",
-    "college": "Queens College",
-    "date": "2025-06-27",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "SU25 Rooms Holding for Programs",
-    "link": "https://qc.event.cuny.edu/events/Etjt0LCWyzOh9ZcmDtCP/x6y8Bew4YBJ2YfkUd4Vq20",
-    "college": "Queens College",
-    "date": "2025-06-27",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "D75 Relocation",
-    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq4",
-    "college": "Queens College",
-    "date": "2025-06-27",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025 - Computer Labs",
-    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/X2xRcVcoGiQseSXcHZl2",
-    "college": "Queens College",
-    "date": "2025-06-27",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025",
-    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y11",
-    "college": "Queens College",
-    "date": "2025-06-27",
-    "time": "8:00AM",
     "tags": []
   },
   {
@@ -1311,27 +1245,43 @@
     "tags": []
   },
   {
-    "title": "Writing Center tutoring",
-    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju19",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-27",
-    "time": "10:00AM",
+    "title": "D75 Relocation",
+    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq6",
+    "college": "Queens College",
+    "date": "2025-07-01",
+    "time": "7:00AM",
     "tags": []
   },
   {
-    "title": "Math Department",
-    "link": "https://citytech.event.cuny.edu/events/D4nqRBSXnYjfQPxHLNFs/BNzCniPzZDNs00EeAdSS20",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-27",
-    "time": "3:00PM",
+    "title": "Summer Camp 2025 - Computer Labs",
+    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE2",
+    "college": "Queens College",
+    "date": "2025-07-01",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Professional Center for the Arts Tech Day",
-    "link": "https://citytech.event.cuny.edu/events/VCluKy299mwYWZxPEI9F/bb7uKy8KbETgoSfpoRRU",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-27",
-    "time": "3:00PM",
+    "title": "Summer Camp 2025",
+    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y13",
+    "college": "Queens College",
+    "date": "2025-07-01",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Mellon Mays Undergraduate Fellowship Orientation Retreat",
+    "link": "https://qc.event.cuny.edu/events/Qzxmqd5pteisTwPd4vtv/vCnCDgSf9wrfOstjEih2",
+    "college": "Queens College",
+    "date": "2025-07-01",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/Hm2L2lk4EIznEl1dGY4X113",
+    "college": "Queens College",
+    "date": "2025-07-02",
+    "time": "",
     "tags": []
   },
   {
@@ -1460,6 +1410,30 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-07-02",
     "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Writing Center tutoring",
+    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju24",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-02",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "CUNY2X Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/xeAZ63KMw4AVBznBKYEi",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-02",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2025 New Student Orientation: Staff Video Filming",
+    "link": "https://citytech.event.cuny.edu/events/VrwLgwPUVQrBdSkHLMd3/I3iw4LoVB6cWcQ8VB2pZ",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-02",
+    "time": "12:30PM",
     "tags": []
   },
   {
@@ -1772,6 +1746,14 @@
     "college": "York College",
     "date": "2025-07-13",
     "time": "4:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 10-Week session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-10-week-session-1",
+    "college": "York College",
+    "date": "2025-07-16",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
