@@ -1,13 +1,5 @@
 [
   {
-    "title": "CUNY at Harlem Pride",
-    "link": "https://www.ccny.cuny.edu/calendar/cuny-harlem-pride",
-    "college": "City College of New York",
-    "date": "2025-06-28",
-    "time": "12:00 PM - 06:00 PM",
-    "tags": []
-  },
-  {
     "title": "CUNY Marches in NYC Pride",
     "link": "https://www.ccny.cuny.edu/calendar/cuny-marches-nyc-pride-0",
     "college": "City College of New York",
@@ -110,16 +102,6 @@
     "date": "2026-05-02",
     "time": "12:00 PM - 05:00 PM",
     "tags": []
-  },
-  {
-    "title": "Outdoor Housing Resource Fair",
-    "link": "https://www.mec.cuny.edu/event/outdoor-housing-resource-fair/",
-    "college": "Medgar Evers College",
-    "date": "2025-06-28",
-    "time": "12:00 PM - 12:00 PM",
-    "tags": [
-      "Dubois-Bunche Center"
-    ]
   },
   {
     "title": "MBE Mock Test Day (using PMBR)",
@@ -518,19 +500,6 @@
       "admissions",
       "all calendars",
       "student events"
-    ]
-  },
-  {
-    "title": "CUNY FAST - Complete Your FAFSA and TAP Applications Workshop",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376405",
-    "college": "Guttman Community College",
-    "date": "2025-06-28",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "Financial Aid",
-      "FASFA & TAP Applications"
     ]
   },
   {
@@ -978,6 +947,27 @@
     ]
   },
   {
+    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/study-skills-workshops-study-smarter-not-harder-students-only-17/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-30",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-254/2025-06-30/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-06-30",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter/2025-06-30/",
     "college": "Bronx Community College",
@@ -1094,22 +1084,6 @@
     ]
   },
   {
-    "title": "Study Skills Workshops: Study Smarter, Not Harder (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=655862",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-30",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005275",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-06-30",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "Graduate Application and Enrollment Roundtable",
     "link": "https://lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--10.php",
     "college": "Lehman College",
@@ -1154,14 +1128,6 @@
     "college": "Lehman College",
     "date": "2025-07-10",
     "time": "12:00 PM - 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "NASP PREPaRE Workshop",
-    "link": "https://qc.event.cuny.edu/events/Gu59tOirJlW5cMWEav3J/DRAuRGQMM3doV4isAJXW",
-    "college": "Queens College",
-    "date": "2025-06-28",
-    "time": "8:00AM",
     "tags": []
   },
   {
@@ -1285,35 +1251,11 @@
     "tags": []
   },
   {
-    "title": "Professional Center for the Arts Show Day",
-    "link": "https://citytech.event.cuny.edu/events/mIbPJDsUHgg0zHvTF9DE/OxPARWOwiCqW9SaHK6vs",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-28",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Writing Center tutoring",
-    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju20",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-28",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Information Sessions",
-    "link": "https://citytech.event.cuny.edu/events/SYZ3zNG8hLa1TDRp9YiX/dx6UA2YnHKhVeEDjfcvi",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-28",
-    "time": "10:30AM",
-    "tags": []
-  },
-  {
-    "title": "NYC Deaf and Hard of  Hearing Association",
-    "link": "https://citytech.event.cuny.edu/events/TpOB7rDBK8MQbyVPXXP8/PSsg9vJl6On9V2Sv1Bt5",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-06-28",
-    "time": "1:00PM",
+    "title": "D75 Relocation",
+    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq7",
+    "college": "Queens College",
+    "date": "2025-07-02",
+    "time": "7:00AM",
     "tags": []
   },
   {
@@ -1437,11 +1379,35 @@
     "tags": []
   },
   {
-    "title": "Albita: \"100 Years of Son Cubano\" Concert",
-    "link": "https://hostos.event.cuny.edu/events/y3VRMhsSoKyxKPkjECPn/dlUyjEiEwTGCnvxAh8wb",
-    "college": "Hostos Community College",
-    "date": "2025-06-28",
-    "time": "8:00PM",
+    "title": "A Better Chance for Success Workshop",
+    "link": "https://citytech.event.cuny.edu/events/v9dz0FDjbOldWVRchln3/ZGGov2pVu4cFOK1jJYjd19",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-02",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "TTPR Bootcamp professional Development",
+    "link": "https://citytech.event.cuny.edu/events/Rk0sJxUzBb9xbfgPjTWg/fdHoSOMsvbOLWe2D7I8L14",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-02",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY2X Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/BMF9lkrto0L7uGtuTBiy",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-03",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Writing Center tutoring",
+    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju25",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-03",
+    "time": "10:00AM",
     "tags": []
   },
   {
@@ -1557,22 +1523,6 @@
     "tags": []
   },
   {
-    "title": "Tumble! An Improv Salon",
-    "link": "https://www.lehman.edu/events/2025/Tumble-An-Improv-Salon.php",
-    "college": "Lehman College",
-    "date": "2025-06-28",
-    "time": "3:30 PM- 6:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Honor America A patriotic concert with the Lehman College and Community Band",
-    "link": "https://www.lehman.edu/events/2025/Honor-AmericaA-patriotic-concert-with-the-Lehman-College-and-Community-Band.php",
-    "college": "Lehman College",
-    "date": "2025-06-28",
-    "time": "7:45 PM- 9:30 PM",
-    "tags": []
-  },
-  {
     "title": "Graduate Application and Enrollment Roundtable",
     "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--10.php",
     "college": "Lehman College",
@@ -1634,6 +1584,14 @@
     "college": "Lehman College",
     "date": "2025-08-14",
     "time": "12:00 PM- 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "BA-Social Work Information Session",
+    "link": "https://www.lehman.edu/events/2025/BA-Social-Work-Information-Session-1.php",
+    "college": "Lehman College",
+    "date": "2025-09-10",
+    "time": "4:30 PM- 5:45 PM",
     "tags": []
   },
   {
