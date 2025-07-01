@@ -160,17 +160,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-72/",
-    "college": "LaGuardia Community College",
-    "date": "2025-07-01",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Wednesdays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-07-02/",
     "college": "LaGuardia Community College",
@@ -490,6 +479,17 @@
     "time": "10:00 AM - 03:00 PM",
     "tags": [
       "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-07-31/",
+    "college": "LaGuardia Community College",
+    "date": "2025-07-31",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
       "all calendars",
       "student events"
     ]
@@ -946,8 +946,86 @@
     ]
   },
   {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-02/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-02",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-02/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-02",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Chat with an Admissions Representative",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-90/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-03",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Admissions",
+      "Evening-Weekend",
+      "Featured"
+    ]
+  },
+  {
+    "title": "International Admissions Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session-37/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-07",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "CUNY in Tribeca: Applicant Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-in-tribeca-applicant-workshop-6/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-08",
+    "time": "10:30 AM - 11:00 AM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-255/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-15",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Study Abroad: Travel the World with BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/study-abroad-travel-the-world-with-bmcc/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-16",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Featured",
+      "Study Abroad"
+    ]
+  },
+  {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2/2025-07-07/",
+    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2-2/2025-07-07/",
     "college": "Bronx Community College",
     "date": "2025-07-07",
     "time": "10:00 AM - 04:00 PM",
@@ -961,7 +1039,7 @@
   },
   {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2/2025-07-14/",
+    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2-2/2025-07-14/",
     "college": "Bronx Community College",
     "date": "2025-07-14",
     "time": "10:00 AM - 04:00 PM",
@@ -983,7 +1061,7 @@
   },
   {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2/2025-07-21/",
+    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2-2/2025-07-21/",
     "college": "Bronx Community College",
     "date": "2025-07-21",
     "time": "10:00 AM - 04:00 PM",
@@ -1013,7 +1091,7 @@
   },
   {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2/2025-07-28/",
+    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2-2/2025-07-28/",
     "college": "Bronx Community College",
     "date": "2025-07-28",
     "time": "10:00 AM - 04:00 PM",
@@ -1031,14 +1109,6 @@
     "college": "Lehman College",
     "date": "2025-07-03",
     "time": "12:00 PM - 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Chat with an Admissions Representative",
-    "link": "https://www.bmcc.cuny.edu/event/?p=657022",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-03",
-    "time": "06:00 PM - 07:00 PM",
     "tags": []
   },
   {
@@ -1060,14 +1130,6 @@
     "tags": [
       "Photonics"
     ]
-  },
-  {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/?p=656989",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-07",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
   },
   {
     "title": "SUMMER 2025 EARLY RESEARCH SERIES • Metagenomics: DNA Sequencing",
