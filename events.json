@@ -946,84 +946,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-02/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-02",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-02/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-02",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Chat with an Admissions Representative",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-90/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-03",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session-37/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-07",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
-    "title": "CUNY in Tribeca: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-in-tribeca-applicant-workshop-6/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-08",
-    "time": "10:30 AM - 11:00 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-255/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Study Abroad: Travel the World with BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/study-abroad-travel-the-world-with-bmcc/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-16",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Featured",
-      "Study Abroad"
-    ]
-  },
-  {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2-2/2025-07-07/",
     "college": "Bronx Community College",
@@ -1104,11 +1026,43 @@
     ]
   },
   {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005390",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-02",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": []
+  },
+  {
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005401",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-02",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": []
+  },
+  {
     "title": "Graduate Application and Enrollment Roundtable",
     "link": "https://lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--10.php",
     "college": "Lehman College",
     "date": "2025-07-03",
     "time": "12:00 PM - 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005402",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-03",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Chat with an Admissions Representative",
+    "link": "https://www.bmcc.cuny.edu/event/?p=657022",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-03",
+    "time": "06:00 PM - 07:00 PM",
     "tags": []
   },
   {
@@ -1132,6 +1086,14 @@
     ]
   },
   {
+    "title": "International Admissions Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=656989",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-07",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "SUMMER 2025 EARLY RESEARCH SERIES • Metagenomics: DNA Sequencing",
     "link": "https://events.cuny.edu/cec/summer-2025-early-research-series-metagenomics-dna-sequencing/",
     "college": "College of Staten Island",
@@ -1141,62 +1103,6 @@
       "Biology",
       "Division of Science and Technology"
     ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=657016",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-08",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Graduate Admissions: The Application Process and Other Tips",
-    "link": "https://lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--11.php",
-    "college": "Lehman College",
-    "date": "2025-07-10",
-    "time": "12:00 PM - 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/Hm2L2lk4EIznEl1dGY4X112",
-    "college": "Queens College",
-    "date": "2025-07-01",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "D75 Relocation",
-    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq6",
-    "college": "Queens College",
-    "date": "2025-07-01",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025 - Computer Labs",
-    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE2",
-    "college": "Queens College",
-    "date": "2025-07-01",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025",
-    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y13",
-    "college": "Queens College",
-    "date": "2025-07-01",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Mellon Mays Undergraduate Fellowship Orientation Retreat",
-    "link": "https://qc.event.cuny.edu/events/Qzxmqd5pteisTwPd4vtv/vCnCDgSf9wrfOstjEih2",
-    "college": "Queens College",
-    "date": "2025-07-01",
-    "time": "8:00AM",
-    "tags": []
   },
   {
     "title": "ITS Upgrade Project",
@@ -1279,43 +1185,51 @@
     "tags": []
   },
   {
-    "title": "ENG1101",
-    "link": "https://citytech.event.cuny.edu/events/qmIHg89CJTJ1Mejo5uNv/efMItIjDzXwGTSES50lt",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-01",
-    "time": "10:00AM",
+    "title": "D75 Relocation",
+    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq9",
+    "college": "Queens College",
+    "date": "2025-07-04",
+    "time": "7:00AM",
     "tags": []
   },
   {
-    "title": "CUNY2X Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/hkga59wGKESOb9RTCe3Y",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-01",
-    "time": "10:00AM",
+    "title": "Summer Camp 2025 - Computer Labs",
+    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE5",
+    "college": "Queens College",
+    "date": "2025-07-04",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Writing Center tutoring",
-    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju23",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-01",
-    "time": "10:00AM",
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/Hm2L2lk4EIznEl1dGY4X116",
+    "college": "Queens College",
+    "date": "2025-07-05",
+    "time": "",
     "tags": []
   },
   {
-    "title": "TTPR Bootcamp professional Development",
-    "link": "https://citytech.event.cuny.edu/events/Rk0sJxUzBb9xbfgPjTWg/fdHoSOMsvbOLWe2D7I8L68",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-01",
-    "time": "2:00PM",
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/Hm2L2lk4EIznEl1dGY4X117",
+    "college": "Queens College",
+    "date": "2025-07-06",
+    "time": "",
     "tags": []
   },
   {
-    "title": "Building Systems and Mechanicals",
-    "link": "https://citytech.event.cuny.edu/events/NFVipoMx3DX1t5s1LbFO/uKMRpYbJMLYw6zNUSqkR11",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-01",
-    "time": "6:00PM",
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/Hm2L2lk4EIznEl1dGY4X118",
+    "college": "Queens College",
+    "date": "2025-07-07",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "D75 Relocation",
+    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq10",
+    "college": "Queens College",
+    "date": "2025-07-07",
+    "time": "7:00AM",
     "tags": []
   },
   {
@@ -1420,6 +1334,38 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-07-05",
     "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Writing Center tutoring",
+    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju28",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-06",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer 2025 Classes Begin",
+    "link": "https://citytech.event.cuny.edu/events/Wr9PlJGoMcQmf4OPIVjz/XTYWrao9h1wrLleaMfhf",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-07",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Undergrad and H.S Research Cohort ( Additional Week)",
+    "link": "https://citytech.event.cuny.edu/events/K708IiYgm5op5xrxwNWQ/b9nU8icvY5WRM8bRI6ee",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-07",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "STEP summer 2025 program",
+    "link": "https://citytech.event.cuny.edu/events/nJbE7xviS5hJNsTFRj0i/BFesBGeWdgwUY0vV0UUx1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-07",
+    "time": "9:00AM",
     "tags": []
   },
   {
@@ -1679,14 +1625,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Pop Up Enrollment (Tuesdays)",
-    "link": "https://www.york.cuny.edu/student-development/virtual-one-stop-to-register-hub-tuesdays",
-    "college": "York College",
-    "date": "2025-07-02",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
     "title": "Pop Up Enrollment (Thursdays)",
     "link": "https://www.york.cuny.edu/student-development/pop-up-enrollment-days-thursday",
     "college": "York College",
@@ -1716,6 +1654,14 @@
     "college": "York College",
     "date": "2025-07-08",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Pop Up Enrollment (Tuesdays)",
+    "link": "https://www.york.cuny.edu/student-development/virtual-one-stop-to-register-hub-tuesdays",
+    "college": "York College",
+    "date": "2025-07-09",
+    "time": "7:00 PM - 9:00 PM",
     "tags": []
   },
   {
