@@ -1,13 +1,5 @@
 [
   {
-    "title": "Overview of MetroPlusGOLD for NYC Public employees",
-    "link": "https://www.ccny.cuny.edu/calendar/tiaa-one-one-counseling-ccny-faculty-and-staff",
-    "college": "City College of New York",
-    "date": "2025-07-02",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "Civil Engineering Event Test Two",
     "link": "https://www.ccny.cuny.edu/calendar/civil-engineering-event-test-two",
     "college": "City College of New York",
@@ -677,18 +669,6 @@
     ]
   },
   {
-    "title": "Networking for Career Success: LinkedIn & Beyond",
-    "link": "https://hunter.cuny.edu/event/networking-for-career-success-linkedin-beyond/",
-    "college": "Hunter College",
-    "date": "2025-07-02",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
     "title": "RN-to-BS Nursing Program Information Session",
     "link": "https://hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-4/2025-07-03/",
     "college": "Hunter College",
@@ -970,21 +950,20 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-02/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-02",
-    "time": "12:30 PM - 01:30 PM",
+    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
+    "link": "https://hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-4/2025-11-17/",
+    "college": "Hunter College",
+    "date": "2025-11-17",
+    "time": "12:00 PM - 01:00 PM",
     "tags": [
-      "Admissions",
-      "Featured"
+      "Open Houses"
     ]
   },
   {
     "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-02/",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-03/",
     "college": "Borough of Manhattan Community College",
-    "date": "2025-07-02",
+    "date": "2025-07-03",
     "time": "03:00 PM - 04:30 PM",
     "tags": [
       "Admissions",
@@ -1012,6 +991,17 @@
     "tags": [
       "Featured",
       "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-08/1/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-08",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -1128,19 +1118,19 @@
     ]
   },
   {
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005401",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-02",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": []
+  },
+  {
     "title": "Graduate Application and Enrollment Roundtable",
     "link": "https://lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--10.php",
     "college": "Lehman College",
     "date": "2025-07-03",
     "time": "12:00 PM - 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005402",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-03",
-    "time": "03:00 PM - 04:30 PM",
     "tags": []
   },
   {
@@ -1567,26 +1557,10 @@
     "tags": []
   },
   {
-    "title": "Graduate Admissions: The Application Process and Other Tips",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--11.php",
-    "college": "Lehman College",
-    "date": "2025-07-10",
-    "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
     "title": "Graduate Application and Enrollment Roundtable",
     "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--11.php",
     "college": "Lehman College",
     "date": "2025-07-17",
-    "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Graduate Admissions: The Application Process and Other Tips",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--12.php",
-    "college": "Lehman College",
-    "date": "2025-07-24",
     "time": "12:00 PM- 1:00 PM",
     "tags": []
   },
@@ -1599,11 +1573,27 @@
     "tags": []
   },
   {
-    "title": "Graduate Admissions: The Application Process and Other Tips",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Admissions-The-Application-Process-and-Other-Tips--13.php",
+    "title": "Graduate Application and Enrollment Roundtable",
+    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--13.php",
     "college": "Lehman College",
-    "date": "2025-08-07",
+    "date": "2025-08-14",
     "time": "12:00 PM- 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "BA-Social Work Information Session",
+    "link": "https://www.lehman.edu/events/2025/BA-Social-Work-Information-Session-1.php",
+    "college": "Lehman College",
+    "date": "2025-09-10",
+    "time": "4:30 PM- 5:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Lehman Night At Yankee Stadium",
+    "link": "https://www.lehman.edu/events/2025/Lehman-Night-At-Yankee-Stadium.php",
+    "college": "Lehman College",
+    "date": "2025-09-25",
+    "time": "7:00 PM- 10:00 PM",
     "tags": []
   },
   {
@@ -1660,78 +1650,6 @@
     "college": "Macaulay Honors College",
     "date": "2025-09-07",
     "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
-    "title": "CLC Summer 2025 Tutoring Available!",
-    "link": "https://www.york.cuny.edu/collaborative-learning-center/announcements/summer-2025-tutoring",
-    "college": "York College",
-    "date": "2025-07-03",
-    "time": "1:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Pop Up Enrollment (Thursdays)",
-    "link": "https://www.york.cuny.edu/student-development/pop-up-enrollment-days-thursday",
-    "college": "York College",
-    "date": "2025-07-04",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for 7-Week 1 session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-7-week-1-session",
-    "college": "York College",
-    "date": "2025-07-05",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "First day of classes for 4-Week 2",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-2-1",
-    "college": "York College",
-    "date": "2025-07-07",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Verification of Enrollment Rosters available to faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-7",
-    "college": "York College",
-    "date": "2025-07-08",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Walk it Out Summer Wednesdays",
-    "link": "https://www.york.cuny.edu/ia/walk-it-our-summer-wednesdays",
-    "college": "York College",
-    "date": "2025-07-09",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Pop Up Enrollment (Tuesdays)",
-    "link": "https://www.york.cuny.edu/student-development/virtual-one-stop-to-register-hub-tuesdays",
-    "college": "York College",
-    "date": "2025-07-09",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Verification of Enrollment Rosters due from faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-7",
-    "college": "York College",
-    "date": "2025-07-11",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Federal Direct Loan Request: Summer 2025",
-    "link": "https://www.york.cuny.edu/financial-aid/federal-direct-loan-request-summer-2025",
-    "college": "York College",
-    "date": "2025-07-13",
-    "time": "4:00 PM - 11:00 PM",
     "tags": []
   },
   {
