@@ -188,17 +188,6 @@
     ]
   },
   {
-    "title": "Professional Etiquette: Navigating the Workplace with Confidence",
-    "link": "https://www.laguardia.edu/event/professional-etiquette-navigating-the-workplace-with-confidence-2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-07-03",
-    "time": "11:45 AM - 12:45 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-07-07/",
     "college": "LaGuardia Community College",
@@ -511,6 +500,17 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-08-06/",
+    "college": "LaGuardia Community College",
+    "date": "2025-08-06",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "CCSD Get Connected with Awesome Opportunities",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376408",
     "college": "Guttman Community College",
@@ -651,16 +651,6 @@
       "EMSA",
       "Educational/Awareness",
       "AccessABILITY Services"
-    ]
-  },
-  {
-    "title": "RN-to-BS Nursing Program Information Session",
-    "link": "https://hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-4/2025-07-03/",
-    "college": "Hunter College",
-    "date": "2025-07-03",
-    "time": "10:00 AM - 11:30 AM",
-    "tags": [
-      "Open Houses"
     ]
   },
   {
@@ -945,81 +935,13 @@
     ]
   },
   {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-03/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-03",
-    "time": "03:00 PM - 04:30 PM",
+    "title": "MS-IPND Challenge Exams",
+    "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-12-10/",
+    "college": "Hunter College",
+    "date": "2025-12-10",
+    "time": "11:00 AM - 01:00 PM",
     "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Chat with an Admissions Representative",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-90/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-03",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session-37/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-07",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-08/1/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-08",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "CUNY in Tribeca: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-in-tribeca-applicant-workshop-6/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-08",
-    "time": "10:30 AM - 11:00 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-255/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Study Abroad: Travel the World with BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/study-abroad-travel-the-world-with-bmcc/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-16",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Featured",
-      "Study Abroad"
+      "Open Houses"
     ]
   },
   {
@@ -1103,11 +1025,19 @@
     ]
   },
   {
-    "title": "Graduate Application and Enrollment Roundtable",
-    "link": "https://lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--10.php",
-    "college": "Lehman College",
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005402",
+    "college": "Borough of Manhattan Community College",
     "date": "2025-07-03",
-    "time": "12:00 PM - 1:00 PM",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Chat with an Admissions Representative",
+    "link": "https://www.bmcc.cuny.edu/event/?p=657022",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-03",
+    "time": "06:00 PM - 07:00 PM",
     "tags": []
   },
   {
@@ -1131,6 +1061,14 @@
     ]
   },
   {
+    "title": "International Admissions Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=656989",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-07",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "SUMMER 2025 EARLY RESEARCH SERIES • Metagenomics: DNA Sequencing",
     "link": "https://events.cuny.edu/cec/summer-2025-early-research-series-metagenomics-dna-sequencing/",
     "college": "College of Staten Island",
@@ -1140,6 +1078,30 @@
       "Biology",
       "Division of Science and Technology"
     ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005391",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-08",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": []
+  },
+  {
+    "title": "CUNY in Tribeca: Applicant Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/?p=657060",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-08",
+    "time": "10:30 AM - 11:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005392",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-08",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "ITS Upgrade Project",
@@ -1479,7 +1441,7 @@
   },
   {
     "title": "Graduate Application and Enrollment Roundtable",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--10.php",
+    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable-.php",
     "college": "Lehman College",
     "date": "2025-07-03",
     "time": "12:00 PM- 1:00 PM",
@@ -1539,6 +1501,110 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-07-04",
     "time": "01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Documenting Research APA Style",
+    "link": "https://www.jjay.cuny.edu/news-events/events/documenting-research-apa-style-2",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-07",
+    "time": "04:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Avoiding Sentence Errors: Commas",
+    "link": "https://www.jjay.cuny.edu/news-events/events/avoiding-sentence-errors-commas",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-08",
+    "time": "06:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Evaluating Internet & Print Research Sources",
+    "link": "https://www.jjay.cuny.edu/news-events/events/evaluating-internet-print-research-sources-2",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-08",
+    "time": "07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Writing Law/Grad School Personal Statements",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-lawgrad-school-personal-statements-2",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-08",
+    "time": "09:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Proofing & Editing for Grammar Errors",
+    "link": "https://www.jjay.cuny.edu/news-events/events/proofing-editing-grammar-errors-1",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-09",
+    "time": "07:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Writing Law/Grad School Personal Statements",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-lawgrad-school-personal-statements-3",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-09",
+    "time": "08:15 PM",
+    "tags": []
+  },
+  {
+    "title": "Writing the Lit Paper: Integrating Evidence",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-lit-paper-integrating-evidence",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-10",
+    "time": "06:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Writing the Research Paper",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-research-paper",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-10",
+    "time": "07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Documenting Research MLA Style",
+    "link": "https://www.jjay.cuny.edu/news-events/events/documenting-research-mla-style-2",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-15",
+    "time": "07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Evaluating Internet & Print Research Sources",
+    "link": "https://www.jjay.cuny.edu/news-events/events/evaluating-internet-print-research-sources-3",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-15",
+    "time": "08:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Business Writing: Memos & Letters",
+    "link": "https://www.jjay.cuny.edu/news-events/events/business-writing-memos-letters-2",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-16",
+    "time": "09:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Writing the Lit Paper: Constructing Arguments",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-lit-paper-constructing-arguments",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-17",
+    "time": "06:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Business Writing: Memos & Letters",
+    "link": "https://www.jjay.cuny.edu/news-events/events/business-writing-memos-letters",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-07-17",
+    "time": "07:00 PM",
     "tags": []
   },
   {
