@@ -1013,6 +1013,18 @@
     "tags": []
   },
   {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2025-08-29/",
+    "college": "Bronx Community College",
+    "date": "2025-08-29",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
     "title": "2025 IEEE Workshop: Photonics Automation with Python",
     "link": "https://asrc.gc.cuny.edu/event/2025-ieee-workshop-photonics-automation-with-python/",
     "college": "Advanced Science Research Center, GC/CUNY",
@@ -1081,30 +1093,6 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-09",
     "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
-    "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/RlT6YY3gItN2evoFt1wT1",
-    "college": "Queens College",
-    "date": "2025-07-04",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "D75 Relocation",
-    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq9",
-    "college": "Queens College",
-    "date": "2025-07-04",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025 - Computer Labs",
-    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/iIi0kuInGTwp603HvMJR5",
-    "college": "Queens College",
-    "date": "2025-07-04",
-    "time": "8:00AM",
     "tags": []
   },
   {
@@ -1212,11 +1200,35 @@
     "tags": []
   },
   {
-    "title": "Writing Center tutoring",
-    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju26",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-04",
+    "title": "Summer Camp 2025",
+    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y18",
+    "college": "Queens College",
+    "date": "2025-07-08",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Writing Retreat for Contingent and Junior Faculty",
+    "link": "https://qc.event.cuny.edu/events/RdT45TXzkGcb97n39Lxu/a2wWLRNVr1leRd4DpjhQ",
+    "college": "Queens College",
+    "date": "2025-07-08",
     "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "College Now Summer Program 2025",
+    "link": "https://qc.event.cuny.edu/events/tqHNyNpyTdEG15guq0OM/By9kqv8d8X4bxhmZRaHC",
+    "college": "Queens College",
+    "date": "2025-07-08",
+    "time": "10:30AM",
+    "tags": []
+  },
+  {
+    "title": "School of Arts: Peter and the Wolf Rehearsal Space",
+    "link": "https://qc.event.cuny.edu/events/l7FRYIdQlXCsaISy6Itv/PStVf3fL9opFFR8iRb98",
+    "college": "Queens College",
+    "date": "2025-07-08",
+    "time": "4:00PM",
     "tags": []
   },
   {
@@ -1305,6 +1317,22 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-07-08",
     "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "CSTEP Summer Research Symposium",
+    "link": "https://citytech.event.cuny.edu/events/t1rbDwcTbjFwlSDfXNME/JFvqfRtma2O3bhggWKy7",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-08",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Writing Center tutoring",
+    "link": "https://citytech.event.cuny.edu/events/KyI5zsWLRkVcvkskLIT5/t5whmK1laU1HOVnxLtju30",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-08",
+    "time": "10:00AM",
     "tags": []
   },
   {
@@ -1465,14 +1493,6 @@
     "college": "Lehman College",
     "date": "2025-09-25",
     "time": "7:00 PM- 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fourth of July",
-    "link": "https://www.jjay.cuny.edu/news-events/events/fourth-july",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-07-04",
-    "time": "01:00 PM",
     "tags": []
   },
   {
@@ -1754,6 +1774,124 @@
     "date": "2025-07-13",
     "time": "4:00 PM - 11:00 PM",
     "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 10-Week session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-10-week-session-1",
+    "college": "York College",
+    "date": "2025-07-16",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-july-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-09",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "ADVANCED DRUPAL TRAINING",
+    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-july-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-09",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "VALERIE STEELE: FASHION, HISTORY, MUSEUMS",
+    "link": "https://www.gc.cuny.edu/events/valerie-steele-fashion-history-museums",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-09",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "NGOZI OKARO: REDESIGNING THE FUTURE OF AMERICAN FASHION",
+    "link": "https://www.gc.cuny.edu/events/ngozi-okaro-redesigning-future-american-fashion",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-16",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "LESLIE E. HARRIS: THE MEDICALIZATION OF BEAUTY",
+    "link": "https://www.gc.cuny.edu/events/leslie-e-harris-medicalization-beauty",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-23",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "DONNA ZAKOWSKA: FASHIONING COSTUMES, COSTUMING FASHION",
+    "link": "https://www.gc.cuny.edu/events/donna-zakowska-fashioning-costumes-costuming-fashion",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-30",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-aug-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-08-13",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "ADVANCED DRUPAL TRAINING",
+    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-aug-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-08-13",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-sept-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "ADVANCED DRUPAL TRAINING",
+    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-sept-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
   },
   {
     "title": "FAFSA Fest",
