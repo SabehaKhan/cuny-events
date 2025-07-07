@@ -925,72 +925,6 @@
     ]
   },
   {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session-37/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-07",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-08/1/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-08",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "CUNY in Tribeca: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-in-tribeca-applicant-workshop-6/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-08",
-    "time": "10:30 AM - 11:00 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-10/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-10",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-255/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Study Abroad: Travel the World with BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/study-abroad-travel-the-world-with-bmcc/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-16",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Featured",
-      "Study Abroad"
-    ]
-  },
-  {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2-2/2025-07-07/",
     "college": "Bronx Community College",
@@ -1123,6 +1057,14 @@
     ]
   },
   {
+    "title": "International Admissions Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=656989",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-07",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "SUMMER 2025 EARLY RESEARCH SERIES • Metagenomics: DNA Sequencing",
     "link": "https://events.cuny.edu/cec/summer-2025-early-research-series-metagenomics-dna-sequencing/",
     "college": "College of Staten Island",
@@ -1132,6 +1074,22 @@
       "Biology",
       "Division of Science and Technology"
     ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005391",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-08",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": []
+  },
+  {
+    "title": "CUNY in Tribeca: Applicant Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/?p=657060",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-08",
+    "time": "10:30 AM - 11:00 AM",
+    "tags": []
   },
   {
     "title": "Take a Tour of BMCC’s Campus",
