@@ -1,13 +1,5 @@
 [
   {
-    "title": "Start of Summer Session Two",
-    "link": "https://www.ccny.cuny.edu/calendar/start-summer-session-two",
-    "college": "City College of New York",
-    "date": "2025-07-07",
-    "time": "12:00 AM - 11:59 PM",
-    "tags": []
-  },
-  {
     "title": "Classes follow a Friday schedule",
     "link": "https://www.ccny.cuny.edu/calendar/classes-follow-friday-schedule",
     "college": "City College of New York",
@@ -925,6 +917,72 @@
     ]
   },
   {
+    "title": "International Admissions Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session-37/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-07",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-08/1/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-08",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "CUNY in Tribeca: Applicant Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-in-tribeca-applicant-workshop-6/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-08",
+    "time": "10:30 AM - 11:00 AM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-10/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-10",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-255/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-15",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Study Abroad: Travel the World with BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/study-abroad-travel-the-world-with-bmcc/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-16",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Featured",
+      "Study Abroad"
+    ]
+  },
+  {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2-2/2025-07-07/",
     "college": "Bronx Community College",
@@ -1037,6 +1095,17 @@
     ]
   },
   {
+    "title": "SUMMER 2025 EARLY RESEARCH SERIES • Metagenomics: DNA Sequencing",
+    "link": "https://events.cuny.edu/cec/summer-2025-early-research-series-metagenomics-dna-sequencing/",
+    "college": "College of Staten Island",
+    "date": "2025-07-07",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": [
+      "Biology",
+      "Division of Science and Technology"
+    ]
+  },
+  {
     "title": "2025 IEEE Workshop: Photonics Automation with Python",
     "link": "https://asrc.gc.cuny.edu/event/2025-ieee-workshop-photonics-automation-with-python/",
     "college": "Advanced Science Research Center, GC/CUNY",
@@ -1055,41 +1124,6 @@
     "tags": [
       "Photonics"
     ]
-  },
-  {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/?p=656989",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-07",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "SUMMER 2025 EARLY RESEARCH SERIES • Metagenomics: DNA Sequencing",
-    "link": "https://events.cuny.edu/cec/summer-2025-early-research-series-metagenomics-dna-sequencing/",
-    "college": "College of Staten Island",
-    "date": "2025-07-08",
-    "time": "2:00 PM - 4:00 PM",
-    "tags": [
-      "Biology",
-      "Division of Science and Technology"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005391",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-08",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY in Tribeca: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/?p=657060",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-08",
-    "time": "10:30 AM - 11:00 AM",
-    "tags": []
   },
   {
     "title": "Take a Tour of BMCC’s Campus",
@@ -1337,6 +1371,14 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-07-08",
     "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Public Safety - NYPD Information Table",
+    "link": "https://hostos.event.cuny.edu/events/vmhz2e9SBNVZrrq1ltu9/wXzO1joW6Agn6LSZC6IF",
+    "college": "Hostos Community College",
+    "date": "2025-07-10",
+    "time": "10:00AM",
     "tags": []
   },
   {
@@ -1716,19 +1758,19 @@
     "tags": []
   },
   {
-    "title": "CLC Summer 2025 Tutoring Available!",
-    "link": "https://www.york.cuny.edu/collaborative-learning-center/announcements/summer-2025-tutoring",
-    "college": "York College",
-    "date": "2025-07-07",
-    "time": "1:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
     "title": "Verification of Enrollment Rosters available to faculty",
     "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-7",
     "college": "York College",
     "date": "2025-07-08",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "CLC Summer 2025 Tutoring Available!",
+    "link": "https://www.york.cuny.edu/collaborative-learning-center/announcements/summer-2025-tutoring",
+    "college": "York College",
+    "date": "2025-07-08",
+    "time": "1:00 PM - 9:00 PM",
     "tags": []
   },
   {
