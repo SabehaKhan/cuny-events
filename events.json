@@ -627,16 +627,6 @@
     ]
   },
   {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-07-07/",
-    "college": "Hunter College",
-    "date": "2025-07-07",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
     "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2-5/2025-07-09/",
     "college": "Hunter College",
@@ -918,14 +908,13 @@
     ]
   },
   {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session-37/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-07",
-    "time": "01:00 PM - 02:00 PM",
+    "title": "MS-IPND Challenge Exams",
+    "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-12-10/",
+    "college": "Hunter College",
+    "date": "2025-12-10",
+    "time": "11:00 AM - 01:00 PM",
     "tags": [
-      "Featured",
-      "International Student Events/Workshops"
+      "Open Houses"
     ]
   },
   {
@@ -981,20 +970,6 @@
     "tags": [
       "Featured",
       "Study Abroad"
-    ]
-  },
-  {
-    "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2-2/2025-07-07/",
-    "college": "Bronx Community College",
-    "date": "2025-07-07",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": [
-      "Campus Events",
-      "Enrollment Management",
-      "Feature",
-      "Registration Events",
-      "Virtual Event"
     ]
   },
   {
@@ -1135,6 +1110,14 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-08",
     "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005393",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-09",
+    "time": "12:30 PM - 01:30 PM",
     "tags": []
   },
   {
@@ -1495,30 +1478,6 @@
     "college": "Lehman College",
     "date": "2025-07-08",
     "time": "4:30 PM- 5:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Graduate Application and Enrollment Roundtable",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--11.php",
-    "college": "Lehman College",
-    "date": "2025-07-17",
-    "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Graduate Application and Enrollment Roundtable",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--12.php",
-    "college": "Lehman College",
-    "date": "2025-07-31",
-    "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Graduate Application and Enrollment Roundtable",
-    "link": "https://www.lehman.edu/events/2025/Graduate-Application-and-Enrollment-Roundtable--13.php",
-    "college": "Lehman College",
-    "date": "2025-08-14",
-    "time": "12:00 PM- 1:00 PM",
     "tags": []
   },
   {
