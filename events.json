@@ -160,17 +160,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-07-07/",
-    "college": "LaGuardia Community College",
-    "date": "2025-07-07",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Networking 101: LinkedIn, Connect, and Engage",
     "link": "https://www.laguardia.edu/event/networking-101-linkedin-connect-and-engage-8/",
     "college": "LaGuardia Community College",
@@ -489,6 +478,18 @@
     "date": "2025-08-06",
     "time": "08:00 PM - 08:30 PM",
     "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom/2025-08-07/",
+    "college": "LaGuardia Community College",
+    "date": "2025-08-07",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
       "all calendars",
       "student events"
     ]
@@ -877,6 +878,16 @@
     ]
   },
   {
+    "title": "Last Art School, a project by Lindsey White",
+    "link": "https://hunter.cuny.edu/event/last-art-school-a-project-by-lindsey-white/",
+    "college": "Hunter College",
+    "date": "2025-08-27",
+    "time": "12:00 PM - 06:00 PM",
+    "tags": [
+      "Exhibits"
+    ]
+  },
+  {
     "title": "MS-IPND Graduate Nutrition Program Information Sessions",
     "link": "https://hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-4/2025-09-18/",
     "college": "Hunter College",
@@ -902,16 +913,6 @@
     "college": "Hunter College",
     "date": "2025-11-17",
     "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "MS-IPND Challenge Exams",
-    "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-12-10/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "11:00 AM - 01:00 PM",
     "tags": [
       "Open Houses"
     ]
@@ -1009,14 +1010,6 @@
       "Registration Events",
       "Virtual Event"
     ]
-  },
-  {
-    "title": "AI Workshop - Library",
-    "link": "https://www.bcc.cuny.edu/event/ai-workshop-library/2025-07-17/",
-    "college": "Bronx Community College",
-    "date": "2025-07-17",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
   },
   {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
@@ -1126,19 +1119,22 @@
     ]
   },
   {
+    "title": "SUMMER 2025 EARLY RESEARCH SERIES • Metagenomics: DNA Sequencing",
+    "link": "https://events.cuny.edu/cec/summer-2025-early-research-series-metagenomics-dna-sequencing-2/",
+    "college": "College of Staten Island",
+    "date": "2025-07-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": [
+      "Biology",
+      "Division of Science and Technology"
+    ]
+  },
+  {
     "title": "Take a Tour of BMCC’s Campus",
     "link": "https://www.bmcc.cuny.edu/event/?p=10005392",
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-08",
     "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005393",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-09",
-    "time": "12:30 PM - 01:30 PM",
     "tags": []
   },
   {
@@ -1539,14 +1535,6 @@
     "college": "Lehman College",
     "date": "2025-09-25",
     "time": "7:00 PM- 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Documenting Research APA Style",
-    "link": "https://www.jjay.cuny.edu/news-events/events/documenting-research-apa-style-2",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-07-07",
-    "time": "04:30 PM",
     "tags": []
   },
   {
@@ -1956,14 +1944,6 @@
     "description": ""
   },
   {
-    "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-07-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-07-07",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Career Services Event"
-  },
-  {
     "title": "FAFSA Fest",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-09-fafsa-fest.html",
     "college": "Queensborough Community College",
@@ -2106,5 +2086,13 @@
     "date": "2025-08-07",
     "time": "03:00 PM - 04:00 PM",
     "description": "Career Services Event"
+  },
+  {
+    "title": "Four-Year College Transfer Application Workshop",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-11-four-year-college-transfer-application-workshop.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-11",
+    "time": "11:00 AM - 12:00 PM",
+    "description": "Transfer Resource Center Event"
   }
 ]
