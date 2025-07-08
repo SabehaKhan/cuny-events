@@ -152,17 +152,6 @@
     "tags": []
   },
   {
-    "title": "Networking 101: LinkedIn, Connect, and Engage",
-    "link": "https://www.laguardia.edu/event/networking-101-linkedin-connect-and-engage-8/",
-    "college": "LaGuardia Community College",
-    "date": "2025-07-08",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Wednesdays (In-Person)",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-07-09/",
     "college": "LaGuardia Community College",
@@ -482,6 +471,17 @@
     "time": "10:00 AM - 03:00 PM",
     "tags": [
       "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-08-07/",
+    "college": "LaGuardia Community College",
+    "date": "2025-08-07",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
       "all calendars",
       "student events"
     ]
@@ -923,10 +923,10 @@
   },
   {
     "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-08/2/",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-09/",
     "college": "Borough of Manhattan Community College",
-    "date": "2025-07-08",
-    "time": "01:00 PM - 02:00 PM",
+    "date": "2025-07-09",
+    "time": "12:30 PM - 01:30 PM",
     "tags": [
       "Admissions",
       "Featured"
@@ -938,6 +938,17 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-10",
     "time": "03:00 PM - 04:30 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-256/2025-07-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-14",
+    "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Admissions",
       "Featured"
@@ -1067,22 +1078,6 @@
     ]
   },
   {
-    "title": "CUNY in Tribeca: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/?p=657060",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-08",
-    "time": "10:30 AM - 11:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005393",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-09",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
     "title": "CCNY CWE Admissions Workshop | Online | at CCNY CWE (25 Broadway)",
     "link": "https://events.cuny.edu/cec/ccny-cwe-admissions-workshop-online-at-ccny-cwe-25-broadway-6/",
     "college": "The City College of New York",
@@ -1110,6 +1105,16 @@
     "time": "11:00 AM - 12:00 PM",
     "tags": [
       "Center for Teaching and Learning"
+    ]
+  },
+  {
+    "title": "Music & Neurologic Function",
+    "link": "https://asrc.gc.cuny.edu/event/music-neurologic-function/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2025-07-15",
+    "time": "12:00 PM - 1:30 PM",
+    "tags": [
+      "Neuroscience"
     ]
   },
   {
@@ -1577,30 +1582,6 @@
     "tags": []
   },
   {
-    "title": "Avoiding Sentence Errors: Commas",
-    "link": "https://www.jjay.cuny.edu/news-events/events/avoiding-sentence-errors-commas",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-07-08",
-    "time": "06:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Evaluating Internet & Print Research Sources",
-    "link": "https://www.jjay.cuny.edu/news-events/events/evaluating-internet-print-research-sources-2",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-07-08",
-    "time": "07:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Writing Law/Grad School Personal Statements",
-    "link": "https://www.jjay.cuny.edu/news-events/events/writing-lawgrad-school-personal-statements-2",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-07-08",
-    "time": "09:30 PM",
-    "tags": []
-  },
-  {
     "title": "Proofing & Editing for Grammar Errors",
     "link": "https://www.jjay.cuny.edu/news-events/events/proofing-editing-grammar-errors-1",
     "college": "John Jay College of Criminal Justice",
@@ -1923,6 +1904,17 @@
     ]
   },
   {
+    "title": "MASTERS IN ASTROPHYSICS ORIENTATION: AUGUST 11",
+    "link": "https://www.gc.cuny.edu/events/masters-astrophysics-orientation-aug-8-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-08-11",
+    "time": "",
+    "location": "5382",
+    "tags": [
+      "Astrophysics"
+    ]
+  },
+  {
     "title": "DRUPAL BASICS TRAINING",
     "link": "https://www.gc.cuny.edu/events/drupal-basics-training-aug-2025",
     "college": "CUNY Graduate Center",
@@ -1945,25 +1937,14 @@
     ]
   },
   {
-    "title": "DRUPAL BASICS TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-sept-2025",
+    "title": "MASTERS IN ASTROPHYSICS ORIENTATION - AUGUST 17",
+    "link": "https://www.gc.cuny.edu/events/masters-astrophysics-orientation-aug-17-2025",
     "college": "CUNY Graduate Center",
-    "date": "2025-09-10",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
+    "date": "2025-08-17",
+    "time": "",
+    "location": "5382",
     "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "ADVANCED DRUPAL TRAINING",
-    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-sept-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-10",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
+      "Astrophysics"
     ]
   },
   {
