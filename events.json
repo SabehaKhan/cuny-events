@@ -136,18 +136,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom/2025-07-10/",
-    "college": "LaGuardia Community College",
-    "date": "2025-07-10",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-07-14/",
     "college": "LaGuardia Community College",
@@ -459,6 +447,28 @@
       "admissions",
       "all calendars",
       "student events"
+    ]
+  },
+  {
+    "title": "Opening Sessions 2025 for Faculty and Staff",
+    "link": "https://www.laguardia.edu/event/opening-sessions-2025-for-faculty-and-staff/",
+    "college": "LaGuardia Community College",
+    "date": "2025-09-04",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff"
+    ]
+  },
+  {
+    "title": "Let’s Get Accessible - Session 2 Neurodiversity in the Workplace By: Job Path",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376424",
+    "college": "Guttman Community College",
+    "date": "2025-07-14",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "EMSA",
+      "Educational/Awareness"
     ]
   },
   {
@@ -879,17 +889,6 @@
     ]
   },
   {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-10/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-10",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Admissions Information Session (Online)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-256/2025-07-14/",
     "college": "Borough of Manhattan Community College",
@@ -942,6 +941,17 @@
     "tags": [
       "Featured",
       "Study Abroad"
+    ]
+  },
+  {
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-16/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-16",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -1054,6 +1064,14 @@
     "tags": [
       "CWE"
     ]
+  },
+  {
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005403",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-10",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": []
   },
   {
     "title": "An Afternoon with Adriana Trigiani at CSI: Laughter, Music, and a Signed Book",
@@ -1502,22 +1520,6 @@
     "tags": []
   },
   {
-    "title": "Writing the Lit Paper: Integrating Evidence",
-    "link": "https://www.jjay.cuny.edu/news-events/events/writing-lit-paper-integrating-evidence",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-07-10",
-    "time": "06:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Writing the Research Paper",
-    "link": "https://www.jjay.cuny.edu/news-events/events/writing-research-paper",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-07-10",
-    "time": "07:00 PM",
-    "tags": []
-  },
-  {
     "title": "Documenting Research MLA Style",
     "link": "https://www.jjay.cuny.edu/news-events/events/documenting-research-mla-style-2",
     "college": "John Jay College of Criminal Justice",
@@ -1862,14 +1864,6 @@
   },
   {
     "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-10-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-07-10",
-    "time": "03:00 PM - 04:00 PM",
-    "description": "Career Services Event"
-  },
-  {
-    "title": "Virtual Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-14-virtual-resume-hour.html",
     "college": "Queensborough Community College",
     "date": "2025-07-14",
@@ -2018,6 +2012,14 @@
     "college": "Queensborough Community College",
     "date": "2025-08-14",
     "time": "03:00 PM - 04:00 PM",
+    "description": "Career Services Event"
+  },
+  {
+    "title": "Virtual Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-18-virtual-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-18",
+    "time": "11:00 AM - 12:00 PM",
     "description": "Career Services Event"
   }
 ]
