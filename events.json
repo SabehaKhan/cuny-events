@@ -873,83 +873,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-256/2025-07-14/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-14",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-15/1/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-15",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-255/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Southern New Hampshire University Virtual Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/southern-new-hampshire-university-virtual-information-session/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Study Abroad: Travel the World with BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/study-abroad-travel-the-world-with-bmcc/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-16",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Featured",
-      "Study Abroad"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-16",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Zoom Online: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/zoom-online-applicant-workshop-6/2025-07-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-16",
-    "time": "04:00 PM - 05:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2-2/2025-07-14/",
     "college": "Bronx Community College",
@@ -1040,21 +963,19 @@
     ]
   },
   {
-    "title": "An Afternoon with Adriana Trigiani at CSI: Laughter, Music, and a Signed Book",
-    "link": "https://events.cuny.edu/cec/an-afternoon-with-adriana-trigiani-at-csi-laughter-music-and-a-signed-book/",
-    "college": "College of Staten Island",
-    "date": "2025-07-13",
-    "time": "2:00 PM - 3:30 PM",
-    "tags": [
-      "Performing and Creative Arts"
-    ]
-  },
-  {
     "title": "Brightspace Basics: Self-Paced Training for CSI Faculty",
     "link": "https://events.cuny.edu/cec/brightspace-basics-self-paced-training-for-csi-faculty/",
     "college": "College of Staten Island",
     "date": "2025-07-14",
     "time": "11:45 PM - 11:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005384",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-14",
+    "time": "06:00 PM - 07:00 PM",
     "tags": []
   },
   {
@@ -1078,19 +999,35 @@
     ]
   },
   {
-    "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/Hm2L2lk4EIznEl1dGY4X1114",
-    "college": "Queens College",
-    "date": "2025-07-13",
-    "time": "",
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005394",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-15",
+    "time": "10:00 AM - 11:00 AM",
     "tags": []
   },
   {
-    "title": "Kaplan Test Prep",
-    "link": "https://qc.event.cuny.edu/events/KpoAjDHOozejRWbK3Cx6/iQCl4y4ZeG2NOtH2mhQw2",
-    "college": "Queens College",
-    "date": "2025-07-13",
-    "time": "9:00AM",
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=657057",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-15",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Southern New Hampshire University Virtual Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=657268",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-15",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005395",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-15",
+    "time": "01:00 PM - 02:00 PM",
     "tags": []
   },
   {
@@ -1211,6 +1148,14 @@
     "college": "Queens College",
     "date": "2025-07-16",
     "time": "",
+    "tags": []
+  },
+  {
+    "title": "D75 Relocation",
+    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq17",
+    "college": "Queens College",
+    "date": "2025-07-16",
+    "time": "7:00AM",
     "tags": []
   },
   {
@@ -1595,14 +1540,6 @@
     "college": "Macaulay Honors College",
     "date": "2025-09-07",
     "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
-    "title": "Federal Direct Loan Request: Summer 2025",
-    "link": "https://www.york.cuny.edu/financial-aid/federal-direct-loan-request-summer-2025",
-    "college": "York College",
-    "date": "2025-07-13",
-    "time": "4:00 PM - 11:00 PM",
     "tags": []
   },
   {
