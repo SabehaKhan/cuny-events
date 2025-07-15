@@ -847,34 +847,12 @@
   },
   {
     "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-15/1/",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-15/2/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-15",
-    "time": "10:00 AM - 11:00 AM",
+    "time": "01:00 PM - 02:00 PM",
     "tags": [
       "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-255/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Southern New Hampshire University Virtual Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/southern-new-hampshire-university-virtual-information-session/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer",
       "Featured"
     ]
   },
@@ -906,6 +884,17 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-16",
     "time": "04:00 PM - 05:30 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-256/2025-07-21/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-21",
+    "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Admissions",
       "Featured"
@@ -1009,10 +998,26 @@
   },
   {
     "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005395",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005394",
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-15",
-    "time": "01:00 PM - 02:00 PM",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=657057",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-15",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Southern New Hampshire University Virtual Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=657268",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-15",
+    "time": "12:00 PM - 01:00 PM",
     "tags": []
   },
   {
