@@ -89,14 +89,6 @@
   },
   {
     "title": "Bar Course Final",
-    "link": "https://www.law.cuny.edu/event/bar-course-final/2025-07-15/",
-    "college": "CUNY School of Law",
-    "date": "2025-07-15",
-    "time": "09:15 AM - 05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Bar Course Final",
     "link": "https://www.law.cuny.edu/event/bar-course-final/2025-07-16/",
     "college": "CUNY School of Law",
     "date": "2025-07-16",
@@ -126,17 +118,6 @@
     "date": "2025-08-19",
     "time": "02:00 PM - 03:00 PM",
     "tags": []
-  },
-  {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-74/",
-    "college": "LaGuardia Community College",
-    "date": "2025-07-15",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
   },
   {
     "title": "Mindfulness Meditation Wednesdays (In-Person)",
@@ -847,12 +828,34 @@
   },
   {
     "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-15/2/",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-15/1/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-15",
-    "time": "01:00 PM - 02:00 PM",
+    "time": "10:00 AM - 11:00 AM",
     "tags": [
       "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-255/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-15",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Southern New Hampshire University Virtual Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/southern-new-hampshire-university-virtual-information-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-15",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Academic Advisement & Transfer",
       "Featured"
     ]
   },
@@ -884,17 +887,6 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-16",
     "time": "04:00 PM - 05:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-256/2025-07-21/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-21",
-    "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Admissions",
       "Featured"
@@ -998,26 +990,10 @@
   },
   {
     "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005394",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005395",
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-15",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=657057",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Southern New Hampshire University Virtual Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/?p=657268",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-15",
-    "time": "12:00 PM - 01:00 PM",
+    "time": "01:00 PM - 02:00 PM",
     "tags": []
   },
   {
@@ -1388,22 +1364,6 @@
     "college": "Lehman College",
     "date": "2025-09-25",
     "time": "7:00 PM- 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Documenting Research MLA Style",
-    "link": "https://www.jjay.cuny.edu/news-events/events/documenting-research-mla-style-2",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-07-15",
-    "time": "07:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Evaluating Internet & Print Research Sources",
-    "link": "https://www.jjay.cuny.edu/news-events/events/evaluating-internet-print-research-sources-3",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-07-15",
-    "time": "08:30 PM",
     "tags": []
   },
   {
