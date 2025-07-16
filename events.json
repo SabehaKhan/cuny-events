@@ -1,13 +1,5 @@
 [
   {
-    "title": "TIAA - One on One Counseling for CCNY Faculty and Staff",
-    "link": "https://www.ccny.cuny.edu/calendar/tiaa-one-one-counseling",
-    "college": "City College of New York",
-    "date": "2025-07-16",
-    "time": "10:00 AM - 05:00 PM",
-    "tags": []
-  },
-  {
     "title": "CCNY CWE Admissions Workshop | Online | at CCNY CWE (25 Broadway)",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-cwe-admissions-workshop-online-ccny-cwe-25-broadway-5",
     "college": "City College of New York",
@@ -118,17 +110,6 @@
     "date": "2025-08-19",
     "time": "02:00 PM - 03:00 PM",
     "tags": []
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-07-16/",
-    "college": "LaGuardia Community College",
-    "date": "2025-07-16",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
   },
   {
     "title": "Mindfulness Meditation Wednesdays",
@@ -1366,11 +1347,35 @@
     "tags": []
   },
   {
+    "title": "Movies Under a Bronx Moon - “Inside Out 2”",
+    "link": "https://www.lehman.edu/events/2025/Movies-Under-a-Bronx-Moon---Inside-Out-2-.php",
+    "college": "Lehman College",
+    "date": "2025-07-23",
+    "time": "7:30 PM- 10:00 PM",
+    "tags": []
+  },
+  {
     "title": "Motorcycle Safety School - Ride a Motorcycle For Free",
     "link": "https://www.lehman.edu/events/2025/Motorcycle-Safety-School---Ride-a-Motorcycle-For-Free.php",
     "college": "Lehman College",
     "date": "2025-07-25",
     "time": "6:30 PM- 8:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
+    "link": "https://www.lehman.edu/events/2025/Counselor-Ed-School-Counseling-MSEd-Information-Session-.php",
+    "college": "Lehman College",
+    "date": "2025-09-09",
+    "time": "6:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
+    "link": "https://www.lehman.edu/events/2025/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session-.php",
+    "college": "Lehman College",
+    "date": "2025-09-09",
+    "time": "6:00 PM- 8:00 PM",
     "tags": []
   },
   {
@@ -1382,11 +1387,35 @@
     "tags": []
   },
   {
-    "title": "Lehman Night At Yankee Stadium",
-    "link": "https://www.lehman.edu/events/2025/Lehman-Night-At-Yankee-Stadium.php",
+    "title": "Literacy Studies M.S.Ed. Information Session",
+    "link": "https://www.lehman.edu/events/2025/Literacy-Studies-MSEd-Information-Session--.php",
     "college": "Lehman College",
-    "date": "2025-09-25",
-    "time": "7:00 PM- 10:00 PM",
+    "date": "2025-09-16",
+    "time": "7:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Business M.S. Information Session",
+    "link": "https://www.lehman.edu/events/2025/Business-MS-Information-Session-.php",
+    "college": "Lehman College",
+    "date": "2025-09-17",
+    "time": "5:30 PM- 6:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Nursing M.S., Adv. Cert., DNP Information Session",
+    "link": "https://www.lehman.edu/events/2025/Nursing-MS-Adv-Cert-DNP-Information-Session--2.php",
+    "college": "Lehman College",
+    "date": "2025-09-18",
+    "time": "5:30 PM- 6:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Biology M.A./M.S. Information Session",
+    "link": "https://www.lehman.edu/events/2025/Biology-MAMS-Information-Session-.php",
+    "college": "Lehman College",
+    "date": "2025-09-24",
+    "time": "6:00 PM- 7:00 PM",
     "tags": []
   },
   {
@@ -1542,14 +1571,6 @@
     "tags": []
   },
   {
-    "title": "Walk it Out Summer Wednesdays",
-    "link": "https://www.york.cuny.edu/ia/walk-it-our-summer-wednesdays",
-    "college": "York College",
-    "date": "2025-07-16",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
     "title": "CLC Summer 2025 Tutoring Available!",
     "link": "https://www.york.cuny.edu/collaborative-learning-center/announcements/summer-2025-tutoring",
     "college": "York College",
@@ -1579,6 +1600,14 @@
     "college": "York College",
     "date": "2025-07-22",
     "time": "4:00 PM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Walk it Out Summer Wednesdays",
+    "link": "https://www.york.cuny.edu/ia/walk-it-our-summer-wednesdays",
+    "college": "York College",
+    "date": "2025-07-23",
+    "time": "4:00 PM - 5:00 PM",
     "tags": []
   },
   {
@@ -1723,14 +1752,6 @@
     "date": "2025-09-03",
     "time": "12:00 PM - 02:00 PM",
     "description": ""
-  },
-  {
-    "title": "FAFSA Fest",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-16-fafsa-fest.html",
-    "college": "Queensborough Community College",
-    "date": "2025-07-16",
-    "time": "01:00 PM - 04:00 PM",
-    "description": "Financial Aid Event"
   },
   {
     "title": "Four-Year College Transfer Application Workshop",
@@ -1883,5 +1904,13 @@
     "date": "2025-08-21",
     "time": "03:00 PM - 04:00 PM",
     "description": "Career Services Event"
+  },
+  {
+    "title": "Fall 2025 Welcome Week",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-26-fall-2025-welcome-week.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-26",
+    "time": "09:00 AM - 07:00 PM",
+    "description": "Student Event"
   }
 ]
