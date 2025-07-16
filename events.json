@@ -80,12 +80,26 @@
     "tags": []
   },
   {
-    "title": "Bar Course Final",
-    "link": "https://www.law.cuny.edu/event/bar-course-final/2025-07-16/",
+    "title": "Protecting the Rights of Incarcerated People: Legal Remedies and Limitations (CLE)",
+    "link": "https://www.law.cuny.edu/event/protecting-the-rights-of-incarcerated-people-cle/",
     "college": "CUNY School of Law",
-    "date": "2025-07-16",
-    "time": "09:15 AM - 05:00 PM",
-    "tags": []
+    "date": "2025-09-17",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "Alumni",
+      "CLE - Continuing Legal Education"
+    ]
+  },
+  {
+    "title": "Wills and Trust: Practical Skills to Protect and Prepare (CLE)",
+    "link": "https://www.law.cuny.edu/event/wills-and-trust-practical-skills-cle/",
+    "college": "CUNY School of Law",
+    "date": "2025-09-25",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "Alumni",
+      "CLE - Continuing Legal Education"
+    ]
   },
   {
     "title": "CUNY Transfer Application Workshop",
@@ -532,25 +546,6 @@
       "EMSA",
       "Educational/Awareness",
       "AccessABILITY Services"
-    ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
-    "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2-5/2025-07-16/",
-    "college": "Hunter College",
-    "date": "2025-07-16",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "From Offer to Acceptance: Negotiation Strategies That Work",
-    "link": "https://hunter.cuny.edu/event/from-offer-to-acceptance-negotiation-strategies-that-work/",
-    "college": "Hunter College",
-    "date": "2025-07-16",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Conferences & Workshops",
-      "Student Events"
     ]
   },
   {
@@ -1419,14 +1414,6 @@
     "tags": []
   },
   {
-    "title": "Business Writing: Memos & Letters",
-    "link": "https://www.jjay.cuny.edu/news-events/events/business-writing-memos-letters-2",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-07-16",
-    "time": "09:30 PM",
-    "tags": []
-  },
-  {
     "title": "Writing the Lit Paper: Constructing Arguments",
     "link": "https://www.jjay.cuny.edu/news-events/events/writing-lit-paper-constructing-arguments",
     "college": "John Jay College of Criminal Justice",
@@ -1754,22 +1741,6 @@
     "description": ""
   },
   {
-    "title": "Four-Year College Transfer Application Workshop",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-16-four-year-college-transfer-application-workshop.html",
-    "college": "Queensborough Community College",
-    "date": "2025-07-16",
-    "time": "03:00 PM - 04:00 PM",
-    "description": "Transfer Resource Center Event"
-  },
-  {
-    "title": "Transfer Night at QCC",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-16-transfer-night-at-qcc.html",
-    "college": "Queensborough Community College",
-    "date": "2025-07-16",
-    "time": "04:00 PM - 06:00 PM",
-    "description": "Admissions Event"
-  },
-  {
     "title": "Virtual Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-17-virtual-resume-hour.html",
     "college": "Queensborough Community College",
@@ -1910,6 +1881,22 @@
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-26-fall-2025-welcome-week.html",
     "college": "Queensborough Community College",
     "date": "2025-08-26",
+    "time": "09:00 AM - 07:00 PM",
+    "description": "Student Event"
+  },
+  {
+    "title": "Fall 2025 Welcome Week",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-27-fall-2025-welcome-week.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-27",
+    "time": "09:00 AM - 07:00 PM",
+    "description": "Student Event"
+  },
+  {
+    "title": "Fall 2025 Welcome Week",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-28-fall-2025-welcome-week.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-28",
     "time": "09:00 AM - 07:00 PM",
     "description": "Student Event"
   }
