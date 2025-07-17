@@ -126,17 +126,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Wednesdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-07-16/",
-    "college": "LaGuardia Community College",
-    "date": "2025-07-16",
-    "time": "08:00 PM - 08:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom/2025-07-17/",
     "college": "LaGuardia Community College",
@@ -415,21 +404,6 @@
     "tags": [
       "all calendars",
       "Faculty and Staff"
-    ]
-  },
-  {
-    "title": "Complete Your FAFSA & TAP Application",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376419",
-    "college": "Guttman Community College",
-    "date": "2025-07-16",
-    "time": "06:00 PM - 07:30 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "FASFA & TAP Applications",
-      "Financial Aid",
-      "Satisfactory Academic Progress (SAP)",
-      "Federal Work Study"
     ]
   },
   {
@@ -791,44 +765,22 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-16",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Study Abroad: Travel the World with BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/study-abroad-travel-the-world-with-bmcc/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-16",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Featured",
-      "Study Abroad"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-16",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Zoom Online: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/zoom-online-applicant-workshop-6/2025-07-16/",
+    "link": "https://www.bmcc.cuny.edu/event/zoom-online-applicant-workshop-6/2025-07-17/",
     "college": "Borough of Manhattan Community College",
-    "date": "2025-07-16",
-    "time": "04:00 PM - 05:30 PM",
+    "date": "2025-07-17",
+    "time": "10:00 AM - 12:30 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-17/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-17",
+    "time": "01:00 PM - 02:00 PM",
     "tags": [
       "Admissions",
       "Featured"
@@ -840,6 +792,17 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-21",
     "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-24/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-24",
+    "time": "03:00 PM - 04:30 PM",
     "tags": [
       "Admissions",
       "Featured"
@@ -922,16 +885,6 @@
     ]
   },
   {
-    "title": "Setting Up Assignments in Brightspace with TurnItIn (Plagiarism Detection Tool)",
-    "link": "https://events.cuny.edu/cec/setting-up-assignments-in-brightspace-with-turnitin-plagiarism-detection-tool-2/",
-    "college": "College of Staten Island",
-    "date": "2025-07-16",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Center for Teaching and Learning"
-    ]
-  },
-  {
     "title": "Setting up the Grade Book in Brightspace",
     "link": "https://events.cuny.edu/cec/setting-up-the-grade-book-in-brightspace/",
     "college": "College of Staten Island",
@@ -942,83 +895,43 @@
     ]
   },
   {
-    "title": "Zoom Online: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005413",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-17",
-    "time": "10:00 AM - 12:30 PM",
-    "tags": []
+    "title": "Harlem Community Job Fair",
+    "link": "https://asrc.gc.cuny.edu/event/harlem-community-job-fair/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2025-07-18",
+    "time": "11:00 AM - 3:00 PM",
+    "tags": [
+      "Environmental Sciences",
+      "Nanoscience",
+      "Neuroscience",
+      "Photonics",
+      "Structural Biology"
+    ]
+  },
+  {
+    "title": "Adding and Structuring Content in your Brightspace Course",
+    "link": "https://events.cuny.edu/cec/adding-and-structuring-content-in-your-brightspace-course-2/",
+    "college": "College of Staten Island",
+    "date": "2025-07-22",
+    "time": "2:00 PM - 3:00 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
   },
   {
     "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005397",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005398",
     "college": "Borough of Manhattan Community College",
-    "date": "2025-07-17",
-    "time": "01:00 PM - 02:00 PM",
+    "date": "2025-07-22",
+    "time": "10:00 AM - 11:00 AM",
     "tags": []
   },
   {
-    "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/Hm2L2lk4EIznEl1dGY4X1117",
-    "college": "Queens College",
-    "date": "2025-07-16",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "D75 Relocation",
-    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq17",
-    "college": "Queens College",
-    "date": "2025-07-16",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025 - Computer Labs",
-    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE13",
-    "college": "Queens College",
-    "date": "2025-07-16",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025: Rain Location",
-    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T35",
-    "college": "Queens College",
-    "date": "2025-07-16",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025",
-    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y114",
-    "college": "Queens College",
-    "date": "2025-07-16",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Rescheduling the Ambassador’s Visit to Queens College",
-    "link": "https://qc.event.cuny.edu/events/tDXrMaWzYy0BPgo7omT2/wEAKthcrdT99ljiqV5JP",
-    "college": "Queens College",
-    "date": "2025-07-16",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "QC Summer Undergraduate Research Program",
-    "link": "https://qc.event.cuny.edu/events/Zz5G1yvkS7jhAXzXDycj/z4ChwQEmQgmdg82uvXYH",
-    "college": "Queens College",
-    "date": "2025-07-16",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "School of Arts: Peter and the Wolf Rehearsal Space",
-    "link": "https://qc.event.cuny.edu/events/l7FRYIdQlXCsaISy6Itv/Yd0K5S8trSzvhwqpMWky",
-    "college": "Queens College",
-    "date": "2025-07-16",
-    "time": "4:00PM",
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005387",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-22",
+    "time": "12:00 PM - 01:00 PM",
     "tags": []
   },
   {
@@ -1094,51 +1007,75 @@
     "tags": []
   },
   {
-    "title": "Conversion day. Classes follow a Thursday schedule.",
-    "link": "https://citytech.event.cuny.edu/events/Gq7XJQINSVJ33fG7UUjp/VavyapgQu2P1J4Vfodrs",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-16",
-    "time": "",
+    "title": "D75 Relocation",
+    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq19",
+    "college": "Queens College",
+    "date": "2025-07-18",
+    "time": "7:00AM",
     "tags": []
   },
   {
-    "title": "Undergrad and H.S Research Cohort",
-    "link": "https://citytech.event.cuny.edu/events/2C7LP6Aal17b7jdKeqQc/bl4jXMcBxZGIVkVZGKVh",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-16",
+    "title": "Summer Camp 2025 - Computer Labs",
+    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE15",
+    "college": "Queens College",
+    "date": "2025-07-18",
     "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "CUNY2X Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/dhRUBQPyIMYrXKCstVfh",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-16",
-    "time": "10:00AM",
+    "title": "Summer Camp 2025: Rain Location",
+    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T37",
+    "college": "Queens College",
+    "date": "2025-07-18",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "A Better Chance for Success Workshop",
-    "link": "https://citytech.event.cuny.edu/events/v9dz0FDjbOldWVRchln3/ZGGov2pVu4cFOK1jJYjd111",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-16",
-    "time": "1:00PM",
+    "title": "Summer Camp 2025",
+    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y116",
+    "college": "Queens College",
+    "date": "2025-07-18",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "TTPR Bootcamp professional Development",
-    "link": "https://citytech.event.cuny.edu/events/Rk0sJxUzBb9xbfgPjTWg/fdHoSOMsvbOLWe2D7I8L22",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-16",
-    "time": "2:00PM",
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/Hm2L2lk4EIznEl1dGY4X1120",
+    "college": "Queens College",
+    "date": "2025-07-19",
+    "time": "",
     "tags": []
   },
   {
-    "title": "Summer General Tour",
-    "link": "https://citytech.event.cuny.edu/events/YIwUtaUtEAulQmC0jrAB/GHKSCXws2FPRHwLLwQxB",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-16",
-    "time": "3:00PM",
+    "title": "Kaplan Test Prep",
+    "link": "https://qc.event.cuny.edu/events/KpoAjDHOozejRWbK3Cx6/rNcALyLjW8K68Pz30EId1",
+    "college": "Queens College",
+    "date": "2025-07-19",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Baroque Opera Movement  Workshop",
+    "link": "https://qc.event.cuny.edu/events/m0huWLJzImPOMebDPS8N/HatfofpgNSX6WzUnyuwm",
+    "college": "Queens College",
+    "date": "2025-07-20",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/Hm2L2lk4EIznEl1dGY4X1121",
+    "college": "Queens College",
+    "date": "2025-07-20",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Kaplan Test Prep",
+    "link": "https://qc.event.cuny.edu/events/KpoAjDHOozejRWbK3Cx6/rNcALyLjW8K68Pz30EId2",
+    "college": "Queens College",
+    "date": "2025-07-20",
+    "time": "9:00AM",
     "tags": []
   },
   {
@@ -1238,6 +1175,14 @@
     "tags": []
   },
   {
+    "title": "Undergrad and H.S Research Cohort",
+    "link": "https://citytech.event.cuny.edu/events/2C7LP6Aal17b7jdKeqQc/emupPzqDQDvFDpMZlfKq",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
     "title": "Online Information Session: Bachelor's Degree Programs",
     "link": "https://sps.cuny.edu/about/events/online-information-session-bachelors-degree-programs-4",
     "college": "CUNY School of Professional Studies",
@@ -1259,14 +1204,6 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-10-14",
     "time": "10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Career Corner: Networking Your Way to the Job Offer",
-    "link": "https://sph.cuny.edu/event/career-corner-networking-your-way-to-the-job-offer-3/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-07-16",
-    "time": "5:00PM",
     "tags": []
   },
   {
@@ -1550,14 +1487,6 @@
     "tags": []
   },
   {
-    "title": "R2T4 60% date for 10-Week session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-10-week-session-1",
-    "college": "York College",
-    "date": "2025-07-16",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
     "title": "CLC Summer 2025 Tutoring Available!",
     "link": "https://www.york.cuny.edu/collaborative-learning-center/announcements/summer-2025-tutoring",
     "college": "York College",
@@ -1614,15 +1543,12 @@
     "tags": []
   },
   {
-    "title": "NGOZI OKARO: REDESIGNING THE FUTURE OF AMERICAN FASHION",
-    "link": "https://www.gc.cuny.edu/events/ngozi-okaro-redesigning-future-american-fashion",
-    "college": "CUNY Graduate Center",
-    "date": "2025-07-16",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
+    "title": "Fall 2025 New Student Orientation",
+    "link": "https://www.york.cuny.edu/events/fall-2025-new-student-orientation",
+    "college": "York College",
+    "date": "2025-08-06",
+    "time": "2:00 PM - 8:00 PM",
+    "tags": []
   },
   {
     "title": "LESLIE E. HARRIS: THE MEDICALIZATION OF BEAUTY",
@@ -1722,6 +1648,18 @@
     "location": "Online",
     "tags": [
       "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "PH.D. PROGRAM IN CHEMISTRY VIRTUAL INFORMATION SESSION",
+    "link": "https://www.gc.cuny.edu/events/phd-program-chemistry-virtual-information-session-sep-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-12",
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Chemistry",
+      "Admissions"
     ]
   },
   {
