@@ -742,51 +742,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-22/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-22",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Paramedic Job and Information Fair",
-    "link": "https://www.bmcc.cuny.edu/event/paramedic-job-and-information-fair/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-23",
-    "time": "04:00 PM - 08:00 PM",
-    "tags": [
-      "Allied Health Sciences",
-      "Featured",
-      "Science"
-    ]
-  },
-  {
-    "title": "Zoom Online: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/zoom-online-applicant-workshop-6/2025-07-24/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-24",
-    "time": "10:00 AM - 12:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-24/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-24",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/cyber-mondays-shared-services-summer-virtual-counter-2-2/2025-07-21/",
     "college": "Bronx Community College",
@@ -887,6 +842,14 @@
     ]
   },
   {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005398",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-22",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": []
+  },
+  {
     "title": "Admissions Information Session (Online)",
     "link": "https://www.bmcc.cuny.edu/event/?p=10005387",
     "college": "Borough of Manhattan Community College",
@@ -910,6 +873,14 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-23",
     "time": "12:30 PM - 01:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Paramedic Job and Information Fair",
+    "link": "https://www.bmcc.cuny.edu/event/?p=657422",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-23",
+    "time": "04:00 PM - 08:00 PM",
     "tags": []
   },
   {
