@@ -103,14 +103,6 @@
   },
   {
     "title": "CUNY Transfer Application Workshop",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/1090e913-50fe-4a3d-8483-d0eb10762b31",
-    "college": "Kingsborough Community College",
-    "date": "2025-07-21",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Transfer Application Workshop",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/02a74de4-1a5f-4f72-acdf-c92807de8b06",
     "college": "Kingsborough Community College",
     "date": "2025-08-06",
@@ -710,17 +702,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-256/2025-07-21/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-21",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Take a Tour of BMCC’s Campus",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-22/",
     "college": "Borough of Manhattan Community College",
@@ -874,78 +855,6 @@
     ]
   },
   {
-    "title": "NABA Youth Conference",
-    "link": "https://qc.event.cuny.edu/events/vo1HEjGiTr7LTtVLG4fN/cJwFYMAohKTRC2GZ5t6h",
-    "college": "Queens College",
-    "date": "2025-07-21",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/qC5ul9Yz7oWqqVYxT7rt1122",
-    "college": "Queens College",
-    "date": "2025-07-21",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "D75 Relocation",
-    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq20",
-    "college": "Queens College",
-    "date": "2025-07-21",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025 - Computer Labs",
-    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE16",
-    "college": "Queens College",
-    "date": "2025-07-21",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025: Rain Location",
-    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T38",
-    "college": "Queens College",
-    "date": "2025-07-21",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025",
-    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y117",
-    "college": "Queens College",
-    "date": "2025-07-21",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "PSCI Speech",
-    "link": "https://qc.event.cuny.edu/events/NqOys9O4fErRCrBDdXoK/f81mql4BQGqROJ8Gc50F",
-    "college": "Queens College",
-    "date": "2025-07-21",
-    "time": "8:30AM",
-    "tags": []
-  },
-  {
-    "title": "QC Summer Undergraduate Research Program",
-    "link": "https://qc.event.cuny.edu/events/Zz5G1yvkS7jhAXzXDycj/LfjqxJ0rsa1lDpccT8Ic",
-    "college": "Queens College",
-    "date": "2025-07-21",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "School of Arts: Peter and the Wolf Rehearsal Space",
-    "link": "https://qc.event.cuny.edu/events/l7FRYIdQlXCsaISy6Itv/TJ9BDUoTerhNHKNqUdFC",
-    "college": "Queens College",
-    "date": "2025-07-21",
-    "time": "4:00PM",
-    "tags": []
-  },
-  {
     "title": "ITS Upgrade Project",
     "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/ctNSIpEZ7vWFvTPb4inU1123",
     "college": "Queens College",
@@ -1018,59 +927,75 @@
     "tags": []
   },
   {
-    "title": "Undergrad and H.S Research Cohort",
-    "link": "https://citytech.event.cuny.edu/events/2C7LP6Aal17b7jdKeqQc/emupPzqDQDvFDpMZlfKq",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-21",
+    "title": "School of Arts: Peter and the Wolf Rehearsal Space",
+    "link": "https://qc.event.cuny.edu/events/l7FRYIdQlXCsaISy6Itv/hK8E0EfN8DXt44g2hrhO",
+    "college": "Queens College",
+    "date": "2025-07-22",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/Hm2L2lk4EIznEl1dGY4X1124",
+    "college": "Queens College",
+    "date": "2025-07-23",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "D75 Relocation",
+    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq22",
+    "college": "Queens College",
+    "date": "2025-07-23",
+    "time": "7:00AM",
+    "tags": []
+  },
+  {
+    "title": "New Student Orientation Summer 2025",
+    "link": "https://qc.event.cuny.edu/events/kSG7yjK89tb4f8Pow325/pLFdne2bgYGbHRzjciCi",
+    "college": "Queens College",
+    "date": "2025-07-23",
+    "time": "7:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Orientation Sessions",
+    "link": "https://qc.event.cuny.edu/events/ndH14lpWFwKPbnoYfCZW/tyMEUYFkVuFp3bjd2pBw",
+    "college": "Queens College",
+    "date": "2025-07-23",
+    "time": "7:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025 - Computer Labs",
+    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE18",
+    "college": "Queens College",
+    "date": "2025-07-23",
     "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "STEM RA x Irondale",
-    "link": "https://citytech.event.cuny.edu/events/fw57lA4yNPYxytLyljoP/CViiZX8CeFXmulyV7D4b",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-21",
-    "time": "9:00AM",
+    "title": "Summer Camp 2025: Rain Location",
+    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T310",
+    "college": "Queens College",
+    "date": "2025-07-23",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "BTG/STEP",
-    "link": "https://citytech.event.cuny.edu/events/KBI9HC05HwsEDIdiWswC/WcnM6kXuAui1OwXc37Cm2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-21",
-    "time": "9:00AM",
+    "title": "Summer Camp 2025",
+    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y119",
+    "college": "Queens College",
+    "date": "2025-07-23",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "A Better Chance for Success Workshop",
-    "link": "https://citytech.event.cuny.edu/events/KpYpHBodtVGSMVKEANl3/HGJOF97FZJIMjxwGvbol1112",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-21",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY2X Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/JRNH1PvRhMuiKq9OkD1j",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-21",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer CUNY Explorers",
-    "link": "https://citytech.event.cuny.edu/events/QFOdRltDVq1HkSDSTo3K/mXy3v366aWqidKVNOxxs5",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-21",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "TTPR Bootcamp professional Development",
-    "link": "https://citytech.event.cuny.edu/events/Rk0sJxUzBb9xbfgPjTWg/fdHoSOMsvbOLWe2D7I8L24",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-21",
-    "time": "2:00PM",
+    "title": "PSCI Speech",
+    "link": "https://qc.event.cuny.edu/events/IKNwzEEY9MMLLCXgBPBc/yfolAKNL34wIPg0BI0kF",
+    "college": "Queens College",
+    "date": "2025-07-23",
+    "time": "8:30AM",
     "tags": []
   },
   {
@@ -1162,6 +1087,22 @@
     "tags": []
   },
   {
+    "title": "CUNY2X Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/J6O0gqe6l4wt4wfu3XLH",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-23",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Student Wellness Center Blood Drive",
+    "link": "https://citytech.event.cuny.edu/events/cQF6S4WNARiDAQrsg9mV/ebnIyq2u3fMeOCMPEMXh",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-23",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
     "title": "Power Up Your Adventure: CUNY SPS Orientation Kickoff",
     "link": "https://sps.cuny.edu/about/events/power-up-your-adventure-cuny-sps-orientation-kickoff",
     "college": "CUNY School of Professional Studies",
@@ -1223,14 +1164,6 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-10-14",
     "time": "10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Career Skills Academy Virtual Info Session. Apply now!",
-    "link": "https://sph.cuny.edu/event/career-skills-academy-virtual-info-session-apply-now-7/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-07-21",
-    "time": "12:00PM",
     "tags": []
   },
   {
@@ -1482,14 +1415,6 @@
     "tags": []
   },
   {
-    "title": "R2T4 60% date for 4-Week 2 session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-2-session-1",
-    "college": "York College",
-    "date": "2025-07-21",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
     "title": "CLC Summer 2025 Tutoring Available!",
     "link": "https://www.york.cuny.edu/collaborative-learning-center/announcements/summer-2025-tutoring",
     "college": "York College",
@@ -1543,6 +1468,14 @@
     "college": "York College",
     "date": "2025-08-06",
     "time": "2:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 10-Week",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-10-week-1",
+    "college": "York College",
+    "date": "2025-08-13",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
