@@ -118,17 +118,6 @@
     "tags": []
   },
   {
-    "title": "Job/Internship Search: Ways to Supercharge Your Job/Internship Search",
-    "link": "https://www.laguardia.edu/event/job-internship-search-ways-to-supercharge-your-job-internship-search-8/",
-    "college": "LaGuardia Community College",
-    "date": "2025-07-22",
-    "time": "11:45 AM - 12:45 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Wednesdays (In-Person)",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-07-23/",
     "college": "LaGuardia Community College",
@@ -733,10 +722,10 @@
   },
   {
     "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-22/",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-23/",
     "college": "Borough of Manhattan Community College",
-    "date": "2025-07-22",
-    "time": "10:00 AM - 11:00 AM",
+    "date": "2025-07-23",
+    "time": "12:30 PM - 01:30 PM",
     "tags": [
       "Admissions",
       "Featured"
@@ -773,6 +762,28 @@
     "time": "03:00 PM - 04:30 PM",
     "tags": [
       "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-256/2025-07-28/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-28",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Degree Under Three Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/degree-under-three-information-session-17/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-05",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Degree Under Three",
       "Featured"
     ]
   },
@@ -849,14 +860,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005387",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-22",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "Setting up the Gradebook in Brightspace",
     "link": "https://events.cuny.edu/cec/setting-up-the-gradebook-in-brightspace/",
     "college": "College of Staten Island",
@@ -867,14 +870,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005399",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-23",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
     "title": "Setting Up Assignments in Brightspace with TurnItIn (Plagiarism Detection Tool)",
     "link": "https://events.cuny.edu/cec/setting-up-assignments-in-brightspace-with-turnitin-plagiarism-detection-tool/",
     "college": "College of Staten Island",
@@ -883,6 +878,14 @@
     "tags": [
       "Center for Teaching and Learning"
     ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005400",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-24",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": []
   },
   {
     "title": "ITS Upgrade Project",
@@ -1325,14 +1328,6 @@
     "tags": []
   },
   {
-    "title": "Proofing & Editing for Grammar Errors",
-    "link": "https://www.jjay.cuny.edu/news-events/events/proofing-editing-grammar-errors-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-07-22",
-    "time": "04:15 PM",
-    "tags": []
-  },
-  {
     "title": "Effective Editing Strategies",
     "link": "https://www.jjay.cuny.edu/news-events/events/effective-editing-strategies-0",
     "college": "John Jay College of Criminal Justice",
@@ -1520,6 +1515,17 @@
     ]
   },
   {
+    "title": "LEVERAGING TRANSLATIONAL NEUROSCIENCE TO ACCELERATE INNOVATION IN PSYCHIATRY",
+    "link": "https://www.gc.cuny.edu/events/leveraging-translational-neuroscience-accelerate-innovation-psychiatry",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-28",
+    "time": "4:00 pm",
+    "location": "6495",
+    "tags": [
+      "Initiative for the Theoretical Sciences"
+    ]
+  },
+  {
     "title": "DONNA ZAKOWSKA: FASHIONING COSTUMES, COSTUMING FASHION",
     "link": "https://www.gc.cuny.edu/events/donna-zakowska-fashioning-costumes-costuming-fashion",
     "college": "CUNY Graduate Center",
@@ -1606,18 +1612,6 @@
     "location": "Online",
     "tags": [
       "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "PH.D. PROGRAM IN CHEMISTRY VIRTUAL INFORMATION SESSION",
-    "link": "https://www.gc.cuny.edu/events/phd-program-chemistry-virtual-information-session-sep-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-12",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Chemistry",
-      "Admissions"
     ]
   },
   {
