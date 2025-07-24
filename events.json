@@ -118,18 +118,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom/2025-07-24/",
-    "college": "LaGuardia Community College",
-    "date": "2025-07-24",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-77/",
     "college": "LaGuardia Community College",
@@ -720,6 +708,28 @@
     ]
   },
   {
+    "title": "Zoom Online: Applicant Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/zoom-online-applicant-workshop-6/2025-07-24/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-24",
+    "time": "10:00 AM - 12:30 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-91/2025-07-24/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-24",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
     "title": "BMCC Admissions WTC & Tribeca Campus Tour",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-24/",
     "college": "Borough of Manhattan Community College",
@@ -751,14 +761,6 @@
       "Degree Under Three",
       "Featured"
     ]
-  },
-  {
-    "title": "AI Workshop - Library",
-    "link": "https://www.bcc.cuny.edu/event/ai-workshop-library/2025-07-24/",
-    "college": "Bronx Community College",
-    "date": "2025-07-24",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
   },
   {
     "title": "Cyber Mondays - Shared Services Summer Virtual Counter",
@@ -815,22 +817,6 @@
     "tags": [
       "Center for Teaching and Learning"
     ]
-  },
-  {
-    "title": "Zoom Online: Applicant Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005414",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-24",
-    "time": "10:00 AM - 12:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005400",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-24",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": []
   },
   {
     "title": "Photonics Initiative Seminar: Mohammed Hassan",
@@ -1291,14 +1277,6 @@
     "tags": []
   },
   {
-    "title": "Writing the Research Paper",
-    "link": "https://www.jjay.cuny.edu/news-events/events/writing-research-paper-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-07-24",
-    "time": "08:30 PM",
-    "tags": []
-  },
-  {
     "title": "Journey to Law School",
     "link": "https://www.jjay.cuny.edu/news-events/events/journey-law-school",
     "college": "John Jay College of Criminal Justice",
@@ -1506,8 +1484,8 @@
     ]
   },
   {
-    "title": "AI+PHYSICS WORKSHOP",
-    "link": "https://www.gc.cuny.edu/events/aiphysics-workshop",
+    "title": "AI + PHYSICS WORKSHOP",
+    "link": "https://www.gc.cuny.edu/events/ai-physics-workshop",
     "college": "CUNY Graduate Center",
     "date": "2025-09-08",
     "time": "",
@@ -1578,14 +1556,6 @@
     "date": "2025-09-03",
     "time": "12:00 PM - 02:00 PM",
     "description": ""
-  },
-  {
-    "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-07-24-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-07-24",
-    "time": "03:00 PM - 04:00 PM",
-    "description": "Career Services Event"
   },
   {
     "title": "Virtual Resume Hour",
@@ -1722,5 +1692,13 @@
     "date": "2025-09-10",
     "time": "12:00 PM - 02:00 PM",
     "description": "Club Event"
+  },
+  {
+    "title": "President's Book Club",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-15-presidents-book-club.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-15",
+    "time": "01:00 PM - 02:15 PM",
+    "description": "Student Event"
   }
 ]
