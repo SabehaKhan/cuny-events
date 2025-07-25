@@ -668,51 +668,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-256/2025-07-28/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-28",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour/2025-07-30/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-07-30",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Degree Under Three Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/degree-under-three-information-session-17/2025-08-05/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-05",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Degree Under Three",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Admissions Saturday Information Session & Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-saturday-information-session-campus-tour-5/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-09",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
     "title": "Compost Workshop (PG CLUE)",
     "link": "https://csi.campuslabs.com/engage/event/11324324",
     "college": "College of Staten Island",
@@ -736,10 +691,26 @@
   },
   {
     "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005388",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-28",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (Online)",
     "link": "https://www.bmcc.cuny.edu/event/?p=10005389",
     "college": "Borough of Manhattan Community College",
     "date": "2025-07-29",
     "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005406",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-07-30",
+    "time": "03:00 PM - 04:30 PM",
     "tags": []
   },
   {
