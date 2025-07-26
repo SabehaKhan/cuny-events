@@ -787,70 +787,6 @@
     ]
   },
   {
-    "title": "Baroque Opera Movement  Workshop",
-    "link": "https://qc.event.cuny.edu/events/m0huWLJzImPOMebDPS8N/HdUviSM526axQiWUaqHt",
-    "college": "Queens College",
-    "date": "2025-07-25",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/RlT6YY3gItN2evoFt1wT4",
-    "college": "Queens College",
-    "date": "2025-07-25",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "NABA Youth Conference",
-    "link": "https://qc.event.cuny.edu/events/vo1HEjGiTr7LTtVLG4fN/zwE07dj0gzgwo5P6vAu9",
-    "college": "Queens College",
-    "date": "2025-07-25",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "D75 Relocation",
-    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq24",
-    "college": "Queens College",
-    "date": "2025-07-25",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025 - Computer Labs",
-    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE20",
-    "college": "Queens College",
-    "date": "2025-07-25",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025: Rain Location",
-    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T312",
-    "college": "Queens College",
-    "date": "2025-07-25",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025",
-    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y121",
-    "college": "Queens College",
-    "date": "2025-07-25",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Louis Armstrong Teaching Institute",
-    "link": "https://qc.event.cuny.edu/events/yz3z0Snzp91AYLjnWPlO/rL3m3cEKfpDCTv4TZenx",
-    "college": "Queens College",
-    "date": "2025-07-25",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
     "title": "ITS Upgrade Project",
     "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/Hm2L2lk4EIznEl1dGY4X1127",
     "college": "Queens College",
@@ -931,27 +867,67 @@
     "tags": []
   },
   {
+    "title": "School of Arts: Peter and the Wolf Rehearsal Space",
+    "link": "https://qc.event.cuny.edu/events/l7FRYIdQlXCsaISy6Itv/qKKVZaEaH11hPMJgwJ7p",
+    "college": "Queens College",
+    "date": "2025-07-28",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/qC5ul9Yz7oWqqVYxT7rt1130",
+    "college": "Queens College",
+    "date": "2025-07-29",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "D75 Relocation",
+    "link": "https://qc.event.cuny.edu/events/x9zXddurx4hA2Xq4hTMe/OssviUXZAPOmrbirnJRq26",
+    "college": "Queens College",
+    "date": "2025-07-29",
+    "time": "7:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025 - Computer Labs",
+    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE22",
+    "college": "Queens College",
+    "date": "2025-07-29",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025: Rain Location",
+    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T314",
+    "college": "Queens College",
+    "date": "2025-07-29",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025",
+    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y123",
+    "college": "Queens College",
+    "date": "2025-07-29",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "College Now Summer Program 2025",
+    "link": "https://qc.event.cuny.edu/events/tqHNyNpyTdEG15guq0OM/EWMSnBZPew1YJUfSxy2X",
+    "college": "Queens College",
+    "date": "2025-07-29",
+    "time": "10:30AM",
+    "tags": []
+  },
+  {
     "title": "The New York Tolkien Conference",
     "link": "https://baruch.event.cuny.edu/events/IqkNr1KvkTtkT9NjYNMk/K2wm3wX6a0dlzXExL3dH",
     "college": "Baruch College",
     "date": "2025-07-31",
     "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Undergrad and H.S Research Cohort",
-    "link": "https://citytech.event.cuny.edu/events/2C7LP6Aal17b7jdKeqQc/tugHq9pwfabtjnmMOTeZ",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-25",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "DNA Learning center event",
-    "link": "https://citytech.event.cuny.edu/events/zqeOXR3yrfpOPSAyt234/rHJvUlPuSHKlfIDnCMfZ",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-07-25",
-    "time": "9:00AM",
     "tags": []
   },
   {
@@ -1007,6 +983,38 @@
     "link": "https://citytech.event.cuny.edu/events/Rk0sJxUzBb9xbfgPjTWg/fdHoSOMsvbOLWe2D7I8L28",
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-07-28",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "BTG/STEP",
+    "link": "https://citytech.event.cuny.edu/events/KBI9HC05HwsEDIdiWswC/WcnM6kXuAui1OwXc37Cm7",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-29",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "CUNY2X Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/v80Pu3wU47qSVV5Lp4Gt",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-29",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer CUNY Explorers",
+    "link": "https://citytech.event.cuny.edu/events/QFOdRltDVq1HkSDSTo3K/mXy3v366aWqidKVNOxxs8",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-29",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "TTPR Bootcamp professional Development",
+    "link": "https://citytech.event.cuny.edu/events/Rk0sJxUzBb9xbfgPjTWg/fdHoSOMsvbOLWe2D7I8L29",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-07-29",
     "time": "2:00PM",
     "tags": []
   },
@@ -1123,14 +1131,6 @@
     "tags": []
   },
   {
-    "title": "Motorcycle Safety School - Ride a Motorcycle For Free",
-    "link": "https://www.lehman.edu/events/2025/Motorcycle-Safety-School---Ride-a-Motorcycle-For-Free.php",
-    "college": "Lehman College",
-    "date": "2025-07-25",
-    "time": "6:30 PM- 8:30 PM",
-    "tags": []
-  },
-  {
     "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
     "link": "https://www.lehman.edu/events/2025/Counselor-Ed-School-Counseling-MSEd-Information-Session-.php",
     "college": "Lehman College",
@@ -1184,6 +1184,14 @@
     "college": "Lehman College",
     "date": "2025-09-24",
     "time": "6:00 PM- 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Human Rights Education and Transformative Justice Adv. Cert. Information Session",
+    "link": "https://www.lehman.edu/events/2025/Human-Rights-Education-and-Transformative-Justice-Adv-Cert-Information-Session-.php",
+    "college": "Lehman College",
+    "date": "2025-09-25",
+    "time": "5:00 PM- 6:00 PM",
     "tags": []
   },
   {
