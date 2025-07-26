@@ -1095,54 +1095,6 @@
     "tags": []
   },
   {
-    "title": "Career Skills Academy Virtual Info Session. Apply now!",
-    "link": "https://sph.cuny.edu/event/career-skills-academy-virtual-info-session-apply-now-9/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-07-30",
-    "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Career Skills Academy Virtual Info Session. Apply now!",
-    "link": "https://sph.cuny.edu/event/career-skills-academy-virtual-info-session-apply-now-10/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-08-07",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Career Skills Academy Virtual Info Session. Apply now!",
-    "link": "https://sph.cuny.edu/event/career-skills-academy-virtual-info-session-apply-now-3/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-08-12",
-    "time": "5:00PM",
-    "tags": []
-  },
-  {
-    "title": "Career Skills Academy Virtual Info Session. Apply now!",
-    "link": "https://sph.cuny.edu/event/career-skills-academy-virtual-info-session-apply-now-2/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-08-18",
-    "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "OCS Welcome Workshop: New Student Orientation Career Mapping",
-    "link": "https://sph.cuny.edu/event/ocs-welcome-workshop-new-student-orientation-career-mapping-2/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-08-20",
-    "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "This is Public Health: Graduate School Fair in NYC",
-    "link": "https://sph.cuny.edu/event/this-is-public-health-graduate-school-fair-in-nyc/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-09-18",
-    "time": "5:30PM",
-    "tags": []
-  },
-  {
     "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
     "link": "https://www.lehman.edu/events/2025/Counselor-Ed-School-Counseling-MSEd-Information-Session-.php",
     "college": "Lehman College",
@@ -1357,6 +1309,119 @@
     "date": "2025-08-13",
     "time": "4:00 AM - 3:59 AM",
     "tags": []
+  },
+  {
+    "title": "DONNA ZAKOWSKA: FASHIONING COSTUMES, COSTUMING FASHION",
+    "link": "https://www.gc.cuny.edu/events/donna-zakowska-fashioning-costumes-costuming-fashion",
+    "college": "CUNY Graduate Center",
+    "date": "2025-07-30",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "MASTERS IN ASTROPHYSICS ORIENTATION: AUGUST 11",
+    "link": "https://www.gc.cuny.edu/events/masters-astrophysics-orientation-aug-11-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-08-11",
+    "time": "",
+    "location": "5382",
+    "tags": [
+      "Astrophysics"
+    ]
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-aug-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-08-13",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "ADVANCED DRUPAL TRAINING",
+    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-aug-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-08-13",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "MASTERS IN ASTROPHYSICS ORIENTATION: AUGUST 17",
+    "link": "https://www.gc.cuny.edu/events/masters-astrophysics-orientation-aug-17-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-08-17",
+    "time": "",
+    "location": "5382",
+    "tags": [
+      "Astrophysics"
+    ]
+  },
+  {
+    "title": "AI + PHYSICS WORKSHOP",
+    "link": "https://www.gc.cuny.edu/events/ai-physics-workshop",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-08",
+    "time": "",
+    "location": "4102: Science Center",
+    "tags": [
+      "Initiative for the Theoretical Sciences",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-sept-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "ADVANCED DRUPAL TRAINING",
+    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-sept-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "PH.D. PROGRAM IN CHEMISTRY VIRTUAL INFORMATION SESSION",
+    "link": "https://www.gc.cuny.edu/events/phd-program-chemistry-virtual-information-session-sep-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-12",
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Chemistry",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "SLHS OPEN HOUSE - PROGRAM INFORMATION",
+    "link": "https://www.gc.cuny.edu/events/slhs-open-house-program-information",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-19",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Speech-Language-Hearing Sciences",
+      "Admissions"
+    ]
   },
   {
     "title": "Fall 2025 Welcome Week",
