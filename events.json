@@ -250,17 +250,6 @@
     ]
   },
   {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-07-31/",
-    "college": "LaGuardia Community College",
-    "date": "2025-07-31",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-78/",
     "college": "LaGuardia Community College",
@@ -533,6 +522,18 @@
   {
     "title": "POOLSIDE: Student Success Resources Fair",
     "link": "https://www.laguardia.edu/event/poolside-student-success-resources-fair/",
+    "college": "LaGuardia Community College",
+    "date": "2025-09-17",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Space Reservation",
+      "student events"
+    ]
+  },
+  {
+    "title": "FULL E-ATRIUM: Student Success Resources Fair",
+    "link": "https://www.laguardia.edu/event/full-e-atrium-student-success-resources-fair/",
     "college": "LaGuardia Community College",
     "date": "2025-09-17",
     "time": "02:00 PM - 04:00 PM",
@@ -1508,6 +1509,14 @@
     "tags": []
   },
   {
+    "title": "Upholding Rights, Ensuring Justice",
+    "link": "https://sph.cuny.edu/event/upholding-rights-ensuring-justice/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-09-17",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
     "title": "This is Public Health: Graduate School Fair in NYC",
     "link": "https://sph.cuny.edu/event/this-is-public-health-graduate-school-fair-in-nyc/",
     "college": "CUNY School of Public Health",
@@ -1949,12 +1958,28 @@
     "description": "Student Event"
   },
   {
+    "title": "Fall 2025 Welcome Ice Cream Social",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-26-fall-2025-welcome-ice-cream-social.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-26",
+    "time": "12:10 PM - 02:10 PM",
+    "description": "Club Event"
+  },
+  {
     "title": "Fall 2025 Welcome Week",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-27-fall-2025-welcome-week.html",
     "college": "Queensborough Community College",
     "date": "2025-08-27",
     "time": "09:00 AM - 07:00 PM",
     "description": "Student Event"
+  },
+  {
+    "title": "Fall 2025 Welcome Ice Cream Social",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-27-fall-2025-welcome-ice-cream-social.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-27",
+    "time": "12:10 PM - 02:10 PM",
+    "description": "Club Event"
   },
   {
     "title": "Fall 2025 Welcome Week",
@@ -1995,22 +2020,6 @@
     "date": "2025-09-16",
     "time": "03:00 PM - 04:15 PM",
     "description": "ASAP Career Event"
-  },
-  {
-    "title": "No Experience? No Problem! – CUNY Spring Forward",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-no-experience-no-problem-cuny-spring-forward.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-17",
-    "time": "02:00 PM - 03:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "From Częstochowa to Bayside: The Story of the KHC’s Torah Scroll",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-from-cz%C4%99stochowa-to-bayside-the-story-of-the-khcs-torah-scroll.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-17",
-    "time": "02:30 PM - 04:00 PM",
-    "description": ""
   },
   {
     "title": "New Student Open House",
