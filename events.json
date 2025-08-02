@@ -652,14 +652,6 @@
     ]
   },
   {
-    "title": "International Students Info Session",
-    "link": "https://hunter.cuny.edu/event/international-students-info-session/",
-    "college": "Hunter College",
-    "date": "2025-08-02",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": []
-  },
-  {
     "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
     "link": "https://hunter.cuny.edu/event/fafsa-help-desk-virtual-mondays-2/2025-08-04/",
     "college": "Hunter College",
@@ -889,6 +881,16 @@
     "college": "Hunter College",
     "date": "2025-11-17",
     "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "MS-IPND Challenge Exams",
+    "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-12-10/",
+    "college": "Hunter College",
+    "date": "2025-12-10",
+    "time": "11:00 AM - 01:00 PM",
     "tags": [
       "Open Houses"
     ]
