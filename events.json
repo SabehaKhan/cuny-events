@@ -1,13 +1,5 @@
 [
   {
-    "title": "Start of Summer Session Three",
-    "link": "https://www.ccny.cuny.edu/calendar/start-summer-session-three",
-    "college": "City College of New York",
-    "date": "2025-08-04",
-    "time": "12:00 AM - 11:59 PM",
-    "tags": []
-  },
-  {
     "title": "2025 Percy Sutton Harlem 5k Run",
     "link": "https://www.ccny.cuny.edu/calendar/2025-percy-sutton-harlem-5k-run",
     "college": "City College of New York",
@@ -1496,6 +1488,14 @@
     "tags": []
   },
   {
+    "title": "CareerLink Training",
+    "link": "https://sps.cuny.edu/about/events/careerlink-training",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-09-18",
+    "time": "04:30 PM",
+    "tags": []
+  },
+  {
     "title": "Online Information Session: Jump Start Application",
     "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
     "college": "CUNY School of Professional Studies",
@@ -1504,10 +1504,10 @@
     "tags": []
   },
   {
-    "title": "Online Information Session: Graduate Programs",
-    "link": "https://sps.cuny.edu/about/events/online-information-session-graduate-programs",
+    "title": "Refresh Your Resume Webinar (evening)",
+    "link": "https://sps.cuny.edu/about/events/refresh-your-resume-webinar-evening",
     "college": "CUNY School of Professional Studies",
-    "date": "2025-10-14",
+    "date": "2025-09-30",
     "time": "10:00 PM",
     "tags": []
   },
