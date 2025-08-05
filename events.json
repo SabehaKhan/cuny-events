@@ -230,14 +230,6 @@
     "tags": []
   },
   {
-    "title": "KCC Blood Drive",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/8a46e863-a556-4638-b8bb-277c2df6451e",
-    "college": "Kingsborough Community College",
-    "date": "2025-08-04",
-    "time": "02:00 PM - 09:00 PM",
-    "tags": []
-  },
-  {
     "title": "B201 - DC-37 Delegates on Campus",
     "link": "https://www.laguardia.edu/event/b201-dc-37-delegates-on-campus-2/",
     "college": "LaGuardia Community College",
@@ -545,18 +537,6 @@
   },
   {
     "title": "Spring 2 2025 Study-a-Thon",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376427",
-    "college": "Guttman Community College",
-    "date": "2025-08-04",
-    "time": "02:00 PM - 01:00 AM",
-    "tags": [
-      "ASC",
-      "Academic",
-      "Tutoring"
-    ]
-  },
-  {
-    "title": "Spring 2 2025 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376429",
     "college": "Guttman Community College",
     "date": "2025-08-05",
@@ -640,16 +620,6 @@
       "EMSA",
       "Educational/Awareness",
       "AccessABILITY Services"
-    ]
-  },
-  {
-    "title": "Nurse Anesthesia Acute Care NP (DNP) Program Information Session - Online (Zoom)",
-    "link": "https://hunter.cuny.edu/event/nurse-anesthesia-acute-care-np-dnp-program-information-session-online-zoom-2/",
-    "college": "Hunter College",
-    "date": "2025-08-04",
-    "time": "04:00 PM - 06:00 PM",
-    "tags": [
-      "Open Houses"
     ]
   },
   {
@@ -877,121 +847,13 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-257/2025-08-04/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-04",
+    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
+    "link": "https://hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-4/2025-12-11/",
+    "college": "Hunter College",
+    "date": "2025-12-11",
     "time": "06:00 PM - 07:00 PM",
     "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-92/2025-08-05/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-05",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Featured"
-    ]
-  },
-  {
-    "title": "Degree Under Three Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/degree-under-three-information-session-17/2025-08-05/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-05",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Degree Under Three",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour-2/2025-08-05/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-05",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-93/2025-08-06/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-06",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-94/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-07",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "BMCC Admissions Saturday Information Session & Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-saturday-information-session-campus-tour-5/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-09",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-95/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-14",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour-3/2025-08-20/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-20",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-21",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "Launch Event for Cybersecurity White Hat and Job Placement Initiative",
-    "link": "https://www.bmcc.cuny.edu/event/launch-event-for-cybersecurity-white-hat-and-job-placement-initiative/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-11",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "Continuing Education",
-      "Diplomatic Engagement and Training",
-      "Featured"
+      "Open Houses"
     ]
   },
   {
@@ -1129,14 +991,28 @@
     ]
   },
   {
-    "title": "Dissertation Defense – Anfal Abuhilal (Biology)",
-    "link": "https://asrc.gc.cuny.edu/event/dissertation-defense-anfal-abuhilal/",
-    "college": "Advanced Science Research Center, GC/CUNY",
-    "date": "2025-08-04",
-    "time": "11:30 AM - 1:00 PM",
-    "tags": [
-      "Neuroscience"
-    ]
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005427",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-05",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Degree Under Three Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005419",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-05",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": []
+  },
+  {
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005435",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-05",
+    "time": "12:00 PM - 01:30 PM",
+    "tags": []
   },
   {
     "title": "Creating Quizzes in Brightspace",
@@ -1149,60 +1025,22 @@
     ]
   },
   {
-    "title": "Summer Camp 2025 - Computer Labs",
-    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE26",
-    "college": "Queens College",
-    "date": "2025-08-04",
-    "time": "8:00AM",
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005429",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-06",
+    "time": "12:30 PM - 01:30 PM",
     "tags": []
   },
   {
-    "title": "Summer Camp 2025: Rain Location",
-    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T318",
-    "college": "Queens College",
-    "date": "2025-08-04",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025",
-    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y127",
-    "college": "Queens College",
-    "date": "2025-08-04",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Learning Common Room Needs Hold",
-    "link": "https://qc.event.cuny.edu/events/WBAp78Ty1xWyZiUFJdcg/Aix6WBXyeumJBHbzQYqN1",
-    "college": "Queens College",
-    "date": "2025-08-04",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Symposium",
-    "link": "https://qc.event.cuny.edu/events/cq9YCb65NWoe7lGBN7VN/vJnKa2ztx6fVG8q9ODxY",
-    "college": "Queens College",
-    "date": "2025-08-04",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "QC Summer Undergraduate Research Program",
-    "link": "https://qc.event.cuny.edu/events/Zz5G1yvkS7jhAXzXDycj/mx3Gex3gG4zK6tcGB0Tj",
-    "college": "Queens College",
-    "date": "2025-08-04",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "School of Arts: Peter and the Wolf Rehearsal Space",
-    "link": "https://qc.event.cuny.edu/events/l7FRYIdQlXCsaISy6Itv/Nz2jVRlFmPdzu1rIHoho",
-    "college": "Queens College",
-    "date": "2025-08-04",
-    "time": "4:00PM",
-    "tags": []
+    "title": "Creating Quizzes in Brightspace",
+    "link": "https://events.cuny.edu/cec/creating-quizzes-in-brightspace-3/",
+    "college": "College of Staten Island",
+    "date": "2025-08-07",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
   },
   {
     "title": "Summer Orientation Sessions",
@@ -1277,43 +1115,75 @@
     "tags": []
   },
   {
+    "title": "New Student Orientation Summer 2025",
+    "link": "https://qc.event.cuny.edu/events/kSG7yjK89tb4f8Pow325/kC93SYAlEOmqs7P03PHZ",
+    "college": "Queens College",
+    "date": "2025-08-06",
+    "time": "7:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025 - Computer Labs",
+    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE28",
+    "college": "Queens College",
+    "date": "2025-08-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025: Rain Location",
+    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T320",
+    "college": "Queens College",
+    "date": "2025-08-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025",
+    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y129",
+    "college": "Queens College",
+    "date": "2025-08-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Learning Common Room Needs Hold",
+    "link": "https://qc.event.cuny.edu/events/WBAp78Ty1xWyZiUFJdcg/Aix6WBXyeumJBHbzQYqN3",
+    "college": "Queens College",
+    "date": "2025-08-06",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer orientation sessions",
+    "link": "https://qc.event.cuny.edu/events/en8Z5l27Wlz0cop5CCOV/NOmxP1cHSoRXh41TLYbg",
+    "college": "Queens College",
+    "date": "2025-08-06",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "OSDL: Diversity Training Session & Summer Orientations",
+    "link": "https://qc.event.cuny.edu/events/IgKn5OUmolgfJXYHNzsk/kknbqUgRSZjGoneJPdux",
+    "college": "Queens College",
+    "date": "2025-08-06",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "New Student Orientation (Remsen Classroom Spaces)- Summer 2025",
+    "link": "https://qc.event.cuny.edu/events/blf7XXzctnltav8sAEYd/r3rDx6ZMSDgh7FRIfOo4",
+    "college": "Queens College",
+    "date": "2025-08-06",
+    "time": "10:50AM",
+    "tags": []
+  },
+  {
     "title": "Writing Center Orientation",
     "link": "https://baruch.event.cuny.edu/events/QXhrH8F2V6zOLCXCBzRj/RYgzsmnwaGjyLXv3j7hf",
     "college": "Baruch College",
     "date": "2025-08-06",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "STEM RA x Irondale",
-    "link": "https://citytech.event.cuny.edu/events/fw57lA4yNPYxytLyljoP/ntqK63keJjHYCDUnzEd5",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-04",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "A Better Chance for Success Workshop",
-    "link": "https://citytech.event.cuny.edu/events/KpYpHBodtVGSMVKEANl3/HGJOF97FZJIMjxwGvbol1114",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-04",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY2X Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/mBzhk1T4eSITBlbRrXdC",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-04",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "TTPR Bootcamp professional Development",
-    "link": "https://citytech.event.cuny.edu/events/Rk0sJxUzBb9xbfgPjTWg/fdHoSOMsvbOLWe2D7I8L32",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-04",
-    "time": "2:00PM",
     "tags": []
   },
   {
@@ -1434,6 +1304,22 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-08-11",
     "time": "10:30AM",
+    "tags": []
+  },
+  {
+    "title": "CUNY2X Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/yxeRHOWcszoJ7YdWK8Ob",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-12",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Reboot Camp",
+    "link": "https://citytech.event.cuny.edu/events/r40X0fRupoJBeIA6WsAw/byHBNAHps5160SfJFSpl",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-12",
+    "time": "2:00PM",
     "tags": []
   },
   {
