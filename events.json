@@ -857,27 +857,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-92/2025-08-05/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-05",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Featured"
-    ]
-  },
-  {
-    "title": "Degree Under Three Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/degree-under-three-information-session-17/2025-08-05/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-05",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Degree Under Three",
-      "Featured"
-    ]
-  },
-  {
     "title": "BMCC Admissions WTC & Tribeca Campus Tour",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour-2/2025-08-05/",
     "college": "Borough of Manhattan Community College",
@@ -934,12 +913,33 @@
   },
   {
     "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-92/2025-08-12/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-12",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-95/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-08-14",
     "time": "11:00 AM - 12:00 PM",
     "tags": [
       "Admissions"
+    ]
+  },
+  {
+    "title": "Degree Under Three Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/degree-under-three-information-session-17/2025-08-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-14",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Degree Under Three",
+      "Featured"
     ]
   },
   {
@@ -1016,18 +1016,6 @@
       "Enrollment Management",
       "Feature",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "CSI Sustainability: Compost Workshop (259015-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11324324",
-    "college": "College of Staten Island",
-    "date": "2025-08-05",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "PG CLUE",
-      "Sustainability"
     ]
   },
   {
@@ -1116,6 +1104,17 @@
     ]
   },
   {
+    "title": "WEEKS OF WELCOME: SPORTS DAY AND BARBECUE WITH CAB",
+    "link": "https://csi.campuslabs.com/engage/event/11383185",
+    "college": "College of Staten Island",
+    "date": "2025-09-04",
+    "time": "04:30 PM - 08:30 PM",
+    "tags": [
+      "Social",
+      "Entertainment"
+    ]
+  },
+  {
     "title": "CAB Film Showings: A Minecraft Movie",
     "link": "https://csi.campuslabs.com/engage/event/11366326",
     "college": "College of Staten Island",
@@ -1147,6 +1146,22 @@
       "Arts",
       "Film and Television"
     ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005427",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-05",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Degree Under Three Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005419",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-05",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": []
   },
   {
     "title": "Creating Quizzes in Brightspace",
@@ -1505,6 +1520,14 @@
     "tags": []
   },
   {
+    "title": "Student Series: AI and Academic Integrity",
+    "link": "https://sps.cuny.edu/about/events/student-series-ai-and-academic-integrity",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-09-16",
+    "time": "08:00 PM",
+    "tags": []
+  },
+  {
     "title": "CareerLink Training",
     "link": "https://sps.cuny.edu/about/events/careerlink-training",
     "college": "CUNY School of Professional Studies",
@@ -1785,11 +1808,27 @@
     "tags": []
   },
   {
+    "title": "2025 Back to School Fair",
+    "link": "https://www.york.cuny.edu/events/2025-back-to-school-fair",
+    "college": "York College",
+    "date": "2025-08-11",
+    "time": "4:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
     "title": "Finals for classes in 10-Week",
     "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-10-week-1",
     "college": "York College",
     "date": "2025-08-13",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Pop Up Enrollment",
+    "link": "https://www.york.cuny.edu/student-development/august_virtual-one-stop-to-register-hub-tuesdays",
+    "college": "York College",
+    "date": "2025-08-13",
+    "time": "7:00 PM - 9:00 PM",
     "tags": []
   },
   {
@@ -1994,12 +2033,28 @@
     "description": "Career Services Event"
   },
   {
+    "title": "QCC-Baruch Business Academy Info Sessions",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-19-qcc-baruch-business-academy-info-sessions.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-19",
+    "time": "01:00 PM - 02:00 PM",
+    "description": "Transfer Resource Center Event"
+  },
+  {
     "title": "Virtual Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-21-virtual-resume-hour.html",
     "college": "Queensborough Community College",
     "date": "2025-08-21",
     "time": "03:00 PM - 04:00 PM",
     "description": "Career Services Event"
+  },
+  {
+    "title": "QCC-Baruch Business Academy Info Sessions",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-25-qcc-baruch-business-academy-info-sessions.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-25",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "Transfer Resource Center Event"
   },
   {
     "title": "Fall 2025 Welcome Week",
@@ -2016,6 +2071,14 @@
     "date": "2025-08-26",
     "time": "12:10 PM - 02:10 PM",
     "description": "Club Event"
+  },
+  {
+    "title": "QCC-Baruch Business Academy Info Sessions",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-26-qcc-baruch-business-academy-info-sessions.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-26",
+    "time": "01:00 PM - 02:00 PM",
+    "description": "Transfer Resource Center Event"
   },
   {
     "title": "Fall 2025 Welcome Week",
@@ -2042,52 +2105,28 @@
     "description": "Student Event"
   },
   {
-    "title": "QCC Club Fair Fall 2025",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-10-qcc-club-fair-fall-2025.html",
+    "title": "QCC-Baruch Business Academy Info Sessions",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-02-qcc-baruch-business-academy-info-sessions.html",
     "college": "Queensborough Community College",
-    "date": "2025-09-10",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Club Event"
+    "date": "2025-09-02",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "Transfer Resource Center Event"
   },
   {
-    "title": "No Experience? No Problem!–CUNY Spring Forward Internships",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-11-no-experience-no-problem-cuny-spring-forward-internships.html",
+    "title": "QCC-Baruch Business Academy Info Sessions",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-04-qcc-baruch-business-academy-info-sessions.html",
     "college": "Queensborough Community College",
-    "date": "2025-09-11",
+    "date": "2025-09-04",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "Transfer Resource Center Event"
+  },
+  {
+    "title": "Dance Performance: “Just Stand By”",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-09-dance-performance-just-stand-by.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-09",
     "time": "11:00 AM - 12:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "President's Book Club",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-15-presidents-book-club.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-15",
-    "time": "01:00 PM - 02:15 PM",
-    "description": "Student Event"
-  },
-  {
-    "title": "Leadership Launchpad: A Workshop for Students",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-16-leadership-launchpad-a-workshop-for-students.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-16",
-    "time": "03:00 PM - 04:15 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "No Experience? No Problem! – CUNY Spring Forward",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-no-experience-no-problem-cuny-spring-forward.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-17",
-    "time": "02:00 PM - 03:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "From Częstochowa to Bayside: The Story of the KHC’s Torah Scroll",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-from-cz%C4%99stochowa-to-bayside-the-story-of-the-khcs-torah-scroll.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-17",
-    "time": "02:30 PM - 04:00 PM",
-    "description": ""
+    "description": "Special Event / Fair"
   },
   {
     "title": "New Student Open House",
@@ -2176,5 +2215,53 @@
     "date": "2025-11-14",
     "time": "11:15 PM - 12:30 AM",
     "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. <br><b>*Registration closes at 4:30pm on 11/14*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator\">HERE</a></b>"
+  },
+  {
+    "title": "Intro to Career Services & Handshake",
+    "link": "https://us02web.zoom.us/meeting/register/jNJpcq0NR8GFwtiL-MphwQ#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-09-06",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "<b>Register here</b>: <a href=\"https://us02web.zoom.us/meeting/register/jNJpcq0NR8GFwtiL-MphwQ#/registration\">https://us02web.zoom.us/meeting/register/jNJpcq0NR8GFwtiL-MphwQ#/registration</a>"
+  },
+  {
+    "title": "The Innocence Project",
+    "link": "https://us02web.zoom.us/meeting/register/Dld5ujJJSQWnMMcBZIIjOw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-09-24",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "<b>Registration link:</b> <a href=\"https://us02web.zoom.us/meeting/register/Dld5ujJJSQWnMMcBZIIjOw#/registration\">https://us02web.zoom.us/meeting/register/Dld5ujJJSQWnMMcBZIIjOw#/registration</a>"
+  },
+  {
+    "title": "Resume Writing",
+    "link": "https://us02web.zoom.us/meeting/register/ahuxrukuQheKkwg6XC06Ug#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-10-08",
+    "time": "10:30 PM - 11:30 PM",
+    "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/ahuxrukuQheKkwg6XC06Ug#/registration\">https://us02web.zoom.us/meeting/register/ahuxrukuQheKkwg6XC06Ug#/registration</a>"
+  },
+  {
+    "title": "Civil Service Applications",
+    "link": "https://us02web.zoom.us/meeting/register/5hAr9PjbSdmS02B__8f1NA#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-10-25",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "<b>Registration link:</b> <a href=\"https://us02web.zoom.us/meeting/register/5hAr9PjbSdmS02B__8f1NA#/registration\">https://us02web.zoom.us/meeting/register/5hAr9PjbSdmS02B__8f1NA#/registration</a>"
+  },
+  {
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-12",
+    "time": "05:00 PM - 06:00 PM",
+    "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
+  },
+  {
+    "title": "Mental Health Workshop",
+    "link": "https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-18",
+    "time": "11:00 PM - 12:00 AM",
+    "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
   }
 ]
