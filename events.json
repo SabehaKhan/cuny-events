@@ -250,17 +250,6 @@
     ]
   },
   {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-08-06/",
-    "college": "LaGuardia Community College",
-    "date": "2025-08-06",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Wednesdays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-08-06/",
     "college": "LaGuardia Community College",
@@ -533,6 +522,18 @@
   {
     "title": "FULL E-ATRIUM: Student Success Resources Fair",
     "link": "https://www.laguardia.edu/event/full-e-atrium-student-success-resources-fair/",
+    "college": "LaGuardia Community College",
+    "date": "2025-09-17",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Space Reservation",
+      "student events"
+    ]
+  },
+  {
+    "title": "GRASS COURTYARD: Student Success Resources Fair",
+    "link": "https://www.laguardia.edu/event/grass-courtyard-student-success-resources-fair/",
     "college": "LaGuardia Community College",
     "date": "2025-09-17",
     "time": "02:00 PM - 04:00 PM",
@@ -1521,6 +1522,14 @@
     "tags": []
   },
   {
+    "title": "Early Childhood Job and College Fair",
+    "link": "https://sps.cuny.edu/about/events/early-childhood-job-and-college-fair",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-09-13",
+    "time": "01:30 PM",
+    "tags": []
+  },
+  {
     "title": "Online Information Session: Bachelor's Degree Programs",
     "link": "https://sps.cuny.edu/about/events/online-information-session-bachelors-degree-programs-4",
     "college": "CUNY School of Professional Studies",
@@ -1529,8 +1538,8 @@
     "tags": []
   },
   {
-    "title": "Student Series: AI and Academic Integrity",
-    "link": "https://sps.cuny.edu/about/events/student-series-ai-and-academic-integrity",
+    "title": "AI and Academic Integrity",
+    "link": "https://sps.cuny.edu/about/events/ai-and-academic-integrity",
     "college": "CUNY School of Professional Studies",
     "date": "2025-09-16",
     "time": "08:00 PM",
@@ -1550,14 +1559,6 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-09-25",
     "time": "04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Refresh Your Resume Webinar - Evening Session",
-    "link": "https://sps.cuny.edu/about/events/refresh-your-resume-webinar-evening-session-0",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-09-30",
-    "time": "10:00 PM",
     "tags": []
   },
   {
@@ -1625,11 +1626,99 @@
     "tags": []
   },
   {
+    "title": "Info session: Health Policy and Management",
+    "link": "https://sph.cuny.edu/event/info-session-health-policy-and-management/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-01",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Info session: Community Health",
+    "link": "https://sph.cuny.edu/event/info-session-community-health/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-02",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Info session: MS in Health Communication for Social Change",
+    "link": "https://sph.cuny.edu/event/info-session-ms-in-health-communication-for-social-change/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-14",
+    "time": "11:00 AM - 3:00PM",
+    "tags": []
+  },
+  {
+    "title": "Graduate Virtual Open House",
+    "link": "https://sph.cuny.edu/event/graduate-virtual-open-house/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-15",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "SPH Info session: Epidemiology and Biostatistics",
+    "link": "https://sph.cuny.edu/event/sph-info-session-epidemiology-and-biostatistics/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-16",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Info session: MPH in Environmental and Occupational Health Sciences",
+    "link": "https://sph.cuny.edu/event/info-session-mph-in-environmental-and-occupational-health-sciences-2/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-20",
+    "time": "10:00 AM - 2:00PM",
+    "tags": []
+  },
+  {
+    "title": "SPH MS in Environmental and Occupational Health Sciences Information Session",
+    "link": "https://sph.cuny.edu/event/sph-ms-in-environmental-and-occupational-health-sciences-information-session/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-21",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
     "title": "Battling Truth Decay: Communicating nuance in a world hooked on fast factoids",
     "link": "https://sph.cuny.edu/event/battling-truth-decay-communicating-nuance-in-a-world-hooked-on-fast-factoids/",
     "college": "CUNY School of Public Health",
     "date": "2025-10-22",
     "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "Info session: MPH in Public Health Nutrition",
+    "link": "https://sph.cuny.edu/event/info-session-mph-in-public-health-nutrition/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-23",
+    "time": "11:00 AM - 2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Info session: MS in Population Health Informatics",
+    "link": "https://sph.cuny.edu/event/info-session-ms-in-population-health-informatics/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-27",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Complete Your Application Day",
+    "link": "https://sph.cuny.edu/event/complete-your-application-day-17/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-11-13",
+    "time": "11:00 AM - 4:00PM",
+    "tags": []
+  },
+  {
+    "title": "Info session: MPH and MS programs",
+    "link": "https://sph.cuny.edu/event/info-session-mph-and-ms-programs-2/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-11-20",
+    "time": "6:00PM",
     "tags": []
   },
   {
@@ -1801,19 +1890,43 @@
     "tags": []
   },
   {
+    "title": "The Friedman Transfer Scholars Program: Virtual Information Session",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session/",
+    "college": "Macaulay Honors College",
+    "date": "2025-09-18",
+    "time": "6:30PM",
+    "tags": []
+  },
+  {
+    "title": "The Friedman Transfer Scholars Program: Virtual Information Session",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-2/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-09",
+    "time": "6:30PM",
+    "tags": []
+  },
+  {
+    "title": "The Friedman Transfer Scholars Program: Virtual Information Session",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-3/",
+    "college": "Macaulay Honors College",
+    "date": "2025-11-13",
+    "time": "6:30PM",
+    "tags": []
+  },
+  {
+    "title": "The Friedman Transfer Scholars Program: Virtual Information Session",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-4/",
+    "college": "Macaulay Honors College",
+    "date": "2025-12-04",
+    "time": "6:30PM",
+    "tags": []
+  },
+  {
     "title": "Fall 2025 New Student Orientation",
     "link": "https://www.york.cuny.edu/events/fall-2025-new-student-orientation",
     "college": "York College",
     "date": "2025-08-06",
     "time": "2:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Walk it Out Summer Wednesdays",
-    "link": "https://www.york.cuny.edu/ia/walk-it-our-summer-wednesdays",
-    "college": "York College",
-    "date": "2025-08-06",
-    "time": "4:00 PM - 5:00 PM",
     "tags": []
   },
   {
@@ -2002,14 +2115,6 @@
     "description": ""
   },
   {
-    "title": "FAFSA Fest",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-06-fafsa-fest.html",
-    "college": "Queensborough Community College",
-    "date": "2025-08-06",
-    "time": "01:00 PM - 04:00 PM",
-    "description": "Financial Aid Event"
-  },
-  {
     "title": "Virtual Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-07-virtual-resume-hour.html",
     "college": "Queensborough Community College",
@@ -2064,6 +2169,14 @@
     "date": "2025-08-21",
     "time": "03:00 PM - 04:00 PM",
     "description": "Career Services Event"
+  },
+  {
+    "title": "The Bursar's Office will be open on Saturday",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-23-the-bursars-office-will-be-open-on-saturday.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-23",
+    "time": "10:00 AM - 02:00 PM",
+    "description": "Special Event / Fair"
   },
   {
     "title": "QCC-Baruch Business Academy Info Sessions",
