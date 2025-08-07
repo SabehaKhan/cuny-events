@@ -253,6 +253,78 @@
     "tags": []
   },
   {
+    "title": "Career Virtual Help",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/c5bafa08-1915-4ecf-a0a2-c896a8f989fc",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-06",
+    "time": "08:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Career Virtual Help",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/13d4b1bc-73e4-48b0-96ea-0ad26c2cb18e",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-27",
+    "time": "08:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Career Virtual Help",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/c2f1c22c-3f85-4634-b97c-0eb1f72e575b",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-10",
+    "time": "09:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Career Virtual Help",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/0b9dba88-530b-4913-8209-696cb99cb88f",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-24",
+    "time": "09:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Career Virtual Help",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/5b886592-e731-4e37-9659-f0076f92ba8e",
+    "college": "Kingsborough Community College",
+    "date": "2025-12-08",
+    "time": "09:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Internship Orientation Workshops",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/ea5c50b7-39b9-4ef6-b682-938fb5d9da5d",
+    "college": "Kingsborough Community College",
+    "date": "2025-09-29",
+    "time": "10:20 AM - 10:20 AM",
+    "tags": []
+  },
+  {
+    "title": "Internship Orientation Workshops",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/0560487b-d125-4b11-9be8-3500fe8bd162",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-03",
+    "time": "10:20 AM - 10:20 AM",
+    "tags": []
+  },
+  {
+    "title": "Internship Orientation Workshops",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/63436790-d8ae-41d2-b8fa-2ee814148974",
+    "college": "Kingsborough Community College",
+    "date": "2025-12-01",
+    "time": "03:20 PM - 03:20 PM",
+    "tags": []
+  },
+  {
+    "title": "Resume-athon Workshop (Virtual)",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/44b6201a-a198-42c8-8fee-d3edeb68b705",
+    "college": "Kingsborough Community College",
+    "date": "2025-09-30",
+    "time": "07:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
     "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom/2025-08-07/",
     "college": "LaGuardia Community College",
@@ -260,17 +332,6 @@
     "time": "10:00 AM - 03:00 PM",
     "tags": [
       "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-08-07/",
-    "college": "LaGuardia Community College",
-    "date": "2025-08-07",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
       "all calendars",
       "student events"
     ]
@@ -837,16 +898,6 @@
     ]
   },
   {
-    "title": "How to Apply to BMCC & Live Help Hour Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop/2025-08-07/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-07",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
     "title": "Take a Tour of BMCC’s Campus",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-94/",
     "college": "Borough of Manhattan Community College",
@@ -964,6 +1015,16 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-08-20",
     "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "How to Apply to BMCC & Live Help Hour Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop/2025-08-21/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-21",
+    "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Admissions"
     ]
@@ -2121,6 +2182,14 @@
     "description": "Career Services Event"
   },
   {
+    "title": "FAFSA Fest",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-13-fafsa-fest.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-13",
+    "time": "01:00 PM - 04:00 PM",
+    "description": "Financial Aid Event"
+  },
+  {
     "title": "Virtual Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-14-virtual-resume-hour.html",
     "college": "Queensborough Community College",
@@ -2143,6 +2212,14 @@
     "date": "2025-08-19",
     "time": "01:00 PM - 02:00 PM",
     "description": "Transfer Resource Center Event"
+  },
+  {
+    "title": "FAFSA Fest",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-20-fafsa-fest.html",
+    "college": "Queensborough Community College",
+    "date": "2025-08-20",
+    "time": "01:00 PM - 04:00 PM",
+    "description": "Financial Aid Event"
   },
   {
     "title": "Virtual Resume Hour",
@@ -2223,22 +2300,6 @@
     "date": "2025-09-02",
     "time": "03:00 PM - 04:00 PM",
     "description": "Transfer Resource Center Event"
-  },
-  {
-    "title": "QCC-Baruch Business Academy Info Sessions",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-04-qcc-baruch-business-academy-info-sessions.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-04",
-    "time": "03:00 PM - 04:00 PM",
-    "description": "Transfer Resource Center Event"
-  },
-  {
-    "title": "Dance Performance: “Just Stand By”",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-09-dance-performance-just-stand-by.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-09",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Special Event / Fair"
   },
   {
     "title": "New Student Open House",
