@@ -238,30 +238,11 @@
   },
   {
     "title": "CUNY Transfer Application Workshop",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/02a74de4-1a5f-4f72-acdf-c92807de8b06",
-    "college": "Kingsborough Community College",
-    "date": "2025-08-06",
-    "time": "07:00 PM - 08:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Transfer Application Workshop",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/23bff175-22e9-4335-964e-c823fbcc1b31",
     "college": "Kingsborough Community College",
     "date": "2025-08-19",
     "time": "02:00 PM - 03:00 PM",
     "tags": []
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-08-06/",
-    "college": "LaGuardia Community College",
-    "date": "2025-08-06",
-    "time": "08:00 PM - 08:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
   },
   {
     "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
@@ -556,18 +537,6 @@
       "Featured",
       "Space Reservation",
       "student events"
-    ]
-  },
-  {
-    "title": "Spring 2 2025 Study-a-Thon",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376431",
-    "college": "Guttman Community College",
-    "date": "2025-08-06",
-    "time": "02:00 PM - 01:00 AM",
-    "tags": [
-      "ASC",
-      "Academic",
-      "Tutoring"
     ]
   },
   {
@@ -1058,6 +1027,18 @@
     ]
   },
   {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2025-09-12/",
+    "college": "Bronx Community College",
+    "date": "2025-09-12",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
     "title": "Club Commission",
     "link": "https://csi.campuslabs.com/engage/event/11391500",
     "college": "College of Staten Island",
@@ -1188,24 +1169,6 @@
   },
   {
     "title": "Creating Quizzes in Brightspace",
-    "link": "https://events.cuny.edu/cec/creating-quizzes-in-brightspace-2/",
-    "college": "College of Staten Island",
-    "date": "2025-08-06",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Center for Teaching and Learning"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005429",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-06",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Creating Quizzes in Brightspace",
     "link": "https://events.cuny.edu/cec/creating-quizzes-in-brightspace-3/",
     "college": "College of Staten Island",
     "date": "2025-08-07",
@@ -1225,104 +1188,36 @@
     ]
   },
   {
-    "title": "Summer Orientation Sessions",
-    "link": "https://qc.event.cuny.edu/events/ndH14lpWFwKPbnoYfCZW/EHn1weXrsHgmjzwXasTu",
-    "college": "Queens College",
-    "date": "2025-08-06",
-    "time": "7:00AM",
-    "tags": []
+    "title": "Tips and Techniques to Enhance Your Slide Presentations: A Refresher",
+    "link": "https://events.cuny.edu/cec/tips-and-techniques-to-enhance-your-slide-presentations-a-refresher/",
+    "college": "College of Staten Island",
+    "date": "2025-08-12",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
   },
   {
-    "title": "New Student Orientation Summer 2025",
-    "link": "https://qc.event.cuny.edu/events/kSG7yjK89tb4f8Pow325/kC93SYAlEOmqs7P03PHZ",
-    "college": "Queens College",
-    "date": "2025-08-06",
-    "time": "7:00AM",
-    "tags": []
+    "title": "Structuring and Adding Content in your Brightspace Course",
+    "link": "https://events.cuny.edu/cec/structuring-and-adding-content-in-your-brightspace-course/",
+    "college": "College of Staten Island",
+    "date": "2025-08-12",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
   },
   {
     "title": "Summer Camp 2025 - Computer Labs",
-    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE28",
-    "college": "Queens College",
-    "date": "2025-08-06",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025: Rain Location",
-    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T320",
-    "college": "Queens College",
-    "date": "2025-08-06",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025",
-    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y129",
-    "college": "Queens College",
-    "date": "2025-08-06",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Learning Common Room Needs Hold",
-    "link": "https://qc.event.cuny.edu/events/WBAp78Ty1xWyZiUFJdcg/Aix6WBXyeumJBHbzQYqN3",
-    "college": "Queens College",
-    "date": "2025-08-06",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer orientation sessions",
-    "link": "https://qc.event.cuny.edu/events/en8Z5l27Wlz0cop5CCOV/NOmxP1cHSoRXh41TLYbg",
-    "college": "Queens College",
-    "date": "2025-08-06",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "OSDL: Diversity Training Session & Summer Orientations",
-    "link": "https://qc.event.cuny.edu/events/IgKn5OUmolgfJXYHNzsk/kknbqUgRSZjGoneJPdux",
-    "college": "Queens College",
-    "date": "2025-08-06",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "New Student Orientation (Remsen Classroom Spaces)- Summer 2025",
-    "link": "https://qc.event.cuny.edu/events/blf7XXzctnltav8sAEYd/r3rDx6ZMSDgh7FRIfOo4",
-    "college": "Queens College",
-    "date": "2025-08-06",
-    "time": "10:50AM",
-    "tags": []
-  },
-  {
-    "title": "QC Summer Undergraduate Research Program",
-    "link": "https://qc.event.cuny.edu/events/Zz5G1yvkS7jhAXzXDycj/yOwwiSzLpdoMkv1TBIxj",
-    "college": "Queens College",
-    "date": "2025-08-06",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Make-Up Exam PSYCH",
-    "link": "https://qc.event.cuny.edu/events/SEuWXkq7hbWqyp5YW17b/pa7TcJWLXqoEfISRC61p",
-    "college": "Queens College",
-    "date": "2025-08-06",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025: Rain Location",
-    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T321",
+    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE29",
     "college": "Queens College",
     "date": "2025-08-07",
     "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Summer Camp 2025 - Computer Labs",
-    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/iFO1ONpuLSRqgrUdqH7L29",
+    "title": "Summer Camp 2025: Rain Location",
+    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T321",
     "college": "Queens College",
     "date": "2025-08-07",
     "time": "8:00AM",
@@ -1338,7 +1233,7 @@
   },
   {
     "title": "Learning Common Room Needs Hold",
-    "link": "https://qc.event.cuny.edu/events/WBAp78Ty1xWyZiUFJdcg/ukQM9uXjGQKFRUVrpW0P4",
+    "link": "https://qc.event.cuny.edu/events/WBAp78Ty1xWyZiUFJdcg/Aix6WBXyeumJBHbzQYqN4",
     "college": "Queens College",
     "date": "2025-08-07",
     "time": "9:00AM",
@@ -1369,35 +1264,83 @@
     "tags": []
   },
   {
+    "title": "Summer Camp 2025 - Computer Labs",
+    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE30",
+    "college": "Queens College",
+    "date": "2025-08-08",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025: Rain Location",
+    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T322",
+    "college": "Queens College",
+    "date": "2025-08-08",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025 - Classrooms",
+    "link": "https://qc.event.cuny.edu/events/j9oTjVZLwJIJ4uopTLXL/mm4rHVt0ddu3R8bzpZ3A",
+    "college": "Queens College",
+    "date": "2025-08-08",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025",
+    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y131",
+    "college": "Queens College",
+    "date": "2025-08-08",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "President's Office:  NYHS umpires",
+    "link": "https://qc.event.cuny.edu/events/WQzbchZvQAEk6YeIGxzg/L6KTRnQE51aSQ3nK5hOz",
+    "college": "Queens College",
+    "date": "2025-08-09",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025 - Computer Labs",
+    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE31",
+    "college": "Queens College",
+    "date": "2025-08-11",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025: Rain Location",
+    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T323",
+    "college": "Queens College",
+    "date": "2025-08-11",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025 - Classrooms",
+    "link": "https://qc.event.cuny.edu/events/j9oTjVZLwJIJ4uopTLXL/lSZObSzrioMWLQPSXfAf1",
+    "college": "Queens College",
+    "date": "2025-08-11",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025",
+    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y132",
+    "college": "Queens College",
+    "date": "2025-08-11",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
     "title": "Writing Center Orientation",
-    "link": "https://baruch.event.cuny.edu/events/QXhrH8F2V6zOLCXCBzRj/RYgzsmnwaGjyLXv3j7hf",
+    "link": "https://baruch.event.cuny.edu/events/v8f9Zb0JN1YtkRrisEbY/qeZjLvIs4VwAfyvJCWB6",
     "college": "Baruch College",
-    "date": "2025-08-06",
+    "date": "2025-08-14",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Our Children Center",
-    "link": "https://citytech.event.cuny.edu/events/jScdMbWIHGp547uQGgbA/hC9xCB3Z3Nfz6V0Uh4El",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-06",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY2X Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/wG1GFOZojDt9d8JxEnAj",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-06",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "TTPR Bootcamp professional Development",
-    "link": "https://citytech.event.cuny.edu/events/Rk0sJxUzBb9xbfgPjTWg/fdHoSOMsvbOLWe2D7I8L34",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-06",
-    "time": "2:00PM",
     "tags": []
   },
   {
@@ -1494,6 +1437,22 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-08-13",
     "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY2X Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/dWo2Pr2MhkyVXB8d6qXt",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-14",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Reboot Camp",
+    "link": "https://citytech.event.cuny.edu/events/j41gYuC1wQ9PccE3NtiF/POCOSiXGUlrJVgUaiS9u",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-14",
+    "time": "1:00PM",
     "tags": []
   },
   {
@@ -1934,14 +1893,6 @@
     "college": "Macaulay Honors College",
     "date": "2025-12-04",
     "time": "6:30PM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2025 New Student Orientation",
-    "link": "https://www.york.cuny.edu/events/fall-2025-new-student-orientation",
-    "college": "York College",
-    "date": "2025-08-06",
-    "time": "2:00 PM - 8:00 PM",
     "tags": []
   },
   {
