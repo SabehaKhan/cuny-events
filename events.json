@@ -1,13 +1,5 @@
 [
   {
-    "title": "2025 Percy Sutton Harlem 5k Run",
-    "link": "https://www.ccny.cuny.edu/calendar/2025-percy-sutton-harlem-5k-run",
-    "college": "City College of New York",
-    "date": "2025-08-09",
-    "time": "08:00 AM - 10:30 AM",
-    "tags": []
-  },
-  {
     "title": "2025 NY City Jobs And Careers Fair",
     "link": "https://www.ccny.cuny.edu/calendar/2025-ny-city-jobs-and-careers-fair",
     "college": "City College of New York",
@@ -1287,8 +1279,8 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCCâ€TMs Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005428",
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=658198",
     "college": "Borough of Manhattan Community College",
     "date": "2025-08-12",
     "time": "10:00 AM - 11:00 AM",
@@ -1300,6 +1292,16 @@
     "college": "College of Staten Island",
     "date": "2025-08-13",
     "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
+  },
+  {
+    "title": "Setting Up Assignments in Brightspace with TurnItIn (Plagiarism Detection Tool)",
+    "link": "https://events.cuny.edu/cec/setting-up-assignments-in-brightspace-with-turnitin-plagiarism-detection-tool-3/",
+    "college": "College of Staten Island",
+    "date": "2025-08-13",
+    "time": "3:00 PM - 4:00 PM",
     "tags": [
       "Center for Teaching and Learning"
     ]
