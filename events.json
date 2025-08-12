@@ -112,6 +112,14 @@
     "tags": []
   },
   {
+    "title": "Slumlord Millionaire - Film and Talk",
+    "link": "https://www.ccny.cuny.edu/calendar/slumlord-millionaire-film-and-talk",
+    "college": "City College of New York",
+    "date": "2025-10-08",
+    "time": "06:00 PM - 09:00 PM",
+    "tags": []
+  },
+  {
     "title": "Nuestra Presencia: 7th Biennial Siglo XXI Conference by the Inter-University Program for Latino Research (IUPLR)",
     "link": "https://www.ccny.cuny.edu/calendar/nuestra-presencia-7th-biennial-siglo-xxi-conference",
     "college": "City College of New York",
@@ -618,6 +626,18 @@
     ]
   },
   {
+    "title": "MMCC Career & Resource Fair – August 21st",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376441",
+    "college": "Guttman Community College",
+    "date": "2025-08-21",
+    "time": "02:00 PM - 06:00 PM",
+    "tags": [
+      "CCPP",
+      "Job/Volunteer Opportunities",
+      "Off-Campus"
+    ]
+  },
+  {
     "title": "The HUB Hour: Coming Fall 2025",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376416",
     "college": "Guttman Community College",
@@ -853,6 +873,16 @@
     ]
   },
   {
+    "title": "OOA Outing to The MET Opera: La Fille du Régiment",
+    "link": "https://hunter.cuny.edu/event/ooa-outing-to-the-met-opera-la-fille-du-regiment/",
+    "college": "Hunter College",
+    "date": "2025-10-14",
+    "time": "10:30 AM - 01:30 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
     "title": "Artes Visuales: The Latin American Avant-Garde in Print",
     "link": "https://hunter.cuny.edu/event/artes-visuales-the-latin-american-avant-garde-in-print/",
     "college": "Hunter College",
@@ -863,6 +893,16 @@
     ]
   },
   {
+    "title": "OOA Outing to The MET Opera: La Bohème",
+    "link": "https://hunter.cuny.edu/event/ooa-outing-to-the-met-opera-la-boheme/",
+    "college": "Hunter College",
+    "date": "2025-10-17",
+    "time": "10:30 AM - 01:35 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
     "title": "MS-IPND Graduate Nutrition Program Information Sessions",
     "link": "https://hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-4/2025-10-22/",
     "college": "Hunter College",
@@ -870,6 +910,16 @@
     "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Open Houses"
+    ]
+  },
+  {
+    "title": "OOA Outing to The MET Opera: Carmen",
+    "link": "https://hunter.cuny.edu/event/ooa-outing-to-the-met-opera-carmen/",
+    "college": "Hunter College",
+    "date": "2025-10-24",
+    "time": "10:30 AM - 02:00 PM",
+    "tags": [
+      "Performing Arts & Film"
     ]
   },
   {
@@ -903,61 +953,6 @@
     ]
   },
   {
-    "title": "MS-IPND Challenge Exams",
-    "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-12-10/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
-    "link": "https://hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-4/2025-12-11/",
-    "college": "Hunter College",
-    "date": "2025-12-11",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "National Poll Worker Recruitment Day",
-    "link": "https://www.bmcc.cuny.edu/event/national-poll-worker-recruitment-day-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-12",
-    "time": "09:00 AM - 04:00 PM",
-    "tags": [
-      "Civic Engagement",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "PLUS Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/plus-information-session/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-12",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "Civic Engagement",
-      "Featured",
-      "Office of Student Activities (OSA)",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour-2/2025-08-12/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-12",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
     "title": "Take a Tour of BMCC's Campus",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-93-2/",
     "college": "Borough of Manhattan Community College",
@@ -968,7 +963,7 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCCâ€TMs Campus",
+    "title": "Take a Tour of BMCC's Campus",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-95/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-08-14",
@@ -1387,6 +1382,16 @@
     "time": "3:00 PM - 4:00 PM",
     "tags": [
       "Center for Teaching and Learning"
+    ]
+  },
+  {
+    "title": "CCNY CWE Admissions Workshop (Late Fall Admission) | Online | at CCNY CWE (25 Broadway)",
+    "link": "https://events.cuny.edu/cec/ccny-cwe-admissions-workshop-late-fall-admission-online-at-ccny-cwe-25-broadway/",
+    "college": "The City College of New York",
+    "date": "2025-08-14",
+    "time": "5:00 PM - 5:45 PM",
+    "tags": [
+      "CWE"
     ]
   },
   {
@@ -2158,14 +2163,6 @@
     "tags": []
   },
   {
-    "title": "Direct Admissions (3:00 p.m.)",
-    "link": "https://www.york.cuny.edu/student-development/direct-admissions-3-00-p-m",
-    "college": "York College",
-    "date": "2025-08-12",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
     "title": "Finals for classes in 10-Week",
     "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-10-week-1",
     "college": "York College",
@@ -2195,6 +2192,14 @@
     "college": "York College",
     "date": "2025-08-14",
     "time": "3:00 PM - 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Direct Admissions (3:00 p.m.)",
+    "link": "https://www.york.cuny.edu/student-development/direct-admissions-3-00-p-m",
+    "college": "York College",
+    "date": "2025-08-14",
+    "time": "7:00 PM - 8:00 PM",
     "tags": []
   },
   {
@@ -2228,6 +2233,120 @@
     "date": "2025-09-01",
     "time": "4:00 AM - 3:59 AM",
     "tags": []
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-aug-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-08-13",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "ADVANCED DRUPAL TRAINING",
+    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-aug-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-08-13",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "MASTERS IN ASTROPHYSICS ORIENTATION: AUGUST 17",
+    "link": "https://www.gc.cuny.edu/events/masters-astrophysics-orientation-aug-17-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-08-17",
+    "time": "",
+    "location": "5382",
+    "tags": [
+      "Astrophysics"
+    ]
+  },
+  {
+    "title": "MA IN MIDDLE EASTERN STUDIES OPEN HOUSE - SEPTEMBER 2025",
+    "link": "https://www.gc.cuny.edu/events/ma-middle-eastern-studies-open-house-september-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-04",
+    "time": "6:30 pm",
+    "location": "6304B: MEMEAC Student Lounge",
+    "tags": [
+      "Middle Eastern Studies",
+      "Middle East and Middle Eastern American Center",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "AI + PHYSICS WORKSHOP",
+    "link": "https://www.gc.cuny.edu/events/ai-physics-workshop",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-08",
+    "time": "",
+    "location": "4102: Science Center",
+    "tags": [
+      "Initiative for the Theoretical Sciences",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "A'LELIA BUNDLES ON A'LELIA WALKER IN CONVERSATION WITH ERIC K. WASHINGTON",
+    "link": "https://www.gc.cuny.edu/events/alelia-bundles-alelia-walker-conversation-eric-k-washington",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-09",
+    "time": "6:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Leon Levy Center for Biography"
+    ]
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-sept-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "ADVANCED DRUPAL TRAINING",
+    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-sept-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "LIVE ESPARC TRAINING - SEPTEMBER 10, 2025",
+    "link": "https://www.gc.cuny.edu/events/live-esparc-training-september-10-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "2:00 pm — 3:00 pm",
+    "location": "Online",
+    "tags": [
+      "Compliance and Diversity"
+    ]
+  },
+  {
+    "title": "PH.D. PROGRAM IN SOCIAL WELFARE VIRTUAL OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/phd-program-social-welfare-virtual-open-house",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "5:30 pm — 7:00 pm",
+    "location": "Online",
+    "tags": [
+      "Social Welfare",
+      "Admissions"
+    ]
   },
   {
     "title": "Fall 2025 Welcome Week",
