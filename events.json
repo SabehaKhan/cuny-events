@@ -644,6 +644,25 @@
     ]
   },
   {
+    "title": "EMSA & Friends Resource Fair",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376440",
+    "college": "Guttman Community College",
+    "date": "2025-09-09",
+    "time": "05:15 PM - 06:45 PM",
+    "tags": [
+      "OSL",
+      "Social",
+      "Weeks Of Welcome",
+      "Food - Light Refreshments",
+      "Counseling & Wellness",
+      "Women of GRIT",
+      "Student Life",
+      "Connect Center",
+      "AccessABILITY Services",
+      "United Men of Color"
+    ]
+  },
+  {
     "title": "Play with Puppies",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376439",
     "college": "Guttman Community College",
@@ -780,6 +799,16 @@
     "tags": []
   },
   {
+    "title": "Arts Meet-Up",
+    "link": "https://hunter.cuny.edu/event/arts-meet-up/2025-09-04/",
+    "college": "Hunter College",
+    "date": "2025-09-04",
+    "time": "02:30 PM - 04:00 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
     "title": "Study Abroad 101 Webinars",
     "link": "https://hunter.cuny.edu/event/_-copy-of-study-abroad-101-webinars/",
     "college": "Hunter College",
@@ -814,6 +843,16 @@
     "tags": []
   },
   {
+    "title": "Arts Meet-Up",
+    "link": "https://hunter.cuny.edu/event/arts-meet-up/2025-10-07/",
+    "college": "Hunter College",
+    "date": "2025-10-07",
+    "time": "03:30 PM - 05:00 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
     "title": "Artes Visuales: The Latin American Avant-Garde in Print",
     "link": "https://hunter.cuny.edu/event/artes-visuales-the-latin-american-avant-garde-in-print/",
     "college": "Hunter College",
@@ -834,6 +873,16 @@
     ]
   },
   {
+    "title": "Arts Meet-Up",
+    "link": "https://hunter.cuny.edu/event/arts-meet-up/2025-11-05/",
+    "college": "Hunter College",
+    "date": "2025-11-05",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
     "title": "MS-IPND Graduate Nutrition Program Information Sessions",
     "link": "https://hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-4/2025-11-17/",
     "college": "Hunter College",
@@ -841,6 +890,16 @@
     "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Open Houses"
+    ]
+  },
+  {
+    "title": "Arts Meet-Up",
+    "link": "https://hunter.cuny.edu/event/arts-meet-up/2025-12-02/",
+    "college": "Hunter College",
+    "date": "2025-12-02",
+    "time": "03:30 PM - 05:00 PM",
+    "tags": [
+      "Performing Arts & Film"
     ]
   },
   {
@@ -873,16 +932,6 @@
       "Civic Engagement",
       "Featured",
       "Student Affairs"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC's Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-92-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-12",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Featured"
     ]
   },
   {
@@ -1070,16 +1119,6 @@
       "Enrollment Management",
       "Feature",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "Non-Traditional Students Commission",
-    "link": "https://csi.campuslabs.com/engage/event/11391501",
-    "college": "College of Staten Island",
-    "date": "2025-08-12",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "GroupBusiness"
     ]
   },
   {
@@ -1292,14 +1331,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=658198",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-12",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": []
-  },
-  {
     "title": "Creating Rubrics in Brightspace",
     "link": "https://events.cuny.edu/cec/creating-rubrics-in-brightspace/",
     "college": "College of Staten Island",
@@ -1326,6 +1357,37 @@
     "date": "2025-08-13",
     "time": "12:30 PM - 01:30 PM",
     "tags": []
+  },
+  {
+    "title": "Teaching with Who Built America? Working People and the Nation’s History: An Open Educational Resource",
+    "link": "https://events.cuny.edu/cec/teaching-with-who-built-america-working-people-and-the-nations-history-an-open-educational-resource/",
+    "college": "College of Staten Island",
+    "date": "2025-08-14",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
+  },
+  {
+    "title": "Japanese Cultural Exchange",
+    "link": "https://events.cuny.edu/cec/japanese-cultural-exchange/",
+    "college": "College of Staten Island",
+    "date": "2025-08-14",
+    "time": "1:00 PM - 3:00 PM",
+    "tags": [
+      "Center for Global Engagement",
+      "World Language and Literature"
+    ]
+  },
+  {
+    "title": "Setting up your Grade Book in Brightspace",
+    "link": "https://events.cuny.edu/cec/setting-up-your-grade-book-in-brightspace/",
+    "college": "College of Staten Island",
+    "date": "2025-08-14",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
   },
   {
     "title": "Summer Camp 2025 - Computer Labs",
@@ -1760,11 +1822,11 @@
     "tags": []
   },
   {
-    "title": "This is Public Health: Graduate School Fair in NYC",
-    "link": "https://sph.cuny.edu/event/this-is-public-health-graduate-school-fair-in-nyc/",
+    "title": "Membership Discovery Series: American Public Health Association (APHA)",
+    "link": "https://sph.cuny.edu/event/membership-discovery-series-american-public-health-association-apha/",
     "college": "CUNY School of Public Health",
     "date": "2025-09-18",
-    "time": "5:30PM",
+    "time": "2:00PM",
     "tags": []
   },
   {
@@ -1789,6 +1851,22 @@
     "college": "CUNY School of Public Health",
     "date": "2025-10-02",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Resource Discovery Series: APHA’s Big Interview and ResumeAI",
+    "link": "https://sph.cuny.edu/event/resource-discovery-series-aphas-big-interview-and-resumeai/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-07",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Resource Discovery Series: New York Public Library Career Services",
+    "link": "https://sph.cuny.edu/event/resource-discovery-series-new-york-public-library-career-services/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-09",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -1824,11 +1902,11 @@
     "tags": []
   },
   {
-    "title": "SPH MS in Environmental and Occupational Health Sciences Information Session",
-    "link": "https://sph.cuny.edu/event/sph-ms-in-environmental-and-occupational-health-sciences-information-session/",
+    "title": "Internship Discovery Series: Trust for America’s Health",
+    "link": "https://sph.cuny.edu/event/internship-discovery-series-trust-for-americas-health/",
     "college": "CUNY School of Public Health",
     "date": "2025-10-21",
-    "time": "6:00PM",
+    "time": "2:00PM",
     "tags": []
   },
   {
@@ -2080,6 +2158,14 @@
     "tags": []
   },
   {
+    "title": "Direct Admissions (3:00 p.m.)",
+    "link": "https://www.york.cuny.edu/student-development/direct-admissions-3-00-p-m",
+    "college": "York College",
+    "date": "2025-08-12",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
     "title": "Finals for classes in 10-Week",
     "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-10-week-1",
     "college": "York College",
@@ -2088,11 +2174,27 @@
     "tags": []
   },
   {
+    "title": "Direct Admissions (9:30 a.m.)",
+    "link": "https://www.york.cuny.edu/student-development/direct-admissions-9-30-a-m",
+    "college": "York College",
+    "date": "2025-08-13",
+    "time": "1:30 PM - 2:30 PM",
+    "tags": []
+  },
+  {
     "title": "Virtual Pop Up Enrollment",
     "link": "https://www.york.cuny.edu/student-development/august_virtual-one-stop-to-register-hub-tuesdays",
     "college": "York College",
     "date": "2025-08-13",
     "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Direct Admissions (11:00 a.m.)",
+    "link": "https://www.york.cuny.edu/student-development/direct-admissions-11-00-a-m",
+    "college": "York College",
+    "date": "2025-08-14",
+    "time": "3:00 PM - 4:00 PM",
     "tags": []
   },
   {
@@ -2126,128 +2228,6 @@
     "date": "2025-09-01",
     "time": "4:00 AM - 3:59 AM",
     "tags": []
-  },
-  {
-    "title": "Financial Aid Certification Enrollment Status date",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/financial-aid-certification-enrollment-status-date-1",
-    "college": "York College",
-    "date": "2025-09-01",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "DRUPAL BASICS TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-aug-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-08-13",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "ADVANCED DRUPAL TRAINING",
-    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-aug-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-08-13",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "MASTERS IN ASTROPHYSICS ORIENTATION: AUGUST 17",
-    "link": "https://www.gc.cuny.edu/events/masters-astrophysics-orientation-aug-17-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-08-17",
-    "time": "",
-    "location": "5382",
-    "tags": [
-      "Astrophysics"
-    ]
-  },
-  {
-    "title": "MA IN MIDDLE EASTERN STUDIES OPEN HOUSE - SEPTEMBER 2025",
-    "link": "https://www.gc.cuny.edu/events/ma-middle-eastern-studies-open-house-september-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-04",
-    "time": "6:30 pm",
-    "location": "6304B: MEMEAC Student Lounge",
-    "tags": [
-      "Middle Eastern Studies",
-      "Middle East and Middle Eastern American Center",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "AI + PHYSICS WORKSHOP",
-    "link": "https://www.gc.cuny.edu/events/ai-physics-workshop",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-08",
-    "time": "",
-    "location": "4102: Science Center",
-    "tags": [
-      "Initiative for the Theoretical Sciences",
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "title": "A'LELIA BUNDLES ON A'LELIA WALKER IN CONVERSATION WITH ERIC K. WASHINGTON",
-    "link": "https://www.gc.cuny.edu/events/alelia-bundles-alelia-walker-conversation-eric-k-washington",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-09",
-    "time": "6:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Leon Levy Center for Biography"
-    ]
-  },
-  {
-    "title": "DRUPAL BASICS TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-sept-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-10",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "ADVANCED DRUPAL TRAINING",
-    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-sept-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-10",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "LIVE ESPARC TRAINING - SEPTEMBER 10, 2025",
-    "link": "https://www.gc.cuny.edu/events/live-esparc-training-september-10-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-10",
-    "time": "2:00 pm — 3:00 pm",
-    "location": "Online",
-    "tags": [
-      "Compliance and Diversity"
-    ]
-  },
-  {
-    "title": "PH.D. PROGRAM IN SOCIAL WELFARE VIRTUAL OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/phd-program-social-welfare-virtual-open-house",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-10",
-    "time": "5:30 pm — 7:00 pm",
-    "location": "Online",
-    "tags": [
-      "Social Welfare",
-      "Admissions"
-    ]
   },
   {
     "title": "Fall 2025 Welcome Week",
