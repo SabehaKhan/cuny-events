@@ -1,13 +1,5 @@
 [
   {
-    "title": "2025 NY City Jobs And Careers Fair",
-    "link": "https://www.ccny.cuny.edu/calendar/2025-ny-city-jobs-and-careers-fair",
-    "college": "City College of New York",
-    "date": "2025-08-13",
-    "time": "09:00 AM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "CCNY CWE Admissions Workshop (Late Fall Admission) | Online | at CCNY CWE (25 Broadway)",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-cwe-admissions-workshop-late-fall-admission-online-ccny-cwe-25-broadway",
     "college": "City College of New York",
@@ -640,6 +632,30 @@
     ]
   },
   {
+    "title": "CUNY Spring Forward Internship Info Session",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376451",
+    "college": "Guttman Community College",
+    "date": "2025-08-27",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "CCPP",
+      "Job/Volunteer Opportunities",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "CUNY Spring Forward Internship Info Session",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376453",
+    "college": "Guttman Community College",
+    "date": "2025-09-03",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "CCPP",
+      "Job/Volunteer Opportunities",
+      "Information Session"
+    ]
+  },
+  {
     "title": "The HUB Hour: Coming Fall 2025",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376417",
     "college": "Guttman Community College",
@@ -731,6 +747,16 @@
     "time": "11:00 AM - 01:00 PM",
     "tags": [
       "Open Houses"
+    ]
+  },
+  {
+    "title": "Information Session: Greek Letter Organization Clubs",
+    "link": "https://hunter.cuny.edu/event/information-session-greek-letter-organization-clubs/",
+    "college": "Hunter College",
+    "date": "2025-08-19",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Student Events"
     ]
   },
   {
@@ -917,26 +943,6 @@
     "college": "Hunter College",
     "date": "2025-11-17",
     "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Arts Meet-Up",
-    "link": "https://hunter.cuny.edu/event/arts-meet-up/2025-12-02/",
-    "college": "Hunter College",
-    "date": "2025-12-02",
-    "time": "03:30 PM - 05:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "MS-IPND Challenge Exams",
-    "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-12-10/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "11:00 AM - 01:00 PM",
     "tags": [
       "Open Houses"
     ]
@@ -1316,14 +1322,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=658259",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-13",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
     "title": "Teaching with Who Built America? Working People and the Nation’s History: An Open Educational Resource",
     "link": "https://events.cuny.edu/cec/teaching-with-who-built-america-working-people-and-the-nations-history-an-open-educational-resource/",
     "college": "College of Staten Island",
@@ -1373,6 +1371,14 @@
     "tags": [
       "CCNY Continuing & Professional Studies"
     ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/?p=657855",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-14",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": []
   },
   {
     "title": "Summer Camp 2025 - Computer Labs",
@@ -2079,6 +2085,22 @@
     "tags": []
   },
   {
+    "title": "Town Hall",
+    "link": "https://www.jjay.cuny.edu/news-events/events/town-hall-3",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-09-18",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
+    "title": "9/11 Memorial & Museum Clean-Up",
+    "link": "https://www.jjay.cuny.edu/news-events/events/911-memorial-museum-clean",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-09-30",
+    "time": "02:00 PM",
+    "tags": []
+  },
+  {
     "title": "New Student Orientation Events: 8/18 – 8/19",
     "link": "https://macaulay.cuny.edu/calendar-of-events/orientation-calendar-listing/",
     "college": "Macaulay Honors College",
@@ -2103,11 +2125,35 @@
     "tags": []
   },
   {
+    "title": "Online Information Session",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-5/",
+    "college": "Macaulay Honors College",
+    "date": "2025-09-18",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
     "title": "The Friedman Transfer Scholars Program: Virtual Information Session",
     "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session/",
     "college": "Macaulay Honors College",
     "date": "2025-09-18",
     "time": "6:30PM",
+    "tags": []
+  },
+  {
+    "title": "In-Person – Information Session for Prospective Students",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/in-person-information-session-for-prospective-students-5/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-08",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "In-Person – Information Session for Prospective Students",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/in-person-information-session-for-prospective-students-7/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-09",
+    "time": "6:00PM",
     "tags": []
   },
   {
@@ -2119,18 +2165,18 @@
     "tags": []
   },
   {
-    "title": "The Friedman Transfer Scholars Program: Virtual Information Session",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-3/",
+    "title": "Online Information Session",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/online-information-session/",
     "college": "Macaulay Honors College",
-    "date": "2025-11-13",
-    "time": "6:30PM",
+    "date": "2025-11-11",
+    "time": "4:00PM",
     "tags": []
   },
   {
     "title": "The Friedman Transfer Scholars Program: Virtual Information Session",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-4/",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-3/",
     "college": "Macaulay Honors College",
-    "date": "2025-12-04",
+    "date": "2025-11-13",
     "time": "6:30PM",
     "tags": []
   },
@@ -2337,14 +2383,6 @@
     "description": ""
   },
   {
-    "title": "FAFSA Fest",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-13-fafsa-fest.html",
-    "college": "Queensborough Community College",
-    "date": "2025-08-13",
-    "time": "01:00 PM - 04:00 PM",
-    "description": "Financial Aid Event"
-  },
-  {
     "title": "Virtual Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-14-virtual-resume-hour.html",
     "college": "Queensborough Community College",
@@ -2463,6 +2501,14 @@
     "date": "2025-09-04",
     "time": "03:00 PM - 04:00 PM",
     "description": "Transfer Resource Center Event"
+  },
+  {
+    "title": "Welcome Back and Spotlight on Student Success",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-05-welcome-back-and-spotlight-on-student-success.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-05",
+    "time": "09:00 AM - 05:00 PM",
+    "description": "Conference and Workshop"
   },
   {
     "title": "Dance Performance: “Just Stand By”",
