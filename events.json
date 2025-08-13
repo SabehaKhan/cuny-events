@@ -1128,16 +1128,6 @@
     ]
   },
   {
-    "title": "Student Services Commission",
-    "link": "https://csi.campuslabs.com/engage/event/11413611",
-    "college": "College of Staten Island",
-    "date": "2025-08-18",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "GroupBusiness"
-    ]
-  },
-  {
     "title": "Academic and Curricular Commission",
     "link": "https://csi.campuslabs.com/engage/event/11413612",
     "college": "College of Staten Island",
@@ -1165,6 +1155,17 @@
     "time": "02:00 PM - 03:00 PM",
     "tags": [
       "GroupBusiness"
+    ]
+  },
+  {
+    "title": "Student Services Commission",
+    "link": "https://csi.campuslabs.com/engage/event/11413611",
+    "college": "College of Staten Island",
+    "date": "2025-08-25",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "GroupBusiness",
+      "Leadership"
     ]
   },
   {
@@ -1630,6 +1631,14 @@
     "tags": []
   },
   {
+    "title": "College Now:  Ambassador Orientation",
+    "link": "https://citytech.event.cuny.edu/events/b4q01I4mzCVejOkzQ4O9/TgdDS0uZSVH5sAMKfQHT",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-19",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
     "title": "NYPIRG Training Week",
     "link": "https://citytech.event.cuny.edu/events/f2RC5lujQmZeZyczki8d/ZuLUyIyOVlFmzmPccg8s",
     "college": "New York City College of Technology (City Tech)",
@@ -1731,6 +1740,14 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-09-25",
     "time": "04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Refresh Your Resume Webinar - Evening Session",
+    "link": "https://sps.cuny.edu/about/events/refresh-your-resume-webinar-evening-session-0",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-09-30",
+    "time": "10:00 PM",
     "tags": []
   },
   {
@@ -2126,14 +2143,6 @@
     "tags": []
   },
   {
-    "title": "Direct Admissions (9:30 a.m.)",
-    "link": "https://www.york.cuny.edu/student-development/direct-admissions-9-30-a-m",
-    "college": "York College",
-    "date": "2025-08-13",
-    "time": "1:30 PM - 2:30 PM",
-    "tags": []
-  },
-  {
     "title": "Direct Admissions (11:00 a.m.)",
     "link": "https://www.york.cuny.edu/student-development/direct-admissions-11-00-a-m",
     "college": "York College",
@@ -2155,6 +2164,14 @@
     "college": "York College",
     "date": "2025-08-14",
     "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Direct Admissions (9:30 a.m.)",
+    "link": "https://www.york.cuny.edu/student-development/direct-admissions-9-30-a-m",
+    "college": "York College",
+    "date": "2025-08-15",
+    "time": "1:30 PM - 2:30 PM",
     "tags": []
   },
   {
