@@ -707,16 +707,6 @@
     ]
   },
   {
-    "title": "Paying for College: A Financial Aid Info Session for Families",
-    "link": "https://hunter.cuny.edu/event/paying-for-college-a-financial-aid-info-session-for-families/",
-    "college": "Hunter College",
-    "date": "2025-08-12",
-    "time": "05:00 PM - 06:30 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
     "link": "https://hunter.cuny.edu/event/fafsa-help-desk-in-person-wednesdays-2-5/2025-08-13/",
     "college": "Hunter College",
@@ -950,6 +940,16 @@
     "time": "03:30 PM - 05:00 PM",
     "tags": [
       "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "MS-IPND Challenge Exams",
+    "link": "https://hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-12-10/",
+    "college": "Hunter College",
+    "date": "2025-12-10",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Open Houses"
     ]
   },
   {
@@ -1306,26 +1306,6 @@
     ]
   },
   {
-    "title": "Tips and Techniques to Enhance Your Slide Presentations: A Refresher",
-    "link": "https://events.cuny.edu/cec/tips-and-techniques-to-enhance-your-slide-presentations-a-refresher/",
-    "college": "College of Staten Island",
-    "date": "2025-08-12",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Center for Teaching and Learning"
-    ]
-  },
-  {
-    "title": "Structuring and Adding Content in your Brightspace Course",
-    "link": "https://events.cuny.edu/cec/structuring-and-adding-content-in-your-brightspace-course/",
-    "college": "College of Staten Island",
-    "date": "2025-08-12",
-    "time": "3:00 PM - 4:00 PM",
-    "tags": [
-      "Center for Teaching and Learning"
-    ]
-  },
-  {
     "title": "Creating Rubrics in Brightspace",
     "link": "https://events.cuny.edu/cec/creating-rubrics-in-brightspace/",
     "college": "College of Staten Island",
@@ -1395,68 +1375,14 @@
     ]
   },
   {
-    "title": "Summer Camp 2025 - Computer Labs",
-    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE32",
-    "college": "Queens College",
-    "date": "2025-08-12",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025: Rain Location",
-    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T324",
-    "college": "Queens College",
-    "date": "2025-08-12",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025 - Classrooms",
-    "link": "https://qc.event.cuny.edu/events/j9oTjVZLwJIJ4uopTLXL/gur86Z3xhX6CfJHhZkll2",
-    "college": "Queens College",
-    "date": "2025-08-12",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025",
-    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y133",
-    "college": "Queens College",
-    "date": "2025-08-12",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Learning Common Room Needs Hold",
-    "link": "https://qc.event.cuny.edu/events/WBAp78Ty1xWyZiUFJdcg/Aix6WBXyeumJBHbzQYqN6",
-    "college": "Queens College",
-    "date": "2025-08-12",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "College Now Summer Program 2025",
-    "link": "https://qc.event.cuny.edu/events/tqHNyNpyTdEG15guq0OM/XpBcwVNuGJMqdgX6qBbf",
-    "college": "Queens College",
-    "date": "2025-08-12",
-    "time": "10:30AM",
-    "tags": []
-  },
-  {
-    "title": "Hip To Hip Theater Company",
-    "link": "https://qc.event.cuny.edu/events/L8SBe2Q3GG8sVnDXJMvz/F1eTWwgMfXKP2NB7QI5g",
-    "college": "Queens College",
-    "date": "2025-08-12",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "Hip to Hip Rain Location",
-    "link": "https://qc.event.cuny.edu/events/oxJmyE2PupiRQ9r0T3Vh/bNxYsCsIctbLJpd8A9gM",
-    "college": "Queens College",
-    "date": "2025-08-12",
-    "time": "3:30PM",
-    "tags": []
+    "title": "Virtual Info Session: Fall 2025 Tech Programs",
+    "link": "https://events.cuny.edu/cec/virtual-info-session-fall-2025-tech-programs/",
+    "college": "The City College of New York",
+    "date": "2025-08-14",
+    "time": "7:00 PM - 8:30 PM",
+    "tags": [
+      "CCNY Continuing & Professional Studies"
+    ]
   },
   {
     "title": "Summer Camp 2025 - Computer Labs",
@@ -1531,27 +1457,75 @@
     "tags": []
   },
   {
+    "title": "Summer Camp 2025",
+    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y135",
+    "college": "Queens College",
+    "date": "2025-08-14",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Learning Common Room Needs Hold",
+    "link": "https://qc.event.cuny.edu/events/WBAp78Ty1xWyZiUFJdcg/Aix6WBXyeumJBHbzQYqN8",
+    "college": "Queens College",
+    "date": "2025-08-14",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "College Now Summer Program 2025",
+    "link": "https://qc.event.cuny.edu/events/tqHNyNpyTdEG15guq0OM/hbs2YotUEOGVk4LSqfzw",
+    "college": "Queens College",
+    "date": "2025-08-14",
+    "time": "10:30AM",
+    "tags": []
+  },
+  {
+    "title": "Buildings & Grounds Dept Training",
+    "link": "https://qc.event.cuny.edu/events/JAMNP7xKpErsOKfyztTZ/TvhHVI2CI5CcBNEo2Dj52",
+    "college": "Queens College",
+    "date": "2025-08-14",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/RlT6YY3gItN2evoFt1wT7",
+    "college": "Queens College",
+    "date": "2025-08-15",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025 - Computer Labs",
+    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE35",
+    "college": "Queens College",
+    "date": "2025-08-15",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025: Rain Location",
+    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T327",
+    "college": "Queens College",
+    "date": "2025-08-15",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025 - Classrooms",
+    "link": "https://qc.event.cuny.edu/events/j9oTjVZLwJIJ4uopTLXL/gur86Z3xhX6CfJHhZkll5",
+    "college": "Queens College",
+    "date": "2025-08-15",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
     "title": "Writing Center Orientation",
     "link": "https://baruch.event.cuny.edu/events/v8f9Zb0JN1YtkRrisEbY/qeZjLvIs4VwAfyvJCWB6",
     "college": "Baruch College",
     "date": "2025-08-14",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY2X Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/DFY5NxJk0XWTuNIp1z2u/yxeRHOWcszoJ7YdWK8Ob",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-12",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "Reboot Camp",
-    "link": "https://citytech.event.cuny.edu/events/r40X0fRupoJBeIA6WsAw/byHBNAHps5160SfJFSpl",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-12",
-    "time": "2:00PM",
     "tags": []
   },
   {
@@ -1691,11 +1665,11 @@
     "tags": []
   },
   {
-    "title": "Power Up Your Adventure: CUNY SPS Orientation Kickoff",
-    "link": "https://sps.cuny.edu/about/events/power-up-your-adventure-cuny-sps-orientation-kickoff",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-08-12",
-    "time": "10:00 PM",
+    "title": "Senior DH Orientation",
+    "link": "https://citytech.event.cuny.edu/events/A3Zros9YmIed14WUPiyt/EL0bY4mOhzaAjHVkMep7",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-19",
+    "time": "10:00AM",
     "tags": []
   },
   {
@@ -1768,14 +1742,6 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-09-25",
     "time": "04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Career Skills Academy Virtual Info Session. Apply now!",
-    "link": "https://sph.cuny.edu/event/career-skills-academy-virtual-info-session-apply-now-3/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-08-12",
-    "time": "5:00PM",
     "tags": []
   },
   {
@@ -2179,14 +2145,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Pop Up Enrollment",
-    "link": "https://www.york.cuny.edu/student-development/august_virtual-one-stop-to-register-hub-tuesdays",
-    "college": "York College",
-    "date": "2025-08-13",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
     "title": "Direct Admissions (11:00 a.m.)",
     "link": "https://www.york.cuny.edu/student-development/direct-admissions-11-00-a-m",
     "college": "York College",
@@ -2207,6 +2165,14 @@
     "link": "https://www.york.cuny.edu/student-development/august_pop-up-enrollment-days-thursday",
     "college": "York College",
     "date": "2025-08-14",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Pop Up Enrollment",
+    "link": "https://www.york.cuny.edu/student-development/august_virtual-one-stop-to-register-hub-tuesdays",
+    "college": "York College",
+    "date": "2025-08-19",
     "time": "7:00 PM - 9:00 PM",
     "tags": []
   },
