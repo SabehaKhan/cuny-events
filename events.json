@@ -88,6 +88,14 @@
     "tags": []
   },
   {
+    "title": "Jonathan Suazo & Ricano Hispanic Heritage concert event",
+    "link": "https://www.ccny.cuny.edu/calendar/jonathan-suazo-ricano-hispanic-heritage-concert-event",
+    "college": "City College of New York",
+    "date": "2025-10-03",
+    "time": "07:00 PM - 09:30 PM",
+    "tags": []
+  },
+  {
     "title": "Academic Empowerment Workshop Series: Connecting With Your Professors",
     "link": "https://www.ccny.cuny.edu/calendar/academic-empowerment-workshop-series-connecting-your-professors-0",
     "college": "City College of New York",
@@ -619,6 +627,18 @@
     ]
   },
   {
+    "title": "DHH Student Success Pep Rally and Orientation",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376459",
+    "college": "Guttman Community College",
+    "date": "2025-08-21",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "EMSA",
+      "Educational/Awareness",
+      "AccessABILITY Services"
+    ]
+  },
+  {
     "title": "The HUB Hour: Coming Fall 2025",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376416",
     "college": "Guttman Community College",
@@ -669,6 +689,18 @@
     ]
   },
   {
+    "title": "CUNY Spring Forward Internship Info Session",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376454",
+    "college": "Guttman Community College",
+    "date": "2025-09-09",
+    "time": "03:30 PM - 04:30 PM",
+    "tags": [
+      "CCPP",
+      "Career Workshop",
+      "Information Session"
+    ]
+  },
+  {
     "title": "EMSA & Friends Resource Fair",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376440",
     "college": "Guttman Community College",
@@ -700,6 +732,42 @@
     ]
   },
   {
+    "title": "CUNY Spring Forward Internship Info Session",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376455",
+    "college": "Guttman Community College",
+    "date": "2025-09-22",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "CCPP",
+      "Job/Volunteer Opportunities",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "CUNY Spring Forward Internship Info Session",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376456",
+    "college": "Guttman Community College",
+    "date": "2025-09-23",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "CCPP",
+      "Job/Volunteer Opportunities",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "CUNY Spring Forward Internship Info Session",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376458",
+    "college": "Guttman Community College",
+    "date": "2025-09-30",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "CCPP",
+      "Job/Volunteer Opportunities",
+      "Information Session"
+    ]
+  },
+  {
     "title": "Disability Pride Parade",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376396",
     "college": "Guttman Community College",
@@ -709,16 +777,6 @@
       "EMSA",
       "Educational/Awareness",
       "AccessABILITY Services"
-    ]
-  },
-  {
-    "title": "RN-to-BS Nursing Program Information Session",
-    "link": "https://hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-4/2025-08-14/",
-    "college": "Hunter College",
-    "date": "2025-08-14",
-    "time": "10:00 AM - 11:30 AM",
-    "tags": [
-      "Open Houses"
     ]
   },
   {
@@ -780,6 +838,14 @@
     ]
   },
   {
+    "title": "Taco Tuesday",
+    "link": "https://hunter.cuny.edu/event/welcome-week-taco-tuesday-2/",
+    "college": "Hunter College",
+    "date": "2025-08-26",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
     "title": "Last Art School, a project by Lindsey White",
     "link": "https://hunter.cuny.edu/event/last-art-school-a-project-by-lindsey-white/",
     "college": "Hunter College",
@@ -788,6 +854,14 @@
     "tags": [
       "Exhibits"
     ]
+  },
+  {
+    "title": "Espresso Yourself",
+    "link": "https://hunter.cuny.edu/event/espresso-yourself/",
+    "college": "Hunter College",
+    "date": "2025-08-27",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": []
   },
   {
     "title": "Study Abroad 101 Webinars",
@@ -800,6 +874,14 @@
     ]
   },
   {
+    "title": "Games & Grub",
+    "link": "https://hunter.cuny.edu/event/games-grub/",
+    "college": "Hunter College",
+    "date": "2025-08-28",
+    "time": "04:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
     "title": "Study Abroad 101 Webinars",
     "link": "https://hunter.cuny.edu/event/study-abroad-101-webinars-17/",
     "college": "Hunter College",
@@ -808,11 +890,43 @@
     "tags": []
   },
   {
+    "title": "Boba Giveaway",
+    "link": "https://hunter.cuny.edu/event/boba-giveaway/",
+    "college": "Hunter College",
+    "date": "2025-08-29",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
     "title": "Study Abroad 101 Webinars",
     "link": "https://hunter.cuny.edu/event/study-abroad-101-webinars-18/",
     "college": "Hunter College",
     "date": "2025-09-02",
     "time": "11:00 AM - 12:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Welcome Breakfast",
+    "link": "https://hunter.cuny.edu/event/welcome-breakfast/",
+    "college": "Hunter College",
+    "date": "2025-09-03",
+    "time": "10:00 AM - 11:30 AM",
+    "tags": []
+  },
+  {
+    "title": "Field Day Activities",
+    "link": "https://hunter.cuny.edu/event/field-day-activities/",
+    "college": "Hunter College",
+    "date": "2025-09-03",
+    "time": "11:30 AM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Club Fair/Carnival",
+    "link": "https://hunter.cuny.edu/event/club-fair-carnival-3/",
+    "college": "Hunter College",
+    "date": "2025-09-03",
+    "time": "12:00 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -900,161 +1014,23 @@
     ]
   },
   {
-    "title": "American Voices - Women in Jazz: A Celebration of Jazz Legends",
-    "link": "https://hunter.cuny.edu/event/american-voices-women-in-jazz-a-celebration-of-jazz-legends/",
-    "college": "Hunter College",
-    "date": "2025-10-18",
-    "time": "07:00 PM - 07:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
-    "link": "https://hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-4/2025-10-22/",
-    "college": "Hunter College",
-    "date": "2025-10-22",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "OOA Outing to The MET Opera: Carmen",
-    "link": "https://hunter.cuny.edu/event/ooa-outing-to-the-met-opera-carmen/",
-    "college": "Hunter College",
-    "date": "2025-10-24",
-    "time": "10:30 AM - 02:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Arts Meet-Up",
-    "link": "https://hunter.cuny.edu/event/arts-meet-up/2025-11-05/",
-    "college": "Hunter College",
-    "date": "2025-11-05",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
-    "link": "https://hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-4/2025-11-17/",
-    "college": "Hunter College",
-    "date": "2025-11-17",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC's Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-95/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-14",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "Degree Under Three Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/degree-under-three-information-session-17/2025-08-14/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-14",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Degree Under Three",
-      "Featured"
-    ]
-  },
-  {
-    "title": "How to Apply to BMCC & Live Help Hour Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-2/2025-08-14/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-14",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-257/2025-08-18/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-18",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Degree Under Three Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/degree-under-three-information-session-18/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-20",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Degree Under Three",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour-3/2025-08-20/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-20",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "How to Apply to BMCC & Live Help Hour Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-21",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-21",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "Launch Event for Cybersecurity White Hat and Job Placement Initiative",
-    "link": "https://www.bmcc.cuny.edu/event/launch-event-for-cybersecurity-white-hat-and-job-placement-initiative/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-11",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "Continuing Education",
-      "Diplomatic Engagement and Training",
-      "Featured"
-    ]
-  },
-  {
     "title": "BCC Senate",
     "link": "https://www.bcc.cuny.edu/event/bcc-senate/2025-08-28/",
     "college": "Bronx Community College",
     "date": "2025-08-28",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
+  },
+  {
+    "title": "Fall 2025 Faculty & Staff Convocation",
+    "link": "https://www.bcc.cuny.edu/event/fall-2025-faculty-staff-convocation/",
+    "college": "Bronx Community College",
+    "date": "2025-08-29",
+    "time": "10:00 AM - 12:00 PM",
+    "tags": [
+      "Administrative Meetings & Events",
+      "Meetings"
+    ]
   },
   {
     "title": "Office of the Registrar Virtual Counter",
@@ -1086,18 +1062,6 @@
     "college": "Bronx Community College",
     "date": "2025-09-08",
     "time": "02:00 PM - 07:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Virtual Event"
-    ]
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2025-09-12/",
-    "college": "Bronx Community College",
-    "date": "2025-09-12",
-    "time": "02:00 PM - 05:00 PM",
     "tags": [
       "Enrollment Management",
       "Feature",
@@ -1142,6 +1106,16 @@
     "college": "College of Staten Island",
     "date": "2025-08-20",
     "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "GroupBusiness"
+    ]
+  },
+  {
+    "title": "Campus Center, Student Facilities and Sustainability Commission",
+    "link": "https://csi.campuslabs.com/engage/event/11413953",
+    "college": "College of Staten Island",
+    "date": "2025-08-20",
+    "time": "03:30 PM - 04:30 PM",
     "tags": [
       "GroupBusiness"
     ]
@@ -1371,11 +1345,19 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=657855",
+    "title": "Degree Under Three Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005420",
     "college": "Borough of Manhattan Community College",
     "date": "2025-08-14",
-    "time": "11:00 AM - 12:00 PM",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "How to Apply to BMCC & Live Help Hour Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005446",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-14",
+    "time": "06:00 PM - 07:00 PM",
     "tags": []
   },
   {
@@ -1388,6 +1370,14 @@
       "Center for Global Engagement",
       "World Language and Literature"
     ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005425",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-18",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": []
   },
   {
     "title": "Summer Camp 2025 - Computer Labs",
@@ -1710,50 +1700,50 @@
     "tags": []
   },
   {
-    "title": "Early Childhood Job and College Fair",
-    "link": "https://sps.cuny.edu/about/events/early-childhood-job-and-college-fair",
+    "title": "ePortfolio 101: The Basics",
+    "link": "https://sps.cuny.edu/about/events/eportfolio-101-basics",
     "college": "CUNY School of Professional Studies",
-    "date": "2025-09-13",
-    "time": "01:30 PM",
+    "date": "2025-09-02",
+    "time": "10:00 PM",
     "tags": []
   },
   {
-    "title": "Online Information Session: Bachelor's Degree Programs",
-    "link": "https://sps.cuny.edu/about/events/online-information-session-bachelors-degree-programs-4",
+    "title": "ePortfolio 101: The Basics",
+    "link": "https://sps.cuny.edu/about/events/eportfolio-101-basics-0",
     "college": "CUNY School of Professional Studies",
-    "date": "2025-09-16",
-    "time": "04:00 PM",
+    "date": "2025-09-03",
+    "time": "10:00 PM",
     "tags": []
   },
   {
-    "title": "AI and Academic Integrity",
-    "link": "https://sps.cuny.edu/about/events/ai-and-academic-integrity",
+    "title": "ePortfolio 101: The Basics",
+    "link": "https://sps.cuny.edu/about/events/eportfolio-101-basics-1",
     "college": "CUNY School of Professional Studies",
-    "date": "2025-09-16",
-    "time": "08:00 PM",
+    "date": "2025-09-04",
+    "time": "10:00 PM",
     "tags": []
   },
   {
-    "title": "CareerLink Training",
-    "link": "https://sps.cuny.edu/about/events/careerlink-training",
+    "title": "ePortfolio Signature Assignments",
+    "link": "https://sps.cuny.edu/about/events/eportfolio-signature-assignments-1",
     "college": "CUNY School of Professional Studies",
-    "date": "2025-09-18",
-    "time": "04:30 PM",
+    "date": "2025-09-08",
+    "time": "10:00 PM",
     "tags": []
   },
   {
-    "title": "Online Information Session: Jump Start Application",
-    "link": "https://sps.cuny.edu/about/events/online-information-session-jump-start-application-0",
+    "title": "ePortfolio Signature Assignments",
+    "link": "https://sps.cuny.edu/about/events/eportfolio-signature-assignments-2",
     "college": "CUNY School of Professional Studies",
-    "date": "2025-09-25",
-    "time": "04:00 PM",
+    "date": "2025-09-09",
+    "time": "10:00 PM",
     "tags": []
   },
   {
-    "title": "Refresh Your Resume Webinar - Evening Session",
-    "link": "https://sps.cuny.edu/about/events/refresh-your-resume-webinar-evening-session-0",
+    "title": "ePortfolio Signature Assignments",
+    "link": "https://sps.cuny.edu/about/events/eportfolio-signature-assignments-3",
     "college": "CUNY School of Professional Studies",
-    "date": "2025-09-30",
+    "date": "2025-09-10",
     "time": "10:00 PM",
     "tags": []
   },
