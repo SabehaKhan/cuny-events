@@ -344,18 +344,6 @@
   },
   {
     "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom/2025-08-14/",
-    "college": "LaGuardia Community College",
-    "date": "2025-08-14",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom/2025-08-21/",
     "college": "LaGuardia Community College",
     "date": "2025-08-21",
@@ -611,6 +599,17 @@
     "tags": [
       "Featured",
       "Space Reservation",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-09-17/",
+    "college": "LaGuardia Community College",
+    "date": "2025-09-17",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
       "student events"
     ]
   },
@@ -936,7 +935,8 @@
     "date": "2025-09-04",
     "time": "02:30 PM - 04:00 PM",
     "tags": [
-      "Performing Arts & Film"
+      "Performing Arts & Film",
+      "Student Events"
     ]
   },
   {
@@ -974,11 +974,33 @@
     "tags": []
   },
   {
+    "title": "OOA Outing to The MET Opera: La Sonnambula",
+    "link": "https://hunter.cuny.edu/event/ooa-outing-to-the-met-opera-la-sonnambula/",
+    "college": "Hunter College",
+    "date": "2025-10-03",
+    "time": "10:30 AM - 01:15 PM",
+    "tags": [
+      "Performing Arts & Film",
+      "Student Events"
+    ]
+  },
+  {
     "title": "Arts Meet-Up",
     "link": "https://hunter.cuny.edu/event/arts-meet-up/2025-10-07/",
     "college": "Hunter College",
     "date": "2025-10-07",
     "time": "03:30 PM - 05:00 PM",
+    "tags": [
+      "Performing Arts & Film",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "American Voices - Women in Jazz: A Celebration of Jazz Legends",
+    "link": "https://hunter.cuny.edu/event/american-voices-women-in-jazz-a-celebration-of-jazz-legends/",
+    "college": "Hunter College",
+    "date": "2025-10-08",
+    "time": "07:00 PM - 07:00 PM",
     "tags": [
       "Performing Arts & Film"
     ]
@@ -994,23 +1016,81 @@
     ]
   },
   {
-    "title": "Artes Visuales: The Latin American Avant-Garde in Print",
-    "link": "https://hunter.cuny.edu/event/artes-visuales-the-latin-american-avant-garde-in-print/",
-    "college": "Hunter College",
-    "date": "2025-10-16",
-    "time": "12:00 PM - 06:00 PM",
+    "title": "How to Apply to BMCC & Live Help Hour Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-2/2025-08-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-14",
+    "time": "06:00 PM - 07:00 PM",
     "tags": [
-      "Exhibits"
+      "Admissions",
+      "Evening-Weekend",
+      "Featured"
     ]
   },
   {
-    "title": "OOA Outing to The MET Opera: La Bohème",
-    "link": "https://hunter.cuny.edu/event/ooa-outing-to-the-met-opera-la-boheme/",
-    "college": "Hunter College",
-    "date": "2025-10-17",
-    "time": "10:30 AM - 01:35 PM",
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-257/2025-08-18/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-18",
+    "time": "06:00 PM - 07:00 PM",
     "tags": [
-      "Performing Arts & Film"
+      "Admissions",
+      "Evening-Weekend",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Degree Under Three Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/degree-under-three-information-session-18/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-20",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Degree Under Three",
+      "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour-3/2025-08-20/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-20",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "How to Apply to BMCC & Live Help Hour Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-21",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-21",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Launch Event for Cybersecurity White Hat and Job Placement Initiative",
+    "link": "https://www.bmcc.cuny.edu/event/launch-event-for-cybersecurity-white-hat-and-job-placement-initiative/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-11",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "Continuing Education",
+      "Diplomatic Engagement and Training",
+      "Featured"
     ]
   },
   {
@@ -1066,17 +1146,6 @@
       "Enrollment Management",
       "Feature",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "Global Engagement: Japanese Cultural Exchange (259014-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11379108",
-    "college": "College of Staten Island",
-    "date": "2025-08-14",
-    "time": "05:00 PM - 07:00 PM",
-    "tags": [
-      "Cultural",
-      "Social"
     ]
   },
   {
@@ -1353,14 +1422,6 @@
     "tags": []
   },
   {
-    "title": "How to Apply to BMCC & Live Help Hour Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005446",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-14",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "Japanese Cultural Exchange",
     "link": "https://events.cuny.edu/cec/japanese-cultural-exchange-2/",
     "college": "College of Staten Island",
@@ -1370,14 +1431,6 @@
       "Center for Global Engagement",
       "World Language and Literature"
     ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005425",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-18",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": []
   },
   {
     "title": "Summer Camp 2025 - Computer Labs",
@@ -2172,14 +2225,6 @@
     "tags": []
   },
   {
-    "title": "Pop Up Enrollment",
-    "link": "https://www.york.cuny.edu/student-development/august_pop-up-enrollment-days-thursday",
-    "college": "York College",
-    "date": "2025-08-14",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
     "title": "Direct Admissions (9:30 a.m.)",
     "link": "https://www.york.cuny.edu/student-development/direct-admissions-9-30-a-m",
     "college": "York College",
@@ -2208,6 +2253,14 @@
     "link": "https://www.york.cuny.edu/student-development/august_virtual-one-stop-to-register-hub-tuesdays",
     "college": "York College",
     "date": "2025-08-19",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Pop Up Enrollment",
+    "link": "https://www.york.cuny.edu/student-development/august_pop-up-enrollment-days-thursday",
+    "college": "York College",
+    "date": "2025-08-21",
     "time": "7:00 PM - 9:00 PM",
     "tags": []
   },
@@ -2373,14 +2426,6 @@
     "date": "2025-09-03",
     "time": "12:00 PM - 02:00 PM",
     "description": ""
-  },
-  {
-    "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-14-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-08-14",
-    "time": "03:00 PM - 04:00 PM",
-    "description": "Career Services Event"
   },
   {
     "title": "Virtual Resume Hour",
