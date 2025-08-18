@@ -1028,6 +1028,18 @@
     ]
   },
   {
+    "title": "BMCC-Susan B. Komen Race for the Cure Team",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-susan-b-komen-race-for-the-cure-team/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-19",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Degree Under Three Information Session",
     "link": "https://www.bmcc.cuny.edu/event/degree-under-three-information-session-18/",
     "college": "Borough of Manhattan Community College",
@@ -1846,6 +1858,14 @@
     "tags": []
   },
   {
+    "title": "Early Childhood Job and College Fair",
+    "link": "https://sps.cuny.edu/about/events/early-childhood-job-and-college-fair",
+    "college": "CUNY School of Professional Studies",
+    "date": "2025-09-13",
+    "time": "01:30 PM",
+    "tags": []
+  },
+  {
     "title": "Career Skills Academy Virtual Info Session. Apply now!",
     "link": "https://sph.cuny.edu/event/career-skills-academy-virtual-info-session-apply-now-2/",
     "college": "CUNY School of Public Health",
@@ -1883,6 +1903,14 @@
     "college": "CUNY School of Public Health",
     "date": "2025-09-10",
     "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Health Equity at a Crossroads: Aligning the narrative and business case",
+    "link": "https://sph.cuny.edu/event/health-equity-at-a-crossroads-aligning-the-narrative-and-business-case/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-09-16",
+    "time": "4:00PM",
     "tags": []
   },
   {
@@ -2363,6 +2391,17 @@
     ]
   },
   {
+    "title": "ANDREW BEVERIDGE MEMORIAL",
+    "link": "https://www.gc.cuny.edu/events/andrew-beveridge-memorial",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-05",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Sociology"
+    ]
+  },
+  {
     "title": "AI + PHYSICS WORKSHOP",
     "link": "https://www.gc.cuny.edu/events/ai-physics-workshop",
     "college": "CUNY Graduate Center",
@@ -2454,18 +2493,6 @@
     ]
   },
   {
-    "title": "PH.D. PROGRAM IN CHEMISTRY VIRTUAL INFORMATION SESSION",
-    "link": "https://www.gc.cuny.edu/events/phd-program-chemistry-virtual-information-session-sep-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-12",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Chemistry",
-      "Admissions"
-    ]
-  },
-  {
     "title": "Fall 2025 Welcome Week",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-29-fall-2025-welcome-week.html",
     "college": "Queensborough Community College",
@@ -2480,14 +2507,6 @@
     "date": "2025-09-03",
     "time": "12:00 PM - 02:00 PM",
     "description": ""
-  },
-  {
-    "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-08-18-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-08-18",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Career Services Event"
   },
   {
     "title": "QCC-Baruch Business Academy Info Sessions",
@@ -2615,6 +2634,14 @@
     "college": "Queensborough Community College",
     "date": "2025-09-03",
     "time": "02:00 PM - 03:30 PM",
+    "description": "Career Services Event"
+  },
+  {
+    "title": "Virtual Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-04-virtual-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-04",
+    "time": "03:00 PM - 04:00 PM",
     "description": "Career Services Event"
   },
   {
