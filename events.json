@@ -1016,108 +1016,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-257/2025-08-18/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-18",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC-Susan B. Komen Race for the Cure Team",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-susan-b-komen-race-for-the-cure-team/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-19",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Degree Under Three Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/degree-under-three-information-session-18/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-20",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Degree Under Three",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour-3/2025-08-20/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-20",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "How to Apply to BMCC & Live Help Hour Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-21",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-wtc-tribeca-campus-tour-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-21",
-    "time": "03:00 PM - 04:30 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "How to Apply to BMCC & Live Help Hour Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-2/2025-08-28/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-28",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Launch Event for Cybersecurity White Hat and Job Placement Initiative",
-    "link": "https://www.bmcc.cuny.edu/event/launch-event-for-cybersecurity-white-hat-and-job-placement-initiative/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-11",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "Continuing Education",
-      "Diplomatic Engagement and Training",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Stop by the Fall 2025 Club Fair",
-    "link": "https://www.bmcc.cuny.edu/event/stop-by-the-fall-2025-club-fair/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-17",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "Office of Student Activities (OSA)",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "BCC Senate",
     "link": "https://www.bcc.cuny.edu/event/bcc-senate/2025-08-28/",
     "college": "Bronx Community College",
@@ -1166,6 +1064,18 @@
     "college": "Bronx Community College",
     "date": "2025-09-08",
     "time": "02:00 PM - 07:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2025-09-12/",
+    "college": "Bronx Community College",
+    "date": "2025-09-12",
+    "time": "02:00 PM - 05:00 PM",
     "tags": [
       "Enrollment Management",
       "Feature",
@@ -1552,17 +1462,6 @@
     ]
   },
   {
-    "title": "Japanese Cultural Exchange",
-    "link": "https://events.cuny.edu/cec/japanese-cultural-exchange-2/",
-    "college": "College of Staten Island",
-    "date": "2025-08-18",
-    "time": "1:00 PM - 3:00 PM",
-    "tags": [
-      "Center for Global Engagement",
-      "World Language and Literature"
-    ]
-  },
-  {
     "title": "More Human Than the Machine? Teaching Writing in the Era of AI",
     "link": "https://events.cuny.edu/cec/more-human-than-the-machine-teaching-writing-in-the-era-of-ai/",
     "college": "College of Staten Island",
@@ -1592,6 +1491,14 @@
     "tags": [
       "Center for Teaching and Learning"
     ]
+  },
+  {
+    "title": "BMCC-Susan B. Komen Race for the Cure Team",
+    "link": "https://www.bmcc.cuny.edu/event/?p=658639",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-19",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "Teaching in an AI-Influenced World",
@@ -1635,99 +1542,19 @@
     ]
   },
   {
-    "title": "Summer Camp 2025 - Classrooms",
-    "link": "https://qc.event.cuny.edu/events/j9oTjVZLwJIJ4uopTLXL/I80f5LIHn7WHcW2AcyaB8",
-    "college": "Queens College",
-    "date": "2025-08-18",
-    "time": "8:00AM",
+    "title": "BMCC Admissions WTC & Tribeca Campus Tour",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005437",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-20",
+    "time": "02:00 PM - 03:30 PM",
     "tags": []
   },
   {
-    "title": "Summer Camp 2025 - Computer Labs",
-    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE36",
-    "college": "Queens College",
-    "date": "2025-08-18",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025: Rain Location",
-    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T328",
-    "college": "Queens College",
-    "date": "2025-08-18",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Kessler Scholars Program: Summer Bridge Program",
-    "link": "https://qc.event.cuny.edu/events/KmsK5eRDctINTQCaCQS7/pv3lQUloljGL288HHa2I",
-    "college": "Queens College",
-    "date": "2025-08-18",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025",
-    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y137",
-    "college": "Queens College",
-    "date": "2025-08-18",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Beginning of Classes",
-    "link": "https://qc.event.cuny.edu/events/qoltdaepmgMTtb1x1WlU/R7zgX7l0k2OCb7fXzJpA",
-    "college": "Queens College",
-    "date": "2025-08-18",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Provost Office: Bootcamp",
-    "link": "https://qc.event.cuny.edu/events/toXQTm9GIDcH0MefeJAR/W8SA8GDNoiBvpjtF9J9D",
-    "college": "Queens College",
-    "date": "2025-08-18",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "QC Summer Undergraduate Research Program",
-    "link": "https://qc.event.cuny.edu/events/Zz5G1yvkS7jhAXzXDycj/SfpThQkS0HRkHcym8J6z",
-    "college": "Queens College",
-    "date": "2025-08-18",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Final Exam",
-    "link": "https://qc.event.cuny.edu/events/FXjoqopLGeCKJArNKu8C/M3FMJkhM8Xr3gwLbs7tB",
-    "college": "Queens College",
-    "date": "2025-08-18",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "QC VP for Student Affairs - Q74 Bus Route Photo Op",
-    "link": "https://qc.event.cuny.edu/events/uJS6xvBLqfXHfkkjAHzB/xglzqzUsA9N6yP25DbJX",
-    "college": "Queens College",
-    "date": "2025-08-18",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "ACE Program Activities",
-    "link": "https://qc.event.cuny.edu/events/yhOXkhEr8QFpdc2u5B24/hhwLY36Kgei7JwjoKbHn",
-    "college": "Queens College",
-    "date": "2025-08-18",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Urban Studies Department an orientation for incoming graduate (MA) students",
-    "link": "https://qc.event.cuny.edu/events/xV7ZpECTr9i26Ex4p7zs/pLEY2cWh6JyOrVwlpWlB",
-    "college": "Queens College",
-    "date": "2025-08-18",
-    "time": "6:15PM",
+    "title": "Degree Under Three Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=658246",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-20",
+    "time": "02:00 PM - 03:00 PM",
     "tags": []
   },
   {
@@ -1763,35 +1590,131 @@
     "tags": []
   },
   {
-    "title": "Fall 2025 New Student Orientation",
-    "link": "https://citytech.event.cuny.edu/events/qE4JnT4UASiNEBDzQk3Z/J2KaACt1XbWDyjEimCQv1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-18",
-    "time": "9:00AM",
+    "title": "Kessler Scholars Program: Summer Bridge Program",
+    "link": "https://qc.event.cuny.edu/events/KmsK5eRDctINTQCaCQS7/gKcXx5otJWN0mTA63nG7",
+    "college": "Queens College",
+    "date": "2025-08-19",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "NYPIRG Training Week",
-    "link": "https://citytech.event.cuny.edu/events/f2RC5lujQmZeZyczki8d/riU99WicjFP6ACdyoYMM",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-18",
-    "time": "9:00AM",
+    "title": "Fall 2025 Learning Commons Launch",
+    "link": "https://qc.event.cuny.edu/events/yeK5bpSA4NiELPC5BJsc/ofXxO0yHI2YQX0VegZrx",
+    "college": "Queens College",
+    "date": "2025-08-19",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Peer Mentor Training for Fall 2025",
-    "link": "https://citytech.event.cuny.edu/events/iTqsuzXbf3PrntiC5Dd9/o3RTNrh7SyG9WiiO067v",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-18",
+    "title": "Summer Camp 2025",
+    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y138",
+    "college": "Queens College",
+    "date": "2025-08-19",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "QSI program",
+    "link": "https://qc.event.cuny.edu/events/FUM1ZCHZTLRm7GgaxRI9/afTKxKspNiHklDBTtllQ",
+    "college": "Queens College",
+    "date": "2025-08-19",
+    "time": "8:30AM",
+    "tags": []
+  },
+  {
+    "title": "ACE ORIENTATION",
+    "link": "https://qc.event.cuny.edu/events/jNMlyOZOKFIH3XapkoI3/DjMvZKHJ7qoh9vL79ZxY",
+    "college": "Queens College",
+    "date": "2025-08-19",
     "time": "9:30AM",
     "tags": []
   },
   {
-    "title": "Fall 2025 New Student Orientation",
-    "link": "https://citytech.event.cuny.edu/events/YqbCBYuxPvGWALSWo85G/WrCVWuUTuOLtWWgGoBBc",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-18",
-    "time": "12:00PM",
+    "title": "Provost Office: Bootcamp",
+    "link": "https://qc.event.cuny.edu/events/toXQTm9GIDcH0MefeJAR/CNReiJ3pNadBnWSrDLTg2",
+    "college": "Queens College",
+    "date": "2025-08-19",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "First Year Experience (FYE)",
+    "link": "https://qc.event.cuny.edu/events/mUxVHQBMoN9I1zZrG4Co/mHfjxsKc8c9SqFoMkGB8",
+    "college": "Queens College",
+    "date": "2025-08-19",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025 - Computer Labs",
+    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE38",
+    "college": "Queens College",
+    "date": "2025-08-20",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025: Rain Location",
+    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T330",
+    "college": "Queens College",
+    "date": "2025-08-20",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Undergraduate Research Symposium",
+    "link": "https://qc.event.cuny.edu/events/pvuNGlLsVxHT3dLe7Cab/goygv5dd8VbVxaPFegfc",
+    "college": "Queens College",
+    "date": "2025-08-20",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025 - Classrooms",
+    "link": "https://qc.event.cuny.edu/events/j9oTjVZLwJIJ4uopTLXL/gur86Z3xhX6CfJHhZkll10",
+    "college": "Queens College",
+    "date": "2025-08-20",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "GSSP New Student Orientation",
+    "link": "https://qc.event.cuny.edu/events/lAAbqzILVGgcwa5v191Y/kLs4i7SgcyhEyeEef70c",
+    "college": "Queens College",
+    "date": "2025-08-20",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025",
+    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y139",
+    "college": "Queens College",
+    "date": "2025-08-20",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "QSI program",
+    "link": "https://qc.event.cuny.edu/events/uNPsFqvVIxhm0qFWyUWW/iH9wS72VRoEObp5LCJwU",
+    "college": "Queens College",
+    "date": "2025-08-20",
+    "time": "8:30AM",
+    "tags": []
+  },
+  {
+    "title": "Fall Regular Session:\tClasses begin",
+    "link": "https://baruch.event.cuny.edu/events/L0Pb9xEZk47NYDA0Tcg1/S6q3JuydzJqaYWH4TQZ8",
+    "college": "Baruch College",
+    "date": "2025-08-26",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Fall Seven-Week I: First day of Fall 2025 first seven weeks of session",
+    "link": "https://baruch.event.cuny.edu/events/qdVZfIqCPTQLAKSYxRPa/wP7CTY1sFDaXuf0Nksz2",
+    "college": "Baruch College",
+    "date": "2025-08-26",
+    "time": "",
     "tags": []
   },
   {
@@ -1907,6 +1830,30 @@
     "tags": []
   },
   {
+    "title": "NYPIRG Training Week",
+    "link": "https://citytech.event.cuny.edu/events/f2RC5lujQmZeZyczki8d/MUJbRfBzKb5jD5e77Azm",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-20",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP Orientation",
+    "link": "https://citytech.event.cuny.edu/events/QaMLkZcGhTdYTr5Kmu1M/U7eASbArHLrjvuCMXSHA",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-20",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "TOC II Summer 2025 Workshop",
+    "link": "https://citytech.event.cuny.edu/events/PBjVQX6UTsTDk4458HCZ/MSVveC3wjuopK1mV8Rbm",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-20",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
     "title": "Dominicanos USA (DUSA) Information Table",
     "link": "https://hostos.event.cuny.edu/events/BlxJG0B1lPna7APVlvJe/lh4Dd9ZxSknbSQQyJIc8",
     "college": "Hostos Community College",
@@ -1915,11 +1862,11 @@
     "tags": []
   },
   {
-    "title": "Fast-Track Your Degree: Save Time and Money with Credit for Prior Learning",
-    "link": "https://sps.cuny.edu/about/events/fasttrack-your-degree-save-time-and-money-with-credit-for-prior-learning",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-08-18",
-    "time": "10:00 PM",
+    "title": "Transfer Tabling",
+    "link": "https://hostos.event.cuny.edu/events/jXAiSToSTjq65QteyHeC/FXvRvQ5uvypdag1Ttn5d",
+    "college": "Hostos Community College",
+    "date": "2025-08-26",
+    "time": "11:00AM",
     "tags": []
   },
   {
@@ -1992,14 +1939,6 @@
     "college": "CUNY School of Professional Studies",
     "date": "2025-09-13",
     "time": "01:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Career Skills Academy Virtual Info Session. Apply now!",
-    "link": "https://sph.cuny.edu/event/career-skills-academy-virtual-info-session-apply-now-2/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-08-18",
-    "time": "6:00PM",
     "tags": []
   },
   {
@@ -2179,6 +2118,14 @@
     "tags": []
   },
   {
+    "title": "Dance in Dialog '25 Auditions",
+    "link": "https://www.lehman.edu/events/2025/Dance-in-Dialog-25-Auditions-1.php",
+    "college": "Lehman College",
+    "date": "2025-08-29",
+    "time": "5:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
     "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
     "link": "https://www.lehman.edu/events/2025/Counselor-Ed-School-Counseling-MSEd-Information-Session-.php",
     "college": "Lehman College",
@@ -2248,14 +2195,6 @@
     "college": "Lehman College",
     "date": "2025-09-25",
     "time": "5:00 PM- 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Lehman Night At Yankee Stadium",
-    "link": "https://www.lehman.edu/events/2025/Lehman-Night-At-Yankee-Stadium.php",
-    "college": "Lehman College",
-    "date": "2025-09-25",
-    "time": "7:00 PM- 10:00 PM",
     "tags": []
   },
   {
@@ -2355,14 +2294,6 @@
     "tags": []
   },
   {
-    "title": "New Student Orientation Events: 8/18 – 8/19",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/orientation-calendar-listing/",
-    "college": "Macaulay Honors College",
-    "date": "2025-08-18",
-    "time": "9:00 AM - 6:00PM",
-    "tags": []
-  },
-  {
     "title": "Diversity Reception",
     "link": "https://macaulay.cuny.edu/calendar-of-events/diversity-reception-2/",
     "college": "Macaulay Honors College",
@@ -2435,76 +2366,119 @@
     "tags": []
   },
   {
-    "title": "Direct Admissions (9:30 a.m.)",
-    "link": "https://www.york.cuny.edu/student-development/direct-admissions-9-30-a-m",
-    "college": "York College",
-    "date": "2025-08-19",
-    "time": "1:30 PM - 2:30 PM",
-    "tags": []
+    "title": "MA IN MIDDLE EASTERN STUDIES OPEN HOUSE - SEPTEMBER 2025",
+    "link": "https://www.gc.cuny.edu/events/ma-middle-eastern-studies-open-house-september-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-04",
+    "time": "6:30 pm",
+    "location": "6304B: MEMEAC Student Lounge",
+    "tags": [
+      "Middle Eastern Studies",
+      "Middle East and Middle Eastern American Center",
+      "Admissions"
+    ]
   },
   {
-    "title": "Direct Admissions (11:00 a.m.)",
-    "link": "https://www.york.cuny.edu/student-development/direct-admissions-11-00-a-m",
-    "college": "York College",
-    "date": "2025-08-19",
-    "time": "3:00 PM - 4:00 PM",
-    "tags": []
+    "title": "ANDREW BEVERIDGE MEMORIAL",
+    "link": "https://www.gc.cuny.edu/events/andrew-beveridge-memorial",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-05",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Sociology"
+    ]
   },
   {
-    "title": "Direct Admissions (3:00 p.m.)",
-    "link": "https://www.york.cuny.edu/student-development/direct-admissions-3-00-p-m",
-    "college": "York College",
-    "date": "2025-08-19",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
+    "title": "AI + PHYSICS WORKSHOP",
+    "link": "https://www.gc.cuny.edu/events/ai-physics-workshop",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-08",
+    "time": "",
+    "location": "4102: Science Center",
+    "tags": [
+      "Initiative for the Theoretical Sciences",
+      "Artificial Intelligence"
+    ]
   },
   {
-    "title": "Virtual Pop Up Enrollment",
-    "link": "https://www.york.cuny.edu/student-development/august_virtual-one-stop-to-register-hub-tuesdays",
-    "college": "York College",
-    "date": "2025-08-19",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
+    "title": "A'LELIA BUNDLES ON A'LELIA WALKER IN CONVERSATION WITH ERIC K. WASHINGTON",
+    "link": "https://www.gc.cuny.edu/events/alelia-bundles-alelia-walker-conversation-eric-k-washington",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-09",
+    "time": "6:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Leon Levy Center for Biography"
+    ]
   },
   {
-    "title": "Pop Up Enrollment",
-    "link": "https://www.york.cuny.edu/student-development/august_pop-up-enrollment-days-thursday",
-    "college": "York College",
-    "date": "2025-08-21",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-sept-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
   },
   {
-    "title": "First day of classes",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/first-day-of-classes-2",
-    "college": "York College",
-    "date": "2025-08-26",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
+    "title": "ADVANCED DRUPAL TRAINING",
+    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-sept-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
   },
   {
-    "title": "Fall 2025 Convocation",
-    "link": "https://www.york.cuny.edu/events/2025/convocation-fall",
-    "college": "York College",
-    "date": "2025-08-28",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
+    "title": "LIVE ESPARC TRAINING - SEPTEMBER 10, 2025",
+    "link": "https://www.gc.cuny.edu/events/live-esparc-training-september-10-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "2:00 pm — 3:00 pm",
+    "location": "Online",
+    "tags": [
+      "Compliance and Diversity"
+    ]
   },
   {
-    "title": "Summer 2025 Degree Conferral Date",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/summer-2025-degree-conferral-date",
-    "college": "York College",
-    "date": "2025-09-01",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
+    "title": "PH.D. PROGRAM IN SOCIAL WELFARE VIRTUAL OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/phd-program-social-welfare-virtual-open-house",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "5:30 pm — 7:00 pm",
+    "location": "Online",
+    "tags": [
+      "Social Welfare",
+      "Admissions"
+    ]
   },
   {
-    "title": "Financial Aid Certification Enrollment Status date",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/financial-aid-certification-enrollment-status-date-1",
-    "college": "York College",
-    "date": "2025-09-01",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
+    "title": "RURAL COUNTY, URBAN BOROUGH: HISTORY OF QUEENS BOOK LAUNCH & PANEL DISCUSSION",
+    "link": "https://www.gc.cuny.edu/events/rural-county-urban-borough-history-queens-book-launch-panel-discussion",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-11",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "1218: Segal Theatre",
+    "tags": [
+      "Center for Urban Research"
+    ]
+  },
+  {
+    "title": "BOOK LAUNCH : DICTATORSHIP ACROSS BORDERS",
+    "link": "https://www.gc.cuny.edu/events/book-launch-dictatorship-across-borders",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-11",
+    "time": "6:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Center for Latin American, Caribbean & Latino Studies",
+      "Humanities and Social Sciences"
+    ]
   },
   {
     "title": "Fall 2025 Welcome Week",
@@ -2657,6 +2631,14 @@
     "date": "2025-09-04",
     "time": "03:00 PM - 04:00 PM",
     "description": "Career Services Event"
+  },
+  {
+    "title": "QCC-Baruch Business Academy Info Sessions",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-04-qcc-baruch-business-academy-info-sessions.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-04",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "Transfer Resource Center Event"
   },
   {
     "title": "New Student Open House",
