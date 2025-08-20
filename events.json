@@ -2262,7 +2262,7 @@
   },
   {
     "title": "Dance in Dialog '25 Auditions",
-    "link": "https://www.lehman.edu/events/2025/Dance-in-Dialog-25-Auditions-1.php",
+    "link": "https://www.lehman.edu/events/2025/Dance-in-Dialog-25-Auditions.php",
     "college": "Lehman College",
     "date": "2025-08-29",
     "time": "5:00 PM- 8:00 PM",
@@ -2677,118 +2677,58 @@
     "tags": []
   },
   {
-    "title": "MA IN MIDDLE EASTERN STUDIES OPEN HOUSE - SEPTEMBER 2025",
-    "link": "https://www.gc.cuny.edu/events/ma-middle-eastern-studies-open-house-september-2025",
+    "title": "FRANTZ FANON AND THE FUTURE OF CULTURAL POLITICS",
+    "link": "https://www.gc.cuny.edu/events/frantz-fanon-and-future-cultural-politics",
     "college": "CUNY Graduate Center",
-    "date": "2025-09-04",
+    "date": "2025-09-26",
+    "time": "2:00 pm",
+    "location": "5409: DGSC Meeting Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "NATIONALISM, INTERNATIONALISM, COSMOPOLITANISM WITH PARTHA CHATERJEE",
+    "link": "https://www.gc.cuny.edu/events/nationalism-internationalism-cosmopolitanism-partha-chaterjee",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-02",
+    "time": "4:30 pm",
+    "location": "TBD",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
+    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-25",
     "time": "6:30 pm",
-    "location": "6304B: MEMEAC Student Lounge",
+    "location": "C198",
     "tags": [
-      "Middle Eastern Studies",
-      "Middle East and Middle Eastern American Center",
-      "Admissions"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "ANDREW BEVERIDGE MEMORIAL",
-    "link": "https://www.gc.cuny.edu/events/andrew-beveridge-memorial",
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
     "college": "CUNY Graduate Center",
-    "date": "2025-09-05",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Sociology"
-    ]
-  },
-  {
-    "title": "AI + PHYSICS WORKSHOP",
-    "link": "https://www.gc.cuny.edu/events/ai-physics-workshop",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-08",
+    "date": "2025-11-20",
     "time": "",
-    "location": "4102: Science Center",
-    "tags": [
-      "Initiative for the Theoretical Sciences",
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "title": "A'LELIA BUNDLES ON A'LELIA WALKER IN CONVERSATION WITH ERIC K. WASHINGTON",
-    "link": "https://www.gc.cuny.edu/events/alelia-bundles-alelia-walker-conversation-eric-k-washington",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-09",
-    "time": "6:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Leon Levy Center for Biography"
-    ]
-  },
-  {
-    "title": "DRUPAL BASICS TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-sept-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-10",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "ADVANCED DRUPAL TRAINING",
-    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-sept-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-10",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "LIVE ESPARC TRAINING - SEPTEMBER 10, 2025",
-    "link": "https://www.gc.cuny.edu/events/live-esparc-training-september-10-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-10",
-    "time": "2:00 pm — 3:00 pm",
-    "location": "Online",
-    "tags": [
-      "Compliance and Diversity"
-    ]
-  },
-  {
-    "title": "PH.D. PROGRAM IN SOCIAL WELFARE VIRTUAL OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/phd-program-social-welfare-virtual-open-house",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-10",
-    "time": "5:30 pm — 7:00 pm",
-    "location": "Online",
-    "tags": [
-      "Social Welfare",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "RURAL COUNTY, URBAN BOROUGH: HISTORY OF QUEENS BOOK LAUNCH & PANEL DISCUSSION",
-    "link": "https://www.gc.cuny.edu/events/rural-county-urban-borough-history-queens-book-launch-panel-discussion",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-11",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "1218: Segal Theatre",
-    "tags": [
-      "Center for Urban Research"
-    ]
-  },
-  {
-    "title": "BOOK LAUNCH : DICTATORSHIP ACROSS BORDERS",
-    "link": "https://www.gc.cuny.edu/events/book-launch-dictatorship-across-borders",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-11",
-    "time": "6:00 pm",
     "location": "9100: Skylight Room",
     "tags": [
-      "Center for Latin American, Caribbean & Latino Studies",
-      "Humanities and Social Sciences"
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
+    "tags": [
+      "Committee on Globalization and Social Change"
     ]
   },
   {
