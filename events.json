@@ -255,14 +255,6 @@
     ]
   },
   {
-    "title": "CUNY Transfer Application Workshop",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/23bff175-22e9-4335-964e-c823fbcc1b31",
-    "college": "Kingsborough Community College",
-    "date": "2025-08-19",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
     "title": "Career Virtual  Help",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a8ce8fba-efe6-4d83-aaf2-5b65b12ae44e",
     "college": "Kingsborough Community College",
@@ -364,14 +356,6 @@
     "college": "Kingsborough Community College",
     "date": "2025-10-07",
     "time": "10:00 AM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Job Fair Prep Workshop",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a081f50f-2b45-4c6b-b41c-da8e419d81da",
-    "college": "Kingsborough Community College",
-    "date": "2025-08-19",
-    "time": "03:00 PM - 03:30 PM",
     "tags": []
   },
   {
@@ -1632,37 +1616,6 @@
     ]
   },
   {
-    "title": "More Human Than the Machine? Teaching Writing in the Era of AI",
-    "link": "https://events.cuny.edu/cec/more-human-than-the-machine-teaching-writing-in-the-era-of-ai/",
-    "college": "College of Staten Island",
-    "date": "2025-08-19",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Center for Teaching and Learning",
-      "English"
-    ]
-  },
-  {
-    "title": "FERPA in the Real World: Protecting Student Privacy",
-    "link": "https://events.cuny.edu/cec/ferpa-in-the-real-world-protecting-student-privacy-3/",
-    "college": "College of Staten Island",
-    "date": "2025-08-19",
-    "time": "12:00 PM - 1:00 PM",
-    "tags": [
-      "Center for Teaching and Learning"
-    ]
-  },
-  {
-    "title": "Optimize Accessibility of Your Course Materials with ALLY in Brightspace",
-    "link": "https://events.cuny.edu/cec/optimize-accessibility-of-your-course-materials-with-ally-in-brightspace/",
-    "college": "College of Staten Island",
-    "date": "2025-08-19",
-    "time": "2:00 PM",
-    "tags": [
-      "Center for Teaching and Learning"
-    ]
-  },
-  {
     "title": "Teaching in an AI-Influenced World",
     "link": "https://events.cuny.edu/cec/teaching-in-an-ai-influenced-world/",
     "college": "College of Staten Island",
@@ -1714,84 +1667,24 @@
     ]
   },
   {
-    "title": "ITS Upgrade Project",
-    "link": "https://qc.event.cuny.edu/events/NidS4Ph3WRiv7bQNh5QR/CurJvHhH10opyaN1LHWH",
-    "college": "Queens College",
-    "date": "2025-08-19",
-    "time": "",
-    "tags": []
+    "title": "Lightning Talks on Syllabus Innovations",
+    "link": "https://events.cuny.edu/cec/lightning-talks-on-syllabus-innovations-2/",
+    "college": "College of Staten Island",
+    "date": "2025-08-21",
+    "time": "1:00 PM - 2:00 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
   },
   {
-    "title": "Summer Camp 2025 - Classrooms",
-    "link": "https://qc.event.cuny.edu/events/j9oTjVZLwJIJ4uopTLXL/I80f5LIHn7WHcW2AcyaB9",
-    "college": "Queens College",
-    "date": "2025-08-19",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025 - Computer Labs",
-    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/VoZ1LuYpYiuomF8rF5WE37",
-    "college": "Queens College",
-    "date": "2025-08-19",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025: Rain Location",
-    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T329",
-    "college": "Queens College",
-    "date": "2025-08-19",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Kessler Scholars Program: Summer Bridge Program",
-    "link": "https://qc.event.cuny.edu/events/KmsK5eRDctINTQCaCQS7/gKcXx5otJWN0mTA63nG7",
-    "college": "Queens College",
-    "date": "2025-08-19",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2025 Learning Commons Launch",
-    "link": "https://qc.event.cuny.edu/events/yeK5bpSA4NiELPC5BJsc/ofXxO0yHI2YQX0VegZrx",
-    "college": "Queens College",
-    "date": "2025-08-19",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer Camp 2025",
-    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y138",
-    "college": "Queens College",
-    "date": "2025-08-19",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "QSI program",
-    "link": "https://qc.event.cuny.edu/events/FUM1ZCHZTLRm7GgaxRI9/afTKxKspNiHklDBTtllQ",
-    "college": "Queens College",
-    "date": "2025-08-19",
-    "time": "8:30AM",
-    "tags": []
-  },
-  {
-    "title": "ACE ORIENTATION",
-    "link": "https://qc.event.cuny.edu/events/jNMlyOZOKFIH3XapkoI3/DjMvZKHJ7qoh9vL79ZxY",
-    "college": "Queens College",
-    "date": "2025-08-19",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "First Year Experience (FYE)",
-    "link": "https://qc.event.cuny.edu/events/mUxVHQBMoN9I1zZrG4Co/mHfjxsKc8c9SqFoMkGB8",
-    "college": "Queens College",
-    "date": "2025-08-19",
-    "time": "10:00AM",
-    "tags": []
+    "title": "Tips and Techniques to Enhance Your Slide Presentations: A Refresher",
+    "link": "https://events.cuny.edu/cec/tips-and-techniques-to-enhance-your-slide-presentations-a-refresher-2/",
+    "college": "College of Staten Island",
+    "date": "2025-08-21",
+    "time": "2:00 PM - 3:00 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
   },
   {
     "title": "Summer Camp 2025 - Computer Labs",
@@ -1850,6 +1743,86 @@
     "tags": []
   },
   {
+    "title": "ACE ORIENTATION",
+    "link": "https://qc.event.cuny.edu/events/xM8pu2ZircLZdGQC4s97/JdbgNVCdZehJjhKonYIg",
+    "college": "Queens College",
+    "date": "2025-08-20",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "First Year Experience (FYE",
+    "link": "https://qc.event.cuny.edu/events/N2zNnqsAgnJggCxYX8fV/j9ByHpzRIVJPamcbjSA8",
+    "college": "Queens College",
+    "date": "2025-08-20",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "QC Summer Undergraduate Research Program",
+    "link": "https://qc.event.cuny.edu/events/Zz5G1yvkS7jhAXzXDycj/dDT7g0zcxzccgrKILdg8",
+    "college": "Queens College",
+    "date": "2025-08-20",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Welcome Day",
+    "link": "https://qc.event.cuny.edu/events/IOMcXKWpYomxs8crtznP/QgJ0cW1xgoc3dWEr0HjM",
+    "college": "Queens College",
+    "date": "2025-08-21",
+    "time": "7:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025 - Computer Labs",
+    "link": "https://qc.event.cuny.edu/events/FWuWSKRMbltTRWw9uP5q/DELhPRy0IJQfP9T3Ewyk39",
+    "college": "Queens College",
+    "date": "2025-08-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025 - Classrooms",
+    "link": "https://qc.event.cuny.edu/events/j9oTjVZLwJIJ4uopTLXL/I80f5LIHn7WHcW2AcyaB11",
+    "college": "Queens College",
+    "date": "2025-08-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tournament Thursday - First Year Initiative",
+    "link": "https://qc.event.cuny.edu/events/RnLZxf7fXQJkqEgmrbWc/JvyjYrBizIZ1XNuxISOz",
+    "college": "Queens College",
+    "date": "2025-08-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Kessler Scholars Program: Summer Bridge Program",
+    "link": "https://qc.event.cuny.edu/events/KmsK5eRDctINTQCaCQS7/Obi9UJAkZ90WATxfFXYP",
+    "college": "Queens College",
+    "date": "2025-08-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025: Rain Location",
+    "link": "https://qc.event.cuny.edu/events/ycTT5iVHRunTgl7ghtJ5/XIYTrMPQPW0rzjyN47T331",
+    "college": "Queens College",
+    "date": "2025-08-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer Camp 2025",
+    "link": "https://qc.event.cuny.edu/events/Zah3rMsM1JlERDKydXIZ/qnOiuPijz5dEYWFZjB0Y140",
+    "college": "Queens College",
+    "date": "2025-08-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
     "title": "Fall Regular Session:\tClasses begin",
     "link": "https://baruch.event.cuny.edu/events/L0Pb9xEZk47NYDA0Tcg1/S6q3JuydzJqaYWH4TQZ8",
     "college": "Baruch College",
@@ -1863,94 +1836,6 @@
     "college": "Baruch College",
     "date": "2025-08-26",
     "time": "",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE In-Person Orientation (Breakout)",
-    "link": "https://citytech.event.cuny.edu/events/cSLjK3Eij3hjhswTZBJf/VAwP3KF1JvIwCmzNLltS",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-19",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Fall 2025 New Student Orientation",
-    "link": "https://citytech.event.cuny.edu/events/qE4JnT4UASiNEBDzQk3Z/J2KaACt1XbWDyjEimCQv2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-19",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Orientation",
-    "link": "https://citytech.event.cuny.edu/events/uh0BW26L8l1SYyvfOxoN/S4go7JXxmUoh7D9Fae7j",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-19",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "ASAP Orientation",
-    "link": "https://citytech.event.cuny.edu/events/QaMLkZcGhTdYTr5Kmu1M/Tca7xU1fSgwk9ggKyGFg",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-19",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "NYPIRG Training Week",
-    "link": "https://citytech.event.cuny.edu/events/f2RC5lujQmZeZyczki8d/ZuLUyIyOVlFmzmPccg8s",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-19",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE In-Person Orientation",
-    "link": "https://citytech.event.cuny.edu/events/eTjEckwQC0UJ9wJXU9ca/qMH7KfBQY9YGB4r7ULDb",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-19",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "New Faculty Orientation",
-    "link": "https://citytech.event.cuny.edu/events/F1Ig1pd583uvktPQz3QV/zhYHp1SYZzRzKQAtPcNw",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-19",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "Senior DH Orientation",
-    "link": "https://citytech.event.cuny.edu/events/A3Zros9YmIed14WUPiyt/EL0bY4mOhzaAjHVkMep7",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-19",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "DEN2300 Orientation",
-    "link": "https://citytech.event.cuny.edu/events/tss400IfhLspSg8RyX3t/YVwmjaHDjP70pxUQapKw",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-19",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Student Orientation",
-    "link": "https://citytech.event.cuny.edu/events/NmDsQ5occW5TpJAsljUD/xJJp91qvRC91SZOyy8kq",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-19",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Orientation for New Part-Time Faculty",
-    "link": "https://citytech.event.cuny.edu/events/CWl9oq8Z40Pq2l8T6cA4/am9RBQuwb572IUGoWknd",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-08-19",
-    "time": "4:00PM",
     "tags": []
   },
   {
@@ -2002,6 +1887,94 @@
     "tags": []
   },
   {
+    "title": "Orientation",
+    "link": "https://citytech.event.cuny.edu/events/b4lwodss8Bbo3zXRonF1/SEMqP4cEUDQ8BY3GT8fU",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Restorative Dentistry Department Orientation",
+    "link": "https://citytech.event.cuny.edu/events/M33vR9Fz8dgcbq4EJog4/GJo5B4uWTDjv8Pc5Hn8D",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-21",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2025 New Student Orientation",
+    "link": "https://citytech.event.cuny.edu/events/qE4JnT4UASiNEBDzQk3Z/J2KaACt1XbWDyjEimCQv4",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-21",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Training Week",
+    "link": "https://citytech.event.cuny.edu/events/f2RC5lujQmZeZyczki8d/vAB8u5pLOi6OH9VIcP35",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-21",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Dental Hygiene Freshmen Orientation",
+    "link": "https://citytech.event.cuny.edu/events/DQr1tjA2UAQmsTDIu8jY/nG522bkzVvesMdad98bH",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-21",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "DEN1100 Orientation",
+    "link": "https://citytech.event.cuny.edu/events/NMuz7te1XqzJzQ8i7rHo/vsioRWMDUfm3J7yQhvWF",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-21",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Training Week",
+    "link": "https://citytech.event.cuny.edu/events/f2RC5lujQmZeZyczki8d/tcvJ9Nvla0u5GZzpNwy9",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-22",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "CT Boost!",
+    "link": "https://citytech.event.cuny.edu/events/D3CmQpbMp9BPG4e34mY7/yNNBVDnh4oPkWfJY8rNi",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-22",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "CT Boost!",
+    "link": "https://citytech.event.cuny.edu/events/RvpbA8UYOgNbidYXtZpA/ga3rYk4j9k8kQONb9otc",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-22",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "CT Boost!",
+    "link": "https://citytech.event.cuny.edu/events/AHwCZkiK8oPDm6tuBoJ9/KJvcg3g0uHL0usDgthka",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-22",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "College Now:  Ambassador Orientation",
+    "link": "https://citytech.event.cuny.edu/events/b4q01I4mzCVejOkzQ4O9/TgdDS0uZSVH5sAMKfQHT",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-08-25",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
     "title": "Dominicanos USA (DUSA) Information Table",
     "link": "https://hostos.event.cuny.edu/events/BlxJG0B1lPna7APVlvJe/lh4Dd9ZxSknbSQQyJIc8",
     "college": "Hostos Community College",
@@ -2015,14 +1988,6 @@
     "college": "Hostos Community College",
     "date": "2025-08-26",
     "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Time and Energy: Fitting Asynchronous Learning into a Full Life",
-    "link": "https://sps.cuny.edu/about/events/time-and-energy-fitting-asynchronous-learning-into-a-full-life",
-    "college": "CUNY School of Professional Studies",
-    "date": "2025-08-19",
-    "time": "10:00 PM",
     "tags": []
   },
   {
@@ -2610,18 +2575,18 @@
     "tags": []
   },
   {
-    "title": "Direct Admissions (9:30 a.m.)",
-    "link": "https://www.york.cuny.edu/student-development/direct-admissions-9-30-a-m",
-    "college": "York College",
-    "date": "2025-08-20",
-    "time": "1:30 PM - 2:30 PM",
+    "title": "Online Information Session for Prospective Students",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/online-information-session/",
+    "college": "Macaulay Honors College",
+    "date": "2025-11-11",
+    "time": "4:00PM",
     "tags": []
   },
   {
     "title": "Direct Admissions (11:00 a.m.)",
     "link": "https://www.york.cuny.edu/student-development/direct-admissions-11-00-a-m",
     "college": "York College",
-    "date": "2025-08-20",
+    "date": "2025-08-21",
     "time": "3:00 PM - 4:00 PM",
     "tags": []
   },
@@ -2629,16 +2594,8 @@
     "title": "Direct Admissions (3:00 p.m.)",
     "link": "https://www.york.cuny.edu/student-development/direct-admissions-3-00-p-m",
     "college": "York College",
-    "date": "2025-08-20",
+    "date": "2025-08-21",
     "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Pop Up Enrollment",
-    "link": "https://www.york.cuny.edu/student-development/august_virtual-one-stop-to-register-hub-tuesdays",
-    "college": "York College",
-    "date": "2025-08-20",
-    "time": "7:00 PM - 9:00 PM",
     "tags": []
   },
   {
@@ -2679,6 +2636,22 @@
     "college": "York College",
     "date": "2025-09-01",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment rosters available to faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/verification-of-enrollment-rosters-available-to-faculty-1",
+    "college": "York College",
+    "date": "2025-09-02",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Soccer vs. SUNY Maritime",
+    "link": "https://www.york.cuny.edu/events/2025/womens-soccer-vs-maritime-09022025",
+    "college": "York College",
+    "date": "2025-09-02",
+    "time": "7:00 PM - 9:00 PM",
     "tags": []
   },
   {
