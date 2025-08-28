@@ -56,6 +56,14 @@
     "tags": []
   },
   {
+    "title": "Freelancing Workshops - Applications Due",
+    "link": "https://www.ccny.cuny.edu/calendar/freelancing-workshops-applications-due",
+    "college": "City College of New York",
+    "date": "2025-09-10",
+    "time": "09:00 AM - 11:59 PM",
+    "tags": []
+  },
+  {
     "title": "Biochemistry Seminar: Antonio Cerullo, \"Publishing in Structural Biology, Biochemistry, & Biophysics\"",
     "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-antonio-cerullo-publishing-structural-biology-biochemistry-biophysics",
     "college": "City College of New York",
@@ -325,6 +333,14 @@
     "college": "City College of New York",
     "date": "2025-10-30",
     "time": "05:30 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "YASS! Mondays",
+    "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-13",
+    "college": "City College of New York",
+    "date": "2025-11-03",
+    "time": "12:00 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -1682,6 +1698,16 @@
     "tags": []
   },
   {
+    "title": "\"Water Proof\": Exploring the Spring 25 CENTRO Journal on Afro-Puerto Ricans",
+    "link": "https://hunter.cuny.edu/event/water-proof-exploring-the-spring-25-centro-journal-on-afro-puerto-ricans/",
+    "college": "Hunter College",
+    "date": "2025-09-09",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
     "title": "Practice your Pitch for the Career Fair",
     "link": "https://hunter.cuny.edu/event/practice-your-pitch-for-the-career-fair/",
     "college": "Hunter College",
@@ -1798,26 +1824,6 @@
     ]
   },
   {
-    "title": "Graduate Admissions Information Session",
-    "link": "https://hunter.cuny.edu/event/graduate-admissions-information-session-26/",
-    "college": "Hunter College",
-    "date": "2025-09-23",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Student Orientations: BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/student-orientations-bmcc-writing-center/2025-08-28/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-28",
-    "time": "11:00 AM - 11:30 AM",
-    "tags": [
-      "Academic Affairs",
-      "Featured",
-      "Writing Center"
-    ]
-  },
-  {
     "title": "How to Apply to BMCC & Live Help Hour Workshop",
     "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-2-2/",
     "college": "Borough of Manhattan Community College",
@@ -1827,6 +1833,18 @@
       "Admissions",
       "Evening-Weekend",
       "Featured"
+    ]
+  },
+  {
+    "title": "Student Orientations: BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/student-orientations-bmcc-writing-center/2025-08-29/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-08-29",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "Academic Affairs",
+      "Featured",
+      "Writing Center"
     ]
   },
   {
@@ -2081,20 +2099,6 @@
     ]
   },
   {
-    "title": "Walk & Talk with a Mentor - Campus Tour (259223-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11440524",
-    "college": "College of Staten Island",
-    "date": "2025-08-28",
-    "time": "02:15 PM - 03:45 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "PG CLUE",
-      "Weeks of Welcome",
-      "Willowbrook Campus"
-    ]
-  },
-  {
     "title": "ALPFA CSI: Student Resources & Mentorship",
     "link": "https://csi.campuslabs.com/engage/event/11488527",
     "college": "College of Staten Island",
@@ -2150,6 +2154,7 @@
     "tags": [
       "ThoughtfulLearning",
       "PG CLUE",
+      "VELA",
       "Sustainability"
     ]
   },
@@ -2606,14 +2611,6 @@
   },
   {
     "title": "Student Orientations: BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005467",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-08-29",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Student Orientations: BMCC Writing Center",
     "link": "https://www.bmcc.cuny.edu/event/?p=10005468",
     "college": "Borough of Manhattan Community College",
     "date": "2025-09-02",
@@ -2665,6 +2662,14 @@
     "tags": [
       "Structural Biology"
     ]
+  },
+  {
+    "title": "Student Orientations: BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005470",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-03",
+    "time": "11:00 AM - 11:30 AM",
+    "tags": []
   },
   {
     "title": "FA25 Hold off room",
@@ -3163,14 +3168,6 @@
     "tags": []
   },
   {
-    "title": "Luau Welcome Bash",
-    "link": "https://www.jjay.cuny.edu/news-events/events/luau-welcome-bash",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-08-28",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
     "title": "Labor Day",
     "link": "https://www.jjay.cuny.edu/news-events/events/labor-day",
     "college": "John Jay College of Criminal Justice",
@@ -3347,6 +3344,14 @@
     "tags": []
   },
   {
+    "title": "Transfer Speed Networking",
+    "link": "https://www.jjay.cuny.edu/news-events/events/transfer-speed-networking-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-09-16",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
     "title": "Diversity Reception",
     "link": "https://macaulay.cuny.edu/calendar-of-events/diversity-reception-2/",
     "college": "Macaulay Honors College",
@@ -3427,30 +3432,6 @@
     "tags": []
   },
   {
-    "title": "Breakfast with CUNYEDGE",
-    "link": "https://www.york.cuny.edu/events/breakfast-with-cunyedge",
-    "college": "York College",
-    "date": "2025-08-28",
-    "time": "2:00 PM - 4:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-08-28",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-08-28",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "Fall 2025 Convocation",
     "link": "https://www.york.cuny.edu/events/2025/convocation-fall",
     "college": "York College",
@@ -3472,6 +3453,30 @@
     "college": "York College",
     "date": "2025-08-28",
     "time": "8:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Breakfast with CUNYEDGE",
+    "link": "https://www.york.cuny.edu/events/breakfast-with-cunyedge",
+    "college": "York College",
+    "date": "2025-08-29",
+    "time": "2:00 PM - 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-08-29",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-08-29",
+    "time": "4:00 PM - 7:00 PM",
     "tags": []
   },
   {
