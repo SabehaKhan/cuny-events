@@ -1547,7 +1547,7 @@
     ]
   },
   {
-    "title": "SNAP Eligibility Workshop",
+    "title": "SNAP Eligibility Info Session",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376480",
     "college": "Guttman Community College",
     "date": "2025-10-06",
@@ -1557,7 +1557,8 @@
       "Workshop",
       "Connect Center",
       "Weeks Of Welcome",
-      "Food - Lunch "
+      "Food - Lunch",
+      "Information Session"
     ]
   },
   {
@@ -1583,6 +1584,33 @@
       "EMSA",
       "Educational/Awareness",
       "AccessABILITY Services"
+    ]
+  },
+  {
+    "title": "Guttman Stands with Immigrants",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376481",
+    "college": "Guttman Community College",
+    "date": "2025-11-06",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "EMSA",
+      "Social",
+      "Food - Lunch",
+      "Immigrant Student Success"
+    ]
+  },
+  {
+    "title": "Klein Scholar Reception",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376482",
+    "college": "Guttman Community College",
+    "date": "2025-11-13",
+    "time": "06:15 PM - 07:45 PM",
+    "tags": [
+      "EMSA",
+      "Social",
+      "Immigrant Student Success",
+      "Food - Lunch",
+      "Information Session"
     ]
   },
   {
@@ -1942,6 +1970,7 @@
     "date": "2025-09-11",
     "time": "09:00 AM - 03:00 PM",
     "tags": [
+      "Featured",
       "Office of Student Activities (OSA)",
       "Student Affairs"
     ]
@@ -2033,19 +2062,6 @@
     ]
   },
   {
-    "title": "Life Dance / Biodanza",
-    "link": "https://www.bmcc.cuny.edu/event/life-dance-biodanza/2025-09-30/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-30",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "Co-Curricular Transcript",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "National Voter Education Week",
     "link": "https://www.bmcc.cuny.edu/event/national-voter-education-week/2025-10-03/",
     "college": "Borough of Manhattan Community College",
@@ -2093,18 +2109,6 @@
     ]
   },
   {
-    "title": "Mind Your Anxiety Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/mind-your-anxiety-workshop/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-20",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Crafting Your Future: Resume and Cover Letter Workshop",
     "link": "https://www.bmcc.cuny.edu/event/crafting-your-future-resume-and-cover-letter-workshop-2/",
     "college": "Borough of Manhattan Community College",
@@ -2130,21 +2134,6 @@
     ]
   },
   {
-    "title": "Self-Defense Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/self-defense-workshop/2025-10-27/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-27",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "CUNY in The Heights",
-      "Featured",
-      "Learning Resource Center",
-      "Pride Center",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "From Applicant to Employee: How to Succeed in Your Next Interview",
     "link": "https://www.bmcc.cuny.edu/event/from-applicant-to-employee-how-to-succeed-in-your-next-interview-8/",
     "college": "Borough of Manhattan Community College",
@@ -2154,6 +2143,32 @@
       "Career Workshops/Fairs",
       "Center for Career Development",
       "Featured"
+    ]
+  },
+  {
+    "title": "Volunteer Fair",
+    "link": "https://www.bmcc.cuny.edu/event/volunteer-fair-9/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Civic Engagement",
+      "Featured",
+      "Office of Student Activities (OSA)",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Election Hero Day",
+    "link": "https://www.bmcc.cuny.edu/event/election-hero-day/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-03",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Civic Engagement",
+      "Featured",
+      "Office of Student Activities (OSA)",
+      "Student Affairs"
     ]
   },
   {
@@ -3538,6 +3553,94 @@
     "college": "Macaulay Honors College",
     "date": "2025-10-09",
     "time": "6:30PM",
+    "tags": []
+  },
+  {
+    "title": "Breakfast with CUNYEDGE",
+    "link": "https://www.york.cuny.edu/events/breakfast-with-cunyedge",
+    "college": "York College",
+    "date": "2025-08-29",
+    "time": "2:00 PM - 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-08-29",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-08-29",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Faculty & Staff Dedicated Fitness Center Hours",
+    "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-08-29",
+    "time": "8:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Summer 2025 Degree Conferral Date",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/summer-2025-degree-conferral-date",
+    "college": "York College",
+    "date": "2025-09-01",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Financial Aid Certification Enrollment Status date",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/financial-aid-certification-enrollment-status-date-1",
+    "college": "York College",
+    "date": "2025-09-01",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Nursing Accreditation Site Visit",
+    "link": "https://www.york.cuny.edu/events/2025/nursing-accreditation-site-visit",
+    "college": "York College",
+    "date": "2025-09-01",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment rosters available to faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/verification-of-enrollment-rosters-available-to-faculty-1",
+    "college": "York College",
+    "date": "2025-09-02",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Outdoor Track and Open Tennis",
+    "link": "https://www.york.cuny.edu/events/2025/outdoor-track-tennis-fall-2025",
+    "college": "York College",
+    "date": "2025-09-02",
+    "time": "6:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Soccer vs. SUNY Maritime",
+    "link": "https://www.york.cuny.edu/events/2025/womens-soccer-vs-maritime-09022025",
+    "college": "York College",
+    "date": "2025-09-02",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Evening",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
+    "college": "York College",
+    "date": "2025-09-02",
+    "time": "8:00 PM - 11:00 PM",
     "tags": []
   },
   {
