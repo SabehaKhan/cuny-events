@@ -1686,6 +1686,16 @@
     ]
   },
   {
+    "title": "New Student Convocation",
+    "link": "https://hunter.cuny.edu/event/new-student-convocation-4/",
+    "college": "Hunter College",
+    "date": "2025-09-03",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Exploring your Potential: Career Success Strategies for First Year Students",
     "link": "https://hunter.cuny.edu/event/exploring-your-potential-career-success-strategies-for-first-year-students/",
     "college": "Hunter College",
@@ -1854,16 +1864,6 @@
     ]
   },
   {
-    "title": "Cafecito con... Marisol Negron & Matti Steinitz: The Revolutionary Notes of Salsa & Latin Soul",
-    "link": "https://hunter.cuny.edu/event/cafecito-con-marisol-negron-matti-steinitz-the-revolutionary-notes-of-salsa-latin-soul/",
-    "college": "Hunter College",
-    "date": "2025-09-19",
-    "time": "06:00 PM - 06:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
     "title": "Student Orientations: BMCC Writing Center",
     "link": "https://www.bmcc.cuny.edu/event/student-orientations-bmcc-writing-center/2025-08-29/",
     "college": "Borough of Manhattan Community College",
@@ -1970,7 +1970,6 @@
     "date": "2025-09-11",
     "time": "09:00 AM - 03:00 PM",
     "tags": [
-      "Featured",
       "Office of Student Activities (OSA)",
       "Student Affairs"
     ]
@@ -2062,6 +2061,19 @@
     ]
   },
   {
+    "title": "Life Dance / Biodanza",
+    "link": "https://www.bmcc.cuny.edu/event/life-dance-biodanza/2025-09-30/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-30",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Co-Curricular Transcript",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "National Voter Education Week",
     "link": "https://www.bmcc.cuny.edu/event/national-voter-education-week/2025-10-03/",
     "college": "Borough of Manhattan Community College",
@@ -2109,6 +2121,18 @@
     ]
   },
   {
+    "title": "Mind Your Anxiety Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/mind-your-anxiety-workshop/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-20",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Crafting Your Future: Resume and Cover Letter Workshop",
     "link": "https://www.bmcc.cuny.edu/event/crafting-your-future-resume-and-cover-letter-workshop-2/",
     "college": "Borough of Manhattan Community College",
@@ -2134,6 +2158,21 @@
     ]
   },
   {
+    "title": "Self-Defense Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/self-defense-workshop/2025-10-27/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-27",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "CUNY in The Heights",
+      "Featured",
+      "Learning Resource Center",
+      "Pride Center",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "From Applicant to Employee: How to Succeed in Your Next Interview",
     "link": "https://www.bmcc.cuny.edu/event/from-applicant-to-employee-how-to-succeed-in-your-next-interview-8/",
     "college": "Borough of Manhattan Community College",
@@ -2143,32 +2182,6 @@
       "Career Workshops/Fairs",
       "Center for Career Development",
       "Featured"
-    ]
-  },
-  {
-    "title": "Volunteer Fair",
-    "link": "https://www.bmcc.cuny.edu/event/volunteer-fair-9/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-28",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Civic Engagement",
-      "Featured",
-      "Office of Student Activities (OSA)",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Election Hero Day",
-    "link": "https://www.bmcc.cuny.edu/event/election-hero-day/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-03",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Civic Engagement",
-      "Featured",
-      "Office of Student Activities (OSA)",
-      "Student Affairs"
     ]
   },
   {
@@ -3915,6 +3928,14 @@
     "date": "2025-09-10",
     "time": "01:00 PM - 04:00 PM",
     "description": "Financial Aid Event"
+  },
+  {
+    "title": "In-Person Walk-In Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-10-In-Person-Walk-In-Resume-Hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-10",
+    "time": "02:00 PM - 03:30 PM",
+    "description": "Career Services Event"
   },
   {
     "title": "New Student Open House",
