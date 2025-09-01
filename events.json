@@ -1722,6 +1722,16 @@
     "tags": []
   },
   {
+    "title": "Canary Islands January Program Info Session",
+    "link": "https://hunter.cuny.edu/event/canary-islands-january-program-info-session/",
+    "college": "Hunter College",
+    "date": "2025-09-09",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Study Abroad"
+    ]
+  },
+  {
     "title": "\"Water Proof\": Exploring the Spring 25 CENTRO Journal on Afro-Puerto Ricans",
     "link": "https://hunter.cuny.edu/event/water-proof-exploring-the-spring-25-centro-journal-on-afro-puerto-ricans/",
     "college": "Hunter College",
@@ -1729,6 +1739,16 @@
     "time": "06:00 PM - 06:00 PM",
     "tags": [
       "Lectures"
+    ]
+  },
+  {
+    "title": "Mexico January Program Info Session",
+    "link": "https://hunter.cuny.edu/event/mexico-january-program-info-session/",
+    "college": "Hunter College",
+    "date": "2025-09-10",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Study Abroad"
     ]
   },
   {
@@ -1775,6 +1795,16 @@
     ]
   },
   {
+    "title": "Italian Renaissance Program Info Session",
+    "link": "https://hunter.cuny.edu/event/italian-renaissance-program-info-session/",
+    "college": "Hunter College",
+    "date": "2025-09-11",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Study Abroad"
+    ]
+  },
+  {
     "title": "Arts Meet-Up",
     "link": "https://hunter.cuny.edu/event/arts-meet-up/",
     "college": "Hunter College",
@@ -1787,7 +1817,7 @@
   },
   {
     "title": "Coffee Connections with Career Coaches",
-    "link": "https://hunter.cuny.edu/event/pitch-perfect-mastering-your-elevator-pitch-for-job-interviews/",
+    "link": "https://hunter.cuny.edu/event/coffee-connections/",
     "college": "Hunter College",
     "date": "2025-09-15",
     "time": "10:00 AM - 12:00 PM",
@@ -1862,41 +1892,6 @@
     "tags": [
       "Career Center",
       "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Style Your Success",
-    "link": "https://hunter.cuny.edu/event/style-your-success/",
-    "college": "Hunter College",
-    "date": "2025-09-15",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Public Interest Tech Panel",
-    "link": "https://hunter.cuny.edu/event/public-interest-tech-panel/",
-    "college": "Hunter College",
-    "date": "2025-09-15",
-    "time": "06:00 PM - 07:30 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Professional Headshots",
-    "link": "https://hunter.cuny.edu/event/professional-headshots-2/",
-    "college": "Hunter College",
-    "date": "2025-09-16",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": [
-      "Career Center",
       "Student Events"
     ]
   },
@@ -3687,6 +3682,119 @@
     "date": "2025-09-05",
     "time": "8:00 PM - 11:00 PM",
     "tags": []
+  },
+  {
+    "title": "BUILDING SOLIDARITIES: MARIANNA PAVLOVSKAYA AND CELINA SU IN CONVERSATION WITH LAUREN HUDSON",
+    "link": "https://www.gc.cuny.edu/events/building-solidarities-marianna-pavlovskaya-and-celina-su-conversation-lauren-hudson",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-04",
+    "time": "4:15 pm — 6:15 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Earth and Environmental Sciences"
+    ]
+  },
+  {
+    "title": "GEOS COLLOQUIUM, DR. JAMES EGUCHI",
+    "link": "https://www.gc.cuny.edu/events/geos-colloquium-dr-james-eguchi",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-04",
+    "time": "",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Earth and Environmental Sciences"
+    ]
+  },
+  {
+    "title": "MA IN MIDDLE EASTERN STUDIES OPEN HOUSE - SEPTEMBER 2025",
+    "link": "https://www.gc.cuny.edu/events/ma-middle-eastern-studies-open-house-september-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-04",
+    "time": "6:30 pm",
+    "location": "6304B: MEMEAC Student Lounge",
+    "tags": [
+      "Middle Eastern Studies",
+      "Middle East and Middle Eastern American Center",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "ANDREW BEVERIDGE MEMORIAL",
+    "link": "https://www.gc.cuny.edu/events/andrew-beveridge-memorial",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-05",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Sociology"
+    ]
+  },
+  {
+    "title": "CONVERSATION: CITIES AND POSSIBLE WORLDS. DYSTOPIA AND CONTROL STATES IN THE CONTEMPORARY LATIN AMERICAN NOVEL.",
+    "link": "https://www.gc.cuny.edu/events/conversation-cities-and-possible-worlds-dystopia-and-control-states-contemporary-latin-american",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-05",
+    "time": "4:00 pm — 5:30 pm",
+    "location": "4116: LAILAC Student Lounge",
+    "tags": [
+      "Latin American, Iberian, and Latino Cultures"
+    ]
+  },
+  {
+    "title": "AI + PHYSICS WORKSHOP",
+    "link": "https://www.gc.cuny.edu/events/ai-physics-workshop",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-08",
+    "time": "",
+    "location": "4102: Science Center",
+    "tags": [
+      "Initiative for the Theoretical Sciences",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "BRAINE HOUR FALL 2025 STEM SOCIAL",
+    "link": "https://www.gc.cuny.edu/events/braine-hour-fall-2025-stem-social",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-08",
+    "time": "5:00 pm — 8:00 pm",
+    "location": "5409: DGSC Meeting Room",
+    "tags": [
+      "Biology"
+    ]
+  },
+  {
+    "title": "RECEPTION FOR PRESS & PULL: TWO DECADES AT THE ROBERT BLACKBURN PRINTMAKING WORKSHOP",
+    "link": "https://www.gc.cuny.edu/events/reception-press-pull-two-decades-robert-blackburn-printmaking-workshop",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-09",
+    "time": "6:00 pm — 8:00 pm",
+    "location": "1200: James Art Gallery",
+    "tags": [
+      "Art History"
+    ]
+  },
+  {
+    "title": "A'LELIA BUNDLES ON A'LELIA WALKER IN CONVERSATION WITH ERIC K. WASHINGTON",
+    "link": "https://www.gc.cuny.edu/events/alelia-bundles-alelia-walker-conversation-eric-k-washington",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-09",
+    "time": "6:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Leon Levy Center for Biography"
+    ]
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-sept-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-10",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
   },
   {
     "title": "QCC Resource Fair & Welcome Event",
