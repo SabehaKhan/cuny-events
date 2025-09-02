@@ -88,6 +88,14 @@
     "tags": []
   },
   {
+    "title": "Symposium on the Video Game Industry",
+    "link": "https://www.ccny.cuny.edu/calendar/symposium-video-game-industry",
+    "college": "City College of New York",
+    "date": "2025-09-16",
+    "time": "10:00 AM - 01:45 PM",
+    "tags": []
+  },
+  {
     "title": "Biochemistry Seminar: Tarun Kapoor, \"Chemical activators of VCP, an unfoldase required for proteostasis\"",
     "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-tarun-kapoor-chemical-activators-vcp-unfoldase-required-proteostasis",
     "college": "City College of New York",
@@ -1093,6 +1101,14 @@
     "tags": []
   },
   {
+    "title": "NCAS Virtual Information Session",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/ffd7b6a4-018f-408d-b31a-fb531100f5d9",
+    "college": "Kingsborough Community College",
+    "date": "2025-09-11",
+    "time": "04:30 PM - 04:30 PM",
+    "tags": []
+  },
+  {
     "title": "SUNY Binghamton: Virtual Transfer Tuesdays - Nursing Transfer Prerequisites",
     "link": "https://www.laguardia.edu/event/suny-binghamton-virtual-transfer-tuesdays-nursing-transfer-prerequisites/",
     "college": "LaGuardia Community College",
@@ -1470,18 +1486,6 @@
     ]
   },
   {
-    "title": "Constitution Day Bingo",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376485",
-    "college": "Guttman Community College",
-    "date": "2025-09-17",
-    "time": "04:00 PM - 05:30 PM",
-    "tags": [
-      "EMSA",
-      "Educational/Awareness",
-      "AccessABILITY Services"
-    ]
-  },
-  {
     "title": "Play with Puppies",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376439",
     "college": "Guttman Community College",
@@ -1609,16 +1613,6 @@
       "Immigrant Student Success",
       "Food - Lunch",
       "Information Session"
-    ]
-  },
-  {
-    "title": "Study Abroad 101 Webinars",
-    "link": "https://hunter.cuny.edu/event/study-abroad-101-webinars-18/",
-    "college": "Hunter College",
-    "date": "2025-09-02",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Study Abroad"
     ]
   },
   {
@@ -1894,35 +1888,27 @@
     ]
   },
   {
+    "title": "Style Your Success",
+    "link": "https://hunter.cuny.edu/event/style-your-success/",
+    "college": "Hunter College",
+    "date": "2025-09-15",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
     "title": "Student Orientations: BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/student-orientations-bmcc-writing-center/2025-09-02/1/",
+    "link": "https://www.bmcc.cuny.edu/event/student-orientations-bmcc-writing-center/2025-09-02/2/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-09-02",
-    "time": "10:00 AM - 10:30 AM",
+    "time": "03:00 PM - 03:30 PM",
     "tags": [
       "Academic Affairs",
       "Featured",
       "Writing Center"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-96/2025-09-02/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-02",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-259/2025-09-02/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-02",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions"
     ]
   },
   {
@@ -1959,6 +1945,16 @@
     ]
   },
   {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-96/2025-09-04/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-04",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
     "title": "How to Apply to BMCC and Live Help Hour Workshop",
     "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-and-live-help-hour-workshop/2025-09-04/",
     "college": "Borough of Manhattan Community College",
@@ -1982,6 +1978,16 @@
     ]
   },
   {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-259/2025-09-09/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-09",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
     "title": "Welcome Back Super Fair: You're Invited!",
     "link": "https://www.bmcc.cuny.edu/event/welcome-back-super-fair-youre-invited-3/",
     "college": "Borough of Manhattan Community College",
@@ -1991,6 +1997,17 @@
       "Featured",
       "New Student Programs",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "Baruch College Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/baruch-college-information-session-9/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-10",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Academic Advisement & Transfer",
+      "Featured"
     ]
   },
   {
@@ -2185,31 +2202,6 @@
     ]
   },
   {
-    "title": "Crafting Your Future: Resume and Cover Letter Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/crafting-your-future-resume-and-cover-letter-workshop-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-23",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Vote Early Day",
-    "link": "https://www.bmcc.cuny.edu/event/vote-early-day/2025-10-27/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-27",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": [
-      "Civic Engagement",
-      "Featured",
-      "Office of Student Activities (OSA)",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2025-09-05/",
     "college": "Bronx Community College",
@@ -2349,6 +2341,16 @@
     ]
   },
   {
+    "title": "Elections and Advocacy Commission (Student Government)",
+    "link": "https://csi.campuslabs.com/engage/event/11535025",
+    "college": "College of Staten Island",
+    "date": "2025-09-04",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "CommunityService"
+    ]
+  },
+  {
     "title": "Walk & Talk with a Mentor - Campus Tour (259223-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11440528",
     "college": "College of Staten Island",
@@ -2360,6 +2362,16 @@
       "PG CLUE",
       "Weeks of Welcome",
       "Willowbrook Campus"
+    ]
+  },
+  {
+    "title": "Islamic Trivia",
+    "link": "https://csi.campuslabs.com/engage/event/11535330",
+    "college": "College of Staten Island",
+    "date": "2025-09-04",
+    "time": "06:30 PM - 08:00 PM",
+    "tags": [
+      "ThoughtfulLearning"
     ]
   },
   {
@@ -2533,6 +2545,18 @@
     ]
   },
   {
+    "title": "Elections and Advocacy Commission (Student Government)",
+    "link": "https://csi.campuslabs.com/engage/event/11538901",
+    "college": "College of Staten Island",
+    "date": "2025-09-16",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "CommunityService",
+      "Volunteer",
+      "Group Business"
+    ]
+  },
+  {
     "title": "Career Center: Children's Aid Information Session (259013-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11359238",
     "college": "College of Staten Island",
@@ -2554,6 +2578,17 @@
       "Learning",
       "CC CLUE",
       "Sustainability"
+    ]
+  },
+  {
+    "title": "Black Student Union Semester Launch",
+    "link": "https://csi.campuslabs.com/engage/event/11535452",
+    "college": "College of Staten Island",
+    "date": "2025-09-16",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Social",
+      "Learning"
     ]
   },
   {
@@ -2623,6 +2658,16 @@
       "Equity and Inclusion",
       "Film and Television",
       "Virtual event (online offering)"
+    ]
+  },
+  {
+    "title": "Open Minds Exchange \"Welcome Back\" Event",
+    "link": "https://csi.campuslabs.com/engage/event/11535521",
+    "college": "College of Staten Island",
+    "date": "2025-09-18",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Social"
     ]
   },
   {
@@ -2723,6 +2768,18 @@
     ]
   },
   {
+    "title": "Elections and Advocacy Commission (Student Government)",
+    "link": "https://csi.campuslabs.com/engage/event/11538902",
+    "college": "College of Staten Island",
+    "date": "2025-09-30",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "CommunityService",
+      "Volunteer",
+      "Group Business"
+    ]
+  },
+  {
     "title": "College Consortium for International Studied (CCIS) Study Abroad Fair",
     "link": "https://csi.campuslabs.com/engage/event/11527886",
     "college": "College of Staten Island",
@@ -2780,11 +2837,11 @@
     ]
   },
   {
-    "title": "Student Orientations: BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005469",
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005592",
     "college": "Borough of Manhattan Community College",
     "date": "2025-09-02",
-    "time": "03:00 PM - 03:30 PM",
+    "time": "12:00 PM - 01:00 PM",
     "tags": []
   },
   {
@@ -3650,22 +3707,6 @@
     "tags": []
   },
   {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-09-02",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-02",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "Outdoor Track and Open Tennis",
     "link": "https://www.york.cuny.edu/events/2025/outdoor-track-tennis-fall-2025",
     "college": "York College",
@@ -3687,6 +3728,22 @@
     "college": "York College",
     "date": "2025-09-02",
     "time": "11:00 PM - 1:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-09-03",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-03",
+    "time": "4:00 PM - 7:00 PM",
     "tags": []
   },
   {
