@@ -1,13 +1,5 @@
 [
   {
-    "title": "Civil Engineering Event Test Three",
-    "link": "https://www.ccny.cuny.edu/calendar/civil-engineering-event-test-three",
-    "college": "City College of New York",
-    "date": "2025-09-03",
-    "time": "01:00 AM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Biochemistry Seminar: Enrique R. Rojas, \"Smart Bacterial Materials\"",
     "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-enrique-r-rojas-smart-bacterial-materials",
     "college": "City College of New York",
@@ -1138,6 +1130,38 @@
     "college": "Kingsborough Community College",
     "date": "2025-09-11",
     "time": "04:30 PM - 04:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Let's Talk Tuesday",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/dbb0fc07-c5e4-4ea3-b8ee-adc0c6d3aa5b",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-25",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Silent Disco Party",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/f56f1baa-e308-4ef8-86dc-e82f28f7a5fc",
+    "college": "Kingsborough Community College",
+    "date": "2025-12-02",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Holiday Arts and Crafts",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/4dd7a840-5874-4cf8-bb4d-f55000262deb",
+    "college": "Kingsborough Community College",
+    "date": "2025-12-04",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Good Luck Finals Breakfast",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/03bdae38-011a-4577-b06b-0014cb52317e",
+    "college": "Kingsborough Community College",
+    "date": "2025-12-09",
+    "time": "01:30 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -3198,11 +3222,27 @@
     "tags": []
   },
   {
+    "title": "Volleyball Games",
+    "link": "https://hostos.event.cuny.edu/events/L8EdOZE0xAWsLJ2e8bvH/zE137ND40jcRqjnTyqFM",
+    "college": "Hostos Community College",
+    "date": "2025-09-04",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
     "title": "Transfer Tabling",
     "link": "https://hostos.event.cuny.edu/events/jXAiSToSTjq65QteyHeC/DvuvTq6L4g8KX2alPWjX",
     "college": "Hostos Community College",
     "date": "2025-09-09",
     "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Volleyball Games",
+    "link": "https://hostos.event.cuny.edu/events/L8EdOZE0xAWsLJ2e8bvH/ZdICZibGUfEmr3OXnC9T",
+    "college": "Hostos Community College",
+    "date": "2025-09-09",
+    "time": "4:00PM",
     "tags": []
   },
   {
@@ -3470,14 +3510,6 @@
     "tags": []
   },
   {
-    "title": "Why Tutoring? Engage with Your Learning",
-    "link": "https://www.jjay.cuny.edu/news-events/events/why-tutoring-engage-your-learning",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-03",
-    "time": "05:30 AM",
-    "tags": []
-  },
-  {
     "title": "Involvement Fair",
     "link": "https://www.jjay.cuny.edu/news-events/events/involvement-fair",
     "college": "John Jay College of Criminal Justice",
@@ -3654,6 +3686,14 @@
     "tags": []
   },
   {
+    "title": "Pop-Up Library",
+    "link": "https://www.jjay.cuny.edu/news-events/events/pop-library-1",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-09-16",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
     "title": "Diversity Reception",
     "link": "https://macaulay.cuny.edu/calendar-of-events/diversity-reception-2/",
     "college": "Macaulay Honors College",
@@ -3731,6 +3771,142 @@
     "college": "Macaulay Honors College",
     "date": "2025-10-08",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-09-03",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-03",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Outdoor Track and Open Tennis",
+    "link": "https://www.york.cuny.edu/events/2025/outdoor-track-tennis-fall-2025",
+    "college": "York College",
+    "date": "2025-09-03",
+    "time": "6:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Men's Soccer vs. Purchase College",
+    "link": "https://www.york.cuny.edu/events/2025/mens-soccer-vs-purchase-09022025",
+    "college": "York College",
+    "date": "2025-09-03",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Evening",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
+    "college": "York College",
+    "date": "2025-09-03",
+    "time": "8:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "York's Big Carnival",
+    "link": "https://www.york.cuny.edu/events/yorks-big-carnival",
+    "college": "York College",
+    "date": "2025-09-04",
+    "time": "4:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Faculty & Staff Dedicated Fitness Center Hours",
+    "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-05",
+    "time": "8:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
+    "college": "York College",
+    "date": "2025-09-08",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Initial/Substitute Appointments",
+    "link": "https://www.york.cuny.edu/events/2025/initial-substitute-appointments",
+    "college": "York College",
+    "date": "2025-09-09",
+    "time": "1:30 PM - 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "The Cardinal Scavenger Hunt",
+    "link": "https://www.york.cuny.edu/events/the-cardinal-scavenger-hunt",
+    "college": "York College",
+    "date": "2025-09-09",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Tennis vs. John Jay College",
+    "link": "https://www.york.cuny.edu/events/2025/womens-tennis-vs-john-jay-09092025",
+    "college": "York College",
+    "date": "2025-09-09",
+    "time": "7:30 PM - 9:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Volleyball vs. Medgar Evers College",
+    "link": "https://www.york.cuny.edu/events/2025/womens-volleyball-vs-medgar-evers-09002025",
+    "college": "York College",
+    "date": "2025-09-09",
+    "time": "11:00 PM - 1:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Soccer vs. SUNY Maritime",
+    "link": "https://www.york.cuny.edu/events/2025/mens-soccer-vs-maritime-09102025",
+    "college": "York College",
+    "date": "2025-09-10",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Bystander Intervention Training",
+    "link": "https://www.york.cuny.edu/womens-center/bystander-intervention-training",
+    "college": "York College",
+    "date": "2025-09-11",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Tennis vs. Albertus Magnus College",
+    "link": "https://www.york.cuny.edu/events/2025/womens-tennis-vs-albertus-magnus-09112025",
+    "college": "York College",
+    "date": "2025-09-11",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Weekend Students Picnic",
+    "link": "https://www.york.cuny.edu/events/2025/weekend-students-picnic",
+    "college": "York College",
+    "date": "2025-09-13",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Soccer vs. Cedar Crest College",
+    "link": "https://www.york.cuny.edu/events/2025/womens-soccer-vs-cedar-crest-09132025",
+    "college": "York College",
+    "date": "2025-09-13",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
