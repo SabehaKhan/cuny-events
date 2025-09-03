@@ -520,16 +520,6 @@
     "tags": []
   },
   {
-    "title": "Welcome Week 2025: College Spirit Wednesday",
-    "link": "https://www.mec.cuny.edu/event/welcome-week-2025-college-spirit-wednesday/",
-    "college": "Medgar Evers College",
-    "date": "2025-09-03",
-    "time": "11:30 AM - 01:00 PM",
-    "tags": [
-      "Student Life"
-    ]
-  },
-  {
     "title": "Welcome Week 2025: Cougar Movie Marathon",
     "link": "https://www.mec.cuny.edu/event/welcome-week-2025-cougar-movie-marathon/",
     "college": "Medgar Evers College",
@@ -547,6 +537,17 @@
     "time": "11:30 AM - 03:00 PM",
     "tags": [
       "Student Life"
+    ]
+  },
+  {
+    "title": "LAUNCH! Finders Keepers: Sustainable Thrift Hub",
+    "link": "https://www.mec.cuny.edu/event/launch-finders-keepers-sustainable-thrift-hub/",
+    "college": "Medgar Evers College",
+    "date": "2025-09-15",
+    "time": "11:30 AM - 01:00 PM",
+    "tags": [
+      "Center for Women's Development",
+      "Transition Academy"
     ]
   },
   {
@@ -725,14 +726,6 @@
       "Speaker",
       "Special Event"
     ]
-  },
-  {
-    "title": "Your Road Map to Bar Exam Success",
-    "link": "https://www.law.cuny.edu/event/your-road-map-to-bar-exam-success/",
-    "college": "CUNY School of Law",
-    "date": "2025-10-15",
-    "time": "03:00 PM - 05:30 PM",
-    "tags": []
   },
   {
     "title": "An evening with prison journalist John Lennon, author of \"The Tragedy of True Crime: Four Guilty Men and the Stories that Define Us\"",
@@ -1698,14 +1691,6 @@
     ]
   },
   {
-    "title": "Welcome Breakfast",
-    "link": "https://hunter.cuny.edu/event/welcome-breakfast/",
-    "college": "Hunter College",
-    "date": "2025-09-03",
-    "time": "10:00 AM - 11:30 AM",
-    "tags": []
-  },
-  {
     "title": "Field Day Activities",
     "link": "https://hunter.cuny.edu/event/field-day-activities/",
     "college": "Hunter College",
@@ -1888,6 +1873,14 @@
     ]
   },
   {
+    "title": "Jerry Mahoney Success Seminar",
+    "link": "https://hunter.cuny.edu/event/jerry-mahoney-success-seminar/",
+    "college": "Hunter College",
+    "date": "2025-09-11",
+    "time": "07:00 PM - 09:00 PM",
+    "tags": []
+  },
+  {
     "title": "Coffee Connections with Career Coaches",
     "link": "https://hunter.cuny.edu/event/coffee-connections/",
     "college": "Hunter College",
@@ -1906,6 +1899,18 @@
     "time": "10:00 AM - 05:00 PM",
     "tags": [
       "Career Center",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Pitch Perfect: Mastering Your Elevator Pitch for Job Interviews",
+    "link": "https://hunter.cuny.edu/event/pitch-perfect-mastering-your-elevator-pitch-for-job-interviews/",
+    "college": "Hunter College",
+    "date": "2025-09-15",
+    "time": "11:00 AM - 11:30 AM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
       "Student Events"
     ]
   },
@@ -1968,30 +1973,6 @@
     ]
   },
   {
-    "title": "Style Your Success",
-    "link": "https://hunter.cuny.edu/event/style-your-success/",
-    "college": "Hunter College",
-    "date": "2025-09-15",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Student Orientations: BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/student-orientations-bmcc-writing-center/2025-09-03/1/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-03",
-    "time": "11:00 AM - 11:30 AM",
-    "tags": [
-      "Academic Affairs",
-      "Featured",
-      "Writing Center"
-    ]
-  },
-  {
     "title": "Admissions Information Session (In-Person)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-50/2025-09-03/",
     "college": "Borough of Manhattan Community College",
@@ -2022,6 +2003,18 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "Student Orientations: BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/student-orientations-bmcc-writing-center/2025-09-03/2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-03",
+    "time": "05:00 PM - 05:30 PM",
+    "tags": [
+      "Academic Affairs",
+      "Featured",
+      "Writing Center"
     ]
   },
   {
@@ -2362,20 +2355,6 @@
     "tags": []
   },
   {
-    "title": "Walk & Talk with a Mentor - Campus Tour (259223-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11440527",
-    "college": "College of Staten Island",
-    "date": "2025-09-03",
-    "time": "02:15 PM - 03:45 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "PG CLUE",
-      "Weeks of Welcome",
-      "Willowbrook Campus"
-    ]
-  },
-  {
     "title": "Weekly Tea Time",
     "link": "https://csi.campuslabs.com/engage/event/11507167",
     "college": "College of Staten Island",
@@ -2678,6 +2657,18 @@
     ]
   },
   {
+    "title": "Bertha Harris Women's Center Presents: Social Mingle Bingo",
+    "link": "https://csi.campuslabs.com/engage/event/11549786",
+    "college": "College of Staten Island",
+    "date": "2025-09-18",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "Social",
+      "Health and Wellness",
+      "Entertainment"
+    ]
+  },
+  {
     "title": "THE AMAZING WELLNESS RACE",
     "link": "https://csi.campuslabs.com/engage/event/11383187",
     "college": "College of Staten Island",
@@ -2747,19 +2738,6 @@
     "tags": [
       "Arts",
       "Film and Television"
-    ]
-  },
-  {
-    "title": "WOW Lecture - Asian/Asian American Students and Mental Health: Challenges and Voices",
-    "link": "https://csi.campuslabs.com/engage/event/11541369",
-    "college": "College of Staten Island",
-    "date": "2025-09-19",
-    "time": "04:20 PM - 05:10 PM",
-    "tags": [
-      "Cultural",
-      "Learning",
-      "Health and Wellness",
-      "Global Engagement"
     ]
   },
   {
@@ -2852,6 +2830,17 @@
     ]
   },
   {
+    "title": "CSI Sustainability: Let's Clean Up The Beach",
+    "link": "https://csi.campuslabs.com/engage/event/11399425",
+    "college": "College of Staten Island",
+    "date": "2025-10-03",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Social",
+      "Sustainability"
+    ]
+  },
+  {
     "title": "CAB Film Showings: How to Train Your Dragon (2025)",
     "link": "https://csi.campuslabs.com/engage/event/11366319",
     "college": "College of Staten Island",
@@ -2935,10 +2924,10 @@
   },
   {
     "title": "Student Orientations: BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005471",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005470",
     "college": "Borough of Manhattan Community College",
     "date": "2025-09-03",
-    "time": "05:00 PM - 05:30 PM",
+    "time": "11:00 AM - 11:30 AM",
     "tags": []
   },
   {
@@ -3458,7 +3447,7 @@
     "link": "https://www.lehman.edu/events/2025/Learn-Feel-and-Live-Better-An-In-Person-Conversation-with-Jenny-Anderson-and-Rebecca-Winthrop-authors-of-The-Disengaged-Teen-Helping-Kids-Learn-Better-Feel-Better-and-Live-Better-.php",
     "college": "Lehman College",
     "date": "2025-09-09",
-    "time": "8:55 AM- 8:55 AM",
+    "time": "1:00 PM- 3:00 PM",
     "tags": []
   },
   {
@@ -3507,30 +3496,6 @@
     "college": "Lehman College",
     "date": "2025-09-10",
     "time": "5:00 PM- 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Involvement Fair",
-    "link": "https://www.jjay.cuny.edu/news-events/events/involvement-fair",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-03",
-    "time": "05:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Pop-Up Library",
-    "link": "https://www.jjay.cuny.edu/news-events/events/pop-library-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-03",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
-    "title": "Math & Science Resource Center Open House",
-    "link": "https://www.jjay.cuny.edu/news-events/events/math-science-resource-center-open-house",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-03",
-    "time": "06:00 PM",
     "tags": []
   },
   {
@@ -3694,6 +3659,22 @@
     "tags": []
   },
   {
+    "title": "Town Hall",
+    "link": "https://www.jjay.cuny.edu/news-events/events/town-hall-3",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-09-17",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
+    "title": "Sophomore Kickoff",
+    "link": "https://www.jjay.cuny.edu/news-events/events/sophomore-kickoff",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-09-17",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
     "title": "Diversity Reception",
     "link": "https://macaulay.cuny.edu/calendar-of-events/diversity-reception-2/",
     "college": "Macaulay Honors College",
@@ -3774,22 +3755,6 @@
     "tags": []
   },
   {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-09-03",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-03",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "Outdoor Track and Open Tennis",
     "link": "https://www.york.cuny.edu/events/2025/outdoor-track-tennis-fall-2025",
     "college": "York College",
@@ -3811,6 +3776,22 @@
     "college": "York College",
     "date": "2025-09-03",
     "time": "8:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-09-04",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-04",
+    "time": "4:00 PM - 7:00 PM",
     "tags": []
   },
   {
@@ -3843,6 +3824,14 @@
     "college": "York College",
     "date": "2025-09-09",
     "time": "1:30 PM - 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Major Mingle",
+    "link": "https://www.york.cuny.edu/events/major-mingle",
+    "college": "York College",
+    "date": "2025-09-09",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -3891,22 +3880,6 @@
     "college": "York College",
     "date": "2025-09-11",
     "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Weekend Students Picnic",
-    "link": "https://www.york.cuny.edu/events/2025/weekend-students-picnic",
-    "college": "York College",
-    "date": "2025-09-13",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Soccer vs. Cedar Crest College",
-    "link": "https://www.york.cuny.edu/events/2025/womens-soccer-vs-cedar-crest-09132025",
-    "college": "York College",
-    "date": "2025-09-13",
-    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
