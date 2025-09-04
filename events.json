@@ -1,13 +1,5 @@
 [
   {
-    "title": "Sound and Directing - Sept 3",
-    "link": "https://www.ccny.cuny.edu/calendar/sound-and-directing-sept-3",
-    "college": "City College of New York",
-    "date": "2025-09-03",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": []
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-8",
     "college": "City College of New York",
@@ -1417,18 +1409,6 @@
     ]
   },
   {
-    "title": "CUNY Spring Forward Internship Info Session",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376453",
-    "college": "Guttman Community College",
-    "date": "2025-09-03",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "CCPP",
-      "Job/Volunteer Opportunities",
-      "Information Session"
-    ]
-  },
-  {
     "title": "The HUB Hour: Coming Fall 2025",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376417",
     "college": "Guttman Community College",
@@ -1473,11 +1453,37 @@
     ]
   },
   {
+    "title": "NYC Men Teach Info Session!!!",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376489",
+    "college": "Guttman Community College",
+    "date": "2025-09-09",
+    "time": "09:00 PM - 10:00 PM",
+    "tags": [
+      "TCH",
+      "Workshop",
+      "Weeks Of Welcome",
+      "United Men of Color",
+      "Information Session"
+    ]
+  },
+  {
+    "title": "Complete your NYC Men Teach App",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376490",
+    "college": "Guttman Community College",
+    "date": "2025-09-10",
+    "time": "09:00 PM - 10:00 PM",
+    "tags": [
+      "TCH",
+      "Workshop",
+      "United Men of Color"
+    ]
+  },
+  {
     "title": "Club Fair",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376472",
     "college": "Guttman Community College",
     "date": "2025-09-11",
-    "time": "03:00 PM - 05:00 PM",
+    "time": "05:15 AM - 06:45 PM",
     "tags": [
       "OSL",
       "Social",
@@ -1924,51 +1930,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (In-Person)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-50/2025-09-03/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-03",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Academic Success for International Students",
-    "link": "https://www.bmcc.cuny.edu/event/academic-success-for-international-students/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-03",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-97/2025-09-03/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-03",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Student Orientations: BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/student-orientations-bmcc-writing-center/2025-09-03/2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-03",
-    "time": "05:00 PM - 05:30 PM",
-    "tags": [
-      "Academic Affairs",
-      "Featured",
-      "Writing Center"
-    ]
-  },
-  {
     "title": "Take a Tour of BMCC’s Campus",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-96/2025-09-04/",
     "college": "Borough of Manhattan Community College",
@@ -1987,6 +1948,29 @@
     "tags": [
       "Admissions",
       "Evening-Weekend"
+    ]
+  },
+  {
+    "title": "Student Orientations: BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/student-orientations-bmcc-writing-center/2025-09-04/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-04",
+    "time": "01:00 PM - 01:30 PM",
+    "tags": [
+      "Academic Affairs",
+      "Featured",
+      "Writing Center"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-97/2025-09-04/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-04",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -2045,6 +2029,17 @@
     "tags": [
       "Featured",
       "Health Services"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (In-Person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-50/2025-09-10/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-10",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -2218,6 +2213,18 @@
     "link": "https://www.bmcc.cuny.edu/event/storytelling-101/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-10-09",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Networking as an Introvert",
+    "link": "https://www.bmcc.cuny.edu/event/networking-as-an-introvert-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-16",
     "time": "02:00 PM - 03:00 PM",
     "tags": [
       "Career Workshops/Fairs",
@@ -2770,6 +2777,19 @@
     ]
   },
   {
+    "title": "Resume Writing for Success",
+    "link": "https://csi.campuslabs.com/engage/event/11558006",
+    "college": "College of Staten Island",
+    "date": "2025-09-25",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "Weeks of Welcome",
+      "Career Development"
+    ]
+  },
+  {
     "title": "Elections and Advocacy Commission (Student Government)",
     "link": "https://csi.campuslabs.com/engage/event/11538902",
     "college": "College of Staten Island",
@@ -2850,169 +2870,141 @@
     ]
   },
   {
-    "title": "Biochemistry Seminar: Enrique R. Rojas, “Smart Bacterial Materials”",
-    "link": "https://events.cuny.edu/cec/biochemistry-seminar-enrique-r-rojas-smart-bacterial-materials/",
-    "college": "The City College of New York",
-    "date": "2025-09-03",
-    "time": "12:00 PM - 1:00 PM",
-    "tags": [
-      "Enrique R. Rojas"
-    ]
-  },
-  {
-    "title": "Sound and Directing – Sept 3",
-    "link": "https://events.cuny.edu/cec/sound-and-directing-sept-3/",
-    "college": "The City College of New York",
-    "date": "2025-09-03",
-    "time": "6:00 PM - 8:00 PM",
-    "tags": [
-      "Emily Strong"
-    ]
-  },
-  {
-    "title": "Sound and Directing – with Emily Strong",
-    "link": "https://events.cuny.edu/cec/sound-and-directing-with-emily-strong/",
+    "title": "Balancing Work & Life, the Asian Way (Online Talk)",
+    "link": "https://events.cuny.edu/cec/balancing-work-life-the-asian-way-online-talk/",
     "college": "Asian American / Asian Research Institute",
-    "date": "2025-09-03",
-    "time": "6:00 PM - 8:00 PM",
+    "date": "2025-09-05",
+    "time": "12:00 PM - 1:00 PM",
     "tags": []
   },
   {
-    "title": "Fall ’25 Biochem Seminar: Assistant Professor Enrique R. Rojas",
-    "link": "https://asrc.gc.cuny.edu/event/fall-25-biochem-seminar-assistant-professor-enrique-r-rojas/",
-    "college": "Advanced Science Research Center, GC/CUNY",
-    "date": "2025-09-03",
-    "time": "12:00 PM - 1:00 PM",
+    "title": "Student Orientations: BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005473",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-05",
+    "time": "02:00 PM - 02:30 PM",
+    "tags": []
+  },
+  {
+    "title": "YASS! Mondays",
+    "link": "https://events.cuny.edu/cec/yass-mondays-10/",
+    "college": "The City College of New York",
+    "date": "2025-09-08",
+    "time": "12:00 PM - 4:00 PM",
     "tags": [
-      "Structural Biology"
+      "LGBTQI+"
     ]
   },
   {
     "title": "Student Orientations: BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005472",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005474",
     "college": "Borough of Manhattan Community College",
-    "date": "2025-09-04",
-    "time": "01:00 PM - 01:30 PM",
+    "date": "2025-09-08",
+    "time": "10:00 AM - 10:30 AM",
     "tags": []
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005607",
+    "title": "NYC Men Teach Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005623",
     "college": "Borough of Manhattan Community College",
-    "date": "2025-09-04",
+    "date": "2025-09-08",
     "time": "03:00 PM - 04:00 PM",
     "tags": []
   },
   {
     "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh10",
+    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh11",
     "college": "Queens College",
-    "date": "2025-09-03",
+    "date": "2025-09-04",
     "time": "",
     "tags": []
   },
   {
-    "title": "Emblem Health",
-    "link": "https://qc.event.cuny.edu/events/Oz1fWh9seBq00KusmEpv/ru2vFaLmrP7NT2EJnAqF",
+    "title": "Townsend Harris HS",
+    "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/PN8tuYPimqapOkembCiX2",
     "college": "Queens College",
-    "date": "2025-09-03",
+    "date": "2025-09-04",
+    "time": "7:30AM",
+    "tags": []
+  },
+  {
+    "title": "Emblem Health",
+    "link": "https://qc.event.cuny.edu/events/Oz1fWh9seBq00KusmEpv/WFWrQw9q3NkUFVWJCmpq",
+    "college": "Queens College",
+    "date": "2025-09-04",
     "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "New Faculty Reception 2025",
-    "link": "https://qc.event.cuny.edu/events/fexrRo9kDEGFeVCE3jce/cd4fwK03Nr63Bn2BPd7d",
+    "title": "QSI Math Stretched Course",
+    "link": "https://qc.event.cuny.edu/events/ZkUDk3QHKnSvkl0C8rNp/eGRzH3rWU4b71NuoXVFJ4",
     "college": "Queens College",
-    "date": "2025-09-03",
-    "time": "9:00AM",
+    "date": "2025-09-04",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Townsend Harris HS",
-    "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/sKtZ0wTOoIQ8IBw8wPri2",
+    "title": "Art workshop- Reflective Art Journaling",
+    "link": "https://qc.event.cuny.edu/events/Y72JmelqzkPPk6houwNV/xUlDPTyPxQkPdqKUUrul",
     "college": "Queens College",
-    "date": "2025-09-03",
-    "time": "10:30AM",
+    "date": "2025-09-04",
+    "time": "1:00PM",
     "tags": []
   },
   {
-    "title": "SEES Welcome Event",
-    "link": "https://qc.event.cuny.edu/events/vfjjZ6oT1cOEB9AfSbKk/igcv9a0h6Kt96MFaZOPS",
+    "title": "Fall 2025 - Silent Disco",
+    "link": "https://qc.event.cuny.edu/events/G6pQ7T0JpXQUhFW2Plx6/Xcg3BNfD4Zsy6IT1Yhvh",
     "college": "Queens College",
-    "date": "2025-09-03",
-    "time": "11:00AM",
+    "date": "2025-09-04",
+    "time": "6:00PM",
     "tags": []
   },
   {
-    "title": "CETLL Faculty Orientation",
-    "link": "https://qc.event.cuny.edu/events/OgEvwsgHG1Ldkip0jKwY/qse92FjTzrRFyHGetck9",
+    "title": "FA25 Hold off room",
+    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh12",
     "college": "Queens College",
-    "date": "2025-09-03",
-    "time": "11:00AM",
+    "date": "2025-09-05",
+    "time": "",
     "tags": []
   },
   {
-    "title": "Students-athletes 2025-26 Welcome Day!",
-    "link": "https://qc.event.cuny.edu/events/O75IhQZtrx8NGxgY70P9/QXZC5LyXUpLClUXU8Bmj",
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/RlT6YY3gItN2evoFt1wT10",
     "college": "Queens College",
-    "date": "2025-09-03",
-    "time": "12:00PM",
+    "date": "2025-09-05",
+    "time": "",
     "tags": []
   },
   {
-    "title": "Harvest Fest - Fall 2025",
-    "link": "https://qc.event.cuny.edu/events/S5bVOSXE48aBzhhh5VxP/m5ryJqjIcBrL3E5tSSxi",
+    "title": "DOE Special Services Mtg",
+    "link": "https://qc.event.cuny.edu/events/TL9mFhgfO1gx5aAamqnk/oezfYh2Uh64PTYkrvkA9",
     "college": "Queens College",
-    "date": "2025-09-03",
-    "time": "12:00PM",
+    "date": "2025-09-05",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "First Year Experience (FYE)",
-    "link": "https://qc.event.cuny.edu/events/psCYkz5CO9hkesj4WeSp/Jt6Lx3sCo7nQnmf6wlYV",
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/NidS4Ph3WRiv7bQNh5QR/aU833DjCn8RS7YgMOufz2",
     "college": "Queens College",
-    "date": "2025-09-03",
-    "time": "12:15PM",
+    "date": "2025-09-05",
+    "time": "1:00PM",
     "tags": []
   },
   {
-    "title": "Math Review Sessions",
-    "link": "https://qc.event.cuny.edu/events/Bmj8lw00m6mvNzQ93gTu/O9HKthrPgy6HtU7lkSi82",
+    "title": "FA25 Hold off room",
+    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh13",
     "college": "Queens College",
-    "date": "2025-09-03",
-    "time": "12:15PM",
+    "date": "2025-09-06",
+    "time": "",
     "tags": []
   },
   {
-    "title": "ACE Program Activities",
-    "link": "https://qc.event.cuny.edu/events/yhOXkhEr8QFpdc2u5B24/VbnyWSmw9pZUL4XeNeoz",
+    "title": "FA25 Hold off room",
+    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh14",
     "college": "Queens College",
-    "date": "2025-09-03",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Workshops",
-    "link": "https://qc.event.cuny.edu/events/P9vSfSPGwd6yHGxRD8y0/ZDueb4GWCJyOm9krt5xd3",
-    "college": "Queens College",
-    "date": "2025-09-03",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "FYE Workshops",
-    "link": "https://qc.event.cuny.edu/events/Vga3CSDm9VFt8ouNhtE2/ZsO1hORYRSHmyYgPF0zb",
-    "college": "Queens College",
-    "date": "2025-09-03",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Computer Science Colloquium",
-    "link": "https://qc.event.cuny.edu/events/eA7fEkl2VUZSN1DCn5Hy/mrU6Xyt04NR90eqEn6Wp",
-    "college": "Queens College",
-    "date": "2025-09-03",
-    "time": "12:15PM",
+    "date": "2025-09-07",
+    "time": "",
     "tags": []
   },
   {
@@ -3048,43 +3040,19 @@
     "tags": []
   },
   {
-    "title": "Course substitutions for Fall 2025 submission due in DARR",
-    "link": "https://citytech.event.cuny.edu/events/M08veTvmLWMieeVAIAma/EuJ6D8AxAjAkZfKWKyRS",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-03",
-    "time": "",
+    "title": "DIRTBAG BILLIONAIRE: A Conversation with David Gelles on Patagonia",
+    "link": "https://baruch.event.cuny.edu/events/LPwE7fU1zcoXYpj0B5XR/V0cQR9Vr61gFI5QSD9bO",
+    "college": "Baruch College",
+    "date": "2025-09-11",
+    "time": "12:00PM",
     "tags": []
   },
   {
-    "title": "clinical sessions",
-    "link": "https://citytech.event.cuny.edu/events/IzFrCozKLtfaJBZbfhIe/F4fTNH2uaz2LoMNjx1kk",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-03",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "US Marines Information Tabling",
-    "link": "https://citytech.event.cuny.edu/events/AUgGutCEvzSfXScUnKpq/AZ3z6XLGv1mlwhKBfXlb112",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-03",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "Restoring  Momentum Success Course",
-    "link": "https://citytech.event.cuny.edu/events/U21UenBMJMrcqqp5hPGN/VvJaXmAC9JQA72DtYwxP",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-03",
-    "time": "1:30PM",
-    "tags": []
-  },
-  {
-    "title": "Student Life & Department: Peer Navigator Lounge Hours",
-    "link": "https://citytech.event.cuny.edu/events/RzuPjzhhOyLBnx5u1mSt/frlDOWIOwTJR6JqjQPS4",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-03",
-    "time": "4:00PM",
+    "title": "Dirtbag Billionaire: How Yvon Chouinard Built Patagonia, Made a Fortune, and Gave It All Away",
+    "link": "https://baruch.event.cuny.edu/events/JhPg5OuVbnT805SyfMp8/YsuxWr5tggtUQlpYiRqL",
+    "college": "Baruch College",
+    "date": "2025-09-11",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -3181,6 +3149,30 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-09-08",
     "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/D0GiXVdptET3GZkpCc1e/wPiw0vyYixbqNdkEK6RV2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-09-09",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tour of New Building Theatre",
+    "link": "https://citytech.event.cuny.edu/events/XQmfrVLBK1kQa54T4TGk/KUGkK5qefAH9r57neqwD",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-09-09",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "SLD: Content Creator Meet-Up",
+    "link": "https://citytech.event.cuny.edu/events/NKqkrfavsUgwWiKgHAmF/bdncopO9g7zE1OlPwDCR",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-09-09",
+    "time": "12:30PM",
     "tags": []
   },
   {
@@ -3728,14 +3720,6 @@
     "tags": []
   },
   {
-    "title": "Men's Soccer vs. Purchase College",
-    "link": "https://www.york.cuny.edu/events/2025/mens-soccer-vs-purchase-09022025",
-    "college": "York College",
-    "date": "2025-09-03",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
     "title": "Open Gymnasium + Indoor Track",
     "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
     "college": "York College",
@@ -3856,6 +3840,22 @@
     "tags": []
   },
   {
+    "title": "Weekend Students Picnic",
+    "link": "https://www.york.cuny.edu/events/2025/weekend-students-picnic",
+    "college": "York College",
+    "date": "2025-09-13",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Soccer vs. Cedar Crest College",
+    "link": "https://www.york.cuny.edu/events/2025/womens-soccer-vs-cedar-crest-09132025",
+    "college": "York College",
+    "date": "2025-09-13",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
     "title": "BUILDING SOLIDARITIES: MARIANNA PAVLOVSKAYA AND CELINA SU IN CONVERSATION WITH LAUREN HUDSON",
     "link": "https://www.gc.cuny.edu/events/building-solidarities-marianna-pavlovskaya-and-celina-su-conversation-lauren-hudson",
     "college": "CUNY Graduate Center",
@@ -3969,28 +3969,20 @@
     ]
   },
   {
-    "title": "QCC Resource Fair & Welcome Event",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-03-qcc-resource-fair-welcome-event.html",
+    "title": "Calle y Ritmo",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-18-calle-y-ritmo.html",
     "college": "Queensborough Community College",
-    "date": "2025-09-03",
-    "time": "12:00 PM - 02:00 PM",
+    "date": "2025-09-18",
+    "time": "03:00 PM - 05:00 PM",
     "description": ""
   },
   {
-    "title": "Calendar of Events",
-    "link": "https://www.qcc.cuny.edu/calendar/index.html",
+    "title": "QCC Club Fair Fall 2025",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-10-qcc-club-fair-fall-2025.html",
     "college": "Queensborough Community College",
-    "date": "2025-09-03",
+    "date": "2025-09-10",
     "time": "12:00 PM - 02:00 PM",
     "description": ""
-  },
-  {
-    "title": "In-Person Walk-In Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-03-In-Person-Walk-In-Resume-Hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-03",
-    "time": "02:00 PM - 03:30 PM",
-    "description": "Career Services Event"
   },
   {
     "title": "CUNY Transfer Application Workshop",
@@ -4105,14 +4097,6 @@
     "description": "Student Event"
   },
   {
-    "title": "QCC Club Fair Fall 2025",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-10-qcc-club-fair-fall-2025.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-10",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Club Event"
-  },
-  {
     "title": "Women's Group",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-10-womens-group.html",
     "college": "Queensborough Community College",
@@ -4145,12 +4129,12 @@
     "description": "Transfer Resource Center Event"
   },
   {
-    "title": "New Student Open House",
-    "link": "https://www.eventbrite.com/e/new-student-open-house-tickets-1475017971459?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-09-03",
-    "time": "09:00 PM - 10:15 PM",
-    "description": "Join us to connect with fellow students and hear how the Learning Hub can help you navigate and succeed at SLU. We’ll offer tips for returning students and refreshments will be provided. <br><b>*Please sign up by 3pm on 9/3*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/new-student-open-house-tickets-1475017971459?aff=oddtdtcreator\">HERE</a></b>"
+    "title": "No Experience? No Problem!–CUNY Spring Forward Internships",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-11-no-experience-no-problem-cuny-spring-forward-internships.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-11",
+    "time": "11:00 AM - 12:00 PM",
+    "description": "ASAP Career Event"
   },
   {
     "title": "New Student Open House",
