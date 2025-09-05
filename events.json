@@ -665,73 +665,6 @@
     ]
   },
   {
-    "title": "Wills and Trust: Practical Skills to Protect and Prepare (CLE)",
-    "link": "https://www.law.cuny.edu/event/wills-and-trust-practical-skills-cle/",
-    "college": "CUNY School of Law",
-    "date": "2025-09-09",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "Alumni",
-      "CLE - Continuing Legal Education"
-    ]
-  },
-  {
-    "title": "Protecting the Rights of Incarcerated People: Legal Remedies and Limitations (CLE)",
-    "link": "https://www.law.cuny.edu/event/protecting-the-rights-of-incarcerated-people-cle/",
-    "college": "CUNY School of Law",
-    "date": "2025-09-17",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "Alumni",
-      "CLE - Continuing Legal Education"
-    ]
-  },
-  {
-    "title": "Mass Incarceration, Slave Labor: Behind the Gates of the 13th Amendment",
-    "link": "https://www.law.cuny.edu/event/mass-incarceration-slave-labor-behind-the-gates-of-the-13th-amendment/",
-    "college": "CUNY School of Law",
-    "date": "2025-09-17",
-    "time": "06:00 PM - 09:00 PM",
-    "tags": [
-      "Info Session",
-      "Lecture",
-      "Networking Event",
-      "Panel Discussion",
-      "Speaker",
-      "Special Event"
-    ]
-  },
-  {
-    "title": "An evening with prison journalist John Lennon, author of \"The Tragedy of True Crime: Four Guilty Men and the Stories that Define Us\"",
-    "link": "https://www.law.cuny.edu/event/an-evening-with-prison-journalist-john-lennon-author-of-the-tragedy-of-true-crime-four-guilty-men-and-the-stories-that-define-us/",
-    "college": "CUNY School of Law",
-    "date": "2025-10-15",
-    "time": "06:00 PM - 09:00 PM",
-    "tags": [
-      "Alumni",
-      "Networking Event",
-      "Panel Discussion",
-      "Partner Event",
-      "Special Event"
-    ]
-  },
-  {
-    "title": "Abolition in an Era of Immigration Detention",
-    "link": "https://www.law.cuny.edu/event/abolition-in-an-era-of-immigration-detention/",
-    "college": "CUNY School of Law",
-    "date": "2025-11-10",
-    "time": "05:00 PM - 07:00 PM",
-    "tags": [
-      "Alumni",
-      "Lecture",
-      "Networking Event",
-      "Panel Discussion",
-      "Partner Event",
-      "Special Event",
-      "Student"
-    ]
-  },
-  {
     "title": "Career Virtual  Help",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a8ce8fba-efe6-4d83-aaf2-5b65b12ae44e",
     "college": "Kingsborough Community College",
@@ -3791,14 +3724,6 @@
     "tags": []
   },
   {
-    "title": "Initial/Substitute Appointments",
-    "link": "https://www.york.cuny.edu/events/2025/initial-substitute-appointments",
-    "college": "York College",
-    "date": "2025-09-09",
-    "time": "1:30 PM - 4:00 PM",
-    "tags": []
-  },
-  {
     "title": "SEEK Meet 2025",
     "link": "https://www.york.cuny.edu/seek/events/seek-meet-2025",
     "college": "York College",
@@ -3884,6 +3809,14 @@
     "college": "York College",
     "date": "2025-09-13",
     "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "ACBSP Accreditation Site Visit",
+    "link": "https://www.york.cuny.edu/events/2025/acbsp-accreditation-site-visit",
+    "college": "York College",
+    "date": "2025-09-14",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
@@ -4013,22 +3946,6 @@
     "date": "2025-09-10",
     "time": "12:00 PM - 02:00 PM",
     "description": ""
-  },
-  {
-    "title": "Welcome Back and Spotlight on Student Success",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-05-welcome-back-and-spotlight-on-student-success.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-05",
-    "time": "09:00 AM - 05:00 PM",
-    "description": "Conference and Workshop"
-  },
-  {
-    "title": "Women's Group",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-05-womens-group.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-05",
-    "time": "09:10 AM - 11:00 AM",
-    "description": "Special Event / Fair"
   },
   {
     "title": "Paint N' Chill Student Workshop",
@@ -4165,6 +4082,22 @@
     "date": "2025-09-12",
     "time": "09:10 AM - 11:00 AM",
     "description": "Special Event / Fair"
+  },
+  {
+    "title": "Paint N' Chill Student Workshop",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-12-paint-n-chill-student-workshop.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-12",
+    "time": "01:00 PM - 03:00 PM",
+    "description": "Conference and Workshop"
+  },
+  {
+    "title": "Virtual Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-15-virtual-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-15",
+    "time": "11:00 AM - 12:00 PM",
+    "description": "Career Services Event"
   },
   {
     "title": "New Student Open House",
