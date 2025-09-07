@@ -2688,6 +2688,18 @@
     ]
   },
   {
+    "title": "Welcome Back",
+    "link": "https://csi.campuslabs.com/engage/event/11579485",
+    "college": "College of Staten Island",
+    "date": "2025-09-11",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Leadership",
+      "Entertainment"
+    ]
+  },
+  {
     "title": "International Coffee Hour (259028-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11500186",
     "college": "College of Staten Island",
@@ -3075,6 +3087,32 @@
       "Volunteer",
       "Group Business",
       "Career Development"
+    ]
+  },
+  {
+    "title": "Study Abroad Info Session - Latin America and Spain (259041-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11427790",
+    "college": "College of Staten Island",
+    "date": "2025-10-07",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "Global Engagement",
+      "Cultural"
+    ]
+  },
+  {
+    "title": "CSI Sustainability: Compost Workshop (259017-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11324326",
+    "college": "College of Staten Island",
+    "date": "2025-10-07",
+    "time": "06:30 PM - 08:00 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "PG CLUE",
+      "VELA",
+      "Sustainability"
     ]
   },
   {
@@ -3916,14 +3954,6 @@
     "tags": []
   },
   {
-    "title": "Class of 2005 20th Reunion",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/class-of-2005-20th-reunion/",
-    "college": "Macaulay Honors College",
-    "date": "2025-09-07",
-    "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
     "title": "Fall 2025 Business & Technology Career Fair",
     "link": "https://macaulay.cuny.edu/calendar-of-events/fall-2025-business-technology-career-fair/",
     "college": "Macaulay Honors College",
@@ -3993,6 +4023,14 @@
     "college": "Macaulay Honors College",
     "date": "2025-10-08",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "The Friedman Transfer Scholars Program: Virtual Information Session",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-2/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-09",
+    "time": "6:30PM",
     "tags": []
   },
   {
