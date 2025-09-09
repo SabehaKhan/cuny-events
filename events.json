@@ -1083,6 +1083,24 @@
     ]
   },
   {
+    "title": "Help Errol Louis Prepare for the Mayoral Debate",
+    "link": "https://www.journalism.cuny.edu/events/help-errol-louis-prepare-for-the-mayoral-debate/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-10-15",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "Empire of AI: Dreams and Nightmares in Sam Altman’s OpenAI - Karen Hao in Conversation with John Borthwick",
+    "link": "https://www.journalism.cuny.edu/events/empire-of-ai-dreams-and-nightmares-in-sam-altmans-openai-karen-hao-in-conversation-with-john-borthwick/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-10-15",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "Safety for Rights of Trans, Non-binary, and Gender Non-conforming Journalists",
     "link": "https://www.journalism.cuny.edu/events/safety-for-rights-of-trans-non-binary-and-gender-non-conforming-journalists/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -1493,7 +1511,7 @@
     "tags": []
   },
   {
-    "title": "College Visit NYU School of Professional Studies",
+    "title": "College Visit - NYU School of Professional Studies",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/2a75beca-9da9-4ea4-b313-384ac2f95d7e",
     "college": "Kingsborough Community College",
     "date": "2025-09-17",
@@ -1501,7 +1519,7 @@
     "tags": []
   },
   {
-    "title": "College Visit St. Joseph’s University",
+    "title": "College Visit - St. Joseph’s University",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/f55a2585-967d-4834-908a-18a80d36eb1d",
     "college": "Kingsborough Community College",
     "date": "2025-09-17",
@@ -1509,7 +1527,7 @@
     "tags": []
   },
   {
-    "title": "College Visit St. Joseph’s University",
+    "title": "College Visit - St. Joseph’s University",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/803db24b-a49d-4953-b71d-de254b3d1462",
     "college": "Kingsborough Community College",
     "date": "2025-11-12",
@@ -1517,11 +1535,171 @@
     "tags": []
   },
   {
-    "title": "College Visit SUNY Old Westbury",
+    "title": "College Visit -SUNY Old Westbury",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/55fd3444-53c9-4ebd-8334-7eb828d991f5",
     "college": "Kingsborough Community College",
     "date": "2025-09-17",
     "time": "02:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit - SUNY Old Westbury",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/f244d9cc-2889-405e-9427-baa3a5473d82",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-15",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit - SUNY Old Westbury",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/1a9c86e8-0029-4550-9a3b-1f650069da9e",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-12",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- College of Staten Island",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/7af09e53-6192-48f8-b531-897dad9b9e96",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-08",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- Mercy University",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a60d1cc7-77a3-4c09-acb3-2775c8b536ba",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-08",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- St. John’s University",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/d15d884a-6d26-42a4-81e4-2a2daaebc8e1",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-08",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- New York Institute of Technology",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/cd2dda58-c0e5-4ff8-995a-6e18005a8c57",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-15",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- St. Francis",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/6dfe066e-450c-4424-8dee-f6dc28fe23f5",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-15",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- Long Island University",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/67f8d89d-5411-4bf0-850d-9252487d668c",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-29",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- Berkeley College",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/fb4a71e6-4357-463c-a2bd-641ffa51d69c",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-05",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- Berkeley College",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/8aea1459-563b-4b4d-ba1a-364fd2bedb26",
+    "college": "Kingsborough Community College",
+    "date": "2025-12-03",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- CUNY Macaulay Honors College",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/c78f7cee-7a5d-42fb-8af2-0708574ec491",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-05",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- Farmingdale State College",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/7385c483-e6a5-4e69-904b-b39ffbb2ec20",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-12",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- Farmingdale State College",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/1a61b537-0da5-435d-8e50-cd122c309245",
+    "college": "Kingsborough Community College",
+    "date": "2025-12-03",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- Pace University",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/c3c16c5e-657b-4a40-9356-22f1d642be1d",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-12",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- Pace University",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a0c8498d-3f28-4a57-8642-8eca6fc77e64",
+    "college": "Kingsborough Community College",
+    "date": "2025-12-03",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- Adelphi University",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/d20d224e-6a8b-4e74-92c3-7679f5e86697",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-19",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- York College",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/d19670a2-f255-4b66-bfe3-c3bb61e4f7a2",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-19",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Info Session- Hunter College",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/9e728bcf-c856-4b90-a258-6e02b277a4b1",
+    "college": "Kingsborough Community College",
+    "date": "2025-09-16",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Info Session- Farmingdale State College",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/0543ffcc-4eea-4d8e-9e9d-bf2e15d2cef3",
+    "college": "Kingsborough Community College",
+    "date": "2025-09-23",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Info Session- City College of New York",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/5e7dcdcf-0622-4fb5-b8a6-96642ff783d9",
+    "college": "Kingsborough Community College",
+    "date": "2025-09-30",
+    "time": "05:00 PM - 05:30 PM",
     "tags": []
   },
   {
@@ -2828,20 +3006,6 @@
     ]
   },
   {
-    "title": "Walk & Talk with a Mentor - Campus Tour (259223-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11440531",
-    "college": "College of Staten Island",
-    "date": "2025-09-09",
-    "time": "03:30 PM - 05:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "PG CLUE",
-      "Weeks of Welcome",
-      "Willowbrook Campus"
-    ]
-  },
-  {
     "title": "Welcome Back Carnival & Student Service/ Involvement Fair",
     "link": "https://csi.campuslabs.com/engage/event/11383190",
     "college": "College of Staten Island",
@@ -2889,20 +3053,6 @@
     "tags": [
       "Social",
       "Willowbrook Campus"
-    ]
-  },
-  {
-    "title": "Study Abroad Info Session - Winter Programs (259041-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/11422688",
-    "college": "College of Staten Island",
-    "date": "2025-09-11",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Global Engagement",
-      "Weeks of Welcome",
-      "Cultural"
     ]
   },
   {
@@ -2975,6 +3125,20 @@
     "tags": [
       "GroupBusiness",
       "Group Business"
+    ]
+  },
+  {
+    "title": "Study Abroad Info Session - Winter Programs (259041-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11422688",
+    "college": "College of Staten Island",
+    "date": "2025-09-16",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "Global Engagement",
+      "Weeks of Welcome",
+      "Cultural"
     ]
   },
   {
@@ -3106,6 +3270,19 @@
     "tags": [
       "Social",
       "Willowbrook Campus"
+    ]
+  },
+  {
+    "title": "WOW Lecture - Constitution Day: Global Perspectives (259046-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11596792",
+    "college": "College of Staten Island",
+    "date": "2025-09-17",
+    "time": "05:15 PM - 06:15 PM",
+    "tags": [
+      "Cultural",
+      "Learning",
+      "Global Engagement",
+      "Weeks of Welcome"
     ]
   },
   {
@@ -3241,20 +3418,6 @@
       "Double CLUE (1 PG and 1 CC)",
       "Weeks of Welcome",
       "Willowbrook Campus"
-    ]
-  },
-  {
-    "title": "Study Abroad Info Session - Italy (259041-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/11509371",
-    "college": "College of Staten Island",
-    "date": "2025-09-16",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Global Engagement",
-      "Weeks of Welcome",
-      "Cultural"
     ]
   },
   {
@@ -3785,6 +3948,14 @@
     "tags": []
   },
   {
+    "title": "Student Success Center: FourLeaf Federal Credit Union Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/PdJ94SaaWa1zEviQdoED/rYKE0zWtgOG2NWCpjXnK",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-09-11",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
     "title": "General Tour",
     "link": "https://citytech.event.cuny.edu/events/GfzAcRRcEWl3DIMeZHsS/kCY362jkREdfu9ZxBSgu",
     "college": "New York City College of Technology (City Tech)",
@@ -3803,14 +3974,6 @@
   {
     "title": "President Convocation",
     "link": "https://citytech.event.cuny.edu/events/Vyi78RsUQ3CGcPYMJR8u/XpPhIpgqjx9sz3mcFJrE",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-11",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY2X Welcome Event",
-    "link": "https://citytech.event.cuny.edu/events/Bf0GrPo0rmjpFraazf3s/r6yls1EyvMhRuoyzSe0D",
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-09-11",
     "time": "12:00PM",
@@ -3910,6 +4073,14 @@
     "college": "CUNY School of Public Health",
     "date": "2025-09-24",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Employer Discovery Series: Bureau of Food Safety and Community Sanitation",
+    "link": "https://sph.cuny.edu/event/employer-discovery-series-bureau-of-food-safety-and-community-sanitation/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-09-25",
+    "time": "2:00PM",
     "tags": []
   },
   {
@@ -4121,14 +4292,6 @@
     "tags": []
   },
   {
-    "title": "9/11 Flag Planting Ceremony",
-    "link": "https://www.jjay.cuny.edu/news-events/events/911-flag-planting-ceremony",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-09",
-    "time": "05:45 PM",
-    "tags": []
-  },
-  {
     "title": "Man Up: The New Misogyny & the Rise of Violent Extremism",
     "link": "https://www.jjay.cuny.edu/news-events/events/man-new-misogyny-rise-violent-extremism",
     "college": "John Jay College of Criminal Justice",
@@ -4305,6 +4468,14 @@
     "tags": []
   },
   {
+    "title": "Law Enforcement Leadership in Challenging Times",
+    "link": "https://www.jjay.cuny.edu/news-events/events/law-enforcement-leadership-challenging-times",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-06",
+    "time": "10:00 PM",
+    "tags": []
+  },
+  {
     "title": "Fall 2025 Business & Technology Career Fair",
     "link": "https://macaulay.cuny.edu/calendar-of-events/fall-2025-business-technology-career-fair/",
     "college": "Macaulay Honors College",
@@ -4385,30 +4556,6 @@
     "tags": []
   },
   {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-09-09",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-09",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
-    "college": "York College",
-    "date": "2025-09-09",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "SEEK Meet 2025",
     "link": "https://www.york.cuny.edu/seek/events/seek-meet-2025",
     "college": "York College",
@@ -4454,6 +4601,30 @@
     "college": "York College",
     "date": "2025-09-09",
     "time": "11:00 PM - 1:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-09-10",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-10",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
+    "college": "York College",
+    "date": "2025-09-10",
+    "time": "4:00 PM - 7:00 PM",
     "tags": []
   },
   {
