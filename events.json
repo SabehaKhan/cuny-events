@@ -2853,6 +2853,7 @@
     "date": "2025-09-11",
     "time": "09:00 AM - 03:00 PM",
     "tags": [
+      "Featured",
       "Office of Student Activities (OSA)",
       "Student Affairs"
     ]
@@ -3119,6 +3120,56 @@
       "Financial Aid Office",
       "Registration",
       "Scholarships"
+    ]
+  },
+  {
+    "title": "Transfer Talk Tuesday: Explore Your Options After BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/transfer-talk-tuesday-explore-your-options-after-bmcc-21/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-23",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Academic Advisement & Transfer",
+      "Academic Affairs",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Preparing for Post-Completion Optional Practical Training (OPT) Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/preparing-for-post-completion-optional-practical-training-opt-workshop/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-24",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "Research Programs Welcome Session",
+    "link": "https://www.bmcc.cuny.edu/event/research-programs-welcome-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-24",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Computer Information Systems",
+      "Featured",
+      "Honors Program",
+      "Math",
+      "Research & Scholarly Inquiry",
+      "Science"
+    ]
+  },
+  {
+    "title": "From Applicant to Employee: How to Succeed in Your Next Interview",
+    "link": "https://www.bmcc.cuny.edu/event/from-applicant-to-employee-how-to-succeed-in-your-next-interview-7/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-25",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
     ]
   },
   {
@@ -4899,6 +4950,121 @@
     "date": "2025-09-15",
     "time": "4:00 AM - 3:59 AM",
     "tags": []
+  },
+  {
+    "title": "RURAL COUNTY, URBAN BOROUGH: HISTORY OF QUEENS BOOK LAUNCH & PANEL DISCUSSION",
+    "link": "https://www.gc.cuny.edu/events/rural-county-urban-borough-history-queens-book-launch-panel-discussion",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-11",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "1218: Segal Theatre",
+    "tags": [
+      "Center for Urban Research"
+    ]
+  },
+  {
+    "title": "GEOS COLLOQUIUM, DR. JAMES EGUCHI",
+    "link": "https://www.gc.cuny.edu/events/geos-colloquium-dr-james-eguchi",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-11",
+    "time": "4:15 pm — 6:15 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Earth and Environmental Sciences"
+    ]
+  },
+  {
+    "title": "BOOK LAUNCH : DICTATORSHIP ACROSS BORDERS",
+    "link": "https://www.gc.cuny.edu/events/book-launch-dictatorship-across-borders",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-11",
+    "time": "6:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Center for Latin American, Caribbean & Latino Studies",
+      "Humanities and Social Sciences"
+    ]
+  },
+  {
+    "title": "PHYSICS OF BEHAVIOR",
+    "link": "https://www.gc.cuny.edu/events/physics-behavior-fall-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-12",
+    "time": "10:00 am — 6:00 pm",
+    "location": "4102: Science Center",
+    "tags": [
+      "Initiative for the Theoretical Sciences"
+    ]
+  },
+  {
+    "title": "PH.D. PROGRAM IN CHEMISTRY VIRTUAL INFORMATION SESSION",
+    "link": "https://www.gc.cuny.edu/events/phd-program-chemistry-virtual-information-session-sep-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-12",
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Chemistry",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "SPECIAL COLLOQUIUM WITH DR. CARMIT ALTMAN",
+    "link": "https://www.gc.cuny.edu/events/special-colloquium-dr-carmit-altman",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-12",
+    "time": "12:45 pm — 2:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Speech-Language-Hearing Sciences"
+    ]
+  },
+  {
+    "title": "JOB SEARCH SERIES: COVER LETTERS AND CVS",
+    "link": "https://www.gc.cuny.edu/events/job-search-series-cover-letters-and-cvs",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-12",
+    "time": "2:00 pm",
+    "location": "4406: English Student Lounge",
+    "tags": [
+      "English",
+      "Friday Forum"
+    ]
+  },
+  {
+    "title": "COGNITIVE SCIENCE: AILÍS COURNANE, WORD LEARNING CHALLENGES EXPLAIN PRESCHOOLERS' NON-ADULT BEHAVIOURS WITH MODALS",
+    "link": "https://www.gc.cuny.edu/events/cognitive-science-ailis-cournane-word-learning-challenges-explain-preschoolers-non-adult-behaviours",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-12",
+    "time": "2:30 pm — 4:30 pm",
+    "location": "6304.01",
+    "tags": [
+      "Philosophy",
+      "Cognitive Science Speaker Series"
+    ]
+  },
+  {
+    "title": "LATINIDAD IN THE MAKING: DH PROJECTS AND COLLECTIVE FUTURITIES",
+    "link": "https://www.gc.cuny.edu/events/latinidad-making-dh-projects-and-collective-futurities",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-12",
+    "time": "4:00 pm — 5:30 pm",
+    "location": "Online",
+    "tags": [
+      "Latin American, Iberian, and Latino Cultures",
+      "Diversity"
+    ]
+  },
+  {
+    "title": "THE ACADEMIC COVER LETTER WORKSHOP",
+    "link": "https://www.gc.cuny.edu/events/academic-cover-letter-workshop",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-12",
+    "time": "4:00 pm — 5:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
   },
   {
     "title": "Calle y Ritmo",
