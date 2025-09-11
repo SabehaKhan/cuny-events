@@ -108,7 +108,7 @@
     "link": "https://www.ccny.cuny.edu/calendar/freedom-riders-civil-rights-musical",
     "college": "City College of New York",
     "date": "2025-09-24",
-    "time": "06:00 PM - 08:30 PM",
+    "time": "07:00 PM - 09:30 PM",
     "tags": []
   },
   {
@@ -157,6 +157,14 @@
     "college": "City College of New York",
     "date": "2025-09-25",
     "time": "07:00 PM - 08:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Freedom Riders: The Civil Rights Musical",
+    "link": "https://www.ccny.cuny.edu/calendar/freedom-riders-civil-rights-musical-0",
+    "college": "City College of New York",
+    "date": "2025-09-25",
+    "time": "07:00 PM - 09:30 PM",
     "tags": []
   },
   {
@@ -237,6 +245,14 @@
     "college": "City College of New York",
     "date": "2025-09-30",
     "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Inner Circle Fellowship Workshop: AI for Journalists & Creators",
+    "link": "https://www.ccny.cuny.edu/calendar/inner-circle-fellowship-workshop-ai-journalists-creators",
+    "college": "City College of New York",
+    "date": "2025-09-30",
+    "time": "12:30 PM - 02:00 PM",
     "tags": []
   },
   {
@@ -653,6 +669,14 @@
     "college": "City College of New York",
     "date": "2025-11-06",
     "time": "05:30 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Building Bridges Career Fair & Networking Mixer [Ad/PR Program]",
+    "link": "https://www.ccny.cuny.edu/calendar/building-bridges-career-fair-networking-mixer-adpr-program",
+    "college": "City College of New York",
+    "date": "2025-11-06",
+    "time": "06:00 PM - 08:30 PM",
     "tags": []
   },
   {
@@ -1938,17 +1962,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-09-11/",
-    "college": "LaGuardia Community College",
-    "date": "2025-09-11",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "2+2 Transfer Info-Session: LaGuardia to Rutgers",
     "link": "https://www.laguardia.edu/event/22-transfer-info-session-laguardia-to-rutgers/",
     "college": "LaGuardia Community College",
@@ -2200,6 +2213,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-09-30",
     "time": "02:00 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Your Guide to Transfer: An Overview of 2025 - 2026 Transfer Scholarships and Applications Information Session",
+    "link": "https://www.laguardia.edu/event/your-guide-to-transfer-an-overview-of-2025-2026-transfer-scholarships-and-applications-information-session/",
+    "college": "LaGuardia Community College",
+    "date": "2025-09-30",
+    "time": "02:15 PM - 03:15 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2855,24 +2879,26 @@
     ]
   },
   {
+    "title": "Interactive Media Professional Panel",
+    "link": "https://hunter.cuny.edu/event/interactive-media-professional-panel/",
+    "college": "Hunter College",
+    "date": "2025-09-16",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Career Center",
+      "Student Events"
+    ]
+  },
+  {
     "title": "9/11 Tribute: Remembrance and Reflection Display and Ceremony",
     "link": "https://www.bmcc.cuny.edu/event/9-11-tribute-remembrance-and-reflection-display-and-ceremony/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-09-11",
     "time": "09:00 AM - 03:00 PM",
     "tags": [
+      "Featured",
       "Office of Student Activities (OSA)",
       "Student Affairs"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-96/2025-09-11/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-11",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Admissions"
     ]
   },
   {
@@ -2931,6 +2957,16 @@
       "Admissions",
       "Evening-Weekend",
       "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-96/2025-09-16/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-16",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "Admissions"
     ]
   },
   {
@@ -3130,6 +3166,56 @@
     ]
   },
   {
+    "title": "Transfer Talk Tuesday: Explore Your Options After BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/transfer-talk-tuesday-explore-your-options-after-bmcc-21/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-23",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Academic Advisement & Transfer",
+      "Academic Affairs",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Preparing for Post-Completion Optional Practical Training (OPT) Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/preparing-for-post-completion-optional-practical-training-opt-workshop/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-24",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "Research Programs Welcome Session",
+    "link": "https://www.bmcc.cuny.edu/event/research-programs-welcome-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-24",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Computer Information Systems",
+      "Featured",
+      "Honors Program",
+      "Math",
+      "Research & Scholarly Inquiry",
+      "Science"
+    ]
+  },
+  {
+    "title": "From Applicant to Employee: How to Succeed in Your Next Interview",
+    "link": "https://www.bmcc.cuny.edu/event/from-applicant-to-employee-how-to-succeed-in-your-next-interview-7/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-25",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
     "title": "International Student Orientation",
     "link": "https://www.bcc.cuny.edu/event/international-student-orientation/",
     "college": "Bronx Community College",
@@ -3240,16 +3326,6 @@
     "date": "2025-09-25",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
-  },
-  {
-    "title": "September 11th Remembrance & Reflection Event",
-    "link": "https://csi.campuslabs.com/engage/event/11600748",
-    "college": "College of Staten Island",
-    "date": "2025-09-11",
-    "time": "02:30 PM - 03:15 PM",
-    "tags": [
-      "Social"
-    ]
   },
   {
     "title": "First Aid Training 9/11/25 (259027-PG)",
@@ -3949,27 +4025,11 @@
     "tags": []
   },
   {
-    "title": "SAEM Fall Seminar",
-    "link": "https://qc.event.cuny.edu/events/fNkbK43P8fZ5zXtZKREK/ZI1NZRf5TzzXidupGbdi",
-    "college": "Queens College",
-    "date": "2025-09-11",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
     "title": "QSI Math Stretched Course",
     "link": "https://qc.event.cuny.edu/events/ZkUDk3QHKnSvkl0C8rNp/eGRzH3rWU4b71NuoXVFJ6",
     "college": "Queens College",
     "date": "2025-09-11",
     "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "CSCI 111 Recitation",
-    "link": "https://qc.event.cuny.edu/events/zM3xl2xQFBJ98WS6P7SW/C1aPn1gVMj8IhDaPRGeB",
-    "college": "Queens College",
-    "date": "2025-09-11",
-    "time": "9:00AM",
     "tags": []
   },
   {
@@ -4333,14 +4393,6 @@
     "tags": []
   },
   {
-    "title": "Health Policy and Management Virtual Info Session",
-    "link": "https://sph.cuny.edu/event/sph-virtual-info-session-health-policy-and-management/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-10-01",
-    "time": "6:00PM",
-    "tags": []
-  },
-  {
     "title": "Community Health Virtual Info Session",
     "link": "https://sph.cuny.edu/event/sph-virtual-info-session-community-health/",
     "college": "CUNY School of Public Health",
@@ -4541,14 +4593,6 @@
     "tags": []
   },
   {
-    "title": "9/11 Anniversary Tribute Premier",
-    "link": "https://www.jjay.cuny.edu/news-events/events/911-anniversary-tribute-premier",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-11",
-    "time": "05:45 PM",
-    "tags": []
-  },
-  {
     "title": "DeWitt Clinton Park Clean Up",
     "link": "https://www.jjay.cuny.edu/news-events/events/dewitt-clinton-park-clean",
     "college": "John Jay College of Criminal Justice",
@@ -4725,6 +4769,14 @@
     "tags": []
   },
   {
+    "title": "Petroforms",
+    "link": "https://www.jjay.cuny.edu/news-events/events/petroforms",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-15",
+    "time": "08:30 PM",
+    "tags": []
+  },
+  {
     "title": "Fall 2025 Business & Technology Career Fair",
     "link": "https://macaulay.cuny.edu/calendar-of-events/fall-2025-business-technology-career-fair/",
     "college": "Macaulay Honors College",
@@ -4805,30 +4857,6 @@
     "tags": []
   },
   {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-09-11",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-11",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
-    "college": "York College",
-    "date": "2025-09-11",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "Bystander Intervention Training",
     "link": "https://www.york.cuny.edu/womens-center/bystander-intervention-training",
     "college": "York College",
@@ -4858,6 +4886,22 @@
     "college": "York College",
     "date": "2025-09-11",
     "time": "8:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-09-12",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-12",
+    "time": "4:00 PM - 7:00 PM",
     "tags": []
   },
   {
@@ -4906,6 +4950,14 @@
     "college": "York College",
     "date": "2025-09-15",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
+    "college": "York College",
+    "date": "2025-09-15",
+    "time": "4:00 PM - 7:00 PM",
     "tags": []
   },
   {
@@ -5024,36 +5076,20 @@
     ]
   },
   {
+    "title": "Day of the Dead Ofrenda",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-30-day-of-the-dead-ofrenda.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-30",
+    "time": "03:00 PM - 05:00 PM",
+    "description": ""
+  },
+  {
     "title": "Calle y Ritmo",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-18-calle-y-ritmo.html",
     "college": "Queensborough Community College",
     "date": "2025-09-18",
     "time": "03:00 PM - 05:00 PM",
     "description": ""
-  },
-  {
-    "title": "CUNY Transfer Application Workshop",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-11-cuny-transfer-application-workshop.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-11",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Transfer Resource Center Event"
-  },
-  {
-    "title": "No Experience? No Problem!–CUNY Spring Forward Internships",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-11-no-experience-no-problem-cuny-spring-forward-internships.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-11",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "Office of Career Services-CUNY-Wide NASA College Aerospace Scholars Virtual Information Session",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-11-office-of-career-services-cuny-wide-nasa-college-aerospace-scholars-virtual-information-session.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-11",
-    "time": "12:30 PM - 01:30 PM",
-    "description": "Career Services Event"
   },
   {
     "title": "Virtual Resume Hour",
@@ -5190,6 +5226,30 @@
     "date": "2025-09-17",
     "time": "12:10 PM - 02:00 PM",
     "description": "Special Event / Fair"
+  },
+  {
+    "title": "SACNAS QCC Chapter Welcome Back & Info Session",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-sacnas-qcc-chapter-welcome-back-info-session.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-17",
+    "time": "12:30 PM - 02:00 PM",
+    "description": "Club Event"
+  },
+  {
+    "title": "RISE Connection Day",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-rise-connection-day.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-17",
+    "time": "12:30 PM - 02:00 PM",
+    "description": "R.I.S.E. program event"
+  },
+  {
+    "title": "FAFSA Fest",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-fafsa-fest.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-17",
+    "time": "01:00 PM - 04:00 PM",
+    "description": "Financial Aid Event"
   },
   {
     "title": "New Student Open House",
