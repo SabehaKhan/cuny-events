@@ -56,7 +56,7 @@
     "tags": []
   },
   {
-    "title": "Harlem International Film Festival",
+    "title": "Harlem International Film Festival - Opening Night",
     "link": "https://www.ccny.cuny.edu/calendar/harlem-international-film-festival",
     "college": "City College of New York",
     "date": "2025-09-17",
@@ -1010,6 +1010,16 @@
     "time": "11:30 AM - 01:00 PM",
     "tags": [
       "Office of the President"
+    ]
+  },
+  {
+    "title": "World Food Movement Feeding Program with Transition Academy",
+    "link": "https://www.mec.cuny.edu/event/world-food-movement-feeding-program-with-transition-academy/",
+    "college": "Medgar Evers College",
+    "date": "2025-09-17",
+    "time": "11:30 AM - 01:00 PM",
+    "tags": [
+      "Transition Academy"
     ]
   },
   {
@@ -2405,18 +2415,6 @@
     ]
   },
   {
-    "title": "Gaming Grizzlies Information Session",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376588",
-    "college": "Guttman Community College",
-    "date": "2025-09-30",
-    "time": "05:15 PM - 06:45 PM",
-    "tags": [
-      "TGG",
-      "Meeting",
-      "Student Life"
-    ]
-  },
-  {
     "title": "The Writing Process Workshop Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376494",
     "college": "Guttman Community College",
@@ -2469,30 +2467,6 @@
     ]
   },
   {
-    "title": "Gaming Grizzlies Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376578",
-    "college": "Guttman Community College",
-    "date": "2025-10-09",
-    "time": "05:15 PM - 06:45 PM",
-    "tags": [
-      "TGG",
-      "Social",
-      "Student Life"
-    ]
-  },
-  {
-    "title": "Gaming Grizzlies Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376579",
-    "college": "Guttman Community College",
-    "date": "2025-10-16",
-    "time": "05:15 PM - 06:45 PM",
-    "tags": [
-      "TGG",
-      "Social",
-      "Student Life"
-    ]
-  },
-  {
     "title": "Disability Pride Parade",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376396",
     "college": "Guttman Community College",
@@ -2530,30 +2504,6 @@
     ]
   },
   {
-    "title": "Gaming Grizzlies Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376580",
-    "college": "Guttman Community College",
-    "date": "2025-10-23",
-    "time": "05:15 PM - 06:45 PM",
-    "tags": [
-      "TGG",
-      "Social",
-      "Student Life"
-    ]
-  },
-  {
-    "title": "Gaming Grizzlies Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376581",
-    "college": "Guttman Community College",
-    "date": "2025-10-30",
-    "time": "05:15 PM - 06:45 PM",
-    "tags": [
-      "TGG",
-      "Social",
-      "Student Life"
-    ]
-  },
-  {
     "title": "The Writing Process Workshop Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376497",
     "college": "Guttman Community College",
@@ -2576,18 +2526,6 @@
       "Social",
       "Food - Lunch",
       "Immigrant Student Success"
-    ]
-  },
-  {
-    "title": "Gaming Grizzlies Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376582",
-    "college": "Guttman Community College",
-    "date": "2025-11-06",
-    "time": "06:15 PM - 07:45 PM",
-    "tags": [
-      "TGG",
-      "Social",
-      "Student Life"
     ]
   },
   {
@@ -2617,18 +2555,6 @@
     ]
   },
   {
-    "title": "Gaming Grizzlies Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376583",
-    "college": "Guttman Community College",
-    "date": "2025-11-13",
-    "time": "06:15 PM - 07:45 PM",
-    "tags": [
-      "TGG",
-      "Social",
-      "Student Life"
-    ]
-  },
-  {
     "title": "The Writing Process Workshop Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376499",
     "college": "Guttman Community College",
@@ -2638,64 +2564,6 @@
       "ASC",
       "Academic",
       "Tutoring"
-    ]
-  },
-  {
-    "title": "Gaming Grizzlies Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376584",
-    "college": "Guttman Community College",
-    "date": "2025-11-20",
-    "time": "06:15 PM - 07:45 PM",
-    "tags": [
-      "TGG",
-      "Social",
-      "Student Life"
-    ]
-  },
-  {
-    "title": "Gaming Grizzlies Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376585",
-    "college": "Guttman Community College",
-    "date": "2025-11-27",
-    "time": "06:15 PM - 07:45 PM",
-    "tags": [
-      "TGG",
-      "Social",
-      "Student Life"
-    ]
-  },
-  {
-    "title": "Gaming Grizzlies Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376586",
-    "college": "Guttman Community College",
-    "date": "2025-12-04",
-    "time": "06:15 PM - 07:45 PM",
-    "tags": [
-      "TGG",
-      "Social",
-      "Student Life"
-    ]
-  },
-  {
-    "title": "Gaming Grizzlies Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376587",
-    "college": "Guttman Community College",
-    "date": "2025-12-11",
-    "time": "06:15 PM - 07:45 PM",
-    "tags": [
-      "TGG",
-      "Social",
-      "Student Life"
-    ]
-  },
-  {
-    "title": "Accelerated-Second Degree (BS) Nursing Program Information Session",
-    "link": "https://hunter.cuny.edu/event/accelerated-second-degree-bs-nursing-program-information-session-5/",
-    "college": "Hunter College",
-    "date": "2025-09-12",
-    "time": "10:00 AM - 11:30 AM",
-    "tags": [
-      "Open Houses"
     ]
   },
   {
@@ -2983,6 +2851,18 @@
     ]
   },
   {
+    "title": "A Day in the Life at Kraft Heinz: Sales Edition!",
+    "link": "https://hunter.cuny.edu/event/a-day-in-the-life-at-kraft-heinz-sales-edition/",
+    "college": "Hunter College",
+    "date": "2025-09-16",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
     "title": "BMCC Admissions Saturday Information Session and Campus Tour",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-saturday-information-session-and-campus-tour-4/",
     "college": "Borough of Manhattan Community College",
@@ -3109,17 +2989,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-97/2025-09-17/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-17",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "BMCC Cannabis Retail Management – Open Enrollment Information Session",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-cannabis-retail-management-open-enrollment-information-session/",
     "college": "Borough of Manhattan Community College",
@@ -3210,18 +3079,6 @@
     ]
   },
   {
-    "title": "Social Sciences and Human Services Open House",
-    "link": "https://www.bmcc.cuny.edu/event/social-sciences-and-human-services-open-house/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-19",
-    "time": "11:00 AM - 03:00 PM",
-    "tags": [
-      "Featured",
-      "Social Sciences",
-      "Human Services and Criminal Justice"
-    ]
-  },
-  {
     "title": "NY State Opportunity Promise: Free Community College Information Session",
     "link": "https://www.bmcc.cuny.edu/event/ny-state-opportunity-promise-free-community-college-information-session/2025-09-22/1/",
     "college": "Borough of Manhattan Community College",
@@ -3282,31 +3139,6 @@
     "tags": [
       "Career Workshops/Fairs",
       "Center for Career Development",
-      "Featured"
-    ]
-  },
-  {
-    "title": "What’s Your Love Language?",
-    "link": "https://www.bmcc.cuny.edu/event/whats-your-love-language-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-25",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "Counseling Center",
-      "CUNY in The Heights",
-      "Student Affairs",
-      "Women's Resource Center"
-    ]
-  },
-  {
-    "title": "Pace University On-site Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/pace-university-on-site-information-session/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-29",
-    "time": "01:30 PM - 03:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer",
       "Featured"
     ]
   },
@@ -3485,22 +3317,6 @@
     ]
   },
   {
-    "title": "Introduction & About Us!",
-    "link": "https://csi.campuslabs.com/engage/event/11585999",
-    "college": "College of Staten Island",
-    "date": "2025-09-16",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "Fundraising",
-      "Leadership",
-      "Learning",
-      "Volunteer",
-      "Global Engagement",
-      "Fundraiser",
-      "Career Development"
-    ]
-  },
-  {
     "title": "Earth and Environmental Science Welcome Event (259048-CC)",
     "link": "https://csi.campuslabs.com/engage/event/11619352",
     "college": "College of Staten Island",
@@ -3587,6 +3403,22 @@
     "time": "06:30 PM - 08:30 PM",
     "tags": [
       "Cultural"
+    ]
+  },
+  {
+    "title": "Introduction & About Us!",
+    "link": "https://csi.campuslabs.com/engage/event/11585999",
+    "college": "College of Staten Island",
+    "date": "2025-09-16",
+    "time": "07:30 PM - 08:30 PM",
+    "tags": [
+      "Fundraising",
+      "Leadership",
+      "Learning",
+      "Volunteer",
+      "Global Engagement",
+      "Fundraiser",
+      "Career Development"
     ]
   },
   {
@@ -4594,14 +4426,6 @@
     "tags": []
   },
   {
-    "title": "DeWitt Clinton Park Clean Up",
-    "link": "https://www.jjay.cuny.edu/news-events/events/dewitt-clinton-park-clean",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-12",
-    "time": "02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Virtual Admissions Info Session",
     "link": "https://www.jjay.cuny.edu/news-events/events/virtual-admissions-info-session-10",
     "college": "John Jay College of Criminal Justice",
@@ -4778,6 +4602,14 @@
     "tags": []
   },
   {
+    "title": "CareerCon: Law & Legal Professions",
+    "link": "https://www.jjay.cuny.edu/news-events/events/careercon-law-legal-professions-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-16",
+    "time": "03:00 PM",
+    "tags": []
+  },
+  {
     "title": "Fall 2025 Business & Technology Career Fair",
     "link": "https://macaulay.cuny.edu/calendar-of-events/fall-2025-business-technology-career-fair/",
     "college": "Macaulay Honors College",
@@ -4858,22 +4690,6 @@
     "tags": []
   },
   {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-09-12",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-12",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "Faculty & Staff Dedicated Fitness Center Hours",
     "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
     "college": "York College",
@@ -4919,6 +4735,22 @@
     "college": "York College",
     "date": "2025-09-15",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-09-15",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-15",
+    "time": "4:00 PM - 7:00 PM",
     "tags": []
   },
   {
@@ -5094,22 +4926,6 @@
     "description": ""
   },
   {
-    "title": "Women's Group",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-12-womens-group.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-12",
-    "time": "09:10 AM - 11:00 AM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Paint N' Chill Student Workshop",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-12-paint-n-chill-student-workshop.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-12",
-    "time": "01:00 PM - 03:00 PM",
-    "description": "Conference and Workshop"
-  },
-  {
     "title": "Virtual Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-15-virtual-resume-hour.html",
     "college": "Queensborough Community College",
@@ -5206,6 +5022,14 @@
     "description": "Student Event"
   },
   {
+    "title": "Health Sciences General Information Session",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-health-sciences-general-information-session.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-17",
+    "time": "12:10 PM - 02:00 PM",
+    "description": "Academy Event"
+  },
+  {
     "title": "Active HOPE Skills, Social Skills that Shape your Life and Career",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-active-hope-skills,-social-skills-that-shape-your-life-and-career.html",
     "college": "Queensborough Community College",
@@ -5236,6 +5060,14 @@
     "date": "2025-09-17",
     "time": "12:30 PM - 02:00 PM",
     "description": "R.I.S.E. program event"
+  },
+  {
+    "title": "The MRC Presents: Let's Dance Salsa",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-the-mrc-presents-lets-dance-salsa.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-17",
+    "time": "01:00 PM - 02:00 PM",
+    "description": "Male Resource Center Event"
   },
   {
     "title": "FAFSA Fest",
