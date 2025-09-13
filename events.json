@@ -3041,18 +3041,6 @@
     ]
   },
   {
-    "title": "BMCC Admissions Saturday Information Session and Campus Tour",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-admissions-saturday-information-session-and-campus-tour-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-13",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
     "title": "Admissions Information Session (Online)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-258/2025-09-15/",
     "college": "Borough of Manhattan Community College",
@@ -3238,8 +3226,19 @@
     "time": "12:00 PM - 04:00 PM",
     "tags": [
       "Featured",
-      "Health Education",
+      "Health Services",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "Stay Healthy, Get Fit Nutrition Classes",
+    "link": "https://www.bmcc.cuny.edu/event/stay-healthy-get-fit-nutrition-classes/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-18",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services"
     ]
   },
   {
@@ -4135,6 +4134,16 @@
       "Engineering and Environmental Science",
       "Sustainability",
       "Verrazzano School"
+    ]
+  },
+  {
+    "title": "NYPL Monthly Visits the CSI Library",
+    "link": "https://events.cuny.edu/cec/nypl-monthly-visits-the-csi-library/",
+    "college": "College of Staten Island",
+    "date": "2025-09-16",
+    "time": "2:30 PM - 4:30 PM",
+    "tags": [
+      "Student Life"
     ]
   },
   {
