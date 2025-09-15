@@ -1,13 +1,5 @@
 [
   {
-    "title": "Work in Progress: SSA Faculty Work Exhibit",
-    "link": "https://www.ccny.cuny.edu/calendar/work-progress-ssa-faculty-work-exhibit",
-    "college": "City College of New York",
-    "date": "2025-09-15",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": []
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-9",
     "college": "City College of New York",
@@ -1699,14 +1691,6 @@
     "tags": []
   },
   {
-    "title": "Let's Talk Tuesday",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/dbb0fc07-c5e4-4ea3-b8ee-adc0c6d3aa5b",
-    "college": "Kingsborough Community College",
-    "date": "2025-11-25",
-    "time": "07:00 PM - 08:00 PM",
-    "tags": []
-  },
-  {
     "title": "Silent Disco Party",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/f56f1baa-e308-4ef8-86dc-e82f28f7a5fc",
     "college": "Kingsborough Community College",
@@ -1995,15 +1979,20 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-09-15/",
-    "college": "LaGuardia Community College",
-    "date": "2025-09-15",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
+    "title": "Let's Talk Tuesday",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/18febcf6-0ee5-49af-965e-aed9164a8c11",
+    "college": "Kingsborough Community College",
+    "date": "2025-09-16",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Let's Talk Tuesday",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/129a012f-5a21-4709-9e2d-d30c0f9b91f8",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-25",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": []
   },
   {
     "title": "SUNY Binghamton - Virtual Transfer Tuesdays - Business Administration and Accounting Transfer Prerequisites",
@@ -2256,6 +2245,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-09-30",
     "time": "03:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Own your Career Series: Presented by Booking.com",
+    "link": "https://www.laguardia.edu/event/own-your-career-series-presented-by-booking-com/",
+    "college": "LaGuardia Community College",
+    "date": "2025-09-30",
+    "time": "04:00 PM - 06:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2749,28 +2749,6 @@
     ]
   },
   {
-    "title": "Coffee Connections with Career Coaches",
-    "link": "https://hunter.cuny.edu/event/coffee-connections/",
-    "college": "Hunter College",
-    "date": "2025-09-15",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "Career Center",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Donuts with the Dean",
-    "link": "https://hunter.cuny.edu/event/donuts-with-the-dean/2025-09-15/",
-    "college": "Hunter College",
-    "date": "2025-09-15",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "Special Events",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Professional Headshots",
     "link": "https://hunter.cuny.edu/event/professional-headshots/",
     "college": "Hunter College",
@@ -2788,42 +2766,6 @@
     "date": "2025-09-15",
     "time": "10:00 AM - 02:00 PM",
     "tags": []
-  },
-  {
-    "title": "Pitch Perfect: Mastering Your Elevator Pitch for Job Interviews",
-    "link": "https://hunter.cuny.edu/event/pitch-perfect-mastering-your-elevator-pitch-for-job-interviews/",
-    "college": "Hunter College",
-    "date": "2025-09-15",
-    "time": "11:00 AM - 11:30 AM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Ask Me Anything: Careers in Healthcare",
-    "link": "https://hunter.cuny.edu/event/ask-me-anything-careers-in-healthcare/",
-    "college": "Hunter College",
-    "date": "2025-09-15",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Proud Moments ABA (National Behavioral Health Org.) | CIE Employer Event",
-    "link": "https://hunter.cuny.edu/event/proud-moments-aba-national-behavioral-health-org/",
-    "college": "Hunter College",
-    "date": "2025-09-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
   },
   {
     "title": "Passport to Profession Panel",
@@ -3035,6 +2977,60 @@
     "college": "Hunter College",
     "date": "2025-09-16",
     "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Career Center",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "A Day in the Life at Kraft Heinz: Sales Edition!",
+    "link": "https://hunter.cuny.edu/event/a-day-in-the-life-at-kraft-heinz-sales-edition/",
+    "college": "Hunter College",
+    "date": "2025-09-16",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "The Remarkable Madame Pandit: Champion of India, Citizen of the World",
+    "link": "https://hunter.cuny.edu/event/the-remarkable-madame-pandit-champion-of-india-citizen-of-the-world/",
+    "college": "Hunter College",
+    "date": "2025-09-16",
+    "time": "06:30 PM - 06:30 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
+    "title": "Graduate School Fair (CUNY)",
+    "link": "https://hunter.cuny.edu/event/graduate-school-fair-cuny/",
+    "college": "Hunter College",
+    "date": "2025-09-17",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Career Center",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Fall 2025 Wellness and Benefits Fair",
+    "link": "https://hunter.cuny.edu/event/fall-2025-wellness-and-benefits-fair/",
+    "college": "Hunter College",
+    "date": "2025-09-17",
+    "time": "11:00 AM - 03:00 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "Professional Headshots",
+    "link": "https://hunter.cuny.edu/event/professional-headshots-3/",
+    "college": "Hunter College",
+    "date": "2025-09-17",
+    "time": "11:00 AM - 04:00 PM",
     "tags": [
       "Career Center",
       "Student Events"
@@ -3297,6 +3293,19 @@
     ]
   },
   {
+    "title": "Jane Young Fall 2025 Film Series: Greed, a Film Retrospective",
+    "link": "https://www.bmcc.cuny.edu/event/jane-young-fall-2025-film-series-greed-a-film-retrospective/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-21",
+    "time": "07:00 PM - 09:00 PM",
+    "tags": [
+      "English",
+      "Featured",
+      "Media Arts and Technology",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "NY State Opportunity Promise: Free Community College Information Session",
     "link": "https://www.bmcc.cuny.edu/event/ny-state-opportunity-promise-free-community-college-information-session/2025-09-22/1/",
     "college": "Borough of Manhattan Community College",
@@ -3372,17 +3381,6 @@
       "CUNY in The Heights",
       "Student Affairs",
       "Women's Resource Center"
-    ]
-  },
-  {
-    "title": "Pace University On-site Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/pace-university-on-site-information-session/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-29",
-    "time": "01:30 PM - 03:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer",
-      "Featured"
     ]
   },
   {
@@ -3708,6 +3706,19 @@
     ]
   },
   {
+    "title": "A Conversation with Mexican-Canadian Author Martha Bátiz (259052-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11633374",
+    "college": "College of Staten Island",
+    "date": "2025-09-18",
+    "time": "04:00 PM - 06:15 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "CC CLUE",
+      "Cultural"
+    ]
+  },
+  {
     "title": "Study Abroad Fair (259040-CC)",
     "link": "https://csi.campuslabs.com/engage/event/11422287",
     "college": "College of Staten Island",
@@ -3758,6 +3769,16 @@
     "time": "06:30 PM - 08:30 PM",
     "tags": [
       "Social"
+    ]
+  },
+  {
+    "title": "Principles of Generative Diffusion Models",
+    "link": "https://csi.campuslabs.com/engage/event/11635689",
+    "college": "College of Staten Island",
+    "date": "2025-09-18",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "ThoughtfulLearning"
     ]
   },
   {
@@ -4052,6 +4073,17 @@
     ]
   },
   {
+    "title": "Weekly Tea Time",
+    "link": "https://csi.campuslabs.com/engage/event/11507171",
+    "college": "College of Staten Island",
+    "date": "2025-10-15",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "Social",
+      "Willowbrook Campus"
+    ]
+  },
+  {
     "title": "CAB Film Showings: Elio",
     "link": "https://csi.campuslabs.com/engage/event/11366301",
     "college": "College of Staten Island",
@@ -4177,6 +4209,16 @@
     "time": "2:30 PM - 4:30 PM",
     "tags": [
       "Student Life"
+    ]
+  },
+  {
+    "title": "Children’s Aid Information Session",
+    "link": "https://events.cuny.edu/cec/childrens-aid-information-session/",
+    "college": "College of Staten Island",
+    "date": "2025-09-16",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Career Center"
     ]
   },
   {
@@ -4540,6 +4582,14 @@
     "tags": []
   },
   {
+    "title": "Your Personal Security: How to stay safe and aware in the workplace and daily life",
+    "link": "https://sph.cuny.edu/event/your-personal-security-how-to-stay-safe-and-aware-in-the-workplace-and-daily-life/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-01",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
     "title": "Community Health Virtual Info Session",
     "link": "https://sph.cuny.edu/event/sph-virtual-info-session-community-health/",
     "college": "CUNY School of Public Health",
@@ -4740,14 +4790,6 @@
     "tags": []
   },
   {
-    "title": "Philosophy, Philosophy of Law & the Humanities",
-    "link": "https://www.jjay.cuny.edu/news-events/events/philosophy-philosophy-law-humanities",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-15",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
     "title": "Virtual Admissions Info Session",
     "link": "https://www.jjay.cuny.edu/news-events/events/virtual-admissions-info-session-12",
     "college": "John Jay College of Criminal Justice",
@@ -4924,6 +4966,14 @@
     "tags": []
   },
   {
+    "title": "CUNY Career Discovery Week",
+    "link": "https://www.jjay.cuny.edu/news-events/events/cuny-career-discovery-week",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-03",
+    "time": "03:00 PM",
+    "tags": []
+  },
+  {
     "title": "Online Information Session for Prospective Students",
     "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-5/",
     "college": "Macaulay Honors College",
@@ -5020,30 +5070,6 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-15",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
-    "college": "York College",
-    "date": "2025-09-15",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-09-15",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "Outdoor Track and Open Tennis",
     "link": "https://www.york.cuny.edu/events/2025/outdoor-track-tennis-fall-2025",
     "college": "York College",
@@ -5064,7 +5090,7 @@
     "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
     "college": "York College",
     "date": "2025-09-15",
-    "time": "8:00 PM - 11:00 PM",
+    "time": "8:00 PM - 10:00 PM",
     "tags": []
   },
   {
@@ -5076,11 +5102,35 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
     "college": "York College",
     "date": "2025-09-16",
-    "time": "8:00 PM - 11:00 PM",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-16",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
+    "college": "York College",
+    "date": "2025-09-16",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Safe Zone Training - Sept 16",
+    "link": "https://www.york.cuny.edu/womens-center/safe-zone-training",
+    "college": "York College",
+    "date": "2025-09-16",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5217,54 +5267,6 @@
     "description": ""
   },
   {
-    "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-15-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-15",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Career Services Event"
-  },
-  {
-    "title": "The English Department's Welcome Read Kick-off Lecture with Dr. Hieu Phung",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-15-the-english-departments-welcome-read-kick-off-lecture-with-dr.-hieu-phung.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-15",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Lecture"
-  },
-  {
-    "title": "The English Department's Welcome Read Kick-off Lecture with Dr. Hieu Phung",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-15-the-english-departments-welcome-read-kick-off-lecture-with-dr.-hieu-phung1.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-15",
-    "time": "12:00 PM - 01:00 PM",
-    "description": "Lecture"
-  },
-  {
-    "title": "Color, Create & Be Calm",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-15-color-create-be-calm.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-15",
-    "time": "12:30 PM - 02:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "CUNY Transfer Application Workshop",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-15-cuny-transfer-application-workshop.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-15",
-    "time": "01:00 PM - 02:00 PM",
-    "description": "Transfer Resource Center Event"
-  },
-  {
-    "title": "President's Book Club",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-15-presidents-book-club.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-15",
-    "time": "01:00 PM - 02:15 PM",
-    "description": "Student Event"
-  },
-  {
     "title": "General Chemistry I Workshop Series: Week 1 Measurements & Dimensional Analysis",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-16-general-chemistry-i-workshop-series-week-1-measurements-dimensional-analysis.html",
     "college": "Queensborough Community College",
@@ -5337,6 +5339,14 @@
     "description": "Special Event / Fair"
   },
   {
+    "title": "Constitution Day Trivia Challenge 2025!",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-constitution-day-trivia-challenge-2025.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-17",
+    "time": "12:15 PM - 01:15 PM",
+    "description": "Special Event / Fair"
+  },
+  {
     "title": "SACNAS QCC Chapter Welcome Back & Info Session",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-sacnas-qcc-chapter-welcome-back-info-session.html",
     "college": "Queensborough Community College",
@@ -5374,6 +5384,30 @@
     "college": "Queensborough Community College",
     "date": "2025-09-17",
     "time": "02:00 PM - 03:30 PM",
+    "description": "Career Services Event"
+  },
+  {
+    "title": "No Experience? No Problem! – CUNY Spring Forward",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-no-experience-no-problem-cuny-spring-forward.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-17",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "ASAP Career Event"
+  },
+  {
+    "title": "From Częstochowa to Bayside: The Story of the KHC’s Torah Scroll",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-17-from-cz%C4%99stochowa-to-bayside-the-story-of-the-khcs-torah-scroll.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-17",
+    "time": "02:30 PM - 04:00 PM",
+    "description": ""
+  },
+  {
+    "title": "Virtual Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-18-virtual-resume-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-18",
+    "time": "03:00 PM - 04:00 PM",
     "description": "Career Services Event"
   },
   {
