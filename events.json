@@ -2107,26 +2107,36 @@
     "tags": []
   },
   {
-    "title": "BMEC Open House",
-    "link": "https://www.laguardia.edu/event/bmec-open-house/",
-    "college": "LaGuardia Community College",
-    "date": "2025-09-18",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
+    "title": "Leadership Development Seminar",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a366c3f8-69aa-4e47-bf72-009149fb121d",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-17",
+    "time": "10:00 AM - 02:00 PM",
+    "tags": []
   },
   {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-09-18/",
-    "college": "LaGuardia Community College",
-    "date": "2025-09-18",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
+    "title": "Deloitte Accounting 1.0 Workshop",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/2ff4c3b4-77f7-4537-9645-630cc62644cc",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-30",
+    "time": "05:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Brooklyn Navy Yard Virtual Information Session",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/42d29649-c869-4e76-b107-9057f7c6a501",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-05",
+    "time": "07:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "How to Ace the Interview Workshop (Virtual)",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/03905da6-ceb1-461b-bb88-67f8e6fb9b71",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-06",
+    "time": "08:00 PM - 08:00 PM",
+    "tags": []
   },
   {
     "title": "Learning without AI",
@@ -2319,17 +2329,6 @@
     ]
   },
   {
-    "title": "Your Guide to Transfer: An Overview of the 2025 -2026 Scholarship and Applications",
-    "link": "https://www.laguardia.edu/event/your-guide-to-transfer-an-overview-of-the-2025-2026-scholarship-and-applications/",
-    "college": "LaGuardia Community College",
-    "date": "2025-09-30",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "SUNY Binghamton - Virtual Transfer Tuesdays - Liberal Arts and Sciences Transfer Prerequisites",
     "link": "https://www.laguardia.edu/event/suny-binghamton-virtual-transfer-tuesdays-liberal-arts-and-sciences-transfer-prerequisites/",
     "college": "LaGuardia Community College",
@@ -2405,6 +2404,40 @@
     "tags": [
       "all calendars",
       "community & business events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-10-06/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-06",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Modern Languages Workshop",
+    "link": "https://www.laguardia.edu/event/modern-languages-workshop/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-07",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Master Class with Limón Dance Company",
+    "link": "https://www.laguardia.edu/event/master-class-with-limon-dance-company/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-08",
+    "time": "09:00 AM - 10:15 AM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "student events"
     ]
   },
   {
@@ -2910,26 +2943,6 @@
     ]
   },
   {
-    "title": "Artist Encounter: Making Theater During Wartime",
-    "link": "https://hunter.cuny.edu/event/artist-encounter-making-theater-during-wartime/",
-    "college": "Hunter College",
-    "date": "2025-09-18",
-    "time": "11:30 AM - 01:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
-    "link": "https://hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-4/2025-09-18/",
-    "college": "Hunter College",
-    "date": "2025-09-18",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
     "title": "Port Authority of NY & NJ Leadership Fellow Program Info Session",
     "link": "https://hunter.cuny.edu/event/port-authority-of-ny-nj-leadership-fellow-program-info-session/",
     "college": "Hunter College",
@@ -3189,6 +3202,24 @@
       "Conferences & Workshops",
       "Student Events"
     ]
+  },
+  {
+    "title": "Nebrija University Summer Program Info Session",
+    "link": "https://hunter.cuny.edu/event/nebrija-university-summer-program-info-session/",
+    "college": "Hunter College",
+    "date": "2025-09-30",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Study Abroad"
+    ]
+  },
+  {
+    "title": "PPAP 1000-Research Skills 101 (Information Research)",
+    "link": "https://hunter.cuny.edu/event/ppap-1000-research-skills-101-information-research/",
+    "college": "Hunter College",
+    "date": "2025-09-30",
+    "time": "02:30 PM - 03:50 PM",
+    "tags": []
   },
   {
     "title": "9/11 Volunteer Series: Remembrance, Respect and Resilience",
@@ -3675,7 +3706,7 @@
     ]
   },
   {
-    "title": "THE AMAZING WELLNESS RACE",
+    "title": "THE AMAZING WELLNESS RACE (259034-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11383187",
     "college": "College of Staten Island",
     "date": "2025-09-18",
@@ -4639,6 +4670,14 @@
     "tags": []
   },
   {
+    "title": "Virtual Support Space for New Students",
+    "link": "https://sph.cuny.edu/event/virtual-supportive-space-for-new-students/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-10-06",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
     "title": "Resource Discovery Series: APHA’s Big Interview and ResumeAI",
     "link": "https://sph.cuny.edu/event/resource-discovery-series-aphas-big-interview-and-resumeai/",
     "college": "CUNY School of Public Health",
@@ -4848,7 +4887,7 @@
   },
   {
     "title": "Impulse Su Marca Con Google",
-    "link": "https://www.lehman.edu/events/2025/Impulse-Su-Marca-Con-Google-1.php",
+    "link": "https://www.lehman.edu/events/2025/Impulse-Su-Marca-Con-Google.php",
     "college": "Lehman College",
     "date": "2025-09-25",
     "time": "12:00 PM- 1:00 PM",
@@ -4919,6 +4958,14 @@
     "tags": []
   },
   {
+    "title": "Book Talk: Run, Zohran, Run!",
+    "link": "https://www.jjay.cuny.edu/news-events/events/book-talk-run-zohran-run",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-09-29",
+    "time": "10:00 AM",
+    "tags": []
+  },
+  {
     "title": "9/11 Memorial & Museum Clean-Up",
     "link": "https://www.jjay.cuny.edu/news-events/events/911-memorial-museum-clean",
     "college": "John Jay College of Criminal Justice",
@@ -4951,8 +4998,8 @@
     "tags": []
   },
   {
-    "title": "Petroforms",
-    "link": "https://www.jjay.cuny.edu/news-events/events/petroforms",
+    "title": "Book Talk: Petroforms",
+    "link": "https://www.jjay.cuny.edu/news-events/events/book-talk-petroforms",
     "college": "John Jay College of Criminal Justice",
     "date": "2025-10-15",
     "time": "08:30 PM",
@@ -5039,14 +5086,6 @@
     "tags": []
   },
   {
-    "title": "Open House",
-    "link": "https://www.jjay.cuny.edu/news-events/events/open-house",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-22",
-    "time": "02:30 PM",
-    "tags": []
-  },
-  {
     "title": "Online Information Session for Prospective Students",
     "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-5/",
     "college": "Macaulay Honors College",
@@ -5124,134 +5163,6 @@
     "college": "Macaulay Honors College",
     "date": "2025-10-09",
     "time": "7:00PM",
-    "tags": []
-  },
-  {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-09-18",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-18",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
-    "college": "York College",
-    "date": "2025-09-18",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Google Interview Prep For CUNY York",
-    "link": "https://www.york.cuny.edu/career-services/interview-prep-for-cuny-york",
-    "college": "York College",
-    "date": "2025-09-18",
-    "time": "4:00 PM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Follow Your Heart: Professional Pursuits in Health & Human Performance",
-    "link": "https://www.york.cuny.edu/events/follow-your-heart-professional-pursuits-in-health-human-performance",
-    "college": "York College",
-    "date": "2025-09-18",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Weekly Yoga",
-    "link": "https://www.york.cuny.edu/events/weekly-yoga",
-    "college": "York College",
-    "date": "2025-09-18",
-    "time": "5:00 PM - 5:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Outdoor Track and Open Tennis",
-    "link": "https://www.york.cuny.edu/events/2025/outdoor-track-tennis-fall-2025",
-    "college": "York College",
-    "date": "2025-09-18",
-    "time": "6:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Tennis vs. University of Mount Saint Vincent",
-    "link": "https://www.york.cuny.edu/events/2025/womens-tennis-vs-usmv-09182025",
-    "college": "York College",
-    "date": "2025-09-18",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
-    "college": "York College",
-    "date": "2025-09-18",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "New Faculty Mixer",
-    "link": "https://www.york.cuny.edu/events/2025/new-faculty-mixer",
-    "college": "York College",
-    "date": "2025-09-18",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Faculty & Staff Dedicated Fitness Center Hours",
-    "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-19",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Soccer vs. University of Valley Forge",
-    "link": "https://www.york.cuny.edu/events/2025/womens-soccer-vs-valley-forge-09202025",
-    "college": "York College",
-    "date": "2025-09-20",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Evening Students Grab and Go / Ice Cream Social Giveaway (Scoops and Socials)",
-    "link": "https://www.york.cuny.edu/events/2025/evening-students-grab-and-go-ice-cream-social-giveaway-scoops-and-socials",
-    "college": "York College",
-    "date": "2025-09-22",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Soccer vs. Pratt Institute",
-    "link": "https://www.york.cuny.edu/events/2025/womens-soccer-vs-pratt-09222025",
-    "college": "York College",
-    "date": "2025-09-22",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Nursing Information Session",
-    "link": "https://www.york.cuny.edu/events/2025/nursing-information-session",
-    "college": "York College",
-    "date": "2025-09-23",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "WA Grades assigned – Immunization non-compliance",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/wa-grades-assigned-immunization-non-compliance-1",
-    "college": "York College",
-    "date": "2025-09-24",
-    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
