@@ -1,13 +1,5 @@
 [
   {
-    "title": "Harlem International Film Festival - Day Three",
-    "link": "https://www.ccny.cuny.edu/calendar/harlem-international-film-festival-day-3",
-    "college": "City College of New York",
-    "date": "2025-09-19",
-    "time": "12:00 PM - 10:30 PM",
-    "tags": []
-  },
-  {
     "title": "Sustainability in the Urban Environment: Celebrating 15 Years",
     "link": "https://www.ccny.cuny.edu/calendar/sustainability-urban-environment-celebrating-15-years",
     "college": "City College of New York",
@@ -2102,18 +2094,6 @@
     ]
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2025-09-19/",
-    "college": "LaGuardia Community College",
-    "date": "2025-09-19",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-09-22/",
     "college": "LaGuardia Community College",
@@ -2393,6 +2373,28 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-10-08/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-08",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Student Clubs Fair (Fall Fest)",
+    "link": "https://www.laguardia.edu/event/student-clubs-fair-fall-fest/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-08",
+    "time": "02:00 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "CUNY Spring Forward Internship Info Session",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376455",
     "college": "Guttman Community College",
@@ -2468,20 +2470,6 @@
       "Weeks Of Welcome",
       "Hispanic/LatinX Heritage Month",
       "Food - Light Refreshments "
-    ]
-  },
-  {
-    "title": "Check-in With Your Financial Aid Advisor",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376597",
-    "college": "Guttman Community College",
-    "date": "2025-09-29",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": [
-      "EMSA",
-      "Office Hours",
-      "Financial Aid",
-      "FASFA & TAP Applications",
-      "Satisfactory Academic Progress (SAP)"
     ]
   },
   {
@@ -2846,16 +2834,6 @@
     ]
   },
   {
-    "title": "CENTRO Open House",
-    "link": "https://hunter.cuny.edu/event/centro-open-house-3/",
-    "college": "Hunter College",
-    "date": "2025-09-19",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
     "title": "Cafecito con... Marisol Negron & Matti Steinitz: The Revolutionary Notes of Salsa & Latin Soul",
     "link": "https://hunter.cuny.edu/event/cafecito-con-marisol-negron-matti-steinitz-the-revolutionary-notes-of-salsa-latin-soul/",
     "college": "Hunter College",
@@ -3126,34 +3104,12 @@
     ]
   },
   {
-    "title": "Social Sciences and Human Services Open House",
-    "link": "https://www.bmcc.cuny.edu/event/social-sciences-and-human-services-open-house/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-19",
-    "time": "11:00 AM - 03:00 PM",
-    "tags": [
-      "Featured",
-      "Social Sciences",
-      "Human Services and Criminal Justice"
-    ]
-  },
-  {
-    "title": "BMCC Writing Center: Composition Workshops",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-composition-workshops/2025-09-19/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-19",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Academic Affairs",
-      "Academic Calendar",
-      "Academic Literacy and Linguistics",
-      "Advocacy and Resource Center",
-      "English",
-      "Featured",
-      "New Student Programs",
-      "Workshops",
-      "Writing Center"
-    ]
+    "title": "Purple PEERiod Project",
+    "link": "https://hunter.cuny.edu/event/purple-peeriod-project-6/",
+    "college": "Hunter College",
+    "date": "2025-10-07",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "Jane Young Fall 2025 Film Series: Greed, a Film Retrospective",
@@ -3283,13 +3239,31 @@
     "link": "https://www.bmcc.cuny.edu/event/whats-your-love-language-2/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-09-25",
-    "time": "03:00 PM - 05:00 PM",
+    "time": "02:00 PM - 04:00 PM",
     "tags": [
       "Center for Belonging and Inclusion",
       "Counseling Center",
       "CUNY in The Heights",
       "Student Affairs",
       "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "BMCC Writing Center: Composition Workshops",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-composition-workshops/2025-09-25/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-25",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "Academic Affairs",
+      "Academic Calendar",
+      "Academic Literacy and Linguistics",
+      "Advocacy and Resource Center",
+      "English",
+      "Featured",
+      "New Student Programs",
+      "Workshops",
+      "Writing Center"
     ]
   },
   {
@@ -3442,15 +3416,17 @@
     ]
   },
   {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2025-09-19/",
-    "college": "Bronx Community College",
-    "date": "2025-09-19",
-    "time": "02:00 PM - 05:00 PM",
+    "title": "PricewaterhouseCoopers (PwC) Coffee and Chat",
+    "link": "https://www.bmcc.cuny.edu/event/pricewaterhousecoopers-pwc-coffee-and-chat/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-08",
+    "time": "02:00 PM - 04:00 PM",
     "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Virtual Event"
+      "Accounting",
+      "Business Management",
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
     ]
   },
   {
@@ -3567,22 +3543,6 @@
       "Enrollment Management",
       "Feature",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "United Together - LGBTQ+, Diverse, and Allied Business Summit",
-    "link": "https://csi.campuslabs.com/engage/event/11525704",
-    "college": "College of Staten Island",
-    "date": "2025-09-19",
-    "time": "02:00 PM - 08:00 PM",
-    "tags": [
-      "Social",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion",
-      "Conference",
-      "Off Campus Event",
-      "Career Development"
     ]
   },
   {
@@ -4695,14 +4655,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Admissions Info Session",
-    "link": "https://www.jjay.cuny.edu/news-events/events/virtual-admissions-info-session-13",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-19",
-    "time": "08:00 PM",
-    "tags": []
-  },
-  {
     "title": "Bloodhound Thursday",
     "link": "https://www.jjay.cuny.edu/news-events/events/bloodhound-thursday",
     "college": "John Jay College of Criminal Justice",
@@ -4967,14 +4919,6 @@
     "tags": []
   },
   {
-    "title": "Faculty & Staff Dedicated Fitness Center Hours",
-    "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-19",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Women’s Soccer vs. University of Valley Forge",
     "link": "https://www.york.cuny.edu/events/2025/womens-soccer-vs-valley-forge-09202025",
     "college": "York College",
@@ -5076,6 +5020,14 @@
     "college": "York College",
     "date": "2025-09-25",
     "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Faculty & Staff Dedicated Fitness Center Hours",
+    "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-26",
+    "time": "8:00 PM - 10:00 PM",
     "tags": []
   },
   {
