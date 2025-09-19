@@ -1,13 +1,5 @@
 [
   {
-    "title": "School of Education Admissions Test (SEAT) | Fall 2025 | 1/4",
-    "link": "https://www.ccny.cuny.edu/calendar/school-education-admissions-test-seat-fall-2025-14",
-    "college": "City College of New York",
-    "date": "2025-09-19",
-    "time": "10:00 AM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "Harlem International Film Festival - Day Three",
     "link": "https://www.ccny.cuny.edu/calendar/harlem-international-film-festival-day-3",
     "college": "City College of New York",
@@ -2479,6 +2471,20 @@
     ]
   },
   {
+    "title": "Check-in With Your Financial Aid Advisor",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376597",
+    "college": "Guttman Community College",
+    "date": "2025-09-29",
+    "time": "06:30 PM - 08:00 PM",
+    "tags": [
+      "EMSA",
+      "Office Hours",
+      "Financial Aid",
+      "FASFA & TAP Applications",
+      "Satisfactory Academic Progress (SAP)"
+    ]
+  },
+  {
     "title": "CUNY Spring Forward Internship Info Session",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376458",
     "college": "Guttman Community College",
@@ -2840,18 +2846,6 @@
     ]
   },
   {
-    "title": "Columbia University Data Science Institute – Student Portfolio & Network Building Group Session",
-    "link": "https://hunter.cuny.edu/event/mayo-clinic-radiology-revealed-a-journey-through-imaging-innovation/",
-    "college": "Hunter College",
-    "date": "2025-09-19",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
     "title": "CENTRO Open House",
     "link": "https://hunter.cuny.edu/event/centro-open-house-3/",
     "college": "Hunter College",
@@ -3119,6 +3113,16 @@
     "tags": [
       "Performing Arts & Film",
       "Student Events"
+    ]
+  },
+  {
+    "title": "Mechanisms of Malaria Pathogenesis and Immune Response",
+    "link": "https://hunter.cuny.edu/event/mechanisms-of-malaria-pathogenesis-and-immune-response/",
+    "college": "Hunter College",
+    "date": "2025-10-06",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "Lectures"
     ]
   },
   {
@@ -4547,6 +4551,14 @@
     "tags": []
   },
   {
+    "title": "Employer Discovery Series: NYC Department of Health and Mental Hygiene",
+    "link": "https://sph.cuny.edu/event/employer-discovery-series-nyc-department-of-health-and-mental-hygiene/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-11-03",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
     "title": "Meet Your Career Coach: Career Success at CUNY SPH",
     "link": "https://sph.cuny.edu/event/meet-your-career-coach-career-success-at-cuny-sph/",
     "college": "CUNY School of Public Health",
@@ -4931,6 +4943,14 @@
     "tags": []
   },
   {
+    "title": "Safe Zone Training",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/safe-zone-training/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-09",
+    "time": "5:30PM",
+    "tags": []
+  },
+  {
     "title": "The Friedman Transfer Scholars Program: Virtual Information Session",
     "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-2/",
     "college": "Macaulay Honors College",
@@ -4944,30 +4964,6 @@
     "college": "Macaulay Honors College",
     "date": "2025-10-09",
     "time": "7:00PM",
-    "tags": []
-  },
-  {
-    "title": "Momentum: The Macaulay Achievement Experience Conference",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/momentum-the-macaulay-achievement-experience-conference/",
-    "college": "Macaulay Honors College",
-    "date": "2025-10-22",
-    "time": "2:00PM",
-    "tags": []
-  },
-  {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-09-19",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-19",
-    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5024,6 +5020,22 @@
     "college": "York College",
     "date": "2025-09-24",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-09-25",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-25",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5195,22 +5207,6 @@
     "description": ""
   },
   {
-    "title": "Breaking New Ground: Succeeding as a First-Generation College Student",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-19-breaking-new-ground-succeeding-as-a-first-generation-college-student.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-19",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "Paint N' Chill Student Workshop",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-19-paint-n-chill-student-workshop.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-19",
-    "time": "01:00 PM - 03:00 PM",
-    "description": "Conference and Workshop"
-  },
-  {
     "title": "Virtual Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-22-virtual-resume-hour.html",
     "college": "Queensborough Community College",
@@ -5355,6 +5351,22 @@
     "description": "ASAP Career Event"
   },
   {
+    "title": "Track with President Mangino",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-29-track-with-president-mangino.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-29",
+    "time": "03:30 PM - 04:30 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "“El Abrazo de la Serpiente” Movie Screening",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-30-el-abrazo-de-la-serpiente-movie-screening.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-30",
+    "time": "12:00 PM - 02:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
     "title": "Reading Tips to Save Time",
     "link": "https://www.eventbrite.com/e/reading-tips-to-save-time-tickets-1513459882249?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
@@ -5395,14 +5407,6 @@
     "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. <br><b>*Registration closes at 4:30pm on 11/14*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator\">HERE</a></b>"
   },
   {
-    "title": "The Innocence Project",
-    "link": "https://us02web.zoom.us/meeting/register/Dld5ujJJSQWnMMcBZIIjOw#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-09-24",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "<b>Registration link:</b> <a href=\"https://us02web.zoom.us/meeting/register/Dld5ujJJSQWnMMcBZIIjOw#/registration\">https://us02web.zoom.us/meeting/register/Dld5ujJJSQWnMMcBZIIjOw#/registration</a>"
-  },
-  {
     "title": "Resume Writing",
     "link": "https://us02web.zoom.us/meeting/register/ahuxrukuQheKkwg6XC06Ug#/registration",
     "college": "CUNY School of Labor and Urban Studies",
@@ -5433,5 +5437,13 @@
     "date": "2025-11-18",
     "time": "11:00 PM - 12:00 AM",
     "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
+  },
+  {
+    "title": "The Innocence Project",
+    "link": "https://us02web.zoom.us/meeting/register/Dld5ujJJSQWnMMcBZIIjOw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-09-26",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "<b>Registration link:</b> <a href=\"https://us02web.zoom.us/meeting/register/Dld5ujJJSQWnMMcBZIIjOw#/registration\">https://us02web.zoom.us/meeting/register/Dld5ujJJSQWnMMcBZIIjOw#/registration</a>"
   }
 ]
