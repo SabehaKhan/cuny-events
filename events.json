@@ -104,6 +104,14 @@
     "tags": []
   },
   {
+    "title": "Caregiving by Sloka Iyengar",
+    "link": "https://www.ccny.cuny.edu/calendar/caregiving-sloka-iyengar",
+    "college": "City College of New York",
+    "date": "2025-09-27",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": []
+  },
+  {
     "title": "Theatre Production: SISTER MARY IGNATIUS EXPLAINS IT ALL FOR YOU directed by Marina Viskovic",
     "link": "https://www.ccny.cuny.edu/calendar/theatre-production-sister-mary-ignatius-explains-it-all-you-directed-marina-viskovic-4",
     "college": "City College of New York",
@@ -328,8 +336,16 @@
     "tags": []
   },
   {
-    "title": "Powell School Fall Alumni Social Hour",
+    "title": "After Office Alumni Social",
     "link": "https://www.ccny.cuny.edu/calendar/fall-alumni-networking-social",
+    "college": "City College of New York",
+    "date": "2025-10-15",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Archiving for films, for community",
+    "link": "https://www.ccny.cuny.edu/calendar/archiving-films-community",
     "college": "City College of New York",
     "date": "2025-10-15",
     "time": "06:00 PM - 08:00 PM",
@@ -2059,17 +2075,6 @@
     "tags": []
   },
   {
-    "title": "SUNY Binghamton - Virtual Transfer Tuesdays - Learn about Engineering or Computer Science Transfer Prerequisites",
-    "link": "https://www.laguardia.edu/event/suny-binghamton-virtual-transfer-tuesdays-learn-about-engineering-or-computer-science-transfer-prerequisites/",
-    "college": "LaGuardia Community College",
-    "date": "2025-09-23",
-    "time": "03:30 PM - 04:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Wednesdays (In-Person)",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-09-24/",
     "college": "LaGuardia Community College",
@@ -2134,6 +2139,28 @@
       "admissions",
       "all calendars",
       "student events"
+    ]
+  },
+  {
+    "title": "QPR Gatekeeper Training: Suicide Prevention Certification Course",
+    "link": "https://www.laguardia.edu/event/qpr-gatekeeper-training-suicide-prevention-certification-course/",
+    "college": "LaGuardia Community College",
+    "date": "2025-09-26",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Learning with AI",
+    "link": "https://www.laguardia.edu/event/learning-with-ai/",
+    "college": "LaGuardia Community College",
+    "date": "2025-09-26",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff"
     ]
   },
   {
@@ -2347,17 +2374,6 @@
     "tags": [
       "all calendars",
       "community & business events",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-10-08/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-08",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
       "student events"
     ]
   },
@@ -2607,6 +2623,17 @@
     ]
   },
   {
+    "title": "Disability Advocacy & Career Summit",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376599",
+    "college": "Guttman Community College",
+    "date": "2025-10-17",
+    "time": "01:30 PM - 06:30 PM",
+    "tags": [
+      "EMSA",
+      "Career Workshop"
+    ]
+  },
+  {
     "title": "Disability Pride Parade",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376396",
     "college": "Guttman Community College",
@@ -2814,14 +2841,6 @@
     ]
   },
   {
-    "title": "Graduate Admissions Information Session",
-    "link": "https://hunter.cuny.edu/event/graduate-admissions-information-session-26/",
-    "college": "Hunter College",
-    "date": "2025-09-23",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Pre-Health Study Abroad Virtual Advising Sessions",
     "link": "https://hunter.cuny.edu/event/pre-health-study-abroad-virtual-advising-sessions/",
     "college": "Hunter College",
@@ -2856,6 +2875,16 @@
     "date": "2025-09-25",
     "time": "10:00 AM - 02:00 PM",
     "tags": []
+  },
+  {
+    "title": "A Conversation with Professor Stefania Lucamante",
+    "link": "https://hunter.cuny.edu/event/a-conversation-with-professor-stefania-lucamante/",
+    "college": "Hunter College",
+    "date": "2025-09-25",
+    "time": "01:00 PM - 02:15 PM",
+    "tags": [
+      "Lectures"
+    ]
   },
   {
     "title": "Women, Algeria, Torture, Foucault: Advancing the Anticolonial Sociology of Marnia Lazier",
@@ -3095,40 +3124,6 @@
     ]
   },
   {
-    "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga/2025-09-23/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-23",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Transfer Talk Tuesday: Explore Your Options After BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/transfer-talk-tuesday-explore-your-options-after-bmcc-21/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-23",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer",
-      "Academic Affairs",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-259/2025-09-23/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-23",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
     "title": "Admissions Information Session (In-Person)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-50/2025-09-24/",
     "college": "Borough of Manhattan Community College",
@@ -3220,6 +3215,19 @@
     ]
   },
   {
+    "title": "Pride Month: Library as a Joyful Space: The Book of Joy",
+    "link": "https://www.bmcc.cuny.edu/event/pride-month-library-as-a-joyful-space-the-book-of-joy/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-26",
+    "time": "03:30 PM - 04:30 PM",
+    "tags": [
+      "Featured",
+      "LGBTQ Pride Month",
+      "Library",
+      "Pride Center"
+    ]
+  },
+  {
     "title": "Jane Young Fall 2025 Film Series: Greed, a Film Retrospective",
     "link": "https://www.bmcc.cuny.edu/event/jane-young-fall-2025-film-series-greed-a-film-retrospective/2025-09-28/",
     "college": "Borough of Manhattan Community College",
@@ -3257,6 +3265,28 @@
     ]
   },
   {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga/2025-09-30/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-30",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-259/2025-09-30/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-30",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
     "title": "Spilling the Tea: Meet the Counseling Center",
     "link": "https://www.bmcc.cuny.edu/event/spilling-the-tea-meet-the-counseling-center/",
     "college": "Borough of Manhattan Community College",
@@ -3289,6 +3319,18 @@
     "time": "04:00 PM - 05:00 PM",
     "tags": [
       "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Pride Month: BMCC Reel Queer Film Series Screening + Discussion: Silent Notes",
+    "link": "https://www.bmcc.cuny.edu/event/pride-month-bmcc-reel-queer-film-series-screening-discussion-silent-notes/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-30",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Featured",
+      "LGBTQ Pride Month",
+      "Pride Center"
     ]
   },
   {
@@ -3340,6 +3382,19 @@
     ]
   },
   {
+    "title": "Pride Month: Self-Defense Workshop I with Fearless Queers",
+    "link": "https://www.bmcc.cuny.edu/event/pride-month-self-defense-workshop-i-with-fearless-queers/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-03",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "LGBTQ Pride Month",
+      "Pride Center"
+    ]
+  },
+  {
     "title": "Online Free Workshop: Microsoft Excel Orientation (Students Only)",
     "link": "https://www.bmcc.cuny.edu/event/online-free-workshop-microsoft-excel-orientation-students-only-263/",
     "college": "Borough of Manhattan Community College",
@@ -3347,6 +3402,19 @@
     "time": "04:00 PM - 05:00 PM",
     "tags": [
       "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Pride Month Opening Lunch: Spaces of Joy",
+    "link": "https://www.bmcc.cuny.edu/event/pride-month-opening-lunch-spaces-of-joy/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-06",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "LGBTQ Pride Month",
+      "Pride Center"
     ]
   },
   {
@@ -3362,6 +3430,19 @@
     ]
   },
   {
+    "title": "BMCC Reel Queer Film Series Screening + Discussion: Paris is Burning",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-reel-queer-film-series-screening-discussion-paris-is-burning/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-07",
+    "time": "06:00 PM - 08:30 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "LGBTQ Pride Month",
+      "Pride Center"
+    ]
+  },
+  {
     "title": "Academic Notice Back to Success Power Hour: Utilizing BMCC Resources",
     "link": "https://www.bmcc.cuny.edu/event/academic-notice-back-tosuccess-power-hour-utilizing-bmcc-resources/2025-10-08/",
     "college": "Borough of Manhattan Community College",
@@ -3371,54 +3452,6 @@
       "Counseling Center",
       "Featured",
       "Student Affairs"
-    ]
-  },
-  {
-    "title": "Moneyworks Seminar:  Graduating Without Debt.",
-    "link": "https://www.bmcc.cuny.edu/event/moneyworks-seminar-graduating-without-debt/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-08",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Featured",
-      "Moneyworks"
-    ]
-  },
-  {
-    "title": "PricewaterhouseCoopers (PwC) Coffee and Chat",
-    "link": "https://www.bmcc.cuny.edu/event/pricewaterhousecoopers-pwc-coffee-and-chat/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-08",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Accounting",
-      "Business Management",
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Spilling the Tea: Meet the Counseling Center (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/spilling-the-tea-meet-the-counseling-center-online/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-09",
-    "time": "01:00 PM - 02:30 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Storytelling 101",
-    "link": "https://www.bmcc.cuny.edu/event/storytelling-101/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-09",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
     ]
   },
   {
@@ -3535,16 +3568,6 @@
       "Enrollment Management",
       "Feature",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "WSIA Workshop Series 1 & 2",
-    "link": "https://csi.campuslabs.com/engage/event/11463083",
-    "college": "College of Staten Island",
-    "date": "2025-09-23",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "ThoughtfulLearning"
     ]
   },
   {
@@ -4089,6 +4112,18 @@
     ]
   },
   {
+    "title": "ColorStack Club",
+    "link": "https://csi.campuslabs.com/engage/event/11639014",
+    "college": "College of Staten Island",
+    "date": "2025-10-23",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Leadership",
+      "Entertainment"
+    ]
+  },
+  {
     "title": "CAB Film Showings: Elio",
     "link": "https://csi.campuslabs.com/engage/event/11366301",
     "college": "College of Staten Island",
@@ -4148,14 +4183,6 @@
     "tags": []
   },
   {
-    "title": "Preparing for Post-Completion Optional Practical Training (OPT) Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/?p=659322",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-24",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "The Adult Student Iced Coffee Social",
     "link": "https://events.cuny.edu/cec/the-adult-student-iced-coffee-social/",
     "college": "College of Staten Island",
@@ -4163,6 +4190,38 @@
     "time": "1:30 PM - 3:30 PM",
     "tags": [
       "Adult Learners"
+    ]
+  },
+  {
+    "title": "Résumé Writing for Success",
+    "link": "https://events.cuny.edu/cec/resume-writing-for-success/",
+    "college": "College of Staten Island",
+    "date": "2025-09-25",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Accessibility",
+      "Career Center"
+    ]
+  },
+  {
+    "title": "Fall 2025 Sciame Lecture Series: Adi Shamir-Baron",
+    "link": "https://events.cuny.edu/cec/fall-2025-sciame-lecture-series-adi-shamir-baron/",
+    "college": "The City College of New York",
+    "date": "2025-09-25",
+    "time": "5:30 PM - 7:00 PM",
+    "tags": [
+      "Adi Shamir-Baron",
+      "Fall 2025 Sciame Lecture Series"
+    ]
+  },
+  {
+    "title": "CCNY CWE Admissions Workshop (Spring 2026 Admission) | Online | at CCNY CWE (25 Broadway)",
+    "link": "https://events.cuny.edu/cec/ccny-cwe-admissions-workshop-spring-2026-admission-online-at-ccny-cwe-25-broadway/",
+    "college": "The City College of New York",
+    "date": "2025-09-25",
+    "time": "6:00 PM - 6:45 PM",
+    "tags": [
+      "CWE"
     ]
   },
   {
@@ -5094,19 +5153,19 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
-    "college": "York College",
-    "date": "2025-09-23",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "WA Grades assigned – Immunization non-compliance",
     "link": "https://www.york.cuny.edu/registrar/calendar/fall/wa-grades-assigned-immunization-non-compliance-1",
     "college": "York College",
     "date": "2025-09-24",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Evening",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
+    "college": "York College",
+    "date": "2025-09-24",
+    "time": "8:00 PM - 10:00 PM",
     "tags": []
   },
   {
@@ -5430,14 +5489,6 @@
     "description": "Student Event"
   },
   {
-    "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-29-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-29",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Career Services Event"
-  },
-  {
     "title": "\"No\" (2012)  movie screening",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-29-no-2012-movie-screening.html",
     "college": "Queensborough Community College",
@@ -5484,6 +5535,14 @@
     "date": "2025-09-30",
     "time": "12:10 PM - 01:30 PM",
     "description": "Conference and Workshop"
+  },
+  {
+    "title": "Welcome Read Faculty-Led Book Club Event:",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-30-welcome-read-faculty-led-book-club-event.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-30",
+    "time": "12:30 PM - 02:00 PM",
+    "description": "Special Event / Fair"
   },
   {
     "title": "Managing Procrastination and Understanding Writing Anxiety",
