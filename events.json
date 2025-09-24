@@ -296,6 +296,14 @@
     "tags": []
   },
   {
+    "title": "Launch of Review 109: Queer Latin American Writing and Art",
+    "link": "https://www.ccny.cuny.edu/calendar/launch-review-109-queer-latin-american-writing-and-art",
+    "college": "City College of New York",
+    "date": "2025-10-09",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": []
+  },
+  {
     "title": "City Reading Series",
     "link": "https://www.ccny.cuny.edu/calendar/city-reading-series",
     "college": "City College of New York",
@@ -2059,17 +2067,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-09-24/",
-    "college": "LaGuardia Community College",
-    "date": "2025-09-24",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Wednesdays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-09-24/",
     "college": "LaGuardia Community College",
@@ -2286,6 +2283,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-10-02",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mental Health First Aid (MHFA) Training for Students",
+    "link": "https://www.laguardia.edu/event/mental-health-first-aid-mhfa-training-for-students/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-03",
+    "time": "09:30 AM - 05:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -3088,24 +3096,22 @@
     ]
   },
   {
+    "title": "Campus Resources and Majors: English",
+    "link": "https://hunter.cuny.edu/event/campus-resources-and-majors-english/",
+    "college": "Hunter College",
+    "date": "2025-10-07",
+    "time": "10:30 AM - 11:30 AM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Purple PEERiod Project",
     "link": "https://hunter.cuny.edu/event/purple-peeriod-project-6/",
     "college": "Hunter College",
     "date": "2025-10-07",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
-  },
-  {
-    "title": "Graduate School Prep Workshop",
-    "link": "https://hunter.cuny.edu/event/graduate-school-prep-workshop/",
-    "college": "Hunter College",
-    "date": "2025-10-07",
-    "time": "01:30 PM - 02:30 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
   },
   {
     "title": "Admissions Information Session (In-Person)",
@@ -3830,6 +3836,19 @@
     ]
   },
   {
+    "title": "Gallery Talk: A conversation with Beth Livensperger (259058-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11694529",
+    "college": "College of Staten Island",
+    "date": "2025-10-09",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "Arts",
+      "CC CLUE",
+      "Entertainment",
+      "Cultural"
+    ]
+  },
+  {
     "title": "Baybayin Writing",
     "link": "https://csi.campuslabs.com/engage/event/11593929",
     "college": "College of Staten Island",
@@ -3907,6 +3926,17 @@
     "tags": [
       "Arts",
       "Film and Television"
+    ]
+  },
+  {
+    "title": "“From FAFSA to Dollars: A Guide to Financial Aid Success” (259036-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11694806",
+    "college": "College of Staten Island",
+    "date": "2025-10-09",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "PG CLUE"
     ]
   },
   {
@@ -4018,6 +4048,19 @@
       "Learning",
       "Global Engagement",
       "Cultural"
+    ]
+  },
+  {
+    "title": "The Counseling Center Presents: Mood Matters (259035-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11694659",
+    "college": "College of Staten Island",
+    "date": "2025-10-21",
+    "time": "05:00 PM - 08:00 PM",
+    "tags": [
+      "Social",
+      "PG CLUE",
+      "Fitness/Recreation",
+      "Counseling"
     ]
   },
   {
@@ -4177,6 +4220,21 @@
     ]
   },
   {
+    "title": "Center “Block” Party",
+    "link": "https://events.cuny.edu/cec/center-block-party/",
+    "college": "College of Staten Island",
+    "date": "2025-09-25",
+    "time": "1:30 PM - 3:00 PM",
+    "tags": [
+      "Accessibility",
+      "Bertha Harris Women's Center",
+      "DEI",
+      "LGBTQ+",
+      "Student Life",
+      "mens center"
+    ]
+  },
+  {
     "title": "Résumé Writing for Success",
     "link": "https://events.cuny.edu/cec/resume-writing-for-success/",
     "college": "College of Staten Island",
@@ -4196,16 +4254,6 @@
     "tags": [
       "Adi Shamir-Baron",
       "Fall 2025 Sciame Lecture Series"
-    ]
-  },
-  {
-    "title": "CCNY CWE Admissions Workshop (Spring 2026 Admission) | Online | at CCNY CWE (25 Broadway)",
-    "link": "https://events.cuny.edu/cec/ccny-cwe-admissions-workshop-spring-2026-admission-online-at-ccny-cwe-25-broadway/",
-    "college": "The City College of New York",
-    "date": "2025-09-25",
-    "time": "6:00 PM - 6:45 PM",
-    "tags": [
-      "CWE"
     ]
   },
   {
@@ -4505,14 +4553,6 @@
     "tags": []
   },
   {
-    "title": "UNA (Ur Not Alone) Information Tabling",
-    "link": "https://citytech.event.cuny.edu/events/R8UhF3LaoXwdK4j6f6gb/oO65LtriVJiZ8ew8gjBP2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-25",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
     "title": "Snack n Aps",
     "link": "https://hostos.event.cuny.edu/events/Fzptcd29OgTqU4uJAulo/xVhkYmLsyWrheHkYccmj",
     "college": "Hostos Community College",
@@ -4778,7 +4818,7 @@
   },
   {
     "title": "Impulse Su Marca Con Google",
-    "link": "https://www.lehman.edu/events/2025/Impulse-Su-Marca-Con-Google.php",
+    "link": "https://www.lehman.edu/events/2025/Impulse-Su-Marca-Con-Google-1.php",
     "college": "Lehman College",
     "date": "2025-09-25",
     "time": "12:00 PM- 1:00 PM",
@@ -4897,11 +4937,27 @@
     "tags": []
   },
   {
+    "title": "Intro to Study Abroad",
+    "link": "https://www.jjay.cuny.edu/news-events/events/intro-study-abroad-1",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-09-29",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
     "title": "9/11 Memorial & Museum Clean-Up",
     "link": "https://www.jjay.cuny.edu/news-events/events/911-memorial-museum-clean",
     "college": "John Jay College of Criminal Justice",
     "date": "2025-09-30",
     "time": "02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Study Abroad in Australia: Spring 2026",
+    "link": "https://www.jjay.cuny.edu/news-events/events/study-abroad-australia-spring-2026",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-06",
+    "time": "05:40 PM",
     "tags": []
   },
   {
@@ -4918,6 +4974,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-10-06",
     "time": "10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Financing Study Abroad",
+    "link": "https://www.jjay.cuny.edu/news-events/events/financing-study-abroad-2",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-07",
+    "time": "05:40 PM",
     "tags": []
   },
   {
@@ -4993,43 +5057,19 @@
     "tags": []
   },
   {
-    "title": "Alumni Reunion",
-    "link": "https://www.jjay.cuny.edu/news-events/events/alumni-reunion",
+    "title": "Study Abroad in Austria: Summer 2026",
+    "link": "https://www.jjay.cuny.edu/news-events/events/study-abroad-austria-summer-2026",
     "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-30",
-    "time": "10:30 PM",
+    "date": "2025-10-22",
+    "time": "05:40 PM",
     "tags": []
   },
   {
-    "title": "CUNY Career Discovery Week",
-    "link": "https://www.jjay.cuny.edu/news-events/events/cuny-career-discovery-week",
+    "title": "Financing Study Abroad",
+    "link": "https://www.jjay.cuny.edu/news-events/events/financing-study-abroad-1",
     "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-03",
-    "time": "03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Career Discovery Week",
-    "link": "https://www.jjay.cuny.edu/news-events/events/cuny-career-discovery-week-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-04",
-    "time": "03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Career Discovery Week",
-    "link": "https://www.jjay.cuny.edu/news-events/events/cuny-career-discovery-week-1",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-05",
-    "time": "03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Career Discovery Week",
-    "link": "https://www.jjay.cuny.edu/news-events/events/cuny-career-discovery-week-2",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-06",
-    "time": "03:00 PM",
+    "date": "2025-10-23",
+    "time": "05:40 PM",
     "tags": []
   },
   {
@@ -5372,22 +5412,6 @@
     "description": ""
   },
   {
-    "title": "Open Gaming Session",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-24-open-gaming-session.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-24",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Club Event"
-  },
-  {
-    "title": "Four Leaf Financial Literacy",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-24-four-leaf-financial-literacy.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-24",
-    "time": "12:30 PM - 02:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
     "title": "In-Person Walk-In Resume Hour",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-24-In-Person-Walk-In-Resume-Hour.html",
     "college": "Queensborough Community College",
@@ -5530,6 +5554,22 @@
     "date": "2025-09-30",
     "time": "12:30 PM - 02:00 PM",
     "description": "Special Event / Fair"
+  },
+  {
+    "title": "Sabores Sin Fuego: A No-Cook Taste of Hispanic Heritage",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-30-sabores-sin-fuego-a-no-cook-taste-of-hispanic-heritage.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-30",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Own Your Journey: Celebrating Wins & Overcoming Obstacles",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-30-own-your-journey-celebrating-wins-overcoming-obstacles.html",
+    "college": "Queensborough Community College",
+    "date": "2025-09-30",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "ASAP Career Event"
   },
   {
     "title": "Managing Procrastination and Understanding Writing Anxiety",
