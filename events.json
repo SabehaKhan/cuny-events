@@ -992,16 +992,6 @@
     "tags": []
   },
   {
-    "title": "Student Life Diversity and Inclusion: Ice Cream Social",
-    "link": "https://www.mec.cuny.edu/event/student-life-diversity-and-inclusion-ice-cream-social/",
-    "college": "Medgar Evers College",
-    "date": "2025-09-25",
-    "time": "11:30 AM - 01:00 PM",
-    "tags": [
-      "Student Life"
-    ]
-  },
-  {
     "title": "Making Strides Fundraising Brunch: A Conversation About Breast Cancer & Breast Health",
     "link": "https://www.mec.cuny.edu/event/making-strides-fundraising-brunch-a-conversation-about-breast-cancer-breast-health/",
     "college": "Medgar Evers College",
@@ -2041,17 +2031,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-09-25/",
-    "college": "LaGuardia Community College",
-    "date": "2025-09-25",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "MoneyBoss: A Student’s Guide to Financial Planning",
     "link": "https://www.laguardia.edu/event/moneyboss-a-students-guide-to-financial-planning/",
     "college": "LaGuardia Community College",
@@ -2338,6 +2317,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-10-08",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Student Clubs Fair (Fall Fest)",
+    "link": "https://www.laguardia.edu/event/student-clubs-fair-fall-fest/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-08",
+    "time": "02:00 PM - 04:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2849,16 +2839,6 @@
   },
   {
     "title": "Fight Flu Fast",
-    "link": "https://hunter.cuny.edu/event/fight-flu-fast-2/",
-    "college": "Hunter College",
-    "date": "2025-09-25",
-    "time": "10:00 AM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Fight Flu Fast",
     "link": "https://hunter.cuny.edu/event/fight-flu-fast/2025-09-25/",
     "college": "Hunter College",
     "date": "2025-09-25",
@@ -2904,6 +2884,16 @@
     "time": "07:00 PM - 09:00 PM",
     "tags": [
       "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "SAP/Return to Title IV Workshop",
+    "link": "https://hunter.cuny.edu/event/sap-return-to-title-iv-workshop/",
+    "college": "Hunter College",
+    "date": "2025-09-26",
+    "time": "10:30 AM - 11:30 AM",
+    "tags": [
+      "Student Events"
     ]
   },
   {
@@ -3022,6 +3012,16 @@
     ]
   },
   {
+    "title": "Careers in Media",
+    "link": "https://hunter.cuny.edu/event/careers-in-media/",
+    "college": "Hunter College",
+    "date": "2025-10-01",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Graduate Admissions Information Session",
     "link": "https://hunter.cuny.edu/event/graduate-admissions-information-session-27/",
     "college": "Hunter College",
@@ -3100,37 +3100,6 @@
     "time": "10:30 AM - 11:30 AM",
     "tags": [
       "Student Events"
-    ]
-  },
-  {
-    "title": "Purple PEERiod Project",
-    "link": "https://hunter.cuny.edu/event/purple-peeriod-project-6/",
-    "college": "Hunter College",
-    "date": "2025-10-07",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Graduate School Prep Workshop",
-    "link": "https://hunter.cuny.edu/event/graduate-school-prep-workshop/",
-    "college": "Hunter College",
-    "date": "2025-10-07",
-    "time": "01:30 PM - 02:30 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Data Hub Teach-In: Findings on San Juan Hill",
-    "link": "https://hunter.cuny.edu/event/data-hub-teach-in-findings-on-san-juan-hill/",
-    "college": "Hunter College",
-    "date": "2025-10-07",
-    "time": "03:00 PM - 03:00 PM",
-    "tags": [
-      "Exhibits",
-      "Lectures"
     ]
   },
   {
@@ -3231,7 +3200,7 @@
     "link": "https://www.bmcc.cuny.edu/event/sign-up-week-for-the-breast-cancer-awareness-walk/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-09-29",
-    "time": "08:00 AM - 05:00 PM",
+    "time": "09:30 AM - 04:00 PM",
     "tags": [
       "Breast Cancer Awareness Month",
       "Center for Belonging and Inclusion",
@@ -4857,6 +4826,14 @@
     "tags": []
   },
   {
+    "title": "Exploration of Reproductive Health App’s Data Privacy Policies and the Risks Posed to Users: Qualitative Content Analysis",
+    "link": "https://sph.cuny.edu/event/exploration-of-reproductive-health-apps-data-privacy-policies-and-the-risks-posed-to-users-qualitative-content-analysis/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-11-06",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
     "title": "Faculty Office Hours: An interactive conversation with Dr. Chris Palmedo",
     "link": "https://sph.cuny.edu/event/an-interactive-conversation-with-dr-chris-palmedo/",
     "college": "CUNY School of Public Health",
@@ -4913,19 +4890,19 @@
     "tags": []
   },
   {
-    "title": "Impulse Su Marca Con Google",
-    "link": "https://www.lehman.edu/events/2025/Impulse-Su-Marca-Con-Google-1.php",
-    "college": "Lehman College",
-    "date": "2025-09-25",
-    "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
     "title": "Project Esther and the Epstein Conspiracy: How They May Not Be Good for American Jews",
     "link": "https://www.lehman.edu/events/2025/Project-Esther-and-the-Epstein-Conspiracy-How-They-May-Not-Be-Good-for-American-Jews.php",
     "college": "Lehman College",
     "date": "2025-09-25",
     "time": "12:00 PM- 1:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Impulse Su Marca Con Google",
+    "link": "https://www.lehman.edu/events/2025/Impulse-Su-Marca-Con-Google-1.php",
+    "college": "Lehman College",
+    "date": "2025-09-25",
+    "time": "12:00 PM- 1:00 PM",
     "tags": []
   },
   {
@@ -4990,30 +4967,6 @@
     "college": "Lehman College",
     "date": "2025-09-30",
     "time": "6:00 PM- 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Bloodhound Thursday",
-    "link": "https://www.jjay.cuny.edu/news-events/events/bloodhound-thursday",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-25",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
-    "title": "Pop-Up Library",
-    "link": "https://www.jjay.cuny.edu/news-events/events/pop-library-2",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-25",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
-    "title": "Leaders of Justice: The Honorable Denise M. Miranda, Esq.",
-    "link": "https://www.jjay.cuny.edu/news-events/events/leaders-justice-honorable-denise-m-miranda-esq",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-25",
-    "time": "05:45 PM",
     "tags": []
   },
   {
@@ -5094,6 +5047,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-10-07",
     "time": "05:40 PM",
+    "tags": []
+  },
+  {
+    "title": "Winter Study Abroad Programs",
+    "link": "https://www.jjay.cuny.edu/news-events/events/winter-study-abroad-programs",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-08",
+    "time": "05:40 AM",
     "tags": []
   },
   {
@@ -5185,6 +5146,22 @@
     "tags": []
   },
   {
+    "title": "Alumni Reunion",
+    "link": "https://www.jjay.cuny.edu/news-events/events/alumni-reunion",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-30",
+    "time": "10:30 PM",
+    "tags": []
+  },
+  {
+    "title": "International Crime & Justice Alumni Career Talk",
+    "link": "https://www.jjay.cuny.edu/news-events/events/international-crime-justice-alumni-career-talk-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-31",
+    "time": "04:00 PM",
+    "tags": []
+  },
+  {
     "title": "Intro to Digital Careers ft. COOP",
     "link": "https://macaulay.cuny.edu/calendar-of-events/intro-to-digital-careers-ft-coop/",
     "college": "Macaulay Honors College",
@@ -5265,30 +5242,6 @@
     "tags": []
   },
   {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-09-25",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-25",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
-    "college": "York College",
-    "date": "2025-09-25",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "Google Interview Prep For CUNY York",
     "link": "https://www.york.cuny.edu/career-services/interview-prep-for-cuny-york",
     "college": "York College",
@@ -5305,11 +5258,11 @@
     "tags": []
   },
   {
-    "title": "Weekly Yoga",
-    "link": "https://www.york.cuny.edu/events/weekly-yoga",
+    "title": "Unlocking Your Potential in the Health Sciences",
+    "link": "https://www.york.cuny.edu/events/unlocking-your-potential-in-the-health-sciences-1",
     "college": "York College",
     "date": "2025-09-25",
-    "time": "5:00 PM - 5:45 PM",
+    "time": "4:00 PM - 5:30 PM",
     "tags": []
   },
   {
@@ -5337,6 +5290,22 @@
     "tags": []
   },
   {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-09-26",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-26",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
     "title": "Faculty & Staff Dedicated Fitness Center Hours",
     "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
     "college": "York College",
@@ -5350,6 +5319,14 @@
     "college": "York College",
     "date": "2025-09-27",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
+    "college": "York College",
+    "date": "2025-09-29",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5390,6 +5367,14 @@
     "college": "York College",
     "date": "2025-10-08",
     "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Weekly Yoga",
+    "link": "https://www.york.cuny.edu/events/weekly-yoga",
+    "college": "York College",
+    "date": "2025-10-16",
+    "time": "5:00 PM - 5:45 PM",
     "tags": []
   },
   {
@@ -5516,22 +5501,6 @@
     "date": "2025-10-30",
     "time": "03:00 PM - 05:00 PM",
     "description": ""
-  },
-  {
-    "title": "Pickleball Social",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-25-pickleball-social.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-25",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Student Event"
-  },
-  {
-    "title": "Own Your Journey: Celebrating Wins & Overcoming Obstacles",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-25-own-your-journey-celebrating-wins-overcoming-obstacles.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-25",
-    "time": "12:00 PM - 01:00 PM",
-    "description": "ASAP Career Event"
   },
   {
     "title": "Four-Year College Transfer Application Workshop",
@@ -5676,6 +5645,22 @@
     "date": "2025-10-01",
     "time": "12:00 PM - 02:00 PM",
     "description": "Club Event"
+  },
+  {
+    "title": "Film Screening: \"An Earnest Struggle\"- directed by Trevor B. Milton",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-01-film-screening-an-earnest-struggle-directed-by-trevor-b-milton.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-01",
+    "time": "12:00 PM - 02:00 PM",
+    "description": "Performing Arts / Film Event"
+  },
+  {
+    "title": "In-Person Walk-In Resume Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-01-In-Person-Walk-In-Resume-Hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-01",
+    "time": "02:00 PM - 03:30 PM",
+    "description": "Career Services Event"
   },
   {
     "title": "Managing Procrastination and Understanding Writing Anxiety",
