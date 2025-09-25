@@ -1,21 +1,5 @@
 [
   {
-    "title": "Chair Meditation | at CCNY CWE (25 Broadway)",
-    "link": "https://www.ccny.cuny.edu/calendar/chair-meditation-924",
-    "college": "City College of New York",
-    "date": "2025-09-24",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Freedom Riders: The Civil Rights Musical",
-    "link": "https://www.ccny.cuny.edu/calendar/freedom-riders-civil-rights-musical",
-    "college": "City College of New York",
-    "date": "2025-09-24",
-    "time": "07:00 PM - 09:30 PM",
-    "tags": []
-  },
-  {
     "title": "Theatre Production: SISTER MARY IGNATIUS EXPLAINS IT ALL FOR YOU directed by Marina Viskovic",
     "link": "https://www.ccny.cuny.edu/calendar/theatre-production-sister-mary-ignatius-explains-it-all-you-directed-marina-viskovic",
     "college": "City College of New York",
@@ -1006,16 +990,6 @@
     "date": "2026-05-02",
     "time": "12:00 PM - 05:00 PM",
     "tags": []
-  },
-  {
-    "title": "Student Government Association Inauguration",
-    "link": "https://www.mec.cuny.edu/event/student-government-association-inauguration/",
-    "college": "Medgar Evers College",
-    "date": "2025-09-24",
-    "time": "11:30 AM - 01:00 PM",
-    "tags": [
-      "Student Life"
-    ]
   },
   {
     "title": "Student Life Diversity and Inclusion: Ice Cream Social",
@@ -2067,17 +2041,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Wednesdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-09-24/",
-    "college": "LaGuardia Community College",
-    "date": "2025-09-24",
-    "time": "08:00 PM - 08:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Thursdays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-09-25/",
     "college": "LaGuardia Community College",
@@ -2370,28 +2333,14 @@
     ]
   },
   {
-    "title": "Complete Your FAFSA & TAP Applications",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376596",
-    "college": "Guttman Community College",
-    "date": "2025-09-24",
-    "time": "03:15 PM - 04:45 PM",
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-10-08/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-08",
+    "time": "12:00 PM - 12:30 PM",
     "tags": [
-      "EMSA",
-      "Office Hours",
-      "FASFA & TAP Applications",
-      "Financial Aid"
-    ]
-  },
-  {
-    "title": "Navigate360 Workshop",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376558",
-    "college": "Guttman Community College",
-    "date": "2025-09-24",
-    "time": "05:30 PM - 06:30 PM",
-    "tags": [
-      "ASC",
-      "Academic",
-      "Tutoring"
+      "all calendars",
+      "student events"
     ]
   },
   {
@@ -2833,16 +2782,6 @@
     ]
   },
   {
-    "title": "Cafecito con... CENTRO Summer Fellows",
-    "link": "https://hunter.cuny.edu/event/cafecito-con-centro-summer-fellows/",
-    "college": "Hunter College",
-    "date": "2025-09-24",
-    "time": "06:00 PM - 06:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
     "title": "Fight Flu Fast",
     "link": "https://hunter.cuny.edu/event/fight-flu-fast-2/",
     "college": "Hunter College",
@@ -3115,6 +3054,17 @@
       "Career Center",
       "Conferences & Workshops",
       "Student Events"
+    ]
+  },
+  {
+    "title": "Data Hub Teach-In: Findings on San Juan Hill",
+    "link": "https://hunter.cuny.edu/event/data-hub-teach-in-findings-on-san-juan-hill/",
+    "college": "Hunter College",
+    "date": "2025-10-07",
+    "time": "03:00 PM - 03:00 PM",
+    "tags": [
+      "Exhibits",
+      "Lectures"
     ]
   },
   {
@@ -3463,6 +3413,7 @@
     "tags": [
       "Enrollment Management",
       "Feature",
+      "Office of the Registrar",
       "Virtual Event"
     ]
   },
@@ -3475,6 +3426,7 @@
     "tags": [
       "Enrollment Management",
       "Feature",
+      "Office of the Registrar",
       "Virtual Event"
     ]
   },
@@ -3495,6 +3447,7 @@
     "tags": [
       "Enrollment Management",
       "Feature",
+      "Office of the Registrar",
       "Virtual Event"
     ]
   },
@@ -3507,6 +3460,7 @@
     "tags": [
       "Enrollment Management",
       "Feature",
+      "Office of the Registrar",
       "Virtual Event"
     ]
   },
@@ -3559,8 +3513,25 @@
     "tags": [
       "Enrollment Management",
       "Feature",
+      "Office of the Registrar",
       "Virtual Event"
     ]
+  },
+  {
+    "title": "International Pronouns Day: Safe Space Training",
+    "link": "https://www.bcc.cuny.edu/event/international-pronouns-day-safe-space-training/",
+    "college": "Bronx Community College",
+    "date": "2025-10-14",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Divine Nine & HBCU Interest Event",
+    "link": "https://www.bcc.cuny.edu/event/divine-nine-hbcu-interest-event/",
+    "college": "Bronx Community College",
+    "date": "2025-10-14",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "Center \"Block\" Party (Double CLUE: 259032-PG & 259045-CC)",
@@ -4215,56 +4186,6 @@
     ]
   },
   {
-    "title": "Cafecito con... CENTRO Summer Fellows",
-    "link": "https://events.cuny.edu/cec/cafecito-con-centro-summer-fellows/",
-    "college": "Hunter College",
-    "date": "2025-09-24",
-    "time": "6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Freedom Riders: The Civil Rights Musical",
-    "link": "https://events.cuny.edu/cec/freedom-riders-the-civil-rights-musical/",
-    "college": "The City College of New York",
-    "date": "2025-09-24",
-    "time": "6:00 PM - 8:30 PM",
-    "tags": [
-      "Freedom Riders: The Civil Rights Musical"
-    ]
-  },
-  {
-    "title": "Biology M.A./M.S. Information Session",
-    "link": "https://lehman.edu/events/2025/Biology-MAMS-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "2025-09-24",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (In-Person)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005600",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-24",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "International Students Workshop: Preparing for Post-Completion Optional Practical Training (OPT)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=659322",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-24",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Research Programs Welcome Session",
-    "link": "https://www.bmcc.cuny.edu/event/?p=659663",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-24",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "The Adult Student Iced Coffee Social",
     "link": "https://events.cuny.edu/cec/the-adult-student-iced-coffee-social/",
     "college": "College of Staten Island",
@@ -4312,92 +4233,62 @@
     ]
   },
   {
-    "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh31",
-    "college": "Queens College",
-    "date": "2025-09-24",
-    "time": "",
+    "title": "CCNY CWE Admissions Workshop (Spring 2026 Admission) | Online | at CCNY CWE (25 Broadway)",
+    "link": "https://events.cuny.edu/cec/ccny-cwe-admissions-workshop-spring-2026-admission-online-at-ccny-cwe-25-broadway/",
+    "college": "The City College of New York",
+    "date": "2025-09-25",
+    "time": "6:00 PM - 6:45 PM",
+    "tags": [
+      "CWE"
+    ]
+  },
+  {
+    "title": "Films and Social Change with Marcia Smith of Firelight Media",
+    "link": "https://events.cuny.edu/cec/films-and-social-change-with-marcia-smith-of-firelight-media/",
+    "college": "The City College of New York",
+    "date": "2025-09-25",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": [
+      "Marcia Smith"
+    ]
+  },
+  {
+    "title": "Office of Workforce Development and Innovation Fall 2025 Open House",
+    "link": "https://events.cuny.edu/cec/office-of-workforce-development-and-innovation-fall-2025-open-house/",
+    "college": "College of Staten Island",
+    "date": "2025-09-25",
+    "time": "6:30 PM - 8:00 PM",
+    "tags": [
+      "Economic Development & Community Partnership"
+    ]
+  },
+  {
+    "title": "Freedom Riders: The Civil Rights Musical",
+    "link": "https://events.cuny.edu/cec/freedom-riders-the-civil-rights-musical-2/",
+    "college": "The City College of New York",
+    "date": "2025-09-25",
+    "time": "7:00 PM - 9:30 PM",
+    "tags": [
+      "Freedom Riders: The Civil Rights Musical"
+    ]
+  },
+  {
+    "title": "Human Rights Education and Transformative Justice Adv. Cert. Information Session",
+    "link": "https://lehman.edu/events/2025/Human-Rights-Education-and-Transformative-Justice-Adv-Cert-Information-Session-.php",
+    "college": "Lehman College",
+    "date": "2025-09-25",
+    "time": "5:00 PM - 6:00 PM",
     "tags": []
   },
   {
-    "title": "IT Filming",
-    "link": "https://qc.event.cuny.edu/events/hV5vMX8QGUuAcQG6knYf/NidDzT9EArs9YH9Xh4Xb",
-    "college": "Queens College",
-    "date": "2025-09-24",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Emblem Health",
-    "link": "https://qc.event.cuny.edu/events/XIUKHisuFI7BlxLQUowU/el1awrykoyikQdOHqfHx3",
-    "college": "Queens College",
-    "date": "2025-09-24",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Townsend Harris HS",
-    "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/sKtZ0wTOoIQ8IBw8wPri8",
-    "college": "Queens College",
-    "date": "2025-09-24",
-    "time": "10:30AM",
-    "tags": []
-  },
-  {
-    "title": "Math Review Sessions",
-    "link": "https://qc.event.cuny.edu/events/Bmj8lw00m6mvNzQ93gTu/O9HKthrPgy6HtU7lkSi85",
-    "college": "Queens College",
-    "date": "2025-09-24",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Prelaw Program.",
-    "link": "https://qc.event.cuny.edu/events/cTHluMrXLLLHg08WZVLp/TPkWIrhrKsyGWuvrN3GW",
-    "college": "Queens College",
-    "date": "2025-09-24",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Ready @ 20",
-    "link": "https://qc.event.cuny.edu/events/ZWZIl8yxEeT8bVRvpETb/WLcMQv87LL0bBGArXTWk",
-    "college": "Queens College",
-    "date": "2025-09-24",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Workshops",
-    "link": "https://qc.event.cuny.edu/events/P9vSfSPGwd6yHGxRD8y0/ZDueb4GWCJyOm9krt5xd9",
-    "college": "Queens College",
-    "date": "2025-09-24",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Math Sessions",
-    "link": "https://qc.event.cuny.edu/events/His3amnK92M9BIhxIjTv/jQTQlYGZYeN4NwGiMGJL3",
-    "college": "Queens College",
-    "date": "2025-09-24",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Learning Commons Overflow Space",
-    "link": "https://qc.event.cuny.edu/events/SRSPIM6AiVpRtDQKmp9K/pOr34AslrdD3bpYkNXVs9",
-    "college": "Queens College",
-    "date": "2025-09-24",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Career Development Workshops - Economics Department",
-    "link": "https://qc.event.cuny.edu/events/nQ5xQ43SzYX2IMscqFIx/peZRfZPGt746ailEDPcr5",
-    "college": "Queens College",
-    "date": "2025-09-24",
-    "time": "12:30PM",
-    "tags": []
+    "title": "Neuroscience Special Seminar – Ella Doron-Mandel",
+    "link": "https://asrc.gc.cuny.edu/event/neuroscience-special-seminar-ella_doron-mandel/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2025-09-25",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": [
+      "Neuroscience"
+    ]
   },
   {
     "title": "FA25 Hold off room",
@@ -4424,11 +4315,91 @@
     "tags": []
   },
   {
-    "title": "Fall Regular Session:\tWA Grades Assigned- Immunization non-compliance",
-    "link": "https://baruch.event.cuny.edu/events/DCG6PA1AMu21lrSfq07S/FyDUily5ISyMxaPM5HJR",
-    "college": "Baruch College",
-    "date": "2025-09-24",
+    "title": "QSI Math Stretched Course",
+    "link": "https://qc.event.cuny.edu/events/ZkUDk3QHKnSvkl0C8rNp/eGRzH3rWU4b71NuoXVFJ10",
+    "college": "Queens College",
+    "date": "2025-09-25",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Recitations",
+    "link": "https://qc.event.cuny.edu/events/lX3RWoN5F2UBxTxZyDFW/JE9KkAQkSPPzMaa0eg0I5",
+    "college": "Queens College",
+    "date": "2025-09-25",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Emblem Health",
+    "link": "https://qc.event.cuny.edu/events/XIUKHisuFI7BlxLQUowU/el1awrykoyikQdOHqfHx4",
+    "college": "Queens College",
+    "date": "2025-09-25",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2025- CUNY Explorers Tours",
+    "link": "https://qc.event.cuny.edu/events/bfx0Pn5kngM72WVy5tRt/mRAvFd8JJN7feclGhqkJ",
+    "college": "Queens College",
+    "date": "2025-09-25",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "NACE Competencies Workshops #1- #6",
+    "link": "https://qc.event.cuny.edu/events/Cfce4WEc9wcTWkW8ia3d/L2LuCdpWuhYOfiGJJHR7",
+    "college": "Queens College",
+    "date": "2025-09-25",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "BIOL 106 Make Up Exams/Quizzes",
+    "link": "https://qc.event.cuny.edu/events/psejiZ2bEp8DJTersWNC/glIc8XZZNF1wk48CRkb83",
+    "college": "Queens College",
+    "date": "2025-09-25",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "FA25 Hold off room",
+    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh33",
+    "college": "Queens College",
+    "date": "2025-09-26",
     "time": "",
+    "tags": []
+  },
+  {
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/qzzZgidOr90TieUbr5lL/RlT6YY3gItN2evoFt1wT13",
+    "college": "Queens College",
+    "date": "2025-09-26",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Young Women's Leadership School: College Fair",
+    "link": "https://qc.event.cuny.edu/events/ngWSJ926idWqZxTWnUNi/vnm3RGbdfI0vcdY3qMqT",
+    "college": "Queens College",
+    "date": "2025-09-26",
+    "time": "7:00AM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2025- CUNY Explorers Tours",
+    "link": "https://qc.event.cuny.edu/events/bfx0Pn5kngM72WVy5tRt/EJTxToRO23wphtNXM2xv",
+    "college": "Queens College",
+    "date": "2025-09-26",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "ITS Upgrade Project",
+    "link": "https://qc.event.cuny.edu/events/NidS4Ph3WRiv7bQNh5QR/aU833DjCn8RS7YgMOufz5",
+    "college": "Queens College",
+    "date": "2025-09-26",
+    "time": "1:00PM",
     "tags": []
   },
   {
@@ -4485,54 +4456,6 @@
     "college": "Baruch College",
     "date": "2025-09-30",
     "time": "12:45PM",
-    "tags": []
-  },
-  {
-    "title": "WA grades assigned for Immunization non-compliance",
-    "link": "https://citytech.event.cuny.edu/events/qpXu4sPMW46JaeNjHuFW/NNMTJasfRt4nqugCQag0",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-24",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "US Marines Information Tabling",
-    "link": "https://citytech.event.cuny.edu/events/AUgGutCEvzSfXScUnKpq/AZ3z6XLGv1mlwhKBfXlb115",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-24",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "City Tech Fall 2025 General Tour (09/24/2025)",
-    "link": "https://citytech.event.cuny.edu/events/W3ImuM4sEfpt2bM2X5kO/R2FtRcKS1wEME1qFrxpj",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-24",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "GeneralTour",
-    "link": "https://citytech.event.cuny.edu/events/CJG3TS04y7HQpt2VWGYr/sWLQlDTb2KZgP4qf1Lzt",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-24",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "NYPIRG Information Tabling",
-    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/C2p0ox1FI98NHGoD8UCJ2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-24",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Brightspace Workshop on Wednesday, September 24th from 5pm to 6:30pm",
-    "link": "https://citytech.event.cuny.edu/events/MP62VCDp1Es3GqL0LXWr/R7teKPugqU5Q54Ok3hjx",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-09-24",
-    "time": "5:00PM",
     "tags": []
   },
   {
@@ -4608,6 +4531,62 @@
     "tags": []
   },
   {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/iyKGQLcvSuVcXc0Ci5zo/oPvU1KOSawIwMQDLr7472",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-09-25",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "UNA (Ur Not Alone) Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/R8UhF3LaoXwdK4j6f6gb/oO65LtriVJiZ8ew8gjBP2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-09-25",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "HSA3602 OL01 [33654}",
+    "link": "https://citytech.event.cuny.edu/events/U6bWg92ed0lmKgV6RaLI/Cp2fJnyuh4P5cbry6SMn3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-09-25",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "GIS Workshop with Freddy Ruiz",
+    "link": "https://citytech.event.cuny.edu/events/uUW9d6xb8e5p1vk5vpNR/N1Xusbk5Iu5XglfxVu9o",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-09-25",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center Classes",
+    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/FfookhqdiPvXvpxSWkjh1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-09-26",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Explorers",
+    "link": "https://citytech.event.cuny.edu/events/zkkr3vLlRqX1w4PGQgFK/dHIpwAYlyPg1pW7ek12F2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-09-26",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "2025 Out in Tech Leadership Institute",
+    "link": "https://citytech.event.cuny.edu/events/uWcvqriwCAAFI0m25HVB/k2LKuK3pGvgUbZU0jXKz2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-09-26",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
     "title": "Snack n Aps",
     "link": "https://hostos.event.cuny.edu/events/Fzptcd29OgTqU4uJAulo/xVhkYmLsyWrheHkYccmj",
     "college": "Hostos Community College",
@@ -4645,14 +4624,6 @@
     "college": "Hostos Community College",
     "date": "2025-09-30",
     "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "PhD Virtual Open House",
-    "link": "https://sph.cuny.edu/event/phd-virtual-open-house-2/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-09-24",
-    "time": "6:00PM",
     "tags": []
   },
   {
@@ -4864,22 +4835,6 @@
     "tags": []
   },
   {
-    "title": "The Startup Game Plan: Steps to Launching Your Business",
-    "link": "https://www.lehman.edu/events/2025/The-Startup-Game-Plan-Steps-to-Launching-Your-Business.php",
-    "college": "Lehman College",
-    "date": "2025-09-24",
-    "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Biology M.A./M.S. Information Session",
-    "link": "https://www.lehman.edu/events/2025/Biology-MAMS-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "2025-09-24",
-    "time": "6:00 PM- 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "Impulse Su Marca Con Google",
     "link": "https://www.lehman.edu/events/2025/Impulse-Su-Marca-Con-Google-1.php",
     "college": "Lehman College",
@@ -4941,6 +4896,22 @@
     "college": "Lehman College",
     "date": "2025-09-29",
     "time": "5:00 PM- 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "NETWORKING & TAX STRATEGIES FOR SMALL BUSINESSES",
+    "link": "https://www.lehman.edu/events/2025/NETWORKING--TAX-STRATEGIES-FOR-SMALL-BUSINESSES-1.php",
+    "college": "Lehman College",
+    "date": "2025-09-30",
+    "time": "6:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "English Education M.S.Ed. Information Session",
+    "link": "https://www.lehman.edu/events/2025/English-Education-MSEd-Information-Session-.php",
+    "college": "Lehman College",
+    "date": "2025-09-30",
+    "time": "6:00 PM- 7:00 PM",
     "tags": []
   },
   {
@@ -5136,14 +5107,6 @@
     "tags": []
   },
   {
-    "title": "Career Chat: Biotech, Pharma, and Healthcare Innovation with Dr. Mina-Osorio",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/career-chat-biotech-pharma-and-healthcare-innovation-with-dr-mina-osorio/",
-    "college": "Macaulay Honors College",
-    "date": "2025-09-24",
-    "time": "5:30PM",
-    "tags": []
-  },
-  {
     "title": "Intro to Digital Careers ft. COOP",
     "link": "https://macaulay.cuny.edu/calendar-of-events/intro-to-digital-careers-ft-coop/",
     "college": "Macaulay Honors College",
@@ -5216,11 +5179,11 @@
     "tags": []
   },
   {
-    "title": "WA Grades assigned – Immunization non-compliance",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/wa-grades-assigned-immunization-non-compliance-1",
-    "college": "York College",
-    "date": "2025-09-24",
-    "time": "4:00 AM - 3:59 AM",
+    "title": "Connected & Protected: Making Smart Choices in Digital Spaces",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/connected-protected-making-smart-choices-in-digital-spaces/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-15",
+    "time": "2:00PM",
     "tags": []
   },
   {
@@ -5352,39 +5315,6 @@
     "tags": []
   },
   {
-    "title": "DRUPAL ACCESSIBILITY TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-sept-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-24",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "INTRODUCTION TO PYTHON",
-    "link": "https://www.gc.cuny.edu/events/introduction-python-sept-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-24",
-    "time": "3:00 pm — 5:00 pm",
-    "location": "Online",
-    "tags": [
-      "Graduate Center Digital Initiatives"
-    ]
-  },
-  {
-    "title": "TLC WORKSHOPS: TEACHING STATEMENTS FOR THE JOB MARKET - PART TWO",
-    "link": "https://www.gc.cuny.edu/events/tlc-workshops-teaching-statements-job-market-part-two",
-    "college": "CUNY Graduate Center",
-    "date": "2025-09-24",
-    "time": "4:00 pm",
-    "location": "3317",
-    "tags": [
-      "Teaching & Learning Center"
-    ]
-  },
-  {
     "title": "DIGITAL METHODS IN LANGUAGES OTHER THAN ENGLISH (LOTE)",
     "link": "https://www.gc.cuny.edu/events/digital-methods-languages-other-english-lote-sept-2025",
     "college": "CUNY Graduate Center",
@@ -5467,20 +5397,47 @@
     ]
   },
   {
+    "title": "MUSIC IN MIDTOWN: RAVEL CELEBRATION II",
+    "link": "https://www.gc.cuny.edu/events/music-midtown-ravel-celebration-ii",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-25",
+    "time": "7:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Music",
+      "Music in Midtown"
+    ]
+  },
+  {
+    "title": "CREATIVE MORNINGS: LAUREN HOM",
+    "link": "https://www.gc.cuny.edu/events/creative-mornings-lauren-hom",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-26",
+    "time": "8:30 am — 10:00 am",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "SLHS OPEN HOUSE - PROGRAM INFORMATION",
+    "link": "https://www.gc.cuny.edu/events/slhs-open-house-program-information",
+    "college": "CUNY Graduate Center",
+    "date": "2025-09-26",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Speech-Language-Hearing Sciences",
+      "Admissions"
+    ]
+  },
+  {
     "title": "Day of the Dead Ofrenda",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-30-day-of-the-dead-ofrenda.html",
     "college": "Queensborough Community College",
     "date": "2025-10-30",
     "time": "03:00 PM - 05:00 PM",
     "description": ""
-  },
-  {
-    "title": "In-Person Walk-In Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-24-In-Person-Walk-In-Resume-Hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-24",
-    "time": "02:00 PM - 03:30 PM",
-    "description": "Career Services Event"
   },
   {
     "title": "Pickleball Social",
@@ -5633,6 +5590,14 @@
     "date": "2025-09-30",
     "time": "02:00 PM - 03:00 PM",
     "description": "ASAP Career Event"
+  },
+  {
+    "title": "Open Gaming Session",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-01-open-gaming-session.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-01",
+    "time": "12:00 PM - 02:00 PM",
+    "description": "Club Event"
   },
   {
     "title": "Managing Procrastination and Understanding Writing Anxiety",
