@@ -2211,6 +2211,17 @@
     ]
   },
   {
+    "title": "Philosophy Ideas Exchange",
+    "link": "https://www.laguardia.edu/event/philosophy-ideas-exchange/2025-10-08/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-08",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Student Clubs Fair (Fall Fest)",
     "link": "https://www.laguardia.edu/event/student-clubs-fair-fall-fest/",
     "college": "LaGuardia Community College",
@@ -2227,17 +2238,6 @@
     "college": "LaGuardia Community College",
     "date": "2025-10-08",
     "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Jack Kent Cooke Foundation (JKCF): Cooke Transfer Scholarship Virtual Information Session",
-    "link": "https://www.laguardia.edu/event/jack-kent-cooke-foundation-jkcf-cooke-transfer-scholarship-virtual-information-session/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-08",
-    "time": "02:15 PM - 03:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -3029,6 +3029,24 @@
     ]
   },
   {
+    "title": "BMCC Writing Center: Composition Workshops",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-composition-workshops/2025-09-26/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-26",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Academic Affairs",
+      "Academic Calendar",
+      "Academic Literacy and Linguistics",
+      "Advocacy and Resource Center",
+      "English",
+      "Featured",
+      "New Student Programs",
+      "Workshops",
+      "Writing Center"
+    ]
+  },
+  {
     "title": "Pride Month: Library as a Joyful Space: The Book of Joy",
     "link": "https://www.bmcc.cuny.edu/event/pride-month-library-as-a-joyful-space-the-book-of-joy/",
     "college": "Borough of Manhattan Community College",
@@ -3133,6 +3151,18 @@
     "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Admissions"
+    ]
+  },
+  {
+    "title": "The Power of Connections: Networking for Success",
+    "link": "https://www.bmcc.cuny.edu/event/the-power-of-connections-networking-for-success-7/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-30",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
     ]
   },
   {
@@ -3289,6 +3319,43 @@
       "Featured",
       "LGBTQ Pride Month",
       "Pride Center"
+    ]
+  },
+  {
+    "title": "Academic Notice Back to Success Power Hour: Utilizing BMCC Resources",
+    "link": "https://www.bmcc.cuny.edu/event/academic-notice-back-tosuccess-power-hour-utilizing-bmcc-resources/2025-10-08/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-08",
+    "time": "02:30 AM - 03:30 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Moneyworks Seminar:  Graduating Without Debt.",
+    "link": "https://www.bmcc.cuny.edu/event/moneyworks-seminar-graduating-without-debt/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-08",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Featured",
+      "Moneyworks"
+    ]
+  },
+  {
+    "title": "PricewaterhouseCoopers (PwC) Coffee and Chat",
+    "link": "https://www.bmcc.cuny.edu/event/pricewaterhousecoopers-pwc-coffee-and-chat/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-08",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Accounting",
+      "Business Management",
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
     ]
   },
   {
@@ -4022,14 +4089,6 @@
     "tags": [
       "Isagani Serrano"
     ]
-  },
-  {
-    "title": "BMCC Writing Center: Composition Workshops",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005701",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-26",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
   },
   {
     "title": "Fall 2025 Sciame Lecture Series: Philip Schmerbeck",
@@ -4963,6 +5022,126 @@
     "college": "Macaulay Honors College",
     "date": "2025-10-22",
     "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-09-26",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-26",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Faculty & Staff Dedicated Fitness Center Hours",
+    "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-26",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Jamaica 5K Saturday",
+    "link": "https://www.york.cuny.edu/events/2025/jamaica-5k-saturday",
+    "college": "York College",
+    "date": "2025-09-27",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
+    "college": "York College",
+    "date": "2025-09-29",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Constructing Your Career as a Clinical Lab Science Major",
+    "link": "https://www.york.cuny.edu/events/constructing-your-career-as-a-clinical-lab-science-major",
+    "college": "York College",
+    "date": "2025-09-29",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Outdoor Track and Open Tennis",
+    "link": "https://www.york.cuny.edu/events/2025/outdoor-track-tennis-fall-2025",
+    "college": "York College",
+    "date": "2025-09-29",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "\"Meet the Clubs\" Pop-Up Fair",
+    "link": "https://www.york.cuny.edu/events/2025/meet-the-clubs-pop-up-fair",
+    "college": "York College",
+    "date": "2025-09-30",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "\"Why I'm Here\" Story Wall",
+    "link": "https://www.york.cuny.edu/events/2025/why-im-here-story-wall",
+    "college": "York College",
+    "date": "2025-09-30",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Club Fair",
+    "link": "https://www.york.cuny.edu/events/club-fair",
+    "college": "York College",
+    "date": "2025-09-30",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Evening",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
+    "college": "York College",
+    "date": "2025-09-30",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Volleyball vs. Purchase College",
+    "link": "https://www.york.cuny.edu/events/2025/womens-volleyball-vs-purchase-09302025",
+    "college": "York College",
+    "date": "2025-09-30",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Soccer vs. Lehman College",
+    "link": "https://www.york.cuny.edu/events/2025/mens-soccer-vs-lehman-10012025",
+    "college": "York College",
+    "date": "2025-10-01",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Follow Your Heart: Professional Pursuits in Health & Human Performance",
+    "link": "https://www.york.cuny.edu/events/follow-your-heart-professional-pursuits-in-health-human-performance",
+    "college": "York College",
+    "date": "2025-10-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Weekly Yoga",
+    "link": "https://www.york.cuny.edu/events/weekly-yoga",
+    "college": "York College",
+    "date": "2025-10-16",
+    "time": "5:00 PM - 5:45 PM",
     "tags": []
   },
   {
