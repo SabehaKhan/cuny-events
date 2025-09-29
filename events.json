@@ -1909,6 +1909,14 @@
     "tags": []
   },
   {
+    "title": "Meet The Team ARC & NAC",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/5fe205b6-423a-4a61-9b02-627254dd7062",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-07",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-09-29/",
     "college": "LaGuardia Community College",
@@ -2183,28 +2191,6 @@
     "college": "LaGuardia Community College",
     "date": "2025-10-08",
     "time": "02:30 PM - 04:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-10-08/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-08",
-    "time": "08:00 PM - 08:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-10-09/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-09",
-    "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -3745,17 +3731,6 @@
     ]
   },
   {
-    "title": "Spilling the Tea: Meet the Counseling Center (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/spilling-the-tea-meet-the-counseling-center-online/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-09",
-    "time": "01:00 PM - 02:30 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured"
-    ]
-  },
-  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2025-09-29/",
     "college": "Bronx Community College",
@@ -5237,14 +5212,6 @@
     "tags": []
   },
   {
-    "title": "Book Talk: Run, Zohran, Run!",
-    "link": "https://www.jjay.cuny.edu/news-events/events/book-talk-run-zohran-run",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-29",
-    "time": "10:00 AM",
-    "tags": []
-  },
-  {
     "title": "Intro to Study Abroad",
     "link": "https://www.jjay.cuny.edu/news-events/events/intro-study-abroad-1",
     "college": "John Jay College of Criminal Justice",
@@ -5425,6 +5392,14 @@
     "link": "https://www.jjay.cuny.edu/news-events/events/cuny-career-discovery-week-0",
     "college": "John Jay College of Criminal Justice",
     "date": "2025-11-04",
+    "time": "03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Career Discovery Week",
+    "link": "https://www.jjay.cuny.edu/news-events/events/cuny-career-discovery-week-1",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-05",
     "time": "03:00 PM",
     "tags": []
   },
@@ -5732,14 +5707,6 @@
     "description": ""
   },
   {
-    "title": "Swap Meet",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-29-swap-meet.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-29",
-    "time": "09:00 AM - 05:45 PM",
-    "description": "Student Event"
-  },
-  {
     "title": "Bites and Insights",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-29-bites-and-insights.html",
     "college": "Queensborough Community College",
@@ -5890,6 +5857,14 @@
     "date": "2025-10-06",
     "time": "11:00 AM - 12:00 PM",
     "description": "Career Services Event"
+  },
+  {
+    "title": "Color, Create & Be Calm",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-06-color-create-be-calm.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-06",
+    "time": "12:30 PM - 02:00 PM",
+    "description": "Special Event / Fair"
   },
   {
     "title": "Managing Procrastination and Understanding Writing Anxiety",
