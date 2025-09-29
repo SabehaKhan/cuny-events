@@ -1,13 +1,5 @@
 [
   {
-    "title": "Free Flu Shots for Faculty and Staff",
-    "link": "https://www.ccny.cuny.edu/calendar/free-flu-shots-faculty-and-staff",
-    "college": "City College of New York",
-    "date": "2025-09-29",
-    "time": "10:00 AM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-10",
     "college": "City College of New York",
@@ -93,6 +85,14 @@
     "college": "City College of New York",
     "date": "2025-10-06",
     "time": "12:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Professor Amir Pahlavan Seminar",
+    "link": "https://www.ccny.cuny.edu/calendar/professor-amir-pahlavan-seminar",
+    "college": "City College of New York",
+    "date": "2025-10-07",
+    "time": "02:00 PM - 03:15 PM",
     "tags": []
   },
   {
@@ -1077,6 +1077,16 @@
     "tags": []
   },
   {
+    "title": "Pipeline to Justice & CUNY BLSA - Fall Mentorship Mixer",
+    "link": "https://www.law.cuny.edu/event/pipeline-to-justice-cuny-blsa-fall-mentorship-mixer/",
+    "college": "CUNY School of Law",
+    "date": "2025-10-30",
+    "time": "05:30 PM - 07:30 PM",
+    "tags": [
+      "Special Event"
+    ]
+  },
+  {
     "title": "Abolition in an Era of Immigration Detention",
     "link": "https://www.law.cuny.edu/event/abolition-in-an-era-of-immigration-detention/",
     "college": "CUNY School of Law",
@@ -1917,15 +1927,12 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-09-29/",
-    "college": "LaGuardia Community College",
+    "title": "CUNY Career Discovery Week",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/0658d1c7-5a8c-422b-b8f9-3ac47e45cafc",
+    "college": "Kingsborough Community College",
     "date": "2025-09-29",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
+    "time": "09:00 AM - 09:00 AM",
+    "tags": []
   },
   {
     "title": "NYU CCTOP Virtual Transfer Information Session",
@@ -2197,6 +2204,17 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-10-08/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-08",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Check-in With Your Financial Aid Advisor",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376597",
     "college": "Guttman Community College",
@@ -2208,19 +2226,6 @@
       "Financial Aid",
       "FASFA & TAP Applications",
       "Satisfactory Academic Progress (SAP)"
-    ]
-  },
-  {
-    "title": "The HUB Virtual Hours",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376617",
-    "college": "Guttman Community College",
-    "date": "2025-09-29",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "Discussion",
-      "Information Session"
     ]
   },
   {
@@ -2271,19 +2276,6 @@
     ]
   },
   {
-    "title": "The HUB Virtual Hours",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376629",
-    "college": "Guttman Community College",
-    "date": "2025-10-01",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "Discussion",
-      "Information Session"
-    ]
-  },
-  {
     "title": "Navigate360 Workshop",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376595",
     "college": "Guttman Community College",
@@ -2308,19 +2300,6 @@
       "Broadway Show",
       "Hispanic/LatinX Heritage Month",
       "Off-Campus"
-    ]
-  },
-  {
-    "title": "The HUB Virtual Hours",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376642",
-    "college": "Guttman Community College",
-    "date": "2025-10-03",
-    "time": "03:00 PM - 06:00 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "Information Session",
-      "Discussion"
     ]
   },
   {
@@ -3157,16 +3136,6 @@
     ]
   },
   {
-    "title": "Reconstructing Identity: Music in Israel",
-    "link": "https://hunter.cuny.edu/event/reconstructing-identity-music-in-israel/",
-    "college": "Hunter College",
-    "date": "2025-09-29",
-    "time": "12:00 PM - 12:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
     "title": "RNA-Protein Homeostasis in Healthy and Diseased Neurons",
     "link": "https://hunter.cuny.edu/event/rna-protein-homeostasis-in-healthy-and-diseased-neurons/",
     "college": "Hunter College",
@@ -3185,8 +3154,8 @@
     "tags": []
   },
   {
-    "title": "Learn About Black Male Initiative (BMI)",
-    "link": "https://hunter.cuny.edu/event/learn-about-black-male-initiative-bmi/",
+    "title": "Brothers for Excellence",
+    "link": "https://hunter.cuny.edu/event/brothers-for-excellence/",
     "college": "Hunter College",
     "date": "2025-09-30",
     "time": "01:00 PM - 02:00 PM",
@@ -3299,11 +3268,11 @@
     ]
   },
   {
-    "title": "Careers in Health",
-    "link": "https://hunter.cuny.edu/event/careers-in-health/",
+    "title": "Careers in Healthcare",
+    "link": "https://hunter.cuny.edu/event/careers-in-healthcare/",
     "college": "Hunter College",
     "date": "2025-10-01",
-    "time": "12:00 PM - 01:00 PM",
+    "time": "02:30 PM - 03:30 PM",
     "tags": [
       "Student Events"
     ]
@@ -3320,8 +3289,8 @@
     ]
   },
   {
-    "title": "Screening of Metropolis (1927)",
-    "link": "https://hunter.cuny.edu/event/metropolis-1927-2/",
+    "title": "Screening of Metropolis (1927) German",
+    "link": "https://hunter.cuny.edu/event/screening-of-metropolis-1927/",
     "college": "Hunter College",
     "date": "2025-10-03",
     "time": "02:30 PM - 05:15 PM",
@@ -3381,7 +3350,7 @@
     ]
   },
   {
-    "title": "Screening of The Haunted School (2007)",
+    "title": "Screening of The Haunted School (2007) Chinese",
     "link": "https://hunter.cuny.edu/event/the-haunted-school-2007-2/",
     "college": "Hunter College",
     "date": "2025-10-07",
@@ -3412,6 +3381,16 @@
     ]
   },
   {
+    "title": "Campus Resources and Majors: Computer Science",
+    "link": "https://hunter.cuny.edu/event/campus-resources-and-majors-computer-science-2/",
+    "college": "Hunter College",
+    "date": "2025-10-08",
+    "time": "10:30 AM - 11:30 AM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Sign Up Week for the Breast Cancer Awareness Walk",
     "link": "https://www.bmcc.cuny.edu/event/sign-up-week-for-the-breast-cancer-awareness-walk/",
     "college": "Borough of Manhattan Community College",
@@ -3428,11 +3407,22 @@
     ]
   },
   {
-    "title": "BMCC Writing Center: Composition Workshops",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-composition-workshops/2025-09-29/1/",
+    "title": "Pace University On-site Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/pace-university-on-site-information-session/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-09-29",
-    "time": "11:00 AM - 12:00 PM",
+    "time": "01:30 PM - 03:00 PM",
+    "tags": [
+      "Academic Advisement & Transfer",
+      "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Writing Center: Composition Workshops",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-composition-workshops/2025-09-29/2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-29",
+    "time": "02:00 PM - 03:00 PM",
     "tags": [
       "Academic Affairs",
       "Academic Calendar",
@@ -3443,17 +3433,6 @@
       "New Student Programs",
       "Workshops",
       "Writing Center"
-    ]
-  },
-  {
-    "title": "Pace University On-site Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/pace-university-on-site-information-session/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-29",
-    "time": "01:30 PM - 03:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer",
-      "Featured"
     ]
   },
   {
@@ -3728,6 +3707,17 @@
       "Featured",
       "Student Affairs",
       "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "Spilling the Tea: Meet the Counseling Center (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/spilling-the-tea-meet-the-counseling-center-online/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-09",
+    "time": "01:00 PM - 02:30 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured"
     ]
   },
   {
@@ -4060,6 +4050,19 @@
       "CC CLUE",
       "Entertainment",
       "Cultural"
+    ]
+  },
+  {
+    "title": "Harvest Your Health: CSI Health & Wellness Fair",
+    "link": "https://csi.campuslabs.com/engage/event/11715747",
+    "college": "College of Staten Island",
+    "date": "2025-10-09",
+    "time": "04:00 PM - 08:00 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "Health and Wellness",
+      "VELA"
     ]
   },
   {
@@ -4523,6 +4526,29 @@
     ]
   },
   {
+    "title": "WOW Lecture - Comparing Left Populist Media in the U.S. and Spain (259046-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11540193",
+    "college": "College of Staten Island",
+    "date": "2025-10-29",
+    "time": "04:20 PM - 05:10 PM",
+    "tags": [
+      "Cultural",
+      "Learning",
+      "Global Engagement"
+    ]
+  },
+  {
+    "title": "Weekly Tea Time",
+    "link": "https://csi.campuslabs.com/engage/event/11507173",
+    "college": "College of Staten Island",
+    "date": "2025-10-29",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "Social",
+      "Willowbrook Campus"
+    ]
+  },
+  {
     "title": "CAB Film Showings: Superman (2025)",
     "link": "https://csi.campuslabs.com/engage/event/11366298",
     "college": "College of Staten Island",
@@ -4586,22 +4612,6 @@
     "tags": []
   },
   {
-    "title": "My Body is My Temple: Breast Cancer Awareness Exhibit",
-    "link": "https://www.bmcc.cuny.edu/event/?p=660540",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-29",
-    "time": "12:00 AM - 11:59 PM",
-    "tags": []
-  },
-  {
-    "title": "BMCC Writing Center: Composition Workshops",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005703",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-29",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
     "title": "Gaymers Against Violence: Monthly Workshop Series",
     "link": "https://events.cuny.edu/cec/gaymers-against-violence-monthly-workshop-series-10/",
     "college": "The City College of New York",
@@ -4610,6 +4620,34 @@
     "tags": [
       "LGBTQI+"
     ]
+  },
+  {
+    "title": "CCNY Spitzer School of Architecture Tour",
+    "link": "https://events.cuny.edu/cec/ccny-spitzer-school-of-architecture-tour/",
+    "college": "The City College of New York",
+    "date": "2025-09-30",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "CCNY Spitzer School of Architecture Tour"
+    ]
+  },
+  {
+    "title": "The 10th Annual Sharon Cosloy-Edward Blank Family Distinguished Scientist Lecture",
+    "link": "https://events.cuny.edu/cec/the-10th-annual-sharon-cosloy-edward-blank-family-distinguished-scientist-lecture/",
+    "college": "The City College of New York",
+    "date": "2025-09-30",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": [
+      "Sharon Cosloy - Edward Blank Family Distinguished Scientist Lecture"
+    ]
+  },
+  {
+    "title": "English Education M.S.Ed. Information Session",
+    "link": "https://lehman.edu/events/2025/English-Education-MSEd-Information-Session-.php",
+    "college": "Lehman College",
+    "date": "2025-09-30",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
   },
   {
     "title": "FA25 Hold off room",
@@ -5212,14 +5250,6 @@
     "tags": []
   },
   {
-    "title": "Intro to Study Abroad",
-    "link": "https://www.jjay.cuny.edu/news-events/events/intro-study-abroad-1",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-29",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
     "title": "9/11 Memorial & Museum Clean-Up",
     "link": "https://www.jjay.cuny.edu/news-events/events/911-memorial-museum-clean",
     "college": "John Jay College of Criminal Justice",
@@ -5404,6 +5434,14 @@
     "tags": []
   },
   {
+    "title": "CUNY Career Discovery Week",
+    "link": "https://www.jjay.cuny.edu/news-events/events/cuny-career-discovery-week-2",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-06",
+    "time": "03:00 PM",
+    "tags": []
+  },
+  {
     "title": "Lincoln Center Visit & Internships Information Session",
     "link": "https://macaulay.cuny.edu/calendar-of-events/lincoln-center-visit-internships-information-session/",
     "college": "Macaulay Honors College",
@@ -5476,30 +5514,6 @@
     "tags": []
   },
   {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-09-29",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-29",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
-    "college": "York College",
-    "date": "2025-09-29",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "Constructing Your Career as a Clinical Lab Science Major",
     "link": "https://www.york.cuny.edu/events/constructing-your-career-as-a-clinical-lab-science-major",
     "college": "York College",
@@ -5537,6 +5551,30 @@
     "college": "York College",
     "date": "2025-09-30",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-09-30",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-09-30",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
+    "college": "York College",
+    "date": "2025-09-30",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5688,14 +5726,15 @@
     ]
   },
   {
-    "title": "FACULTY RECITAL: THOMAS SAUER, PIANO",
-    "link": "https://www.gc.cuny.edu/events/faculty-recital-thomas-sauer-piano-oct-2025",
+    "title": "JOBURG'S POOLS IN A TIME OF SOUTH AFRICAN INFRASTRUCTURE",
+    "link": "https://www.gc.cuny.edu/events/joburgs-pools-time-south-african-infrastructure",
     "college": "CUNY Graduate Center",
     "date": "2025-10-03",
-    "time": "7:30 pm",
-    "location": "1201: Elebash Recital Hall",
+    "time": "4:15 pm — 6:15 pm",
+    "location": "C415A",
     "tags": [
-      "Music"
+      "Anthropology",
+      "Humanities and Social Sciences"
     ]
   },
   {
@@ -5705,30 +5744,6 @@
     "date": "2025-10-30",
     "time": "03:00 PM - 05:00 PM",
     "description": ""
-  },
-  {
-    "title": "Bites and Insights",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-29-bites-and-insights.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-29",
-    "time": "12:00 PM - 01:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "\"No\" (2012)  movie screening",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-29-no-2012-movie-screening.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-29",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Color, Create & Be Calm",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-29-color-create-be-calm.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-29",
-    "time": "12:30 PM - 02:00 PM",
-    "description": "Special Event / Fair"
   },
   {
     "title": "Breaking New Ground: Succeeding as a First-Generation College Student",
@@ -5867,6 +5882,30 @@
     "description": "Special Event / Fair"
   },
   {
+    "title": "Four-Year College Transfer Application Workshop",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-07-Four-Year-College-Transfer-Application-Workshop.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-07",
+    "time": "11:30 AM - 12:30 PM",
+    "description": "Transfer Resource Center Event"
+  },
+  {
+    "title": "QMRC Welcome Brunch & New Student Kick-Off!",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-07-qmrc-welcome-brunch--new-student-kick-off.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-07",
+    "time": "12:00 PM - 03:00 PM",
+    "description": "Male Resource Center Event"
+  },
+  {
+    "title": "\"Four Seasons in Havana\" Screening",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-07-four-seasons-in-havana-screening.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-07",
+    "time": "12:00 PM - 02:00 AM",
+    "description": "Special Event / Fair"
+  },
+  {
     "title": "Managing Procrastination and Understanding Writing Anxiety",
     "link": "https://www.eventbrite.com/e/managing-procrastination-and-understanding-writing-anxiety-tickets-1474991171299?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
@@ -5929,5 +5968,13 @@
     "date": "2025-11-18",
     "time": "11:00 PM - 12:00 AM",
     "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
+  },
+  {
+    "title": "Lit Review Research (Online)",
+    "link": "https://www.eventbrite.com/e/lit-review-research-tickets-1542934040249?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-10-03",
+    "time": "10:15 PM - 11:00 PM",
+    "description": "<strong>Learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews.</strong><br>ONLINE. <br>RSVP HERE: <a href=\"https://www.eventbrite.com/e/lit-review-research-tickets-1542934040249?aff=oddtdtcreator\">https://www.eventbrite.com/e/lit-review-research-tickets-1542934040249?aff=oddtdtcreator</a>"
   }
 ]
