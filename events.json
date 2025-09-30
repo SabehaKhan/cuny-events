@@ -1439,14 +1439,6 @@
     "tags": []
   },
   {
-    "title": "ARC's Holiday Distribution",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/b8f72888-bd05-43f5-bfa7-fd579b31ebca",
-    "college": "Kingsborough Community College",
-    "date": "2025-11-19",
-    "time": "12:00 PM - 09:00 PM",
-    "tags": []
-  },
-  {
     "title": "Thanks-for-Giving",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/6a92441c-59ab-4c06-b65e-1b9ce630b435",
     "college": "Kingsborough Community College",
@@ -1919,26 +1911,12 @@
     "tags": []
   },
   {
-    "title": "Deep Dive: Interstride and Handshake",
-    "link": "https://www.laguardia.edu/event/deep-dive-interstride-and-handshake/",
-    "college": "LaGuardia Community College",
-    "date": "2025-09-30",
-    "time": "11:45 AM - 12:45 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "LHI Kick Off: Fall 2025 Orientation",
-    "link": "https://www.laguardia.edu/event/lhi-kick-off-fall-2025-orientation/",
-    "college": "LaGuardia Community College",
-    "date": "2025-09-30",
-    "time": "11:45 AM - 12:45 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
+    "title": "ARC's Holiday Distribution",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a9578fc1-7149-444a-af66-b30878161551",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-19",
+    "time": "04:00 PM - 08:00 PM",
+    "tags": []
   },
   {
     "title": "Empower You Kahoot: Domestic Violence 101",
@@ -2199,6 +2177,28 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-10-08/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-08",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-10-09/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-09",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "CUNY Spring Forward Internship Info Session",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376458",
     "college": "Guttman Community College",
@@ -2246,19 +2246,6 @@
     ]
   },
   {
-    "title": "The HUB Virtual Hours",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376629",
-    "college": "Guttman Community College",
-    "date": "2025-10-01",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "Discussion",
-      "Information Session"
-    ]
-  },
-  {
     "title": "Navigate360 Workshop",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376595",
     "college": "Guttman Community College",
@@ -2283,19 +2270,6 @@
       "Broadway Show",
       "Hispanic/LatinX Heritage Month",
       "Off-Campus"
-    ]
-  },
-  {
-    "title": "The HUB Virtual Hours",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376642",
-    "college": "Guttman Community College",
-    "date": "2025-10-03",
-    "time": "03:00 PM - 06:00 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "Information Session",
-      "Discussion"
     ]
   },
   {
@@ -3389,59 +3363,6 @@
     ]
   },
   {
-    "title": "Workshop for Students who are Parents: Feelings, Feelings, Tiny to Huge",
-    "link": "https://www.bmcc.cuny.edu/event/workshop-for-students-who-are-parents-feelings-feelings-tiny-to-huge/2025-09-30/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-30",
-    "time": "09:00 AM - 11:00 AM",
-    "tags": [
-      "Counseling Center",
-      "CUNY in The Heights",
-      "Early Childhood Center",
-      "Early Childhood Education",
-      "Evening-Weekend",
-      "Featured",
-      "Psychology",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga/2025-09-30/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-30",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-259/2025-09-30/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-30",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "The Power of Connections: Networking for Success",
-    "link": "https://www.bmcc.cuny.edu/event/the-power-of-connections-networking-for-success-7/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-09-30",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
-    ]
-  },
-  {
     "title": "Spilling the Tea: Meet the Counseling Center",
     "link": "https://www.bmcc.cuny.edu/event/spilling-the-tea-meet-the-counseling-center/",
     "college": "Borough of Manhattan Community College",
@@ -3486,6 +3407,25 @@
       "Featured",
       "LGBTQ Pride Month",
       "Pride Center"
+    ]
+  },
+  {
+    "title": "Workshop for Students who are Parents: Feelings, Feelings, Tiny to Huge",
+    "link": "https://www.bmcc.cuny.edu/event/workshop-for-students-who-are-parents-feelings-feelings-tiny-to-huge/2025-10-01/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-01",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "CUNY in The Heights",
+      "Early Childhood Center",
+      "Early Childhood Education",
+      "Evening-Weekend",
+      "Featured",
+      "Psychology",
+      "Social Sciences",
+      "Human Services and Criminal Justice",
+      "Student Affairs"
     ]
   },
   {
@@ -3588,6 +3528,18 @@
       "New Student Programs",
       "Workshops",
       "Writing Center"
+    ]
+  },
+  {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga/2025-10-07/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-07",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
     ]
   },
   {
@@ -3700,6 +3652,35 @@
     "tags": [
       "Featured",
       "Health Services"
+    ]
+  },
+  {
+    "title": "The Moth Story Lab All CUNY Workshop Series",
+    "link": "https://www.bmcc.cuny.edu/event/the-moth-story-lab-all-cuny-workshop-series/2025-10-09/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-09",
+    "time": "05:30 PM - 07:30 PM",
+    "tags": [
+      "Communication Studies",
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured",
+      "Speech",
+      "Communications and Theatre Arts"
+    ]
+  },
+  {
+    "title": "Jane Young Fall 2025 Film Series: Greed, a Film Retrospective",
+    "link": "https://www.bmcc.cuny.edu/event/jane-young-fall-2025-film-series-greed-a-film-retrospective/2025-10-12/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-12",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "Diplomatic Engagement and Training",
+      "English",
+      "Featured",
+      "Media Arts and Technology",
+      "Student Affairs"
     ]
   },
   {
@@ -3822,30 +3803,6 @@
     "tags": []
   },
   {
-    "title": "Elections and Advocacy Commission (Student Government)",
-    "link": "https://csi.campuslabs.com/engage/event/11538902",
-    "college": "College of Staten Island",
-    "date": "2025-09-30",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "CommunityService",
-      "Volunteer",
-      "Group Business"
-    ]
-  },
-  {
-    "title": "Student Services Commission (Student Government)",
-    "link": "https://csi.campuslabs.com/engage/event/11680099",
-    "college": "College of Staten Island",
-    "date": "2025-09-30",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "GroupBusiness",
-      "Group Business",
-      "Willowbrook Campus"
-    ]
-  },
-  {
     "title": "College Consortium for International Studies (CCIS) Study Abroad Fair",
     "link": "https://csi.campuslabs.com/engage/event/11527886",
     "college": "College of Staten Island",
@@ -3868,6 +3825,16 @@
       "ThoughtfulLearning",
       "Learning",
       "Career Development"
+    ]
+  },
+  {
+    "title": "NYPIRG's Kickoff Event",
+    "link": "https://csi.campuslabs.com/engage/event/11722589",
+    "college": "College of Staten Island",
+    "date": "2025-09-30",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "Social"
     ]
   },
   {
@@ -3979,6 +3946,18 @@
     ]
   },
   {
+    "title": "Enterprise Mobility Employee Visit",
+    "link": "https://csi.campuslabs.com/engage/event/11722357",
+    "college": "College of Staten Island",
+    "date": "2025-10-08",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "GroupBusiness",
+      "Leadership",
+      "Career Development"
+    ]
+  },
+  {
     "title": "CSI Legal Studies Institutes Presents: “The Containment: Detroit, the Supreme Court, & the Battle for Racial Justice in the North” (259043-CC)",
     "link": "https://csi.campuslabs.com/engage/event/11553406",
     "college": "College of Staten Island",
@@ -4020,6 +3999,18 @@
     ]
   },
   {
+    "title": "PSYCHOLOGY CLUB In-person Meet.",
+    "link": "https://csi.campuslabs.com/engage/event/11722183",
+    "college": "College of Staten Island",
+    "date": "2025-10-09",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "Social",
+      "Entertainment",
+      "Career Development"
+    ]
+  },
+  {
     "title": "Harvest Your Health: CSI Health & Wellness Fair",
     "link": "https://csi.campuslabs.com/engage/event/11715747",
     "college": "College of Staten Island",
@@ -4030,6 +4021,16 @@
       "Learning",
       "Health and Wellness",
       "VELA"
+    ]
+  },
+  {
+    "title": "Sheikh Ahmed Al Hoori Halaqa",
+    "link": "https://csi.campuslabs.com/engage/event/11722326",
+    "college": "College of Staten Island",
+    "date": "2025-10-09",
+    "time": "06:30 PM - 08:00 PM",
+    "tags": [
+      "Spirituality"
     ]
   },
   {
@@ -4161,7 +4162,7 @@
     "link": "https://csi.campuslabs.com/engage/event/11682561",
     "college": "College of Staten Island",
     "date": "2025-10-15",
-    "time": "04:20 PM - 06:15 PM",
+    "time": "04:30 AM - 06:30 PM",
     "tags": [
       "ThoughtfulLearning",
       "Social Justice\\",
@@ -4619,6 +4620,30 @@
     "college": "Lehman College",
     "date": "2025-09-30",
     "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005515",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-30",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10005596",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-30",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "The Power of Connections: Networking for Success",
+    "link": "https://www.bmcc.cuny.edu/event/?p=659083",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-09-30",
+    "time": "12:00 PM - 01:00 PM",
     "tags": []
   },
   {
@@ -5206,14 +5231,6 @@
     "tags": []
   },
   {
-    "title": "9/11 Memorial & Museum Clean-Up",
-    "link": "https://www.jjay.cuny.edu/news-events/events/911-memorial-museum-clean",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-09-30",
-    "time": "02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Study Abroad in Australia: Spring 2026",
     "link": "https://www.jjay.cuny.edu/news-events/events/study-abroad-australia-spring-2026",
     "college": "John Jay College of Criminal Justice",
@@ -5350,6 +5367,14 @@
     "tags": []
   },
   {
+    "title": "Halloween Fashion Show",
+    "link": "https://www.jjay.cuny.edu/news-events/events/halloween-fashion-show",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-29",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
     "title": "Alumni Reunion",
     "link": "https://www.jjay.cuny.edu/news-events/events/alumni-reunion",
     "college": "John Jay College of Criminal Justice",
@@ -5398,6 +5423,78 @@
     "tags": []
   },
   {
+    "title": "Lincoln Center Visit & Internships Information Session",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/lincoln-center-visit-internships-information-session/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-03",
+    "time": "10:00 AM - 2:00PM",
+    "tags": []
+  },
+  {
+    "title": "In-Person – Information Session for Prospective Students",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/in-person-information-session-for-prospective-students-5/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-07",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "In-Person – Information Session for Prospective Students",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/in-person-information-session-for-prospective-students-7/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-08",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Safe Zone Training",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/safe-zone-training/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-09",
+    "time": "5:30PM",
+    "tags": []
+  },
+  {
+    "title": "The Friedman Transfer Scholars Program: Virtual Information Session",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-2/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-09",
+    "time": "6:30PM",
+    "tags": []
+  },
+  {
+    "title": "Coffee Chats and Emailing Right",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/coffee-chats-and-emailing-right/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-09",
+    "time": "7:00PM",
+    "tags": []
+  },
+  {
+    "title": "Connected & Protected: Making Smart Choices in Digital Spaces",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/connected-protected-making-smart-choices-in-digital-spaces/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-15",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Macaulay Wellness Symposium",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/wellness-symposium/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-17",
+    "time": "11:00 AM - 6:30PM",
+    "tags": []
+  },
+  {
+    "title": "Macaulay’s Night at the Brooklyn Museum",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/macaulays-night-at-the-brooklyn-museum/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-21",
+    "time": "6:30PM",
+    "tags": []
+  },
+  {
     "title": "\"Meet the Clubs\" Pop-Up Fair",
     "link": "https://www.york.cuny.edu/events/2025/meet-the-clubs-pop-up-fair",
     "college": "York College",
@@ -5411,30 +5508,6 @@
     "college": "York College",
     "date": "2025-09-30",
     "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-09-30",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-09-30",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
-    "college": "York College",
-    "date": "2025-09-30",
-    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5478,11 +5551,35 @@
     "tags": []
   },
   {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-10-03",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-10-03",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
     "title": "Faculty & Staff Dedicated Fitness Center Hours",
     "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
     "college": "York College",
     "date": "2025-10-03",
     "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
+    "college": "York College",
+    "date": "2025-10-06",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5614,52 +5711,20 @@
     ]
   },
   {
+    "title": "The Beatbox House: Performance and Workshop",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-08-the-beatbox-house-performance-and-workshop.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-08",
+    "time": "12:10 PM - 02:00 PM",
+    "description": ""
+  },
+  {
     "title": "Day of the Dead Ofrenda",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-30-day-of-the-dead-ofrenda.html",
     "college": "Queensborough Community College",
     "date": "2025-10-30",
     "time": "03:00 PM - 05:00 PM",
     "description": ""
-  },
-  {
-    "title": "The General Chemistry I Workshop Series: Week 3: Mole Concept & Balancing Equations",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-30-the-general-chemistry-i-workshop-series-week-3-mole-concept--balancing-equations.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-30",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Club Event"
-  },
-  {
-    "title": "MRC Presents: Hispanic Heritage Month Karaoke",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-30-mrc-presents-hispanic-heritage-month-karaoke.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-30",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Male Resource Center Event"
-  },
-  {
-    "title": "“El Abrazo de la Serpiente” Movie Screening",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-30-el-abrazo-de-la-serpiente-movie-screening.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-30",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "R101 Certificate Class",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-30-r101-certificate-class.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-30",
-    "time": "12:10 PM - 01:30 PM",
-    "description": "Conference and Workshop"
-  },
-  {
-    "title": "Welcome Read Faculty-Led Book Club Event:",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-09-30-welcome-read-faculty-led-book-club-event.html",
-    "college": "Queensborough Community College",
-    "date": "2025-09-30",
-    "time": "12:30 PM - 02:00 PM",
-    "description": "Special Event / Fair"
   },
   {
     "title": "Sabores Sin Fuego: A No-Cook Taste of Hispanic Heritage",
@@ -5751,7 +5816,7 @@
   },
   {
     "title": "QMRC Welcome Brunch & New Student Kick-Off!",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-07-qmrc-welcome-brunch--new-student-kick-off.html",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-07-qmrc-welcome-brunch-new-student-kick-off.html",
     "college": "Queensborough Community College",
     "date": "2025-10-07",
     "time": "12:00 PM - 03:00 PM",
@@ -5780,6 +5845,38 @@
     "date": "2025-10-07",
     "time": "03:00 PM - 04:00 PM",
     "description": "Student Event"
+  },
+  {
+    "title": "A Welcome Read Creative Writing Event with Poet Kimberly Nguyen",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-08-a-welcome-read-creative-writing-event-with-poet-kimberly-nguyen.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-08",
+    "time": "10:30 AM - 12:00 PM",
+    "description": "Club Event"
+  },
+  {
+    "title": "Information Table",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-08-information-table.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-08",
+    "time": "11:30 AM - 01:45 PM",
+    "description": "Club Event"
+  },
+  {
+    "title": "Nourish & Nurture: Helping Our Communities Succeed One Step at a Time",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-08-nourish-nurture-helping-our-communities-succeed-one-step-at-a-time.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-08",
+    "time": "12:00 PM - 01:30 PM",
+    "description": "ASAP Career Event"
+  },
+  {
+    "title": "Project Speak Out Loud Pop-Up Event",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-08-project-speak-out-loud-pop-up-event.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-08",
+    "time": "12:00 PM - 02:00 PM",
+    "description": "Club Event"
   },
   {
     "title": "Feel the Fear and Speak in Class Anyway",
