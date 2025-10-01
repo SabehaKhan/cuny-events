@@ -80,7 +80,7 @@
     "tags": []
   },
   {
-    "title": "Biochemistry Seminar: Kimberly Reynolds, Title TBA",
+    "title": "Biochemistry Seminar: Kimberly Reynolds, \"Mapping and modeling the impact of protein biochemical variation on growth rate phenotype\"",
     "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-kimberly-reynolds-title-tba",
     "college": "City College of New York",
     "date": "2025-10-08",
@@ -912,16 +912,6 @@
     "tags": []
   },
   {
-    "title": "Start of Yom Kippur",
-    "link": "https://www.mec.cuny.edu/event/yom-kippur-2025/",
-    "college": "Medgar Evers College",
-    "date": "2025-10-01",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": [
-      "Religous and Ethnic Holidays"
-    ]
-  },
-  {
     "title": "Open choir auditions at Medgar Evers College",
     "link": "https://www.mec.cuny.edu/event/open-choir-auditions-at-medgar-evers-college/",
     "college": "Medgar Evers College",
@@ -1080,6 +1070,16 @@
     ]
   },
   {
+    "title": "Black Solidarity Day",
+    "link": "https://www.mec.cuny.edu/event/black-solidarity-day-7/",
+    "college": "Medgar Evers College",
+    "date": "2025-11-03",
+    "time": "05:00 PM - 08:00 PM",
+    "tags": [
+      "Student Life"
+    ]
+  },
+  {
     "title": "The First Amendment, Censorship, and Higher Education Panel presented by Faculty PDC",
     "link": "https://www.law.cuny.edu/event/the-first-amendment-censorship-and-higher-education-panel-presented-by-faculty-pdc/",
     "college": "CUNY School of Law",
@@ -1169,8 +1169,8 @@
     "tags": []
   },
   {
-    "title": "Learn to Use AI for Data Reporting",
-    "link": "https://www.journalism.cuny.edu/events/learn-to-use-ai-for-data-reporting/2025-10-09/",
+    "title": "Learn to Use AI for Data Reporting: How to Find and Access Relevant Data",
+    "link": "https://www.journalism.cuny.edu/events/learn-to-use-ai-for-data-reporting-2/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2025-10-09",
     "time": "02:00 PM - 03:30 PM",
@@ -1215,14 +1215,22 @@
     ]
   },
   {
-    "title": "Learn to Use AI for Data Reporting",
-    "link": "https://www.journalism.cuny.edu/events/learn-to-use-ai-for-data-reporting/2025-10-16/",
+    "title": "Learn to Use AI for Data Reporting: Prompt Writing and AI-Powered Data Analysis",
+    "link": "https://www.journalism.cuny.edu/events/learn-to-use-ai-for-data-reporting-3/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2025-10-16",
     "time": "02:00 PM - 03:30 PM",
     "tags": [
       "Center for Community Media"
     ]
+  },
+  {
+    "title": "The Power of Storytelling and Its Intersections",
+    "link": "https://www.journalism.cuny.edu/events/the-power-of-storytelling-and-its-intersections/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-10-22",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": []
   },
   {
     "title": "Empire of AI: Dreams and Nightmares in Sam Altman’s OpenAI - Karen Hao in Conversation with John Borthwick",
@@ -1233,8 +1241,8 @@
     "tags": []
   },
   {
-    "title": "Learn to Use AI for Data Reporting",
-    "link": "https://www.journalism.cuny.edu/events/learn-to-use-ai-for-data-reporting/2025-10-23/",
+    "title": "Learn to Use AI for Data Reporting: How to Verify Data and Avoid AI Pitfalls",
+    "link": "https://www.journalism.cuny.edu/events/learn-to-use-ai-for-data-reporting-4/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2025-10-23",
     "time": "02:00 PM - 03:30 PM",
@@ -2134,6 +2142,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-10-08",
     "time": "02:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Stress Support Circle",
+    "link": "https://www.laguardia.edu/event/stress-support-circle/2025-10-08/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-08",
+    "time": "03:30 PM - 04:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -3151,45 +3170,6 @@
     ]
   },
   {
-    "title": "Graduate Admissions Information Session",
-    "link": "https://hunter.cuny.edu/event/graduate-admissions-information-session-27/",
-    "college": "Hunter College",
-    "date": "2025-10-01",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Job Search Strategies",
-    "link": "https://hunter.cuny.edu/event/job-search-strategies/",
-    "college": "Hunter College",
-    "date": "2025-10-01",
-    "time": "01:30 PM - 02:30 PM",
-    "tags": [
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "How to Navigate The Website",
-    "link": "https://hunter.cuny.edu/event/how-to-navigate-the-website/",
-    "college": "Hunter College",
-    "date": "2025-10-01",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Careers in Healthcare",
-    "link": "https://hunter.cuny.edu/event/careers-in-healthcare/",
-    "college": "Hunter College",
-    "date": "2025-10-01",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "OOA Outing to The MET Opera: La Sonnambula",
     "link": "https://hunter.cuny.edu/event/ooa-outing-to-the-met-opera-la-sonnambula/",
     "college": "Hunter College",
@@ -3412,27 +3392,43 @@
     "tags": []
   },
   {
-    "title": "ARC immigration Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/arc-immigration-information-session/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-01",
-    "time": "02:00 PM - 03:30 PM",
+    "title": "Vivian Gornick - Distinguished Writers Series",
+    "link": "https://hunter.cuny.edu/event/vivian-gornick-distinguished-writers-series/",
+    "college": "Hunter College",
+    "date": "2025-10-09",
+    "time": "07:30 PM - 08:45 PM",
     "tags": [
-      "Advocacy and Resource Center",
-      "Featured",
-      "Student Affairs"
+      "Lectures"
     ]
   },
   {
-    "title": "Breast Cancer Awareness and Resources Event",
-    "link": "https://www.bmcc.cuny.edu/event/breast-cancer-awareness/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-01",
-    "time": "02:00 PM - 04:00 PM",
+    "title": "Excelsior & State Aid Workshop",
+    "link": "https://hunter.cuny.edu/event/excelsior-state-aid-workshop/",
+    "college": "Hunter College",
+    "date": "2025-10-10",
+    "time": "10:30 AM - 11:30 AM",
     "tags": [
-      "Featured",
-      "Project Impact",
-      "Student Affairs"
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Careers in Business",
+    "link": "https://hunter.cuny.edu/event/careers-in-business/",
+    "college": "Hunter College",
+    "date": "2025-10-10",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Nursing Generic Program Information Session",
+    "link": "https://hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-6/",
+    "college": "Hunter College",
+    "date": "2025-10-10",
+    "time": "12:00 PM - 01:30 PM",
+    "tags": [
+      "Open Houses"
     ]
   },
   {
@@ -3733,6 +3729,18 @@
       "Featured",
       "Student Affairs",
       "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "Health and Wellness Fair",
+    "link": "https://www.bmcc.cuny.edu/event/health-and-wellness-fair/2025-10-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-15",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Ethnic and Race Studies",
+      "Featured",
+      "Health Services"
     ]
   },
   {
@@ -4681,6 +4689,24 @@
     ]
   },
   {
+    "title": "Spring 2026 CUNY Cultural Corps Info Session for Students",
+    "link": "https://events.cuny.edu/cec/spring-2026-cultural-corps-info-session-for-students/",
+    "college": "The University",
+    "date": "2025-10-03",
+    "time": "12:00 PM",
+    "tags": []
+  },
+  {
+    "title": "English (MA) and Teaching of Writing (Adv. Cert.) Infosession",
+    "link": "https://events.cuny.edu/cec/english-ma-and-teaching-of-writing-adv-cert-infosession/",
+    "college": "College of Staten Island",
+    "date": "2025-10-03",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": [
+      "English"
+    ]
+  },
+  {
     "title": "FA25 Hold off room",
     "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/zAf24h3SRunc2YCXp1s138",
     "college": "Queens College",
@@ -4790,6 +4816,14 @@
     "college": "Queens College",
     "date": "2025-10-02",
     "time": "7:30AM",
+    "tags": []
+  },
+  {
+    "title": "Spring '26 NVA 2 Applications are Open",
+    "link": "https://baruch.event.cuny.edu/events/pt5poMnL3paWJ3OaS2Ae/PrpEsEsswstgYyf76Q35",
+    "college": "Baruch College",
+    "date": "2025-10-02",
+    "time": "12:00AM",
     "tags": []
   },
   {
@@ -5065,11 +5099,11 @@
     "tags": []
   },
   {
-    "title": "Internship Discovery Series: Trust for America’s Health",
-    "link": "https://sph.cuny.edu/event/internship-discovery-series-trust-for-americas-health/",
+    "title": "CHASS Brownbag: Faculty Research and Opportunities for Students Info Session",
+    "link": "https://sph.cuny.edu/event/chass-brownbag-faculty-research-and-opportunities-for-students-info-session/",
     "college": "CUNY School of Public Health",
     "date": "2025-10-21",
-    "time": "2:00PM",
+    "time": "1:00PM",
     "tags": []
   },
   {
@@ -5532,7 +5566,7 @@
     "title": "It's Fitness Time in the Fitness Center - Evening",
     "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
     "college": "York College",
-    "date": "2025-10-01",
+    "date": "2025-10-02",
     "time": "8:00 PM - 10:00 PM",
     "tags": []
   },
@@ -5593,6 +5627,14 @@
     "tags": []
   },
   {
+    "title": "PROVE Kickoff: Donuts and Dialogue",
+    "link": "https://www.york.cuny.edu/veterans-affairs/events/prove-kickoff-donuts-and-dialogue",
+    "college": "York College",
+    "date": "2025-10-06",
+    "time": "3:00 PM - 8:45 PM",
+    "tags": []
+  },
+  {
     "title": "Open Swimming",
     "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
     "college": "York College",
@@ -5606,14 +5648,6 @@
     "college": "York College",
     "date": "2025-10-06",
     "time": "6:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Study and Chill - Supplies Giveway",
-    "link": "https://www.york.cuny.edu/events/2025/study-and-chill-supplies-giveway",
-    "college": "York College",
-    "date": "2025-10-07",
-    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
