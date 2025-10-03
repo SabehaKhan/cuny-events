@@ -1725,22 +1725,6 @@
     "tags": []
   },
   {
-    "title": "College Visit- Pace University",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/c3c16c5e-657b-4a40-9356-22f1d642be1d",
-    "college": "Kingsborough Community College",
-    "date": "2025-11-12",
-    "time": "03:00 PM - 06:00 PM",
-    "tags": []
-  },
-  {
-    "title": "College Visit- Pace University",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a0c8498d-3f28-4a57-8642-8eca6fc77e64",
-    "college": "Kingsborough Community College",
-    "date": "2025-12-03",
-    "time": "03:00 PM - 06:00 PM",
-    "tags": []
-  },
-  {
     "title": "College Visit- Adelphi University",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/d20d224e-6a8b-4e74-92c3-7679f5e86697",
     "college": "Kingsborough Community College",
@@ -1914,14 +1898,6 @@
     "college": "Kingsborough Community College",
     "date": "2025-11-13",
     "time": "07:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
-    "title": "SUNY Transfer Application Workshop",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/192071b7-d54d-4e46-96b6-f81bbf08f1fa",
-    "college": "Kingsborough Community College",
-    "date": "2025-10-02",
-    "time": "09:30 PM - 09:30 PM",
     "tags": []
   },
   {
@@ -2518,6 +2494,17 @@
     ]
   },
   {
+    "title": "Abilities Club (Let's Stay Connected and Have Fun!)",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376667",
+    "college": "Guttman Community College",
+    "date": "2025-10-09",
+    "time": "05:15 PM - 06:45 PM",
+    "tags": [
+      "EMSA",
+      "Educational/Awareness"
+    ]
+  },
+  {
     "title": "World Mental Health Day",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376664",
     "college": "Guttman Community College",
@@ -2577,7 +2564,7 @@
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376654",
     "college": "Guttman Community College",
     "date": "2025-10-10",
-    "time": "05:00 PM - 05:00 PM",
+    "time": "05:00 PM - 06:30 PM",
     "tags": [
       "EMSA",
       "Leadership",
@@ -2684,6 +2671,17 @@
       "Support Session",
       "Information Session",
       "Discussion"
+    ]
+  },
+  {
+    "title": "[CCSD] -White Cane Blind Baseball Classic at Queens College",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376668",
+    "college": "Guttman Community College",
+    "date": "2025-10-18",
+    "time": "05:00 PM - 08:00 PM",
+    "tags": [
+      "EMSA",
+      "Social - Off-Campus"
     ]
   },
   {
@@ -3975,6 +3973,14 @@
     "tags": []
   },
   {
+    "title": "Latinx Heritage Month Closing Event: Comedy Night with Black Rose",
+    "link": "https://www.bcc.cuny.edu/event/latinx-heritage-month-closing-event-comedy-night-with-black-rose/",
+    "college": "Bronx Community College",
+    "date": "2025-10-16",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
     "title": "CSI Sustainability: Let's Clean Up The Beach",
     "link": "https://csi.campuslabs.com/engage/event/11399425",
     "college": "College of Staten Island",
@@ -4794,16 +4800,6 @@
     ]
   },
   {
-    "title": "Microsoft Copilot Basic",
-    "link": "https://events.cuny.edu/cec/microsoft-copilot-basic/",
-    "college": "College of Staten Island",
-    "date": "2025-10-02",
-    "time": "3:30 PM - 4:30 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
     "title": "Beach Cleanup",
     "link": "https://events.cuny.edu/cec/beach-cleanup/",
     "college": "College of Staten Island",
@@ -4858,46 +4854,6 @@
     "tags": [
       "Photonics"
     ]
-  },
-  {
-    "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/zAf24h3SRunc2YCXp1s139",
-    "college": "Queens College",
-    "date": "2025-10-02",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Townsend Harris HS",
-    "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/PN8tuYPimqapOkembCiX10",
-    "college": "Queens College",
-    "date": "2025-10-02",
-    "time": "7:30AM",
-    "tags": []
-  },
-  {
-    "title": "QSI Math Stretched Course",
-    "link": "https://qc.event.cuny.edu/events/ZkUDk3QHKnSvkl0C8rNp/eGRzH3rWU4b71NuoXVFJ12",
-    "college": "Queens College",
-    "date": "2025-10-02",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Recitations",
-    "link": "https://qc.event.cuny.edu/events/lX3RWoN5F2UBxTxZyDFW/JE9KkAQkSPPzMaa0eg0I7",
-    "college": "Queens College",
-    "date": "2025-10-02",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "BIOL 106 Make Up Exams/Quizzes",
-    "link": "https://qc.event.cuny.edu/events/psejiZ2bEp8DJTersWNC/glIc8XZZNF1wk48CRkb84",
-    "college": "Queens College",
-    "date": "2025-10-02",
-    "time": "5:00PM",
-    "tags": []
   },
   {
     "title": "FA25 Hold off room",
@@ -4980,11 +4936,27 @@
     "tags": []
   },
   {
-    "title": "Spring '26 NVA 2 Applications are Open",
-    "link": "https://baruch.event.cuny.edu/events/pt5poMnL3paWJ3OaS2Ae/PrpEsEsswstgYyf76Q35",
-    "college": "Baruch College",
-    "date": "2025-10-02",
-    "time": "12:00AM",
+    "title": "Fall Fest/Harvest",
+    "link": "https://qc.event.cuny.edu/events/nKJ2fvGXE5XUPDpzTytR/QaGmDPMBhXuN0VyKckz1",
+    "college": "Queens College",
+    "date": "2025-10-06",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Ctr for Teaching & Learning",
+    "link": "https://qc.event.cuny.edu/events/XZJ9H5gxX05fvhIgXGXx/xTNKPiwQedOzynGkxX80",
+    "college": "Queens College",
+    "date": "2025-10-06",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Townsend Harris HS",
+    "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/sKtZ0wTOoIQ8IBw8wPri11",
+    "college": "Queens College",
+    "date": "2025-10-06",
+    "time": "10:30AM",
     "tags": []
   },
   {
@@ -5049,62 +5021,6 @@
     "college": "Baruch College",
     "date": "2025-10-09",
     "time": "4:00PM",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE Math Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/D0GiXVdptET3GZkpCc1e/l9J3zPAOmQ5WmSSc02Uj5",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-02",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "SEEK WORKSHOPS",
-    "link": "https://citytech.event.cuny.edu/events/Xq44k8u31BqBlZotMqCM/YsrW3MPlW4IhQwPixH2G4",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-02",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE Math Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/iyKGQLcvSuVcXc0Ci5zo/oPvU1KOSawIwMQDLr7473",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-02",
-    "time": "2:00PM",
-    "tags": []
-  },
-  {
-    "title": "UNA (Ur Not Alone) Information Tabling",
-    "link": "https://citytech.event.cuny.edu/events/R8UhF3LaoXwdK4j6f6gb/oO65LtriVJiZ8ew8gjBP3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-02",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "HSA3602 OL01 [33654}",
-    "link": "https://citytech.event.cuny.edu/events/U6bWg92ed0lmKgV6RaLI/Cp2fJnyuh4P5cbry6SMn4",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-02",
-    "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Student Lab Class",
-    "link": "https://citytech.event.cuny.edu/events/e0PbKutEJ59OulpWBRi6/fkXcBiUK7rDxEhD9GyPo",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-02",
-    "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center Classes",
-    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/uqzCjCt9jj9FDrNgK7Au3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-02",
-    "time": "6:00PM",
     "tags": []
   },
   {
@@ -5196,6 +5112,78 @@
     "tags": []
   },
   {
+    "title": "HSA 3510-OL54 (16486)",
+    "link": "https://citytech.event.cuny.edu/events/T4rl3t5QCueosqLbzNZt/kF1Ni3gwIxLuGbCD4cci5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-04",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "MKT1100 Office Hours",
+    "link": "https://citytech.event.cuny.edu/events/rVqG99UnsIzlhjGZnXWT/IcvrdExEL6Re7Ixfkfkg3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-04",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Filing Period for Fall 2025 graduation begins",
+    "link": "https://citytech.event.cuny.edu/events/YpxMBOqhVXcGAi6m0XIa/BlJwdvRWtgW2ukYSEoA9",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-06",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "(HOLD) CUNY State of the University Address Set-up",
+    "link": "https://citytech.event.cuny.edu/events/FyjVHwGdzmXYlqcptZtp/eldUpmnYoIWco08MOfD8",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-06",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "DEN 1112 Exam 1",
+    "link": "https://citytech.event.cuny.edu/events/SAWSpyQOXFpmehXBPulN/iNfFiCJ0tj6f9PWKimRn",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "City Tech Fall 2025 General Tour (10/06/2025)",
+    "link": "https://citytech.event.cuny.edu/events/zD6lFzvfGjcEjATFcOg0/KU8iMqs7Wqmx0EzgUaVv",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-06",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/D0GiXVdptET3GZkpCc1e/bdkvOVnVIwWv7UNNbasa5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-06",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/fWxit6ANcLywQCMSjsGi4",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-06",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/QBbmxEJuRQbhgn8IC8ml/ftceWehyQ0tNYZrlfoja1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-06",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
     "title": "Fall 2025 Flag Installation Ceremony 2",
     "link": "https://hostos.event.cuny.edu/events/fyMBV2ot779ZRFGQHb5C/tTkzLgFz6zvNrDBLAZEz",
     "college": "Hostos Community College",
@@ -5233,14 +5221,6 @@
     "college": "Hostos Community College",
     "date": "2025-10-08",
     "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Community Health Virtual Info Session",
-    "link": "https://sph.cuny.edu/event/sph-virtual-info-session-community-health/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-10-02",
-    "time": "6:00PM",
     "tags": []
   },
   {
@@ -5428,14 +5408,6 @@
     "tags": []
   },
   {
-    "title": "ScribeAmerica Virtual Recruitment Session",
-    "link": "https://www.lehman.edu/events/2025/ScribeAmerica-Virtual-Recruitment-Session.php",
-    "college": "Lehman College",
-    "date": "2025-10-02",
-    "time": "2:00 PM- 3:00 PM",
-    "tags": []
-  },
-  {
     "title": "Fall Alumni Rendezvous",
     "link": "https://www.lehman.edu/events/2025/Fall-Alumni-Rendezvous.php",
     "college": "Lehman College",
@@ -5497,6 +5469,14 @@
     "college": "Lehman College",
     "date": "2025-10-08",
     "time": "12:30 PM- 2:00 PM",
+    "tags": []
+  },
+  {
+    "title": "UMLP CREAR Futuros Hispanic Heritage Tribute 2025",
+    "link": "https://www.lehman.edu/events/2025/UMLP-CREAR-Futuros-Hispanic-Heritage-Tribute-2025-1.php",
+    "college": "Lehman College",
+    "date": "2025-10-08",
+    "time": "3:00 PM- 5:00 PM",
     "tags": []
   },
   {
@@ -5860,6 +5840,14 @@
     "tags": []
   },
   {
+    "title": "2025 Cardinal Spirit Week: School Spirit Day",
+    "link": "https://www.york.cuny.edu/events/2025-cardinal-spirit-week-school-spirit-day",
+    "college": "York College",
+    "date": "2025-10-07",
+    "time": "1:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
     "title": "It's Fitness Time in the Fitness Center - Evening",
     "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
     "college": "York College",
@@ -5882,28 +5870,6 @@
     "date": "2025-10-16",
     "time": "5:00 PM - 5:45 PM",
     "tags": []
-  },
-  {
-    "title": "INTRODUCTION TO LATEX",
-    "link": "https://www.gc.cuny.edu/events/introduction-latex-sept-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-10-02",
-    "time": "",
-    "location": "Online",
-    "tags": [
-      "Graduate Center Digital Initiatives"
-    ]
-  },
-  {
-    "title": "PUNITIVE POPULISM AND AUTOCRATIC RESTORATION IN EL SALVADOR",
-    "link": "https://www.gc.cuny.edu/events/punitive-populism-and-autocratic-restoration-el-salvador",
-    "college": "CUNY Graduate Center",
-    "date": "2025-10-02",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "9100: Skylight Room",
-    "tags": [
-      "Bildner Center for Western Hemisphere Studies"
-    ]
   },
   {
     "title": "INTRO TO SYLLABUS DESIGN: MEET DEPARTMENTAL NEEDS & OPTIMIZE YOUR TEACHING PORTFOLIO",
@@ -5999,6 +5965,32 @@
     ]
   },
   {
+    "title": "HOT MAROC: BILINGUAL READING WITH AUTHOR, YASSIN ADNAN, & TRANSLATOR ALEXANDER ELINSON",
+    "link": "https://www.gc.cuny.edu/events/hot-maroc-bilingual-reading-author-yassin-adnan-translator-alexander-elinson",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-07",
+    "time": "6:00 pm — 7:30 pm",
+    "location": "C198",
+    "tags": [
+      "Middle East and Middle Eastern American Center",
+      "Center for the Humanities"
+    ]
+  },
+  {
+    "title": "AI AND THE FUTURE OF WORK",
+    "link": "https://www.gc.cuny.edu/events/ai-and-future-work",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-07",
+    "time": "6:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Public Programs",
+      "Stone Center on Socio-Economic Inequality",
+      "GC Presents",
+      "Artificial Intelligence"
+    ]
+  },
+  {
     "title": "The Beatbox House: Performance and Workshop",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-08-the-beatbox-house-performance-and-workshop.html",
     "college": "Queensborough Community College",
@@ -6013,22 +6005,6 @@
     "date": "2025-10-30",
     "time": "03:00 PM - 05:00 PM",
     "description": ""
-  },
-  {
-    "title": "Degree Planning Workshop",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-02-degree-planning-workshop.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-02",
-    "time": "02:00 PM - 03:30 PM",
-    "description": "R.I.S.E. program event"
-  },
-  {
-    "title": "Virtual Resume Hour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-02-virtual-resume-hour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-02",
-    "time": "03:00 PM - 04:00 PM",
-    "description": "Career Services Event"
   },
   {
     "title": "Women's Group",
@@ -6165,6 +6141,22 @@
     "date": "2025-10-08",
     "time": "12:00 PM - 02:00 PM",
     "description": "Special Event / Fair"
+  },
+  {
+    "title": "NYPD Cadet Corps In-Person Information Session",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-08-nypd-cadet-corps-in-person-information-session.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-08",
+    "time": "12:10 PM - 02:00 PM",
+    "description": "Career Services Event"
+  },
+  {
+    "title": "Flag Parade",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-08-flag-parade.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-08",
+    "time": "12:10 PM - 02:00 PM",
+    "description": "Club Event"
   },
   {
     "title": "Feel the Fear and Speak in Class Anyway",
