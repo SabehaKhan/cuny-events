@@ -1,13 +1,5 @@
 [
   {
-    "title": "Planetarium Show: Letters from Luna",
-    "link": "https://www.ccny.cuny.edu/calendar/planetarium-show-letters-luna",
-    "college": "City College of New York",
-    "date": "2025-10-04",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "New York Blood Center Blood Drive",
     "link": "https://www.ccny.cuny.edu/calendar/new-york-blood-center-blood-drive",
     "college": "City College of New York",
@@ -1016,16 +1008,6 @@
     "tags": []
   },
   {
-    "title": "Elevate Your Voice at “The State of Young Black Voters” Conference",
-    "link": "https://www.mec.cuny.edu/event/elevate-your-voice-at-the-state-of-young-black-voters-conference/",
-    "college": "Medgar Evers College",
-    "date": "2025-10-04",
-    "time": "10:00 AM - 02:00 PM",
-    "tags": [
-      "Center for Law and Social Justice"
-    ]
-  },
-  {
     "title": "Making Strides Fundraising Brunch: A Conversation About Breast Cancer & Breast Health",
     "link": "https://www.mec.cuny.edu/event/making-strides-fundraising-brunch-a-conversation-about-breast-cancer-breast-health/",
     "college": "Medgar Evers College",
@@ -1283,6 +1265,17 @@
     "tags": []
   },
   {
+    "title": "Press Freedom: A Newmark J-School Wide Conversation",
+    "link": "https://www.journalism.cuny.edu/events/press-freedom-a-newmark-j-school-wide-conversation/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-10-09",
+    "time": "12:00 PM - 12:00 PM",
+    "tags": [
+      "Alumni",
+      "Current Students"
+    ]
+  },
+  {
     "title": "Learn to Use AI for Data Reporting: How to Find and Access Relevant Data",
     "link": "https://www.journalism.cuny.edu/events/learn-to-use-ai-for-data-reporting-2/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -1339,6 +1332,18 @@
     ]
   },
   {
+    "title": "Journalism in Hard Times: A Conversation With Allison Davis & M. Gessen",
+    "link": "https://www.journalism.cuny.edu/events/journalism-in-hard-times-a-conversation-with-allison-davis-m-gessen/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-10-22",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": [
+      "Admitted Students",
+      "Alumni",
+      "Current Students"
+    ]
+  },
+  {
     "title": "The Power of Storytelling and Its Intersections",
     "link": "https://www.journalism.cuny.edu/events/the-power-of-storytelling-and-its-intersections/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -1373,6 +1378,14 @@
     "tags": [
       "Journalism Protection Initiative"
     ]
+  },
+  {
+    "title": "Fireside Chat With Cindy Hsu: A Conversation on Journalism, Mental Health, and Resilience",
+    "link": "https://www.journalism.cuny.edu/events/fireside-chat-with-cindy-hsu-a-conversation-on-journalism-mental-health-and-resilience/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-11-17",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": []
   },
   {
     "title": "Career Virtual Help",
@@ -2175,17 +2188,6 @@
     "tags": []
   },
   {
-    "title": "Sarimanok",
-    "link": "https://www.laguardia.edu/event/sarimanok/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-04",
-    "time": "06:00 PM - 09:00 PM",
-    "tags": [
-      "all calendars",
-      "community & business events"
-    ]
-  },
-  {
     "title": "Queens College Fall 2025 Open House",
     "link": "https://www.laguardia.edu/event/queens-college-fall-2025-open-house/",
     "college": "LaGuardia Community College",
@@ -2474,15 +2476,14 @@
     ]
   },
   {
-    "title": "Civic Engagement Summit 10/4 - ATTENDEES AND VOLUNTEERS NEEDED",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376657",
-    "college": "Guttman Community College",
-    "date": "2025-10-04",
-    "time": "01:00 PM - 09:00 PM",
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-79/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-15",
+    "time": "12:00 PM - 01:00 PM",
     "tags": [
-      "CCPP",
-      "Community Service",
-      "Off-Campus"
+      "admissions",
+      "all calendars"
     ]
   },
   {
@@ -4068,6 +4069,17 @@
     ]
   },
   {
+    "title": "Music Students Perform at at Perelman Performing Arts Center (PAC NYC)",
+    "link": "https://www.bmcc.cuny.edu/event/music-students-perform-at-at-perelman-performing-arts-center-pac-nyc/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-15",
+    "time": "10:00 AM - 11:30 AM",
+    "tags": [
+      "Featured",
+      "Music & Art"
+    ]
+  },
+  {
     "title": "Health and Wellness Fair",
     "link": "https://www.bmcc.cuny.edu/event/health-and-wellness-fair/2025-10-15/",
     "college": "Borough of Manhattan Community College",
@@ -4099,6 +4111,17 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Music Faculty Performs in Theatre II",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-music-faculty-performs-in-theatre-ii/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-15",
+    "time": "07:30 PM - 09:30 PM",
+    "tags": [
+      "Featured",
+      "Music & Art"
     ]
   },
   {
@@ -4134,18 +4157,6 @@
     "tags": [
       "Featured",
       "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "Mind Your Anxiety Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/mind-your-anxiety-workshop/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-20",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
     ]
   },
   {
@@ -5099,24 +5110,6 @@
     ]
   },
   {
-    "title": "Planetarium Show: Letters from Luna",
-    "link": "https://events.cuny.edu/cec/planetarium-show-letters-from-luna/",
-    "college": "The City College of New York",
-    "date": "2025-10-04",
-    "time": "3:00 PM - 4:00 PM",
-    "tags": [
-      "CCNY Planetarium"
-    ]
-  },
-  {
-    "title": "Sarimanok",
-    "link": "https://events.cuny.edu/cec/sarimanok/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-04",
-    "time": "6:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
     "title": "New York Blood Center Blood Drive",
     "link": "https://events.cuny.edu/cec/new-york-blood-center-blood-drive/",
     "college": "The City College of New York",
@@ -5172,22 +5165,6 @@
     "tags": [
       "Nanoscience"
     ]
-  },
-  {
-    "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh41",
-    "college": "Queens College",
-    "date": "2025-10-04",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "SAEM: Open House 2025",
-    "link": "https://qc.event.cuny.edu/events/rbWnlaWVTBGJeUY83NDy/U8u6uc9UwmQP7drrwur62",
-    "college": "Queens College",
-    "date": "2025-10-04",
-    "time": "11:00AM",
-    "tags": []
   },
   {
     "title": "FA25 Hold off room",
@@ -5294,6 +5271,22 @@
     "tags": []
   },
   {
+    "title": "Political Science",
+    "link": "https://qc.event.cuny.edu/events/n4JA4B97PgA0fw4BV7Kl/NGKr1dZl13o6nKu05Cg2",
+    "college": "Queens College",
+    "date": "2025-10-06",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "FYE Workshops",
+    "link": "https://qc.event.cuny.edu/events/Vga3CSDm9VFt8ouNhtE2/OdOr4xzwAm5z7HvVpfqN",
+    "college": "Queens College",
+    "date": "2025-10-06",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
     "title": "AI-Enabled Research in Financial Databases via Zoom",
     "link": "https://baruch.event.cuny.edu/events/L23C8IW6dLKcxv1lkGZq/geFiUpmPDEB08cEC7SzI",
     "college": "Baruch College",
@@ -5347,70 +5340,6 @@
     "college": "Baruch College",
     "date": "2025-10-09",
     "time": "4:00PM",
-    "tags": []
-  },
-  {
-    "title": "JP Morgan Fellowship Initiative",
-    "link": "https://citytech.event.cuny.edu/events/OuSBA1To3OSSI6Sb08MY/T7C2cDylWAq7Azd2bfo15",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-04",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center Classes",
-    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/sPzXU1x8PFdWzxgPoclb1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-04",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Writing Class",
-    "link": "https://citytech.event.cuny.edu/events/HSPVHH4Oq6lrQsygHnE2/uI7lDp7jmhEqTkPzn2Rh",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-04",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Rèn Kreyòl",
-    "link": "https://citytech.event.cuny.edu/events/mXXD7ujkx6Wb4LfLR7Ro/HTkQQ3C2cU9KzbWVbpsh",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-04",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "NYC Deaf and Hard of Hearing Association",
-    "link": "https://citytech.event.cuny.edu/events/E4xxjqUZbz46fLNCHbUu/c8eaU70jhGX5xTBZzsF0",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-04",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "College Now Workshops",
-    "link": "https://citytech.event.cuny.edu/events/HPhgVaJRKVandPVTMbCr/mLLYlPffYDA0YQ8Di7hz2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-04",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "HSA 3510-OL54 (16486)",
-    "link": "https://citytech.event.cuny.edu/events/T4rl3t5QCueosqLbzNZt/kF1Ni3gwIxLuGbCD4cci5",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-04",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "MKT1100 Office Hours",
-    "link": "https://citytech.event.cuny.edu/events/rVqG99UnsIzlhjGZnXWT/IcvrdExEL6Re7Ixfkfkg3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-04",
-    "time": "1:00PM",
     "tags": []
   },
   {
@@ -5499,6 +5428,54 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-10-07",
     "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Speaker",
+    "link": "https://citytech.event.cuny.edu/events/fR20Kpf2ry3UUtSec43A/b3nbKJWI8ikG9DOLyQCO",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-07",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/mle0JEl2455TToV5XkP73",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-07",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/iyKGQLcvSuVcXc0Ci5zo/tsup4HqRxPwozFVKNnzY4",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-07",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center Classes",
+    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/uqzCjCt9jj9FDrNgK7Au4",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-07",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "US Marines Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/AUgGutCEvzSfXScUnKpq/AZ3z6XLGv1mlwhKBfXlb117",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-08",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Nursing Lecture",
+    "link": "https://citytech.event.cuny.edu/events/BDAoUFKaxn5hX7fpwm8D/aHfCcUkYqEQe0bGLH7Zn",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-08",
+    "time": "11:30AM",
     "tags": []
   },
   {
@@ -5726,14 +5703,6 @@
     "tags": []
   },
   {
-    "title": "Fall Alumni Rendezvous",
-    "link": "https://www.lehman.edu/events/2025/Fall-Alumni-Rendezvous.php",
-    "college": "Lehman College",
-    "date": "2025-10-04",
-    "time": "11:00 AM- 4:00 PM",
-    "tags": []
-  },
-  {
     "title": "Everyday AI: Shaping Policy, Health, and Education Together",
     "link": "https://www.lehman.edu/events/2025/Everyday-AI-Shaping-Policy-Health-and-Education-Together.php",
     "college": "Lehman College",
@@ -5787,6 +5756,14 @@
     "college": "Lehman College",
     "date": "2025-10-08",
     "time": "12:30 PM- 2:00 PM",
+    "tags": []
+  },
+  {
+    "title": "UMLP CREAR Futuros Hispanic Heritage Tribute 2025",
+    "link": "https://www.lehman.edu/events/2025/UMLP-CREAR-Futuros-Hispanic-Heritage-Tribute-2025-1.php",
+    "college": "Lehman College",
+    "date": "2025-10-08",
+    "time": "3:00 PM- 5:00 PM",
     "tags": []
   },
   {
@@ -6054,14 +6031,6 @@
     "tags": []
   },
   {
-    "title": "Weekend Students Breakfast",
-    "link": "https://www.york.cuny.edu/events/2025/weekend-students-breakfast",
-    "college": "York College",
-    "date": "2025-10-04",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
     "title": "2025 Cardinal Spirit Week: Cosplay or Character Day",
     "link": "https://www.york.cuny.edu/events/2025-cardinal-spirit-week-cosplay-or-character-day",
     "college": "York College",
@@ -6152,6 +6121,14 @@
   {
     "title": "York SAVES Domestic Violence Advocacy Training - Oct 7th",
     "link": "https://www.york.cuny.edu/womens-center/calendar-of-events/york-saves-domestic-violence-advocacy-training-3",
+    "college": "York College",
+    "date": "2025-10-07",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Follow Your Heart: Professional Pursuits in Health & Human Performance",
+    "link": "https://www.york.cuny.edu/events/follow-your-heart-professional-pursuits-in-health-human-performance-1",
     "college": "York College",
     "date": "2025-10-07",
     "time": "4:00 PM - 6:00 PM",
