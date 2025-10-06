@@ -1,29 +1,5 @@
 [
   {
-    "title": "YASS! Mondays",
-    "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-11",
-    "college": "City College of New York",
-    "date": "2025-10-06",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Salzberg Chemistry Seminar: Paul D. Jones \"Fragrance Chemistry - How chemistry is used to make the scents people love\"",
-    "link": "https://www.ccny.cuny.edu/calendar/salzberg-chemistry-seminar-fragrance-chemistry-how-chemistry-used-make-scents-people-love",
-    "college": "City College of New York",
-    "date": "2025-10-06",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "GO PURPLE DAY!",
-    "link": "https://www.ccny.cuny.edu/calendar/go-purple-day",
-    "college": "City College of New York",
-    "date": "2025-10-06",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "New York Blood Center Blood Drive",
     "link": "https://www.ccny.cuny.edu/calendar/new-york-blood-center-blood-drive-0",
     "college": "City College of New York",
@@ -1202,16 +1178,6 @@
     ]
   },
   {
-    "title": "2025 Burns Chair Kristen Clarke in Conversation with Joy Reid",
-    "link": "https://www.law.cuny.edu/event/2025-burns-chair-kristen-clarke-in-conversation-with-joy-reid/",
-    "college": "CUNY School of Law",
-    "date": "2025-10-06",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "Special Event"
-    ]
-  },
-  {
     "title": "The First Amendment, Censorship, and Higher Education Panel presented by Faculty PDC",
     "link": "https://www.law.cuny.edu/event/the-first-amendment-censorship-and-higher-education-panel-presented-by-faculty-pdc/",
     "college": "CUNY School of Law",
@@ -1280,6 +1246,16 @@
       "Partner Event",
       "Special Event",
       "Student"
+    ]
+  },
+  {
+    "title": "2025 Burns Chair Kristen Clarke in Conversation with Joy Reid",
+    "link": "https://www.law.cuny.edu/event/2025-burns-chair-kristen-clarke-in-conversation-with-joy-reid/",
+    "college": "CUNY School of Law",
+    "date": "2025-11-18",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Special Event"
     ]
   },
   {
@@ -2232,30 +2208,6 @@
     "tags": []
   },
   {
-    "title": "Queens Public Library Outreach",
-    "link": "https://www.laguardia.edu/event/queens-public-library-outreach/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-06",
-    "time": "10:30 AM - 02:30 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "Faculty and Staff",
-      "student events"
-    ]
-  },
-  {
-    "title": "CCPD Host Information Session with Centers for Careers in Government",
-    "link": "https://www.laguardia.edu/event/ccpd-host-information-session-with-centers-for-careers-in-government/2025-10-06/2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-06",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Modern Languages Workshop",
     "link": "https://www.laguardia.edu/event/modern-languages-workshop/",
     "college": "LaGuardia Community College",
@@ -2472,6 +2424,17 @@
     "tags": [
       "all calendars",
       "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Long Island University - Brooklyn Virtual Transfer Information Session",
+    "link": "https://www.laguardia.edu/event/long-island-university-brooklyn-virtual-transfer-information-session/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-14",
+    "time": "02:15 PM - 03:15 PM",
+    "tags": [
+      "all calendars",
       "student events"
     ]
   },
@@ -3616,35 +3579,6 @@
     ]
   },
   {
-    "title": "Mechanisms of Malaria Pathogenesis and Immune Response",
-    "link": "https://hunter.cuny.edu/event/mechanisms-of-malaria-pathogenesis-and-immune-response/",
-    "college": "Hunter College",
-    "date": "2025-10-06",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays/",
-    "college": "Hunter College",
-    "date": "2025-10-06",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Arts Meet-Up",
-    "link": "https://hunter.cuny.edu/event/arts-meet-up-2/",
-    "college": "Hunter College",
-    "date": "2025-10-06",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Performing Arts & Film",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Campus Resources and Majors: English",
     "link": "https://hunter.cuny.edu/event/campus-resources-and-majors-english/",
     "college": "Hunter College",
@@ -3885,6 +3819,32 @@
     "tags": [
       "Open Houses"
     ]
+  },
+  {
+    "title": "Screening of Pulse",
+    "link": "https://hunter.cuny.edu/event/screening-of-pulse/",
+    "college": "Hunter College",
+    "date": "2025-10-10",
+    "time": "01:30 PM - 03:30 PM",
+    "tags": [
+      "Special Events"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-2/",
+    "college": "Hunter College",
+    "date": "2025-10-13",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Fight Flu Fast",
+    "link": "https://hunter.cuny.edu/event/fight-flu-fast-3/",
+    "college": "Hunter College",
+    "date": "2025-10-14",
+    "time": "10:00 AM - 01:00 PM",
+    "tags": []
   },
   {
     "title": "National Voter Education Week",
@@ -4357,6 +4317,19 @@
     "tags": []
   },
   {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2025-10-17/",
+    "college": "Bronx Community College",
+    "date": "2025-10-17",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
+    ]
+  },
+  {
     "title": "Study Abroad Info Session - Latin America and Spain (259041-CC)",
     "link": "https://csi.campuslabs.com/engage/event/11427790",
     "college": "College of Staten Island",
@@ -4384,6 +4357,21 @@
     ]
   },
   {
+    "title": "Club Goals & Elections",
+    "link": "https://csi.campuslabs.com/engage/event/11749767",
+    "college": "College of Staten Island",
+    "date": "2025-10-07",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Leadership",
+      "Learning",
+      "Volunteer",
+      "Global Engagement",
+      "Fundraiser"
+    ]
+  },
+  {
     "title": "CSI Sustainability: Compost Workshop (259017-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11324326",
     "college": "College of Staten Island",
@@ -4408,6 +4396,17 @@
       "Learning",
       "Social",
       "Faith Based"
+    ]
+  },
+  {
+    "title": "Paint Party",
+    "link": "https://csi.campuslabs.com/engage/event/11750177",
+    "college": "College of Staten Island",
+    "date": "2025-10-07",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Social",
+      "Students Only"
     ]
   },
   {
@@ -4539,6 +4538,16 @@
     "time": "06:30 PM - 08:30 PM",
     "tags": [
       "Social"
+    ]
+  },
+  {
+    "title": "SLP Tips and Tricks",
+    "link": "https://csi.campuslabs.com/engage/event/11749966",
+    "college": "College of Staten Island",
+    "date": "2025-10-09",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "ThoughtfulLearning"
     ]
   },
   {
@@ -5183,6 +5192,17 @@
     ]
   },
   {
+    "title": "Weekly Tea Time",
+    "link": "https://csi.campuslabs.com/engage/event/11507174",
+    "college": "College of Staten Island",
+    "date": "2025-11-05",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Social",
+      "Willowbrook Campus"
+    ]
+  },
+  {
     "title": "CAB Film Showings: Superman (2025)",
     "link": "https://csi.campuslabs.com/engage/event/11366298",
     "college": "College of Staten Island",
@@ -5797,6 +5817,14 @@
     "tags": []
   },
   {
+    "title": "Career Prep Day: Resume Review with Mathematica",
+    "link": "https://sph.cuny.edu/event/career-prep-day-resume-review-with-mathematica/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-12-01",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
     "title": "Career Workshop:  Tools to Find Your Professional Fit",
     "link": "https://sph.cuny.edu/event/career-workshop-tools-to-find-your-professional-fit-2/",
     "college": "CUNY School of Public Health",
@@ -5838,7 +5866,7 @@
   },
   {
     "title": "Speech Language Pathology M.A. Information Session",
-    "link": "https://www.lehman.edu/events/2025/Speech-Language-Pathology-MA-Information-Session--1.php",
+    "link": "https://www.lehman.edu/events/2025/Speech-Language-Pathology-MA-Information-Session-.php",
     "college": "Lehman College",
     "date": "2025-10-06",
     "time": "6:00 PM- 7:00 PM",
@@ -5878,7 +5906,7 @@
   },
   {
     "title": "UMLP CREAR Futuros Hispanic Heritage Tribute 2025",
-    "link": "https://www.lehman.edu/events/2025/UMLP-CREAR-Futuros-Hispanic-Heritage-Tribute-2025.php",
+    "link": "https://www.lehman.edu/events/2025/UMLP-CREAR-Futuros-Hispanic-Heritage-Tribute-2025-1.php",
     "college": "Lehman College",
     "date": "2025-10-08",
     "time": "3:00 PM- 5:00 PM",
@@ -5886,18 +5914,18 @@
   },
   {
     "title": "English M.A. Information Session",
-    "link": "https://www.lehman.edu/events/2025/English-MA-Information-Session--3.php",
+    "link": "https://www.lehman.edu/events/2025/English-MA-Information-Session--2.php",
     "college": "Lehman College",
     "date": "2025-10-08",
     "time": "6:00 PM- 7:00 PM",
     "tags": []
   },
   {
-    "title": "Law Enforcement Leadership in Challenging Times",
-    "link": "https://www.jjay.cuny.edu/news-events/events/law-enforcement-leadership-challenging-times",
+    "title": "Where Are We Now? Latino Voices in the NYS Judiciary",
+    "link": "https://www.jjay.cuny.edu/news-events/events/where-are-we-now-latino-voices-nys-judiciary",
     "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-06",
-    "time": "10:00 PM",
+    "date": "2025-10-07",
+    "time": "02:50 PM",
     "tags": []
   },
   {
@@ -6173,22 +6201,6 @@
     "tags": []
   },
   {
-    "title": "Outdoor Track and Open Tennis",
-    "link": "https://www.york.cuny.edu/events/2025/outdoor-track-tennis-fall-2025",
-    "college": "York College",
-    "date": "2025-10-06",
-    "time": "6:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Faculty & Staff Dedicated Fitness Center Hours",
-    "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-10-06",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Study and Chill - Supplies Giveway",
     "link": "https://www.york.cuny.edu/events/2025/study-and-chill-supplies-giveway",
     "college": "York College",
@@ -6253,6 +6265,14 @@
     "tags": []
   },
   {
+    "title": "Outdoor Track and Open Tennis",
+    "link": "https://www.york.cuny.edu/events/2025/outdoor-track-tennis-fall-2025",
+    "college": "York College",
+    "date": "2025-10-07",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
     "title": "It's Fitness Time in the Fitness Center - Evening",
     "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
     "college": "York College",
@@ -6266,6 +6286,14 @@
     "college": "York College",
     "date": "2025-10-08",
     "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Faculty & Staff Dedicated Fitness Center Hours",
+    "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-10-10",
+    "time": "8:00 PM - 10:00 PM",
     "tags": []
   },
   {
@@ -6531,6 +6559,14 @@
     "description": "Club Event"
   },
   {
+    "title": "Conversation with a Nurse Anesthetist- How to pursue this lucrative career",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-08-conversation-with-a-nurse-anesthetist-how-to-pursue-this-lucrative-career.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-08",
+    "time": "12:15 PM - 01:30 PM",
+    "description": "Special Event / Fair"
+  },
+  {
     "title": "Raíces y Roles: Hispanic Voices in Leadership at Queensborough",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-08-ra%C3%ADces-y-roles-hispanic-voices-in-leadership-at-queensborough.html",
     "college": "Queensborough Community College",
@@ -6545,14 +6581,6 @@
     "date": "2025-10-08",
     "time": "01:00 PM - 04:00 PM",
     "description": "Financial Aid Event"
-  },
-  {
-    "title": "Jack Kent Cooke Undergraduate Scholarship Information Session",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-08-jack-kent-cooke-undergraduate-scholarship-information-session.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-08",
-    "time": "02:00 PM - 03:00 PM",
-    "description": "ASAP Career Event"
   },
   {
     "title": "Feel the Fear and Speak in Class Anyway",
