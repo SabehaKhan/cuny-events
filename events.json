@@ -1,13 +1,5 @@
 [
   {
-    "title": "TIAA - One on One Counseling for CCNY Faculty and Staff",
-    "link": "https://www.ccny.cuny.edu/calendar/tiaa-one-one-counseling",
-    "college": "City College of New York",
-    "date": "2025-10-08",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": []
-  },
-  {
     "title": "Biochemistry Seminar: Kimberly Reynolds, \"Mapping and modeling the impact of protein biochemical variation on growth rate phenotype\"",
     "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-kimberly-reynolds-title-tba",
     "college": "City College of New York",
@@ -80,6 +72,14 @@
     "tags": []
   },
   {
+    "title": "Decarbonize CCNY Town Hall",
+    "link": "https://www.ccny.cuny.edu/calendar/decaronize-ccny-town-hall",
+    "college": "City College of New York",
+    "date": "2025-10-09",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "Fall 2025 Sciame Lecture Series: Philip Kennicott",
     "link": "https://www.ccny.cuny.edu/calendar/fall-2025-sciame-lecture-series-philip-kennicott",
     "college": "City College of New York",
@@ -112,16 +112,16 @@
     "tags": []
   },
   {
-    "title": "LGBTQ+ Peer Support Group",
-    "link": "https://www.ccny.cuny.edu/calendar/lgbtq-peer-support-group-52",
+    "title": "Biochemistry Seminar: Michael Sattler, \"NMR in 4D integrative structural biology - from dynamics and mechanisms to novel therapeutics\"",
+    "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-michael-sattler-nmr-4d-integrative-structural-biology-dynamics-and",
     "college": "City College of New York",
     "date": "2025-10-15",
     "time": "12:00 PM - 01:00 PM",
     "tags": []
   },
   {
-    "title": "Biochemistry Seminar: Michael Sattler, \"NMR in 4D integrative structural biology - from dynamics and mechanisms to novel therapeutics\"",
-    "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-michael-sattler-nmr-4d-integrative-structural-biology-dynamics-and",
+    "title": "LGBTQ+ Peer Support Group",
+    "link": "https://www.ccny.cuny.edu/calendar/lgbtq-peer-support-group-52",
     "college": "City College of New York",
     "date": "2025-10-15",
     "time": "12:00 PM - 01:00 PM",
@@ -144,16 +144,16 @@
     "tags": []
   },
   {
-    "title": "Archiving for films, for community",
-    "link": "https://www.ccny.cuny.edu/calendar/archiving-films-community",
+    "title": "After Office Alumni Social",
+    "link": "https://www.ccny.cuny.edu/calendar/fall-alumni-networking-social",
     "college": "City College of New York",
     "date": "2025-10-15",
     "time": "06:00 PM - 08:00 PM",
     "tags": []
   },
   {
-    "title": "After Office Alumni Social",
-    "link": "https://www.ccny.cuny.edu/calendar/fall-alumni-networking-social",
+    "title": "Archiving for films, for community",
+    "link": "https://www.ccny.cuny.edu/calendar/archiving-films-community",
     "college": "City College of New York",
     "date": "2025-10-15",
     "time": "06:00 PM - 08:00 PM",
@@ -168,6 +168,14 @@
     "tags": []
   },
   {
+    "title": "Theatre Production: SIEGE OF DELI (written by Naren Weiss and directed by Rajesh Bose)",
+    "link": "https://www.ccny.cuny.edu/calendar/theatre-production-siege-deli-written-naren-weiss-and-directed-rajesh-bose",
+    "college": "City College of New York",
+    "date": "2025-10-16",
+    "time": "12:15 PM - 01:45 PM",
+    "tags": []
+  },
+  {
     "title": "Fall Startup Minicamp - Introduction to Startups",
     "link": "https://www.ccny.cuny.edu/calendar/fall-startup-minicamp-introduction-startups",
     "college": "City College of New York",
@@ -176,11 +184,11 @@
     "tags": []
   },
   {
-    "title": "Theatre Production: SIEGE OF DELI (written by Naren Weiss and directed by Rajesh Bose)",
-    "link": "https://www.ccny.cuny.edu/calendar/theatre-production-siege-deli-written-naren-weiss-and-directed-rajesh-bose",
+    "title": "Student Compositions #1 // Jazz Concert",
+    "link": "https://www.ccny.cuny.edu/calendar/student-compositions-1-jazz-concert",
     "college": "City College of New York",
     "date": "2025-10-16",
-    "time": "12:15 PM - 01:45 PM",
+    "time": "12:30 PM - 01:45 PM",
     "tags": []
   },
   {
@@ -280,6 +288,14 @@
     "tags": []
   },
   {
+    "title": "Student Compositions #2 // Jazz Concert",
+    "link": "https://www.ccny.cuny.edu/calendar/student-compositions-2-jazz-concert",
+    "college": "City College of New York",
+    "date": "2025-10-21",
+    "time": "12:30 PM - 01:45 PM",
+    "tags": []
+  },
+  {
     "title": "Trauma-Informed Yoga",
     "link": "https://www.ccny.cuny.edu/calendar/trauma-informed-yoga-0",
     "college": "City College of New York",
@@ -320,19 +336,19 @@
     "tags": []
   },
   {
-    "title": "MFA in CW Chai and Chat Reading Series: Irvin Weathersby Jr.",
-    "link": "https://www.ccny.cuny.edu/calendar/mfa-cw-chai-and-chat-reading-series-irvin-weathersby-jr",
-    "college": "City College of New York",
-    "date": "2025-10-22",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": []
-  },
-  {
     "title": "Chai & Chat with Irvin Weathersby & Prospective Students Gathering",
     "link": "https://www.ccny.cuny.edu/calendar/chai-chat-irvin-weathersby-prospective-students-gathering-hosted-mfa-creative-writing",
     "college": "City College of New York",
     "date": "2025-10-22",
     "time": "06:30 PM - 08:00 PM",
+    "tags": []
+  },
+  {
+    "title": "MFA in CW Chai and Chat Reading Series: Irvin Weathersby Jr.",
+    "link": "https://www.ccny.cuny.edu/calendar/mfa-cw-chai-and-chat-reading-series-irvin-weathersby-jr",
+    "college": "City College of New York",
+    "date": "2025-10-22",
+    "time": "06:30 PM - 07:30 PM",
     "tags": []
   },
   {
@@ -370,6 +386,14 @@
   {
     "title": "Gaymers Against Violence: Monthly Workshop Series",
     "link": "https://www.ccny.cuny.edu/calendar/gaymers-against-violence-monthly-workshop-series-9",
+    "college": "City College of New York",
+    "date": "2025-10-28",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Fred Hersch Jazz Master Class",
+    "link": "https://www.ccny.cuny.edu/calendar/fred-hersch-jazz-master-class",
     "college": "City College of New York",
     "date": "2025-10-28",
     "time": "12:00 PM - 02:00 PM",
@@ -472,6 +496,14 @@
     "tags": []
   },
   {
+    "title": "Faculty Jazz Ensemble Concert",
+    "link": "https://www.ccny.cuny.edu/calendar/faculty-jazz-ensemble-concert-0",
+    "college": "City College of New York",
+    "date": "2025-10-30",
+    "time": "12:30 PM - 01:45 PM",
+    "tags": []
+  },
+  {
     "title": "Fall 2025 Sciame Lecture Series: Ruchika Modi",
     "link": "https://www.ccny.cuny.edu/calendar/fall-2025-sciame-lecture-series-ruchika-modi",
     "college": "City College of New York",
@@ -536,6 +568,14 @@
     "tags": []
   },
   {
+    "title": "Zines & the Archives: Zine-Making Workshop Series",
+    "link": "https://www.ccny.cuny.edu/calendar/zines-archives-zine-making-workshop-series",
+    "college": "City College of New York",
+    "date": "2025-11-06",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "Cultivating Communities of Care Leadership Series",
     "link": "https://www.ccny.cuny.edu/calendar/cultivating-communities-care-leadership-series-0",
     "college": "City College of New York",
@@ -544,11 +584,11 @@
     "tags": []
   },
   {
-    "title": "Zines & the Archives: Zine-Making Workshop Series",
-    "link": "https://www.ccny.cuny.edu/calendar/zines-archives-zine-making-workshop-series",
+    "title": "Theatre Production: LA GRINGA (written by Carmen Rivera-Tirado and directed by Karina Verna)",
+    "link": "https://www.ccny.cuny.edu/calendar/theatre-production-la-gringa-written-carmen-rivera-tirado-and-directed-karina-verna",
     "college": "City College of New York",
     "date": "2025-11-06",
-    "time": "12:00 PM - 02:00 PM",
+    "time": "12:15 PM - 01:45 PM",
     "tags": []
   },
   {
@@ -560,11 +600,11 @@
     "tags": []
   },
   {
-    "title": "Theatre Production: LA GRINGA (written by Carmen Rivera-Tirado and directed by Karina Verna)",
-    "link": "https://www.ccny.cuny.edu/calendar/theatre-production-la-gringa-written-carmen-rivera-tirado-and-directed-karina-verna",
+    "title": "Marvin Stamm/Mike Holober Duo Concert",
+    "link": "https://www.ccny.cuny.edu/calendar/marvin-stammmike-holober-duo-concert",
     "college": "City College of New York",
     "date": "2025-11-06",
-    "time": "12:15 PM - 01:45 PM",
+    "time": "12:30 PM - 01:45 PM",
     "tags": []
   },
   {
@@ -656,19 +696,19 @@
     "tags": []
   },
   {
-    "title": "Chair Meditation | at CCNY CWE (25 Broadway)",
-    "link": "https://www.ccny.cuny.edu/calendar/chair-meditation-1112",
-    "college": "City College of New York",
-    "date": "2025-11-12",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Pure Land - Documentary screening with Q&A",
     "link": "https://www.ccny.cuny.edu/calendar/pure-land-documentary-screening-qa",
     "college": "City College of New York",
     "date": "2025-11-12",
     "time": "03:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Chair Meditation | at CCNY CWE (25 Broadway)",
+    "link": "https://www.ccny.cuny.edu/calendar/chair-meditation-1112",
+    "college": "City College of New York",
+    "date": "2025-11-12",
+    "time": "03:00 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -680,11 +720,43 @@
     "tags": []
   },
   {
+    "title": "Xavier Kim (piano), Bachelor of Music Senior Recital",
+    "link": "https://www.ccny.cuny.edu/calendar/xavier-kim-piano-bachelor-music-senior-recital",
+    "college": "City College of New York",
+    "date": "2025-11-13",
+    "time": "12:30 PM - 01:45 PM",
+    "tags": []
+  },
+  {
+    "title": "World Premiere of CLOTHESLINE",
+    "link": "https://www.ccny.cuny.edu/calendar/world-premiere-clothesline",
+    "college": "City College of New York",
+    "date": "2025-11-13",
+    "time": "07:30 PM - 09:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Django Festival All Stars Jazz Master Class",
+    "link": "https://www.ccny.cuny.edu/calendar/django-festival-all-stars-jazz-master-class",
+    "college": "City College of New York",
+    "date": "2025-11-14",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": []
+  },
+  {
     "title": "City Reading Series",
     "link": "https://www.ccny.cuny.edu/calendar/city-reading-series-0",
     "college": "City College of New York",
     "date": "2025-11-14",
     "time": "06:30 PM - 08:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Clothesline",
+    "link": "https://www.ccny.cuny.edu/calendar/clothesline",
+    "college": "City College of New York",
+    "date": "2025-11-14",
+    "time": "07:30 PM - 09:30 PM",
     "tags": []
   },
   {
@@ -848,6 +920,14 @@
     "tags": []
   },
   {
+    "title": "Graduate Jazz Ensemble Concert (Directed by Ingrid Jensen)",
+    "link": "https://www.ccny.cuny.edu/calendar/graduate-jazz-ensemble-concert-directed-ingrid-jensen",
+    "college": "City College of New York",
+    "date": "2025-12-02",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
     "title": "Biochemistry Seminar: Rupal Gupta, title TBA",
     "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-rupal-gupta-title-tba",
     "college": "City College of New York",
@@ -920,11 +1000,27 @@
     "tags": []
   },
   {
+    "title": "Small Jazz Ensembles Concert (Directed by Ray Gallon)",
+    "link": "https://www.ccny.cuny.edu/calendar/small-jazz-ensembles-concert-directed-ray-gallon",
+    "college": "City College of New York",
+    "date": "2025-12-08",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
     "title": "Gaymers Against Violence: Monthly Workshop Series",
     "link": "https://www.ccny.cuny.edu/calendar/gaymers-against-violence-monthly-workshop-series-11",
     "college": "City College of New York",
     "date": "2025-12-09",
     "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Graduate Jazz Ensembles Concert (Directed by Pete McCann)",
+    "link": "https://www.ccny.cuny.edu/calendar/graduate-jazz-ensembles-concert-directed-pete-mccann",
+    "college": "City College of New York",
+    "date": "2025-12-09",
+    "time": "05:00 PM - 07:00 PM",
     "tags": []
   },
   {
@@ -944,11 +1040,35 @@
     "tags": []
   },
   {
+    "title": "Phillip Dornbusch (saxophone), Master of Music Recital",
+    "link": "https://www.ccny.cuny.edu/calendar/phillip-dornbusch-saxophone-master-music-recital",
+    "college": "City College of New York",
+    "date": "2025-12-11",
+    "time": "12:30 PM - 01:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Jazz Vocal Performance Concert (Directed by Jamile Staevie Ayres)",
+    "link": "https://www.ccny.cuny.edu/calendar/jazz-vocal-performance-concert-directed-jamile-staevie-ayres",
+    "college": "City College of New York",
+    "date": "2025-12-11",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": []
+  },
+  {
     "title": "CCNY CWE Admissions Workshop | Online | at CCNY CWE (25 Broadway)",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-cwe-admissions-workshop-online-ccny-cwe-25-broadway-9",
     "college": "City College of New York",
     "date": "2025-12-11",
     "time": "06:00 PM - 06:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Sonic Arts Capstone Presentations",
+    "link": "https://www.ccny.cuny.edu/calendar/sonic-arts-capstone-presentations",
+    "college": "City College of New York",
+    "date": "2025-12-11",
+    "time": "07:00 PM - 08:30 PM",
     "tags": []
   },
   {
@@ -973,6 +1093,30 @@
     "college": "City College of New York",
     "date": "2025-12-15",
     "time": "12:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Small Jazz Ensembles Concert (Directed by Mike Holober)",
+    "link": "https://www.ccny.cuny.edu/calendar/small-jazz-ensembles-concert-directed-mike-holober",
+    "college": "City College of New York",
+    "date": "2025-12-15",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "MM Jazz Theory Readings #1 (Directed by Mike Holober)",
+    "link": "https://www.ccny.cuny.edu/calendar/mm-jazz-theory-readings-1-directed-mike-holober",
+    "college": "City College of New York",
+    "date": "2025-12-16",
+    "time": "01:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "MM Jazz Theory Readings #2 (Directed by Mike Holober)",
+    "link": "https://www.ccny.cuny.edu/calendar/mm-jazz-theory-readings-2-directed-mike-holober",
+    "college": "City College of New York",
+    "date": "2025-12-17",
+    "time": "02:00 PM - 06:00 PM",
     "tags": []
   },
   {
@@ -2158,29 +2302,6 @@
     "tags": []
   },
   {
-    "title": "Master Class with Limón Dance Company",
-    "link": "https://www.laguardia.edu/event/master-class-with-limon-dance-company/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-08",
-    "time": "09:00 AM - 10:15 AM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-10-08/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-08",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Philosophy Ideas Exchange",
     "link": "https://www.laguardia.edu/event/philosophy-ideas-exchange/2025-10-08/",
     "college": "LaGuardia Community College",
@@ -2438,6 +2559,28 @@
     "college": "LaGuardia Community College",
     "date": "2025-10-15",
     "time": "02:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Weekly Support Circle",
+    "link": "https://www.laguardia.edu/event/weekly-support-circle/2025-10-15/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-15",
+    "time": "03:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-10-15/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-15",
+    "time": "08:00 PM - 08:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -3455,16 +3598,6 @@
     "tags": []
   },
   {
-    "title": "Campus Resources and Majors: Computer Science",
-    "link": "https://hunter.cuny.edu/event/campus-resources-and-majors-computer-science-2/",
-    "college": "Hunter College",
-    "date": "2025-10-08",
-    "time": "10:30 AM - 11:30 AM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Practice your Pitch for Networking",
     "link": "https://hunter.cuny.edu/event/practice-your-pitch-for-networking/",
     "college": "Hunter College",
@@ -3722,6 +3855,14 @@
     ]
   },
   {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays/",
+    "college": "Hunter College",
+    "date": "2025-10-15",
+    "time": "12:30 PM - 03:30 PM",
+    "tags": []
+  },
+  {
     "title": "Academic Notice Back to Success Power Hour: Utilizing BMCC Resources",
     "link": "https://www.bmcc.cuny.edu/event/academic-notice-back-tosuccess-power-hour-utilizing-bmcc-resources/2025-10-08/",
     "college": "Borough of Manhattan Community College",
@@ -3743,16 +3884,6 @@
       "Civic Engagement",
       "Featured",
       "Office of Student Activities (OSA)"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-98/2025-10-08/1/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-08",
-    "time": "10:30 AM - 11:30 AM",
-    "tags": [
-      "Admissions"
     ]
   },
   {
@@ -3843,6 +3974,16 @@
       "New Student Programs",
       "Workshops",
       "Writing Center"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-98/2025-10-08/2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-08",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Admissions"
     ]
   },
   {
@@ -4407,19 +4548,6 @@
     ]
   },
   {
-    "title": "The Bertha Harris Women's Center Presents: Puppies and Pizza",
-    "link": "https://csi.campuslabs.com/engage/event/11696535",
-    "college": "College of Staten Island",
-    "date": "2025-10-14",
-    "time": "07:00 PM - 08:00 PM",
-    "tags": [
-      "Social",
-      "Health and Wellness",
-      "Entertainment",
-      "Counseling"
-    ]
-  },
-  {
     "title": "Weekly Tea Time",
     "link": "https://csi.campuslabs.com/engage/event/11507171",
     "college": "College of Staten Island",
@@ -4528,6 +4656,17 @@
       "ThoughtfulLearning",
       "Leadership",
       "Entertainment"
+    ]
+  },
+  {
+    "title": "Building Advocacy Skills with Empire Mock Trial",
+    "link": "https://csi.campuslabs.com/engage/event/11760863",
+    "college": "College of Staten Island",
+    "date": "2025-10-16",
+    "time": "07:00 PM - 08:30 PM",
+    "tags": [
+      "GroupBusiness",
+      "Career Development"
     ]
   },
   {
@@ -4800,6 +4939,19 @@
       "Learning",
       "Global Engagement",
       "Cultural"
+    ]
+  },
+  {
+    "title": "The Bertha Harris Women's Center Presents: Puppies and Pizza",
+    "link": "https://csi.campuslabs.com/engage/event/11696535",
+    "college": "College of Staten Island",
+    "date": "2025-10-28",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "Social",
+      "Health and Wellness",
+      "Entertainment",
+      "Counseling"
     ]
   },
   {
@@ -5731,14 +5883,6 @@
     "tags": []
   },
   {
-    "title": "Book Talk: Exiles in New York City",
-    "link": "https://www.jjay.cuny.edu/news-events/events/book-talk-exiles-new-york-city",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-08",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
     "title": "How AI Helps Mediators Sharpen Focus",
     "link": "https://www.jjay.cuny.edu/news-events/events/how-ai-helps-mediators-sharpen-focus",
     "college": "John Jay College of Criminal Justice",
@@ -5923,6 +6067,14 @@
     "tags": []
   },
   {
+    "title": "Book Talk: A Promising Past",
+    "link": "https://www.jjay.cuny.edu/news-events/events/book-talk-promising-past",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-06",
+    "time": "06:40 PM",
+    "tags": []
+  },
+  {
     "title": "In-Person – Information Session for Prospective Students",
     "link": "https://macaulay.cuny.edu/calendar-of-events/in-person-information-session-for-prospective-students-7/",
     "college": "Macaulay Honors College",
@@ -6011,24 +6163,8 @@
     "tags": []
   },
   {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-10-08",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-10-08",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
+    "title": "Hygiene Workshop",
+    "link": "https://www.york.cuny.edu/health/hygiene-workshop",
     "college": "York College",
     "date": "2025-10-08",
     "time": "4:00 PM - 6:00 PM",
@@ -6083,8 +6219,24 @@
     "tags": []
   },
   {
-    "title": "Hispanic Heritage Month Celebration",
-    "link": "https://www.york.cuny.edu/events/hispanic-heritage-month-updated",
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-10-09",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-10-09",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
     "college": "York College",
     "date": "2025-10-09",
     "time": "4:00 PM - 6:00 PM",
