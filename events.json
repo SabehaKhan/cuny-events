@@ -600,6 +600,14 @@
     "tags": []
   },
   {
+    "title": "Master of Landscape Architecture Info Session",
+    "link": "https://www.ccny.cuny.edu/calendar/master-landscape-architecture-info-session-11",
+    "college": "City College of New York",
+    "date": "2025-11-10",
+    "time": "03:30 PM - 07:30 PM",
+    "tags": []
+  },
+  {
     "title": "TIAA - One on One Counseling for CCNY Faculty and Staff",
     "link": "https://www.ccny.cuny.edu/calendar/tiaa-one-one-counseling-ccny-faculty-and-staff-0",
     "college": "City College of New York",
@@ -669,6 +677,14 @@
     "college": "City College of New York",
     "date": "2025-11-13",
     "time": "12:30 PM - 01:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Master of Architecture and MS Arch Info Session",
+    "link": "https://www.ccny.cuny.edu/calendar/master-architecture-and-ms-arch-info-session",
+    "college": "City College of New York",
+    "date": "2025-11-13",
+    "time": "03:30 PM - 07:30 PM",
     "tags": []
   },
   {
@@ -1315,17 +1331,6 @@
     "time": "06:30 PM - 08:30 PM",
     "tags": [
       "Special Event"
-    ]
-  },
-  {
-    "title": "Press Freedom: A Newmark J-School Wide Conversation",
-    "link": "https://www.journalism.cuny.edu/events/press-freedom-a-newmark-j-school-wide-conversation/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2025-10-09",
-    "time": "12:00 PM - 12:00 PM",
-    "tags": [
-      "Alumni",
-      "Current Students"
     ]
   },
   {
@@ -2209,17 +2214,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-10-09/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-09",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Rutgers Campus Tours",
     "link": "https://www.laguardia.edu/event/rutgers-campus-tours/",
     "college": "LaGuardia Community College",
@@ -2515,6 +2509,18 @@
     "time": "02:00 PM - 03:00 PM",
     "tags": [
       "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Calpulli Adults 50+ Dance Workshop & Final Presentation",
+    "link": "https://www.laguardia.edu/event/calpulli-adults-50-dance-workshop-final-presentation/2025-10-21/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-21",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
       "student events"
     ]
   },
@@ -3559,26 +3565,6 @@
     ]
   },
   {
-    "title": "Campus Resources and Majors: Psychology",
-    "link": "https://hunter.cuny.edu/event/campus-resources-and-majors-psychology-2/",
-    "college": "Hunter College",
-    "date": "2025-10-09",
-    "time": "10:30 AM - 11:30 AM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Campus Resources and Majors: Science Majors",
-    "link": "https://hunter.cuny.edu/event/campus-resources-and-majors-science-majors/",
-    "college": "Hunter College",
-    "date": "2025-10-09",
-    "time": "10:30 AM - 11:30 AM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Mastering the Art of Resume Writing",
     "link": "https://hunter.cuny.edu/event/mastering-the-art-of-resume-writing-17/",
     "college": "Hunter College",
@@ -3820,6 +3806,58 @@
     ]
   },
   {
+    "title": "Promoting Civil Discourse & Intellectual Dialogue Series – What Might Be: Confronting Racism to Transform Our Institutions",
+    "link": "https://hunter.cuny.edu/event/promoting-civil-discourse-intellectual-dialogue-series-what-might-be-confronting-racism-to-transform-our-institutions/",
+    "college": "Hunter College",
+    "date": "2025-10-16",
+    "time": "04:00 PM - 06:30 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
+    "title": "Artes Visuales: The Latin American Avant-Garde in Print - Opening Reception",
+    "link": "https://hunter.cuny.edu/event/artes-visuales-the-latin-american-avant-garde-in-print/",
+    "college": "Hunter College",
+    "date": "2025-10-16",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "Exhibits"
+    ]
+  },
+  {
+    "title": "OOA Outing to The MET Opera: La Bohème",
+    "link": "https://hunter.cuny.edu/event/ooa-outing-to-the-met-opera-la-boheme/",
+    "college": "Hunter College",
+    "date": "2025-10-17",
+    "time": "10:30 AM - 01:35 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "National Voter Education Week",
+    "link": "https://www.bmcc.cuny.edu/event/national-voter-education-week/2025-10-09/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-09",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Civic Engagement",
+      "Featured",
+      "Office of Student Activities (OSA)"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-98/2025-10-09/1/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-09",
+    "time": "10:30 AM - 11:30 AM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
     "title": "Spilling the Tea: Meet the Counseling Center (Online)",
     "link": "https://www.bmcc.cuny.edu/event/spilling-the-tea-meet-the-counseling-center-online/",
     "college": "Borough of Manhattan Community College",
@@ -3876,6 +3914,24 @@
     "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Admissions"
+    ]
+  },
+  {
+    "title": "BMCC Writing Center: Composition Workshops",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-composition-workshops/2025-10-10/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-10",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Academic Affairs",
+      "Academic Calendar",
+      "Academic Literacy and Linguistics",
+      "Advocacy and Resource Center",
+      "English",
+      "Featured",
+      "New Student Programs",
+      "Workshops",
+      "Writing Center"
     ]
   },
   {
@@ -4034,6 +4090,92 @@
     "college": "Borough of Manhattan Community College",
     "date": "2025-10-15",
     "time": "11:00 AM - 11:30 AM",
+    "tags": [
+      "Featured",
+      "Music & Art"
+    ]
+  },
+  {
+    "title": "International Pronoun Day: Let’s Talk Pronouns",
+    "link": "https://www.bmcc.cuny.edu/event/international-pronoun-day-lets-talk-pronouns/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-15",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "LGBTQ Pride Month"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (In-Person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-51/2025-10-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-15",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Academic Notice Back to Success Power Hour: Utilizing BMCC Resources",
+    "link": "https://www.bmcc.cuny.edu/event/academic-notice-back-tosuccess-power-hour-utilizing-bmcc-resources/2025-10-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-15",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "MoneyWorks Seminar: Paychecks, Employee Benefits and Banking:  Find Hidden Wealth",
+    "link": "https://www.bmcc.cuny.edu/event/moneyworks-seminar-paychecks-employee-benefits-and-banking-find-hidden-wealth/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-15",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Featured",
+      "Moneyworks"
+    ]
+  },
+  {
+    "title": "Human Services Internship Supervisor Panel",
+    "link": "https://www.bmcc.cuny.edu/event/human-services-internship-supervisor-panel/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-15",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development"
+    ]
+  },
+  {
+    "title": "Jack Kent Cooke Foundation Undergraduate Transfer, Morris Udall and   Barry Goldwater Scholarship Workshops",
+    "link": "https://www.bmcc.cuny.edu/event/jack-kent-cooke-foundation-undergraduate-transfer-morris-udall-and-barry-goldwater-scholarship-workshops/2025-10-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-15",
+    "time": "02:30 PM - 04:00 PM",
+    "tags": [
+      "Scholarships"
+    ]
+  },
+  {
+    "title": "Fall 2025 BMCC Open House: City Lights, New Heights",
+    "link": "https://www.bmcc.cuny.edu/event/fall-2025-bmcc-open-house-city-lights-new-heights/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-15",
+    "time": "05:00 PM - 08:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Music Faculty Performs in Theatre II",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-music-faculty-performs-in-theatre-ii/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-15",
+    "time": "07:30 PM - 09:30 PM",
     "tags": [
       "Featured",
       "Music & Art"
@@ -4558,6 +4700,17 @@
     "time": "06:30 PM - 08:00 PM",
     "tags": [
       "Spirituality"
+    ]
+  },
+  {
+    "title": "Diwali celebration at Bertha Harris Women’s Center",
+    "link": "https://csi.campuslabs.com/engage/event/11766526",
+    "college": "College of Staten Island",
+    "date": "2025-10-21",
+    "time": "06:30 PM - 08:00 PM",
+    "tags": [
+      "Cultural",
+      "Social"
     ]
   },
   {
@@ -5165,10 +5318,10 @@
   },
   {
     "title": "Deloitte FanTAXtic",
-    "link": "https://qc.event.cuny.edu/events/cnXutyeWOmBe4yKUIvic/lGrVoAVlWRonLLCNHmeq",
+    "link": "https://qc.event.cuny.edu/events/sUvntmgXsFX2lHOVWlMS/k7rG4ezLaTDir17TV9xj",
     "college": "Queens College",
     "date": "2025-10-09",
-    "time": "7:00PM",
+    "time": "7:06PM",
     "tags": []
   },
   {
@@ -5756,8 +5909,8 @@
     "tags": []
   },
   {
-    "title": "The Promise of Beauty: Dancing, Dress & Women's Pursuit of Mobility in Mozambique",
-    "link": "https://www.jjay.cuny.edu/news-events/events/promise-beauty-dancing-dress-womens-pursuit-mobility-mozambique",
+    "title": "The Promise of Beauty",
+    "link": "https://www.jjay.cuny.edu/news-events/events/promise-beauty",
     "college": "John Jay College of Criminal Justice",
     "date": "2025-10-14",
     "time": "05:40 PM",
@@ -5777,6 +5930,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-10-15",
     "time": "03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Panel Discussion: Institutional Neutrality",
+    "link": "https://www.jjay.cuny.edu/news-events/events/panel-discussion-institutional-neutrality",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-15",
+    "time": "05:30 PM",
     "tags": []
   },
   {
@@ -5924,22 +6085,6 @@
     "tags": []
   },
   {
-    "title": "Leaders of Justice: The Honorable Raymond P. Fernandez '08",
-    "link": "https://www.jjay.cuny.edu/news-events/events/leaders-justice-honorable-raymond-p-fernandez-08",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-06",
-    "time": "06:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Safe Zone Training",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/safe-zone-training/",
-    "college": "Macaulay Honors College",
-    "date": "2025-10-09",
-    "time": "5:30PM",
-    "tags": []
-  },
-  {
     "title": "CUNY Discovery Week Info Session",
     "link": "https://macaulay.cuny.edu/calendar-of-events/cuny-discovery-week-info-session/",
     "college": "Macaulay Honors College",
@@ -5980,6 +6125,14 @@
     "tags": []
   },
   {
+    "title": "Safe Zone Training",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/safe-zone-training/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-19",
+    "time": "1:30PM",
+    "tags": []
+  },
+  {
     "title": "Macaulay’s Night at the Brooklyn Museum",
     "link": "https://macaulay.cuny.edu/calendar-of-events/macaulays-night-at-the-brooklyn-museum/",
     "college": "Macaulay Honors College",
@@ -6017,30 +6170,6 @@
     "college": "York College",
     "date": "2025-10-09",
     "time": "1:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-10-09",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-10-09",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
-    "college": "York College",
-    "date": "2025-10-09",
-    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -6108,11 +6237,43 @@
     "tags": []
   },
   {
+    "title": "Midterm Assessment Period",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-6",
+    "college": "York College",
+    "date": "2025-10-10",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
+    "college": "York College",
+    "date": "2025-10-10",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-10-10",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
     "title": "Faculty & Staff Dedicated Fitness Center Hours",
     "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
     "college": "York College",
     "date": "2025-10-10",
     "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
+    "college": "York College",
+    "date": "2025-10-14",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -6246,14 +6407,6 @@
     "date": "2025-10-30",
     "time": "03:00 PM - 05:00 PM",
     "description": ""
-  },
-  {
-    "title": "\"The Secret in Their Eyes\" (2009) Movie Screening",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-09-the-secret-in-their-eyes-2009-movie-screening.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-09",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Special Event / Fair"
   },
   {
     "title": "From Curiosity to Career: Explore Tech with R.I.S.E. & Coding Club",
@@ -6406,6 +6559,14 @@
     "date": "2025-10-15",
     "time": "01:00 PM - 02:00 PM",
     "description": "ASAP Career Event"
+  },
+  {
+    "title": "FAFSA Fest",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-15-fafsa-fest.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-15",
+    "time": "01:00 PM - 04:00 PM",
+    "description": "Financial Aid Event"
   },
   {
     "title": "Feel the Fear and Speak in Class Anyway",
