@@ -1,13 +1,5 @@
 [
   {
-    "title": "City Reading Series",
-    "link": "https://www.ccny.cuny.edu/calendar/city-reading-series",
-    "college": "City College of New York",
-    "date": "2025-10-10",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": []
-  },
-  {
     "title": "College Life Workshops: Networking & Mapping Your Way to Career Advancement",
     "link": "https://www.ccny.cuny.edu/calendar/college-life-workshops-networking-mapping-your-way-career-advancement-0",
     "college": "City College of New York",
@@ -1064,26 +1056,6 @@
     "tags": []
   },
   {
-    "title": "CUNY Safe Zone Certification Training",
-    "link": "https://www.mec.cuny.edu/event/cuny-safe-zone-certification-training/",
-    "college": "Medgar Evers College",
-    "date": "2025-10-10",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Student Inclusion Initiatives"
-    ]
-  },
-  {
-    "title": "Latino Heritage Month: 'Sueno Latino' celebration",
-    "link": "https://www.mec.cuny.edu/event/latino-heritage-month-sueno-latino-celebration/",
-    "college": "Medgar Evers College",
-    "date": "2025-10-10",
-    "time": "11:00 AM - 05:00 PM",
-    "tags": [
-      "Latin Heritage Month 2025"
-    ]
-  },
-  {
     "title": "Time Management: The Art of Balance and Avoiding College Burnout",
     "link": "https://www.mec.cuny.edu/event/time-management-the-art-of-balance-and-avoiding-college-burnout-2/",
     "college": "Medgar Evers College",
@@ -1455,14 +1427,6 @@
     "college": "Kingsborough Community College",
     "date": "2025-11-04",
     "time": "07:00 PM - 08:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Broadway Show - Buena Vista Social Club",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/2e7c6df5-3fbe-4fc1-bfc9-782623c93020",
-    "college": "Kingsborough Community College",
-    "date": "2025-10-10",
-    "time": "11:30 PM - 11:30 PM",
     "tags": []
   },
   {
@@ -2122,32 +2086,6 @@
     "tags": []
   },
   {
-    "title": "n8n AI Automation Workshop",
-    "link": "https://www.laguardia.edu/event/n8n-ai-automation-workshop/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-10",
-    "time": "05:30 PM - 09:00 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "Faculty and Staff",
-      "student events"
-    ]
-  },
-  {
-    "title": "Latin Lover",
-    "link": "https://www.laguardia.edu/event/latin-lover/2025-10-10/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-10",
-    "time": "07:30 PM - 09:00 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "Faculty and Staff",
-      "student events"
-    ]
-  },
-  {
     "title": "Latin Lover",
     "link": "https://www.laguardia.edu/event/latin-lover/2025-10-11/",
     "college": "LaGuardia Community College",
@@ -2442,44 +2380,14 @@
     ]
   },
   {
-    "title": "The HUB Virtual Hours",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376695",
-    "college": "Guttman Community College",
-    "date": "2025-10-10",
-    "time": "03:00 PM - 06:00 PM",
+    "title": "7th Annual Food Day Fair",
+    "link": "https://www.laguardia.edu/event/7th-annual-food-day-fair/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-22",
+    "time": "02:00 PM - 05:00 PM",
     "tags": [
-      "EMSA",
-      "Support Session",
-      "Discussion",
-      "Information Session"
-    ]
-  },
-  {
-    "title": "Undocu Student Meetup",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376656",
-    "college": "Guttman Community College",
-    "date": "2025-10-10",
-    "time": "03:30 PM - 07:30 PM",
-    "tags": [
-      "GBG",
-      "Social - Off-Campus",
-      "Food - Lunch",
-      "Immigrant Student Success",
-      "Off-Campus",
-      "Trip - Day"
-    ]
-  },
-  {
-    "title": "CCSD Get Connected and Enjoy",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376654",
-    "college": "Guttman Community College",
-    "date": "2025-10-10",
-    "time": "05:00 PM - 06:30 PM",
-    "tags": [
-      "EMSA",
-      "Leadership",
-      "AccessABILITY Services",
-      "Off-Campus"
+      "all calendars",
+      "student events"
     ]
   },
   {
@@ -4019,6 +3927,16 @@
     ]
   },
   {
+    "title": "Start Your Next Journey: Transfer Tools 101",
+    "link": "https://www.bmcc.cuny.edu/event/start-your-next-journey-transfer-tools-101-10/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-18",
+    "time": "10:00 AM - 11:30 AM",
+    "tags": [
+      "Academic Advisement & Transfer"
+    ]
+  },
+  {
     "title": "International Pronouns Day: Safe Space Training",
     "link": "https://www.bcc.cuny.edu/event/international-pronouns-day-safe-space-training/",
     "college": "Bronx Community College",
@@ -4122,6 +4040,19 @@
     "college": "Bronx Community College",
     "date": "2025-10-24",
     "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2025-10-27/",
+    "college": "Bronx Community College",
+    "date": "2025-10-27",
+    "time": "02:00 PM - 07:00 PM",
     "tags": [
       "Enrollment Management",
       "Feature",
@@ -4866,32 +4797,6 @@
     ]
   },
   {
-    "title": "History (MA) and Public History (Adv. Cert.) Infosession",
-    "link": "https://events.cuny.edu/cec/history-ma-and-public-history-adv-cert-infosession-2/",
-    "college": "College of Staten Island",
-    "date": "2025-10-10",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": [
-      "History"
-    ]
-  },
-  {
-    "title": "Latin Lover",
-    "link": "https://events.cuny.edu/cec/latin-lover-2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-10",
-    "time": "7:30 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Country Gongbang",
-    "link": "https://events.cuny.edu/cec/country-gongbang/",
-    "college": "Queens College",
-    "date": "2025-10-10",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Willowbrook Mile Open Day",
     "link": "https://events.cuny.edu/cec/willowbrook-mile-open-day/",
     "college": "College of Staten Island",
@@ -4918,28 +4823,22 @@
     ]
   },
   {
-    "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh47",
-    "college": "Queens College",
-    "date": "2025-10-10",
-    "time": "",
+    "title": "Cafecito con... Clara Román Odio: Spiritist Women in Puerto Rico",
+    "link": "https://events.cuny.edu/cec/cafecito-con-clara-roman-odio-spiritist-women-in-puerto-rico/",
+    "college": "Hunter College",
+    "date": "2025-10-14",
+    "time": "3:00 PM - 5:00 PM",
     "tags": []
   },
   {
-    "title": "GREEK AMERICAN EDUCATION",
-    "link": "https://qc.event.cuny.edu/events/uGqVVnC28cRd52e5R8zO/F0rvMZIMIPLg0L1DUrZa",
-    "college": "Queens College",
-    "date": "2025-10-10",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2025- CUNY Explorers Tours",
-    "link": "https://qc.event.cuny.edu/events/bfx0Pn5kngM72WVy5tRt/Wvr5Dblg97tKPOAaJ40X",
-    "college": "Queens College",
-    "date": "2025-10-10",
-    "time": "11:00AM",
-    "tags": []
+    "title": "Microsoft Copilot – MS Excel",
+    "link": "https://events.cuny.edu/cec/microsoft-copilot-ms-excel/",
+    "college": "College of Staten Island",
+    "date": "2025-10-14",
+    "time": "3:30 PM - 4:30 PM",
+    "tags": [
+      "Technology Training"
+    ]
   },
   {
     "title": "FA25 Hold off room",
@@ -5030,6 +4929,30 @@
     "tags": []
   },
   {
+    "title": "QSI Junior/Senior Seminar",
+    "link": "https://qc.event.cuny.edu/events/Vg4Zrs5Ppe9n0F8IUiE2/uwkjUdEkRJpyPWWjd3Yo",
+    "college": "Queens College",
+    "date": "2025-10-14",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Recitations",
+    "link": "https://qc.event.cuny.edu/events/lX3RWoN5F2UBxTxZyDFW/JE9KkAQkSPPzMaa0eg0I10",
+    "college": "Queens College",
+    "date": "2025-10-14",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Accounting",
+    "link": "https://qc.event.cuny.edu/events/jdan1p1tKLpsE0n2c1R6/hqab4frXjTg2vqX32ZN7",
+    "college": "Queens College",
+    "date": "2025-10-14",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
     "title": "Fall Regular Session:\tClasses follow a Monday schedule",
     "link": "https://baruch.event.cuny.edu/events/loLtdEn4YuDss4lLHqQJ/Ydzy4U2SQwOM9dhQAU77",
     "college": "Baruch College",
@@ -5083,30 +5006,6 @@
     "college": "Baruch College",
     "date": "2025-10-17",
     "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center Classes",
-    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/FfookhqdiPvXvpxSWkjh3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-10",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers",
-    "link": "https://citytech.event.cuny.edu/events/zkkr3vLlRqX1w4PGQgFK/dHIpwAYlyPg1pW7ek12F4",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-10",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "TOC II Monthly Workshop",
-    "link": "https://citytech.event.cuny.edu/events/QS0v7hvWONwDynZdWQIK/LO9UinxfXii1oUIuxQtG",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-10",
-    "time": "3:30PM",
     "tags": []
   },
   {
@@ -5227,6 +5126,38 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-10-14",
     "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/D0GiXVdptET3GZkpCc1e/wPiw0vyYixbqNdkEK6RV7",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-14",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/mle0JEl2455TToV5XkP74",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-14",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "clinical session",
+    "link": "https://citytech.event.cuny.edu/events/jpYyikEUvvwPlA7h0day/HYPxFSJF4EgrOndHiqaT",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-14",
+    "time": "1:30PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/iyKGQLcvSuVcXc0Ci5zo/tsup4HqRxPwozFVKNnzY5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-14",
+    "time": "2:00PM",
     "tags": []
   },
   {
@@ -5815,22 +5746,6 @@
   },
   {
     "title": "Midterm Assessment Period",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-6",
-    "college": "York College",
-    "date": "2025-10-10",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "2025 Cardinal Spirit Week: Mismatch Fit Day",
-    "link": "https://www.york.cuny.edu/events/2025-cardinal-spirit-week-mismatch-fit-day",
-    "college": "York College",
-    "date": "2025-10-10",
-    "time": "1:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Midterm Assessment Period",
     "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-7",
     "college": "York College",
     "date": "2025-10-11",
@@ -5875,6 +5790,22 @@
     "college": "York College",
     "date": "2025-10-13",
     "time": "1:00 PM - 2:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Midterm Assessment Period",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-10",
+    "college": "York College",
+    "date": "2025-10-14",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Classes follow a Monday schedule",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/classes-follow-a-monday-schedule",
+    "college": "York College",
+    "date": "2025-10-14",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
@@ -5934,64 +5865,6 @@
     "tags": []
   },
   {
-    "title": "2025 EARLY RESEARCH INITIATIVE CONFERENCE",
-    "link": "https://www.gc.cuny.edu/events/2025-early-research-initiative-conference",
-    "college": "CUNY Graduate Center",
-    "date": "2025-10-10",
-    "time": "10:00 am — 4:00 pm",
-    "location": "Multiple Locations (see description for details)",
-    "tags": [
-      "Provost's Office"
-    ]
-  },
-  {
-    "title": "PH.D. PROGRAM IN CHEMISTRY VIRTUAL INFORMATION SESSION, OCTOBER 10TH",
-    "link": "https://www.gc.cuny.edu/events/phd-program-chemistry-virtual-information-session-oct-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-10-10",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Chemistry",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "LINGUISTIC EQUALITY OR LINGUISTIC INEQUALITY? DISCOURSES, BINARIES AND IMAGINARIES IN 21ST CENTURY CATALONIA",
-    "link": "https://www.gc.cuny.edu/events/linguistic-equality-or-linguistic-inequality-discourses-binaries-and-imaginaries-21st-century",
-    "college": "CUNY Graduate Center",
-    "date": "2025-10-10",
-    "time": "3:30 pm — 5:00 pm",
-    "location": "4116: LAILAC Student Lounge",
-    "tags": [
-      "Latin American, Iberian, and Latino Cultures"
-    ]
-  },
-  {
-    "title": "CONTESTED CURRICULUM: LGBTQ HISTORY GOES TO SCHOOL",
-    "link": "https://www.gc.cuny.edu/events/contested-curriculum-lgbtq-history-goes-school",
-    "college": "CUNY Graduate Center",
-    "date": "2025-10-10",
-    "time": "4:30 pm — 6:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "LGBTQ Studies",
-      "CLAGS: The Center for LGBTQ Studies",
-      "LGBTQ +"
-    ]
-  },
-  {
-    "title": "A READING OF FICTION BY LATIN AMERICAN WRITERS",
-    "link": "https://www.gc.cuny.edu/events/reading-fiction-latin-american-writers",
-    "college": "CUNY Graduate Center",
-    "date": "2025-10-10",
-    "time": "6:00 pm",
-    "location": "C197",
-    "tags": [
-      "CUNY Academy for the Humanities and Sciences"
-    ]
-  },
-  {
     "title": "DISCOVER THE WRITERS' INSTITUTE: INFO SESSION",
     "link": "https://www.gc.cuny.edu/events/discover-writers-institute-info-session",
     "college": "CUNY Graduate Center",
@@ -6045,6 +5918,66 @@
     "location": "4214: Math Lounge",
     "tags": [
       "Mathematics"
+    ]
+  },
+  {
+    "title": "FREEDOM DREAMS & CLASSROOM ECOLOGIES, PART TWO",
+    "link": "https://www.gc.cuny.edu/events/freedom-dreams-classroom-ecologies-part-two",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-15",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "3317",
+    "tags": [
+      "Teaching & Learning Center"
+    ]
+  },
+  {
+    "title": "BRAINE HOUR: F31 CRASH COURSE",
+    "link": "https://www.gc.cuny.edu/events/braine-hour-f31-crash-course",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-15",
+    "time": "5:00 pm — 6:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Biology",
+      "Doctoral and Graduate Students' Council"
+    ]
+  },
+  {
+    "title": "CLINICAL PSYCHOLOGY AT JOHN JAY VIRTUAL OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/clinical-psychology-john-jay-virtual-open-house",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-15",
+    "time": "5:30 pm — 7:00 pm",
+    "location": "Online",
+    "tags": [
+      "Psychology",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "PH.D. PROGRAM IN SOCIAL WELFARE OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/phd-program-social-welfare-open-house-oct-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-15",
+    "time": "5:30 pm — 7:00 pm",
+    "location": "6203.02",
+    "tags": [
+      "Social Welfare",
+      "Admissions",
+      "Humanities and Social Sciences"
+    ]
+  },
+  {
+    "title": "CITY OF SCIENCE: VENKI RAMAKRISHNAN IN CONVERSATION WITH DAVID JERUZALMI",
+    "link": "https://www.gc.cuny.edu/events/city-science-venki-ramakrishnan-conversation-david-jeruzalmi",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-15",
+    "time": "6:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Public Programs",
+      "GC Presents"
     ]
   },
   {
@@ -6214,14 +6147,6 @@
     "date": "2025-10-15",
     "time": "05:00 PM - 07:00 PM",
     "description": "Exhibit"
-  },
-  {
-    "title": "Feel the Fear and Speak in Class Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-speak-in-class-anyway-tickets-1474999105029?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-10-10",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on increasing and improving class participation, this workshop includes strategies to build confidence speaking in multiple contexts, as well as tips for creating and practicing presentations. <br><b>*Registration closes at 4:30pm on 10/10*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-speak-in-class-anyway-tickets-1474999105029?aff=oddtdtcreator\">HERE</a></b>"
   },
   {
     "title": "Reading to Respond",
