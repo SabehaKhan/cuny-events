@@ -3325,14 +3325,6 @@
     ]
   },
   {
-    "title": "Fight Flu Fast",
-    "link": "https://hunter.cuny.edu/event/fight-flu-fast-3/",
-    "college": "Hunter College",
-    "date": "2025-10-14",
-    "time": "10:00 AM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "OOA Outing to The MET Opera: La Fille du Régiment",
     "link": "https://hunter.cuny.edu/event/ooa-outing-to-the-met-opera-la-fille-du-regiment/",
     "college": "Hunter College",
@@ -3488,6 +3480,16 @@
     ]
   },
   {
+    "title": "Hunter Students in Concert",
+    "link": "https://hunter.cuny.edu/event/hunter-students-in-concert-8/",
+    "college": "Hunter College",
+    "date": "2025-10-16",
+    "time": "05:30 PM - 07:30 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
     "title": "Artes Visuales: The Latin American Avant-Garde in Print - Opening Reception",
     "link": "https://hunter.cuny.edu/event/artes-visuales-the-latin-american-avant-garde-in-print/",
     "college": "Hunter College",
@@ -3584,39 +3586,6 @@
     ]
   },
   {
-    "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga/2025-10-14/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-14",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Crafting Your Future: Resume & Cover Letter Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/crafting-your-future-resume-cover-letter-workshop-7/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-14",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-260/2025-10-14/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-14",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
     "title": "Take a Tour of BMCC’s Campus",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-98/2025-10-14/",
     "college": "Borough of Manhattan Community College",
@@ -3709,7 +3678,7 @@
   },
   {
     "title": "Health and Wellness Fair",
-    "link": "https://www.bmcc.cuny.edu/event/health-and-wellness-fair/2025-10-15/",
+    "link": "https://www.bmcc.cuny.edu/event/health-and-wellness-fair-2/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-10-15",
     "time": "10:00 AM - 04:00 PM",
@@ -3923,6 +3892,28 @@
     ]
   },
   {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-260/2025-10-20/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-20",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga/2025-10-21/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-21",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Pride Month: Is Asylum for Me?",
     "link": "https://www.bmcc.cuny.edu/event/pride-month-is-asylum-for-me/",
     "college": "Borough of Manhattan Community College",
@@ -3934,6 +3925,18 @@
       "Immigration Support",
       "LGBTQ Pride Month",
       "Pride Center"
+    ]
+  },
+  {
+    "title": "Middle States Town Hall: BMCC Faculty, Staff and Students are Invited",
+    "link": "https://www.bmcc.cuny.edu/event/middle-states-town-hall-bmcc-faculty-staff-and-students-are-invited/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-21",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Faculty and Staff",
+      "Featured",
+      "Middle States"
     ]
   },
   {
@@ -4067,18 +4070,6 @@
     "date": "2025-10-27",
     "time": "02:15 PM - 03:30 PM",
     "tags": []
-  },
-  {
-    "title": "Student Services Commission (Student Government)",
-    "link": "https://csi.campuslabs.com/engage/event/11680100",
-    "college": "College of Staten Island",
-    "date": "2025-10-14",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "GroupBusiness",
-      "Group Business",
-      "Willowbrook Campus"
-    ]
   },
   {
     "title": "Wellness BINGO",
@@ -4457,6 +4448,17 @@
     ]
   },
   {
+    "title": "Vamos A Bailar!!!",
+    "link": "https://csi.campuslabs.com/engage/event/11781956",
+    "college": "College of Staten Island",
+    "date": "2025-10-23",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Social",
+      "Cultural"
+    ]
+  },
+  {
     "title": "CAB Film Showings: Elio",
     "link": "https://csi.campuslabs.com/engage/event/11366301",
     "college": "College of Staten Island",
@@ -4513,6 +4515,30 @@
     "time": "10:00 PM - 12:30 AM",
     "tags": [
       "Cultural"
+    ]
+  },
+  {
+    "title": "Halloween Bash",
+    "link": "https://csi.campuslabs.com/engage/event/11781867",
+    "college": "College of Staten Island",
+    "date": "2025-10-24",
+    "time": "10:00 PM - 02:00 AM",
+    "tags": [
+      "Social",
+      "Entertainment"
+    ]
+  },
+  {
+    "title": "NSA Volunteer Food Service",
+    "link": "https://csi.campuslabs.com/engage/event/11781996",
+    "college": "College of Staten Island",
+    "date": "2025-10-25",
+    "time": "01:00 PM - 05:30 PM",
+    "tags": [
+      "CommunityService",
+      "Leadership",
+      "Volunteer",
+      "Fundraiser"
     ]
   },
   {
@@ -4609,6 +4635,16 @@
     ]
   },
   {
+    "title": "Open Minds Exchange x Pre-Law Society Halloween Event",
+    "link": "https://csi.campuslabs.com/engage/event/11781994",
+    "college": "College of Staten Island",
+    "date": "2025-10-28",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Social"
+    ]
+  },
+  {
     "title": "WOW Lecture - Comparing Left Populist Media in the U.S. and Spain (259046-CC)",
     "link": "https://csi.campuslabs.com/engage/event/11540193",
     "college": "College of Staten Island",
@@ -4684,6 +4720,17 @@
       "CC CLUE",
       "Film and Television",
       "Career Development"
+    ]
+  },
+  {
+    "title": "Halloween Movie Night",
+    "link": "https://csi.campuslabs.com/engage/event/11782451",
+    "college": "College of Staten Island",
+    "date": "2025-10-30",
+    "time": "08:30 PM - 10:30 PM",
+    "tags": [
+      "Arts",
+      "Film and Television"
     ]
   },
   {
@@ -4914,6 +4961,36 @@
     ]
   },
   {
+    "title": "Tech Talk Time",
+    "link": "https://events.cuny.edu/cec/tech-talk-time-20/",
+    "college": "College of Staten Island",
+    "date": "2025-10-15",
+    "time": "11:00 AM - 11:30 AM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "Tech Talk Time",
+    "link": "https://events.cuny.edu/cec/tech-talk-time-21/",
+    "college": "College of Staten Island",
+    "date": "2025-10-15",
+    "time": "11:30 AM - 12:00 PM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "Biochemistry Seminar: Michael Sattler, “NMR in 4D integrative structural biology – from dynamics and mechanisms to novel therapeutics”",
+    "link": "https://events.cuny.edu/cec/biochemistry-seminar-michael-sattler-nmr-in-4d-integrative-structural-biology-from-dynamics-and-mechanisms-to-novel-therapeutics/",
+    "college": "The City College of New York",
+    "date": "2025-10-15",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": [
+      "Michael Sattler"
+    ]
+  },
+  {
     "title": "FA25 Hold off room",
     "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh51",
     "college": "Queens College",
@@ -4967,14 +5044,6 @@
     "college": "Queens College",
     "date": "2025-10-14",
     "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "CREAR Futuros Latin Heritage Salsa Dance Class",
-    "link": "https://qc.event.cuny.edu/events/gtHG8pz7TKfZF7O9ecnn/f3qnL0Lc7LcZzKS2OtFN",
-    "college": "Queens College",
-    "date": "2025-10-14",
-    "time": "12:00PM",
     "tags": []
   },
   {
@@ -5594,30 +5663,6 @@
     "tags": []
   },
   {
-    "title": "Celebrate Hispanic Heritage Month",
-    "link": "https://www.jjay.cuny.edu/news-events/events/celebrate-hispanic-heritage-month",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-14",
-    "time": "05:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Study Abroad in Australia: Spring '26",
-    "link": "https://www.jjay.cuny.edu/news-events/events/study-abroad-australia-spring-26",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-14",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
-    "title": "The Promise of Beauty",
-    "link": "https://www.jjay.cuny.edu/news-events/events/promise-beauty",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-14",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
     "title": "Writing Law/Grad School Personal Statements",
     "link": "https://www.jjay.cuny.edu/news-events/events/writing-lawgrad-school-personal-statements-1",
     "college": "John Jay College of Criminal Justice",
@@ -5786,6 +5831,30 @@
     "tags": []
   },
   {
+    "title": "Screening: Pain & Peace",
+    "link": "https://www.jjay.cuny.edu/news-events/events/screening-pain-peace",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-21",
+    "time": "09:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Campus Tour",
+    "link": "https://www.jjay.cuny.edu/news-events/events/campus-tour-6",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-22",
+    "time": "05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Book Talk: Conversations with Correctional Staff",
+    "link": "https://www.jjay.cuny.edu/news-events/events/book-talk-conversations-correctional-staff",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-22",
+    "time": "05:30 PM",
+    "tags": []
+  },
+  {
     "title": "Connected & Protected: Making Smart Choices in Digital Spaces",
     "link": "https://macaulay.cuny.edu/calendar-of-events/connected-protected-making-smart-choices-in-digital-spaces/",
     "college": "Macaulay Honors College",
@@ -5874,32 +5943,16 @@
     "tags": []
   },
   {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-10-14",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-10-14",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
-    "college": "York College",
-    "date": "2025-10-14",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "Financial Aid Day 2025",
     "link": "https://www.york.cuny.edu/events/financial-aid-day-2025",
+    "college": "York College",
+    "date": "2025-10-14",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Cancer Awareness Workshop",
+    "link": "https://www.york.cuny.edu/health/cancer-awarness-workshop",
     "college": "York College",
     "date": "2025-10-14",
     "time": "4:00 PM - 6:00 PM",
@@ -5962,11 +6015,27 @@
     "tags": []
   },
   {
-    "title": "Painting with Purpose: Create and Connect",
-    "link": "https://www.york.cuny.edu/veterans-affairs/events/painting-with-purpose-create-and-connect",
+    "title": "Open Gymnasium + Indoor Track",
+    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
     "college": "York College",
     "date": "2025-10-15",
-    "time": "3:00 PM - 8:45 PM",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
+    "college": "York College",
+    "date": "2025-10-15",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
+    "college": "York College",
+    "date": "2025-10-15",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
