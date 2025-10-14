@@ -1,13 +1,5 @@
 [
   {
-    "title": "College Life Workshops: Networking & Mapping Your Way to Career Advancement",
-    "link": "https://www.ccny.cuny.edu/calendar/college-life-workshops-networking-mapping-your-way-career-advancement-0",
-    "college": "City College of New York",
-    "date": "2025-10-14",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
     "title": "Biochemistry Seminar: Michael Sattler, \"NMR in 4D integrative structural biology - from dynamics and mechanisms to novel therapeutics\"",
     "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-michael-sattler-nmr-4d-integrative-structural-biology-dynamics-and",
     "college": "City College of New York",
@@ -2086,40 +2078,6 @@
     "tags": []
   },
   {
-    "title": "Paint & Sip (Indigenous Heritage)",
-    "link": "https://www.laguardia.edu/event/paint-sip-indigenous-heritage/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-14",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Long Island University - Brooklyn Virtual Transfer Information Session",
-    "link": "https://www.laguardia.edu/event/long-island-university-brooklyn-virtual-transfer-information-session/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-14",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "2+2 Transfer Info-Session: LaGuardia to Rutgers",
-    "link": "https://www.laguardia.edu/event/22-transfer-info-session-laguardia-to-rutgers-2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-14",
-    "time": "03:30 PM - 04:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Wednesdays (In-Person)",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-10-15/",
     "college": "LaGuardia Community College",
@@ -2383,6 +2341,38 @@
     "college": "LaGuardia Community College",
     "date": "2025-10-22",
     "time": "02:15 PM - 03:15 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "ACCES Pre-ETS Career Readiness Seminar series",
+    "link": "https://www.laguardia.edu/event/acces-pre-ets-career-readiness-seminar-series/2025-10-22/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-22",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Transfer Workshop",
+    "link": "https://www.laguardia.edu/event/transfer-workshop/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-22",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "student events"
+    ]
+  },
+  {
+    "title": "DoS and DDoS with Kali Linux - Explore the World of Cybersecurity Attacks",
+    "link": "https://www.laguardia.edu/event/dos-and-ddos-with-kali-linux-explore-the-world-of-cybersecurity-attacks/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-22",
+    "time": "02:30 PM - 04:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -3325,64 +3315,6 @@
     ]
   },
   {
-    "title": "OOA Outing to The MET Opera: La Fille du Régiment",
-    "link": "https://hunter.cuny.edu/event/ooa-outing-to-the-met-opera-la-fille-du-regiment/",
-    "college": "Hunter College",
-    "date": "2025-10-14",
-    "time": "10:30 AM - 01:30 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Purple PEERiod Project",
-    "link": "https://hunter.cuny.edu/event/purple-peeriod-project-7/",
-    "college": "Hunter College",
-    "date": "2025-10-14",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "The Origin and Evolution of De Novo Genes",
-    "link": "https://hunter.cuny.edu/event/the-origin-and-evolution-of-de-novo-genes/",
-    "college": "Hunter College",
-    "date": "2025-10-14",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Stress Management with Counseling",
-    "link": "https://hunter.cuny.edu/event/stress-management-with-counseling/",
-    "college": "Hunter College",
-    "date": "2025-10-14",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Navigating your Key to Success: Internship Strategy Workshop",
-    "link": "https://hunter.cuny.edu/event/navigating-your-key-to-success-internship-strategy-workshop-10/",
-    "college": "Hunter College",
-    "date": "2025-10-14",
-    "time": "01:30 PM - 02:30 PM",
-    "tags": [
-      "Career Center"
-    ]
-  },
-  {
-    "title": "Cafecito con... Clara Román Odio: Spiritist Women in Puerto Rico",
-    "link": "https://hunter.cuny.edu/event/cafecito-con-clara-roman-odio-spiritist-women-in-puerto-rico/",
-    "college": "Hunter College",
-    "date": "2025-10-14",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
     "title": "The Immigration and Nationality Act 60 Years Later: The Making of Modern New York City",
     "link": "https://hunter.cuny.edu/event/the-immigration-and-nationality-act-60-years-later-the-making-of-modern-new-york-city/",
     "college": "Hunter College",
@@ -3583,6 +3515,63 @@
       "Career Center",
       "Conferences & Workshops",
       "Student Events"
+    ]
+  },
+  {
+    "title": "Career Exploration in Psychology Series: Employers Panel",
+    "link": "https://hunter.cuny.edu/event/career-exploration-in-psychology-series-employers-panel/",
+    "college": "Hunter College",
+    "date": "2025-10-21",
+    "time": "02:30 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Screening of Les Yeux Sans Visage - (1960) French",
+    "link": "https://hunter.cuny.edu/event/screening-of-les-yeux-sans-visage-1960-french/",
+    "college": "Hunter College",
+    "date": "2025-10-21",
+    "time": "02:30 PM - 04:15 PM",
+    "tags": [
+      "Special Events"
+    ]
+  },
+  {
+    "title": "Transfer Mixer",
+    "link": "https://hunter.cuny.edu/event/transfer-mixer/2025-10-22/",
+    "college": "Hunter College",
+    "date": "2025-10-22",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "RN-to-BS Nursing Program Information Session",
+    "link": "https://hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-5/",
+    "college": "Hunter College",
+    "date": "2025-10-22",
+    "time": "12:00 PM - 01:30 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-2/",
+    "college": "Hunter College",
+    "date": "2025-10-22",
+    "time": "12:30 PM - 03:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Singing with the Dean",
+    "link": "https://hunter.cuny.edu/event/singing-with-the-dean/2025-10-22/",
+    "college": "Hunter College",
+    "date": "2025-10-22",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Performing Arts & Film",
+      "Special Events"
     ]
   },
   {
@@ -3940,22 +3929,6 @@
     ]
   },
   {
-    "title": "International Pronouns Day: Safe Space Training",
-    "link": "https://www.bcc.cuny.edu/event/international-pronouns-day-safe-space-training/",
-    "college": "Bronx Community College",
-    "date": "2025-10-14",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Divine Nine & HBCU Interest Event",
-    "link": "https://www.bcc.cuny.edu/event/divine-nine-hbcu-interest-event/",
-    "college": "Bronx Community College",
-    "date": "2025-10-14",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Developing Your Educational & Career Support Plan: Identifying, Building & Using Social Supports",
     "link": "https://www.bcc.cuny.edu/event/developing-your-educational-career-support-plan-identifying-building-using-social-supports/",
     "college": "Bronx Community College",
@@ -4011,6 +3984,18 @@
       "Feature",
       "Office of the Registrar",
       "Virtual Event"
+    ]
+  },
+  {
+    "title": "FAFSA Fall Fest",
+    "link": "https://www.bcc.cuny.edu/event/fafsa-fall-fest/",
+    "college": "Bronx Community College",
+    "date": "2025-10-23",
+    "time": "10:00 AM - 06:00 PM",
+    "tags": [
+      "Campus Events",
+      "Enrollment Management",
+      "Feature"
     ]
   },
   {
@@ -4070,30 +4055,6 @@
     "date": "2025-10-27",
     "time": "02:15 PM - 03:30 PM",
     "tags": []
-  },
-  {
-    "title": "Wellness BINGO",
-    "link": "https://csi.campuslabs.com/engage/event/11737125",
-    "college": "College of Staten Island",
-    "date": "2025-10-14",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Health and Wellness",
-      "Fitness/Recreation"
-    ]
-  },
-  {
-    "title": "Hiking Club election!",
-    "link": "https://csi.campuslabs.com/engage/event/11762525",
-    "college": "College of Staten Island",
-    "date": "2025-10-14",
-    "time": "06:45 PM - 07:45 PM",
-    "tags": [
-      "GroupBusiness",
-      "Conference"
-    ]
   },
   {
     "title": "Weekly Tea Time",
@@ -4888,6 +4849,56 @@
     ]
   },
   {
+    "title": "Study Abroad Info Session (259041-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11422642",
+    "college": "College of Staten Island",
+    "date": "2025-11-13",
+    "time": "07:30 PM - 08:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "Global Engagement",
+      "Cultural"
+    ]
+  },
+  {
+    "title": "ColorStack Club",
+    "link": "https://csi.campuslabs.com/engage/event/11639017",
+    "college": "College of Staten Island",
+    "date": "2025-11-13",
+    "time": "07:30 PM - 09:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Leadership",
+      "Entertainment"
+    ]
+  },
+  {
+    "title": "International Coffee Hour (259028-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11500255",
+    "college": "College of Staten Island",
+    "date": "2025-11-13",
+    "time": "09:00 PM - 10:00 PM",
+    "tags": [
+      "Social",
+      "Global Engagement",
+      "Cultural"
+    ]
+  },
+  {
+    "title": "International Coffee Hour",
+    "link": "https://csi.campuslabs.com/engage/event/11564277",
+    "college": "College of Staten Island",
+    "date": "2025-11-13",
+    "time": "09:00 PM - 10:00 PM",
+    "tags": [
+      "Social",
+      "Global Engagement",
+      "Willowbrook Campus",
+      "Cultural"
+    ]
+  },
+  {
     "title": "CAB Film Showings: The Naked Gun (2025)",
     "link": "https://csi.campuslabs.com/engage/event/11616961",
     "college": "College of Staten Island",
@@ -5591,6 +5602,14 @@
     "tags": []
   },
   {
+    "title": "Access to Capital: Capital to Grow Confidence to Thrive",
+    "link": "https://www.lehman.edu/events/2025/Access-to-Capital-Capital-to-Grow-Confidence-to-Thrive-1.php",
+    "college": "Lehman College",
+    "date": "2025-10-15",
+    "time": "3:00 PM- 4:30 PM",
+    "tags": []
+  },
+  {
     "title": "Social Work M.S.W. Information Session",
     "link": "https://www.lehman.edu/events/2025/Social-Work-MSW-Information-Session--1.php",
     "college": "Lehman College",
@@ -5639,51 +5658,19 @@
     "tags": []
   },
   {
+    "title": "Rhetoric and Resistance: The Literary Arts of Dissent in Nineteenth-Century Britain by Maeve Adams",
+    "link": "https://www.lehman.edu/events/2025/Rhetoric-and-Resistance-The-Literary-Arts-of-Dissent-in-Nineteenth-Century-Britainby-Maeve-Adams.php",
+    "college": "Lehman College",
+    "date": "2025-10-21",
+    "time": "12:00 PM- 1:00 PM",
+    "tags": []
+  },
+  {
     "title": "Elevate Your Cannabis Business: Master Google Workspace For Seamless Growth - Free Course",
     "link": "https://www.lehman.edu/events/2025/Elevate-Your-Cannabis-Business-Master-Google-Workspace-For-Seamless-Growth---Free-Course.php?event_type=recurs_2",
     "college": "Lehman College",
     "date": "2025-10-21",
     "time": "6:00 PM- 8:30 PM",
-    "tags": []
-  },
-  {
-    "title": "The Dance program at Lehman College presents Dance in Dialog",
-    "link": "https://www.lehman.edu/events/2025/The-Dance-program-at-Lehman-College-presents-Dance-in-Dialog.php",
-    "college": "Lehman College",
-    "date": "2025-10-22",
-    "time": "4:00 PM- 5:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2025 Majors and Minors Fair",
-    "link": "https://www.lehman.edu/events/2025/Fall-2025-Majors-and-Minors-Fair.php",
-    "college": "Lehman College",
-    "date": "2025-10-23",
-    "time": "12:00 PM- 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Writing Law/Grad School Personal Statements",
-    "link": "https://www.jjay.cuny.edu/news-events/events/writing-lawgrad-school-personal-statements-1",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-14",
-    "time": "07:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Town Hall",
-    "link": "https://www.jjay.cuny.edu/news-events/events/town-hall-3",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-14",
-    "time": "08:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Business Writing: Memos & Letters",
-    "link": "https://www.jjay.cuny.edu/news-events/events/business-writing-memos-letters",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-14",
-    "time": "08:30 PM",
     "tags": []
   },
   {
@@ -5855,6 +5842,30 @@
     "tags": []
   },
   {
+    "title": "Study Abroad in Austria: Summer '26",
+    "link": "https://www.jjay.cuny.edu/news-events/events/study-abroad-austria-summer-26-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-22",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
+    "title": "7th Feria Internacional del Libro de la Ciudad de Nueva York",
+    "link": "https://www.jjay.cuny.edu/news-events/events/7th-feria-internacional-del-libro-de-la-ciudad-de-nueva-york",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-22",
+    "time": "08:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Writing a Research Paper",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-research-paper-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-10-22",
+    "time": "10:00 PM",
+    "tags": []
+  },
+  {
     "title": "Connected & Protected: Making Smart Choices in Digital Spaces",
     "link": "https://macaulay.cuny.edu/calendar-of-events/connected-protected-making-smart-choices-in-digital-spaces/",
     "college": "Macaulay Honors College",
@@ -5876,6 +5887,14 @@
     "college": "Macaulay Honors College",
     "date": "2025-10-19",
     "time": "1:30PM",
+    "tags": []
+  },
+  {
+    "title": "Alumni Mentoring Program Meet and Greet 2025",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/alumni-mentoring-program-meet-and-greet-2025/",
+    "college": "Macaulay Honors College",
+    "date": "2025-10-20",
+    "time": "6:00PM",
     "tags": []
   },
   {
@@ -5915,14 +5934,6 @@
     "link": "https://macaulay.cuny.edu/calendar-of-events/queer-career-leveraging-identity-community-for-professional-success/",
     "college": "Macaulay Honors College",
     "date": "2025-10-29",
-    "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Your Path to Excellence Starts Here: Regular Macaulay Fall 2025 Open House 6-7pm",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/fall-25-regular-open-house-for-prospective-students/",
-    "college": "Macaulay Honors College",
-    "date": "2025-10-30",
     "time": "6:00PM",
     "tags": []
   },
@@ -5983,22 +5994,6 @@
     "tags": []
   },
   {
-    "title": "Outdoor Track and Open Tennis",
-    "link": "https://www.york.cuny.edu/events/2025/outdoor-track-tennis-fall-2025",
-    "college": "York College",
-    "date": "2025-10-14",
-    "time": "6:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
-    "college": "York College",
-    "date": "2025-10-14",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Deep Dish with The Dean - 10/14/25",
     "link": "https://www.york.cuny.edu/events/deep-dish-with-the-dean",
     "college": "York College",
@@ -6012,6 +6007,14 @@
     "college": "York College",
     "date": "2025-10-15",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Painting with Purpose: Create and Connect",
+    "link": "https://www.york.cuny.edu/veterans-affairs/events/painting-with-purpose-create-and-connect",
+    "college": "York College",
+    "date": "2025-10-15",
+    "time": "3:00 PM - 8:45 PM",
     "tags": []
   },
   {
@@ -6039,19 +6042,35 @@
     "tags": []
   },
   {
+    "title": "Power Dressing Series",
+    "link": "https://www.york.cuny.edu/health/power-dressing-series",
+    "college": "York College",
+    "date": "2025-10-15",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Outdoor Track and Open Tennis",
+    "link": "https://www.york.cuny.edu/events/2025/outdoor-track-tennis-fall-2025",
+    "college": "York College",
+    "date": "2025-10-15",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Evening",
+    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
+    "college": "York College",
+    "date": "2025-10-15",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
     "title": "Weekly Yoga",
     "link": "https://www.york.cuny.edu/events/weekly-yoga",
     "college": "York College",
     "date": "2025-10-16",
     "time": "5:00 PM - 5:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Faculty & Staff Dedicated Fitness Center Hours",
-    "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-10-17",
-    "time": "8:00 PM - 10:00 PM",
     "tags": []
   },
   {
@@ -6171,44 +6190,20 @@
     ]
   },
   {
+    "title": "MRC Fashion/Talent Show",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-15-mrc-fashiontalent-show.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-15",
+    "time": "12:00 PM - 02:00 PM",
+    "description": ""
+  },
+  {
     "title": "Day of the Dead Ofrenda",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-30-day-of-the-dead-ofrenda.html",
     "college": "Queensborough Community College",
     "date": "2025-10-30",
     "time": "03:00 PM - 05:00 PM",
     "description": ""
-  },
-  {
-    "title": "Transfer Scholars Network Information Session",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-14-transfer-scholars-network-information-session.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-14",
-    "time": "01:00 PM - 02:00 PM",
-    "description": "Transfer Resource Center Event"
-  },
-  {
-    "title": "In the Heights Movie & Live Trivia",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-14-in-the-heights-movie--live-trivia.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-14",
-    "time": "02:00 PM - 04:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Unlocking Opportunities with Phi Theta Kappa: Lambda Sigma Chapter at QCC",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-14-unlocking-opportunities-with-phi-theta-kappa-lambda-sigma-chapter-at-qcc.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-14",
-    "time": "02:00 PM - 03:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "Campus Tour",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-14-campus-tour.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-14",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "Admissions Event"
   },
   {
     "title": "OAS & CCSD Bake Sale",
@@ -6235,14 +6230,6 @@
     "description": "Club Event"
   },
   {
-    "title": "Fall Nature Walk",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-15-fall-nature-walk.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-15",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
     "title": "LGBTQIA+ History Jeopardy",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-15-lgbtqia+-history-jepoardy.html",
     "college": "Queensborough Community College",
@@ -6257,14 +6244,6 @@
     "date": "2025-10-15",
     "time": "12:00 PM - 01:00 PM",
     "description": "ASAP Career Event"
-  },
-  {
-    "title": "MRC Fashion/Talent Show",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-15-mrc-fashiontalent-show.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-15",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Male Resource Center Event"
   },
   {
     "title": "Juego Fest - Hispanic Gaming Fiesta",
@@ -6331,12 +6310,52 @@
     "description": "Admissions Event"
   },
   {
+    "title": "Diwali Celebration",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-15-diwali-celebration.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-15",
+    "time": "05:00 PM - 07:00 PM",
+    "description": "Club Event"
+  },
+  {
     "title": "Irreflexiones",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-15-irreflexiones.html",
     "college": "Queensborough Community College",
     "date": "2025-10-15",
     "time": "05:00 PM - 07:00 PM",
     "description": "Exhibit"
+  },
+  {
+    "title": "La Tensión Necesaria (The Necessary Tension)",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-15-La-Tensi%C3%B3n-Necesaria-The-Necessary-Tension.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-15",
+    "time": "05:00 PM - 07:00 PM",
+    "description": "Exhibit"
+  },
+  {
+    "title": "The Student Networking Blueprint: Tools to Build Meaningful Connections",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-16-the-student-networking-blueprint-tools-to-build-meaningful-connections.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-16",
+    "time": "12:00 PM - 01:00 PM",
+    "description": "ASAP Career Event"
+  },
+  {
+    "title": "Health Check!",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-16-health-check.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-16",
+    "time": "12:00 PM - 01:30 PM",
+    "description": "Club Event"
+  },
+  {
+    "title": "Cybersecurity Summit 2025",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-16-cybersecurity-summit-2025.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-16",
+    "time": "03:00 PM - 07:00 PM",
+    "description": "Conference and Workshop"
   },
   {
     "title": "Reading to Respond",
