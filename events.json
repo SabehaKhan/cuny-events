@@ -2082,32 +2082,6 @@
     ]
   },
   {
-    "title": "Breast Cancer Awareness Walk",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376609",
-    "college": "Guttman Community College",
-    "date": "2025-10-19",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "OSL",
-      "Fundraiser",
-      "Student Life",
-      "Womens History Month",
-      "SGA"
-    ]
-  },
-  {
-    "title": "Disability Pride Parade Lets meet at Baruch College",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376396",
-    "college": "Guttman Community College",
-    "date": "2025-10-19",
-    "time": "02:00 PM - 07:00 PM",
-    "tags": [
-      "EMSA",
-      "Educational/Awareness",
-      "AccessABILITY Services"
-    ]
-  },
-  {
     "title": "Access Your Value - CUNY Leads",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376620",
     "college": "Guttman Community College",
@@ -3287,20 +3261,6 @@
     ]
   },
   {
-    "title": "Jane Young Fall 2025 Film Series: Greed, a Film Retrospective",
-    "link": "https://www.bmcc.cuny.edu/event/jane-young-fall-2025-film-series-greed-a-film-retrospective/2025-10-19/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-19",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "Diplomatic Engagement and Training",
-      "English",
-      "Featured",
-      "Media Arts and Technology",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Mind Your Anxiety Workshop",
     "link": "https://www.bmcc.cuny.edu/event/mind-your-anxiety-workshop/",
     "college": "Borough of Manhattan Community College",
@@ -3652,6 +3612,18 @@
     ]
   },
   {
+    "title": "From Applicant to Employee: How to Succeed in Your Next Interview",
+    "link": "https://www.bmcc.cuny.edu/event/from-applicant-to-employee-how-to-succeed-in-your-next-interview-8/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-4/",
     "college": "Bronx Community College",
@@ -3662,6 +3634,17 @@
       "Feature",
       "Office of the Registrar",
       "Virtual Event"
+    ]
+  },
+  {
+    "title": "Financial Aid Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/financial-aid-virtual-counter/2025-10-20/",
+    "college": "Bronx Community College",
+    "date": "2025-10-20",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature"
     ]
   },
   {
@@ -3803,27 +3786,6 @@
     "college": "Bronx Community College",
     "date": "2025-10-30",
     "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "International Student's Workshop",
-    "link": "https://www.bcc.cuny.edu/event/international-students-workshop/",
-    "college": "Bronx Community College",
-    "date": "2025-10-30",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "International Student Services",
-      "Office of the Registrar"
-    ]
-  },
-  {
-    "title": "Fun with Filters Workshop",
-    "link": "https://www.bcc.cuny.edu/event/fun-with-filters-workshop/2025-10-30/",
-    "college": "Bronx Community College",
-    "date": "2025-10-30",
-    "time": "03:00 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -4746,16 +4708,6 @@
     ]
   },
   {
-    "title": "Street dance workshop: Open Level Popping",
-    "link": "https://events.cuny.edu/cec/street-dance-workshop-open-level-popping/",
-    "college": "The University",
-    "date": "2025-10-19",
-    "time": "2:00 PM",
-    "tags": [
-      "CUNY Dance Initiative"
-    ]
-  },
-  {
     "title": "Lightning Sessions",
     "link": "https://events.cuny.edu/cec/lightning-sessions-3/",
     "college": "College of Staten Island",
@@ -4820,28 +4772,14 @@
     "tags": []
   },
   {
-    "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh56",
-    "college": "Queens College",
-    "date": "2025-10-19",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Hack Knight Hackathon",
-    "link": "https://qc.event.cuny.edu/events/SLVVsoDRcXA9sMCXhOs8/TgriK0tewCVQbKO52UTf3",
-    "college": "Queens College",
-    "date": "2025-10-19",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Hack Knight Hackathon",
-    "link": "https://qc.event.cuny.edu/events/KNitKwsPxGDdBGrwsaZG/uxocJusKM69oENxkdXe23",
-    "college": "Queens College",
-    "date": "2025-10-19",
-    "time": "9:00AM",
-    "tags": []
+    "title": "Staten Island’s Elliottville: Abolitionist Enclave, Gilded Age Retreat, Ferry Suburb",
+    "link": "https://events.cuny.edu/cec/staten-islands-elliottville-abolitionist-enclave-gilded-age-retreat-ferry-suburb/",
+    "college": "College of Staten Island",
+    "date": "2025-10-21",
+    "time": "2:30 PM - 3:30 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
   },
   {
     "title": "FA25 Hold off room",
@@ -4940,6 +4878,30 @@
     "tags": []
   },
   {
+    "title": "TIME 2000 Seminar",
+    "link": "https://qc.event.cuny.edu/events/loWBoFCzcyh9KEt6jcMV/mK7fzTeVYtdW1A9btn1x",
+    "college": "Queens College",
+    "date": "2025-10-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "FDNY",
+    "link": "https://qc.event.cuny.edu/events/I2ZDGOEYwrGfcqF2XrN4/ndaJcOFzdU52yk4Pj3r12",
+    "college": "Queens College",
+    "date": "2025-10-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Recitations",
+    "link": "https://qc.event.cuny.edu/events/lX3RWoN5F2UBxTxZyDFW/JE9KkAQkSPPzMaa0eg0I12",
+    "college": "Queens College",
+    "date": "2025-10-21",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
     "title": "Queer Poetry Open Mic and Workshop",
     "link": "https://baruch.event.cuny.edu/events/klAydxyhIc245VzxRv0q/CBbxJ4QVTjhuH6c7SbkB",
     "college": "Baruch College",
@@ -4996,11 +4958,19 @@
     "tags": []
   },
   {
-    "title": "Plan Week",
-    "link": "https://citytech.event.cuny.edu/events/yoHNxfnnXLGHCcg9yjdI/V82CvYkJs00n72DNRJL9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-19",
-    "time": "",
+    "title": "Introduction to S&P Capital IQ for Equities @ Subotnick Financial Services Center",
+    "link": "https://baruch.event.cuny.edu/events/VJRAQ4M9BT4eczpjmCp4/COoBU6pJMe6l3GhhSdUi",
+    "college": "Baruch College",
+    "date": "2025-10-27",
+    "time": "12:45PM",
+    "tags": []
+  },
+  {
+    "title": "The End of the Age of NGOs?",
+    "link": "https://baruch.event.cuny.edu/events/V9ftK8xXHR624aPxMDf9/QMDgGkxhrQbE9peqhTyL",
+    "college": "Baruch College",
+    "date": "2025-10-27",
+    "time": "1:00PM",
     "tags": []
   },
   {
@@ -5121,6 +5091,22 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-10-21",
     "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Tottenville High School Visit to City Tech",
+    "link": "https://citytech.event.cuny.edu/events/NgeMhdRr8UWYnlilUIAL/sLlXhSTZ1xQv0rvFiojF",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-21",
+    "time": "1:30PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/iyKGQLcvSuVcXc0Ci5zo/tsup4HqRxPwozFVKNnzY6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-21",
+    "time": "2:00PM",
     "tags": []
   },
   {
@@ -5708,14 +5694,6 @@
     "tags": []
   },
   {
-    "title": "Breast Cancer Walk 2025",
-    "link": "https://www.york.cuny.edu/womens-center/breast-cancer-walk-2025",
-    "college": "York College",
-    "date": "2025-10-19",
-    "time": "12:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
     "title": "A Treat for Transfer Week",
     "link": "https://www.york.cuny.edu/events/a-treat-for-transfer-week",
     "college": "York College",
@@ -5801,6 +5779,14 @@
     "college": "York College",
     "date": "2025-10-21",
     "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Fall Wellness Workshop: Creative Expression and Veteran Voices",
+    "link": "https://www.york.cuny.edu/veterans-affairs/events/fall-wellness-workshop-creative-expression-and-veteran-voices",
+    "college": "York College",
+    "date": "2025-10-22",
+    "time": "3:00 PM - 8:45 PM",
     "tags": []
   },
   {
