@@ -1773,6 +1773,17 @@
     ]
   },
   {
+    "title": "Job Fair Prep Carnival",
+    "link": "https://www.laguardia.edu/event/job-fair-prep-carnival/2025-10-22/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-22",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Mindfulness Meditation Wednesdays (In-Person)",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-10-22/",
     "college": "LaGuardia Community College",
@@ -2007,6 +2018,17 @@
     ]
   },
   {
+    "title": "Job Fair Prep Carnival",
+    "link": "https://www.laguardia.edu/event/job-fair-prep-carnival/2025-10-24/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-24",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "My Body, My Voice Day of Performance and Activism",
     "link": "https://www.laguardia.edu/event/my-body-my-voice-day-of-performance-and-activism/",
     "college": "LaGuardia Community College",
@@ -2037,28 +2059,6 @@
     "tags": [
       "all calendars",
       "community & business events",
-      "student events"
-    ]
-  },
-  {
-    "title": "Pumpkin & Ofrenda Crafts Workshop",
-    "link": "https://www.laguardia.edu/event/pumpkin-ofrenda-crafts-workshop/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-27",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "LHI - Your Voice, Global Impact: Student Advocacy for Humanitarian Assistance",
-    "link": "https://www.laguardia.edu/event/lhi-your-voice-global-impact-student-advocacy-for-humanitarian-assistance/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-28",
-    "time": "11:00 AM - 12:30 PM",
-    "tags": [
-      "all calendars",
       "student events"
     ]
   },
@@ -3252,6 +3252,16 @@
     "tags": []
   },
   {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-98-2/2025-10-22/1/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-22",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
     "title": "Admissions Information Session (In-Person)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-51/2025-10-22/",
     "college": "Borough of Manhattan Community College",
@@ -3421,19 +3431,15 @@
     ]
   },
   {
-    "title": "Caribbean Queen Screening",
-    "link": "https://www.bmcc.cuny.edu/event/caribbean-queen-screening/",
+    "title": "Healing Through Hip Hop and Creative Expression",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression/2025-10-23/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-10-23",
-    "time": "02:00 PM - 04:00 PM",
+    "time": "03:00 PM - 05:00 PM",
     "tags": [
-      "Center for Belonging and Inclusion",
-      "Co-Curricular Transcript",
-      "CUNY in The Heights",
+      "Counseling Center",
       "Featured",
-      "LGBTQ Pride Month",
-      "Pride Center",
-      "Student Affairs"
+      "Urban Male Leadership Academy"
     ]
   },
   {
@@ -3532,6 +3538,73 @@
     "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Admissions"
+    ]
+  },
+  {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga/2025-10-28/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "From Applicant to Employee: How to Succeed in Your Next Interview",
+    "link": "https://www.bmcc.cuny.edu/event/from-applicant-to-employee-how-to-succeed-in-your-next-interview-8/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Pride Month Closing Lunch: Spaces of Resistance",
+    "link": "https://www.bmcc.cuny.edu/event/pride-month-closing-lunch-spaces-of-resistance/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Hunter College Transfer Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/hunter-college-transfer-information-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Academic Advisement & Transfer"
+    ]
+  },
+  {
+    "title": "Heightened Scrutiny Screening and Discussion: Creating Media and Grassroots Activism for Trans Rights",
+    "link": "https://www.bmcc.cuny.edu/event/heightened-scrutiny-screening-and-discussion-creating-media-and-grassroots-activism-for-trans-rights/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "06:00 PM - 09:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "Gender and Women's Studies",
+      "LGBTQ Pride Month",
+      "Pride Center",
+      "Tribeca Performing Arts Center"
+    ]
+  },
+  {
+    "title": "Modern Languages Department Student Symposium",
+    "link": "https://www.bmcc.cuny.edu/event/vi-student-symposium-of-modern-languages/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "10:00 AM - 06:00 PM",
+    "tags": [
+      "Modern Languages"
     ]
   },
   {
@@ -5727,7 +5800,7 @@
     "link": "https://www.york.cuny.edu/events/2025/womens-soccer-vs-john-jay-10222025",
     "college": "York College",
     "date": "2025-10-22",
-    "time": "7:00 PM - 9:00 PM",
+    "time": "7:30 PM - 9:30 PM",
     "tags": []
   },
   {
