@@ -152,6 +152,14 @@
     "tags": []
   },
   {
+    "title": "Planetarium Show: Music of the Spheres",
+    "link": "https://www.ccny.cuny.edu/calendar/planetarium-show-music-spheres",
+    "college": "City College of New York",
+    "date": "2025-10-29",
+    "time": "03:30 PM - 04:30 PM",
+    "tags": []
+  },
+  {
     "title": "Architecture Graduate Programs Info Session",
     "link": "https://www.ccny.cuny.edu/calendar/architecture-graduate-programs-info-session-4",
     "college": "City College of New York",
@@ -253,6 +261,14 @@
     "college": "City College of New York",
     "date": "2025-11-05",
     "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Planetarium Show: Eyes in the Sky",
+    "link": "https://www.ccny.cuny.edu/calendar/planetarium-show-eyes-sky-0",
+    "college": "City College of New York",
+    "date": "2025-11-05",
+    "time": "03:00 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -429,6 +445,14 @@
     "college": "City College of New York",
     "date": "2025-11-12",
     "time": "04:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Planetarium Show: Letters from Luna",
+    "link": "https://www.ccny.cuny.edu/calendar/planetarium-show-letters-luna-0",
+    "college": "City College of New York",
+    "date": "2025-11-12",
+    "time": "04:00 PM - 05:00 PM",
     "tags": []
   },
   {
@@ -805,6 +829,14 @@
     "college": "City College of New York",
     "date": "2025-12-11",
     "time": "07:00 PM - 08:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Sustainability Student Research Symposium",
+    "link": "https://www.ccny.cuny.edu/calendar/sustainability-student-research-symposium",
+    "college": "City College of New York",
+    "date": "2025-12-12",
+    "time": "09:00 AM - 06:00 PM",
     "tags": []
   },
   {
@@ -1657,28 +1689,6 @@
   },
   {
     "title": "The Pagan Lopez Law Immigration Awareness & Support Tour",
-    "link": "https://www.laguardia.edu/event/the-pagan-lopez-law-immigration-awareness-support-tour/2025-10-23/1/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-23",
-    "time": "11:30 AM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-10-23/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-23",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "The Pagan Lopez Law Immigration Awareness & Support Tour",
     "link": "https://www.laguardia.edu/event/the-pagan-lopez-law-immigration-awareness-support-tour/2025-10-23/2/",
     "college": "LaGuardia Community College",
     "date": "2025-10-23",
@@ -1936,6 +1946,28 @@
     "college": "LaGuardia Community College",
     "date": "2025-10-29",
     "time": "02:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Weekly Support Circle",
+    "link": "https://www.laguardia.edu/event/weekly-support-circle/2025-10-29/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-29",
+    "time": "03:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-10-29/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-29",
+    "time": "08:00 PM - 08:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2800,26 +2832,6 @@
     ]
   },
   {
-    "title": "Learn about the Office of Prestigious Scholarships",
-    "link": "https://www.hunter.cuny.edu/event/learn-about-the-office-of-prestigious-scholarships/",
-    "college": "Hunter College",
-    "date": "2025-10-23",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Discover our Pre-Law Program",
-    "link": "https://www.hunter.cuny.edu/event/discover-our-pre-law-program/",
-    "college": "Hunter College",
-    "date": "2025-10-23",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "LUNCH, LEARN, & LEGACY: Ensuring Hunter’s Future Through Planned Giving",
     "link": "https://www.hunter.cuny.edu/event/lunch-learn-legacy-ensuring-hunters-future-through-planned-giving/",
     "college": "Hunter College",
@@ -3071,24 +3083,22 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-98-2/2025-10-23/1/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-23",
-    "time": "10:00 AM - 11:00 AM",
+    "title": "Arts Outing: \"Bat Boy\" at City Center",
+    "link": "https://www.hunter.cuny.edu/event/arts-outing-bat-boy-at-city-center/",
+    "college": "Hunter College",
+    "date": "2025-10-28",
+    "time": "07:00 PM - 09:00 PM",
     "tags": [
-      "Admissions"
+      "Performing Arts & Film"
     ]
   },
   {
-    "title": "Aim High - Transferring to a Selective College or University",
-    "link": "https://www.bmcc.cuny.edu/event/aim-high-transferring-to-a-selective-college-or-university-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-23",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer"
-    ]
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-3/",
+    "college": "Hunter College",
+    "date": "2025-10-29",
+    "time": "12:30 PM - 03:30 PM",
+    "tags": []
   },
   {
     "title": "Career Day 3: Employer Panel- Careers Across Industries",
@@ -3165,6 +3175,16 @@
       "Counseling Center",
       "Featured",
       "Urban Male Leadership Academy"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-98-2/2025-10-23/2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-23",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions"
     ]
   },
   {
@@ -3409,6 +3429,17 @@
       "Featured",
       "Speech",
       "Communications and Theatre Arts"
+    ]
+  },
+  {
+    "title": "Library Event: Horror and Halloween Treats, Bookmark Decorating and More",
+    "link": "https://www.bmcc.cuny.edu/event/library-event-horror-and-halloween-treats-bookmark-decorating-and-more/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Library"
     ]
   },
   {
@@ -3866,6 +3897,18 @@
     ]
   },
   {
+    "title": "Creating a Novel Pro-drug to Selectively Eliminate Glioblastoma (Brain Cancer) without Causing Autoimmunity (259077-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11819261",
+    "college": "College of Staten Island",
+    "date": "2025-10-28",
+    "time": "06:30 PM - 08:00 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "CC CLUE"
+    ]
+  },
+  {
     "title": "Pumpkin Carving",
     "link": "https://csi.campuslabs.com/engage/event/11565530",
     "college": "College of Staten Island",
@@ -3944,7 +3987,7 @@
     ]
   },
   {
-    "title": "Bystander CPR & AED Training",
+    "title": "Bystander CPR & AED Training (259059-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11803318",
     "college": "College of Staten Island",
     "date": "2025-10-29",
@@ -4055,6 +4098,17 @@
     ]
   },
   {
+    "title": "Community Forum: The Hunger-Free Campus Act (259058-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11819316",
+    "college": "College of Staten Island",
+    "date": "2025-10-31",
+    "time": "01:30 PM - 04:00 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "PG CLUE"
+    ]
+  },
+  {
     "title": "Fiscal and Financial Affairs Commission (Student Government)",
     "link": "https://csi.campuslabs.com/engage/event/11503580",
     "college": "College of Staten Island",
@@ -4070,7 +4124,7 @@
     ]
   },
   {
-    "title": "Narcan Training & Overdose Awareness",
+    "title": "Narcan Training & Overdose Awareness (259060-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11806298",
     "college": "College of Staten Island",
     "date": "2025-11-03",
@@ -4119,7 +4173,7 @@
     ]
   },
   {
-    "title": "The OMNI Ensemble with Professor David Wechsler",
+    "title": "The OMNI Ensemble with Professor David Wechsler (259056-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11791634",
     "college": "College of Staten Island",
     "date": "2025-11-04",
@@ -4131,6 +4185,19 @@
       "Entertainment",
       "Willowbrook Campus",
       "Cultural"
+    ]
+  },
+  {
+    "title": "Geologic tour of CSI campus (259074-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11818086",
+    "college": "College of Staten Island",
+    "date": "2025-11-04",
+    "time": "07:45 PM - 09:00 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "CC CLUE",
+      "Social"
     ]
   },
   {
@@ -4168,7 +4235,7 @@
     ]
   },
   {
-    "title": "STOP THE BLEED - Get trained to save a life.",
+    "title": "STOP THE BLEED - Get trained to save a life. (259061-PG)",
     "link": "https://csi.campuslabs.com/engage/event/11803544",
     "college": "College of Staten Island",
     "date": "2025-11-05",
@@ -4235,6 +4302,18 @@
       "CommunityService",
       "Volunteer",
       "Group Business"
+    ]
+  },
+  {
+    "title": "Geology Lecture Series: Coexisting Silicic and Mafic Melts from Marginal Fusion of Lockatong Argilite Xenolith (259075-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11818139",
+    "college": "College of Staten Island",
+    "date": "2025-11-11",
+    "time": "07:30 PM - 08:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "CC CLUE"
     ]
   },
   {
@@ -4454,6 +4533,18 @@
     "tags": [
       "Social",
       "Willowbrook Campus"
+    ]
+  },
+  {
+    "title": "The Photographic Portrait - A Conversation (259076-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/11818473",
+    "college": "College of Staten Island",
+    "date": "2025-11-20",
+    "time": "07:30 PM - 09:00 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "CC CLUE"
     ]
   },
   {
@@ -5265,38 +5356,6 @@
     "tags": []
   },
   {
-    "title": "Writing & Developing Claim-Based Arguments",
-    "link": "https://www.jjay.cuny.edu/news-events/events/writing-developing-claim-based-arguments",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-23",
-    "time": "04:15 PM",
-    "tags": []
-  },
-  {
-    "title": "Campus Tour",
-    "link": "https://www.jjay.cuny.edu/news-events/events/campus-tour-5",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-23",
-    "time": "05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "7th Feria Internacional del Libro de la Ciudad de Nueva York",
-    "link": "https://www.jjay.cuny.edu/news-events/events/7th-feria-internacional-del-libro-de-la-ciudad-de-nueva-york-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-23",
-    "time": "05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Financing Study Abroad",
-    "link": "https://www.jjay.cuny.edu/news-events/events/financing-study-abroad-1",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-23",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
     "title": "Critical Steps in the Research Paper Process",
     "link": "https://www.jjay.cuny.edu/news-events/events/critical-steps-research-paper-process-1",
     "college": "John Jay College of Criminal Justice",
@@ -5457,6 +5516,38 @@
     "tags": []
   },
   {
+    "title": "Study Abroad in Austria: Summer '26",
+    "link": "https://www.jjay.cuny.edu/news-events/events/study-abroad-austria-summer-26",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-06",
+    "time": "06:40 PM",
+    "tags": []
+  },
+  {
+    "title": "Book Talk: A Promising Past",
+    "link": "https://www.jjay.cuny.edu/news-events/events/book-talk-promising-past",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-06",
+    "time": "06:40 PM",
+    "tags": []
+  },
+  {
+    "title": "Leaders of Justice: The Honorable Raymond P. Fernandez '08",
+    "link": "https://www.jjay.cuny.edu/news-events/events/leaders-justice-honorable-raymond-p-fernandez-08",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-06",
+    "time": "06:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Book Talk: A Protest History of the United States",
+    "link": "https://www.jjay.cuny.edu/news-events/events/book-talk-protest-history-united-states",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-06",
+    "time": "09:30 PM",
+    "tags": []
+  },
+  {
     "title": "Alumni Law Fall Networking Event",
     "link": "https://macaulay.cuny.edu/calendar-of-events/alumni-law-happy-hour/",
     "college": "Macaulay Honors College",
@@ -5561,14 +5652,6 @@
     "tags": []
   },
   {
-    "title": "Weekly Yoga",
-    "link": "https://www.york.cuny.edu/events/weekly-yoga",
-    "college": "York College",
-    "date": "2025-10-23",
-    "time": "5:00 PM - 5:45 PM",
-    "tags": []
-  },
-  {
     "title": "Women’s Tennis vs. Kean University",
     "link": "https://www.york.cuny.edu/events/2025/womens-tennis-vs-kean-10232025",
     "college": "York College",
@@ -5646,6 +5729,14 @@
     "college": "York College",
     "date": "2025-10-29",
     "time": "9:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Weekly Yoga",
+    "link": "https://www.york.cuny.edu/events/weekly-yoga",
+    "college": "York College",
+    "date": "2025-10-30",
+    "time": "5:00 PM - 5:45 PM",
     "tags": []
   },
   {
@@ -5782,14 +5873,6 @@
     "date": "2025-10-30",
     "time": "03:00 PM - 05:00 PM",
     "description": ""
-  },
-  {
-    "title": "Queer Through The Lens",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-23-queer-through-the-lens.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-23",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Special Event / Fair"
   },
   {
     "title": "Understanding The CUNY Transfer Equivalency Tool - Transfer Explorer (T-REX)",
@@ -5942,6 +6025,14 @@
     "date": "2025-10-29",
     "time": "04:00 PM - 05:00 PM",
     "description": "Admissions Event"
+  },
+  {
+    "title": "Interpersonal Communication: Building Strong Connections with Others for College and Career Success",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-30-interpersonal-communication-building-strong-connections-with-others-for-college-and-career-success.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-30",
+    "time": "01:00 PM - 02:15 PM",
+    "description": "ASAP Career Event"
   },
   {
     "title": "Feel the Fear and Present Anyway",
