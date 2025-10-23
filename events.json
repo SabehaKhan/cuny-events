@@ -2281,6 +2281,20 @@
     ]
   },
   {
+    "title": "BOWLING NIGHT - CLUB FUNDRAISING FOR GAMING GRIZZLIES",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376760",
+    "college": "Guttman Community College",
+    "date": "2025-11-06",
+    "time": "10:30 PM - 12:30 AM",
+    "tags": [
+      "OSL",
+      "Fundraiser",
+      "Trip - Day",
+      "Off-Campus",
+      "Student Life"
+    ]
+  },
+  {
     "title": "The HUB Virtual Hours",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376699",
     "college": "Guttman Community College",
@@ -2411,6 +2425,18 @@
     ]
   },
   {
+    "title": "CUNY Wide Career Resource Expo",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376762",
+    "college": "Guttman Community College",
+    "date": "2025-11-14",
+    "time": "04:00 PM - 08:00 PM",
+    "tags": [
+      "EMSA",
+      "Job/Volunteer Opportunities",
+      "AccessABILITY Services"
+    ]
+  },
+  {
     "title": "Gaming Grizzlies Weekly Watch Party",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376712",
     "college": "Guttman Community College",
@@ -2470,6 +2496,17 @@
       "Support Session",
       "Discussion",
       "Information Session"
+    ]
+  },
+  {
+    "title": "Abilities Club and Connect Center Give Back Event",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376763",
+    "college": "Guttman Community College",
+    "date": "2025-11-19",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "EMSA",
+      "Community Service"
     ]
   },
   {
@@ -3900,7 +3937,7 @@
     "link": "https://csi.campuslabs.com/engage/event/11507173",
     "college": "College of Staten Island",
     "date": "2025-10-29",
-    "time": "05:00 PM - 06:00 PM",
+    "time": "05:00 PM - 07:00 PM",
     "tags": [
       "Social",
       "Willowbrook Campus"
@@ -4892,6 +4929,14 @@
     "tags": []
   },
   {
+    "title": "Drill & Chill: Jaws Club Pumpkin Paint Party",
+    "link": "https://citytech.event.cuny.edu/events/gWWkjJiccjyAx84N1LrE/gSzf4mOwpj549JmBRgGf",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-23",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
     "title": "MSCHE Student Townhall",
     "link": "https://citytech.event.cuny.edu/events/MaPFWheMscPPo8zKG9k9/H2uLwPUiyb4Tu5U2w9r0",
     "college": "New York City College of Technology (City Tech)",
@@ -4918,14 +4963,6 @@
   {
     "title": "Women in Islam",
     "link": "https://citytech.event.cuny.edu/events/OgeCeWTOYFf76yNhbmey/s737aVY5RxhlPRbsldbl1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-23",
-    "time": "12:45PM",
-    "tags": []
-  },
-  {
-    "title": "Game Club",
-    "link": "https://citytech.event.cuny.edu/events/FUUmvmcomEVHWNnWTSOX/zGmpIYui2sagmjxV96I12",
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-10-23",
     "time": "12:45PM",
@@ -5500,30 +5537,6 @@
     "tags": []
   },
   {
-    "title": "Open Gymnasium + Indoor Track",
-    "link": "https://www.york.cuny.edu/events/2025/open-gymnasium-indoor-track-fall-2025",
-    "college": "York College",
-    "date": "2025-10-23",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-10-23",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2025/open-swimming-fall-2025",
-    "college": "York College",
-    "date": "2025-10-23",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "WAC Workshop",
     "link": "https://www.york.cuny.edu/events/2025/wac-workshop",
     "college": "York College",
@@ -5556,27 +5569,11 @@
     "tags": []
   },
   {
-    "title": "Outdoor Track and Open Tennis",
-    "link": "https://www.york.cuny.edu/events/2025/outdoor-track-tennis-fall-2025",
-    "college": "York College",
-    "date": "2025-10-23",
-    "time": "6:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
     "title": "Women’s Tennis vs. Kean University",
     "link": "https://www.york.cuny.edu/events/2025/womens-tennis-vs-kean-10232025",
     "college": "York College",
     "date": "2025-10-23",
     "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2025/fitness-center-fall-2025-evening",
-    "college": "York College",
-    "date": "2025-10-23",
-    "time": "8:00 PM - 10:00 PM",
     "tags": []
   },
   {
@@ -5604,19 +5601,51 @@
     "tags": []
   },
   {
-    "title": "Faculty and Staff Dedicated Fitness Center Hours",
-    "link": "https://www.york.cuny.edu/events/2025/faculty-staff-fitness-center-fall-2025",
-    "college": "York College",
-    "date": "2025-10-24",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "2025 Homecoming Week: Founders Day Comedy Show/ After Party",
     "link": "https://www.york.cuny.edu/events/2025-homecoming-week-founders-day-comedy-show-after-party",
     "college": "York College",
     "date": "2025-10-24",
     "time": "9:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Steeping Memory: Opening Reception",
+    "link": "https://www.york.cuny.edu/events/steeping-memory-a-collective-gathering",
+    "college": "York College",
+    "date": "2025-10-24",
+    "time": "9:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "State of the College",
+    "link": "https://www.york.cuny.edu/events/2025/state-of-the-college-1",
+    "college": "York College",
+    "date": "2025-10-28",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "STI Awareness Workshop",
+    "link": "https://www.york.cuny.edu/health/sti-awareness-workshop-1",
+    "college": "York College",
+    "date": "2025-10-29",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Wellness Wednesday October 29",
+    "link": "https://www.york.cuny.edu/events/wellness-wednesday-october-29",
+    "college": "York College",
+    "date": "2025-10-29",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "One York Brotherhood - Self-Management",
+    "link": "https://www.york.cuny.edu/events/one-york-brotherhood-self-management",
+    "college": "York College",
+    "date": "2025-10-29",
+    "time": "9:00 PM - 10:00 PM",
     "tags": []
   },
   {
