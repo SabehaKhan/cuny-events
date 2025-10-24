@@ -1574,6 +1574,38 @@
     "tags": []
   },
   {
+    "title": "Brooklyn College Info Session",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/7a33cdec-9feb-4b09-82f0-1450244c48ac",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-11",
+    "time": "03:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Brooklyn College Info Session",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/f1dd0af0-c253-4961-aa20-c5730325239a",
+    "college": "Kingsborough Community College",
+    "date": "2025-12-12",
+    "time": "05:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Brooklyn College On Spot Decision Day",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/eb116270-c2a1-4a26-9a9a-8f897578ba12",
+    "college": "Kingsborough Community College",
+    "date": "2025-11-12",
+    "time": "04:00 PM - 08:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Brooklyn College On Spot Decision Day",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/db2ee428-2e7f-4572-abaf-7f04b217c6ec",
+    "college": "Kingsborough Community College",
+    "date": "2025-12-04",
+    "time": "04:00 PM - 08:00 PM",
+    "tags": []
+  },
+  {
     "title": "2-day Mental Health First Aid Training (MHFA)",
     "link": "https://www.laguardia.edu/event/2-day-mental-health-first-aid-training-mhfa/2025-10-24/",
     "college": "LaGuardia Community College",
@@ -2999,6 +3031,14 @@
     ]
   },
   {
+    "title": "HEO Forum Meet and Greet",
+    "link": "https://www.hunter.cuny.edu/event/heo-forum-meet-and-greet/",
+    "college": "Hunter College",
+    "date": "2025-10-30",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": []
+  },
+  {
     "title": "Degree Requirements",
     "link": "https://www.hunter.cuny.edu/event/degree-requirements-3/",
     "college": "Hunter College",
@@ -3027,16 +3067,6 @@
     "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Lectures",
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Fifth Planet & Other Plays",
-    "link": "https://www.hunter.cuny.edu/event/5th-planet-other-plays/2025-10-30/",
-    "college": "Hunter College",
-    "date": "2025-10-30",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
       "Performing Arts & Film"
     ]
   },
@@ -4863,14 +4893,6 @@
     "tags": []
   },
   {
-    "title": "NYC Deaf and Hard of Hearing Association",
-    "link": "https://citytech.event.cuny.edu/events/E4xxjqUZbz46fLNCHbUu/YigxNXusz64FdjFGzQOF",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-25",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
     "title": "Transfer Services Tabling",
     "link": "https://hostos.event.cuny.edu/events/IoTIIxF68QuGwle44OD5/SYX16SLSxkhP19u8JB6e",
     "college": "Hostos Community College",
@@ -5415,14 +5437,6 @@
     "tags": []
   },
   {
-    "title": "2025 Homecoming Week: Founders Day Comedy Show/ After Party",
-    "link": "https://www.york.cuny.edu/events/2025-homecoming-week-founders-day-comedy-show-after-party",
-    "college": "York College",
-    "date": "2025-10-24",
-    "time": "9:00 PM - 12:00 AM",
-    "tags": []
-  },
-  {
     "title": "Steeping Memory: Opening Reception",
     "link": "https://www.york.cuny.edu/events/steeping-memory-a-collective-gathering",
     "college": "York College",
@@ -5431,7 +5445,7 @@
     "tags": []
   },
   {
-    "title": "Homecoming Comedy Night",
+    "title": "2025 Homecoming Week: Comedy Night",
     "link": "https://www.york.cuny.edu/events/homecoming-comedy-night",
     "college": "York College",
     "date": "2025-10-24",
@@ -5479,19 +5493,19 @@
     "tags": []
   },
   {
-    "title": "Halloween Party",
-    "link": "https://www.york.cuny.edu/events/2025/halloween-party",
-    "college": "York College",
-    "date": "2025-10-30",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
     "title": "Real Sex Talk",
     "link": "https://www.york.cuny.edu/events/real-sex-talk",
     "college": "York College",
     "date": "2025-10-30",
     "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Reflections on My Sabbatical in China: Insights and Research Experiences",
+    "link": "https://www.york.cuny.edu/events/reflections-on-my-sabbatical-in-china-insights-and-research-experiences",
+    "college": "York College",
+    "date": "2025-10-30",
+    "time": "4:00 PM - 5:00 PM",
     "tags": []
   },
   {
@@ -5511,12 +5525,139 @@
     "tags": []
   },
   {
+    "title": "Halloween Party",
+    "link": "https://www.york.cuny.edu/events/2025/halloween-party",
+    "college": "York College",
+    "date": "2025-10-30",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
     "title": "Game Fest and Karaoke",
     "link": "https://www.york.cuny.edu/events/game-fest-karaoke",
     "college": "York College",
     "date": "2025-11-04",
     "time": "5:00 PM - 7:00 PM",
     "tags": []
+  },
+  {
+    "title": "SLHS OPEN HOUSE - MEET FACULTY MEMBERS",
+    "link": "https://www.gc.cuny.edu/events/slhs-open-house-meet-faculty-members",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-24",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Speech-Language-Hearing Sciences",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "JOBS SEARCHES OUTSIDE ACADEMIA",
+    "link": "https://www.gc.cuny.edu/events/jobs-searches-outside-academia",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-24",
+    "time": "2:00 pm",
+    "location": "4406.11: English Thesis Room",
+    "tags": [
+      "English",
+      "Friday Forum"
+    ]
+  },
+  {
+    "title": "GETTING TO THE BOTTOM OF CAMP: ON THE QUEER METHODS OF ASIAN AMERICAN AESTHETIC INQUIRY",
+    "link": "https://www.gc.cuny.edu/events/getting-bottom-camp-queer-methods-asian-american-aesthetic-inquiry",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-24",
+    "time": "4:00 pm",
+    "location": "4406: English Student Lounge",
+    "tags": [
+      "English",
+      "Friday Forum",
+      "LGBTQ +"
+    ]
+  },
+  {
+    "title": "ANTHROPOLOGY AND THE INTERWAR REINVENTION OF COLONIALISM",
+    "link": "https://www.gc.cuny.edu/events/anthropology-and-interwar-reinvention-colonialism",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-24",
+    "time": "4:15 pm — 6:15 pm",
+    "location": "8301",
+    "tags": [
+      "Anthropology",
+      "Humanities and Social Sciences"
+    ]
+  },
+  {
+    "title": "M.A. IN MIDDLE EASTERN STUDIES VIRTUAL OPEN HOUSE/INFORMATION SESSION",
+    "link": "https://www.gc.cuny.edu/events/ma-middle-eastern-studies-virtual-open-houseinformation-session-oct-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-24",
+    "time": "6:30 pm — 7:30 pm",
+    "location": "Online",
+    "tags": [
+      "Middle Eastern Studies",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "CRIMINALIZATION OF SOLIDARITY: A RESPONSE TO THE SO-CALLED EUROPEAN MIGRATION CRISIS",
+    "link": "https://www.gc.cuny.edu/events/criminalization-solidarity-response-so-called-european-migration-crisis",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-27",
+    "time": "6:00 pm — 8:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Center for Place, Culture and Politics"
+    ]
+  },
+  {
+    "title": "ALIVE IN THE SOUND: BLACK MUSIC AS COUNTERHISTORY",
+    "link": "https://www.gc.cuny.edu/events/alive-sound-black-music-counterhistory",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-27",
+    "time": "6:30 pm",
+    "location": "Online",
+    "tags": [
+      "Intellectual Publics"
+    ]
+  },
+  {
+    "title": "LIFELONG PEER LEARNING PROGRAM (LP2) ART SHOW",
+    "link": "https://www.gc.cuny.edu/events/lifelong-peer-learning-program-lp2-art-show",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-28",
+    "time": "",
+    "location": "Multiple Locations (see description for details)",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation",
+      "Lifelong Peer Learning Program"
+    ]
+  },
+  {
+    "title": "NAVIGATING GRADUATE SCHOOL FOR STUDENTS WITH DISABILITIES",
+    "link": "https://www.gc.cuny.edu/events/navigating-graduate-school-students-disabilities-oct-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-28",
+    "time": "2:00 pm",
+    "location": "Online",
+    "tags": [
+      "Wellness Center",
+      "Student Counseling Services",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "COPLAND HOUSE ENSEMBLE: COPLAND AT 125",
+    "link": "https://www.gc.cuny.edu/events/copland-house-ensemble-copland-125",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-28",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
   },
   {
     "title": "Counted Out Film Screening and Discussion",
