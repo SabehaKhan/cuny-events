@@ -2797,16 +2797,6 @@
     ]
   },
   {
-    "title": "Fine and Performing Arts Open House",
-    "link": "https://www.hunter.cuny.edu/event/fine-and-performing-arts-open-house/",
-    "college": "Hunter College",
-    "date": "2025-10-25",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
     "title": "Zionism and Anti-Zionism Since October 7: The Thunderstorm in the Cloud",
     "link": "https://www.hunter.cuny.edu/event/zionism-and-anti-zionism-since-october-7-the-thunderstorm-in-the-cloud/",
     "college": "Hunter College",
@@ -3066,6 +3056,16 @@
     "college": "Hunter College",
     "date": "2025-11-02",
     "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "Fifth Planet & Other Plays",
+    "link": "https://www.hunter.cuny.edu/event/5th-planet-other-plays/2025-11-02/2/",
+    "college": "Hunter College",
+    "date": "2025-11-02",
+    "time": "07:00 PM - 09:00 PM",
     "tags": [
       "Performing Arts & Film"
     ]
@@ -4478,6 +4478,39 @@
     ]
   },
   {
+    "title": "CAB Film Showings: F1 The Movie",
+    "link": "https://csi.campuslabs.com/engage/event/11680037",
+    "college": "College of Staten Island",
+    "date": "2025-11-24",
+    "time": "02:15 PM - 07:15 PM",
+    "tags": [
+      "Arts",
+      "Film and Television"
+    ]
+  },
+  {
+    "title": "CAB Film Showings: Sing Sing",
+    "link": "https://csi.campuslabs.com/engage/event/11680039",
+    "college": "College of Staten Island",
+    "date": "2025-11-24",
+    "time": "02:15 PM - 07:15 PM",
+    "tags": [
+      "Arts",
+      "Film and Television"
+    ]
+  },
+  {
+    "title": "CAB Film Showings: The Iron Giant",
+    "link": "https://csi.campuslabs.com/engage/event/11680063",
+    "college": "College of Staten Island",
+    "date": "2025-11-24",
+    "time": "02:15 PM - 07:15 PM",
+    "tags": [
+      "Arts",
+      "Film and Television"
+    ]
+  },
+  {
     "title": "Fine and Performing Arts Open House",
     "link": "https://events.cuny.edu/cec/fine-and-performing-arts-open-house/",
     "college": "Hunter College",
@@ -5394,6 +5427,14 @@
     "tags": []
   },
   {
+    "title": "Women’s Volleyball vs. John Jay College",
+    "link": "https://www.york.cuny.edu/events/2025/womens-volleyball-vs-john-jay-10282025",
+    "college": "York College",
+    "date": "2025-10-28",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
     "title": "STI Awareness Workshop",
     "link": "https://www.york.cuny.edu/health/sti-awareness-workshop-1",
     "college": "York College",
@@ -5622,14 +5663,6 @@
     "description": ""
   },
   {
-    "title": "Saturday at QCC!",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-25-saturday-at-qcc.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-25",
-    "time": "10:00 AM - 01:00 PM",
-    "description": "Admissions Event"
-  },
-  {
     "title": "Do’s and Don’ts of Using A.I.",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-27-dos-and-donts-of-using-a.i..html",
     "college": "Queensborough Community College",
@@ -5780,6 +5813,14 @@
     "date": "2025-10-30",
     "time": "01:00 PM - 02:15 PM",
     "description": "ASAP Career Event"
+  },
+  {
+    "title": "Creating Your Spring ‘26 Schedule",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-30-creating-your-spring-26-schedule.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-30",
+    "time": "02:00 PM - 04:00 PM",
+    "description": "R.I.S.E. program event"
   },
   {
     "title": "Feel the Fear and Present Anyway",
