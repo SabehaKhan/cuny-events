@@ -104,14 +104,6 @@
     "tags": []
   },
   {
-    "title": "Planetarium Show: Music of the Spheres",
-    "link": "https://www.ccny.cuny.edu/calendar/planetarium-show-music-spheres",
-    "college": "City College of New York",
-    "date": "2025-10-29",
-    "time": "03:30 PM - 04:30 PM",
-    "tags": []
-  },
-  {
     "title": "Architecture Graduate Programs Info Session",
     "link": "https://www.ccny.cuny.edu/calendar/architecture-graduate-programs-info-session-4",
     "college": "City College of New York",
@@ -1588,6 +1580,14 @@
     "tags": []
   },
   {
+    "title": "Free Blood Pressure Screening",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/b6b01fb8-630a-4e85-9d4d-a69437df5322",
+    "college": "Kingsborough Community College",
+    "date": "2025-10-28",
+    "time": "06:00 PM - 07:30 PM",
+    "tags": []
+  },
+  {
     "title": "Job & Internship Fair Resume Reviews",
     "link": "https://www.laguardia.edu/event/job-internship-fair-resume-reviews/",
     "college": "LaGuardia Community College",
@@ -2998,6 +2998,16 @@
     ]
   },
   {
+    "title": "Financial Aid Advising Session",
+    "link": "https://www.hunter.cuny.edu/event/financial-aid-drop-in-session-2/",
+    "college": "Hunter College",
+    "date": "2025-10-31",
+    "time": "10:00 AM - 12:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Screening of Black Cat Mansion (1958) Japanese",
     "link": "https://www.hunter.cuny.edu/event/screening-of-black-cat-mansion-1958-japanese/",
     "college": "Hunter College",
@@ -3018,23 +3028,360 @@
     ]
   },
   {
-    "title": "Fifth Planet & Other Plays",
-    "link": "https://www.hunter.cuny.edu/event/5th-planet-other-plays/2025-11-02/1/",
-    "college": "Hunter College",
-    "date": "2025-11-02",
-    "time": "02:00 PM - 04:00 PM",
+    "title": "Vote Early Day",
+    "link": "https://www.bmcc.cuny.edu/event/vote-early-day/2025-10-27/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-27",
+    "time": "08:00 AM - 05:00 PM",
     "tags": [
-      "Performing Arts & Film"
+      "Civic Engagement",
+      "Featured",
+      "Office of Student Activities (OSA)",
+      "Student Affairs"
     ]
   },
   {
-    "title": "Fifth Planet & Other Plays",
-    "link": "https://www.hunter.cuny.edu/event/5th-planet-other-plays/2025-11-02/2/",
-    "college": "Hunter College",
-    "date": "2025-11-02",
-    "time": "07:00 PM - 09:00 PM",
+    "title": "BMCC Library AI Workshop Series",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-library-ai-workshop-series/2025-10-27/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-27",
+    "time": "12:00 PM - 01:00 PM",
     "tags": [
-      "Performing Arts & Film"
+      "Featured",
+      "Library"
+    ]
+  },
+  {
+    "title": "Pride Month: Self-Defense Workshop II with Fearless Queers",
+    "link": "https://www.bmcc.cuny.edu/event/pride-month-self-defense-workshop-i-with-fearless-queers-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-27",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "LGBTQ Pride Month",
+      "Pride Center"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-260/2025-10-27/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-27",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga/2025-10-28/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "From Applicant to Employee: How to Succeed in Your Next Interview",
+    "link": "https://www.bmcc.cuny.edu/event/from-applicant-to-employee-how-to-succeed-in-your-next-interview-8/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Pride Month Closing Lunch: Spaces of Resistance",
+    "link": "https://www.bmcc.cuny.edu/event/pride-month-closing-lunch-spaces-of-resistance/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Hunter College Transfer Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/hunter-college-transfer-information-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Academic Advisement & Transfer"
+    ]
+  },
+  {
+    "title": "Healing Through Hip Hop and Creative Expression",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression/2025-10-28/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Urban Male Leadership Academy"
+    ]
+  },
+  {
+    "title": "Heightened Scrutiny Screening and Discussion: Creating Media and Grassroots Activism for Trans Rights",
+    "link": "https://www.bmcc.cuny.edu/event/heightened-scrutiny-screening-and-discussion-creating-media-and-grassroots-activism-for-trans-rights/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "06:00 PM - 09:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "Gender and Women's Studies",
+      "LGBTQ Pride Month",
+      "Pride Center",
+      "Tribeca Performing Arts Center"
+    ]
+  },
+  {
+    "title": "Modern Languages Department Student Symposium",
+    "link": "https://www.bmcc.cuny.edu/event/vi-student-symposium-of-modern-languages/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "10:00 AM - 06:00 PM",
+    "tags": [
+      "Featured",
+      "Modern Languages"
+    ]
+  },
+  {
+    "title": "Hispanic Heritage Month: Geographies of Diversity in Literature and Other Art",
+    "link": "https://www.bmcc.cuny.edu/event/hispanic-heritage-month-geographies-of-diversity-in-literature-and-other-art/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "10:00 AM - 06:00 PM",
+    "tags": [
+      "Featured",
+      "Hispanic Heritage Month"
+    ]
+  },
+  {
+    "title": "Sign Up for SafeZone 101 Training",
+    "link": "https://www.bmcc.cuny.edu/event/sign-up-for-safezone-101-training/2025-10-29/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Co-Curricular Transcript",
+      "Featured",
+      "LGBTQ Pride Month",
+      "Pride Center",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC’s Campus",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-98-2/2025-10-29/1/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (In-Person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-51/2025-10-29/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Academic Notice Back to Success Power Hour: Utilizing BMCC Resources",
+    "link": "https://www.bmcc.cuny.edu/event/academic-notice-back-tosuccess-power-hour-utilizing-bmcc-resources/2025-10-29/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Healing Rhythms: Drumming Circle",
+    "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle-6/2025-10-29/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured"
+    ]
+  },
+  {
+    "title": "SUNY Downstate Health Sciences University Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/suny-downstate-health-sciences-university-information-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Academic Advisement & Transfer",
+      "Allied Health Sciences",
+      "Featured",
+      "Science"
+    ]
+  },
+  {
+    "title": "Volunteer Fair",
+    "link": "https://www.bmcc.cuny.edu/event/volunteer-fair-9/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Civic Engagement",
+      "Featured",
+      "Office of Student Activities (OSA)",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Get Ready for the Fall 2025 5K Fun Run/Walk",
+    "link": "https://www.bmcc.cuny.edu/event/get-ready-for-the-fall-2025-5k-fun-run-walk/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Health Education",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "BMCC Storytelling Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-storytelling-workshop/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Speech",
+      "Communications and Theatre Arts"
+    ]
+  },
+  {
+    "title": "Library Event: Horror and Halloween Treats, Bookmark Decorating and More",
+    "link": "https://www.bmcc.cuny.edu/event/library-event-horror-and-halloween-treats-bookmark-decorating-and-more/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Library"
+    ]
+  },
+  {
+    "title": "Library Event: Take a Break with Zines!",
+    "link": "https://www.bmcc.cuny.edu/event/library-event-take-a-break-with-zines/2025-10-29/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Library"
+    ]
+  },
+  {
+    "title": "BMCC Foundation Inc.  Scholarship Workshops:",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-foundation-inc-scholarship-workshops-3/2025-10-29/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "02:30 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Scholarships"
+    ]
+  },
+  {
+    "title": "Italian Heritage Month 2025",
+    "link": "https://www.bmcc.cuny.edu/event/italian-heritage-month-2025/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-30",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "Featured",
+      "Italian Heritage Month",
+      "Modern Languages"
+    ]
+  },
+  {
+    "title": "How to Apply to BMCC & Live Help Hour Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-5/2025-10-30/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-30",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Free HIV/STi Testing for BMCC Students",
+    "link": "https://www.bmcc.cuny.edu/event/free-hiv-sti-testing-for-bmcc-students-9/2025-10-30/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-30",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "The Moth Story Lab All CUNY Workshop Series",
+    "link": "https://www.bmcc.cuny.edu/event/the-moth-story-lab-all-cuny-workshop-series/2025-10-30/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-30",
+    "time": "05:30 PM - 07:30 PM",
+    "tags": [
+      "Communication Studies",
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured",
+      "Speech",
+      "Communications and Theatre Arts"
+    ]
+  },
+  {
+    "title": "Pride Month: Volleyball and Pickleball",
+    "link": "https://www.bmcc.cuny.edu/event/pride-month-volleyball-and-pickleball/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-31",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "LGBTQ Pride Month",
+      "Pride Center"
+    ]
+  },
+  {
+    "title": "AI Innovation Summit",
+    "link": "https://www.bmcc.cuny.edu/event/ai-innovation-summit/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-01",
+    "time": "09:00 AM - 10:00 PM",
+    "tags": [
+      "Computer Information Systems",
+      "CUNY in The Heights",
+      "Featured",
+      "GIS",
+      "Math",
+      "Media Arts and Technology",
+      "Science"
     ]
   },
   {
@@ -4253,38 +4600,6 @@
     ]
   },
   {
-    "title": "Vote Early Day",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005489",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-27",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BMCC Library AI Workshop Series",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10006196",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-27",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Pride Month: Self-Defense Workshop II with Fearless Queers",
-    "link": "https://www.bmcc.cuny.edu/event/?p=660838",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-27",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10006161",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-27",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "CSI Fall Blood Drive",
     "link": "https://events.cuny.edu/cec/csi-fall-blood-drive/",
     "college": "College of Staten Island",
@@ -4292,6 +4607,16 @@
     "time": "11:30 AM - 5:30 PM",
     "tags": [
       "Health and Wellness Services"
+    ]
+  },
+  {
+    "title": "Gaymers Against Violence: Monthly Workshop Series",
+    "link": "https://events.cuny.edu/cec/gaymers-against-violence-monthly-workshop-series-11/",
+    "college": "The City College of New York",
+    "date": "2025-10-28",
+    "time": "12:00 PM - 2:00 PM",
+    "tags": [
+      "LGBTQI+"
     ]
   },
   {
@@ -5164,6 +5489,118 @@
     "college": "Macaulay Honors College",
     "date": "2025-11-20",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "State of the College",
+    "link": "https://www.york.cuny.edu/events/2025/state-of-the-college-1",
+    "college": "York College",
+    "date": "2025-10-28",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Volleyball vs. John Jay College",
+    "link": "https://www.york.cuny.edu/events/2025/womens-volleyball-vs-john-jay-10282025",
+    "college": "York College",
+    "date": "2025-10-28",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "STI Awareness Workshop",
+    "link": "https://www.york.cuny.edu/health/sti-awareness-workshop-1",
+    "college": "York College",
+    "date": "2025-10-29",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Wellness Wednesday October 29",
+    "link": "https://www.york.cuny.edu/events/wellness-wednesday-october-29",
+    "college": "York College",
+    "date": "2025-10-29",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "One York Brotherhood - Self-Management",
+    "link": "https://www.york.cuny.edu/events/one-york-brotherhood-self-management",
+    "college": "York College",
+    "date": "2025-10-29",
+    "time": "9:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2025 Graduate Virtual Open House",
+    "link": "https://www.york.cuny.edu/events/fall-2025-graduate-virtual-open-house",
+    "college": "York College",
+    "date": "2025-10-29",
+    "time": "10:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Real Sex Talk",
+    "link": "https://www.york.cuny.edu/events/real-sex-talk",
+    "college": "York College",
+    "date": "2025-10-30",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Reflections on My Sabbatical in China: Insights and Research Experiences",
+    "link": "https://www.york.cuny.edu/events/reflections-on-my-sabbatical-in-china-insights-and-research-experiences",
+    "college": "York College",
+    "date": "2025-10-30",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Spooktacular MakerSpace",
+    "link": "https://www.york.cuny.edu/events/spooktacular-makerspace",
+    "college": "York College",
+    "date": "2025-10-30",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Weekly Yoga",
+    "link": "https://www.york.cuny.edu/events/weekly-yoga",
+    "college": "York College",
+    "date": "2025-10-30",
+    "time": "5:00 PM - 5:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Halloween Party",
+    "link": "https://www.york.cuny.edu/events/2025/halloween-party",
+    "college": "York College",
+    "date": "2025-10-30",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Soccer vs. Saint Elizabeth University",
+    "link": "https://www.york.cuny.edu/events/2025/womens-soccer-vs-saint-elizabeth-11012025",
+    "college": "York College",
+    "date": "2025-11-01",
+    "time": "2:45 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Game Fest and Karaoke",
+    "link": "https://www.york.cuny.edu/events/game-fest-karaoke",
+    "college": "York College",
+    "date": "2025-11-04",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Safe Zone Training - Nov 4",
+    "link": "https://www.york.cuny.edu/womens-center/safe-zone-training-1",
+    "college": "York College",
+    "date": "2025-11-04",
+    "time": "9:00 PM - 11:00 PM",
     "tags": []
   },
   {
