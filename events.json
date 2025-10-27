@@ -1,31 +1,7 @@
 [
   {
-    "title": "YASS! Mondays",
-    "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-12",
-    "college": "City College of New York",
-    "date": "2025-10-27",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Untitled Event",
-    "link": "https://www.ccny.cuny.edu/calendar/salzberg-chemistry-seminar-adam-braunschweig-small-molecule-broad-spectrum-antiviral",
-    "college": "City College of New York",
-    "date": "2025-10-27",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "Gaymers Against Violence: Monthly Workshop Series",
     "link": "https://www.ccny.cuny.edu/calendar/gaymers-against-violence-monthly-workshop-series-9",
-    "college": "City College of New York",
-    "date": "2025-10-28",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fred Hersch Jazz Master Class",
-    "link": "https://www.ccny.cuny.edu/calendar/fred-hersch-jazz-master-class",
     "college": "City College of New York",
     "date": "2025-10-28",
     "time": "12:00 PM - 02:00 PM",
@@ -544,6 +520,14 @@
     "tags": []
   },
   {
+    "title": "Fred Hersch Jazz Master Class",
+    "link": "https://www.ccny.cuny.edu/calendar/fred-hersch-jazz-master-class",
+    "college": "City College of New York",
+    "date": "2025-11-25",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "College Life Workshops: Career Planning",
     "link": "https://www.ccny.cuny.edu/calendar/college-life-workshops-career-planning-0",
     "college": "City College of New York",
@@ -961,8 +945,6 @@
     "time": "05:00 PM - 07:00 PM",
     "tags": [
       "Alumni",
-      "Lecture",
-      "Networking Event",
       "Panel Discussion",
       "Partner Event",
       "Special Event",
@@ -977,6 +959,16 @@
     "time": "06:30 PM - 08:30 PM",
     "tags": [
       "Special Event"
+    ]
+  },
+  {
+    "title": "Image and Video Creation Using AI",
+    "link": "https://www.journalism.cuny.edu/events/image-and-video-creation-using-ai/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-11-05",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Center for Community Media"
     ]
   },
   {
@@ -1596,51 +1588,6 @@
     "tags": []
   },
   {
-    "title": "Job & Internship Fair Resume Reviews",
-    "link": "https://www.laguardia.edu/event/job-internship-fair-resume-reviews/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-27",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Stories Will Not Mend This Broken World (Open Rehearsals)",
-    "link": "https://www.laguardia.edu/event/stories-will-not-mend-this-broken-world-open-rehearsals/2025-10-27/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-27",
-    "time": "12:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "student events"
-    ]
-  },
-  {
-    "title": "Your Resume Glow-Up: Get Ready to Impress at the Job Fair",
-    "link": "https://www.laguardia.edu/event/your-resume-glow-up-get-ready-to-impress-at-the-job-fair/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-27",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Pumpkin & Ofrenda Crafts Workshop",
-    "link": "https://www.laguardia.edu/event/pumpkin-ofrenda-crafts-workshop/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-27",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "LHI - Your Voice, Global Impact: Student Advocacy for Humanitarian Assistance",
     "link": "https://www.laguardia.edu/event/lhi-your-voice-global-impact-student-advocacy-for-humanitarian-assistance/",
     "college": "LaGuardia Community College",
@@ -1804,6 +1751,17 @@
     ]
   },
   {
+    "title": "Amherst College Virtual Transfer Information Session",
+    "link": "https://www.laguardia.edu/event/amherst-college-virtual-transfer-information-session/",
+    "college": "LaGuardia Community College",
+    "date": "2025-10-29",
+    "time": "08:00 PM - 09:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Mindfulness Meditation Thursdays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-10-30/",
     "college": "LaGuardia Community College",
@@ -1903,6 +1861,39 @@
       "all calendars",
       "community & business events",
       "student events"
+    ]
+  },
+  {
+    "title": "7th Annual Hunger Banquet",
+    "link": "https://www.laguardia.edu/event/7th-annual-hunger-banquet/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-05",
+    "time": "11:45 AM - 01:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-11-05/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-05",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-82/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-05",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
     ]
   },
   {
@@ -2016,7 +2007,7 @@
     "tags": [
       "LGBT",
       "Social",
-      "LGBTQ+",
+      "Conference",
       "Student Life",
       "Food - Light Refreshments "
     ]
@@ -2773,45 +2764,6 @@
     ]
   },
   {
-    "title": "Human Monoclonal Antibodies Prevent Death Caused by MPox",
-    "link": "https://www.hunter.cuny.edu/event/human-monoclonal-antibodies-prevent-death-caused-by-mpox/",
-    "college": "Hunter College",
-    "date": "2025-10-27",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "How to Register at Hunter (Virtual)",
-    "link": "https://www.hunter.cuny.edu/event/how-to-register-at-hunter-virtual/",
-    "college": "Hunter College",
-    "date": "2025-10-27",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-4/",
-    "college": "Hunter College",
-    "date": "2025-10-27",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Degree Requirements",
-    "link": "https://www.hunter.cuny.edu/event/degree-requirements-2/",
-    "college": "Hunter College",
-    "date": "2025-10-27",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Advising",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Chamber Music Masterclass",
     "link": "https://www.hunter.cuny.edu/event/chamber-music-masterclass-6/",
     "college": "Hunter College",
@@ -3007,29 +2959,43 @@
     ]
   },
   {
-    "title": "Vote Early Day",
-    "link": "https://www.bmcc.cuny.edu/event/vote-early-day/2025-10-27/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-27",
-    "time": "08:00 AM - 05:00 PM",
+    "title": "Screening of Black Cat Mansion (1958) Japanese",
+    "link": "https://www.hunter.cuny.edu/event/screening-of-black-cat-mansion-1958-japanese/",
+    "college": "Hunter College",
+    "date": "2025-10-31",
+    "time": "02:30 PM - 04:00 PM",
     "tags": [
-      "Civic Engagement",
-      "Featured",
-      "Office of Student Activities (OSA)",
-      "Student Affairs"
+      "Special Events"
     ]
   },
   {
-    "title": "Pride Month: Self-Defense Workshop II with Fearless Queers",
-    "link": "https://www.bmcc.cuny.edu/event/pride-month-self-defense-workshop-i-with-fearless-queers-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-27",
+    "title": "Fifth Planet & Other Plays",
+    "link": "https://www.hunter.cuny.edu/event/5th-planet-other-plays/2025-10-31/",
+    "college": "Hunter College",
+    "date": "2025-10-31",
+    "time": "07:00 PM - 09:00 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "Fifth Planet & Other Plays",
+    "link": "https://www.hunter.cuny.edu/event/5th-planet-other-plays/2025-11-01/1/",
+    "college": "Hunter College",
+    "date": "2025-11-01",
     "time": "02:00 PM - 04:00 PM",
     "tags": [
-      "Center for Belonging and Inclusion",
-      "Featured",
-      "LGBTQ Pride Month",
-      "Pride Center"
+      "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "Fifth Planet & Other Plays",
+    "link": "https://www.hunter.cuny.edu/event/5th-planet-other-plays/2025-11-01/2/",
+    "college": "Hunter College",
+    "date": "2025-11-01",
+    "time": "07:00 PM - 09:00 PM",
+    "tags": [
+      "Performing Arts & Film"
     ]
   },
   {
@@ -3040,6 +3006,19 @@
     "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Admissions"
+    ]
+  },
+  {
+    "title": "Vote Early Day",
+    "link": "https://www.bmcc.cuny.edu/event/vote-early-day/2025-10-28/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Civic Engagement",
+      "Featured",
+      "Office of Student Activities (OSA)",
+      "Student Affairs"
     ]
   },
   {
@@ -3131,6 +3110,17 @@
     "tags": [
       "Featured",
       "Hispanic Heritage Month"
+    ]
+  },
+  {
+    "title": "Horror and Halloween Treats, Bookmark Decorating and More",
+    "link": "https://www.bmcc.cuny.edu/event/library-event-horror-and-halloween-treats-bookmark-decorating-and-more/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-29",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "Library"
     ]
   },
   {
@@ -3242,18 +3232,7 @@
     ]
   },
   {
-    "title": "Library Event: Horror and Halloween Treats, Bookmark Decorating and More",
-    "link": "https://www.bmcc.cuny.edu/event/library-event-horror-and-halloween-treats-bookmark-decorating-and-more/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-29",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "Library"
-    ]
-  },
-  {
-    "title": "Library Event: Take a Break with Zines!",
+    "title": "Take a Break with Zines!",
     "link": "https://www.bmcc.cuny.edu/event/library-event-take-a-break-with-zines/2025-10-29/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-10-29",
@@ -3367,6 +3346,17 @@
     ]
   },
   {
+    "title": "BMCC Library AI Workshop Series",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-library-ai-workshop-series/2025-11-03/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-03",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Featured",
+      "Library"
+    ]
+  },
+  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2025-10-27/",
     "college": "Bronx Community College",
@@ -3378,14 +3368,6 @@
       "Office of the Registrar",
       "Virtual Event"
     ]
-  },
-  {
-    "title": "BCC Senate Executive",
-    "link": "https://www.bcc.cuny.edu/event/bcc-senate-executive/2025-10-27/",
-    "college": "Bronx Community College",
-    "date": "2025-10-27",
-    "time": "02:15 PM - 03:30 PM",
-    "tags": []
   },
   {
     "title": "Financial Aid Virtual Counter",
@@ -3828,6 +3810,16 @@
   {
     "title": "Banisher Play Session",
     "link": "https://csi.campuslabs.com/engage/event/11816692",
+    "college": "College of Staten Island",
+    "date": "2025-10-30",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Social"
+    ]
+  },
+  {
+    "title": "Cauldron of Clubs (Club Fair) 2025",
+    "link": "https://csi.campuslabs.com/engage/event/11829942",
     "college": "College of Staten Island",
     "date": "2025-10-30",
     "time": "06:30 PM - 08:30 PM",
@@ -4512,6 +4504,18 @@
     ]
   },
   {
+    "title": "NSA Pajamas for Pals - Pajama Drive",
+    "link": "https://csi.campuslabs.com/engage/event/11829821",
+    "college": "College of Staten Island",
+    "date": "2025-11-01",
+    "time": "01:00 PM - 10:00 PM",
+    "tags": [
+      "Fundraising",
+      "Volunteer",
+      "Fundraiser"
+    ]
+  },
+  {
     "title": "CAB Film Showings: F1 The Movie",
     "link": "https://csi.campuslabs.com/engage/event/11680037",
     "college": "College of Staten Island",
@@ -4593,11 +4597,11 @@
     ]
   },
   {
-    "title": "BMCC Library AI Workshop Series",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10006196",
+    "title": "Pride Month: Self-Defense Workshop II with Fearless Queers",
+    "link": "https://www.bmcc.cuny.edu/event/?p=660838",
     "college": "Borough of Manhattan Community College",
     "date": "2025-10-27",
-    "time": "12:00 PM - 01:00 PM",
+    "time": "02:00 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -4618,6 +4622,29 @@
     "time": "12:00 PM - 2:00 PM",
     "tags": [
       "LGBTQI+"
+    ]
+  },
+  {
+    "title": "Albert Einstein: Refugee, Activist and Humanitarian (In Person & Online)",
+    "link": "https://events.cuny.edu/cec/khc-event-10-28-25/",
+    "college": "Queensborough Community College",
+    "date": "2025-10-28",
+    "time": "12:30 PM",
+    "tags": [
+      "Emigration",
+      "Holocaust",
+      "Holocaust Memory",
+      "Human Rights Issues",
+      "KHC",
+      "KHC-NEH Colloquium",
+      "Kupferberg Holocaust Center",
+      "Nazi era",
+      "QCC",
+      "Queensborough",
+      "Refugee",
+      "Resistance",
+      "WWII",
+      "World War II"
     ]
   },
   {
@@ -4733,6 +4760,22 @@
     "tags": []
   },
   {
+    "title": "Hillel tabling",
+    "link": "https://baruch.event.cuny.edu/events/cEIxPTFUZ7KLHhf2c99h/2DjqVBYwQjUxcx1c0YZd",
+    "college": "Baruch College",
+    "date": "2025-10-27",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "20 Minute Mondays",
+    "link": "https://baruch.event.cuny.edu/events/qewUrD39bg0W592NUanY/dWALCoWjCp5zrnaVVxoZ",
+    "college": "Baruch College",
+    "date": "2025-10-27",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
     "title": "Introduction to S&P Capital IQ for Equities @ Subotnick Financial Services Center",
     "link": "https://baruch.event.cuny.edu/events/VJRAQ4M9BT4eczpjmCp4/COoBU6pJMe6l3GhhSdUi",
     "college": "Baruch College",
@@ -4749,6 +4792,38 @@
     "tags": []
   },
   {
+    "title": "Jewish learning fellowship",
+    "link": "https://baruch.event.cuny.edu/events/ahSvzAgp1CqeLlwAmPm1/q2WQ6EtbsVBtnJuTp2CR",
+    "college": "Baruch College",
+    "date": "2025-10-27",
+    "time": "5:30PM",
+    "tags": []
+  },
+  {
+    "title": "Feminism in Judasim",
+    "link": "https://baruch.event.cuny.edu/events/UnyDEXlvfkcEVaErBPE3/aE4smygcmg397XdhevPw",
+    "college": "Baruch College",
+    "date": "2025-10-28",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Professional Event #1 - Tailoring Your Resume",
+    "link": "https://baruch.event.cuny.edu/events/Y4ek46eNMNheOJ35NAbZ/LVsfseKTSHRc8BYNTc4I",
+    "college": "Baruch College",
+    "date": "2025-10-28",
+    "time": "12:40PM",
+    "tags": []
+  },
+  {
+    "title": "Hebrew Class",
+    "link": "https://baruch.event.cuny.edu/events/urZBABfMIO4jMViIw6lJ/tXnu3Kgnyvfl9wM2wSey",
+    "college": "Baruch College",
+    "date": "2025-10-28",
+    "time": "5:30PM",
+    "tags": []
+  },
+  {
     "title": "Big Law's Response to the Trump Executive Orders",
     "link": "https://baruch.event.cuny.edu/events/xJVIIt3ESj5ADHCSvok3/Ad7qNIPoKhSH5ofnFyYV",
     "college": "Baruch College",
@@ -4759,6 +4834,14 @@
   {
     "title": "Creating a Better Future Together - Ackerman Lecture on Equality and Justice with Mustafa Santiago Ali",
     "link": "https://baruch.event.cuny.edu/events/kmgj99mpYDa88AA9A73I/Qmniid4MfGN1fcQscNJh",
+    "college": "Baruch College",
+    "date": "2025-10-29",
+    "time": "5:30PM",
+    "tags": []
+  },
+  {
+    "title": "Israel learning fellowship",
+    "link": "https://baruch.event.cuny.edu/events/u4ALtFnPlAcnhYQWmurQ/Wz4hdg79kGzMTgxGdvz7",
     "college": "Baruch College",
     "date": "2025-10-29",
     "time": "5:30PM",
@@ -4786,6 +4869,22 @@
     "college": "Baruch College",
     "date": "2025-10-30",
     "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Faith FULL Fellowship",
+    "link": "https://baruch.event.cuny.edu/events/vPGmLR7F7E6cfqYPQV19/YR6MIvaC12epPmQ7tWDj",
+    "college": "Baruch College",
+    "date": "2025-10-30",
+    "time": "5:30PM",
+    "tags": []
+  },
+  {
+    "title": "Haunted in the Islands",
+    "link": "https://baruch.event.cuny.edu/events/UkjvRVf0fv8ZQx4zl1U7/cD38M6ZShgMw2mXh18hc",
+    "college": "Baruch College",
+    "date": "2025-10-30",
+    "time": "6:00PM",
     "tags": []
   },
   {
@@ -5037,11 +5136,11 @@
     "tags": []
   },
   {
-    "title": "Exploration of Reproductive Health App’s Data Privacy Policies and the Risks Posed to Users: Qualitative Content Analysis",
-    "link": "https://sph.cuny.edu/event/exploration-of-reproductive-health-apps-data-privacy-policies-and-the-risks-posed-to-users-qualitative-content-analysis/",
+    "title": "Idea Generation Workshop: The People’s Money Initiative at CUNY SPH",
+    "link": "https://sph.cuny.edu/event/idea-generation-workshop-the-peoples-money-initiative-at-cuny-sph-2/",
     "college": "CUNY School of Public Health",
     "date": "2025-11-06",
-    "time": "12:00PM",
+    "time": "11:00 AM - 12:30PM",
     "tags": []
   },
   {
@@ -5050,6 +5149,14 @@
     "college": "CUNY School of Public Health",
     "date": "2025-11-10",
     "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "Idea Generation Workshop: The People’s Money Initiative at CUNY SPH",
+    "link": "https://sph.cuny.edu/event/idea-generation-workshop-the-peoples-money-initiative-at-cuny-sph-3/",
+    "college": "CUNY School of Public Health",
+    "date": "2025-11-12",
+    "time": "3:00PM",
     "tags": []
   },
   {
@@ -5202,22 +5309,6 @@
     "college": "Lehman College",
     "date": "2025-11-04",
     "time": "6:00 PM- 8:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Writing a Research Paper",
-    "link": "https://www.jjay.cuny.edu/news-events/events/writing-research-paper",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-27",
-    "time": "07:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Admissions Info Session",
-    "link": "https://www.jjay.cuny.edu/news-events/events/virtual-admissions-info-session-9",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-27",
-    "time": "08:00 PM",
     "tags": []
   },
   {
@@ -5397,6 +5488,22 @@
     "tags": []
   },
   {
+    "title": "Passport Day",
+    "link": "https://www.jjay.cuny.edu/news-events/events/passport-day",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-18",
+    "time": "06:30 PM",
+    "tags": []
+  },
+  {
+    "title": "CareerCon: Technology & Marketing",
+    "link": "https://www.jjay.cuny.edu/news-events/events/careercon-technology-marketing-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-19",
+    "time": "04:00 PM",
+    "tags": []
+  },
+  {
     "title": "Ace the Interview ft. AlphaSights",
     "link": "https://macaulay.cuny.edu/calendar-of-events/ace-the-interview-ft-alphasights/",
     "college": "Macaulay Honors College",
@@ -5474,14 +5581,6 @@
     "college": "Macaulay Honors College",
     "date": "2025-11-20",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "State of the College",
-    "link": "https://www.york.cuny.edu/events/2025/state-of-the-college-1",
-    "college": "York College",
-    "date": "2025-10-28",
-    "time": "4:00 PM - 5:00 PM",
     "tags": []
   },
   {
@@ -5586,6 +5685,14 @@
     "college": "York College",
     "date": "2025-11-04",
     "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for the term",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/r2t4-60-date-for-the-term-1",
+    "college": "York College",
+    "date": "2025-11-05",
+    "time": "5:00 AM - 4:59 AM",
     "tags": []
   },
   {
@@ -5721,22 +5828,6 @@
     "description": ""
   },
   {
-    "title": "Light Up Your Fall: Creative Mason Jar Luminaries",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-27-light-up-your-fall-creative-mason-jar-luminaries.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-27",
-    "time": "02:00 PM - 03:00 PM",
-    "description": "Conference and Workshop"
-  },
-  {
-    "title": "MRC Presents: Barbershop Day",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-27-mrc-presents-barbershop-day.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-27",
-    "time": "02:00 PM - 05:00 PM",
-    "description": "Male Resource Center Event"
-  },
-  {
     "title": "QCC Resource Fair for CLIP and CUNYStart Students",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-28-qcc-resource-fair-for-clip-and-cunystart-students.html",
     "college": "Queensborough Community College",
@@ -5798,6 +5889,14 @@
     "college": "Queensborough Community College",
     "date": "2025-10-29",
     "time": "09:00 AM - 05:00 PM",
+    "description": "Club Event"
+  },
+  {
+    "title": "Midterm MIndset: How Self-Care Can Get You Through",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-29-midterm-mindset-how-self-care-can-get-you-through.html",
+    "college": "Queensborough Community College",
+    "date": "2025-10-29",
+    "time": "12:00 PM - 01:00 PM",
     "description": "Club Event"
   },
   {
