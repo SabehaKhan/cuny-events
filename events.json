@@ -997,14 +997,6 @@
   },
   {
     "title": "Career Virtual Help",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/13d4b1bc-73e4-48b0-96ea-0ad26c2cb18e",
-    "college": "Kingsborough Community College",
-    "date": "2025-10-27",
-    "time": "08:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Career Virtual Help",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/c2f1c22c-3f85-4634-b97c-0eb1f72e575b",
     "college": "Kingsborough Community College",
     "date": "2025-11-10",
@@ -2007,7 +1999,7 @@
     "tags": [
       "LGBT",
       "Social",
-      "Conference",
+      "LGBTQ+",
       "Student Life",
       "Food - Light Refreshments "
     ]
@@ -2858,6 +2850,16 @@
     ]
   },
   {
+    "title": "Seminar: Nathan Franz (UT Austin)",
+    "link": "https://www.hunter.cuny.edu/event/seminar-nathan-franz-ut-austin/",
+    "college": "Hunter College",
+    "date": "2025-10-29",
+    "time": "01:30 PM - 03:00 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
     "title": "Dancing with the Dean",
     "link": "https://www.hunter.cuny.edu/event/dancing-with-the-dean/2025-10-29/",
     "college": "Hunter College",
@@ -2989,26 +2991,6 @@
     ]
   },
   {
-    "title": "Fifth Planet & Other Plays",
-    "link": "https://www.hunter.cuny.edu/event/5th-planet-other-plays/2025-11-01/2/",
-    "college": "Hunter College",
-    "date": "2025-11-01",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-260/2025-10-27/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-27",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
     "title": "Vote Early Day",
     "link": "https://www.bmcc.cuny.edu/event/vote-early-day/2025-10-28/",
     "college": "Borough of Manhattan Community College",
@@ -3043,6 +3025,16 @@
       "Career Workshops/Fairs",
       "Center for Career Development",
       "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-260/2025-10-28/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-28",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions"
     ]
   },
   {
@@ -3357,30 +3349,6 @@
     ]
   },
   {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2025-10-27/",
-    "college": "Bronx Community College",
-    "date": "2025-10-27",
-    "time": "02:00 PM - 07:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
-    ]
-  },
-  {
-    "title": "Financial Aid Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/financial-aid-virtual-counter/2025-10-27/",
-    "college": "Bronx Community College",
-    "date": "2025-10-27",
-    "time": "03:00 PM - 06:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature"
-    ]
-  },
-  {
     "title": "Admissions Application Workshop",
     "link": "https://www.bcc.cuny.edu/event/admissions-application-workshop/",
     "college": "Bronx Community College",
@@ -3544,13 +3512,15 @@
     ]
   },
   {
-    "title": "Late Night w/ WSIA",
-    "link": "https://csi.campuslabs.com/engage/event/11773920",
-    "college": "College of Staten Island",
-    "date": "2025-10-27",
-    "time": "10:30 PM - 12:30 AM",
+    "title": "Zoom into Majors: Nuclear Medicine",
+    "link": "https://www.bcc.cuny.edu/event/zoom-into-majors-nuclear-medicine/",
+    "college": "Bronx Community College",
+    "date": "2025-11-06",
+    "time": "04:00 PM - 05:00 PM",
     "tags": [
-      "Arts"
+      "Enrollment Management",
+      "Feature",
+      "Information Sessions"
     ]
   },
   {
@@ -3998,39 +3968,6 @@
       "ThoughtfulLearning",
       "Leadership",
       "Entertainment"
-    ]
-  },
-  {
-    "title": "CAB Film Showings: Superman (2025)",
-    "link": "https://csi.campuslabs.com/engage/event/11366298",
-    "college": "College of Staten Island",
-    "date": "2025-10-27",
-    "time": "01:15 PM - 06:45 PM",
-    "tags": [
-      "Arts",
-      "Film and Television"
-    ]
-  },
-  {
-    "title": "CAB Film Showings: Karate Kid: Legends",
-    "link": "https://csi.campuslabs.com/engage/event/11366299",
-    "college": "College of Staten Island",
-    "date": "2025-10-27",
-    "time": "01:15 PM - 06:45 PM",
-    "tags": [
-      "Arts",
-      "Film and Television"
-    ]
-  },
-  {
-    "title": "CAB Film Showings: Warfare",
-    "link": "https://csi.campuslabs.com/engage/event/11366300",
-    "college": "College of Staten Island",
-    "date": "2025-10-27",
-    "time": "01:15 PM - 06:45 PM",
-    "tags": [
-      "Arts",
-      "Film and Television"
     ]
   },
   {
@@ -4549,62 +4486,6 @@
     ]
   },
   {
-    "title": "YASS! Mondays",
-    "link": "https://events.cuny.edu/cec/yass-mondays-14/",
-    "college": "The City College of New York",
-    "date": "2025-10-27",
-    "time": "12:00 PM - 4:00 PM",
-    "tags": [
-      "LGBTQI+"
-    ]
-  },
-  {
-    "title": "Stories Will Not Mend This Broken World (Open Rehearsals)",
-    "link": "https://events.cuny.edu/cec/stories-will-not-mend-this-broken-world-open-rehearsals-2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-27",
-    "time": "12:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Salzberg Chemistry Seminar: Adam Braunschweig, “A Small Molecule Broad Spectrum Antiviral",
-    "link": "https://events.cuny.edu/cec/salzberg-chemistry-seminar-adam-braunschweig-a-small-molecule-broad-spectrum-antiviral/",
-    "college": "The City College of New York",
-    "date": "2025-10-27",
-    "time": "12:00 PM - 1:00 PM",
-    "tags": [
-      "Salzberg Chemistry Seminar"
-    ]
-  },
-  {
-    "title": "Lightning Sessions",
-    "link": "https://events.cuny.edu/cec/lightning-sessions-4/",
-    "college": "College of Staten Island",
-    "date": "2025-10-27",
-    "time": "1:00 PM - 1:15 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "Photonics Initiative Seminar: Maria Antonietta Loi",
-    "link": "https://asrc.gc.cuny.edu/event/photonics-initiative-seminar-maria-antonietta-loi/",
-    "college": "Advanced Science Research Center, GC/CUNY",
-    "date": "2025-10-27",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Photonics"
-    ]
-  },
-  {
-    "title": "Pride Month: Self-Defense Workshop II with Fearless Queers",
-    "link": "https://www.bmcc.cuny.edu/event/?p=660838",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-27",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "CSI Fall Blood Drive",
     "link": "https://events.cuny.edu/cec/csi-fall-blood-drive/",
     "college": "College of Staten Island",
@@ -4648,155 +4529,190 @@
     ]
   },
   {
+    "title": "Creating a Novel Pro-drug to Selectively Eliminate Glioblastoma (Brain Cancer) without Causing Autoimmunity",
+    "link": "https://events.cuny.edu/cec/creating-a-novel-pro-drug-to-selectively-eliminate-glioblastoma-brain-cancer-without-causing-autoimmunity/",
+    "college": "College of Staten Island",
+    "date": "2025-10-28",
+    "time": "2:30 PM - 3:30 PM",
+    "tags": [
+      "Biology",
+      "CSTEP",
+      "Chemistry",
+      "Computer Science",
+      "Division of Science and Technology",
+      "Macaulay Honors College",
+      "Nursing",
+      "Physical Therapy",
+      "Psychology",
+      "School of Health Sciences",
+      "Verrazzano School"
+    ]
+  },
+  {
+    "title": "CCNY Spitzer School of Architecture Tour",
+    "link": "https://events.cuny.edu/cec/ccny-spitzer-school-of-architecture-tour-2/",
+    "college": "The City College of New York",
+    "date": "2025-10-28",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "CCNY Spitzer School of Architecture Tour"
+    ]
+  },
+  {
+    "title": "The Bertha Harris Women’s Center Presents: Puppies and Pizza",
+    "link": "https://events.cuny.edu/cec/the-bertha-harris-womens-center-presents-puppies-and-pizza/",
+    "college": "College of Staten Island",
+    "date": "2025-10-28",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Bertha Harris Women's Center",
+      "Division of Humanities and Social Sciences",
+      "Womens Studies"
+    ]
+  },
+  {
+    "title": "Excel M365 Cloud vs Desktop?",
+    "link": "https://events.cuny.edu/cec/excel-m365-cloud-vs-desktop/",
+    "college": "College of Staten Island",
+    "date": "2025-10-28",
+    "time": "3:30 PM - 4:30 PM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "CUNY LEADS Presents: MOPD: NYC At Work",
+    "link": "https://events.cuny.edu/cec/cuny-leads-presents-mopd-nyc-at-work/",
+    "college": "College of Staten Island",
+    "date": "2025-10-28",
+    "time": "3:30 PM - 4:30 PM",
+    "tags": [
+      "Accessibility",
+      "Career Center"
+    ]
+  },
+  {
+    "title": "The Stuart Z. Katz Professorship in Humanities & the Arts – Installation & Lecture",
+    "link": "https://events.cuny.edu/cec/the-stuart-z-katz-professorship-in-humanities-the-arts-installation-lecture/",
+    "college": "The City College of New York",
+    "date": "2025-10-28",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": [
+      "The Stuart Z. Katz Professorship in Humanities & the Arts"
+    ]
+  },
+  {
+    "title": "Architecture Undergraduate Open House",
+    "link": "https://events.cuny.edu/cec/architecture-undergraduate-open-house/",
+    "college": "The City College of New York",
+    "date": "2025-10-28",
+    "time": "5:30 PM - 7:00 PM",
+    "tags": [
+      "THE BERNARD AND ANNE SPITZER SCHOOL OF ARCHITECTURE"
+    ]
+  },
+  {
     "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh64",
+    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh65",
     "college": "Queens College",
-    "date": "2025-10-27",
+    "date": "2025-10-28",
     "time": "",
     "tags": []
   },
   {
-    "title": "FDNY",
-    "link": "https://qc.event.cuny.edu/events/I2ZDGOEYwrGfcqF2XrN4/ndaJcOFzdU52yk4Pj3r16",
-    "college": "Queens College",
-    "date": "2025-10-27",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "FDNY Academy Classes",
-    "link": "https://qc.event.cuny.edu/events/SmX0OeF8OAKhIWWrS83N/rrH9sbIMarOgVxaN9049",
-    "college": "Queens College",
-    "date": "2025-10-27",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
     "title": "Townsend Harris HS",
-    "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/sKtZ0wTOoIQ8IBw8wPri17",
+    "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/PN8tuYPimqapOkembCiX17",
     "college": "Queens College",
-    "date": "2025-10-27",
-    "time": "10:30AM",
+    "date": "2025-10-28",
+    "time": "7:30AM",
     "tags": []
   },
   {
-    "title": "Career Eng & Internship Table Event",
-    "link": "https://qc.event.cuny.edu/events/JdEijmTHeLWso2wmv5gD/SZ1bnig69jM8QR1sDDSL",
+    "title": "QSI Junior/Senior Seminar",
+    "link": "https://qc.event.cuny.edu/events/Vg4Zrs5Ppe9n0F8IUiE2/DkowdWU8ldiUKcACqjdZ",
     "college": "Queens College",
-    "date": "2025-10-27",
-    "time": "11:00AM",
+    "date": "2025-10-28",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Free Weekly Yoga Class",
-    "link": "https://qc.event.cuny.edu/events/SYS2Ni5t5JQ8KWGFY35y/QQkC1B9au15m6EIxdseW",
+    "title": "QSI Math Stretched Course",
+    "link": "https://qc.event.cuny.edu/events/ZkUDk3QHKnSvkl0C8rNp/eGRzH3rWU4b71NuoXVFJ19",
     "college": "Queens College",
-    "date": "2025-10-27",
-    "time": "12:00PM",
+    "date": "2025-10-28",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "FDNY",
+    "link": "https://qc.event.cuny.edu/events/I2ZDGOEYwrGfcqF2XrN4/ndaJcOFzdU52yk4Pj3r17",
+    "college": "Queens College",
+    "date": "2025-10-28",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "FNES 101 Lab exam",
+    "link": "https://qc.event.cuny.edu/events/HQnhGdqUd8QtXx94GYeV/emntzwCgdSVpXF6ahOVc",
+    "college": "Queens College",
+    "date": "2025-10-28",
+    "time": "8:30AM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Recitations",
+    "link": "https://qc.event.cuny.edu/events/lX3RWoN5F2UBxTxZyDFW/JE9KkAQkSPPzMaa0eg0I14",
+    "college": "Queens College",
+    "date": "2025-10-28",
+    "time": "9:00AM",
     "tags": []
   },
   {
     "title": "Fall 2025- CUNY Explorers Tours",
-    "link": "https://qc.event.cuny.edu/events/bfx0Pn5kngM72WVy5tRt/JXw5qhcBhFTObjYhMs72",
+    "link": "https://qc.event.cuny.edu/events/bfx0Pn5kngM72WVy5tRt/ssChXZ9UQzeLo2fR3FzM",
     "college": "Queens College",
-    "date": "2025-10-27",
+    "date": "2025-10-28",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Colloquium",
+    "link": "https://qc.event.cuny.edu/events/pBdIpAHpuefo45Mcf5x4/MbzqNaKW67BUEh7sJOae",
+    "college": "Queens College",
+    "date": "2025-10-28",
     "time": "12:05PM",
     "tags": []
   },
   {
-    "title": "FYE Workshops",
-    "link": "https://qc.event.cuny.edu/events/Vga3CSDm9VFt8ouNhtE2/IqAn5YNrMNnX6QCbZohh",
+    "title": "Jewish Fantasy Book Club",
+    "link": "https://qc.event.cuny.edu/events/CJ1iWoSoJWv4WrcxDbJd/iJwojJBWzNYv4BhwI8UY",
     "college": "Queens College",
-    "date": "2025-10-27",
+    "date": "2025-10-28",
     "time": "12:15PM",
     "tags": []
   },
   {
-    "title": "African Student Association",
-    "link": "https://qc.event.cuny.edu/events/nukhCX3GuRjyx42wIgm5/Jp4NkRzcZuszgUHQshB8",
+    "title": "NACE Competencies Workshops #1- #6",
+    "link": "https://qc.event.cuny.edu/events/Cfce4WEc9wcTWkW8ia3d/ydxGGcLj4PliQSUX6hpC",
     "college": "Queens College",
-    "date": "2025-10-27",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Computer Science Colloquium",
-    "link": "https://qc.event.cuny.edu/events/eA7fEkl2VUZSN1DCn5Hy/X3yKRsAe3V3g45wuM9xK",
-    "college": "Queens College",
-    "date": "2025-10-27",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Workshops",
-    "link": "https://qc.event.cuny.edu/events/P9vSfSPGwd6yHGxRD8y0/ZDueb4GWCJyOm9krt5xd18",
-    "college": "Queens College",
-    "date": "2025-10-27",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Chi Alpha Fellowship Group",
-    "link": "https://qc.event.cuny.edu/events/BT2slfKXrut03fZbKTDN/ajZcvF2JiOvHv7HysvLr",
-    "college": "Queens College",
-    "date": "2025-10-27",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Math Sessions",
-    "link": "https://qc.event.cuny.edu/events/His3amnK92M9BIhxIjTv/jQTQlYGZYeN4NwGiMGJL12",
-    "college": "Queens College",
-    "date": "2025-10-27",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Learning Commons Overflow Space",
-    "link": "https://qc.event.cuny.edu/events/SRSPIM6AiVpRtDQKmp9K/pOr34AslrdD3bpYkNXVs18",
-    "college": "Queens College",
-    "date": "2025-10-27",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Hillel tabling",
-    "link": "https://baruch.event.cuny.edu/events/cEIxPTFUZ7KLHhf2c99h/2DjqVBYwQjUxcx1c0YZd",
-    "college": "Baruch College",
-    "date": "2025-10-27",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "20 Minute Mondays",
-    "link": "https://baruch.event.cuny.edu/events/qewUrD39bg0W592NUanY/dWALCoWjCp5zrnaVVxoZ",
-    "college": "Baruch College",
-    "date": "2025-10-27",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Introduction to S&P Capital IQ for Equities @ Subotnick Financial Services Center",
-    "link": "https://baruch.event.cuny.edu/events/VJRAQ4M9BT4eczpjmCp4/COoBU6pJMe6l3GhhSdUi",
-    "college": "Baruch College",
-    "date": "2025-10-27",
-    "time": "12:45PM",
-    "tags": []
-  },
-  {
-    "title": "The End of the Age of NGOs?",
-    "link": "https://baruch.event.cuny.edu/events/V9ftK8xXHR624aPxMDf9/QMDgGkxhrQbE9peqhTyL",
-    "college": "Baruch College",
-    "date": "2025-10-27",
+    "date": "2025-10-28",
     "time": "1:00PM",
     "tags": []
   },
   {
-    "title": "Jewish learning fellowship",
-    "link": "https://baruch.event.cuny.edu/events/ahSvzAgp1CqeLlwAmPm1/q2WQ6EtbsVBtnJuTp2CR",
-    "college": "Baruch College",
-    "date": "2025-10-27",
-    "time": "5:30PM",
+    "title": "Chi Alpha",
+    "link": "https://qc.event.cuny.edu/events/KhGaZhbCJwFC21FpN4tg/P1ShdjmU5TmyuYL7nwVg",
+    "college": "Queens College",
+    "date": "2025-10-28",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "FA25 Hold off room",
+    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh66",
+    "college": "Queens College",
+    "date": "2025-10-29",
+    "time": "",
     "tags": []
   },
   {
@@ -4896,59 +4812,19 @@
     "tags": []
   },
   {
-    "title": "BOE General Election",
-    "link": "https://citytech.event.cuny.edu/events/QP7Ho4fSqpXJlMYjYoWL/Eyss3jnz58pD0OJSQUlG3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-27",
-    "time": "",
+    "title": "Introduction to Bloomberg Professional for Equities @ Subotnick Financial Services Center",
+    "link": "https://baruch.event.cuny.edu/events/lPOvLNnXdYqDh3852beu/QgbLvbB31EeJQAd41sXS",
+    "college": "Baruch College",
+    "date": "2025-11-04",
+    "time": "12:45PM",
     "tags": []
   },
   {
-    "title": "ASAP/ACE Math Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/D0GiXVdptET3GZkpCc1e/bdkvOVnVIwWv7UNNbasa8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-27",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Fresh Food Bag Distribution",
-    "link": "https://citytech.event.cuny.edu/events/DBRF81bpUW1mugBjhty0/h8KsHrHdiYUZSpPxng681",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-27",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "NYPIRG Information Tabling",
-    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/fWxit6ANcLywQCMSjsGi7",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-27",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE Information Tabling",
-    "link": "https://citytech.event.cuny.edu/events/QBbmxEJuRQbhgn8IC8ml/ftceWehyQ0tNYZrlfoja4",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-27",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "Student Life & Development: Peer Navigator Tabling",
-    "link": "https://citytech.event.cuny.edu/events/l8nCPw37rX8ZCdx0iqgI/Jda1eXcUFHw8AuFlFQiZ",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-27",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "City Tech Fall 2025 General Tour (10/27/2025)",
-    "link": "https://citytech.event.cuny.edu/events/C6ZqCxWrTHc6YZKYudWZ/Xua2oMCQpAhdlCwUT7wd",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-10-27",
-    "time": "3:00PM",
+    "title": "WIB Buddies Opening Ceremony",
+    "link": "https://baruch.event.cuny.edu/events/gJJKBzsw4hYoswJJzhXL/zq2mRqqhSFySexaFetv9",
+    "college": "Baruch College",
+    "date": "2025-11-04",
+    "time": "6:00PM",
     "tags": []
   },
   {
@@ -5056,6 +4932,62 @@
     "tags": []
   },
   {
+    "title": "BOE General Election",
+    "link": "https://citytech.event.cuny.edu/events/QP7Ho4fSqpXJlMYjYoWL/Eyss3jnz58pD0OJSQUlG5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-29",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "US Marines Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/AUgGutCEvzSfXScUnKpq/AZ3z6XLGv1mlwhKBfXlb1110",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-29",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Nursing Lecture",
+    "link": "https://citytech.event.cuny.edu/events/io80OFuoWTxFzGPFUU0u/Y4VzdhY35dUxJyzR9vZW",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-29",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Development: Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/l8nCPw37rX8ZCdx0iqgI/fEx90rMOJaRqrU8glEBu",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-29",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/C2p0ox1FI98NHGoD8UCJ7",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-29",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Department: Peer Navigator Lounge Hours",
+    "link": "https://citytech.event.cuny.edu/events/RzuPjzhhOyLBnx5u1mSt/Wsfd0W9UBCSpSRtfE5jJ",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-29",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center Classes",
+    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/uqzCjCt9jj9FDrNgK7Au14",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-10-29",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
     "title": "Domestic Violence Awareness Month event",
     "link": "https://hostos.event.cuny.edu/events/uH64zpy3J86C8bCZnZr0/eZCL6nsJVqfo6PxpQsXw",
     "college": "Hostos Community College",
@@ -5104,11 +5036,11 @@
     "tags": []
   },
   {
-    "title": "MS in Population Health Informatics Virtual Info Session",
-    "link": "https://sph.cuny.edu/event/sph-virtual-info-session-ms-in-population-health-informatics/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-10-27",
-    "time": "6:00PM",
+    "title": "Transfer Tabling",
+    "link": "https://hostos.event.cuny.edu/events/jXAiSToSTjq65QteyHeC/D4AkrZHikSKk20MMoscQ",
+    "college": "Hostos Community College",
+    "date": "2025-11-04",
+    "time": "11:00AM",
     "tags": []
   },
   {
@@ -5696,42 +5628,6 @@
     "tags": []
   },
   {
-    "title": "MICHAEL ROBINSON - TOPOLOGY, GEOMETRY AND LINGUISTICS OF LLMS",
-    "link": "https://www.gc.cuny.edu/events/michael-robinson-topology-geometry-and-linguistics-llms",
-    "college": "CUNY Graduate Center",
-    "date": "2025-10-27",
-    "time": "11:45 am — 12:45 pm",
-    "location": "4321: Computer Science Student Lounge",
-    "tags": [
-      "Data Science",
-      "Computer Science",
-      "Data Science Seminar",
-      "Computer Science Seminar"
-    ]
-  },
-  {
-    "title": "CRIMINALIZATION OF SOLIDARITY: A RESPONSE TO THE SO-CALLED EUROPEAN MIGRATION CRISIS",
-    "link": "https://www.gc.cuny.edu/events/criminalization-solidarity-response-so-called-european-migration-crisis",
-    "college": "CUNY Graduate Center",
-    "date": "2025-10-27",
-    "time": "6:00 pm — 8:00 pm",
-    "location": "9100: Skylight Room",
-    "tags": [
-      "Center for Place, Culture and Politics"
-    ]
-  },
-  {
-    "title": "ALIVE IN THE SOUND: BLACK MUSIC AS COUNTERHISTORY",
-    "link": "https://www.gc.cuny.edu/events/alive-sound-black-music-counterhistory",
-    "college": "CUNY Graduate Center",
-    "date": "2025-10-27",
-    "time": "6:30 pm",
-    "location": "Online",
-    "tags": [
-      "Intellectual Publics"
-    ]
-  },
-  {
     "title": "LIFELONG PEER LEARNING PROGRAM (LP2) ART SHOW",
     "link": "https://www.gc.cuny.edu/events/lifelong-peer-learning-program-lp2-art-show",
     "college": "CUNY Graduate Center",
@@ -5809,6 +5705,44 @@
     "location": "6112: Sociology Student Lounge",
     "tags": [
       "Sociology"
+    ]
+  },
+  {
+    "title": "ECONOMICS PH.D PROGRAM OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/economics-phd-program-open-house-oct-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-29",
+    "time": "5:00 pm",
+    "location": "Online",
+    "tags": [
+      "Economics",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "CRIMINAL JUSTICE PH.D. PROGRAM INFORMATION SESSION",
+    "link": "https://www.gc.cuny.edu/events/criminal-justice-phd-program-information-session-oct-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-29",
+    "time": "6:00 pm — 7:00 pm",
+    "location": "Online",
+    "tags": [
+      "Criminal Justice",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "THE PASSION ACCORDING TO JANAIR: PERFORMANCE AND DISCUSSION ON THE WORK OF CLARICE LISPECTOR",
+    "link": "https://www.gc.cuny.edu/events/passion-according-janair-performance-and-discussion-work-clarice-lispector",
+    "college": "CUNY Graduate Center",
+    "date": "2025-10-29",
+    "time": "6:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Public Programs",
+      "Center for Latin American, Caribbean & Latino Studies",
+      "Center for the Humanities",
+      "GC Presents"
     ]
   },
   {
