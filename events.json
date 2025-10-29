@@ -1915,7 +1915,7 @@
     "tags": [
       "LGBT",
       "Social",
-      "Conference",
+      "LGBTQ+",
       "Student Life",
       "Food - Light Refreshments "
     ]
@@ -3287,6 +3287,19 @@
       "Counseling Center",
       "Featured",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "Italian Heritage Month: Literature and Lunch",
+    "link": "https://www.bmcc.cuny.edu/event/italian-heritage-month-literature-and-lunch-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-04",
+    "time": "11:00 AM - 12:30 PM",
+    "tags": [
+      "English",
+      "Featured",
+      "Italian Heritage Month",
+      "Modern Languages"
     ]
   },
   {
@@ -5241,6 +5254,14 @@
     "tags": []
   },
   {
+    "title": "Steeping Memory: Plant Sharing Activity and Workshop with Eco-Artist Elizabeth Velazquez",
+    "link": "https://www.york.cuny.edu/events/steeping-memory-plant-sharing-activity-workshop-with-eco-artist-elizabeth-velazquez",
+    "college": "York College",
+    "date": "2025-10-30",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
     "title": "Real Sex Talk",
     "link": "https://www.york.cuny.edu/events/real-sex-talk",
     "college": "York College",
@@ -5446,14 +5467,6 @@
     "description": ""
   },
   {
-    "title": "PTK Food Drive",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-29-ptk-food-drive.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-29",
-    "time": "09:00 AM - 05:00 PM",
-    "description": "Club Event"
-  },
-  {
     "title": "Midterm MIndset: How Self-Care Can Get You Through",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-29-midterm-mindset-how-self-care-can-get-you-through.html",
     "college": "Queensborough Community College",
@@ -5596,6 +5609,14 @@
     "date": "2025-11-04",
     "time": "04:00 PM - 05:00 PM",
     "description": "Admissions Event"
+  },
+  {
+    "title": "Women's Group",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-05-womens-group.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-05",
+    "time": "12:10 PM - 02:00 PM",
+    "description": "Special Event / Fair"
   },
   {
     "title": "Feel the Fear and Present Anyway",
