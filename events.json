@@ -104,14 +104,6 @@
     "tags": []
   },
   {
-    "title": "Cultivating Communities of Care Leadership Series",
-    "link": "https://www.ccny.cuny.edu/calendar/cultivating-communities-care-leadership-series-0",
-    "college": "City College of New York",
-    "date": "2025-11-06",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Theatre Production: LA GRINGA (written by Carmen Rivera-Tirado and directed by Karina Verna)",
     "link": "https://www.ccny.cuny.edu/calendar/theatre-production-la-gringa-written-carmen-rivera-tirado-and-directed-karina-verna",
     "college": "City College of New York",
@@ -1442,17 +1434,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-10-30/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-30",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Strong Bones, Strong Life: Preventing Osteoporosis Through Exercise & Nutrition",
     "link": "https://www.laguardia.edu/event/strong-bones-strong-life-preventing-osteoporosis-through-exercise-nutrition/",
     "college": "LaGuardia Community College",
@@ -1755,6 +1736,18 @@
     ]
   },
   {
+    "title": "Empower You Kahoot: Community Impacts, Community Supports",
+    "link": "https://www.laguardia.edu/event/empower-you-kahoot-community-impacts-community-supports-2/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-11",
+    "time": "01:00 PM - 02:15 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "Upcoming Transfer Events",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376771",
     "college": "Guttman Community College",
@@ -1975,19 +1968,6 @@
     ]
   },
   {
-    "title": "NYC Government Careers: Civil Service 101 Information Session",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376781",
-    "college": "Guttman Community College",
-    "date": "2025-11-06",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": [
-      "EMSA",
-      "Career Workshop",
-      "Information Session",
-      "Discussion"
-    ]
-  },
-  {
     "title": "Gaming Grizzlies Freeplay",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376582",
     "college": "Guttman Community College",
@@ -2047,19 +2027,6 @@
     "tags": [
       "EMSA",
       "Support Session",
-      "Information Session",
-      "Discussion"
-    ]
-  },
-  {
-    "title": "Building Community Thorough Volunteering",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376782",
-    "college": "Guttman Community College",
-    "date": "2025-11-11",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": [
-      "EMSA",
-      "Career Workshop",
       "Information Session",
       "Discussion"
     ]
@@ -2583,35 +2550,6 @@
     ]
   },
   {
-    "title": "Donuts with the Dean",
-    "link": "https://www.hunter.cuny.edu/event/donuts-with-the-dean-oct-30/",
-    "college": "Hunter College",
-    "date": "2025-10-30",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "Special Events",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "HEO Forum Meet and Greet",
-    "link": "https://www.hunter.cuny.edu/event/heo-forum-meet-and-greet/",
-    "college": "Hunter College",
-    "date": "2025-10-30",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Career Maps",
-    "link": "https://www.hunter.cuny.edu/event/career-maps/",
-    "college": "Hunter College",
-    "date": "2025-10-30",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Degree Requirements",
     "link": "https://www.hunter.cuny.edu/event/degree-requirements-3/",
     "college": "Hunter College",
@@ -2659,6 +2597,16 @@
     "college": "Hunter College",
     "date": "2025-10-31",
     "time": "10:00 AM - 12:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Trick or Treating at Hunter College",
+    "link": "https://www.hunter.cuny.edu/event/trick-or-treating-at-hunter-college/",
+    "college": "Hunter College",
+    "date": "2025-10-31",
+    "time": "10:00 AM - 03:00 PM",
     "tags": [
       "Student Events"
     ]
@@ -2852,6 +2800,27 @@
     ]
   },
   {
+    "title": "Distinguished Writers Series - Megha Majumdar",
+    "link": "https://www.hunter.cuny.edu/event/distinguished-writers-series-megha-majumdar/",
+    "college": "Hunter College",
+    "date": "2025-11-06",
+    "time": "06:30 PM - 06:30 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
+    "title": "Megha Majumdar - Distinguished Writers Series",
+    "link": "https://www.hunter.cuny.edu/event/megha-majumdar-distinguished-writers-series/",
+    "college": "Hunter College",
+    "date": "2025-11-06",
+    "time": "06:30 PM - 09:00 PM",
+    "tags": [
+      "Lectures",
+      "Special Events"
+    ]
+  },
+  {
     "title": "Vote Early Day",
     "link": "https://www.bmcc.cuny.edu/event/vote-early-day/2025-10-30/",
     "college": "Borough of Manhattan Community College",
@@ -2865,16 +2834,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC’s Campus",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmccs-campus-98-2/2025-10-30/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-30",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
     "title": "Italian Heritage Month 2025",
     "link": "https://www.bmcc.cuny.edu/event/italian-heritage-month-2025/",
     "college": "Borough of Manhattan Community College",
@@ -2884,16 +2843,6 @@
       "Featured",
       "Italian Heritage Month",
       "Modern Languages"
-    ]
-  },
-  {
-    "title": "How to Apply to BMCC & Live Help Hour Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-5/2025-10-30/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-30",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions"
     ]
   },
   {
@@ -3211,6 +3160,29 @@
       "Career Workshops/Fairs",
       "Center for Career Development",
       "Featured"
+    ]
+  },
+  {
+    "title": "Get Fit Well Nutrition Classes",
+    "link": "https://www.bmcc.cuny.edu/event/get-fit-well-nutrition-classes/2025-11-06/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-06",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services"
+    ]
+  },
+  {
+    "title": "Hispanic Heritage Month: Bystander Intervention for Students: Interrupting Violence in Your Community",
+    "link": "https://www.bmcc.cuny.edu/event/hispanic-heritage-month-bystander-intervention-for-students-interrupting-violence-in-your-community/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-06",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "Hispanic Heritage Month"
     ]
   },
   {
@@ -3654,6 +3626,19 @@
     ]
   },
   {
+    "title": "Tie-Tying Workshop (259047-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11793974",
+    "college": "College of Staten Island",
+    "date": "2025-11-06",
+    "time": "08:00 PM - 09:00 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "Social",
+      "Willowbrook Campus"
+    ]
+  },
+  {
     "title": "ColorStack Club",
     "link": "https://csi.campuslabs.com/engage/event/11639016",
     "college": "College of Staten Island",
@@ -3757,19 +3742,6 @@
       "Learning",
       "Global Engagement",
       "Cultural"
-    ]
-  },
-  {
-    "title": "Tie-Tying Workshop (259047-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11793974",
-    "college": "College of Staten Island",
-    "date": "2025-11-13",
-    "time": "08:00 PM - 09:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Social",
-      "Willowbrook Campus"
     ]
   },
   {
@@ -4285,6 +4257,14 @@
     "college": "Lehman College",
     "date": "2025-10-30",
     "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "How to Apply to BMCC & Live Help Hour Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10006185",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-30",
+    "time": "12:00 PM - 01:00 PM",
     "tags": []
   },
   {
@@ -4880,22 +4860,6 @@
     "tags": []
   },
   {
-    "title": "Proofing & Editing for Grammar Errors",
-    "link": "https://www.jjay.cuny.edu/news-events/events/proofing-editing-grammar-errors-1",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-30",
-    "time": "04:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Campus Tour",
-    "link": "https://www.jjay.cuny.edu/news-events/events/campus-tour-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-30",
-    "time": "05:00 PM",
-    "tags": []
-  },
-  {
     "title": "Alumni Reunion",
     "link": "https://www.jjay.cuny.edu/news-events/events/alumni-reunion",
     "college": "John Jay College of Criminal Justice",
@@ -5072,6 +5036,22 @@
     "tags": []
   },
   {
+    "title": "CareerCon: Finance & Consulting",
+    "link": "https://www.jjay.cuny.edu/news-events/events/careercon-finance-consulting-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-02-05",
+    "time": "04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CareerCon: Healthcare & Community Services",
+    "link": "https://www.jjay.cuny.edu/news-events/events/careercon-healthcare-community-services",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-02-17",
+    "time": "04:00 PM",
+    "tags": []
+  },
+  {
     "title": "Your Path to Excellence Starts Here: Regular Macaulay Fall 2025 Open House 6-7pm",
     "link": "https://macaulay.cuny.edu/calendar-of-events/fall-25-regular-open-house-for-prospective-students/",
     "college": "Macaulay Honors College",
@@ -5184,14 +5164,6 @@
     "tags": []
   },
   {
-    "title": "Weekly Yoga",
-    "link": "https://www.york.cuny.edu/events/weekly-yoga",
-    "college": "York College",
-    "date": "2025-10-30",
-    "time": "5:00 PM - 5:45 PM",
-    "tags": []
-  },
-  {
     "title": "Halloween Party",
     "link": "https://www.york.cuny.edu/events/2025/halloween-party",
     "college": "York College",
@@ -5253,6 +5225,14 @@
     "college": "York College",
     "date": "2025-11-06",
     "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Weekly Yoga",
+    "link": "https://www.york.cuny.edu/events/weekly-yoga",
+    "college": "York College",
+    "date": "2025-11-06",
+    "time": "5:00 PM - 5:45 PM",
     "tags": []
   },
   {
@@ -5392,14 +5372,6 @@
     "description": ""
   },
   {
-    "title": "Interpersonal Communication: Building Strong Connections with Others for College and Career Success",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-30-interpersonal-communication-building-strong-connections-with-others-for-college-and-career-success.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-30",
-    "time": "01:00 PM - 02:15 PM",
-    "description": "ASAP Career Event"
-  },
-  {
     "title": "Creating Your Spring ‘26 Schedule",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-30-creating-your-spring-26-schedule.html",
     "college": "Queensborough Community College",
@@ -5470,6 +5442,14 @@
     "date": "2025-11-04",
     "time": "04:00 PM - 05:00 PM",
     "description": "Admissions Event"
+  },
+  {
+    "title": "VAPA Academy Mixer and Success Workshop with VAPA Alumni",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-05-vapa-academy-mixer-and-success-workshop-with-vapa-alumni.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-05",
+    "time": "12:10 PM - 02:00 PM",
+    "description": "Academy Event"
   },
   {
     "title": "Women's Group",
