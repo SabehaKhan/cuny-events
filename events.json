@@ -968,27 +968,11 @@
     "tags": []
   },
   {
-    "title": "Spring 2025: Schedule Builder Session",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a57a4abc-d3b9-4c74-abb8-dddf81ea640e",
-    "college": "Kingsborough Community College",
-    "date": "2025-11-12",
-    "time": "07:00 PM - 08:30 PM",
-    "tags": []
-  },
-  {
     "title": "ARC Wealthy Wednesday",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/9136a04b-0ff0-402f-bac2-0a26cfaa2aff",
     "college": "Kingsborough Community College",
     "date": "2025-11-12",
     "time": "07:00 PM - 08:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Time to Register for Spring 2025: Schedule Builder Session",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/57ea3ad1-30d2-41da-b302-6708e92a35ec",
-    "college": "Kingsborough Community College",
-    "date": "2025-11-13",
-    "time": "04:00 PM - 05:30 PM",
     "tags": []
   },
   {
@@ -1384,31 +1368,19 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2025-10-31/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-31",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Exploring AI & Cybersecurity with Python: Free 4-Day Virtual Seminar!",
-    "link": "https://www.laguardia.edu/event/exploring-ai-cybersecurity-with-python-free-4-day-virtual-seminar/2025-10-31/",
-    "college": "LaGuardia Community College",
-    "date": "2025-10-31",
-    "time": "02:30 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "LHI - Professional Development: Digital Marketing",
     "link": "https://www.laguardia.edu/event/lhi-professional-development-digital-marketing/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-03",
+    "time": "11:45 AM - 12:45 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "LHI Professional Development",
+    "link": "https://www.laguardia.edu/event/lhi-professional-development/",
     "college": "LaGuardia Community College",
     "date": "2025-11-03",
     "time": "11:45 AM - 12:45 PM",
@@ -1431,6 +1403,17 @@
   {
     "title": "Kaplan Educational Foundation: Kaplan Leadership Program Virtual Information Session",
     "link": "https://www.laguardia.edu/event/kaplan-educational-foundation-kaplan-leadership-program-virtual-information-session/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-03",
+    "time": "02:15 PM - 03:15 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "AI and Career Exploration / Planning",
+    "link": "https://www.laguardia.edu/event/ai-and-career-exploration-planning/",
     "college": "LaGuardia Community College",
     "date": "2025-11-03",
     "time": "02:15 PM - 03:15 PM",
@@ -2505,26 +2488,6 @@
     ]
   },
   {
-    "title": "Trick or Treating at Hunter College",
-    "link": "https://www.hunter.cuny.edu/event/trick-or-treating-at-hunter-college/",
-    "college": "Hunter College",
-    "date": "2025-10-31",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Screening of Black Cat Mansion (1958) Japanese",
-    "link": "https://www.hunter.cuny.edu/event/screening-of-black-cat-mansion-1958-japanese/",
-    "college": "Hunter College",
-    "date": "2025-10-31",
-    "time": "02:30 PM - 04:00 PM",
-    "tags": [
-      "Special Events"
-    ]
-  },
-  {
     "title": "Fifth Planet & Other Plays",
     "link": "https://www.hunter.cuny.edu/event/5th-planet-other-plays/2025-10-31/",
     "college": "Hunter College",
@@ -2629,6 +2592,14 @@
     "tags": [
       "Student Events"
     ]
+  },
+  {
+    "title": "How to find an Internship or Research Lab in Psychology",
+    "link": "https://www.hunter.cuny.edu/event/how-to-find-an-internship-or-research-lab-in-psychology/",
+    "college": "Hunter College",
+    "date": "2025-11-04",
+    "time": "02:30 PM - 04:00 PM",
+    "tags": []
   },
   {
     "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
@@ -2779,6 +2750,26 @@
     "time": "12:30 PM - 01:30 PM",
     "tags": [
       "Lectures"
+    ]
+  },
+  {
+    "title": "Purple PEERiod Project",
+    "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-11/",
+    "college": "Hunter College",
+    "date": "2025-11-11",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Cover Letter Writing Workshop",
+    "link": "https://www.hunter.cuny.edu/event/cover-letter-writing-workshop-4/",
+    "college": "Hunter College",
+    "date": "2025-11-11",
+    "time": "01:30 PM - 02:30 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
     ]
   },
   {
@@ -3130,19 +3121,6 @@
       "Academic Advisement & Transfer",
       "Featured",
       "Out in Two"
-    ]
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2025-10-31/",
-    "college": "Bronx Community College",
-    "date": "2025-10-31",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
     ]
   },
   {
@@ -4027,14 +4005,6 @@
     ]
   },
   {
-    "title": "Early Childhood Information Session",
-    "link": "https://lehman.edu/events/2025/Early-Childhood-Information-Session.php",
-    "college": "Lehman College",
-    "date": "2025-11-03",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "FA25 Hold off room",
     "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh68",
     "college": "Queens College",
@@ -4423,7 +4393,7 @@
     "link": "https://sph.cuny.edu/event/dissertation-defense-by-ronald-sanchez/",
     "college": "CUNY School of Public Health",
     "date": "2025-11-24",
-    "time": "9:00AM",
+    "time": "",
     "tags": []
   },
   {
@@ -4443,26 +4413,10 @@
     "tags": []
   },
   {
-    "title": "Career Workshop:  Tools to Find Your Professional Fit",
-    "link": "https://sph.cuny.edu/event/career-workshop-tools-to-find-your-professional-fit-2/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-12-03",
-    "time": "5:00PM",
-    "tags": []
-  },
-  {
     "title": "Internship Discovery Series: Cancer Epidemiology Education in Special Populations (CEESP)",
     "link": "https://sph.cuny.edu/event/internship-discovery-series-cancer-epidemiology-education-in-special-populations-ceesp-2/",
     "college": "CUNY School of Public Health",
     "date": "2025-12-04",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "International Student Club – CUNY SPH Career Success Series",
-    "link": "https://sph.cuny.edu/event/international-student-club-cuny-sph-career-success-series-2/",
-    "college": "CUNY School of Public Health",
-    "date": "2025-12-10",
     "time": "12:00PM",
     "tags": []
   },
