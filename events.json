@@ -1772,18 +1772,6 @@
     ]
   },
   {
-    "title": "Humanities and Social Sciences Open house",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376788",
-    "college": "Guttman Community College",
-    "date": "2025-11-04",
-    "time": "06:15 PM - 07:45 PM",
-    "tags": [
-      "OAA",
-      "Academic",
-      "Food - Light Refreshments "
-    ]
-  },
-  {
     "title": "The Writing Process Workshop Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376497",
     "college": "Guttman Community College",
@@ -1806,19 +1794,6 @@
       "Support Session",
       "Discussion",
       "Information Session"
-    ]
-  },
-  {
-    "title": "Complete Your FAFSA & TAP Applications",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376785",
-    "college": "Guttman Community College",
-    "date": "2025-11-05",
-    "time": "07:30 PM - 09:00 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "FASFA & TAP Applications",
-      "Financial Aid"
     ]
   },
   {
@@ -1992,19 +1967,6 @@
     ]
   },
   {
-    "title": "Complete Your FAFSA & TAP Applications",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376786",
-    "college": "Guttman Community College",
-    "date": "2025-11-12",
-    "time": "07:30 PM - 09:00 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "FASFA & TAP Applications",
-      "Financial Aid"
-    ]
-  },
-  {
     "title": "OPEN GYM! Pickleball & Basketball runs...",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376674",
     "college": "Guttman Community College",
@@ -2092,23 +2054,6 @@
       "TGG",
       "Meeting",
       "Student Life"
-    ]
-  },
-  {
-    "title": "Financial Aid Awareness Day!",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376784",
-    "college": "Guttman Community College",
-    "date": "2025-11-17",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "Financial Aid",
-      "FASFA & TAP Applications",
-      "Food - Light Refreshments",
-      "Food - Lunch",
-      "Federal Work Study",
-      "Satisfactory Academic Progress (SAP)"
     ]
   },
   {
@@ -2766,6 +2711,19 @@
     "tags": []
   },
   {
+    "title": "Vote Early Day",
+    "link": "https://www.bmcc.cuny.edu/event/vote-early-day/2025-10-31/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-10-31",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Civic Engagement",
+      "Featured",
+      "Office of Student Activities (OSA)",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Pride Month: Volleyball and Pickleball",
     "link": "https://www.bmcc.cuny.edu/event/pride-month-volleyball-and-pickleball/",
     "college": "Borough of Manhattan Community College",
@@ -2917,6 +2875,18 @@
     ]
   },
   {
+    "title": "Healing Through Hip Hop and Creative Expression",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression/2025-11-04/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-04",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Urban Male Leadership Academy"
+    ]
+  },
+  {
     "title": "Life Dance / Biodanza",
     "link": "https://www.bmcc.cuny.edu/event/life-dance-biodanza/2025-11-04/",
     "college": "Borough of Manhattan Community College",
@@ -3010,6 +2980,18 @@
     ]
   },
   {
+    "title": "Free HIV/STi Testing for BMCC Students",
+    "link": "https://www.bmcc.cuny.edu/event/free-hiv-sti-testing-for-bmcc-students-9/2025-11-06/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-06",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "BMCC Blood Drive: Make a Difference by Donating Blood",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-blood-drive-make-a-difference-by-donating-blood/",
     "college": "Borough of Manhattan Community College",
@@ -3053,6 +3035,30 @@
       "Center for Belonging and Inclusion",
       "Featured",
       "Hispanic Heritage Month"
+    ]
+  },
+  {
+    "title": "National First-generation College Celebration-Come Celebrate with Us!",
+    "link": "https://www.bmcc.cuny.edu/event/national-first-generation-college-celebration-come-celebrate-with-us/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-06",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Panther Partners",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Out in Two Scholarship Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/out-in-two-scholarship-information-session-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-06",
+    "time": "04:00 PM - 05:30 PM",
+    "tags": [
+      "Academic Advisement & Transfer",
+      "Featured",
+      "Out in Two"
     ]
   },
   {
@@ -3929,14 +3935,6 @@
     "tags": [
       "8th Annual CCNY Halloween Scarefest Event"
     ]
-  },
-  {
-    "title": "Vote Early Day",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005493",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-10-31",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": []
   },
   {
     "title": "Introduction to Excel",
