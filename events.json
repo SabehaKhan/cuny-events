@@ -280,6 +280,14 @@
     "tags": []
   },
   {
+    "title": "145th Annual Alumni Gala Fundraiser",
+    "link": "https://www.ccny.cuny.edu/calendar/145th-annual-alumni-gala-fundraiser",
+    "college": "City College of New York",
+    "date": "2025-11-13",
+    "time": "07:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
     "title": "World Premiere of CLOTHESLINE",
     "link": "https://www.ccny.cuny.edu/calendar/world-premiere-clothesline",
     "college": "City College of New York",
@@ -461,6 +469,14 @@
     "college": "City College of New York",
     "date": "2025-12-01",
     "time": "12:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CCNY CUNYTuesday 2025",
+    "link": "https://www.ccny.cuny.edu/calendar/ccny-cunytuesday-2025",
+    "college": "City College of New York",
+    "date": "2025-12-02",
+    "time": "12:00 AM - 11:59 PM",
     "tags": []
   },
   {
@@ -1772,6 +1788,18 @@
     ]
   },
   {
+    "title": "Humanities and Social Sciences Open house",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376788",
+    "college": "Guttman Community College",
+    "date": "2025-11-04",
+    "time": "06:15 PM - 07:45 PM",
+    "tags": [
+      "OAA",
+      "Academic",
+      "Food - Light Refreshments "
+    ]
+  },
+  {
     "title": "The Writing Process Workshop Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376497",
     "college": "Guttman Community College",
@@ -1794,6 +1822,19 @@
       "Support Session",
       "Discussion",
       "Information Session"
+    ]
+  },
+  {
+    "title": "Complete Your FAFSA & TAP Applications",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376785",
+    "college": "Guttman Community College",
+    "date": "2025-11-05",
+    "time": "07:30 PM - 09:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "FASFA & TAP Applications",
+      "Financial Aid"
     ]
   },
   {
@@ -1967,6 +2008,19 @@
     ]
   },
   {
+    "title": "Complete Your FAFSA & TAP Applications",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376786",
+    "college": "Guttman Community College",
+    "date": "2025-11-12",
+    "time": "07:30 PM - 09:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "FASFA & TAP Applications",
+      "Financial Aid"
+    ]
+  },
+  {
     "title": "OPEN GYM! Pickleball & Basketball runs...",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376674",
     "college": "Guttman Community College",
@@ -2054,6 +2108,23 @@
       "TGG",
       "Meeting",
       "Student Life"
+    ]
+  },
+  {
+    "title": "Financial Aid Awareness Day!",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376784",
+    "college": "Guttman Community College",
+    "date": "2025-11-17",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Financial Aid",
+      "FASFA & TAP Applications",
+      "Food - Light Refreshments",
+      "Food - Lunch",
+      "Federal Work Study",
+      "Satisfactory Academic Progress (SAP)"
     ]
   },
   {
@@ -2434,16 +2505,6 @@
     ]
   },
   {
-    "title": "Financial Aid Advising Session",
-    "link": "https://www.hunter.cuny.edu/event/financial-aid-drop-in-session-2/",
-    "college": "Hunter College",
-    "date": "2025-10-31",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Trick or Treating at Hunter College",
     "link": "https://www.hunter.cuny.edu/event/trick-or-treating-at-hunter-college/",
     "college": "Hunter College",
@@ -2471,6 +2532,24 @@
     "time": "07:00 PM - 09:00 PM",
     "tags": [
       "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "Día de los Muertos Celebration",
+    "link": "https://www.hunter.cuny.edu/event/dia-de-los-muertos-celebration-2025/",
+    "college": "Hunter College",
+    "date": "2025-11-01",
+    "time": "10:30 AM - 02:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Celebrate Alumni Authors: National Authors Day",
+    "link": "https://www.hunter.cuny.edu/event/celebrate-alumni-authors-national-authors-day/",
+    "college": "Hunter College",
+    "date": "2025-11-01",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "Special Events"
     ]
   },
   {
@@ -2701,14 +2780,6 @@
     "tags": [
       "Lectures"
     ]
-  },
-  {
-    "title": "Purple PEERiod Project",
-    "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-11/",
-    "college": "Hunter College",
-    "date": "2025-11-11",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
   },
   {
     "title": "Vote Early Day",
@@ -3203,17 +3274,6 @@
       "Enrollment Management",
       "Feature",
       "Information Sessions"
-    ]
-  },
-  {
-    "title": "Community Forum: The Hunger-Free Campus Act (259058-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11819316",
-    "college": "College of Staten Island",
-    "date": "2025-10-31",
-    "time": "01:30 PM - 04:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "PG CLUE"
     ]
   },
   {
@@ -3967,6 +4027,14 @@
     ]
   },
   {
+    "title": "Early Childhood Information Session",
+    "link": "https://lehman.edu/events/2025/Early-Childhood-Information-Session.php",
+    "college": "Lehman College",
+    "date": "2025-11-03",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
     "title": "FA25 Hold off room",
     "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh68",
     "college": "Queens College",
@@ -4399,11 +4467,11 @@
     "tags": []
   },
   {
-    "title": "Career Corner: Master the Professional Pitch",
-    "link": "https://sph.cuny.edu/event/career-corner-master-the-professional-pitch-2/",
+    "title": "Dissertation Defense by Rachel Thompson",
+    "link": "https://sph.cuny.edu/event/dissertation-defense-by-rachel-thompson/",
     "college": "CUNY School of Public Health",
     "date": "2025-12-11",
-    "time": "12:00PM",
+    "time": "11:00 AM - 12:00PM",
     "tags": []
   },
   {
@@ -4484,14 +4552,6 @@
     "college": "Lehman College",
     "date": "2025-11-10",
     "time": "5:00 PM- 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "International Crime & Justice Alumni Career Talk",
-    "link": "https://www.jjay.cuny.edu/news-events/events/international-crime-justice-alumni-career-talk-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-10-31",
-    "time": "04:00 PM",
     "tags": []
   },
   {
@@ -4676,6 +4736,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-11-18",
     "time": "04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Passport Day",
+    "link": "https://www.jjay.cuny.edu/news-events/events/passport-day",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-18",
+    "time": "06:30 PM",
     "tags": []
   },
   {
@@ -4960,7 +5028,7 @@
     "college": "CUNY Graduate Center",
     "date": "2025-11-03",
     "time": "6:30 pm",
-    "location": "9206",
+    "location": "9100: Skylight Room",
     "tags": [
       "Center for Latin American, Caribbean & Latino Studies",
       "Humanities and Social Sciences"
@@ -4973,22 +5041,6 @@
     "date": "2025-11-19",
     "time": "12:00 PM - 04:00 PM",
     "description": ""
-  },
-  {
-    "title": "Yumi Kurosawa: Koto Performer, Composer, Educator",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-31-yumi-kurosawa-koto-performer,-composer,-educator.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-31",
-    "time": "12:30 PM - 01:30 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Paint N' Chill Workshop",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-10-31-paint-n-chill-workshop.html",
-    "college": "Queensborough Community College",
-    "date": "2025-10-31",
-    "time": "01:00 PM - 03:00 PM",
-    "description": "Special Event / Fair"
   },
   {
     "title": "R101 Certificate Class",
@@ -5133,6 +5185,22 @@
     "date": "2025-11-10",
     "time": "09:30 AM - 10:30 AM",
     "description": "Admissions Event"
+  },
+  {
+    "title": "Color, Create & Be Calm",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-10-color-create-be-calm.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-10",
+    "time": "12:30 PM - 02:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "All Sewn Up",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-10-all-sewn-up.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-10",
+    "time": "01:00 PM - 03:00 PM",
+    "description": "Male Resource Center Event"
   },
   {
     "title": "Feel the Fear and Present Anyway",
