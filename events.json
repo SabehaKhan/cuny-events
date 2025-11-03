@@ -2502,16 +2502,6 @@
     "tags": []
   },
   {
-    "title": "Upcoming Seminar: CarlyWill Sloan (West Point)",
-    "link": "https://www.hunter.cuny.edu/event/upcoming-seminar-carlywill-sloan-west-point/",
-    "college": "Hunter College",
-    "date": "2025-11-05",
-    "time": "01:30 PM - 03:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
     "title": "Singing with the Dean",
     "link": "https://www.hunter.cuny.edu/event/singing-with-the-dean/2025-11-05/",
     "college": "Hunter College",
@@ -2703,6 +2693,14 @@
     "tags": [
       "Student Events"
     ]
+  },
+  {
+    "title": "Graduate Admissions Information Session",
+    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-32/",
+    "college": "Hunter College",
+    "date": "2025-11-11",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": []
   },
   {
     "title": "Office of the Registrar Virtual Counter",
@@ -3596,14 +3594,6 @@
     ]
   },
   {
-    "title": "Jane Young Fall 2025 Film Series: Greed, a Film Retrospective",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10005964",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-02",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": []
-  },
-  {
     "title": "Introduction to Excel",
     "link": "https://events.cuny.edu/cec/introduction-to-excel/",
     "college": "College of Staten Island",
@@ -3682,12 +3672,14 @@
     "tags": []
   },
   {
-    "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh70",
-    "college": "Queens College",
-    "date": "2025-11-02",
-    "time": "",
-    "tags": []
+    "title": "Working with Tables",
+    "link": "https://events.cuny.edu/cec/working-with-tables/",
+    "college": "College of Staten Island",
+    "date": "2025-11-04",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "Technology Training"
+    ]
   },
   {
     "title": "FA25 Hold off room",
@@ -3802,6 +3794,22 @@
     "tags": []
   },
   {
+    "title": "SEEK Math Sessions",
+    "link": "https://qc.event.cuny.edu/events/His3amnK92M9BIhxIjTv/jQTQlYGZYeN4NwGiMGJL14",
+    "college": "Queens College",
+    "date": "2025-11-03",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Learning Commons Overflow Space",
+    "link": "https://qc.event.cuny.edu/events/SRSPIM6AiVpRtDQKmp9K/pOr34AslrdD3bpYkNXVs20",
+    "college": "Queens College",
+    "date": "2025-11-03",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
     "title": "Introduction to Bloomberg Professional for Equities @ Subotnick Financial Services Center",
     "link": "https://baruch.event.cuny.edu/events/lPOvLNnXdYqDh3852beu/QgbLvbB31EeJQAd41sXS",
     "college": "Baruch College",
@@ -3863,14 +3871,6 @@
     "college": "Baruch College",
     "date": "2025-11-06",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "BOE General Election",
-    "link": "https://citytech.event.cuny.edu/events/QP7Ho4fSqpXJlMYjYoWL/Eyss3jnz58pD0OJSQUlG9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-11-02",
-    "time": "",
     "tags": []
   },
   {
@@ -4015,6 +4015,14 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-11-05",
     "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Development: Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/l8nCPw37rX8ZCdx0iqgI/vkhHayatuQMPhv0GXIF1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-11-05",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -4186,14 +4194,6 @@
     "tags": []
   },
   {
-    "title": "Harvest Gems Concert",
-    "link": "https://www.lehman.edu/events/2025/Harvest-Gems-Concert.php",
-    "college": "Lehman College",
-    "date": "2025-11-02",
-    "time": "2:00 PM- 4:00 PM",
-    "tags": []
-  },
-  {
     "title": "Early Childhood Information Session",
     "link": "https://www.lehman.edu/events/2025/Early-Childhood-Information-Session.php",
     "college": "Lehman College",
@@ -4263,6 +4263,14 @@
     "college": "Lehman College",
     "date": "2025-11-10",
     "time": "5:00 PM- 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Credo/Infobase, A Digital Tool for Enriched Scholarly Searches",
+    "link": "https://www.lehman.edu/events/2025/CredoInfobase-A-Digital-Tool-for-Enriched-Scholarly-Searches.php",
+    "college": "Lehman College",
+    "date": "2025-11-11",
+    "time": "12:00 PM- 1:00 PM",
     "tags": []
   },
   {
@@ -4535,6 +4543,102 @@
     "college": "Macaulay Honors College",
     "date": "2025-12-06",
     "time": "10:00 AM - 8:00PM",
+    "tags": []
+  },
+  {
+    "title": "Game Fest and Karaoke",
+    "link": "https://www.york.cuny.edu/events/game-fest-karaoke",
+    "college": "York College",
+    "date": "2025-11-04",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Safe Zone Training - Nov 4",
+    "link": "https://www.york.cuny.edu/womens-center/safe-zone-training-1",
+    "college": "York College",
+    "date": "2025-11-04",
+    "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for the term",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/r2t4-60-date-for-the-term-1",
+    "college": "York College",
+    "date": "2025-11-05",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Trump and Congress: A Talk with Dr. Dan Palazzolo",
+    "link": "https://www.york.cuny.edu/events/trump-and-congress-a-talk-with-dr-dan-palazzolo-1",
+    "college": "York College",
+    "date": "2025-11-05",
+    "time": "5:30 PM - 6:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Fall Social Night (Evening Students)",
+    "link": "https://www.york.cuny.edu/events/2025/fall-social-night-evening-students",
+    "college": "York College",
+    "date": "2025-11-06",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "International Student Appreciation Mixer",
+    "link": "https://www.york.cuny.edu/events/2025/international-student-appreciation-mixer",
+    "college": "York College",
+    "date": "2025-11-06",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Weekly Yoga",
+    "link": "https://www.york.cuny.edu/events/weekly-yoga",
+    "college": "York College",
+    "date": "2025-11-06",
+    "time": "5:00 PM - 5:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Public Safety Awareness: Civilian Response To an Active Shooter",
+    "link": "https://www.york.cuny.edu/events/public-safety-awareness-civilian-response-to-an-active-shooter",
+    "college": "York College",
+    "date": "2025-11-06",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Eco-Therapy",
+    "link": "https://www.york.cuny.edu/events/eco-therapy",
+    "college": "York College",
+    "date": "2025-11-06",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Fresh Produce Day - Nov 6th",
+    "link": "https://www.york.cuny.edu/womens-center/fresh-produce-day-5",
+    "college": "York College",
+    "date": "2025-11-06",
+    "time": "5:30 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Deep Dish with The Dean - 11/6/25",
+    "link": "https://www.york.cuny.edu/events/deep-dish-with-the-dean-1",
+    "college": "York College",
+    "date": "2025-11-06",
+    "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Fall Undergraduate Open House",
+    "link": "https://www.york.cuny.edu/admissions/u-openhouse-2025",
+    "college": "York College",
+    "date": "2025-11-09",
+    "time": "5:00 PM - 8:00 PM",
     "tags": []
   },
   {
