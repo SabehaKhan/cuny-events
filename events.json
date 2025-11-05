@@ -1689,22 +1689,6 @@
     ]
   },
   {
-    "title": "OPEN GYM! Pickleball & Basketball runs...",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376673",
-    "college": "Guttman Community College",
-    "date": "2025-11-05",
-    "time": "11:00 PM - 01:00 AM",
-    "tags": [
-      "OSL",
-      "Athletic/Sports",
-      "Student Life",
-      "Trip - Day",
-      "Sporting Event",
-      "SGA",
-      "Off-Campus"
-    ]
-  },
-  {
     "title": "Guttman Stands with Immigrants",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376481",
     "college": "Guttman Community College",
@@ -1831,7 +1815,7 @@
     ]
   },
   {
-    "title": "UMOC Induction Ceremony",
+    "title": "A Decade of UMOC",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376775",
     "college": "Guttman Community College",
     "date": "2025-11-11",
@@ -1883,22 +1867,6 @@
     ]
   },
   {
-    "title": "OPEN GYM! Pickleball & Basketball runs...",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376674",
-    "college": "Guttman Community College",
-    "date": "2025-11-12",
-    "time": "11:00 PM - 01:00 AM",
-    "tags": [
-      "OSL",
-      "Athletic/Sports",
-      "Student Life",
-      "Trip - Day",
-      "Sporting Event",
-      "SGA",
-      "Off-Campus"
-    ]
-  },
-  {
     "title": "Klein Scholar Reception",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376482",
     "college": "Guttman Community College",
@@ -1933,6 +1901,22 @@
     "tags": [
       "CCPP",
       "Career Workshop"
+    ]
+  },
+  {
+    "title": "OPEN GYM! Pickleball & Basketball runs...",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376673",
+    "college": "Guttman Community College",
+    "date": "2025-11-13",
+    "time": "11:00 PM - 01:00 AM",
+    "tags": [
+      "OSL",
+      "Athletic/Sports",
+      "Student Life",
+      "Trip - Day",
+      "Sporting Event",
+      "SGA",
+      "Off-Campus"
     ]
   },
   {
@@ -2037,6 +2021,22 @@
       "ASC",
       "Academic",
       "Tutoring"
+    ]
+  },
+  {
+    "title": "OPEN GYM! Pickleball & Basketball runs...",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376674",
+    "college": "Guttman Community College",
+    "date": "2025-11-18",
+    "time": "11:00 PM - 01:00 AM",
+    "tags": [
+      "OSL",
+      "Athletic/Sports",
+      "Student Life",
+      "Trip - Day",
+      "Sporting Event",
+      "SGA",
+      "Off-Campus"
     ]
   },
   {
@@ -2505,6 +2505,16 @@
     ]
   },
   {
+    "title": "Why Fascists Fear Teachers: Public Education and the Future of Democracy",
+    "link": "https://www.hunter.cuny.edu/event/why-fascists-fear-teachers-public-education-and-the-future-of-democracy/",
+    "college": "Hunter College",
+    "date": "2025-11-10",
+    "time": "06:30 PM - 06:30 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
     "title": "Purple PEERiod Project",
     "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-11/",
     "college": "Hunter College",
@@ -2626,16 +2636,6 @@
     "time": "01:30 PM - 03:00 PM",
     "tags": [
       "Lectures"
-    ]
-  },
-  {
-    "title": "Dancing with the Dean",
-    "link": "https://www.hunter.cuny.edu/event/dancing-with-the-dean/2025-11-12/",
-    "college": "Hunter College",
-    "date": "2025-11-12",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Performing Arts & Film"
     ]
   },
   {
@@ -3407,13 +3407,15 @@
     ]
   },
   {
-    "title": "CUNY LEADS at the Office of Accessibility: DCAS NYC Government Careers Civil Service 101 Information Session",
+    "title": "CUNY LEADS Presents: NYC Government Careers and Civil Service 101 with DCAS",
     "link": "https://csi.campuslabs.com/engage/event/11858289",
     "college": "College of Staten Island",
     "date": "2025-11-18",
     "time": "07:30 PM - 09:00 PM",
     "tags": [
-      "GroupBusiness"
+      "ThoughtfulLearning",
+      "Learning",
+      "Career Development"
     ]
   },
   {
@@ -4201,14 +4203,6 @@
     "tags": []
   },
   {
-    "title": "Game Club",
-    "link": "https://citytech.event.cuny.edu/events/FUUmvmcomEVHWNnWTSOX/zGmpIYui2sagmjxV96I14",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-11-06",
-    "time": "12:45PM",
-    "tags": []
-  },
-  {
     "title": "Yugioh Battle Draft session 1",
     "link": "https://hostos.event.cuny.edu/events/Ta8V3l6UszuQ9zwtmiam/90BsfPCfLHu3fJ4yBzAB",
     "college": "Hostos Community College",
@@ -4489,14 +4483,6 @@
     "tags": []
   },
   {
-    "title": "CUNY Career Discovery Week",
-    "link": "https://www.jjay.cuny.edu/news-events/events/cuny-career-discovery-week-1",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-05",
-    "time": "03:00 PM",
-    "tags": []
-  },
-  {
     "title": "Human Rights Law Workshop",
     "link": "https://www.jjay.cuny.edu/news-events/events/human-rights-law-workshop",
     "college": "John Jay College of Criminal Justice",
@@ -4681,6 +4667,14 @@
     "tags": []
   },
   {
+    "title": "60th Anniversary Campus Celebration",
+    "link": "https://www.jjay.cuny.edu/news-events/events/60th-anniversary-campus-celebration",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-20",
+    "time": "07:00 PM",
+    "tags": []
+  },
+  {
     "title": "LifeSci Internship Program Info Session",
     "link": "https://macaulay.cuny.edu/calendar-of-events/lifesci-internship-program-info-session/",
     "college": "Macaulay Honors College",
@@ -4777,6 +4771,14 @@
     "tags": []
   },
   {
+    "title": "One York Brotherhood - Responsible Decision Making",
+    "link": "https://www.york.cuny.edu/events/one-york-brotherhood-responsible-decision-making",
+    "college": "York College",
+    "date": "2025-11-05",
+    "time": "10:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
     "title": "Fall Social Night (Evening Students)",
     "link": "https://www.york.cuny.edu/events/2025/fall-social-night-evening-students",
     "college": "York College",
@@ -4838,14 +4840,6 @@
     "college": "York College",
     "date": "2025-11-09",
     "time": "5:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Friendsgiving: Teamwork and Communication",
-    "link": "https://www.york.cuny.edu/events/friendsgiving-teamwork-communication",
-    "college": "York College",
-    "date": "2025-11-11",
-    "time": "5:00 PM - 7:00 PM",
     "tags": []
   },
   {
@@ -5131,6 +5125,14 @@
     "description": "ASAP Career Event"
   },
   {
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-12",
+    "time": "05:00 PM - 06:00 PM",
+    "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
+  },
+  {
     "title": "Mental Health Workshop",
     "link": "https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration",
     "college": "CUNY School of Labor and Urban Studies",
@@ -5145,13 +5147,5 @@
     "date": "2025-11-14",
     "time": "11:15 PM - 12:30 AM",
     "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. <br><b>*Registration closes at 4:30pm on 11/14*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator\">HERE</a></b>"
-  },
-  {
-    "title": "Employer Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-12",
-    "time": "05:00 PM - 06:00 PM",
-    "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
   }
 ]
