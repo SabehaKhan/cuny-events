@@ -128,6 +128,14 @@
     "tags": []
   },
   {
+    "title": "OPEN HOUSE Departamento de Lenguas y Literaturas Clásicas y Modernas.",
+    "link": "https://www.ccny.cuny.edu/calendar/open-house-departamento-de-lenguas-y-literaturas-clasicas-y-modernas",
+    "college": "City College of New York",
+    "date": "2025-11-13",
+    "time": "12:30 PM - 01:45 PM",
+    "tags": []
+  },
+  {
     "title": "Master of Architecture and MS Arch Info Session",
     "link": "https://www.ccny.cuny.edu/calendar/master-architecture-and-ms-arch-info-session",
     "college": "City College of New York",
@@ -232,7 +240,7 @@
     "tags": []
   },
   {
-    "title": "Biochemistry Seminar: Olga Boudker, \"How structural dynamics govern the function of glutamate transporters\"",
+    "title": "Biochemistry Seminar: Olga Boudker, \"Dynamics and evolution of glutamate transporters\"",
     "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-olga-boudker-how-structural-dynamics-govern-function-glutamate",
     "college": "City College of New York",
     "date": "2025-11-19",
@@ -408,7 +416,7 @@
     "tags": []
   },
   {
-    "title": "Biochemistry Seminar: Rupal Gupta, title TBA",
+    "title": "Biochemistry Seminar: Rupal Gupta, \"Structure, Dynamics, and Assembly of Human Antimicrobial Proteins\"",
     "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-rupal-gupta-title-tba",
     "college": "City College of New York",
     "date": "2025-12-03",
@@ -1176,17 +1184,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-11-10/",
-    "college": "LaGuardia Community College",
-    "date": "2025-11-10",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-83/",
     "college": "LaGuardia Community College",
@@ -1475,6 +1472,17 @@
     "tags": [
       "all calendars",
       "community & business events",
+      "student events"
+    ]
+  },
+  {
+    "title": "Queens College Education Panel: Virtual Transfer Information Session",
+    "link": "https://www.laguardia.edu/event/queens-college-education-panel-virtual-transfer-information-session/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-18",
+    "time": "02:15 PM - 03:30 PM",
+    "tags": [
+      "all calendars",
       "student events"
     ]
   },
@@ -2080,34 +2088,6 @@
     ]
   },
   {
-    "title": "Inga Richter Seminar Series: Dr. Kyrie Pappas",
-    "link": "https://www.hunter.cuny.edu/event/inga-richter-seminar-series-dr-kyrie-pappas/",
-    "college": "Hunter College",
-    "date": "2025-11-10",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-5/",
-    "college": "Hunter College",
-    "date": "2025-11-10",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Majoring in Sociology",
-    "link": "https://www.hunter.cuny.edu/event/majoring-in-sociology/",
-    "college": "Hunter College",
-    "date": "2025-11-10",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Why Fascists Fear Teachers: Public Education and the Future of Democracy",
     "link": "https://www.hunter.cuny.edu/event/why-fascists-fear-teachers-public-education-and-the-future-of-democracy/",
     "college": "Hunter College",
@@ -2342,13 +2322,33 @@
     "tags": []
   },
   {
-    "title": "BMCC Library AI Workshop Series",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-library-ai-workshop-series-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-10",
+    "title": "Arts Outing: Stravinsky & Marsalis at the NY Phil",
+    "link": "https://www.hunter.cuny.edu/event/stravinsky-marsalis/",
+    "college": "Hunter College",
+    "date": "2025-11-16",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "Making the Documentary: A Very British History: Back to Belarus",
+    "link": "https://www.hunter.cuny.edu/event/making-the-documentary-a-very-british-history-back-to-belarus/",
+    "college": "Hunter College",
+    "date": "2025-11-17",
+    "time": "12:00 PM - 12:00 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
+    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
+    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-5/",
+    "college": "Hunter College",
+    "date": "2025-11-17",
     "time": "12:00 PM - 01:00 PM",
     "tags": [
-      "Library"
+      "Open Houses"
     ]
   },
   {
@@ -2636,6 +2636,17 @@
     ]
   },
   {
+    "title": "BMCC Library AI Workshop Series",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-library-ai-workshop-series/2025-11-17/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-17",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Featured",
+      "Library"
+    ]
+  },
+  {
     "title": "Hispanic Heritage Month: Soccer Event (Friendly Competition)*",
     "link": "https://www.bmcc.cuny.edu/event/hispanic-heritage-month-soccer-event-friendly-competition/",
     "college": "Borough of Manhattan Community College",
@@ -2849,18 +2860,6 @@
     "tags": []
   },
   {
-    "title": "Narcan Training & Overdose Awareness (259060-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11806298",
-    "college": "College of Staten Island",
-    "date": "2025-11-10",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Health and Wellness"
-    ]
-  },
-  {
     "title": "Elections and Advocacy Commission (Student Government)",
     "link": "https://csi.campuslabs.com/engage/event/11539270",
     "college": "College of Staten Island",
@@ -2949,6 +2948,19 @@
     "tags": [
       "Social",
       "Willowbrook Campus"
+    ]
+  },
+  {
+    "title": "Lost in Thought Launch for Issue #3",
+    "link": "https://csi.campuslabs.com/engage/event/11875918",
+    "college": "College of Staten Island",
+    "date": "2025-11-12",
+    "time": "10:00 PM - 11:00 PM",
+    "tags": [
+      "Arts",
+      "Social",
+      "Entertainment",
+      "Cultural"
     ]
   },
   {
@@ -3626,6 +3638,17 @@
     "tags": [
       "Fundraising",
       "Fundraiser"
+    ]
+  },
+  {
+    "title": "Weekly Tea Time",
+    "link": "https://csi.campuslabs.com/engage/event/11507178",
+    "college": "College of Staten Island",
+    "date": "2025-12-10",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Social",
+      "Willowbrook Campus"
     ]
   },
   {
@@ -4339,14 +4362,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Admissions Info Session",
-    "link": "https://www.jjay.cuny.edu/news-events/events/virtual-admissions-info-session-13",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-10",
-    "time": "09:00 PM",
-    "tags": []
-  },
-  {
     "title": "Film Screening: Sixteen Years",
     "link": "https://www.jjay.cuny.edu/news-events/events/film-screening-sixteen-years",
     "college": "John Jay College of Criminal Justice",
@@ -4527,6 +4542,14 @@
     "link": "https://www.jjay.cuny.edu/news-events/events/careercon-finance-consulting",
     "college": "John Jay College of Criminal Justice",
     "date": "2026-02-04",
+    "time": "04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CareerCon: Finance & Consulting",
+    "link": "https://www.jjay.cuny.edu/news-events/events/careercon-finance-consulting-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-02-05",
     "time": "04:00 PM",
     "tags": []
   },
@@ -4852,30 +4875,6 @@
     "description": ""
   },
   {
-    "title": "Color, Create & Be Calm",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-10-color-create-be-calm.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-10",
-    "time": "12:30 PM - 02:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "All Sewn Up",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-10-all-sewn-up.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-10",
-    "time": "01:00 PM - 03:00 PM",
-    "description": "Male Resource Center Event"
-  },
-  {
-    "title": "Track with President Mangino",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-10-track-with-president-mangino.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-10",
-    "time": "01:00 PM - 02:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
     "title": "Fragments of Memory: Lost Notebooks of Children's Testimonies from the Holocaust",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-10-2025-Fragments-of-Memory-Lost-Notebooks-of-Childrens-Testimonies-from-the-Holocaust.html",
     "college": "Queensborough Community College",
@@ -5004,20 +5003,28 @@
     "description": "Academy Event"
   },
   {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-14",
-    "time": "11:15 PM - 12:30 AM",
-    "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. <br><b>*Registration closes at 4:30pm on 11/14*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator\">HERE</a></b>"
+    "title": "The MRC Presents: Elevator Pitch Cocktail Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-13-the-mrc-presents-elevator-pitch-cocktail-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-13",
+    "time": "05:00 PM - 07:00 PM",
+    "description": "Male Resource Center Event"
   },
   {
-    "title": "BMI-SLU Leadership development roundtable",
-    "link": "https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-12",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<br><b>BMI</b><br><b>SLU Leadership Development Roundtable</b><br><b>Wednesday, November 12th | 5:15 PM | In Person |14th Floor | <u><a href=\"https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator\">RSVP</a></u></b><br> <br><b>About this event</b><br>Discussion Topic: \"Leadership and Community Development\"<br>We invite you to participate in a thought-provoking dialogue about enhancing your leadership capabilities, both in and out of the classroom. Let’s unite, share insights, and forge impactful relationships that inspire transformation.<br><br>RSVP LINK: <a href=\"https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator\">https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator</a>"
+    "title": "Cartoon",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-13-cartoon.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-13",
+    "time": "07:00 PM - 09:15 PM",
+    "description": "Performing Arts / Film Event"
+  },
+  {
+    "title": "R101 Certificate Class",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-14-r101-certificate-class.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-14",
+    "time": "10:10 AM - 11:30 AM",
+    "description": "Conference and Workshop"
   },
   {
     "title": "Employer Spotlight",
@@ -5028,11 +5035,27 @@
     "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
   },
   {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-14",
+    "time": "11:15 PM - 12:30 AM",
+    "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. <br><b>*Registration closes at 4:30pm on 11/14*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator\">HERE</a></b>"
+  },
+  {
     "title": "Mental Health Workshop",
     "link": "https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration",
     "college": "CUNY School of Labor and Urban Studies",
     "date": "2025-11-18",
     "time": "11:00 PM - 12:00 AM",
     "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
+  },
+  {
+    "title": "BMI-SLU Leadership development roundtable",
+    "link": "https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-12",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<br><b>BMI</b><br><b>SLU Leadership Development Roundtable</b><br><b>Wednesday, November 12th | 5:15 PM | In Person |14th Floor | <u><a href=\"https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator\">RSVP</a></u></b><br> <br><b>About this event</b><br>Discussion Topic: \"Leadership and Community Development\"<br>We invite you to participate in a thought-provoking dialogue about enhancing your leadership capabilities, both in and out of the classroom. Let’s unite, share insights, and forge impactful relationships that inspire transformation.<br><br>RSVP LINK: <a href=\"https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator\">https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator</a>"
   }
 ]
