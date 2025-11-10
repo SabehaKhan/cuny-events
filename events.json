@@ -2067,6 +2067,16 @@
     ]
   },
   {
+    "title": "Majoring in Sociology",
+    "link": "https://www.hunter.cuny.edu/event/majoring-in-sociology/",
+    "college": "Hunter College",
+    "date": "2025-11-10",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Why Fascists Fear Teachers: Public Education and the Future of Democracy",
     "link": "https://www.hunter.cuny.edu/event/why-fascists-fear-teachers-public-education-and-the-future-of-democracy/",
     "college": "Hunter College",
@@ -2179,6 +2189,16 @@
     "tags": []
   },
   {
+    "title": "Film and Media Talk with Transfers",
+    "link": "https://www.hunter.cuny.edu/event/film-and-media-talk-with-transfers/",
+    "college": "Hunter College",
+    "date": "2025-11-12",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Library & Archives Lunch Hour: Kathy Andrade - Threads of Resistance",
     "link": "https://www.hunter.cuny.edu/event/library-archives-lunch-hour-kathy-andrade-threads-of-resistance/",
     "college": "Hunter College",
@@ -2245,6 +2265,16 @@
     ]
   },
   {
+    "title": "Career Workshop for Transfer Students",
+    "link": "https://www.hunter.cuny.edu/event/career-workshop-for-transfer-students/",
+    "college": "Hunter College",
+    "date": "2025-11-13",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Annual Adelaide Hahn Lecture in Classical Studies",
     "link": "https://www.hunter.cuny.edu/event/annual-adelaide-hahn-lecture-in-classical-studies/",
     "college": "Hunter College",
@@ -2288,36 +2318,6 @@
     "time": "02:00 PM - 04:00 PM",
     "tags": [
       "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Making the Documentary: A Very British History: Back to Belarus",
-    "link": "https://www.hunter.cuny.edu/event/making-the-documentary-a-very-british-history-back-to-belarus/",
-    "college": "Hunter College",
-    "date": "2025-11-17",
-    "time": "12:00 PM - 12:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
-    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-5/",
-    "college": "Hunter College",
-    "date": "2025-11-17",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Gap Junction Connectivity of Astrocytes in Health and Disease",
-    "link": "https://www.hunter.cuny.edu/event/gap-junction-connectivity-of-astrocytes-in-health-and-disease/",
-    "college": "Hunter College",
-    "date": "2025-11-17",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Lectures"
     ]
   },
   {
@@ -4973,14 +4973,6 @@
     "description": "Conference and Workshop"
   },
   {
-    "title": "Mental Health Workshop",
-    "link": "https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-18",
-    "time": "11:00 PM - 12:00 AM",
-    "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
-  },
-  {
     "title": "Feel the Fear and Present Anyway",
     "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
@@ -4995,5 +4987,13 @@
     "date": "2025-11-12",
     "time": "05:00 PM - 06:00 PM",
     "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
+  },
+  {
+    "title": "Mental Health Workshop",
+    "link": "https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-18",
+    "time": "11:00 PM - 12:00 AM",
+    "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
   }
 ]
