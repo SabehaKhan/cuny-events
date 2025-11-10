@@ -2601,6 +2601,20 @@
     ]
   },
   {
+    "title": "Jane Young Fall 2025 Film Series: Greed, a Film Retrospective",
+    "link": "https://www.bmcc.cuny.edu/event/jane-young-fall-2025-film-series-greed-a-film-retrospective/2025-11-16/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-16",
+    "time": "07:00 PM - 09:00 PM",
+    "tags": [
+      "Diplomatic Engagement and Training",
+      "English",
+      "Featured",
+      "Media Arts and Technology",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Hispanic Heritage Month: Soccer Event (Friendly Competition)*",
     "link": "https://www.bmcc.cuny.edu/event/hispanic-heritage-month-soccer-event-friendly-competition/",
     "college": "Borough of Manhattan Community College",
@@ -4646,14 +4660,6 @@
     "tags": []
   },
   {
-    "title": "3rd SGA Townhall",
-    "link": "https://www.york.cuny.edu/events/2025/3rd-sga-townhall",
-    "college": "York College",
-    "date": "2025-11-13",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "State of the College",
     "link": "https://www.york.cuny.edu/events/2025/state-of-the-college-2",
     "college": "York College",
@@ -4675,6 +4681,14 @@
     "college": "York College",
     "date": "2025-11-13",
     "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Veterans Affairs Reception: Honoring Our Heroes",
+    "link": "https://www.york.cuny.edu/veterans-affairs/events/veterans-affairs-reception-honoring-our-heroes",
+    "college": "York College",
+    "date": "2025-11-13",
+    "time": "9:00 PM - 11:00 PM",
     "tags": []
   },
   {
@@ -4959,14 +4973,6 @@
     "description": "Conference and Workshop"
   },
   {
-    "title": "Employer Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-12",
-    "time": "05:00 PM - 06:00 PM",
-    "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
-  },
-  {
     "title": "Mental Health Workshop",
     "link": "https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration",
     "college": "CUNY School of Labor and Urban Studies",
@@ -4981,5 +4987,13 @@
     "date": "2025-11-14",
     "time": "11:15 PM - 12:30 AM",
     "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. <br><b>*Registration closes at 4:30pm on 11/14*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator\">HERE</a></b>"
+  },
+  {
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-12",
+    "time": "05:00 PM - 06:00 PM",
+    "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
   }
 ]
