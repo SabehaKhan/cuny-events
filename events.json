@@ -1454,9 +1454,7 @@
     "tags": [
       "PLP",
       "Social",
-      "Student Life",
-      "Food - Lunch",
-      "Food - Light Refreshments "
+      "Student Life"
     ]
   },
   {
@@ -1483,6 +1481,19 @@
       "ASC",
       "Academic",
       "Tutoring"
+    ]
+  },
+  {
+    "title": "The HUB Virtual Hours",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376807",
+    "college": "Guttman Community College",
+    "date": "2025-11-12",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": [
+      "EMSA",
+      "Support Session",
+      "Discussion",
+      "Information Session"
     ]
   },
   {
@@ -1533,19 +1544,6 @@
     "tags": [
       "CCPP",
       "Career Workshop"
-    ]
-  },
-  {
-    "title": "Bedazzling With Stonewall",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376820",
-    "college": "Guttman Community College",
-    "date": "2025-11-13",
-    "time": "06:15 PM - 07:45 PM",
-    "tags": [
-      "LGBT",
-      "Social",
-      "LGBTQ+",
-      "Student Life"
     ]
   },
   {
@@ -1632,7 +1630,7 @@
     ]
   },
   {
-    "title": "Paint & Chill (Student Life & The Art Club) - Native American History Land Acknowledgement",
+    "title": "Paint & Chill - Native American History Land Acknowledgement",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376753",
     "college": "Guttman Community College",
     "date": "2025-11-18",
@@ -3629,6 +3627,16 @@
     ]
   },
   {
+    "title": "Basic Formulas and Functions Part II",
+    "link": "https://events.cuny.edu/cec/basic-formulas-and-functions-part-ii/",
+    "college": "College of Staten Island",
+    "date": "2025-11-12",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
     "title": "FA25 Hold off room",
     "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh79",
     "college": "Queens College",
@@ -4901,14 +4909,6 @@
     "description": "Conference and Workshop"
   },
   {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-14",
-    "time": "11:15 PM - 12:30 AM",
-    "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. <br><b>*Registration closes at 4:30pm on 11/14*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator\">HERE</a></b>"
-  },
-  {
     "title": "Employer Spotlight",
     "link": "https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration",
     "college": "CUNY School of Labor and Urban Studies",
@@ -4917,19 +4917,27 @@
     "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
   },
   {
-    "title": "BMI-SLU Leadership development roundtable",
-    "link": "https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-12",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<br><b>BMI</b><br><b>SLU Leadership Development Roundtable</b><br><b>Wednesday, November 12th | 5:15 PM | In Person |14th Floor | <u><a href=\"https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator\">RSVP</a></u></b><br> <br><b>About this event</b><br>Discussion Topic: \"Leadership and Community Development\"<br>We invite you to participate in a thought-provoking dialogue about enhancing your leadership capabilities, both in and out of the classroom. Let’s unite, share insights, and forge impactful relationships that inspire transformation.<br><br>RSVP LINK: <a href=\"https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator\">https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator</a>"
-  },
-  {
     "title": "Mental Health Workshop",
     "link": "https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration",
     "college": "CUNY School of Labor and Urban Studies",
     "date": "2025-11-18",
     "time": "11:00 PM - 12:00 AM",
     "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
+  },
+  {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-14",
+    "time": "11:15 PM - 12:30 AM",
+    "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. <br><b>*Registration closes at 4:30pm on 11/14*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator\">HERE</a></b>"
+  },
+  {
+    "title": "BMI-SLU Leadership development roundtable",
+    "link": "https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-12",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<br><b>BMI</b><br><b>SLU Leadership Development Roundtable</b><br><b>Wednesday, November 12th | 5:15 PM | In Person |14th Floor | <u><a href=\"https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator\">RSVP</a></u></b><br> <br><b>About this event</b><br>Discussion Topic: \"Leadership and Community Development\"<br>We invite you to participate in a thought-provoking dialogue about enhancing your leadership capabilities, both in and out of the classroom. Let’s unite, share insights, and forge impactful relationships that inspire transformation.<br><br>RSVP LINK: <a href=\"https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator\">https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator</a>"
   }
 ]
