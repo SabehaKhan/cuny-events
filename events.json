@@ -1454,7 +1454,9 @@
     "tags": [
       "PLP",
       "Social",
-      "Student Life"
+      "Student Life",
+      "Food - Lunch",
+      "Food - Light Refreshments "
     ]
   },
   {
@@ -1481,19 +1483,6 @@
       "ASC",
       "Academic",
       "Tutoring"
-    ]
-  },
-  {
-    "title": "The HUB Virtual Hours",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376807",
-    "college": "Guttman Community College",
-    "date": "2025-11-12",
-    "time": "03:00 PM - 06:00 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "Discussion",
-      "Information Session"
     ]
   },
   {
@@ -1544,6 +1533,19 @@
     "tags": [
       "CCPP",
       "Career Workshop"
+    ]
+  },
+  {
+    "title": "Bedazzling With Stonewall",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376820",
+    "college": "Guttman Community College",
+    "date": "2025-11-13",
+    "time": "06:15 PM - 07:45 PM",
+    "tags": [
+      "LGBT",
+      "Social",
+      "LGBTQ+",
+      "Student Life"
     ]
   },
   {
@@ -1630,7 +1632,7 @@
     ]
   },
   {
-    "title": "Paint & Chill - Native American History Land Acknowledgement",
+    "title": "Paint & Chill (Student Life & The Art Club) - Native American History Land Acknowledgement",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376753",
     "college": "Guttman Community College",
     "date": "2025-11-18",
@@ -2295,17 +2297,6 @@
     ]
   },
   {
-    "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-11",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Storytelling 101",
     "link": "https://www.bmcc.cuny.edu/event/storytelling-101-3/",
     "college": "Borough of Manhattan Community College",
@@ -2390,6 +2381,7 @@
       "Academic Advisement & Transfer",
       "Allied Health Sciences",
       "Featured",
+      "Nursing",
       "Science"
     ]
   },
@@ -2436,12 +2428,13 @@
     ]
   },
   {
-    "title": "Jack Kent Cooke Foundation Undergraduate Transfer  Scholarship Application Workshops",
+    "title": "Jack Kent Cooke Foundation Undergraduate Transfer Scholarship Application Workshops",
     "link": "https://www.bmcc.cuny.edu/event/jack-kent-cooke-foundation-undergraduate-transfer-scholarship-application-workshops/2025-11-12/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-11-12",
     "time": "02:30 PM - 04:00 PM",
     "tags": [
+      "Featured",
       "Scholarships"
     ]
   },
@@ -2455,6 +2448,17 @@
       "Center for Belonging and Inclusion",
       "LGBTQ Pride Month",
       "Pride Center"
+    ]
+  },
+  {
+    "title": "The Moth Story Slam",
+    "link": "https://www.bmcc.cuny.edu/event/the-moth-story-slam/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-12",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "English",
+      "Featured"
     ]
   },
   {
@@ -2628,15 +2632,15 @@
     ]
   },
   {
-    "title": "Crafting Your Future: Resume and Cover Letter Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/crafting-your-future-resume-and-cover-letter-workshop-3/",
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga/2025-11-18/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-11-18",
-    "time": "12:00 PM - 01:00 PM",
+    "time": "11:00 AM - 12:00 PM",
     "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
     ]
   },
   {
@@ -2790,18 +2794,6 @@
       "Enrollment Management",
       "Feature",
       "Information Sessions"
-    ]
-  },
-  {
-    "title": "Elections and Advocacy Commission (Student Government)",
-    "link": "https://csi.campuslabs.com/engage/event/11539270",
-    "college": "College of Staten Island",
-    "date": "2025-11-11",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "CommunityService",
-      "Volunteer",
-      "Group Business"
     ]
   },
   {
@@ -3625,6 +3617,14 @@
     "tags": [
       "Technology Training"
     ]
+  },
+  {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/?p=663813",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-11",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": []
   },
   {
     "title": "Basic Formulas and Functions Part II",
