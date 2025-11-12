@@ -704,7 +704,7 @@
     "link": "https://www.law.cuny.edu/event/2nd-annual-cuny-wide-pre-law-conference/",
     "college": "CUNY School of Law",
     "date": "2026-01-15",
-    "time": "09:30 AM - 04:00 PM",
+    "time": "09:00 AM - 04:00 PM",
     "tags": [
       "Conference"
     ]
@@ -1284,17 +1284,6 @@
     ]
   },
   {
-    "title": "Thadingyut (Festival of Lights) Celebration",
-    "link": "https://www.laguardia.edu/event/thadingyut-festival-of-lights-celebration/2025-11-18/",
-    "college": "LaGuardia Community College",
-    "date": "2025-11-18",
-    "time": "12:30 PM - 04:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Calpulli Adults 50+ Dance Workshop & Final Presentation",
     "link": "https://www.laguardia.edu/event/calpulli-adults-50-dance-workshop-final-presentation/2025-11-18/",
     "college": "LaGuardia Community College",
@@ -1344,7 +1333,7 @@
     "link": "https://www.laguardia.edu/event/gratitude-fest/",
     "college": "LaGuardia Community College",
     "date": "2025-11-19",
-    "time": "12:00 PM - 04:00 PM",
+    "time": "01:00 PM - 04:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1352,7 +1341,7 @@
   },
   {
     "title": "Thadingyut (Festival of Lights) Celebration",
-    "link": "https://www.laguardia.edu/event/thadingyut-festival-of-lights-celebration/2025-11-19/",
+    "link": "https://www.laguardia.edu/event/thadingyut-festival-of-lights-celebration/",
     "college": "LaGuardia Community College",
     "date": "2025-11-19",
     "time": "01:00 PM - 04:00 PM",
@@ -1367,6 +1356,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-11-19",
     "time": "02:00 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Weekly Support Circle",
+    "link": "https://www.laguardia.edu/event/weekly-support-circle/2025-11-19/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-19",
+    "time": "03:30 PM - 04:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1944,26 +1944,6 @@
     "tags": []
   },
   {
-    "title": "Film and Media Talk with Transfers",
-    "link": "https://www.hunter.cuny.edu/event/film-and-media-talk-with-transfers/",
-    "college": "Hunter College",
-    "date": "2025-11-12",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Library & Archives Lunch Hour: Kathy Andrade - Threads of Resistance",
-    "link": "https://www.hunter.cuny.edu/event/library-archives-lunch-hour-kathy-andrade-threads-of-resistance/",
-    "college": "Hunter College",
-    "date": "2025-11-12",
-    "time": "12:00 PM - 12:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
     "title": "Navigating your Key to Success: Internship Strategy Workshop",
     "link": "https://www.hunter.cuny.edu/event/navigating-your-key-to-success-internship-strategy-workshop-12/",
     "college": "Hunter College",
@@ -2198,6 +2178,16 @@
     "college": "Hunter College",
     "date": "2025-11-19",
     "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Hunter Health Professions Day Panel Discussion",
+    "link": "https://www.hunter.cuny.edu/event/hunter-health-professions-day-panel-discussion/",
+    "college": "Hunter College",
+    "date": "2025-11-19",
+    "time": "02:30 PM - 04:00 PM",
     "tags": [
       "Student Events"
     ]
@@ -2741,6 +2731,14 @@
     "tags": []
   },
   {
+    "title": "BCC Senate",
+    "link": "https://www.bcc.cuny.edu/event/bcc-senate/2025-11-20/",
+    "college": "Bronx Community College",
+    "date": "2025-11-20",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "WOW Lecture - Globe Trotting: From Tourism to Leading a Life Abroad (259046-CC)",
     "link": "https://csi.campuslabs.com/engage/event/11540737",
     "college": "College of Staten Island",
@@ -2774,6 +2772,16 @@
     "tags": [
       "Social",
       "Willowbrook Campus"
+    ]
+  },
+  {
+    "title": "Tabling",
+    "link": "https://csi.campuslabs.com/engage/event/11883335",
+    "college": "College of Staten Island",
+    "date": "2025-11-12",
+    "time": "06:45 PM - 08:00 PM",
+    "tags": [
+      "Social"
     ]
   },
   {
@@ -4258,14 +4266,6 @@
   },
   {
     "title": "Campus Tour",
-    "link": "https://www.jjay.cuny.edu/news-events/events/campus-tour-5",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-12",
-    "time": "06:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Campus Tour",
     "link": "https://www.jjay.cuny.edu/news-events/events/campus-tour-6",
     "college": "John Jay College of Criminal Justice",
     "date": "2025-11-13",
@@ -4449,11 +4449,27 @@
     "tags": []
   },
   {
+    "title": "CareerCon: Healthcare & Community Services",
+    "link": "https://www.jjay.cuny.edu/news-events/events/careercon-healthcare-community-services-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-02-18",
+    "time": "04:00 PM",
+    "tags": []
+  },
+  {
     "title": "The Friedman Transfer Scholars Program: Virtual Information Session",
     "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-3/",
     "college": "Macaulay Honors College",
     "date": "2025-11-13",
     "time": "6:30PM",
+    "tags": []
+  },
+  {
+    "title": "Seminario de Cultura Mexicana Comes to New York City",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/seminario-de-cultura-mexicana-comes-to-new-york-city/",
+    "college": "Macaulay Honors College",
+    "date": "2025-11-17",
+    "time": "6:00PM",
     "tags": []
   },
   {
@@ -4485,7 +4501,7 @@
     "link": "https://macaulay.cuny.edu/calendar-of-events/wellness-symposium/",
     "college": "Macaulay Honors College",
     "date": "2025-12-05",
-    "time": "10:00 AM - 8:00PM",
+    "time": "10:00 AM - 5:30PM",
     "tags": []
   },
   {
@@ -4761,30 +4777,6 @@
     "description": ""
   },
   {
-    "title": "Deciding Who Was Worth Saving: American Universities and the Refugee Scholars of the Nazi Era",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-12-deciding-who-was-worth-saving-american-universities-and-the-refugee-scholars-of-the-nazi-era.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-12",
-    "time": "12:00 PM - 01:30 PM",
-    "description": "Club Event"
-  },
-  {
-    "title": "Women's Group",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-12-womens-group.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-12",
-    "time": "12:10 PM - 02:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "The Importance of Networking: Building for Personal & Professional Growth",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-12-The-Importance-of-Networking-How-to-Network.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-12",
-    "time": "12:15 PM - 02:00 PM",
-    "description": "R.I.S.E. program event"
-  },
-  {
     "title": "FAFSA Fest",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-12-fafsa-fest.html",
     "college": "Queensborough Community College",
@@ -4921,12 +4913,44 @@
     "description": "Male Resource Center Event"
   },
   {
+    "title": "Pathways to Medicine: YSEMA – Building Tomorrow’s Healthcare Leaders",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-17-pathways-to-medicine-ysema-building-tomorrows-healthcare-leaders.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-17",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "ASAP Career Event"
+  },
+  {
+    "title": "Fresh Food Bag Program",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-18-fresh-food-bag-program.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-18",
+    "time": "12:00 PM - 12:30 PM",
+    "description": "Fight Campus Hunger Event"
+  },
+  {
+    "title": "R101 Certificate Class",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-18-r101-certificate-class.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-18",
+    "time": "02:10 PM - 03:30 PM",
+    "description": "Conference and Workshop"
+  },
+  {
     "title": "Feel the Fear and Present Anyway",
     "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
     "date": "2025-11-14",
     "time": "11:15 PM - 12:30 AM",
     "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. <br><b>*Registration closes at 4:30pm on 11/14*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator\">HERE</a></b>"
+  },
+  {
+    "title": "Mental Health Workshop",
+    "link": "https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-18",
+    "time": "11:00 PM - 12:00 AM",
+    "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
   },
   {
     "title": "BMI-SLU Leadership development roundtable",
@@ -4945,11 +4969,11 @@
     "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
   },
   {
-    "title": "Mental Health Workshop",
-    "link": "https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration",
+    "title": "Idea Generation Workshop",
+    "link": "https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.participate.nyc.gov%2Fprocesses%2FCitywidepb2023%2Ff%2F26%2Fproposals&amp;data=05%7C02%7Cancarrion%40civicengagement.nyc.gov%7Ce3463eac3c744e2a04c108de1c90afcd%7C73d61799c28440228d4154cc4f1929ef%7C0%7C0%7C638979604916947126%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=8Z8G6RspWeWLJIpBX2gurTXNEZh436pL9gztnKV%2FV1I%3D&amp;reserved=0",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-18",
-    "time": "11:00 PM - 12:00 AM",
-    "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
+    "date": "2025-11-13",
+    "time": "10:00 PM - 11:15 PM",
+    "description": "<br><p>The NYC Civic Engagement Commission (CEC) is excited to launch the fourth cycle of <strong>The People’s Money</strong> <strong>2025/26</strong><em><i><strong> </strong></i></em>participatory budgeting process! All New Yorkers age 11 and up, regardless of immigration status, will be able to decide how to spend $4-million of the city’s budget. Last year, the CEC ran this citywide process for the third time in NYC history, inviting thousands of residents to submit ideas and ultimately vote on programs for their communities. <a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.participate.nyc.gov%2Fprocesses%2FCitywidepb2023%2Ff%2F26%2Fproposals&amp;data=05%7C02%7Cancarrion%40civicengagement.nyc.gov%7Ce3463eac3c744e2a04c108de1c90afcd%7C73d61799c28440228d4154cc4f1929ef%7C0%7C0%7C638979604916947126%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=8Z8G6RspWeWLJIpBX2gurTXNEZh436pL9gztnKV%2FV1I%3D&amp;reserved=0\" target=\"_blank\"><u>See the funded programs from last year!</u></a></p><p><strong>CUNY School of Labor &amp; Urban Studies </strong>is hosting an Idea Generation Workshop (60-minutes long) to help brainstorm ideas for how to spend $4-million of the city budget on expense projects! Make your voice heard! Please see the workshop details below:</p><ul><li><strong>When: </strong>Thursday, November 13th | 5:00PM - 6:15PM</li><li><strong>Where: </strong>25 W 43rd Street, 14th Floor, Room 1430, New York, NY 10036</li></ul>"
   }
 ]
