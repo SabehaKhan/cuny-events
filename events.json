@@ -1,21 +1,5 @@
 [
   {
-    "title": "The Thomas Haines Memorial Seminar: Peter B. Moore, \"Structural Biology: Past, Present and Future\"",
-    "link": "https://www.ccny.cuny.edu/calendar/thomas-haines-memorial-seminar-peter-b-moore-structural-biology-past-present-and-future",
-    "college": "City College of New York",
-    "date": "2025-11-12",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "LGBTQ+ Peer Support Group",
-    "link": "https://www.ccny.cuny.edu/calendar/lgbtq-peer-support-group-56",
-    "college": "City College of New York",
-    "date": "2025-11-12",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "Pure Land - Documentary screening with Q&A",
     "link": "https://www.ccny.cuny.edu/calendar/pure-land-documentary-screening-qa",
     "college": "City College of New York",
@@ -45,14 +29,6 @@
     "college": "City College of New York",
     "date": "2025-11-12",
     "time": "04:00 PM - 05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Cultivating Communities of Care Leadership Series",
-    "link": "https://www.ccny.cuny.edu/calendar/cultivating-communities-care-leadership-series-1",
-    "college": "City College of New York",
-    "date": "2025-11-13",
-    "time": "12:00 PM - 02:00 PM",
     "tags": []
   },
   {
@@ -744,6 +720,16 @@
     "tags": []
   },
   {
+    "title": "CCM Year-End Celebration",
+    "link": "https://www.journalism.cuny.edu/events/ccm-year-end-celebration/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-12-09",
+    "time": "05:30 PM - 07:30 PM",
+    "tags": [
+      "Center for Community Media"
+    ]
+  },
+  {
     "title": "Career Virtual Help",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/0b9dba88-530b-4913-8209-696cb99cb88f",
     "college": "Kingsborough Community College",
@@ -1072,61 +1058,6 @@
     "tags": []
   },
   {
-    "title": "Environmental Science Demonstration Day – Fall Open House",
-    "link": "https://www.laguardia.edu/event/environmental-science-demonstration-day-fall-open-house/",
-    "college": "LaGuardia Community College",
-    "date": "2025-11-12",
-    "time": "11:00 AM - 02:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-11-12/",
-    "college": "LaGuardia Community College",
-    "date": "2025-11-12",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-84/",
-    "college": "LaGuardia Community College",
-    "date": "2025-11-12",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Queer Artist Talk: Valeria Avina",
-    "link": "https://www.laguardia.edu/event/queer-artist-talk-valeria-avina/",
-    "college": "LaGuardia Community College",
-    "date": "2025-11-12",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Art and Design Fair",
-    "link": "https://www.laguardia.edu/event/art-and-design-fair/",
-    "college": "LaGuardia Community College",
-    "date": "2025-11-12",
-    "time": "12:00 PM - 03:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Malala Fund Fundraising Event",
     "link": "https://www.laguardia.edu/event/malala-fund-fundraising-event/",
     "college": "LaGuardia Community College",
@@ -1136,28 +1067,6 @@
       "all calendars",
       "community & business events",
       "Faculty and Staff",
-      "student events"
-    ]
-  },
-  {
-    "title": "Exploring AI & Cybersecurity with Python: Free 4-Day Virtual Seminar!",
-    "link": "https://www.laguardia.edu/event/exploring-ai-cybersecurity-with-python-free-4-day-virtual-seminar/2025-11-12/",
-    "college": "LaGuardia Community College",
-    "date": "2025-11-12",
-    "time": "02:30 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Fireside Chat: In Conversation with Roman Senkov & Habiba Boumlik",
-    "link": "https://www.laguardia.edu/event/fireside-chat-in-conversation-with-roman-senkov-habiba-boumlik/",
-    "college": "LaGuardia Community College",
-    "date": "2025-11-12",
-    "time": "02:30 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
       "student events"
     ]
   },
@@ -1318,6 +1227,17 @@
     ]
   },
   {
+    "title": "Ask an SSM | Job Info Session",
+    "link": "https://www.laguardia.edu/event/ask-an-ssm-job-info-session/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-19",
+    "time": "10:30 AM - 03:15 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Mindfulness Meditation Wednesdays (In-Person)",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-11-19/",
     "college": "LaGuardia Community College",
@@ -1367,6 +1287,72 @@
     "college": "LaGuardia Community College",
     "date": "2025-11-19",
     "time": "03:30 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mocktails and Mock Interviews: Student-Alumni Mixer",
+    "link": "https://www.laguardia.edu/event/mocktails-and-mock-interviews-student-alumni-mixer/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-19",
+    "time": "05:00 PM - 06:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays/2025-11-19/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-19",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Ask an SSM | Job Info Session",
+    "link": "https://www.laguardia.edu/event/ask-an-ssm-job-info-session-2/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-20",
+    "time": "10:30 AM - 03:15 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-11-20/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-20",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "LGBTQ+ & Questioning: K-12 Grade Stories",
+    "link": "https://www.laguardia.edu/event/lgbtq-questioning-k-12-grade-stories/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-20",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Karaoke Time",
+    "link": "https://www.laguardia.edu/event/karaoke-time/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-20",
+    "time": "02:00 PM - 03:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1936,52 +1922,6 @@
     ]
   },
   {
-    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-6/",
-    "college": "Hunter College",
-    "date": "2025-11-12",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Navigating your Key to Success: Internship Strategy Workshop",
-    "link": "https://www.hunter.cuny.edu/event/navigating-your-key-to-success-internship-strategy-workshop-12/",
-    "college": "Hunter College",
-    "date": "2025-11-12",
-    "time": "01:30 PM - 02:30 PM",
-    "tags": [
-      "Career Center"
-    ]
-  },
-  {
-    "title": "Seminar: Matthew Baker (Hunter College)",
-    "link": "https://www.hunter.cuny.edu/event/upcoming-seminar-matthew-baker-hunter-college/",
-    "college": "Hunter College",
-    "date": "2025-11-12",
-    "time": "01:30 PM - 03:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Dancing with the Dean",
-    "link": "https://www.hunter.cuny.edu/event/dancing-with-the-dean/2025-11-12/",
-    "college": "Hunter College",
-    "date": "2025-11-12",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Human Biology - Careers Info Session",
-    "link": "https://www.hunter.cuny.edu/event/human-biology-careers-info-session/",
-    "college": "Hunter College",
-    "date": "2025-11-12",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": []
-  },
-  {
     "title": "Hunter Underground: Unplugged",
     "link": "https://www.hunter.cuny.edu/event/hunter-underground-unplugged/2025-11-12/",
     "college": "Hunter College",
@@ -2094,6 +2034,16 @@
     "tags": []
   },
   {
+    "title": "Study Session",
+    "link": "https://www.hunter.cuny.edu/event/study-session/",
+    "college": "Hunter College",
+    "date": "2025-11-18",
+    "time": "10:00 AM - 12:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Purple PEERiod Project",
     "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-12/",
     "college": "Hunter College",
@@ -2193,85 +2143,42 @@
     ]
   },
   {
-    "title": "Career Day 4: Legal, Law Enforcement, and Public Service Virtual Job Fair",
-    "link": "https://www.bmcc.cuny.edu/event/career-day-4-legal-law-enforcement-and-public-service-job-fair-virtual-on-handshake/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-12",
-    "time": "12:00 PM - 03:00 PM",
+    "title": "The Power of Mindfulness – Counseling Workshop",
+    "link": "https://www.hunter.cuny.edu/event/the-power-of-mindfulness-counseling-workshop-4/",
+    "college": "Hunter College",
+    "date": "2025-11-19",
+    "time": "02:30 PM - 04:30 PM",
     "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Criminal Justice",
-      "Human Services",
-      "Human Services and Criminal Justice"
+      "Student Events"
     ]
   },
   {
-    "title": "SUNY Downstate Health Sciences University Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/suny-downstate-health-sciences-university-information-session-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-12",
-    "time": "02:00 PM - 03:30 PM",
+    "title": "Undergraduate Nutrition Program Information Session (NFS and NW)",
+    "link": "https://www.hunter.cuny.edu/event/undergraduate-nutrition-program-information-sessions-nfs-and-nw-11-19-25/",
+    "college": "Hunter College",
+    "date": "2025-11-19",
+    "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "Academic Advisement & Transfer",
-      "Allied Health Sciences",
-      "Featured",
-      "Nursing",
-      "Science"
+      "Open Houses"
     ]
   },
   {
-    "title": "Academic Notice Back to Success Power Hour",
-    "link": "https://www.bmcc.cuny.edu/event/academic-notice-back-to-success-power-hour-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-12",
-    "time": "02:00 PM - 03:30 PM",
+    "title": "Info Session: Miranda Family Fellowship at the Public Theater",
+    "link": "https://www.hunter.cuny.edu/event/info-session-miranda-family-fellowship-at-the-public-theater/",
+    "college": "Hunter College",
+    "date": "2025-11-19",
+    "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "Counseling Center"
+      "Student Events"
     ]
   },
   {
-    "title": "Healing Rhythms: Drumming Circle",
-    "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle-6-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-12",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Counseling Center"
-    ]
-  },
-  {
-    "title": "Take a Break with Zines!",
-    "link": "https://www.bmcc.cuny.edu/event/library-event-take-a-break-with-zines-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-12",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Library"
-    ]
-  },
-  {
-    "title": "BMCC Storytelling Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-storytelling-workshop-2-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-12",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Co-Curricular Transcript",
-      "Speech",
-      "Communications and Theatre Arts"
-    ]
-  },
-  {
-    "title": "Jack Kent Cooke Foundation Undergraduate Transfer Scholarship Application Workshops",
-    "link": "https://www.bmcc.cuny.edu/event/jack-kent-cooke-foundation-undergraduate-transfer-scholarship-application-workshops/2025-11-12/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-12",
-    "time": "02:30 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "Scholarships"
-    ]
+    "title": "Lindsey White Goldberg Lecture and Last Art School Closing Event",
+    "link": "https://www.hunter.cuny.edu/event/lindsey-white-goldberg-lecture-and-last-art-school-closing-event/",
+    "college": "Hunter College",
+    "date": "2025-11-19",
+    "time": "07:00 PM - 09:00 PM",
+    "tags": []
   },
   {
     "title": "Pride Month: Self-Defense Workshop III with Fearless Queers",
@@ -2362,6 +2269,16 @@
     ]
   },
   {
+    "title": "Free Workshop: Intro to Computer Basics (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/online-free-workshop-intro-to-computer-basics-students-only-7/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-13",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
     "title": "CUNY in the Heights Open House",
     "link": "https://www.bmcc.cuny.edu/event/cuny-in-the-heights-open-house-4/",
     "college": "Borough of Manhattan Community College",
@@ -2391,6 +2308,17 @@
       "Science",
       "Urban Male Leadership Academy",
       "Women in STEM"
+    ]
+  },
+  {
+    "title": "Jack Kent Cooke Foundation Undergraduate Transfer Scholarship Application Workshops",
+    "link": "https://www.bmcc.cuny.edu/event/jack-kent-cooke-foundation-undergraduate-transfer-scholarship-application-workshops/2025-11-13/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-13",
+    "time": "05:30 PM - 07:00 PM",
+    "tags": [
+      "Featured",
+      "Scholarships"
     ]
   },
   {
@@ -2426,6 +2354,16 @@
       "Conexiones",
       "Featured",
       "Hispanic Heritage Month"
+    ]
+  },
+  {
+    "title": "Free Workshop: Microsoft Excel Orientation (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/online-free-workshop-microsoft-excel-orientation-students-only-264/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-15",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Learning Resource Center"
     ]
   },
   {
@@ -2559,27 +2497,39 @@
     ]
   },
   {
-    "title": "Admissions Application Workshop",
-    "link": "https://www.bcc.cuny.edu/event/admissions-application-workshop-3/",
-    "college": "Bronx Community College",
-    "date": "2025-11-12",
-    "time": "01:00 PM - 02:00 PM",
+    "title": "Sign Up for SafeZone 101 Training",
+    "link": "https://www.bmcc.cuny.edu/event/sign-up-for-safezone-101-training/2025-11-19/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-19",
+    "time": "12:00 PM - 02:00 PM",
     "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Information Sessions"
+      "Center for Belonging and Inclusion",
+      "Co-Curricular Transcript",
+      "Featured",
+      "LGBTQ Pride Month",
+      "Pride Center",
+      "Student Affairs"
     ]
   },
   {
-    "title": "Admissions Application Workshop",
-    "link": "https://www.bcc.cuny.edu/event/admissions-application-workshop-6/",
-    "college": "Bronx Community College",
-    "date": "2025-11-12",
-    "time": "03:00 PM - 04:00 PM",
+    "title": "Free Workshop: Microsoft Visual Studio (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/online-free-workshop-microsoft-visual-studio-students-only/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-19",
+    "time": "01:00 PM - 02:00 PM",
     "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Information Sessions"
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Academic Notice Back to Success Power Hour",
+    "link": "https://www.bmcc.cuny.edu/event/academic-notice-back-to-success-power-hour/2025-11-19/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-19",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured"
     ]
   },
   {
@@ -2739,49 +2689,36 @@
     "tags": []
   },
   {
-    "title": "WOW Lecture - Globe Trotting: From Tourism to Leading a Life Abroad (259046-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/11540737",
-    "college": "College of Staten Island",
-    "date": "2025-11-12",
-    "time": "05:20 PM - 06:10 PM",
+    "title": "Trans Day of Remembrance",
+    "link": "https://www.bcc.cuny.edu/event/trans-day-of-remembrance/",
+    "college": "Bronx Community College",
+    "date": "2025-11-20",
+    "time": "02:30 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Zoom into Majors: Education",
+    "link": "https://www.bcc.cuny.edu/event/zoom-into-majors-education/",
+    "college": "Bronx Community College",
+    "date": "2025-11-20",
+    "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "Cultural",
-      "Learning",
-      "Global Engagement"
+      "Enrollment Management",
+      "Feature",
+      "Information Sessions"
     ]
   },
   {
-    "title": "First Aid Training - 11/12 at 12:30pm (259074-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11870304",
-    "college": "College of Staten Island",
-    "date": "2025-11-12",
-    "time": "05:30 PM - 06:30 PM",
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2025-11-21/",
+    "college": "Bronx Community College",
+    "date": "2025-11-21",
+    "time": "02:00 PM - 05:00 PM",
     "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Health and Wellness",
-      "VELA"
-    ]
-  },
-  {
-    "title": "Weekly Tea Time",
-    "link": "https://csi.campuslabs.com/engage/event/11507175",
-    "college": "College of Staten Island",
-    "date": "2025-11-12",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Social",
-      "Willowbrook Campus"
-    ]
-  },
-  {
-    "title": "Tabling",
-    "link": "https://csi.campuslabs.com/engage/event/11883335",
-    "college": "College of Staten Island",
-    "date": "2025-11-12",
-    "time": "06:45 PM - 08:00 PM",
-    "tags": [
-      "Social"
+      "Enrollment Management",
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
     ]
   },
   {
@@ -3037,11 +2974,11 @@
     ]
   },
   {
-    "title": "Weekly Tea Time",
+    "title": "Weekly Tea Time (Gaysgiving Edition)",
     "link": "https://csi.campuslabs.com/engage/event/11507176",
     "college": "College of Staten Island",
     "date": "2025-11-19",
-    "time": "06:00 PM - 07:00 PM",
+    "time": "06:00 PM - 08:00 PM",
     "tags": [
       "Social",
       "Willowbrook Campus"
@@ -4305,6 +4242,22 @@
     "tags": []
   },
   {
+    "title": "Writing Law/Grad School Personal Statements",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-lawgrad-school-personal-statements-1",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-17",
+    "time": "06:40 PM",
+    "tags": []
+  },
+  {
+    "title": "Writing the Lit Paper: Constructing Arguments",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-lit-paper-constructing-arguments-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-17",
+    "time": "06:40 PM",
+    "tags": []
+  },
+  {
     "title": "CareerCon: Technology & Marketing",
     "link": "https://www.jjay.cuny.edu/news-events/events/careercon-technology-marketing",
     "college": "John Jay College of Criminal Justice",
@@ -4329,6 +4282,22 @@
     "tags": []
   },
   {
+    "title": "Evaluating Internet & Print Research Sources",
+    "link": "https://www.jjay.cuny.edu/news-events/events/evaluating-internet-print-research-sources-2",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-18",
+    "time": "09:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Writing a Social Science Research Proposal",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-social-science-research-proposal-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-18",
+    "time": "09:30 PM",
+    "tags": []
+  },
+  {
     "title": "CareerCon: Technology & Marketing",
     "link": "https://www.jjay.cuny.edu/news-events/events/careercon-technology-marketing-0",
     "college": "John Jay College of Criminal Justice",
@@ -4342,6 +4311,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-11-19",
     "time": "06:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Writing a Research Paper",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-research-paper",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-20",
+    "time": "06:40 PM",
     "tags": []
   },
   {
@@ -4377,83 +4354,43 @@
     "tags": []
   },
   {
-    "title": "Study Abroad in Austria: Summer '26",
-    "link": "https://www.jjay.cuny.edu/news-events/events/study-abroad-austria-summer-26-1",
+    "title": "Documenting Research APA Style",
+    "link": "https://www.jjay.cuny.edu/news-events/events/documenting-research-apa-style-2",
     "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-25",
-    "time": "10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Town Hall",
-    "link": "https://www.jjay.cuny.edu/news-events/events/town-hall-6",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-12-08",
+    "date": "2025-11-24",
     "time": "06:40 PM",
     "tags": []
   },
   {
-    "title": "Rising Scholars of Justice Program Info Session",
-    "link": "https://www.jjay.cuny.edu/news-events/events/rising-scholars-justice-program-info-session",
+    "title": "The Lysistrata Project or No Womb Left Behind",
+    "link": "https://www.jjay.cuny.edu/news-events/events/lysistrata-project-or-no-womb-left-behind",
     "college": "John Jay College of Criminal Justice",
-    "date": "2025-12-08",
+    "date": "2025-11-24",
+    "time": "06:40 PM",
+    "tags": []
+  },
+  {
+    "title": "Writing Law/Grad School Personal Statements",
+    "link": "https://www.jjay.cuny.edu/news-events/events/writing-lawgrad-school-personal-statements-3",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-24",
     "time": "11:00 PM",
     "tags": []
   },
   {
-    "title": "Emotional Borderlands: Border Policing, Emotional Labour & Affective Governance",
-    "link": "https://www.jjay.cuny.edu/news-events/events/emotional-borderlands-border-policing-emotional-labour-affective-governance",
+    "title": "The Lysistrata Project or No Womb Left Behind",
+    "link": "https://www.jjay.cuny.edu/news-events/events/lysistrata-project-or-no-womb-left-behind-0",
     "college": "John Jay College of Criminal Justice",
-    "date": "2025-12-10",
-    "time": "06:30 PM",
+    "date": "2025-11-25",
+    "time": "12:30 AM",
     "tags": []
   },
   {
-    "title": "Fall Grad Fair",
-    "link": "https://www.jjay.cuny.edu/news-events/events/fall-grad-fair",
+    "title": "Avoiding Sentence Errors: Commas",
+    "link": "https://www.jjay.cuny.edu/news-events/events/avoiding-sentence-errors-commas-1",
     "college": "John Jay College of Criminal Justice",
-    "date": "2025-12-11",
-    "time": "06:40 PM",
-    "tags": []
-  },
-  {
-    "title": "Rising Scholars of Justice Program Info Session",
-    "link": "https://www.jjay.cuny.edu/news-events/events/rising-scholars-justice-program-info-session-1",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-01-16",
-    "time": "07:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CareerCon: Finance & Consulting",
-    "link": "https://www.jjay.cuny.edu/news-events/events/careercon-finance-consulting",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-02-04",
-    "time": "04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CareerCon: Finance & Consulting",
-    "link": "https://www.jjay.cuny.edu/news-events/events/careercon-finance-consulting-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-02-05",
-    "time": "04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CareerCon: Healthcare & Community Services",
-    "link": "https://www.jjay.cuny.edu/news-events/events/careercon-healthcare-community-services",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-02-17",
-    "time": "04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CareerCon: Healthcare & Community Services",
-    "link": "https://www.jjay.cuny.edu/news-events/events/careercon-healthcare-community-services-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-02-18",
-    "time": "04:00 PM",
+    "date": "2025-11-25",
+    "time": "05:15 AM",
     "tags": []
   },
   {
@@ -4609,6 +4546,14 @@
     "tags": []
   },
   {
+    "title": "Oodles and Noodles",
+    "link": "https://www.york.cuny.edu/events/oodles-and-noodles",
+    "college": "York College",
+    "date": "2025-11-13",
+    "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
     "title": "FirstGenU Career Institute Info. Session",
     "link": "https://www.york.cuny.edu/events/firstgenu-career-institute-info-session",
     "college": "York College",
@@ -4638,14 +4583,6 @@
     "college": "York College",
     "date": "2025-11-14",
     "time": "4:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Constructing Your Career as a Clinical Lab Science Major",
-    "link": "https://www.york.cuny.edu/events/constructing-your-career-as-a-clinical-lab-science-major-1",
-    "college": "York College",
-    "date": "2025-11-17",
-    "time": "5:00 PM - 7:00 PM",
     "tags": []
   },
   {
@@ -4777,38 +4714,6 @@
     "description": ""
   },
   {
-    "title": "FAFSA Fest",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-12-fafsa-fest.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-12",
-    "time": "01:00 PM - 04:00 PM",
-    "description": "Financial Aid Event"
-  },
-  {
-    "title": "Beyond the Classroom: Discover Research and Volunteer Experiences at QCC",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-12-beyond-the-classroom-discover-research-and-volunteer-experiences-at-qcc.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-12",
-    "time": "02:00 PM - 03:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "Pathways After Graduation: Workforce or Bachelor's Degree",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-12-pathways-after-graduation-workforce-or-bachelors-degree.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-12",
-    "time": "02:30 PM - 03:30 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "Webinar: The College Discovery Program at QCC",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-12-webinar-the-college-discovery-program-at-qcc.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-12",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "Admissions Event"
-  },
-  {
     "title": "Bites & Insights: Office of Student Success",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-13-bites-insights-office-of-student-success.html",
     "college": "Queensborough Community College",
@@ -4921,6 +4826,14 @@
     "description": "ASAP Career Event"
   },
   {
+    "title": "General Chemistry I Workshop Series Week 8: Lewis Dot Structure",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-18-general-chemistry-i-workshop-series-week-8-lewis-dot-structure.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-18",
+    "time": "11:00 AM - 12:00 PM",
+    "description": "Club Event"
+  },
+  {
     "title": "Fresh Food Bag Program",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-18-fresh-food-bag-program.html",
     "college": "Queensborough Community College",
@@ -4937,12 +4850,28 @@
     "description": "Conference and Workshop"
   },
   {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator",
+    "title": "Building Beyond the Classroom: Tech Opportunities from R.I.S.E. & the Coding Club",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-18-building-beyond-the-classroom-tech-opportunities-from-rise-the-coding-club.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-18",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "ASAP Career Event"
+  },
+  {
+    "title": "Knitting Hour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-18-knitting-hour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-18",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "Student Event"
+  },
+  {
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-14",
-    "time": "11:15 PM - 12:30 AM",
-    "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. <br><b>*Registration closes at 4:30pm on 11/14*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator\">HERE</a></b>"
+    "date": "2025-11-12",
+    "time": "05:00 PM - 06:00 PM",
+    "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
   },
   {
     "title": "Mental Health Workshop",
@@ -4953,20 +4882,20 @@
     "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
   },
   {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-14",
+    "time": "11:15 PM - 12:30 AM",
+    "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. <br><b>*Registration closes at 4:30pm on 11/14*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator\">HERE</a></b>"
+  },
+  {
     "title": "BMI-SLU Leadership development roundtable",
     "link": "https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
     "date": "2025-11-12",
     "time": "10:15 PM - 11:15 PM",
     "description": "<br><b>BMI</b><br><b>SLU Leadership Development Roundtable</b><br><b>Wednesday, November 12th | 5:15 PM | In Person |14th Floor | <u><a href=\"https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator\">RSVP</a></u></b><br> <br><b>About this event</b><br>Discussion Topic: \"Leadership and Community Development\"<br>We invite you to participate in a thought-provoking dialogue about enhancing your leadership capabilities, both in and out of the classroom. Let’s unite, share insights, and forge impactful relationships that inspire transformation.<br><br>RSVP LINK: <a href=\"https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator\">https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator</a>"
-  },
-  {
-    "title": "Employer Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-12",
-    "time": "05:00 PM - 06:00 PM",
-    "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
   },
   {
     "title": "Idea Generation Workshop",
