@@ -4921,22 +4921,6 @@
     "description": "Male Resource Center Event"
   },
   {
-    "title": "Mental Health Workshop",
-    "link": "https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-18",
-    "time": "11:00 PM - 12:00 AM",
-    "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
-  },
-  {
-    "title": "Employer Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-12",
-    "time": "05:00 PM - 06:00 PM",
-    "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
-  },
-  {
     "title": "Feel the Fear and Present Anyway",
     "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
@@ -4951,5 +4935,21 @@
     "date": "2025-11-12",
     "time": "10:15 PM - 11:15 PM",
     "description": "<br><b>BMI</b><br><b>SLU Leadership Development Roundtable</b><br><b>Wednesday, November 12th | 5:15 PM | In Person |14th Floor | <u><a href=\"https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator\">RSVP</a></u></b><br> <br><b>About this event</b><br>Discussion Topic: \"Leadership and Community Development\"<br>We invite you to participate in a thought-provoking dialogue about enhancing your leadership capabilities, both in and out of the classroom. Let’s unite, share insights, and forge impactful relationships that inspire transformation.<br><br>RSVP LINK: <a href=\"https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator\">https://www.eventbrite.com/e/bmi-slu-leadership-development-roundtable-tickets-1956670306559?aff=oddtdtcreator</a>"
+  },
+  {
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-12",
+    "time": "05:00 PM - 06:00 PM",
+    "description": "<b>Registration link</b>: <a href=\"https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration\">https://us02web.zoom.us/meeting/register/vFFdThK7TvKu5WG1NHeWXw#/registration</a>"
+  },
+  {
+    "title": "Mental Health Workshop",
+    "link": "https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2025-11-18",
+    "time": "11:00 PM - 12:00 AM",
+    "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
   }
 ]
