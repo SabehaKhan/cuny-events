@@ -1,29 +1,5 @@
 [
   {
-    "title": "Django Festival All Stars Jazz Master Class",
-    "link": "https://www.ccny.cuny.edu/calendar/django-festival-all-stars-jazz-master-class",
-    "college": "City College of New York",
-    "date": "2025-11-14",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": []
-  },
-  {
-    "title": "City Reading Series",
-    "link": "https://www.ccny.cuny.edu/calendar/city-reading-series-0",
-    "college": "City College of New York",
-    "date": "2025-11-14",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Clothesline",
-    "link": "https://www.ccny.cuny.edu/calendar/clothesline",
-    "college": "City College of New York",
-    "date": "2025-11-14",
-    "time": "07:30 PM - 09:30 PM",
-    "tags": []
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-14",
     "college": "City College of New York",
@@ -966,17 +942,6 @@
     "tags": []
   },
   {
-    "title": "Queens College Transfer Honors Program (THP) Virtual Open House",
-    "link": "https://www.laguardia.edu/event/queens-college-transfer-honors-program-thp-virtual-open-house/",
-    "college": "LaGuardia Community College",
-    "date": "2025-11-14",
-    "time": "03:30 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "FDNY Recruitment",
     "link": "https://www.laguardia.edu/event/fdny-recruitment/",
     "college": "LaGuardia Community College",
@@ -1286,40 +1251,15 @@
     ]
   },
   {
-    "title": "CUNY Wide Career Resource Expo",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376762",
-    "college": "Guttman Community College",
-    "date": "2025-11-14",
-    "time": "04:00 PM - 08:00 PM",
+    "title": "Mental Health First Aid Training",
+    "link": "https://www.laguardia.edu/event/mental-health-first-aid-training/",
+    "college": "LaGuardia Community College",
+    "date": "2025-11-21",
+    "time": "09:00 AM - 05:00 PM",
     "tags": [
-      "EMSA",
-      "Job/Volunteer Opportunities",
-      "AccessABILITY Services"
-    ]
-  },
-  {
-    "title": "The HUB Virtual Hours",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376813",
-    "college": "Guttman Community College",
-    "date": "2025-11-14",
-    "time": "04:00 PM - 07:00 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "Discussion",
-      "Information Session"
-    ]
-  },
-  {
-    "title": "Gaming Grizzlies Weekly Watch Party",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376712",
-    "college": "Guttman Community College",
-    "date": "2025-11-14",
-    "time": "08:00 PM - 10:00 PM",
-    "tags": [
-      "TGG",
-      "Meeting",
-      "Student Life"
+      "all calendars",
+      "Faculty and Staff",
+      "student events"
     ]
   },
   {
@@ -1822,14 +1762,6 @@
     ]
   },
   {
-    "title": "Hunter Underground: Unplugged",
-    "link": "https://www.hunter.cuny.edu/event/hunter-underground-unplugged/2025-11-14/",
-    "college": "Hunter College",
-    "date": "2025-11-14",
-    "time": "05:30 PM - 08:30 PM",
-    "tags": []
-  },
-  {
     "title": "Arts Outing: Stravinsky & Marsalis at the NY Phil",
     "link": "https://www.hunter.cuny.edu/event/stravinsky-marsalis/",
     "college": "Hunter College",
@@ -2091,15 +2023,13 @@
     ]
   },
   {
-    "title": "Hispanic Heritage Month: Las Hermanas Mirabal: Una Historia de Heroísmo, Entrega y Liberación",
-    "link": "https://www.bmcc.cuny.edu/event/hispanic-heritage-month-las-hermanas-mirabal-una-historia-de-heroismo-entrega-y-liberacion/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-14",
-    "time": "03:00 PM - 05:00 PM",
+    "title": "Fine Dining and Business Etiquette",
+    "link": "https://www.hunter.cuny.edu/event/fine-dining-and-business-etiquette-event-2/",
+    "college": "Hunter College",
+    "date": "2025-11-20",
+    "time": "02:30 PM - 04:00 PM",
     "tags": [
-      "Conexiones",
-      "Featured",
-      "Hispanic Heritage Month"
+      "Student Events"
     ]
   },
   {
@@ -2155,6 +2085,7 @@
     "date": "2025-11-17",
     "time": "12:00 PM - 02:00 PM",
     "tags": [
+      "Diplomatic Engagement and Training",
       "Ethnic and Race Studies",
       "Featured",
       "Native American Heritage"
@@ -2387,12 +2318,13 @@
     ]
   },
   {
-    "title": "Hispanic Heritage Month:  Consulate General of Mexico New York",
+    "title": "Hispanic Heritage Month: Consulate General of Mexico New York",
     "link": "https://www.bmcc.cuny.edu/event/hispanic-heritage-month-consulate-general-of-mexico-new-york/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-11-19",
     "time": "02:00 PM - 04:00 PM",
     "tags": [
+      "Diplomatic Engagement and Training",
       "Featured",
       "Hispanic Heritage Month"
     ]
@@ -2409,16 +2341,26 @@
     ]
   },
   {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2025-11-14/",
-    "college": "Bronx Community College",
-    "date": "2025-11-14",
-    "time": "02:00 PM - 05:00 PM",
+    "title": "Bringing the World Back Home: Faculty Reflections on Study Abroad",
+    "link": "https://www.bmcc.cuny.edu/event/bringing-the-world-back-home-faculty-reflections-on-study-abroad/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-20",
+    "time": "12:00 PM - 01:00 PM",
     "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
+      "Featured",
+      "Study Abroad"
+    ]
+  },
+  {
+    "title": "Free HIV/STi Testing for BMCC Students",
+    "link": "https://www.bmcc.cuny.edu/event/free-hiv-sti-testing-for-bmcc-students-9/2025-11-20/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-20",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
+      "Student Affairs"
     ]
   },
   {
@@ -2597,15 +2539,16 @@
     "tags": []
   },
   {
-    "title": "Alice in Slasherland",
-    "link": "https://csi.campuslabs.com/engage/event/11767372",
-    "college": "College of Staten Island",
-    "date": "2025-11-15",
-    "time": "12:00 AM - 02:00 AM",
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2025-12-01/",
+    "college": "Bronx Community College",
+    "date": "2025-12-01",
+    "time": "02:00 PM - 07:00 PM",
     "tags": [
-      "Arts",
-      "Entertainment",
-      "Cultural"
+      "Enrollment Management",
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
     ]
   },
   {
@@ -2642,7 +2585,12 @@
     "date": "2025-11-17",
     "time": "08:00 PM - 09:15 PM",
     "tags": [
-      "Cultural"
+      "Cultural",
+      "Learning",
+      "Health and Wellness",
+      "Global Engagement",
+      "Entertainment",
+      "Willowbrook Campus"
     ]
   },
   {
@@ -2758,6 +2706,18 @@
     ]
   },
   {
+    "title": "film screening of I Learn America",
+    "link": "https://csi.campuslabs.com/engage/event/11893790",
+    "college": "College of Staten Island",
+    "date": "2025-11-18",
+    "time": "07:30 PM - 09:30 PM",
+    "tags": [
+      "Cultural",
+      "Learning",
+      "Group Business"
+    ]
+  },
+  {
     "title": "WOW Lecture - Asian/Asian American Students and Mental Health: Challenges and Voices (259046-CC)",
     "link": "https://csi.campuslabs.com/engage/event/11541369",
     "college": "College of Staten Island",
@@ -2832,6 +2792,22 @@
     ]
   },
   {
+    "title": "International Sports Day 2025",
+    "link": "https://csi.campuslabs.com/engage/event/11893685",
+    "college": "College of Staten Island",
+    "date": "2025-11-20",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": [
+      "Athletics",
+      "Global Engagement",
+      "Fitness/Recreation",
+      "Social",
+      "Entertainment",
+      "Willowbrook Campus",
+      "Cultural"
+    ]
+  },
+  {
     "title": "The Photographic Portrait - A Conversation (259076-CC)",
     "link": "https://csi.campuslabs.com/engage/event/11818473",
     "college": "College of Staten Island",
@@ -2851,6 +2827,21 @@
     "time": "07:30 PM - 09:00 PM",
     "tags": [
       "ThoughtfulLearning"
+    ]
+  },
+  {
+    "title": "Film Screening (in-person): The Empty Classroom (2015, 1 hr 51 mins)",
+    "link": "https://csi.campuslabs.com/engage/event/11893799",
+    "college": "College of Staten Island",
+    "date": "2025-11-20",
+    "time": "07:30 PM - 09:00 PM",
+    "tags": [
+      "Cultural",
+      "Learning",
+      "Global Engagement",
+      "Film and Television",
+      "Entertainment",
+      "Willowbrook Campus"
     ]
   },
   {
@@ -3335,52 +3326,6 @@
     ]
   },
   {
-    "title": "CUNY Career Resource Expo",
-    "link": "https://events.cuny.edu/cec/cuny-career-resource-expo/",
-    "college": "The University",
-    "date": "2025-11-14",
-    "time": "11:00 AM - 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "From “Cool Japan” to “Your Japan” in 2025: What Japan Gets Right-and Wrong-About Cultural Promotion",
-    "link": "https://events.cuny.edu/cec/from-cool-japan-to-your-japan-in-2025-what-japan-gets-right-and-wrong-about-cultural-promotion/",
-    "college": "Asian American / Asian Research Institute",
-    "date": "2025-11-14",
-    "time": "6:00 PM - 7:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Alice in Slasherland",
-    "link": "https://events.cuny.edu/cec/alice-in-slasherland-2/",
-    "college": "College of Staten Island",
-    "date": "2025-11-14",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": [
-      "Division of Humanities and Social Sciences",
-      "Drama",
-      "Performing and Creative Arts"
-    ]
-  },
-  {
-    "title": "Clothesline",
-    "link": "https://events.cuny.edu/cec/clothesline/",
-    "college": "The City College of New York",
-    "date": "2025-11-14",
-    "time": "7:30 PM - 9:30 PM",
-    "tags": [
-      "CLOTHESLINE"
-    ]
-  },
-  {
-    "title": "Hispanic Heritage Month: Healthy Protein Bowls and Financial Literacy 101",
-    "link": "https://www.bmcc.cuny.edu/event/?p=663973",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-14",
-    "time": "12:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
     "title": "Alice in Slasherland",
     "link": "https://events.cuny.edu/cec/alice-in-slasherland-3/",
     "college": "College of Staten Island",
@@ -3401,60 +3346,63 @@
     "tags": []
   },
   {
-    "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh82",
+    "title": "Sunday Sync-Up",
+    "link": "https://events.cuny.edu/cec/sunday-sync-up-2/",
+    "college": "College of Staten Island",
+    "date": "2025-11-16",
+    "time": "10:00 AM - 10:30 AM",
+    "tags": [
+      "SEEK"
+    ]
+  },
+  {
+    "title": "360 ALLSTARS",
+    "link": "https://events.cuny.edu/cec/360-allstars/",
     "college": "Queens College",
-    "date": "2025-11-14",
-    "time": "",
+    "date": "2025-11-16",
+    "time": "4:00 PM - 5:00 PM",
     "tags": []
   },
   {
-    "title": "Teaching & Learning Showcase Fall 2025",
-    "link": "https://qc.event.cuny.edu/events/JFq0TUGd8OUpCmrSAveM/PoS3YEVy0UXYWA97GyBq",
-    "college": "Queens College",
-    "date": "2025-11-14",
-    "time": "8:00AM",
-    "tags": []
+    "title": "Data Visualization with Charts",
+    "link": "https://events.cuny.edu/cec/data-visualization-with-charts/",
+    "college": "College of Staten Island",
+    "date": "2025-11-17",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "Technology Training"
+    ]
   },
   {
-    "title": "FDNY",
-    "link": "https://qc.event.cuny.edu/events/I2ZDGOEYwrGfcqF2XrN4/ndaJcOFzdU52yk4Pj3r120",
-    "college": "Queens College",
-    "date": "2025-11-14",
-    "time": "8:00AM",
-    "tags": []
+    "title": "Film Screening: Bringing Science and Artivism: Participatory Filmmaking in Boarderlands",
+    "link": "https://events.cuny.edu/cec/film-screening-bringing-science-and-artivism-participatory-filmmaking-in-boarderlands/",
+    "college": "College of Staten Island",
+    "date": "2025-11-17",
+    "time": "10:15 AM - 12:00 PM",
+    "tags": [
+      "Division of Humanities and Social Sciences",
+      "Media Culture"
+    ]
   },
   {
-    "title": "Fall 2025- Time 2000 Event",
-    "link": "https://qc.event.cuny.edu/events/Gv51gAGv2k8Z0Ah3qlNs/tG4C2EDVD8DIE6QiLFLB",
-    "college": "Queens College",
-    "date": "2025-11-14",
-    "time": "8:00AM",
-    "tags": []
+    "title": "YASS! Mondays",
+    "link": "https://events.cuny.edu/cec/yass-mondays-15/",
+    "college": "The City College of New York",
+    "date": "2025-11-17",
+    "time": "12:00 PM - 4:00 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
   },
   {
-    "title": "Fall 2025- CUNY Explorers Tours",
-    "link": "https://qc.event.cuny.edu/events/bfx0Pn5kngM72WVy5tRt/ZQ0hCyh7oNng9W1JVsYO",
-    "college": "Queens College",
-    "date": "2025-11-14",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "TIME 2000 Conference",
-    "link": "https://qc.event.cuny.edu/events/sxEubKr1bcvJhNP1Tgj9/qDLhDmcnIUg92tK5L7PM",
-    "college": "Queens College",
-    "date": "2025-11-14",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Innovation in Education Conference 2025",
-    "link": "https://qc.event.cuny.edu/events/VQyk1gxyPz7nxOYBBCcp/Jnl4Tyt4ki8uE36SJXbu",
-    "college": "Queens College",
-    "date": "2025-11-14",
-    "time": "4:30PM",
-    "tags": []
+    "title": "Salzberg Chemistry Seminar: Yuemei Yi, Lehman College CUNY",
+    "link": "https://events.cuny.edu/cec/salzberg-chemistry-seminar-yuemei-yi-lehman-college-cuny/",
+    "college": "The City College of New York",
+    "date": "2025-11-17",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": [
+      "Salzberg Chemistry Seminar"
+    ]
   },
   {
     "title": "FA25 Hold off room",
@@ -3497,11 +3445,83 @@
     "tags": []
   },
   {
-    "title": "Fall 2025 Demo Day Event",
-    "link": "https://baruch.event.cuny.edu/events/P6VJYplgMqIv9MHVe0D6/VMWsEZT0x40ylGkYOriC",
-    "college": "Baruch College",
-    "date": "2025-11-14",
-    "time": "10:00AM",
+    "title": "Townsend Harris HS",
+    "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/sKtZ0wTOoIQ8IBw8wPri23",
+    "college": "Queens College",
+    "date": "2025-11-17",
+    "time": "10:30AM",
+    "tags": []
+  },
+  {
+    "title": "Knights Table Turkey Raffle",
+    "link": "https://qc.event.cuny.edu/events/ilVqTQOtkbSFFsAtdfy2/MeTRZJB1ylas1alHUWRV",
+    "college": "Queens College",
+    "date": "2025-11-17",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Free Weekly Yoga Class",
+    "link": "https://qc.event.cuny.edu/events/SYS2Ni5t5JQ8KWGFY35y/uBmAgj68lrqjNepbjYaQ",
+    "college": "Queens College",
+    "date": "2025-11-17",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2025- CUNY Explorers Tours",
+    "link": "https://qc.event.cuny.edu/events/bfx0Pn5kngM72WVy5tRt/k6CCBcAm3MZTigxPYoIq",
+    "college": "Queens College",
+    "date": "2025-11-17",
+    "time": "12:05PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Workshops",
+    "link": "https://qc.event.cuny.edu/events/P9vSfSPGwd6yHGxRD8y0/ZDueb4GWCJyOm9krt5xd24",
+    "college": "Queens College",
+    "date": "2025-11-17",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Chi Alpha Fellowship Group",
+    "link": "https://qc.event.cuny.edu/events/BT2slfKXrut03fZbKTDN/fDcqQeKSOYEmNf4IiNyS",
+    "college": "Queens College",
+    "date": "2025-11-17",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Dance Union Fall Dance Workshop",
+    "link": "https://qc.event.cuny.edu/events/Iu6KWgL1ft38pbOucMH0/iYE7vZPWONcM8XnLY7aj",
+    "college": "Queens College",
+    "date": "2025-11-17",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Math Sessions",
+    "link": "https://qc.event.cuny.edu/events/His3amnK92M9BIhxIjTv/jQTQlYGZYeN4NwGiMGJL18",
+    "college": "Queens College",
+    "date": "2025-11-17",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Learning Commons Overflow Space",
+    "link": "https://qc.event.cuny.edu/events/SRSPIM6AiVpRtDQKmp9K/pOr34AslrdD3bpYkNXVs24",
+    "college": "Queens College",
+    "date": "2025-11-17",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Computer Science Colloquium",
+    "link": "https://qc.event.cuny.edu/events/eA7fEkl2VUZSN1DCn5Hy/tGELECKyOKknenPECnuz",
+    "college": "Queens College",
+    "date": "2025-11-17",
+    "time": "12:15PM",
     "tags": []
   },
   {
@@ -3566,30 +3586,6 @@
     "college": "Baruch College",
     "date": "2025-11-20",
     "time": "4:00PM",
-    "tags": []
-  },
-  {
-    "title": "High School Equivalency Math Class",
-    "link": "https://citytech.event.cuny.edu/events/hyXtVjTCkDBdWDcPahyy/D4maXd9vgJtwzKFdsNpS3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-11-14",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center Classes",
-    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/E4DH7G6RkJ2x1HBCjjbI8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-11-14",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers",
-    "link": "https://citytech.event.cuny.edu/events/zkkr3vLlRqX1w4PGQgFK/dHIpwAYlyPg1pW7ek12F9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-11-14",
-    "time": "9:00AM",
     "tags": []
   },
   {
@@ -3678,6 +3674,38 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-11-17",
     "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "DEN 1112 Exam 2",
+    "link": "https://citytech.event.cuny.edu/events/xi5VieBmETyTjcPoECWe/dDHCToHXnOKemacWWOZT",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-11-17",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/D0GiXVdptET3GZkpCc1e/bdkvOVnVIwWv7UNNbasa11",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-11-17",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Fresh Food Bag Distribution",
+    "link": "https://citytech.event.cuny.edu/events/DBRF81bpUW1mugBjhty0/h8KsHrHdiYUZSpPxng684",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-11-17",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/fWxit6ANcLywQCMSjsGi10",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-11-17",
+    "time": "12:30PM",
     "tags": []
   },
   {
@@ -3841,22 +3869,6 @@
     "tags": []
   },
   {
-    "title": "Open-Source Digital Publishing Platforms at CUNY",
-    "link": "https://www.lehman.edu/events/2025/Open-Source-Digital-Publishing-Platforms-at-CUNY.php",
-    "college": "Lehman College",
-    "date": "2025-11-14",
-    "time": "12:00 PM- 1:15 PM",
-    "tags": []
-  },
-  {
-    "title": "The Theatre Program at Lehman presents, New Voices: The Student Playwriting Festival",
-    "link": "https://www.lehman.edu/events/2025/The-Theatre-Program-at-Lehman-presents-New-Voices-The-Student-Playwriting-Festival.php?event_type=recurs_2",
-    "college": "Lehman College",
-    "date": "2025-11-14",
-    "time": "7:00 PM- 8:30 PM",
-    "tags": []
-  },
-  {
     "title": "Big Words: Decoding, Encoding & Making Meaning",
     "link": "https://www.lehman.edu/events/2025/Big-Words-Decoding-Encoding--Making-Meaning-1.php",
     "college": "Lehman College",
@@ -3918,6 +3930,22 @@
     "college": "Lehman College",
     "date": "2025-11-19",
     "time": "6:00 PM- 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Lehman College Thanksgiving Giveaway",
+    "link": "https://www.lehman.edu/events/2025/Lehman-College-Thanksgiving-Giveaway.php",
+    "college": "Lehman College",
+    "date": "2025-11-20",
+    "time": "12:00 PM- 2:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Fireside Chat with Dr. Maeve Adams: On Composition and Digital Tools",
+    "link": "https://www.lehman.edu/events/2025/Fireside-Chat-with-Dr-Maeve-Adams-On-Composition-and-Digital-Tools.php",
+    "college": "Lehman College",
+    "date": "2025-11-20",
+    "time": "12:00 PM- 1:00 PM",
     "tags": []
   },
   {
@@ -4185,22 +4213,6 @@
     "tags": []
   },
   {
-    "title": "CUNY-Wide Career Resource Expo",
-    "link": "https://www.york.cuny.edu/events/cuny-wide-career-resource-expo",
-    "college": "York College",
-    "date": "2025-11-14",
-    "time": "4:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Career Resource Expo",
-    "link": "https://www.york.cuny.edu/career-services/career-resource-expo",
-    "college": "York College",
-    "date": "2025-11-14",
-    "time": "4:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
     "title": "Constructing Your Career as a Clinical Lab Science Major",
     "link": "https://www.york.cuny.edu/events/constructing-your-career-as-a-clinical-lab-science-major-1",
     "college": "York College",
@@ -4289,6 +4301,14 @@
     "tags": []
   },
   {
+    "title": "Women in Math and Computing Day",
+    "link": "https://www.york.cuny.edu/mathematics-computer-science/women-in-math-computing-day",
+    "college": "York College",
+    "date": "2025-11-21",
+    "time": "3:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
     "title": "Weekly Yoga",
     "link": "https://www.york.cuny.edu/events/weekly-yoga",
     "college": "York College",
@@ -4297,107 +4317,12 @@
     "tags": []
   },
   {
-    "title": "ILLICIT IDEOLOGIES IN LATIN AMERICA",
-    "link": "https://www.gc.cuny.edu/events/illicit-ideologies-latin-america",
-    "college": "CUNY Graduate Center",
-    "date": "2025-11-14",
-    "time": "9:00 am — 5:15 pm",
-    "location": "9100: Skylight Room",
-    "tags": [
-      "Bildner Center for Western Hemisphere Studies"
-    ]
-  },
-  {
-    "title": "MATHFEST 2025",
-    "link": "https://www.gc.cuny.edu/events/mathfest-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-11-14",
-    "time": "10:00 am — 3:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Mathematics",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "WORMS FOR BRAINS",
-    "link": "https://www.gc.cuny.edu/events/worms-brains",
-    "college": "CUNY Graduate Center",
-    "date": "2025-11-14",
-    "time": "10:00 am — 6:00 pm",
-    "location": "1218: Segal Theatre",
-    "tags": [
-      "Art History"
-    ]
-  },
-  {
-    "title": "PH.D. PROGRAM IN CHEMISTRY VIRTUAL INFORMATION SESSION",
-    "link": "https://www.gc.cuny.edu/events/phd-program-chemistry-virtual-information-session-nov-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-11-14",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Chemistry",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "DECOMPOSING THE REDUCED PERSISTENT HOMOLOGY TRANSFORM",
-    "link": "https://www.gc.cuny.edu/events/decomposing-reduced-persistent-homology-transform",
-    "college": "CUNY Graduate Center",
-    "date": "2025-11-14",
-    "time": "11:45 am — 12:45 pm",
-    "location": "4321: Computer Science Student Lounge",
-    "tags": [
-      "Computer Science"
-    ]
-  },
-  {
-    "title": "THE LIVES OF FRANTZ FANON WITH ADAM SHATZ",
-    "link": "https://www.gc.cuny.edu/events/lives-frantz-fanon-adam-shatz",
-    "college": "CUNY Graduate Center",
-    "date": "2025-11-14",
-    "time": "4:00 pm",
-    "location": "4406: English Student Lounge",
-    "tags": [
-      "English",
-      "Friday Forum"
-    ]
-  },
-  {
-    "title": "AT THE MARGINS: RETHINKING TRANSNATIONAL SEX WORK IN THE BORDERLANDS OF THE EU",
-    "link": "https://www.gc.cuny.edu/events/margins-rethinking-transnational-sex-work-borderlands-eu",
-    "college": "CUNY Graduate Center",
-    "date": "2025-11-14",
-    "time": "4:15 pm — 6:15 pm",
-    "location": "C415A",
-    "tags": [
-      "Anthropology",
-      "Humanities and Social Sciences"
-    ]
-  },
-  {
-    "title": "PYDATA MEETUP",
-    "link": "https://www.gc.cuny.edu/events/pydata-meetup",
-    "college": "CUNY Graduate Center",
-    "date": "2025-11-14",
-    "time": "6:00 pm — 8:00 pm",
-    "location": "4102: Science Center",
-    "tags": [
-      "Data Science"
-    ]
-  },
-  {
-    "title": "CONCERT: MUSICOLOGY DEPARTMENTAL",
-    "link": "https://www.gc.cuny.edu/events/concert-musicology-departmental",
-    "college": "CUNY Graduate Center",
-    "date": "2025-11-14",
-    "time": "7:30 pm — 9:30 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Music"
-    ]
+    "title": "Men’s Basketball vs. SUNY Old Westbury",
+    "link": "https://www.york.cuny.edu/events/2025/mens-basketball-vs-old-westbury-11212025",
+    "college": "York College",
+    "date": "2025-11-21",
+    "time": "11:00 PM - 1:00 AM",
+    "tags": []
   },
   {
     "title": "PRESS & PULL EXHIBITION PANEL AND WORKSHOP",
@@ -4408,6 +4333,106 @@
     "location": "1200: James Art Gallery",
     "tags": [
       "James Gallery"
+    ]
+  },
+  {
+    "title": "INTERNATIONAL EDUCATION WEEK 2025",
+    "link": "https://www.gc.cuny.edu/events/international-education-week-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-11-17",
+    "time": "",
+    "location": "Multiple Locations (see description for details)",
+    "tags": []
+  },
+  {
+    "title": "LIFE AFTER F-1 AND J-1 STUDENT STATUS",
+    "link": "https://www.gc.cuny.edu/events/life-after-f-1-and-j-1-student-status-nov-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-11-17",
+    "time": "12:00 pm — 1:30 pm",
+    "location": "Online",
+    "tags": [
+      "International Students"
+    ]
+  },
+  {
+    "title": "FREE RAPID HIV TESTING, BLOOD PRESSURE & GLUCOSE SCREENING",
+    "link": "https://www.gc.cuny.edu/events/free-rapid-hiv-testing-blood-pressure-glucose-screening-nov17-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-11-17",
+    "time": "1:00 pm — 5:00 pm",
+    "location": "9206",
+    "tags": [
+      "Wellness Center",
+      "Student Health Services"
+    ]
+  },
+  {
+    "title": "ISLAA FORUM PLATAFORMA KEYNOTE: DR. CLAUDIA MATTOS AVOLESE",
+    "link": "https://www.gc.cuny.edu/events/islaa-forum-plataforma-keynote-dr-claudia-mattos-avolese",
+    "college": "CUNY Graduate Center",
+    "date": "2025-11-17",
+    "time": "6:00 pm — 7:30 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Art History"
+    ]
+  },
+  {
+    "title": "NURIT CHINN'S: INTERNEE NUMBER 6, A PLAY IN PROGRESS BASED ON MARIA EISENSTEIN DIARIES (ITALY, 1944)",
+    "link": "https://www.gc.cuny.edu/events/nurit-chinns-internee-number-6-play-progress-based-maria-eisenstein-diaries-italy-1944",
+    "college": "CUNY Graduate Center",
+    "date": "2025-11-17",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Martin E. Segal Theatre Center"
+    ]
+  },
+  {
+    "title": "CONCERT: TOBIAS FANDEL, SYNTHESIZER",
+    "link": "https://www.gc.cuny.edu/events/concert-tobias-fandel-synthesizer",
+    "college": "CUNY Graduate Center",
+    "date": "2025-11-17",
+    "time": "7:30 pm — 9:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Music"
+    ]
+  },
+  {
+    "title": "LIVE ESPARC TRAINING - NOVEMBER 17, 2025",
+    "link": "https://www.gc.cuny.edu/events/live-esparc-training-november-17-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-11-17",
+    "time": "8:00 pm — 9:00 pm",
+    "location": "Online",
+    "tags": [
+      "Compliance and Diversity"
+    ]
+  },
+  {
+    "title": "PH.D. IN THEATRE & PERFORMANCE PROGRAM VIRTUAL OPEN HOUSE FALL 2025",
+    "link": "https://www.gc.cuny.edu/events/phd-theatre-performance-program-virtual-open-house-fall-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-11-18",
+    "time": "10:00 am — 11:00 am",
+    "location": "Online",
+    "tags": [
+      "Theatre and Performance",
+      "Admissions",
+      "Humanities and Social Sciences"
+    ]
+  },
+  {
+    "title": "POST-COMPLETION OPTIONAL PRACTICAL TRAINING (OPT) FOR F-1 STUDENTS",
+    "link": "https://www.gc.cuny.edu/events/post-completion-optional-practical-training-opt-f-1-students",
+    "college": "CUNY Graduate Center",
+    "date": "2025-11-18",
+    "time": "12:00 pm — 1:30 pm",
+    "location": "Online",
+    "tags": [
+      "International Students"
     ]
   },
   {
@@ -4425,30 +4450,6 @@
     "date": "2025-11-19",
     "time": "12:00 PM - 04:00 PM",
     "description": ""
-  },
-  {
-    "title": "Balancing More Than Books: Cool Careers in Accounting",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-14-balancing-more-than-books-cool-careers-in-accounting.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-14",
-    "time": "01:00 PM - 02:00 PM",
-    "description": "ASAP Career Event"
-  },
-  {
-    "title": "Paint N' Chill Student Workshop",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-14-paint-n-chill-student-workshop.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-14",
-    "time": "01:00 PM - 03:00 PM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Cartoon",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-14-cartoon.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-14",
-    "time": "07:00 PM - 09:15 PM",
-    "description": "Performing Arts / Film Event"
   },
   {
     "title": "Saturday at QCC!",
@@ -4571,19 +4572,35 @@
     "description": "Club Event"
   },
   {
+    "title": "Women's Group",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-19-womens-group.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-19",
+    "time": "12:10 PM - 02:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Transgender Day of Remembrance Reading of the Names",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-19-transgender-day-of-remembrance-reading-of-the-names.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-19",
+    "time": "12:10 PM - 02:00 PM",
+    "description": "Club Event"
+  },
+  {
+    "title": "Understanding Health Savings Accounts (HSAs) and Flexible Spending Accounts (FSAs): Compare Benefits, Features, and Eligibility",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-19-Understanding-Health-Savings-Accounts-HSAs-Flexible-Spending-Accounts-FSAs.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-19",
+    "time": "12:15 PM - 02:00 PM",
+    "description": "R.I.S.E. program event"
+  },
+  {
     "title": "Mental Health Workshop",
     "link": "https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration",
     "college": "CUNY School of Labor and Urban Studies",
     "date": "2025-11-18",
     "time": "11:00 PM - 12:00 AM",
     "description": "<b>Registration Link:</b> <a href=\"https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration\">https://us02web.zoom.us/meeting/register/50DKxYcRSmSn-tBvliK4Fw#/registration</a>"
-  },
-  {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2025-11-14",
-    "time": "11:15 PM - 12:30 AM",
-    "description": "Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. <br><b>*Registration closes at 4:30pm on 11/14*</b><br><b>REGISTRATION LINK: <a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1474999977639?aff=oddtdtcreator\">HERE</a></b>"
   }
 ]
