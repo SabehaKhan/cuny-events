@@ -666,6 +666,42 @@
     ]
   },
   {
+    "title": "Fireside Chat With Cindy Hsu: A Conversation on Journalism, Mental Health, and Resilience",
+    "link": "https://www.journalism.cuny.edu/events/fireside-chat-with-cindy-hsu-a-conversation-on-journalism-mental-health-and-resilience/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-11-17",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Smart Fact-Checking: Tools, Techniques, and AI Methods for Journalists",
+    "link": "https://www.journalism.cuny.edu/events/smart-fact-checking-tools-techniques-and-ai-methods-for-journalists/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-11-20",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Center for Community Media"
+    ]
+  },
+  {
+    "title": "Newsroom Leaders on Gender, Press Freedom and Democracy",
+    "link": "https://www.journalism.cuny.edu/events/newsroom-leaders-on-gender-press-freedom-and-democracy/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-12-03",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CCM Year-End Celebration",
+    "link": "https://www.journalism.cuny.edu/events/ccm-year-end-celebration/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-12-09",
+    "time": "05:30 PM - 07:30 PM",
+    "tags": [
+      "Center for Community Media"
+    ]
+  },
+  {
     "title": "Career Virtual Help",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/0b9dba88-530b-4913-8209-696cb99cb88f",
     "college": "Kingsborough Community College",
@@ -3834,7 +3870,7 @@
   },
   {
     "title": "Big Words: Decoding, Encoding & Making Meaning",
-    "link": "https://www.lehman.edu/events/2025/Big-Words-Decoding-Encoding--Making-Meaning-1.php",
+    "link": "https://www.lehman.edu/events/2025/Big-Words-Decoding-Encoding--Making-Meaning.php",
     "college": "Lehman College",
     "date": "2025-11-15",
     "time": "10:00 AM- 12:00 PM",
@@ -3910,14 +3946,6 @@
     "college": "Lehman College",
     "date": "2025-11-20",
     "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Admissions Info Session",
-    "link": "https://www.jjay.cuny.edu/news-events/events/virtual-admissions-info-session-10",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-15",
-    "time": "04:00 PM",
     "tags": []
   },
   {
@@ -4102,6 +4130,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2025-11-25",
     "time": "11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "The Lysistrata Project or No Womb Left Behind",
+    "link": "https://www.jjay.cuny.edu/news-events/events/lysistrata-project-or-no-womb-left-behind-1",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-11-26",
+    "time": "12:30 AM",
     "tags": []
   },
   {
@@ -4416,14 +4452,6 @@
     "description": ""
   },
   {
-    "title": "Saturday at QCC!",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-15-saturday-at-qcc.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-15",
-    "time": "10:00 AM - 01:00 PM",
-    "description": "Admissions Event"
-  },
-  {
     "title": "Holiday Toy Drive Sponsored by the Caribbean Student Coalition",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-17-holiday-toy-drive-sponsored-by-the-caribbean-student-coalition.html",
     "college": "Queensborough Community College",
@@ -4558,6 +4586,14 @@
     "date": "2025-11-19",
     "time": "12:15 PM - 02:00 PM",
     "description": "R.I.S.E. program event"
+  },
+  {
+    "title": "Cartoon",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-19-cartoon.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-19",
+    "time": "12:15 PM - 02:00 PM",
+    "description": "Performing Arts / Film Event"
   },
   {
     "title": "Mental Health Workshop",
