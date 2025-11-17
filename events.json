@@ -1762,16 +1762,6 @@
     ]
   },
   {
-    "title": "Making the Documentary: A Very British History: Back to Belarus",
-    "link": "https://www.hunter.cuny.edu/event/making-the-documentary-a-very-british-history-back-to-belarus/",
-    "college": "Hunter College",
-    "date": "2025-11-17",
-    "time": "12:00 PM - 12:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
     "title": "MS-IPND Graduate Nutrition Program Information Sessions",
     "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-5/",
     "college": "Hunter College",
@@ -2031,6 +2021,14 @@
     "tags": []
   },
   {
+    "title": "Trouble in Mind",
+    "link": "https://www.hunter.cuny.edu/event/trouble-in-mind/2025-11-20/",
+    "college": "Hunter College",
+    "date": "2025-11-20",
+    "time": "07:00 PM - 09:00 PM",
+    "tags": []
+  },
+  {
     "title": "BMCC Library AI Workshop Series",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-library-ai-workshop-series/2025-11-17/",
     "college": "Borough of Manhattan Community College",
@@ -2086,8 +2084,8 @@
     ]
   },
   {
-    "title": "Clothing Drive and Community Potluck",
-    "link": "https://www.bmcc.cuny.edu/event/clothing-drive-and-community-potluck/2025-11-18/",
+    "title": "Clothing Drive: Donate Gently Used Clothes and Household Essentials",
+    "link": "https://www.bmcc.cuny.edu/event/clothing-drive/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-11-18",
     "time": "09:00 AM - 06:00 PM",
@@ -2095,16 +2093,6 @@
       "Featured",
       "Project Impact",
       "Student Affairs"
-    ]
-  },
-  {
-    "title": "A Fulbright-Nehru Experience Teaching Abroad",
-    "link": "https://www.bmcc.cuny.edu/event/a-fulbright-nehru-experience-teaching-abroad/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-11-18",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Featured"
     ]
   },
   {
@@ -2166,6 +2154,17 @@
       "Center for Career Development",
       "Featured",
       "Human Services"
+    ]
+  },
+  {
+    "title": "A Fulbright-Nehru Experience Teaching Abroad",
+    "link": "https://www.bmcc.cuny.edu/event/a-fulbright-nehru-experience-teaching-abroad/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-11-18",
+    "time": "03:00 PM - 03:00 PM",
+    "tags": [
+      "Featured",
+      "International Education Week"
     ]
   },
   {
@@ -2545,21 +2544,6 @@
       "Feature",
       "Office of the Registrar",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "Fiscal and Financial Affairs Commission (Student Government)",
-    "link": "https://csi.campuslabs.com/engage/event/11503581",
-    "college": "College of Staten Island",
-    "date": "2025-11-17",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "CommunityService",
-      "Leadership",
-      "Learning",
-      "Volunteer",
-      "Group Business",
-      "Career Development"
     ]
   },
   {
@@ -4465,14 +4449,6 @@
     "description": ""
   },
   {
-    "title": "Holiday Toy Drive Sponsored by the Caribbean Student Coalition",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-17-holiday-toy-drive-sponsored-by-the-caribbean-student-coalition.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-17",
-    "time": "09:00 AM - 05:00 PM",
-    "description": "Club Event"
-  },
-  {
     "title": "Color, Create & Be Calm",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-17-color-create-be-calm.html",
     "college": "Queensborough Community College",
@@ -4607,6 +4583,14 @@
     "date": "2025-11-19",
     "time": "12:15 PM - 02:00 PM",
     "description": "Performing Arts / Film Event"
+  },
+  {
+    "title": "Women in Business",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-19-women-in-business.html",
+    "college": "Queensborough Community College",
+    "date": "2025-11-19",
+    "time": "12:30 PM - 02:00 PM",
+    "description": "Lecture"
   },
   {
     "title": "Mental Health Workshop",
