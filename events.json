@@ -523,11 +523,21 @@
     "tags": []
   },
   {
-    "title": "CCM Year-End Celebration",
+    "title": "CCM's Year-End Celebration",
     "link": "https://www.journalism.cuny.edu/events/ccm-year-end-celebration/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2025-12-09",
     "time": "05:30 PM - 07:30 PM",
+    "tags": [
+      "Center for Community Media"
+    ]
+  },
+  {
+    "title": "Digital Safety and Best Practices for Journalists",
+    "link": "https://www.journalism.cuny.edu/events/digital-safety-and-best-practices-for-journalists/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2025-12-11",
+    "time": "02:00 PM - 03:30 PM",
     "tags": [
       "Center for Community Media"
     ]
@@ -2732,6 +2742,14 @@
     "tags": []
   },
   {
+    "title": "Test Event",
+    "link": "https://qc.event.cuny.edu/events/caBwrfHnbWQTgJKO3mzl/FrhU3agSz6TzfLMCh227",
+    "college": "Queens College",
+    "date": "2025-11-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
     "title": "FDNY",
     "link": "https://qc.event.cuny.edu/events/I2ZDGOEYwrGfcqF2XrN4/ndaJcOFzdU52yk4Pj3r125",
     "college": "Queens College",
@@ -2825,14 +2843,6 @@
     "college": "Queens College",
     "date": "2025-11-24",
     "time": "12:05PM",
-    "tags": []
-  },
-  {
-    "title": "Provost Office Fall 2025 Events",
-    "link": "https://qc.event.cuny.edu/events/QIuIoIuewo5ujESD5lwo/KT9YqtfEeI10HcsDbLRV",
-    "college": "Queens College",
-    "date": "2025-11-24",
-    "time": "12:15PM",
     "tags": []
   },
   {
