@@ -1389,14 +1389,6 @@
   },
   {
     "title": "Trouble in Mind",
-    "link": "https://www.hunter.cuny.edu/event/trouble-in-mind/2025-11-22/1/",
-    "college": "Hunter College",
-    "date": "2025-11-22",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Trouble in Mind",
     "link": "https://www.hunter.cuny.edu/event/trouble-in-mind/2025-11-22/2/",
     "college": "Hunter College",
     "date": "2025-11-22",
@@ -1665,11 +1657,21 @@
     ]
   },
   {
+    "title": "Brain Transcriptomics in Experimental Cerebral Malaria: Characterize Disease and Adjunctive Therapy",
+    "link": "https://www.hunter.cuny.edu/event/brain-transcriptomics-in-experimental-cerebral-malaria-characterize-disease-and-adjunctive-therapy/",
+    "college": "Hunter College",
+    "date": "2025-12-08",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
     "title": "BMCC Theater Presents: The Trojan Women at BMCC TPAC",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-theater-presents-the-trojan-women-at-bmcc-tpac/2025-11-22/1/",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-theater-presents-the-trojan-women-at-bmcc-tpac/2025-11-22/2/",
     "college": "Borough of Manhattan Community College",
     "date": "2025-11-22",
-    "time": "02:00 PM - 03:30 PM",
+    "time": "07:00 PM - 08:30 PM",
     "tags": [
       "English",
       "Featured",
@@ -2164,19 +2166,6 @@
     ]
   },
   {
-    "title": "Eco Pumpkin Making!",
-    "link": "https://csi.campuslabs.com/engage/event/11880737",
-    "college": "College of Staten Island",
-    "date": "2025-11-22",
-    "time": "07:30 PM - 09:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Social",
-      "Sustainability"
-    ]
-  },
-  {
     "title": "Alice in Slasherland",
     "link": "https://csi.campuslabs.com/engage/event/11767377",
     "college": "College of Staten Island",
@@ -2662,10 +2651,10 @@
   },
   {
     "title": "BMCC Theater Presents: The Trojan Women at BMCC TPAC",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10006403",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10006402",
     "college": "Borough of Manhattan Community College",
     "date": "2025-11-22",
-    "time": "07:00 PM - 08:30 PM",
+    "time": "02:00 PM - 03:30 PM",
     "tags": []
   },
   {
