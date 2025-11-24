@@ -1379,16 +1379,6 @@
     ]
   },
   {
-    "title": "Majoring in French & Italian",
-    "link": "https://www.hunter.cuny.edu/event/majoring-in-french-italian/",
-    "college": "Hunter College",
-    "date": "2025-11-24",
-    "time": "10:30 AM - 11:30 AM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Advancing Cancer Immunotherapy by Harnessing NK Cell Functions",
     "link": "https://www.hunter.cuny.edu/event/advancing-cancer-immunotherapy-by-harnessing-nk-cell-functions/",
     "college": "Hunter College",
@@ -1585,6 +1575,16 @@
     "time": "04:00 PM - 05:30 PM",
     "tags": [
       "Open Houses"
+    ]
+  },
+  {
+    "title": "Best-Selling Author Series - Gary Shteyngart",
+    "link": "https://www.hunter.cuny.edu/event/best-selling-author-series-gary-shteyngart/",
+    "college": "Hunter College",
+    "date": "2025-12-04",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Lectures"
     ]
   },
   {
@@ -2392,6 +2392,18 @@
     ]
   },
   {
+    "title": "Pre-Law Jeopardy Mixer",
+    "link": "https://csi.campuslabs.com/engage/event/11912087",
+    "college": "College of Staten Island",
+    "date": "2025-12-02",
+    "time": "08:30 PM - 09:30 PM",
+    "tags": [
+      "GroupBusiness",
+      "Entertainment",
+      "Group Business"
+    ]
+  },
+  {
     "title": "Ultimate Gaming: Just Dance, MarioKart, & More!",
     "link": "https://csi.campuslabs.com/engage/event/11383186",
     "college": "College of Staten Island",
@@ -2425,6 +2437,16 @@
       "Health and Wellness",
       "Social",
       "Entertainment",
+      "Cultural"
+    ]
+  },
+  {
+    "title": "Choco-Loteria",
+    "link": "https://csi.campuslabs.com/engage/event/11912082",
+    "college": "College of Staten Island",
+    "date": "2025-12-04",
+    "time": "08:00 PM - 09:30 PM",
+    "tags": [
       "Cultural"
     ]
   },
@@ -2706,14 +2728,6 @@
     "tags": []
   },
   {
-    "title": "Congresswoman Meng",
-    "link": "https://qc.event.cuny.edu/events/WE0f5DJFlqqQy7RtK92j/kD8zZc6bR4SNNajKtNAa",
-    "college": "Queens College",
-    "date": "2025-11-24",
-    "time": "9:15AM",
-    "tags": []
-  },
-  {
     "title": "Townsend Harris HS",
     "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/sKtZ0wTOoIQ8IBw8wPri25",
     "college": "Queens College",
@@ -2812,6 +2826,14 @@
   {
     "title": "CSCI Combined Midterm Exam",
     "link": "https://qc.event.cuny.edu/events/YEJZzzPHdS64oiJB1t2a/tnQnkB8O5qz94EQ6BjQE",
+    "college": "Queens College",
+    "date": "2025-11-24",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Learning Commons Workshop",
+    "link": "https://qc.event.cuny.edu/events/JORbFBA9wgUrkbw6xaML/y6wRM4SBnMvoYlxsRDi7",
     "college": "Queens College",
     "date": "2025-11-24",
     "time": "12:15PM",
@@ -3564,6 +3586,17 @@
     ]
   },
   {
+    "title": "OVERDRIVE FESTIVAL: OPENING CONCERT – ACOUSMONIUM I",
+    "link": "https://www.gc.cuny.edu/events/overdrive-festival-opening-concert-acousmonium-i",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-01",
+    "time": "7:30 pm — 9:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Music"
+    ]
+  },
+  {
     "title": "DEVELOPMENTAL PSYCHOLOGY COLLOQUIUM 2025",
     "link": "https://www.gc.cuny.edu/events/developmental-psychology-colloquium-2025",
     "college": "CUNY Graduate Center",
@@ -3632,23 +3665,20 @@
     ]
   },
   {
-    "title": "COLLOQUIUM WITH DR. MONICA WAGNER",
-    "link": "https://www.gc.cuny.edu/events/colloquium-dr-monica-wagner",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-03",
-    "time": "2:00 pm — 4:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Speech-Language-Hearing Sciences"
-    ]
+    "title": "Barbershop Day",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-01-barbershop-day.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-01",
+    "time": "02:00 PM - 05:00 PM",
+    "description": ""
   },
   {
-    "title": "Holiday Toy Drive Sponsored by the Caribbean Student Coalition",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-24-holiday-toy-drive-sponsored-by-the-caribbean-student-coalition.html",
+    "title": "Winter Wellness",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-02-winter-wellness.html",
     "college": "Queensborough Community College",
-    "date": "2025-11-24",
-    "time": "09:00 AM - 05:00 PM",
-    "description": "Club Event"
+    "date": "2025-12-02",
+    "time": "12:00 PM - 02:00 PM",
+    "description": ""
   },
   {
     "title": "Color, Create & Be Calm",
@@ -3723,28 +3753,12 @@
     "description": "Male Resource Center Event"
   },
   {
-    "title": "Barbershop Day",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-01-barbershop-day.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-01",
-    "time": "02:00 PM - 05:00 PM",
-    "description": "Male Resource Center Event"
-  },
-  {
     "title": "General Chemistry I Workshop Series Week 9: Molecular Geometry and Hybridization",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-02-general-chemistry-i-workshop-series-week-9-molecular-geometry-and-hybridization.html",
     "college": "Queensborough Community College",
     "date": "2025-12-02",
     "time": "11:00 AM - 12:00 PM",
     "description": "Club Event"
-  },
-  {
-    "title": "Winter Wellness",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-02-winter-wellness.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-02",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Conference and Workshop"
   },
   {
     "title": "Paint N' Chill Workshop",
@@ -3800,6 +3814,14 @@
     "college": "Queensborough Community College",
     "date": "2025-12-03",
     "time": "12:00 PM - 02:00 PM",
+    "description": "Club Event"
+  },
+  {
+    "title": "Flight or Fight? Artists in Nazi Germany, 1933-1945",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-03-flight-or-fight-artists-in-nazi-germany,-1933-1945.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-03",
+    "time": "12:00 PM - 01:30 PM",
     "description": "Club Event"
   }
 ]
