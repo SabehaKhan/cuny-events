@@ -719,17 +719,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-11-24/",
-    "college": "LaGuardia Community College",
-    "date": "2025-11-24",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Ask an SSM | Job Info Session",
     "link": "https://www.laguardia.edu/event/ask-an-ssm-job-info-session-3/",
     "college": "LaGuardia Community College",
@@ -1004,6 +993,17 @@
     "time": "10:00 AM - 03:00 PM",
     "tags": [
       "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Holiday Inn Hotel Site Visit",
+    "link": "https://www.laguardia.edu/event/holiday-inn-hotel-site-visit/",
+    "college": "LaGuardia Community College",
+    "date": "2025-12-05",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": [
       "all calendars",
       "student events"
     ]
@@ -1379,34 +1379,6 @@
     ]
   },
   {
-    "title": "Advancing Cancer Immunotherapy by Harnessing NK Cell Functions",
-    "link": "https://www.hunter.cuny.edu/event/advancing-cancer-immunotherapy-by-harnessing-nk-cell-functions/",
-    "college": "Hunter College",
-    "date": "2025-11-24",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-7/",
-    "college": "Hunter College",
-    "date": "2025-11-24",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Business Dress Codes",
-    "link": "https://www.hunter.cuny.edu/event/business-dress-codes-2/",
-    "college": "Hunter College",
-    "date": "2025-11-24",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Purple PEERiod Project",
     "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-13/",
     "college": "Hunter College",
@@ -1662,6 +1634,34 @@
     "date": "2025-12-09",
     "time": "02:30 PM - 05:00 PM",
     "tags": []
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-10/",
+    "college": "Hunter College",
+    "date": "2025-12-10",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "MS-IPND Challenge Exams",
+    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-12-10/",
+    "college": "Hunter College",
+    "date": "2025-12-10",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "Dietetic Internship Information Sessions (DI and MS-DI) 2025",
+    "link": "https://www.hunter.cuny.edu/event/dietetic-internship-information-sessions-di-and-ms-di-2025/2025-12-10/",
+    "college": "Hunter College",
+    "date": "2025-12-10",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Open Houses"
+    ]
   },
   {
     "title": "Hispanic Heritage Month: Hispanic and Latino Wikipedia Edit-a-thon",
@@ -2960,6 +2960,14 @@
     "tags": []
   },
   {
+    "title": "Muslim Student Association: Islamic Trivia Event",
+    "link": "https://citytech.event.cuny.edu/events/Qsze4VxFNLTmdVSSs0ij/JaubaScHMgXhMGswNiI8",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-11-25",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
     "title": "Student Life & Development: Peer Navigator Tabling",
     "link": "https://citytech.event.cuny.edu/events/l8nCPw37rX8ZCdx0iqgI/o0VlbAUgbFmZRy3jxbS4",
     "college": "New York City College of Technology (City Tech)",
@@ -2989,6 +2997,14 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-11-25",
     "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Sci-fi symposium rehearsal",
+    "link": "https://citytech.event.cuny.edu/events/z6Rj5T4J8EAW8jwESTS0/WGWCZXJ55Bv1OTaJWpLA",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-11-25",
+    "time": "4:00PM",
     "tags": []
   },
   {
@@ -3029,22 +3045,6 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-11-26",
     "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "NYPIRG Information Tabling",
-    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/C2p0ox1FI98NHGoD8UCJ11",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-11-26",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center Classes",
-    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/uqzCjCt9jj9FDrNgK7Au26",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-11-26",
-    "time": "6:00PM",
     "tags": []
   },
   {
@@ -3237,22 +3237,6 @@
     "college": "Lehman College",
     "date": "2026-02-21",
     "time": "8:00 PM- 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Documenting Research APA Style",
-    "link": "https://www.jjay.cuny.edu/news-events/events/documenting-research-apa-style-2",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-24",
-    "time": "06:40 PM",
-    "tags": []
-  },
-  {
-    "title": "The Lysistrata Project or No Womb Left Behind",
-    "link": "https://www.jjay.cuny.edu/news-events/events/lysistrata-project-or-no-womb-left-behind",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-11-24",
-    "time": "06:40 PM",
     "tags": []
   },
   {
@@ -3604,8 +3588,7 @@
     "time": "2:00 pm — 3:03 pm",
     "location": "Hybrid (see description for details)",
     "tags": [
-      "Psychology",
-      "CUNY Graduate Center"
+      "Psychology"
     ]
   },
   {
@@ -3679,14 +3662,6 @@
     "date": "2025-12-02",
     "time": "12:00 PM - 02:00 PM",
     "description": ""
-  },
-  {
-    "title": "Color, Create & Be Calm",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-11-24-color-create-be-calm.html",
-    "college": "Queensborough Community College",
-    "date": "2025-11-24",
-    "time": "12:30 PM - 02:00 PM",
-    "description": "Special Event / Fair"
   },
   {
     "title": "America Needs You Fellowship Info Session: Unlock Your Future",
@@ -3823,5 +3798,13 @@
     "date": "2025-12-03",
     "time": "12:00 PM - 01:30 PM",
     "description": "Club Event"
+  },
+  {
+    "title": "R101 Certificate Class",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-03-r101-certificate-class.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-03",
+    "time": "12:10 PM - 01:30 PM",
+    "description": "Conference and Workshop"
   }
 ]
