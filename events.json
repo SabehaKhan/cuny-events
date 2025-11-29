@@ -941,18 +941,6 @@
     ]
   },
   {
-    "title": "Gaming Grizzlies Weekly Watch Party",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376714",
-    "college": "Guttman Community College",
-    "date": "2025-11-28",
-    "time": "08:00 PM - 10:00 PM",
-    "tags": [
-      "TGG",
-      "Meeting",
-      "Student Life"
-    ]
-  },
-  {
     "title": "The HUB Virtual Hours",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376804",
     "college": "Guttman Community College",
@@ -1993,6 +1981,14 @@
     "tags": []
   },
   {
+    "title": "Kwanzaa Student Market",
+    "link": "https://www.bcc.cuny.edu/event/kwanzaa-student-market/",
+    "college": "Bronx Community College",
+    "date": "2025-12-11",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "Fiscal and Financial Affairs Commission (Student Government)",
     "link": "https://csi.campuslabs.com/engage/event/11503582",
     "college": "College of Staten Island",
@@ -2423,22 +2419,6 @@
   },
   {
     "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh96",
-    "college": "Queens College",
-    "date": "2025-11-28",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "FDNY",
-    "link": "https://qc.event.cuny.edu/events/I2ZDGOEYwrGfcqF2XrN4/ndaJcOFzdU52yk4Pj3r130",
-    "college": "Queens College",
-    "date": "2025-11-28",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "FA25 Hold off room",
     "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh97",
     "college": "Queens College",
     "date": "2025-11-29",
@@ -2534,6 +2514,46 @@
     "tags": []
   },
   {
+    "title": "Learning Commons Workshop",
+    "link": "https://qc.event.cuny.edu/events/CXV3sbrgLXclt45trAAH/jWrf0Ktg8hiDjfQ9jcqp",
+    "college": "Queens College",
+    "date": "2025-12-01",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Chi Alpha Fellowship Group",
+    "link": "https://qc.event.cuny.edu/events/BT2slfKXrut03fZbKTDN/n2YKpHjDPw36KqTD9DPq",
+    "college": "Queens College",
+    "date": "2025-12-01",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Learning Commons Overflow Space",
+    "link": "https://qc.event.cuny.edu/events/SRSPIM6AiVpRtDQKmp9K/pOr34AslrdD3bpYkNXVs28",
+    "college": "Queens College",
+    "date": "2025-12-01",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "MEDST 758 Optional Film Screening",
+    "link": "https://qc.event.cuny.edu/events/YtBSCYKOFgxaOumZaLX3/TDe0ZB6aFgXp2CUXsiLF13",
+    "college": "Queens College",
+    "date": "2025-12-01",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "FA25 Hold off room",
+    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh100",
+    "college": "Queens College",
+    "date": "2025-12-02",
+    "time": "",
+    "tags": []
+  },
+  {
     "title": "Introduction to Bloomberg Professional for Equities @ Subotnick Financial Services Center",
     "link": "https://baruch.event.cuny.edu/events/rIELggBiwUloEXriwfBS/UUS1jgsm17nbiqFsdUnK",
     "college": "Baruch College",
@@ -2579,30 +2599,6 @@
     "college": "Baruch College",
     "date": "2025-12-05",
     "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "High School Equivalency Math Class",
-    "link": "https://citytech.event.cuny.edu/events/hyXtVjTCkDBdWDcPahyy/D4maXd9vgJtwzKFdsNpS5",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-11-28",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center Classes",
-    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/FfookhqdiPvXvpxSWkjh10",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-11-28",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers",
-    "link": "https://citytech.event.cuny.edu/events/zkkr3vLlRqX1w4PGQgFK/dHIpwAYlyPg1pW7ek12F11",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-11-28",
-    "time": "9:00AM",
     "tags": []
   },
   {
@@ -2675,6 +2671,30 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-12-01",
     "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYCCT Public Safety Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/oZrlbRHkgKoO9x5LAiJo/exFZENoLfxV0DYX5ANQS2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-01",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Development: Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/l8nCPw37rX8ZCdx0iqgI/lmCDYihB2w6PaMpwreZc",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-01",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Fresh Food Bag Distribution",
+    "link": "https://citytech.event.cuny.edu/events/DBRF81bpUW1mugBjhty0/h8KsHrHdiYUZSpPxng686",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-01",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -3099,6 +3119,14 @@
     "college": "York College",
     "date": "2025-12-04",
     "time": "5:30 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Aviation Simulation - Session 6",
+    "link": "https://www.york.cuny.edu/events/aviation-simulation-6",
+    "college": "York College",
+    "date": "2025-12-04",
+    "time": "6:00 PM - 7:00 PM",
     "tags": []
   },
   {
