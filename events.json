@@ -120,6 +120,14 @@
     "tags": []
   },
   {
+    "title": "Virtual Mixer: Meet Startup Founders and Join a Team",
+    "link": "https://www.ccny.cuny.edu/calendar/virtual-mixer-meet-startup-founders-and-join-team",
+    "college": "City College of New York",
+    "date": "2025-12-04",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": []
+  },
+  {
     "title": "Popular Music Ensemble Concert (Directed by Matt Carter)",
     "link": "https://www.ccny.cuny.edu/calendar/popular-music-ensemble-concert-directed-matt-carter",
     "college": "City College of New York",
@@ -213,6 +221,14 @@
     "college": "City College of New York",
     "date": "2025-12-10",
     "time": "03:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Elijah: A Queer Short Film Screening",
+    "link": "https://www.ccny.cuny.edu/calendar/elijah-queer-short-film-screening",
+    "college": "City College of New York",
+    "date": "2025-12-11",
+    "time": "12:00 PM - 02:00 PM",
     "tags": []
   },
   {
@@ -706,6 +722,17 @@
     ]
   },
   {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-85/",
+    "college": "LaGuardia Community College",
+    "date": "2025-12-03",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
     "title": "Philosophy Ideas Exchange",
     "link": "https://www.laguardia.edu/event/philosophy-ideas-exchange/2025-12-03/",
     "college": "LaGuardia Community College",
@@ -924,17 +951,6 @@
     "college": "LaGuardia Community College",
     "date": "2025-12-10",
     "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Just Breathe!",
-    "link": "https://www.laguardia.edu/event/just-breathe-2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-10",
-    "time": "03:00 PM - 04:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1413,12 +1429,32 @@
     ]
   },
   {
+    "title": "Pre-Nursing Info Session",
+    "link": "https://www.hunter.cuny.edu/event/pre-nursing-info-session/",
+    "college": "Hunter College",
+    "date": "2025-12-09",
+    "time": "10:00 AM - 12:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Purple PEERiod Project",
     "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-15/",
     "college": "Hunter College",
     "date": "2025-12-09",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
+  },
+  {
+    "title": "Hot Cocoa with HCAP",
+    "link": "https://www.hunter.cuny.edu/event/hot-cocoa-with-hcap/",
+    "college": "Hunter College",
+    "date": "2025-12-09",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Student Events"
+    ]
   },
   {
     "title": "\"Tombolata\"",
@@ -1464,27 +1500,6 @@
     "time": "01:30 PM - 03:00 PM",
     "tags": [
       "Lectures"
-    ]
-  },
-  {
-    "title": "Singing with the Dean",
-    "link": "https://www.hunter.cuny.edu/event/singing-with-the-dean/2025-12-10/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Performing Arts & Film",
-      "Special Events"
-    ]
-  },
-  {
-    "title": "Fostering Healthy Relationships – Counseling Workshop",
-    "link": "https://www.hunter.cuny.edu/event/fostering-healthy-relationships-counseling-workshop-3/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "02:30 PM - 04:00 PM",
-    "tags": [
-      "Student Events"
     ]
   },
   {
@@ -2001,21 +2016,6 @@
     ]
   },
   {
-    "title": "Fiscal and Financial Affairs Commission (Student Government)",
-    "link": "https://csi.campuslabs.com/engage/event/11503582",
-    "college": "College of Staten Island",
-    "date": "2025-12-01",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "CommunityService",
-      "Leadership",
-      "Learning",
-      "Volunteer",
-      "Group Business",
-      "Career Development"
-    ]
-  },
-  {
     "title": "WSIA Late Night featuing Grandma Drinks",
     "link": "https://csi.campuslabs.com/engage/event/11909869",
     "college": "College of Staten Island",
@@ -2024,6 +2024,17 @@
     "tags": [
       "Arts",
       "Entertainment"
+    ]
+  },
+  {
+    "title": "Bake Sale",
+    "link": "https://csi.campuslabs.com/engage/event/11859368",
+    "college": "College of Staten Island",
+    "date": "2025-12-02",
+    "time": "05:30 PM - 08:15 PM",
+    "tags": [
+      "Fundraising",
+      "Fundraiser"
     ]
   },
   {
@@ -2092,17 +2103,6 @@
     ]
   },
   {
-    "title": "Bake Sale",
-    "link": "https://csi.campuslabs.com/engage/event/11859368",
-    "college": "College of Staten Island",
-    "date": "2025-12-02",
-    "time": "05:30 PM - 09:30 PM",
-    "tags": [
-      "Fundraising",
-      "Fundraiser"
-    ]
-  },
-  {
     "title": "Tote Bag Painting",
     "link": "https://csi.campuslabs.com/engage/event/11890210",
     "college": "College of Staten Island",
@@ -2123,6 +2123,27 @@
       "GroupBusiness",
       "Entertainment",
       "Group Business"
+    ]
+  },
+  {
+    "title": "Prep with us for Our brigade",
+    "link": "https://csi.campuslabs.com/engage/event/11920021",
+    "college": "College of Staten Island",
+    "date": "2025-12-02",
+    "time": "08:30 PM - 09:30 PM",
+    "tags": [
+      "Fundraising",
+      "Fundraiser"
+    ]
+  },
+  {
+    "title": "Winter Wonderland",
+    "link": "https://csi.campuslabs.com/engage/event/11920027",
+    "college": "College of Staten Island",
+    "date": "2025-12-02",
+    "time": "07:30 PM - 09:30 PM",
+    "tags": [
+      "Social"
     ]
   },
   {
@@ -2193,6 +2214,16 @@
     ]
   },
   {
+    "title": "Islamic Trivia✨🕌",
+    "link": "https://csi.campuslabs.com/engage/event/11920024",
+    "college": "College of Staten Island",
+    "date": "2025-12-04",
+    "time": "07:30 PM - 09:30 PM",
+    "tags": [
+      "ThoughtfulLearning"
+    ]
+  },
+  {
     "title": "Winter Formal: Winter Masquerade",
     "link": "https://csi.campuslabs.com/engage/event/11915883",
     "college": "College of Staten Island",
@@ -2200,6 +2231,16 @@
     "time": "11:00 PM - 03:00 AM",
     "tags": [
       "Social"
+    ]
+  },
+  {
+    "title": "Disaster Relief Fundraiser",
+    "link": "https://csi.campuslabs.com/engage/event/11920012",
+    "college": "College of Staten Island",
+    "date": "2025-12-01",
+    "time": "03:00 PM - 10:00 PM",
+    "tags": [
+      "Fundraising"
     ]
   },
   {
@@ -2366,6 +2407,16 @@
     ]
   },
   {
+    "title": "Learn about Zoom",
+    "link": "https://events.cuny.edu/cec/learn-about-zoom/",
+    "college": "College of Staten Island",
+    "date": "2025-12-01",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
     "title": "YASS! Mondays",
     "link": "https://events.cuny.edu/cec/yass-mondays-16/",
     "college": "The City College of New York",
@@ -2418,16 +2469,6 @@
     "date": "2025-12-02",
     "time": "6:30 PM - 8:00 PM",
     "tags": []
-  },
-  {
-    "title": "Photonics Initiative Seminar: Matthew White",
-    "link": "https://asrc.gc.cuny.edu/event/photonics-initiative-seminar-matthew-white/",
-    "college": "Advanced Science Research Center, GC/CUNY",
-    "date": "2025-12-02",
-    "time": "2:00 PM - 3:00 PM",
-    "tags": [
-      "Photonics"
-    ]
   },
   {
     "title": "FA25 Hold off room",
@@ -3334,14 +3375,6 @@
     "description": ""
   },
   {
-    "title": "Holiday Toy Drive Sponsored by the Caribbean Student Coalition",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-01-holiday-toy-drive-sponsored-by-the-caribbean-student-coalition.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-01",
-    "time": "09:00 AM - 05:00 PM",
-    "description": "Club Event"
-  },
-  {
     "title": "Color, Create & Be Calm",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-01-color-create-be-calm.html",
     "college": "Queensborough Community College",
@@ -3388,6 +3421,14 @@
     "date": "2025-12-02",
     "time": "12:00 PM - 02:00 PM",
     "description": "Conference and Workshop"
+  },
+  {
+    "title": "Build A Globe, Brew A Cocoa",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-02-build-a-globe,-brew-a-cocoa.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-02",
+    "time": "01:00 PM - 03:00 PM",
+    "description": "Male Resource Center Event"
   },
   {
     "title": "Paint N' Chill Workshop",
