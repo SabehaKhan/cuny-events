@@ -480,7 +480,7 @@
   },
   {
     "title": "We’ve Seen This Before: Lessons from Exile on Recognizing Authoritarianism",
-    "link": "https://www.journalism.cuny.edu/events/weve-seen-this-before-lessons-from-exile-on-recognizing-authoritarianism/",
+    "link": "https://pen.org/event/lessons-from-exile-on-recognizing-authoritarianism/.#new_tab",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2025-12-10",
     "time": "06:00 PM - 06:00 PM",
@@ -646,6 +646,14 @@
     "college": "Kingsborough Community College",
     "date": "2025-12-15",
     "time": "09:00 AM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Information Session: CUNY Career Launch",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/4a5a900a-1087-4da9-8202-9d8252270d9e",
+    "college": "Kingsborough Community College",
+    "date": "2026-01-27",
+    "time": "07:00 PM - 07:00 PM",
     "tags": []
   },
   {
@@ -1034,7 +1042,7 @@
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376844",
     "college": "Guttman Community College",
     "date": "2025-12-05",
-    "time": "05:00 PM - 09:00 PM",
+    "time": "06:00 PM - 09:00 PM",
     "tags": [
       "EMSA",
       "Educational/Awareness"
@@ -1269,17 +1277,6 @@
     ]
   },
   {
-    "title": "Arts Meet-Up",
-    "link": "https://www.hunter.cuny.edu/event/arts-meet-up-4/",
-    "college": "Hunter College",
-    "date": "2025-12-03",
-    "time": "03:30 PM - 05:00 PM",
-    "tags": [
-      "Performing Arts & Film",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Bachelor of Science in Nursing Generic Program Information Session",
     "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-7/",
     "college": "Hunter College",
@@ -1483,17 +1480,6 @@
     "time": "10:30 AM - 12:00 PM",
     "tags": [
       "Student Events"
-    ]
-  },
-  {
-    "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-02",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Student Affairs"
     ]
   },
   {
@@ -1805,6 +1791,20 @@
     ]
   },
   {
+    "title": "Jane Young Fall 2025 Film Series: Greed, a Film Retrospective",
+    "link": "https://www.bmcc.cuny.edu/event/jane-young-fall-2025-film-series-greed-a-film-retrospective/2025-12-07/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-12-07",
+    "time": "07:00 PM - 09:00 PM",
+    "tags": [
+      "Diplomatic Engagement and Training",
+      "English",
+      "Featured",
+      "Media Arts and Technology",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Food Pantry",
     "link": "https://www.bcc.cuny.edu/event/food-pantry/2025-12-03/",
     "college": "Bronx Community College",
@@ -2012,19 +2012,6 @@
     ]
   },
   {
-    "title": "CSI Sustainability: Compost Workshop (259019-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11324328",
-    "college": "College of Staten Island",
-    "date": "2025-12-02",
-    "time": "07:30 PM - 09:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "PG CLUE",
-      "VELA",
-      "Sustainability"
-    ]
-  },
-  {
     "title": "Mic Check: BSU Karaoke Hour!",
     "link": "https://csi.campuslabs.com/engage/event/11896785",
     "college": "College of Staten Island",
@@ -2126,6 +2113,19 @@
     "time": "05:00 PM - 07:00 PM",
     "tags": [
       "Social"
+    ]
+  },
+  {
+    "title": "CSI Sustainability: Compost Workshop (259019-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/11324328",
+    "college": "College of Staten Island",
+    "date": "2025-12-04",
+    "time": "07:30 PM - 08:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "PG CLUE",
+      "VELA",
+      "Sustainability"
     ]
   },
   {
@@ -2393,12 +2393,38 @@
     ]
   },
   {
-    "title": "Fall 2025 De-Stress Fest: Let’s Crochet!",
-    "link": "https://www.bmcc.cuny.edu/event/?p=664842",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-02",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": []
+    "title": "Learn about Teams",
+    "link": "https://events.cuny.edu/cec/learn-about-teams-2/",
+    "college": "College of Staten Island",
+    "date": "2025-12-03",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "Flight or Fight? Artists in Nazi Germany, 1933-1945 (In Person & Online)",
+    "link": "https://events.cuny.edu/cec/khc-event-12-3-25/",
+    "college": "Queensborough Community College",
+    "date": "2025-12-03",
+    "time": "12:00 PM",
+    "tags": [
+      "Art",
+      "Emigration",
+      "Holocaust",
+      "Holocaust Memory",
+      "Human Rights Issues",
+      "KHC",
+      "KHC-NEH Colloquium",
+      "Kupferberg Holocaust Center",
+      "Nazi era",
+      "QCC",
+      "Queensborough",
+      "Refugee",
+      "Resistance",
+      "WWII",
+      "World War II"
+    ]
   },
   {
     "title": "FA25 Hold off room",
@@ -3360,36 +3386,20 @@
     ]
   },
   {
+    "title": "Kwanzaa Celebration 2025",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-13-kwanzaa-celebration-2025.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-13",
+    "time": "02:00 PM - 04:30 PM",
+    "description": ""
+  },
+  {
     "title": "Winter Wellness",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-02-winter-wellness.html",
     "college": "Queensborough Community College",
     "date": "2025-12-02",
     "time": "12:00 PM - 02:00 PM",
     "description": ""
-  },
-  {
-    "title": "General Chemistry I Workshop Series Week 9: Molecular Geometry and Hybridization",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-02-general-chemistry-i-workshop-series-week-9-molecular-geometry-and-hybridization.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-02",
-    "time": "11:00 AM - 12:00 PM",
-    "description": "Club Event"
-  },
-  {
-    "title": "Games",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-02-games.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-02",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Conference and Workshop"
-  },
-  {
-    "title": "Scratch Paper Activity",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-02-scratch-paper-activity.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-02",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Conference and Workshop"
   },
   {
     "title": "Build A Globe, Brew A Cocoa",
@@ -3510,5 +3520,45 @@
     "date": "2025-12-03",
     "time": "01:00 PM - 04:00 PM",
     "description": "Financial Aid Event"
+  },
+  {
+    "title": "Webinar: Virtual Information Session for Nursing Applicants",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-03-webinar-virtual-information-session-for-nursing-applicants.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-03",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "Admissions Event"
+  },
+  {
+    "title": "Launch Your STEM Future with the CUNY Research Scholars Program",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-04-launch-your-stem-future-with-the-cuny-research-scholars-program.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-04",
+    "time": "12:30 PM - 01:30 PM",
+    "description": "ASAP Career Event"
+  },
+  {
+    "title": "Balancing Act: Thriving in School, Work & Career Prep",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-04-balancing-act-thriving-in-school-work-career-prep.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-04",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "ASAP Career Event"
+  },
+  {
+    "title": "Bracelet Making",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-04-bracelet-making.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-04",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "Conference and Workshop"
+  },
+  {
+    "title": "QCC Undergraduate Research & Creative Works Day",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-05-qcc-undergraduate-research-creative-works-day.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-05",
+    "time": "12:00 PM - 04:00 PM",
+    "description": "Conference and Workshop"
   }
 ]
