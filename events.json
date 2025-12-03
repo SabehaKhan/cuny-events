@@ -1,21 +1,5 @@
 [
   {
-    "title": "Biochemistry Seminar: Rupal Gupta, \"Structure, Dynamics, and Assembly of Human Antimicrobial Proteins\"",
-    "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-rupal-gupta-title-tba",
-    "college": "City College of New York",
-    "date": "2025-12-03",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "LGBTQ+ Peer Support Group",
-    "link": "https://www.ccny.cuny.edu/calendar/lgbtq-peer-support-group-59",
-    "college": "City College of New York",
-    "date": "2025-12-03",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "Chair Meditation | at CCNY CWE (25 Broadway)",
     "link": "https://www.ccny.cuny.edu/calendar/chair-meditation-1203",
     "college": "City College of New York",
@@ -609,61 +593,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-12-03/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-03",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-85/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-03",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Philosophy Ideas Exchange",
-    "link": "https://www.laguardia.edu/event/philosophy-ideas-exchange/2025-12-03/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-03",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "LaGuardia-Baruch Business Academy Virtual Information Session",
-    "link": "https://www.laguardia.edu/event/laguardia-baruch-business-academy-virtual-information-session-5/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-03",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Know Your Rights Workshop",
-    "link": "https://www.laguardia.edu/event/know-your-rights-workshop/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-03",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "First Year Seminar Student Video Showcase with Immigrant Resources",
     "link": "https://www.laguardia.edu/event/first-year-seminar-student-video-showcase-with-immigrant-resources/",
     "college": "LaGuardia Community College",
@@ -681,28 +610,6 @@
     "college": "LaGuardia Community College",
     "date": "2025-12-03",
     "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Professional Etiquette (Pre-ETS)",
-    "link": "https://www.laguardia.edu/event/professional-etiquette-pre-ets/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-03",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Coping Skills for the Holidays (Walk-ins welcome)",
-    "link": "https://www.laguardia.edu/event/coping-skills-for-the-holidays-walk-ins-welcome/2025-12-03/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-03",
-    "time": "03:00 PM - 04:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -904,6 +811,86 @@
     "college": "LaGuardia Community College",
     "date": "2025-12-10",
     "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Donut Day",
+    "link": "https://www.laguardia.edu/event/donut-day/",
+    "college": "LaGuardia Community College",
+    "date": "2025-12-11",
+    "time": "10:00 AM - 12:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation/2025-12-11/",
+    "college": "LaGuardia Community College",
+    "date": "2025-12-11",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Donut Day",
+    "link": "https://www.laguardia.edu/event/donut-day-2/",
+    "college": "LaGuardia Community College",
+    "date": "2025-12-11",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "The Center for Teaching and Learning 25th Anniversary Celebration and Showcase",
+    "link": "https://www.laguardia.edu/event/the-center-for-teaching-and-learning-25th-anniversary-celebration-and-showcase/",
+    "college": "LaGuardia Community College",
+    "date": "2025-12-11",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Faculty and Staff",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2025-12-12/",
+    "college": "LaGuardia Community College",
+    "date": "2025-12-12",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-12-15/",
+    "college": "LaGuardia Community College",
+    "date": "2025-12-15",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-12-17/",
+    "college": "LaGuardia Community College",
+    "date": "2025-12-17",
+    "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1151,46 +1138,6 @@
     ]
   },
   {
-    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-9/",
-    "college": "Hunter College",
-    "date": "2025-12-03",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Job Search Strategies & Résumés for Juniors & Seniors",
-    "link": "https://www.hunter.cuny.edu/event/job-search-strategies-resumes-for-juniors-seniors/",
-    "college": "Hunter College",
-    "date": "2025-12-03",
-    "time": "01:30 PM - 02:30 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Seminar: Marta Castellini (University of Padua, FEEM)",
-    "link": "https://www.hunter.cuny.edu/event/seminar-marta-castellini-university-of-padova/",
-    "college": "Hunter College",
-    "date": "2025-12-03",
-    "time": "01:30 PM - 03:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Dancing with the Dean",
-    "link": "https://www.hunter.cuny.edu/event/dancing-with-the-dean/2025-12-03/",
-    "college": "Hunter College",
-    "date": "2025-12-03",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
     "title": "Combating Social Anxiety – Counseling Workshop",
     "link": "https://www.hunter.cuny.edu/event/combating-social-anxiety-counseling-workshop-3/",
     "college": "Hunter College",
@@ -1434,6 +1381,44 @@
     "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Student Events"
+    ]
+  },
+  {
+    "title": "Graduate Admissions Information Session",
+    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-35/",
+    "college": "Hunter College",
+    "date": "2025-12-11",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
+    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-6/",
+    "college": "Hunter College",
+    "date": "2025-12-11",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "RN-to-BS Nursing Program Information Session",
+    "link": "https://www.hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-7/",
+    "college": "Hunter College",
+    "date": "2025-12-12",
+    "time": "10:00 AM - 11:30 AM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "Dance Department Honors Project",
+    "link": "https://www.hunter.cuny.edu/event/dance-department-honors-project/2025-12-12/",
+    "college": "Hunter College",
+    "date": "2025-12-12",
+    "time": "07:30 PM - 08:30 PM",
+    "tags": [
+      "Performing Arts & Film"
     ]
   },
   {
@@ -1773,16 +1758,6 @@
     ]
   },
   {
-    "title": "Zoom into Majors: Media and Digital Film",
-    "link": "https://www.bcc.cuny.edu/event/zoom-into-majors-media-and-digital-film/",
-    "college": "Bronx Community College",
-    "date": "2025-12-03",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Information Sessions"
-    ]
-  },
-  {
     "title": "Food Pantry",
     "link": "https://www.bcc.cuny.edu/event/food-pantry/2025-12-04/",
     "college": "Bronx Community College",
@@ -1955,17 +1930,6 @@
     "tags": [
       "Enrollment Management",
       "Feature"
-    ]
-  },
-  {
-    "title": "Weekly Tea Time",
-    "link": "https://csi.campuslabs.com/engage/event/11507177",
-    "college": "College of Staten Island",
-    "date": "2025-12-03",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Social",
-      "Willowbrook Campus"
     ]
   },
   {
@@ -2186,11 +2150,11 @@
     ]
   },
   {
-    "title": "Weekly Tea Time",
+    "title": "Weekly Tea Time (End of Semester Celebration!)",
     "link": "https://csi.campuslabs.com/engage/event/11507178",
     "college": "College of Staten Island",
     "date": "2025-12-10",
-    "time": "06:00 PM - 07:00 PM",
+    "time": "06:00 PM - 08:00 PM",
     "tags": [
       "Social",
       "Willowbrook Campus"
@@ -2206,6 +2170,32 @@
       "ThoughtfulLearning",
       "Learning",
       "Health and Wellness"
+    ]
+  },
+  {
+    "title": "CSI Jazz Ensemble, Director, Darrell Smith",
+    "link": "https://csi.campuslabs.com/engage/event/11928686",
+    "college": "College of Staten Island",
+    "date": "2025-12-11",
+    "time": "12:00 AM - 01:30 AM",
+    "tags": [
+      "Arts",
+      "Entertainment",
+      "Willowbrook Campus",
+      "Cultural"
+    ]
+  },
+  {
+    "title": "CSI Jazz Repertory Combo, Vince Guarna, director",
+    "link": "https://csi.campuslabs.com/engage/event/11928793",
+    "college": "College of Staten Island",
+    "date": "2025-12-11",
+    "time": "08:00 PM - 09:00 PM",
+    "tags": [
+      "Arts",
+      "Entertainment",
+      "Willowbrook Campus",
+      "Cultural"
     ]
   },
   {
@@ -2228,6 +2218,19 @@
     "tags": [
       "Social",
       "Global Engagement",
+      "Cultural"
+    ]
+  },
+  {
+    "title": "CSI Guitar Ensemble, Edward Brown, director",
+    "link": "https://csi.campuslabs.com/engage/event/11929017",
+    "college": "College of Staten Island",
+    "date": "2025-12-12",
+    "time": "12:30 AM - 01:30 AM",
+    "tags": [
+      "Arts",
+      "Entertainment",
+      "Willowbrook Campus",
       "Cultural"
     ]
   },
@@ -2308,14 +2311,6 @@
     "tags": [
       "Planetarium"
     ]
-  },
-  {
-    "title": "2nd Annual Symposium on Healthy Aging: Nutrition and the Life Course",
-    "link": "https://lehman.edu/events/2025/2nd-Annual-Symposium-on-Healthy-Aging-Nutrition-and-the-Life-Course-.php",
-    "college": "Lehman College",
-    "date": "2025-12-03",
-    "time": "12:00 PM - 1:00 PM",
-    "tags": []
   },
   {
     "title": "Fall ’25 Biochem Seminar: Associate Professor Rupal Gupta",
@@ -2888,14 +2883,6 @@
     "tags": []
   },
   {
-    "title": "Is Academic Freedom Dying at American Universities?",
-    "link": "https://www.jjay.cuny.edu/news-events/events/academic-freedom-dying-american-universities",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-12-03",
-    "time": "06:30 PM",
-    "tags": []
-  },
-  {
     "title": "Town Hall",
     "link": "https://www.jjay.cuny.edu/news-events/events/town-hall-6",
     "college": "John Jay College of Criminal Justice",
@@ -3315,30 +3302,6 @@
     "description": ""
   },
   {
-    "title": "QCC Youth Reel Film Festival Fall 2025",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-03-qcc-youth-reel-film-festival-fall-2025.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-03",
-    "time": "12:30 PM - 02:00 PM",
-    "description": "Performing Arts / Film Event"
-  },
-  {
-    "title": "FAFSA Fest",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-03-fafsa-fest.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-03",
-    "time": "01:00 PM - 04:00 PM",
-    "description": "Financial Aid Event"
-  },
-  {
-    "title": "Webinar: Virtual Information Session for Nursing Applicants",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-03-webinar-virtual-information-session-for-nursing-applicants.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-03",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "Admissions Event"
-  },
-  {
     "title": "Launch Your STEM Future with the CUNY Research Scholars Program",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-04-launch-your-stem-future-with-the-cuny-research-scholars-program.html",
     "college": "Queensborough Community College",
@@ -3465,5 +3428,21 @@
     "date": "2025-12-10",
     "time": "12:00 PM - 02:00 PM",
     "description": "Student Event"
+  },
+  {
+    "title": "End of the Semester Gathering-Maintaining Our Faith",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-10-end-of-the-semester-gathering-maintaining-our-faith.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-10",
+    "time": "12:10 PM - 01:45 PM",
+    "description": "Club Event"
+  },
+  {
+    "title": "FAFSA Fest",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-10-fafsa-fest.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-10",
+    "time": "01:00 PM - 04:00 PM",
+    "description": "Financial Aid Event"
   }
 ]
