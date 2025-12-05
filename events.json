@@ -1018,16 +1018,6 @@
     ]
   },
   {
-    "title": "Study Session with Cookies!",
-    "link": "https://www.hunter.cuny.edu/event/study-session-with-cookies/",
-    "college": "Hunter College",
-    "date": "2025-12-05",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "2025 Homecoming",
     "link": "https://www.hunter.cuny.edu/event/2025-homecoming/",
     "college": "Hunter College",
@@ -1262,6 +1252,16 @@
     ]
   },
   {
+    "title": "Hunter College Opera",
+    "link": "https://www.hunter.cuny.edu/event/hunter-college-opera/2025-12-11/",
+    "college": "Hunter College",
+    "date": "2025-12-11",
+    "time": "07:00 PM - 08:30 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
     "title": "RN-to-BS Nursing Program Information Session",
     "link": "https://www.hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-7/",
     "college": "Hunter College",
@@ -1282,6 +1282,16 @@
     ]
   },
   {
+    "title": "Hunter College Opera",
+    "link": "https://www.hunter.cuny.edu/event/hunter-college-opera/2025-12-13/",
+    "college": "Hunter College",
+    "date": "2025-12-13",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
     "title": "Fall 2025 Inga Richter Seminar Series: Dr. Katherine Anderson",
     "link": "https://www.hunter.cuny.edu/event/fall-2025-inga-richter-seminar-series-dr-katherine-anderson/",
     "college": "Hunter College",
@@ -1290,14 +1300,6 @@
     "tags": [
       "Lectures"
     ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-10/",
-    "college": "Hunter College",
-    "date": "2025-12-15",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
   },
   {
     "title": "A Celebration of the Life of Alsion Marie Wilson",
@@ -2677,6 +2679,14 @@
     "tags": []
   },
   {
+    "title": "Kwanzaa Celebration",
+    "link": "https://www.jjay.cuny.edu/news-events/events/kwanzaa-celebration",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2025-12-08",
+    "time": "06:40 PM",
+    "tags": []
+  },
+  {
     "title": "Rising Scholars of Justice Program Info Session",
     "link": "https://www.jjay.cuny.edu/news-events/events/rising-scholars-justice-program-info-session",
     "college": "John Jay College of Criminal Justice",
@@ -2818,6 +2828,118 @@
     "college": "Macaulay Honors College",
     "date": "2026-06-02",
     "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Dec 5",
+    "link": "https://www.york.cuny.edu/advisement/events/v-ready-dec5",
+    "college": "York College",
+    "date": "2025-12-05",
+    "time": "2:30 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CSD Final Exam Jam 2025",
+    "link": "https://www.york.cuny.edu/events/csd-final-exam-jam-2025",
+    "college": "York College",
+    "date": "2025-12-05",
+    "time": "6:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Jaja's African Hair Braiding - Friday",
+    "link": "https://www.york.cuny.edu/events/jajas-african-hair-braiding-3",
+    "college": "York College",
+    "date": "2025-12-06",
+    "time": "12:00 AM - 2:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Jaja's African Hair Braiding - Saturday",
+    "link": "https://www.york.cuny.edu/events/jajas-african-hair-braiding-2",
+    "college": "York College",
+    "date": "2025-12-06",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Dec 9",
+    "link": "https://www.york.cuny.edu/advisement/events/v-ready-dec9",
+    "college": "York College",
+    "date": "2025-12-09",
+    "time": "2:30 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "A SEEK Cozy Winter",
+    "link": "https://www.york.cuny.edu/events/a-seek-cozy-winter",
+    "college": "York College",
+    "date": "2025-12-09",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Jaja's African Hair Braiding - Tuesday",
+    "link": "https://www.york.cuny.edu/events/jajas-african-hair-braiding-1",
+    "college": "York College",
+    "date": "2025-12-09",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Wellness Wednesday-December 10th",
+    "link": "https://www.york.cuny.edu/events/wellness-wednesday-december-10th",
+    "college": "York College",
+    "date": "2025-12-10",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Ugly Sweater Party / Best Dressed Contest",
+    "link": "https://www.york.cuny.edu/events/2025/ugly-sweater-party-best-dressed-contest",
+    "college": "York College",
+    "date": "2025-12-11",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Basketball vs. John Jay College",
+    "link": "https://www.york.cuny.edu/events/2025/womens-basketball-vs-john-jay-12112025",
+    "college": "York College",
+    "date": "2025-12-11",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Basketball vs. John Jay College",
+    "link": "https://www.york.cuny.edu/events/2025/mens-basketball-vs-john-jay-12112025",
+    "college": "York College",
+    "date": "2025-12-12",
+    "time": "12:00 AM - 2:00 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Dec 12",
+    "link": "https://www.york.cuny.edu/advisement/events/v-ready-dec12",
+    "college": "York College",
+    "date": "2025-12-12",
+    "time": "2:30 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Basketball vs. Pratt Institute",
+    "link": "https://www.york.cuny.edu/events/2025/mens-basketball-vs-pratt-12132025",
+    "college": "York College",
+    "date": "2025-12-13",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Clothing Giveaway - Tree/Minarah Setup",
+    "link": "https://www.york.cuny.edu/events/2025/clothing-giveaway-tree-minarah-setup",
+    "college": "York College",
+    "date": "2025-12-14",
+    "time": "5:00 AM - 4:59 AM",
     "tags": []
   },
   {
