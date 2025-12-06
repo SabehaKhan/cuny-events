@@ -3085,14 +3085,6 @@
     "description": ""
   },
   {
-    "title": "Saturday at QCC!",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-06-saturday-at-qcc.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-06",
-    "time": "10:00 AM - 01:00 PM",
-    "description": "Admissions Event"
-  },
-  {
     "title": "Holiday Toy Drive Sponsored by the Caribbean Student Coalition",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-08-holiday-toy-drive-sponsored-by-the-caribbean-student-coalition.html",
     "college": "Queensborough Community College",
@@ -3227,5 +3219,13 @@
     "date": "2025-12-11",
     "time": "12:00 PM - 02:00 PM",
     "description": "Special Event / Fair"
+  },
+  {
+    "title": "Global Rhythms and Jazz Ensemble Concert",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-11-global-rhythms-and-jazz-ensemble-concert.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-11",
+    "time": "07:00 PM - 09:00 PM",
+    "description": "Performing Arts / Film Event"
   }
 ]
