@@ -1,21 +1,5 @@
 [
   {
-    "title": "Theatre Production: JoeB. (written and directed by Rob Barron)",
-    "link": "https://www.ccny.cuny.edu/calendar/theatre-production-joeb-written-and-directed-rob-barron-2",
-    "college": "City College of New York",
-    "date": "2025-12-06",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Theatre Production: JoeB. (written and directed by Rob Barron)",
-    "link": "https://www.ccny.cuny.edu/calendar/theatre-production-joeb-written-and-directed-rob-barron-3",
-    "college": "City College of New York",
-    "date": "2025-12-06",
-    "time": "07:00 PM - 08:30 PM",
-    "tags": []
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-16",
     "college": "City College of New York",
@@ -995,17 +979,6 @@
     ]
   },
   {
-    "title": "Ping Chong Archival Symposium",
-    "link": "https://www.hunter.cuny.edu/event/ping-chong-archival-symposium/",
-    "college": "Hunter College",
-    "date": "2025-12-06",
-    "time": "12:00 PM - 07:00 PM",
-    "tags": [
-      "Conferences & Workshops",
-      "Performing Arts & Film"
-    ]
-  },
-  {
     "title": "Donuts with the Dean",
     "link": "https://www.hunter.cuny.edu/event/donuts-with-the-dean-dec-8/",
     "college": "Hunter College",
@@ -1274,6 +1247,14 @@
     "college": "Hunter College",
     "date": "2025-12-15",
     "time": "01:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Person Place Thing: Randy Cohen in Conversation with Richard Nelson",
+    "link": "https://www.hunter.cuny.edu/event/person-place-thing-randy-cohen-in-conversation-with-richard-nelson/",
+    "college": "Hunter College",
+    "date": "2025-12-15",
+    "time": "02:30 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -2103,34 +2084,6 @@
     ]
   },
   {
-    "title": "Free Electronics Recycling Collection Event",
-    "link": "https://events.cuny.edu/cec/free-electronics-recycling-collection-event/",
-    "college": "College of Staten Island",
-    "date": "2025-12-06",
-    "time": "11:00 AM - 3:00 PM",
-    "tags": [
-      "Sustainability"
-    ]
-  },
-  {
-    "title": "CSI SWAP",
-    "link": "https://events.cuny.edu/cec/csi-swap-3/",
-    "college": "College of Staten Island",
-    "date": "2025-12-06",
-    "time": "12:00 PM - 3:00 PM",
-    "tags": [
-      "Sustainability"
-    ]
-  },
-  {
-    "title": "SOWETO GOSPEL CHOIR: PEACE",
-    "link": "https://events.cuny.edu/cec/soweto-gospel-choir-peace/",
-    "college": "Queens College",
-    "date": "2025-12-06",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Winter ConcertLehman College & Community ChorusLehman Symphony Orchestra",
     "link": "https://lehman.edu/events/2025/Winter-ConcertLehman-College--Community-ChorusLehman-Symphony-Orchestra.php",
     "college": "Lehman College",
@@ -2157,10 +2110,18 @@
     "tags": []
   },
   {
-    "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh104",
-    "college": "Queens College",
-    "date": "2025-12-06",
+    "title": "Ed.D. Organizational Leadership, Development and Change Information Session",
+    "link": "https://lehman.edu/events/2025/EdD-Organizational-Leadership-Development-and-Change-Information-Session-.php",
+    "college": "Lehman College",
+    "date": "2025-12-08",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Irin Carmon - Unbearable: Five Women and the Perils of Pregnancy in America",
+    "link": "https://events.cuny.edu/cec/https-host-nxt-blackbaud-com-registration-form-formid4b0615df-9b9b-48a0-8337-5bb3f0a5d302envidp-rzkfbb2xvk253ulcjd_x1wzoneusa/",
+    "college": "Hunter College",
+    "date": "2025-12-09",
     "time": "",
     "tags": []
   },
@@ -2261,6 +2222,22 @@
     "tags": []
   },
   {
+    "title": "First Year Experience Workshops",
+    "link": "https://qc.event.cuny.edu/events/Oe06hFzfAFfojjxGuhz0/I4SS5naJPd5uXeEZN8it",
+    "college": "Queens College",
+    "date": "2025-12-08",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Chi Alpha Fellowship Group",
+    "link": "https://qc.event.cuny.edu/events/BT2slfKXrut03fZbKTDN/NCgCZTP4Satksbnu4QyR",
+    "college": "Queens College",
+    "date": "2025-12-08",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
     "title": "20 Minute Mondays",
     "link": "https://baruch.event.cuny.edu/events/mdOh9WLfEOKf0tAekP57/DzGBX2hH5uXZrdaMPi1D",
     "college": "Baruch College",
@@ -2317,86 +2294,6 @@
     "tags": []
   },
   {
-    "title": "JP Morgan Fellowship Initiative",
-    "link": "https://citytech.event.cuny.edu/events/OuSBA1To3OSSI6Sb08MY/T7C2cDylWAq7Azd2bfo114",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-06",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "GDG Club: Sustainable Synapse: Hack for Social Impact",
-    "link": "https://citytech.event.cuny.edu/events/p0QNPYNOMdfsFWdeP3Sh/oT5hpfGwflK6KVisG1lD",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-06",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center Classes",
-    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/sPzXU1x8PFdWzxgPoclb10",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-06",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "STEP Fall 2025 program",
-    "link": "https://citytech.event.cuny.edu/events/mhxXam0MPWZsczB0ylJX/FFB60ARRGdV7uwSeNtxQ8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-06",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "STEP fall 2025 program",
-    "link": "https://citytech.event.cuny.edu/events/rC9yQkzkIZzpJ5p3Dz2s/GQWJF36dpIBJKu42ateV8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-06",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "ENG1101",
-    "link": "https://citytech.event.cuny.edu/events/vQxYEVajIJ8L37r10bY0/JbsUpRIoOePBe2ouFivn6",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-06",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "STEP FAll 2025",
-    "link": "https://citytech.event.cuny.edu/events/Q3UUCYV6EbjkIhBBr4M7/LWPhupIjvPJyrTVRNR6k8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-06",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "HSA 3510-OL54 (16486)",
-    "link": "https://citytech.event.cuny.edu/events/T4rl3t5QCueosqLbzNZt/kF1Ni3gwIxLuGbCD4cci14",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-06",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "MKT1100 Office Hours",
-    "link": "https://citytech.event.cuny.edu/events/rVqG99UnsIzlhjGZnXWT/IcvrdExEL6Re7Ixfkfkg12",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-06",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "CCRB",
-    "link": "https://citytech.event.cuny.edu/events/hJCNMGVvXbDiS3BKOZLY/wmnpm1P99b9EkDnjaG9x",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-06",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
     "title": "Final Review",
     "link": "https://citytech.event.cuny.edu/events/BBYB23a622EUJwbfhxGd/ex0sCOj6X4PBAYZGONNe",
     "college": "New York City College of Technology (City Tech)",
@@ -2437,11 +2334,115 @@
     "tags": []
   },
   {
-    "title": "Men's Basketball Game (Sullivan)",
-    "link": "https://hostos.event.cuny.edu/events/p6wsUs6TqpHJPOuMUECm/uo4X0gEB9I437LVFT3sI",
-    "college": "Hostos Community College",
-    "date": "2025-12-06",
+    "title": "Student Life & Development: Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/l8nCPw37rX8ZCdx0iqgI/nT1bbxu1Z0iCahFac0gJ",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-08",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Portfolio Workshop",
+    "link": "https://citytech.event.cuny.edu/events/jTPAnkvD3wE37GgaucoA/KKuGKrh0VzAY9VrlbS1H3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-09",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "SGA: Coffee Table Tuesdays",
+    "link": "https://citytech.event.cuny.edu/events/Cz2ftAcifCHpiNYJdR3v/gHdV6zW9sZFb16pgyS6813",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-09",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "On Campus Group Tour",
+    "link": "https://citytech.event.cuny.edu/events/eu5PDWMxQh2nZJE3WSHV/IR4eEeebZfsr3pQtdyqU",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-09",
     "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/D0GiXVdptET3GZkpCc1e/wPiw0vyYixbqNdkEK6RV15",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-09",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Muslim Student Association: Islamic Trivia Event",
+    "link": "https://citytech.event.cuny.edu/events/Qsze4VxFNLTmdVSSs0ij/JaubaScHMgXhMGswNiI8",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-09",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "The First Gen Experience",
+    "link": "https://citytech.event.cuny.edu/events/v6T9uKZKxr3uyA3xAzvy/xDDXNogeVkLPnPMuRwZd",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-09",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/UrvoSzeeLoPb74aQWvuS3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-09",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/iyKGQLcvSuVcXc0Ci5zo/tsup4HqRxPwozFVKNnzY13",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-09",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Development: Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/l8nCPw37rX8ZCdx0iqgI/W5RDhL2HFzS1GdQ3wu4Y",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-09",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "Circus performer meet up",
+    "link": "https://citytech.event.cuny.edu/events/dPQwlEJLfa17qykRhK2M/p7qzQi7wIgphfFISGJEe",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-09",
+    "time": "5:15PM",
+    "tags": []
+  },
+  {
+    "title": "City Tech Theatreworks Presents Bindlestiff Open Stage Variety Show",
+    "link": "https://citytech.event.cuny.edu/events/dl8vZS5mcQMImMxvO6sx/Sp9xsH1WlqFTwz1N5eMP",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-09",
+    "time": "9:00PM",
+    "tags": []
+  },
+  {
+    "title": "US Marines Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/AUgGutCEvzSfXScUnKpq/AZ3z6XLGv1mlwhKBfXlb1116",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-10",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Nursing Lecture",
+    "link": "https://citytech.event.cuny.edu/events/IB6M7U1tV4xZr72avkff/O11hC97W9qWd3NE6QDKm",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-10",
+    "time": "11:30AM",
     "tags": []
   },
   {
@@ -2781,14 +2782,6 @@
     "tags": []
   },
   {
-    "title": "STEAM Festival",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/steam-festival/",
-    "college": "Macaulay Honors College",
-    "date": "2025-12-06",
-    "time": "10:00 AM - 8:00PM",
-    "tags": []
-  },
-  {
     "title": "City Nature Challenge 2026",
     "link": "https://macaulay.cuny.edu/calendar-of-events/city-nature-challenge/",
     "college": "Macaulay Honors College",
@@ -2810,14 +2803,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-06-02",
     "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "Jaja's African Hair Braiding - Saturday",
-    "link": "https://www.york.cuny.edu/events/jajas-african-hair-braiding-2",
-    "college": "York College",
-    "date": "2025-12-06",
-    "time": "8:00 PM - 10:00 PM",
     "tags": []
   },
   {
@@ -2930,6 +2915,14 @@
     "college": "York College",
     "date": "2025-12-16",
     "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/final-examinations-3",
+    "college": "York College",
+    "date": "2025-12-17",
+    "time": "5:00 AM - 4:59 AM",
     "tags": []
   },
   {
