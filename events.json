@@ -977,17 +977,6 @@
     ]
   },
   {
-    "title": "Donuts with the Dean",
-    "link": "https://www.hunter.cuny.edu/event/donuts-with-the-dean-dec-8/",
-    "college": "Hunter College",
-    "date": "2025-12-08",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "Special Events",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Brain Transcriptomics in Experimental Cerebral Malaria: Characterize Disease and Adjunctive Therapy",
     "link": "https://www.hunter.cuny.edu/event/brain-transcriptomics-in-experimental-cerebral-malaria-characterize-disease-and-adjunctive-therapy/",
     "college": "Hunter College",
@@ -1253,6 +1242,14 @@
     "college": "Hunter College",
     "date": "2025-12-15",
     "time": "02:30 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-11/",
+    "college": "Hunter College",
+    "date": "2025-12-17",
+    "time": "10:00 AM - 03:00 PM",
     "tags": []
   },
   {
@@ -2933,6 +2930,120 @@
     "tags": []
   },
   {
+    "title": "'INSURGENT VISIONS: FEMINISM, JUSTICE, SOLIDARITY'",
+    "link": "https://www.gc.cuny.edu/events/insurgent-visions-feminism-justice-solidarity",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-08",
+    "time": "6:30 pm — 8:30 pm",
+    "location": "Online",
+    "tags": [
+      "Intellectual Publics"
+    ]
+  },
+  {
+    "title": "CONCERT: JON DE LUCIA’S BRUBECK OCTET PROJECT",
+    "link": "https://www.gc.cuny.edu/events/concert-jon-de-lucias-brubeck-octet-project",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-08",
+    "time": "7:30 pm — 9:30 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Music"
+    ]
+  },
+  {
+    "title": "LIVE ESPARC TRAINING",
+    "link": "https://www.gc.cuny.edu/events/live-esparc-training",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-09",
+    "time": "2:00 pm — 3:00 pm",
+    "location": "Online",
+    "tags": [
+      "Compliance and Diversity"
+    ]
+  },
+  {
+    "title": "BRIEF HISTORY OF ENTROPY, FROM CARNOT TO AI",
+    "link": "https://www.gc.cuny.edu/events/brief-history-entropy-carnot-ai",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-09",
+    "time": "5:30 pm — 6:30 pm",
+    "location": "4102: Science Center",
+    "tags": [
+      "Physics",
+      "Initiative for the Theoretical Sciences",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "COPLAND HOUSE ENSEMBLE: TANGOS, BALLADS, AND BLUES... TRANSFORMED",
+    "link": "https://www.gc.cuny.edu/events/copland-house-ensemble-tangos-ballads-and-blues-transformed",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-09",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "IMMIGRATION SEMINAR SERIES - UNWELCOME SHORES: BLACK REFUGEES IN AMERICA",
+    "link": "https://www.gc.cuny.edu/events/immigration-seminar-series-unwelcome-shores-black-refugees-america",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-09",
+    "time": "6:30 pm — 8:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Sociology",
+      "Immigration Seminar Series (Sociology)"
+    ]
+  },
+  {
+    "title": "DRUPAL BASICS TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-dec-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-10",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "ADVANCED DRUPAL TRAINING",
+    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-6",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-10",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "DEEP DIVE: LISTENING TO BAD BUNNY - JORELL MELÉNDEZ-BADILLO AND MIGUEL ZENÓN IN CONVERSATION",
+    "link": "https://www.gc.cuny.edu/events/deep-dive-listening-bad-bunny-jorell-melendez-badillo-and-miguel-zenon-conversation",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-10",
+    "time": "6:30 pm — 7:45 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Public Programs",
+      "GC Presents"
+    ]
+  },
+  {
+    "title": "CENTS AND SENSE: STUDENT LOAN REPAYMENT AND PUBLIC SERVICE LOAN FORGIVENESS",
+    "link": "https://www.gc.cuny.edu/events/cents-and-sense-student-loan-repayment-and-public-service-loan-forgiveness-dec-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-11",
+    "time": "12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Fellowships and Financial Aid"
+    ]
+  },
+  {
     "title": "Kwanzaa Celebration 2025",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-13-kwanzaa-celebration-2025.html",
     "college": "Queensborough Community College",
@@ -2947,22 +3058,6 @@
     "date": "2025-12-10",
     "time": "12:00 PM - 02:00 PM",
     "description": ""
-  },
-  {
-    "title": "Holiday Toy Drive Sponsored by the Caribbean Student Coalition",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-08-holiday-toy-drive-sponsored-by-the-caribbean-student-coalition.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-08",
-    "time": "09:00 AM - 05:00 PM",
-    "description": "Club Event"
-  },
-  {
-    "title": "International Students: The Benefits of Attending a Community College in the US",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-08-international-students-the-benefits-of-attending-a-community-college-in-the-us.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-08",
-    "time": "09:30 AM - 10:30 AM",
-    "description": "Admissions Event"
   },
   {
     "title": "Color, Create & Be Calm",
@@ -3078,7 +3173,7 @@
   },
   {
     "title": "Queer Jeopardy - Pop Culture Edition",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-11-queer-jeopardy---pop-culture-edition.html",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-11-queer-jeopardy-pop-culture-edition.html",
     "college": "Queensborough Community College",
     "date": "2025-12-11",
     "time": "12:00 PM - 02:00 PM",
@@ -3091,5 +3186,21 @@
     "date": "2025-12-11",
     "time": "07:00 PM - 09:00 PM",
     "description": "Performing Arts / Film Event"
+  },
+  {
+    "title": "Midday Yoga",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-12-midday-yoga.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-12",
+    "time": "12:30 PM - 01:30 PM",
+    "description": "Conference and Workshop"
+  },
+  {
+    "title": "Paint N' Chill Student Workshop",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-12-paint-n-chill-student-workshop.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-12",
+    "time": "01:00 PM - 03:00 PM",
+    "description": "Special Event / Fair"
   }
 ]
