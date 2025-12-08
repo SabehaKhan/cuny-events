@@ -1,13 +1,5 @@
 [
   {
-    "title": "YASS! Mondays",
-    "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-16",
-    "college": "City College of New York",
-    "date": "2025-12-08",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Small Jazz Ensembles Concert (Directed by Ray Gallon)",
     "link": "https://www.ccny.cuny.edu/calendar/small-jazz-ensembles-concert-directed-ray-gallon",
     "college": "City College of New York",
@@ -513,17 +505,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-12-08/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-08",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Paint & Sip",
     "link": "https://www.laguardia.edu/event/paint-sip-5/",
     "college": "LaGuardia Community College",
@@ -838,6 +819,17 @@
     ]
   },
   {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-92/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-02",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
     "title": "The HUB Virtual Hours",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376805",
     "college": "Guttman Community College",
@@ -926,6 +918,19 @@
     ]
   },
   {
+    "title": "Queer Internet History Session",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376869",
+    "college": "Guttman Community College",
+    "date": "2025-12-11",
+    "time": "06:15 PM - 07:45 PM",
+    "tags": [
+      "LGBT",
+      "Social",
+      "Student Life",
+      "LGBTQ+"
+    ]
+  },
+  {
     "title": "Gaming Grizzlies Weekly Watch Party",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376716",
     "college": "Guttman Community College",
@@ -975,24 +980,6 @@
       "Discussion",
       "Information Session"
     ]
-  },
-  {
-    "title": "Brain Transcriptomics in Experimental Cerebral Malaria: Characterize Disease and Adjunctive Therapy",
-    "link": "https://www.hunter.cuny.edu/event/brain-transcriptomics-in-experimental-cerebral-malaria-characterize-disease-and-adjunctive-therapy/",
-    "college": "Hunter College",
-    "date": "2025-12-08",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-9/",
-    "college": "Hunter College",
-    "date": "2025-12-08",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
   },
   {
     "title": "Choral Performance by Hunter College faculty, students, and staff",
@@ -1253,42 +1240,22 @@
     "tags": []
   },
   {
-    "title": "BMCC Library AI Workshop Series",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-library-ai-workshop-series/2025-12-08/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-08",
-    "time": "12:00 PM - 01:00 PM",
+    "title": "Accelerated-Second Degree (BS) Nursing Program Information Session",
+    "link": "https://www.hunter.cuny.edu/event/accelerated-second-degree-bs-nursing-program-information-session-7/",
+    "college": "Hunter College",
+    "date": "2025-12-18",
+    "time": "06:00 PM - 07:30 PM",
     "tags": [
-      "Featured",
-      "Library"
+      "Open Houses"
     ]
   },
   {
-    "title": "Fall 2025 De-Stress Fest: Join us for a relaxing painting session",
-    "link": "https://www.bmcc.cuny.edu/event/fall-2025-de-stress-fest-join-our-relaxing-painting-session/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-08",
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-11/",
+    "college": "Hunter College",
+    "date": "2025-12-22",
     "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "De-Stress Fest",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Sign Up for SafeZone 101 Training",
-    "link": "https://www.bmcc.cuny.edu/event/sign-up-for-safezone-101-training/2025-12-08/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-08",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "Co-Curricular Transcript",
-      "Featured",
-      "LGBTQ Pride Month",
-      "Pride Center",
-      "Student Affairs"
-    ]
+    "tags": []
   },
   {
     "title": "Exhale to Inhale: Healing Yoga",
@@ -1487,6 +1454,17 @@
     ]
   },
   {
+    "title": "NY State Opportunity Promise: Free Community College Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/ny-state-opportunity-promise-free-community-college-information-sessionhttps-www-bmcc-cuny-edu-admissions-nysop/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-12-16",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
     "title": "Theater Play: Faded",
     "link": "https://www.bmcc.cuny.edu/event/theater-play-faded/",
     "college": "Borough of Manhattan Community College",
@@ -1578,14 +1556,6 @@
       "Office of the Registrar",
       "Virtual Event"
     ]
-  },
-  {
-    "title": "BCC Senate Executive",
-    "link": "https://www.bcc.cuny.edu/event/bcc-senate-executive/2025-12-08/",
-    "college": "Bronx Community College",
-    "date": "2025-12-08",
-    "time": "02:15 PM - 03:30 PM",
-    "tags": []
   },
   {
     "title": "Financial Aid Virtual Counter",
@@ -1753,17 +1723,6 @@
       "Enrollment Management",
       "Feature",
       "Information Sessions"
-    ]
-  },
-  {
-    "title": "WSIA Board of Directors",
-    "link": "https://csi.campuslabs.com/engage/event/11925158",
-    "college": "College of Staten Island",
-    "date": "2025-12-08",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
-      "GroupBusiness",
-      "Group Business"
     ]
   },
   {
@@ -2111,6 +2070,56 @@
     "time": "1:00 PM - 2:00 PM",
     "tags": [
       "EE Seminar"
+    ]
+  },
+  {
+    "title": "The Bertha Harris Women’s Center Presents: Puppies and Pizza",
+    "link": "https://events.cuny.edu/cec/the-bertha-harris-womens-center-presents-puppies-and-pizza-3/",
+    "college": "College of Staten Island",
+    "date": "2025-12-09",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Bertha Harris Women's Center",
+      "Division of Humanities and Social Sciences",
+      "Womens Studies"
+    ]
+  },
+  {
+    "title": "The CSI Chorus",
+    "link": "https://events.cuny.edu/cec/the-csi-chorus-3/",
+    "college": "College of Staten Island",
+    "date": "2025-12-09",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Division of Humanities and Social Sciences",
+      "Music",
+      "Performing and Creative Arts"
+    ]
+  },
+  {
+    "title": "ONLINE INFO SESSION: Design a Unique Degree in CUNY with CUNY BA! Attend to Learn How.",
+    "link": "https://events.cuny.edu/cec/create-your-own-major-interdisciplinary-degree/",
+    "college": "CUNY Baccalaureate for Unique and Interdisciplinary Studies",
+    "date": "2025-12-09",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": [
+      "Undergraduate Open House",
+      "CUNY programs",
+      "NYC COLLEGE",
+      "affordable degree",
+      "communications design",
+      "creative degree",
+      "cuny degree",
+      "gaming design",
+      "interdisciplinary degree",
+      "interdisciplinary studies;",
+      "new york colleges",
+      "online information session",
+      "undergrad information session",
+      "undergraduate degree",
+      "unique degrees",
+      "unique majors;",
+      "virtual open house"
     ]
   },
   {
@@ -2666,22 +2675,6 @@
     "tags": []
   },
   {
-    "title": "Town Hall",
-    "link": "https://www.jjay.cuny.edu/news-events/events/town-hall-6",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-12-08",
-    "time": "06:40 PM",
-    "tags": []
-  },
-  {
-    "title": "Kwanzaa Celebration",
-    "link": "https://www.jjay.cuny.edu/news-events/events/kwanzaa-celebration",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-12-08",
-    "time": "06:40 PM",
-    "tags": []
-  },
-  {
     "title": "Rising Scholars of Justice Program Info Session",
     "link": "https://www.jjay.cuny.edu/news-events/events/rising-scholars-justice-program-info-session",
     "college": "John Jay College of Criminal Justice",
@@ -3058,14 +3051,6 @@
     "date": "2025-12-10",
     "time": "12:00 PM - 02:00 PM",
     "description": ""
-  },
-  {
-    "title": "Color, Create & Be Calm",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-08-color-create-be-calm.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-08",
-    "time": "12:30 PM - 02:00 PM",
-    "description": "Special Event / Fair"
   },
   {
     "title": "General Chemistry I Workshop Series Week 10: Review for Final Exam",
