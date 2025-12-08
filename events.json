@@ -513,19 +513,6 @@
     "tags": []
   },
   {
-    "title": "Dia de las Velitas Celebration",
-    "link": "https://www.laguardia.edu/event/dia-de-las-velitas-celebration/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-07",
-    "time": "02:00 PM - 08:00 PM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "Faculty and Staff",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-12-08/",
     "college": "LaGuardia Community College",
@@ -834,6 +821,17 @@
     "college": "LaGuardia Community College",
     "date": "2025-12-30",
     "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-91/",
+    "college": "LaGuardia Community College",
+    "date": "2025-12-30",
+    "time": "03:00 PM - 04:00 PM",
     "tags": [
       "admissions",
       "all calendars"
@@ -1256,35 +1254,6 @@
     "date": "2025-12-15",
     "time": "02:30 PM - 04:00 PM",
     "tags": []
-  },
-  {
-    "title": "BMCC Fall 2025 Film Festival",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-fall-2025-film-festival/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-07",
-    "time": "04:30 PM - 09:00 PM",
-    "tags": [
-      "Evening-Weekend",
-      "Featured",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs",
-      "Theatre"
-    ]
-  },
-  {
-    "title": "Jane Young Fall 2025 Film Series: Greed, a Film Retrospective",
-    "link": "https://www.bmcc.cuny.edu/event/jane-young-fall-2025-film-series-greed-a-film-retrospective/2025-12-07/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-07",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "Diplomatic Engagement and Training",
-      "English",
-      "Featured",
-      "Media Arts and Technology",
-      "Student Affairs"
-    ]
   },
   {
     "title": "BMCC Library AI Workshop Series",
@@ -2084,14 +2053,6 @@
     ]
   },
   {
-    "title": "Winter ConcertLehman College & Community ChorusLehman Symphony Orchestra",
-    "link": "https://lehman.edu/events/2025/Winter-ConcertLehman-College--Community-ChorusLehman-Symphony-Orchestra.php",
-    "college": "Lehman College",
-    "date": "2025-12-07",
-    "time": "2:30 PM - 4:30 PM",
-    "tags": []
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://events.cuny.edu/cec/yass-mondays-17/",
     "college": "The City College of New York",
@@ -2126,12 +2087,34 @@
     "tags": []
   },
   {
-    "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh105",
-    "college": "Queens College",
-    "date": "2025-12-07",
-    "time": "",
-    "tags": []
+    "title": "CUNY Dance Initiative: Call for Applications",
+    "link": "https://events.cuny.edu/cec/cuny-dance-initiative-call-for-applications/",
+    "college": "The University",
+    "date": "2025-12-09",
+    "time": "8:00 AM - 11:45 PM",
+    "tags": [
+      "CUNY Dance Initiative"
+    ]
+  },
+  {
+    "title": "Gaymers Against Violence: Monthly Workshop Series",
+    "link": "https://events.cuny.edu/cec/gaymers-against-violence-monthly-workshop-series-13/",
+    "college": "The City College of New York",
+    "date": "2025-12-09",
+    "time": "12:00 PM - 4:00 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
+  },
+  {
+    "title": "EE Seminar: Human-Robot Collaboration for Smart and Sustainable Manufacturing",
+    "link": "https://events.cuny.edu/cec/ee-seminar-human-robot-collaboration-for-smart-and-sustainable-manufacturing/",
+    "college": "The City College of New York",
+    "date": "2025-12-09",
+    "time": "1:00 PM - 2:00 PM",
+    "tags": [
+      "EE Seminar"
+    ]
   },
   {
     "title": "FA25 Hold off room",
@@ -2238,6 +2221,22 @@
     "tags": []
   },
   {
+    "title": "EECE student teaching info session",
+    "link": "https://qc.event.cuny.edu/events/Pc4uVpsl0G705MIUnIot/NFMLaMt2Wa2LI0FooB9d",
+    "college": "Queens College",
+    "date": "2025-12-08",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Workshops",
+    "link": "https://qc.event.cuny.edu/events/P9vSfSPGwd6yHGxRD8y0/ZDueb4GWCJyOm9krt5xd30",
+    "college": "Queens College",
+    "date": "2025-12-08",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
     "title": "20 Minute Mondays",
     "link": "https://baruch.event.cuny.edu/events/mdOh9WLfEOKf0tAekP57/DzGBX2hH5uXZrdaMPi1D",
     "college": "Baruch College",
@@ -2291,6 +2290,14 @@
     "college": "Baruch College",
     "date": "2025-12-11",
     "time": "5:30PM",
+    "tags": []
+  },
+  {
+    "title": "20 Minute Mondays",
+    "link": "https://baruch.event.cuny.edu/events/mdOh9WLfEOKf0tAekP57/hAwX5euMKYX1Gdb8yZbf",
+    "college": "Baruch College",
+    "date": "2025-12-15",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -2582,14 +2589,6 @@
     "tags": []
   },
   {
-    "title": "Winter Concert Lehman College & Community Chorus Lehman Symphony Orchestra",
-    "link": "https://www.lehman.edu/events/2025/Winter-ConcertLehman-College--Community-ChorusLehman-Symphony-Orchestra.php",
-    "college": "Lehman College",
-    "date": "2025-12-07",
-    "time": "2:30 PM- 4:30 PM",
-    "tags": []
-  },
-  {
     "title": "Lehman Jazz Ensemble Lehman Guitar Ensemble December Concert",
     "link": "https://www.lehman.edu/events/2025/Lehman-Jazz-EnsembleLehman-Guitar-EnsembleDecember-Concert.php",
     "college": "Lehman College",
@@ -2659,6 +2658,14 @@
     "college": "Lehman College",
     "date": "2025-12-14",
     "time": "12:00 PM- 2:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Holiday Spectacular!",
+    "link": "https://www.lehman.edu/events/2025/Holiday-Spectacular.php",
+    "college": "Lehman College",
+    "date": "2025-12-14",
+    "time": "2:00 PM- 4:00 PM",
     "tags": []
   },
   {
@@ -2924,120 +2931,6 @@
     "date": "2025-12-17",
     "time": "5:00 AM - 4:59 AM",
     "tags": []
-  },
-  {
-    "title": "'INSURGENT VISIONS: FEMINISM, JUSTICE, SOLIDARITY'",
-    "link": "https://www.gc.cuny.edu/events/insurgent-visions-feminism-justice-solidarity",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-08",
-    "time": "6:30 pm — 8:30 pm",
-    "location": "Online",
-    "tags": [
-      "Intellectual Publics"
-    ]
-  },
-  {
-    "title": "CONCERT: JON DE LUCIA’S BRUBECK OCTET PROJECT",
-    "link": "https://www.gc.cuny.edu/events/concert-jon-de-lucias-brubeck-octet-project",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-08",
-    "time": "7:30 pm — 9:30 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Music"
-    ]
-  },
-  {
-    "title": "LIVE ESPARC TRAINING",
-    "link": "https://www.gc.cuny.edu/events/live-esparc-training",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-09",
-    "time": "2:00 pm — 3:00 pm",
-    "location": "Online",
-    "tags": [
-      "Compliance and Diversity"
-    ]
-  },
-  {
-    "title": "BRIEF HISTORY OF ENTROPY, FROM CARNOT TO AI",
-    "link": "https://www.gc.cuny.edu/events/brief-history-entropy-carnot-ai",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-09",
-    "time": "5:30 pm — 7:30 pm",
-    "location": "4102: Science Center",
-    "tags": [
-      "Physics",
-      "Initiative for the Theoretical Sciences",
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "title": "COPLAND HOUSE ENSEMBLE: TANGOS, BALLADS, AND BLUES... TRANSFORMED",
-    "link": "https://www.gc.cuny.edu/events/copland-house-ensemble-tangos-ballads-and-blues-transformed",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-09",
-    "time": "6:30 pm — 8:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "IMMIGRATION SEMINAR SERIES - UNWELCOME SHORES: BLACK REFUGEES IN AMERICA",
-    "link": "https://www.gc.cuny.edu/events/immigration-seminar-series-unwelcome-shores-black-refugees-america",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-09",
-    "time": "6:30 pm — 8:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Sociology",
-      "Immigration Seminar Series (Sociology)"
-    ]
-  },
-  {
-    "title": "DRUPAL BASICS TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-dec-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-10",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "ADVANCED DRUPAL TRAINING",
-    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-6",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-10",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "DEEP DIVE: LISTENING TO BAD BUNNY - JORELL MELÉNDEZ-BADILLO AND MIGUEL ZENÓN IN CONVERSATION",
-    "link": "https://www.gc.cuny.edu/events/deep-dive-listening-bad-bunny-jorell-melendez-badillo-and-miguel-zenon-conversation",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-10",
-    "time": "6:30 pm — 7:45 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Public Programs",
-      "GC Presents"
-    ]
-  },
-  {
-    "title": "CENTS AND SENSE: STUDENT LOAN REPAYMENT AND PUBLIC SERVICE LOAN FORGIVENESS",
-    "link": "https://www.gc.cuny.edu/events/cents-and-sense-student-loan-repayment-and-public-service-loan-forgiveness-dec-2025",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-11",
-    "time": "12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Fellowships and Financial Aid"
-    ]
   },
   {
     "title": "Kwanzaa Celebration 2025",
