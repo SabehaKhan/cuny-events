@@ -1,13 +1,5 @@
 [
   {
-    "title": "Small Jazz Ensembles Concert (Directed by Ray Gallon)",
-    "link": "https://www.ccny.cuny.edu/calendar/small-jazz-ensembles-concert-directed-ray-gallon",
-    "college": "City College of New York",
-    "date": "2025-12-08",
-    "time": "05:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "Gaymers Against Violence: Monthly Workshop Series",
     "link": "https://www.ccny.cuny.edu/calendar/gaymers-against-violence-monthly-workshop-series-11",
     "college": "City College of New York",
@@ -273,16 +265,6 @@
   },
   {
     "title": "Stress-Free Zone Finals Recharge: De-Stress Before Final Examinations",
-    "link": "https://www.mec.cuny.edu/event/stress-free-zone-finals-recharge-de-stress-before-final-examinations/",
-    "college": "Medgar Evers College",
-    "date": "2025-12-08",
-    "time": "11:30 AM - 03:00 PM",
-    "tags": [
-      "Student Life"
-    ]
-  },
-  {
-    "title": "Stress-Free Zone Finals Recharge: De-Stress Before Final Examinations",
     "link": "https://www.mec.cuny.edu/event/stress-free-zone-finals-recharge-de-stress-before-final-examinations-2/",
     "college": "Medgar Evers College",
     "date": "2025-12-09",
@@ -299,16 +281,6 @@
     "time": "12:00 PM - 02:00 PM",
     "tags": [
       "Student Life"
-    ]
-  },
-  {
-    "title": "The Environmental Future of Western Queens",
-    "link": "https://www.law.cuny.edu/event/the-environmental-future-of-western-queens/",
-    "college": "CUNY School of Law",
-    "date": "2025-12-08",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "Panel Discussion"
     ]
   },
   {
@@ -409,14 +381,6 @@
     "tags": []
   },
   {
-    "title": "Career Virtual Help",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/5b886592-e731-4e37-9659-f0076f92ba8e",
-    "college": "Kingsborough Community College",
-    "date": "2025-12-08",
-    "time": "09:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
     "title": "Good Luck Finals Breakfast",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/03bdae38-011a-4577-b06b-0014cb52317e",
     "college": "Kingsborough Community College",
@@ -454,14 +418,6 @@
     "college": "Kingsborough Community College",
     "date": "2025-12-11",
     "time": "10:30 PM - 10:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Newman Catholic Club",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/45533593-2b7d-49fc-9f19-55f59b71ea1c",
-    "college": "Kingsborough Community College",
-    "date": "2025-12-08",
-    "time": "04:30 PM - 06:30 PM",
     "tags": []
   },
   {
@@ -830,31 +786,6 @@
     ]
   },
   {
-    "title": "The HUB Virtual Hours",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376805",
-    "college": "Guttman Community College",
-    "date": "2025-12-08",
-    "time": "08:00 PM - 09:50 PM",
-    "tags": [
-      "EMSA",
-      "Support Session",
-      "Information Session",
-      "Discussion"
-    ]
-  },
-  {
-    "title": "Caribbean Holiday Feast",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376862",
-    "college": "Guttman Community College",
-    "date": "2025-12-08",
-    "time": "09:00 PM - 11:00 PM",
-    "tags": [
-      "CSA",
-      "Social",
-      "Food - Dinner"
-    ]
-  },
-  {
     "title": "Massage & Matcha: Destress from Finals Week",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376822",
     "college": "Guttman Community College",
@@ -918,19 +849,6 @@
     ]
   },
   {
-    "title": "Queer Internet History Session",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376869",
-    "college": "Guttman Community College",
-    "date": "2025-12-11",
-    "time": "06:15 PM - 07:45 PM",
-    "tags": [
-      "LGBT",
-      "Social",
-      "Student Life",
-      "LGBTQ+"
-    ]
-  },
-  {
     "title": "Gaming Grizzlies Weekly Watch Party",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376716",
     "college": "Guttman Community College",
@@ -979,16 +897,6 @@
       "Support Session",
       "Discussion",
       "Information Session"
-    ]
-  },
-  {
-    "title": "Choral Performance by Hunter College faculty, students, and staff",
-    "link": "https://www.hunter.cuny.edu/event/choral-performance-by-hunter-college-faculty-students-and-staff/",
-    "college": "Hunter College",
-    "date": "2025-12-08",
-    "time": "07:30 PM - 07:30 PM",
-    "tags": [
-      "Performing Arts & Film"
     ]
   },
   {
@@ -1254,6 +1162,14 @@
     "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-11/",
     "college": "Hunter College",
     "date": "2025-12-22",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-12/",
+    "college": "Hunter College",
+    "date": "2025-12-29",
     "time": "01:00 PM - 03:00 PM",
     "tags": []
   },
@@ -1542,30 +1458,6 @@
     "tags": [
       "Counseling Center",
       "Student Affairs"
-    ]
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2025-12-08/",
-    "college": "Bronx Community College",
-    "date": "2025-12-08",
-    "time": "02:00 PM - 07:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
-    ]
-  },
-  {
-    "title": "Financial Aid Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/financial-aid-virtual-counter/2025-12-08/",
-    "college": "Bronx Community College",
-    "date": "2025-12-08",
-    "time": "03:00 PM - 06:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature"
     ]
   },
   {
@@ -2009,32 +1901,6 @@
     ]
   },
   {
-    "title": "YASS! Mondays",
-    "link": "https://events.cuny.edu/cec/yass-mondays-17/",
-    "college": "The City College of New York",
-    "date": "2025-12-08",
-    "time": "12:00 PM - 4:00 PM",
-    "tags": [
-      "LGBTQI+"
-    ]
-  },
-  {
-    "title": "Choral Performance by Hunter College faculty, students, and staff",
-    "link": "https://events.cuny.edu/cec/choral-performance-by-hunter-college-faculty-students-and-staff/",
-    "college": "Hunter College",
-    "date": "2025-12-08",
-    "time": "7:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Ed.D. Organizational Leadership, Development and Change Information Session",
-    "link": "https://lehman.edu/events/2025/EdD-Organizational-Leadership-Development-and-Change-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "2025-12-08",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
     "title": "Irin Carmon - Unbearable: Five Women and the Perils of Pregnancy in America",
     "link": "https://events.cuny.edu/cec/https-host-nxt-blackbaud-com-registration-form-formid4b0615df-9b9b-48a0-8337-5bb3f0a5d302envidp-rzkfbb2xvk253ulcjd_x1wzoneusa/",
     "college": "Hunter College",
@@ -2123,131 +1989,145 @@
     ]
   },
   {
+    "title": "The 2nd Annual Winter Eros Kiki Ball",
+    "link": "https://events.cuny.edu/cec/the-2nd-annual-winter-eros-kiki-ball/",
+    "college": "The University",
+    "date": "2025-12-09",
+    "time": "6:00 PM - 9:00 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
+  },
+  {
+    "title": "The Young Artists’ Recital",
+    "link": "https://events.cuny.edu/cec/the-young-artists-recital/",
+    "college": "College of Staten Island",
+    "date": "2025-12-09",
+    "time": "7:30 PM - 9:00 PM",
+    "tags": [
+      "Division of Humanities and Social Sciences",
+      "Music",
+      "Performing and Creative Arts"
+    ]
+  },
+  {
     "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh106",
+    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh107",
     "college": "Queens College",
-    "date": "2025-12-08",
+    "date": "2025-12-09",
     "time": "",
     "tags": []
   },
   {
+    "title": "Townsend Harris HS",
+    "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/PN8tuYPimqapOkembCiX29",
+    "college": "Queens College",
+    "date": "2025-12-09",
+    "time": "7:30AM",
+    "tags": []
+  },
+  {
+    "title": "QSI Math Stretched Course",
+    "link": "https://qc.event.cuny.edu/events/ZkUDk3QHKnSvkl0C8rNp/eGRzH3rWU4b71NuoXVFJ31",
+    "college": "Queens College",
+    "date": "2025-12-09",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "QSI Junior/Senior Seminar",
+    "link": "https://qc.event.cuny.edu/events/Vg4Zrs5Ppe9n0F8IUiE2/ef3fithVDiC33327jnJu",
+    "college": "Queens College",
+    "date": "2025-12-09",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
     "title": "FDNY",
-    "link": "https://qc.event.cuny.edu/events/I2ZDGOEYwrGfcqF2XrN4/ndaJcOFzdU52yk4Pj3r136",
+    "link": "https://qc.event.cuny.edu/events/I2ZDGOEYwrGfcqF2XrN4/ndaJcOFzdU52yk4Pj3r137",
     "college": "Queens College",
-    "date": "2025-12-08",
+    "date": "2025-12-09",
     "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "QC President's Office - HOLD",
-    "link": "https://qc.event.cuny.edu/events/RXqu8mfY5HRT5f19Fn4t/olOLodVb8tRXawoeM7T9",
+    "title": "TIME 2000 Seminar",
+    "link": "https://qc.event.cuny.edu/events/loWBoFCzcyh9KEt6jcMV/uFoy6AkG20wqZTdnNYJm",
     "college": "Queens College",
-    "date": "2025-12-08",
+    "date": "2025-12-09",
     "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "PSC Session",
-    "link": "https://qc.event.cuny.edu/events/CX6CrAZFh7WvJ1cfBCtF/C8rWwqP3TmUYP9WdCI3d",
+    "title": "SEEK Recitations",
+    "link": "https://qc.event.cuny.edu/events/lX3RWoN5F2UBxTxZyDFW/JE9KkAQkSPPzMaa0eg0I26",
     "college": "Queens College",
-    "date": "2025-12-08",
+    "date": "2025-12-09",
     "time": "9:00AM",
     "tags": []
   },
   {
-    "title": "Townsend Harris HS",
-    "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/sKtZ0wTOoIQ8IBw8wPri29",
+    "title": "Women for Afghan",
+    "link": "https://qc.event.cuny.edu/events/mJ4TQiwGBQqQafzq3KUK/OKV2v5kMWbUHxudOTL8h",
     "college": "Queens College",
-    "date": "2025-12-08",
-    "time": "10:30AM",
+    "date": "2025-12-09",
+    "time": "9:00AM",
     "tags": []
   },
   {
-    "title": "Rest & Relaxation before finals",
-    "link": "https://qc.event.cuny.edu/events/woN5efXt5P3cWvHbbG3c/tcYrq7paHOANXOhhHygs",
+    "title": "Scotts Miracle Growth",
+    "link": "https://qc.event.cuny.edu/events/wMcDrm0QitDo3n1Trew9/v7DRciBMb36RJA6CvoxP",
     "college": "Queens College",
-    "date": "2025-12-08",
-    "time": "11:00AM",
+    "date": "2025-12-09",
+    "time": "9:00AM",
     "tags": []
   },
   {
-    "title": "Congresswoman Meng",
-    "link": "https://qc.event.cuny.edu/events/WE0f5DJFlqqQy7RtK92j/LuWuYGIdB1MrzRbjVsYx",
+    "title": "Learning Commons Workshop",
+    "link": "https://qc.event.cuny.edu/events/gghnxQ3seLRpak9Alhvi/xmbzShAqxtBueBkyeqPE",
     "college": "Queens College",
-    "date": "2025-12-08",
-    "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "Tech Scout",
-    "link": "https://qc.event.cuny.edu/events/GJGww75hYwG9Eoj9if78/ciUizrBjTlGw3rJ2PVgR",
-    "college": "Queens College",
-    "date": "2025-12-08",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Qns Chamber of Commerce",
-    "link": "https://qc.event.cuny.edu/events/uwzvbYHNfCC3C7awgOSH/jeIREvMBn9XcLiew0jl9",
-    "college": "Queens College",
-    "date": "2025-12-08",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Pages of Hope for Peace in the Middle East: Student Reading Group",
-    "link": "https://qc.event.cuny.edu/events/x0aySFYb4rtJKFd37XkU/xeuxeEY5CEPsoIWMDEGV",
-    "college": "Queens College",
-    "date": "2025-12-08",
-    "time": "12:00PM",
+    "date": "2025-12-09",
+    "time": "10:00AM",
     "tags": []
   },
   {
     "title": "Fall 2025- CUNY Explorers Tours",
-    "link": "https://qc.event.cuny.edu/events/bfx0Pn5kngM72WVy5tRt/MjMxAkzo2RpY8vHQtOsU",
+    "link": "https://qc.event.cuny.edu/events/bfx0Pn5kngM72WVy5tRt/MXPetlCFnHtWSOGReyds",
     "college": "Queens College",
-    "date": "2025-12-08",
-    "time": "12:05PM",
+    "date": "2025-12-09",
+    "time": "11:00AM",
     "tags": []
   },
   {
-    "title": "First Year Experience Workshops",
-    "link": "https://qc.event.cuny.edu/events/Oe06hFzfAFfojjxGuhz0/I4SS5naJPd5uXeEZN8it",
+    "title": "Next Step into Teaching",
+    "link": "https://qc.event.cuny.edu/events/FPAuQl2lOJRAsvR4uDhj/Cq5awNAHArMtuvUbNGpL",
     "college": "Queens College",
-    "date": "2025-12-08",
-    "time": "12:15PM",
+    "date": "2025-12-09",
+    "time": "4:30PM",
     "tags": []
   },
   {
-    "title": "Chi Alpha Fellowship Group",
-    "link": "https://qc.event.cuny.edu/events/BT2slfKXrut03fZbKTDN/NCgCZTP4Satksbnu4QyR",
+    "title": "Project ExCEL BMI - Cultural Evening",
+    "link": "https://qc.event.cuny.edu/events/mshuN4ttAy6zWUpMwDsF/e6yeKN3Mdq44NgAcKYFO",
     "college": "Queens College",
-    "date": "2025-12-08",
-    "time": "12:15PM",
+    "date": "2025-12-09",
+    "time": "4:30PM",
     "tags": []
   },
   {
-    "title": "EECE student teaching info session",
-    "link": "https://qc.event.cuny.edu/events/Pc4uVpsl0G705MIUnIot/NFMLaMt2Wa2LI0FooB9d",
+    "title": "Chi Alpha",
+    "link": "https://qc.event.cuny.edu/events/KhGaZhbCJwFC21FpN4tg/SXP5KMBmBREy4102LpGj",
     "college": "Queens College",
-    "date": "2025-12-08",
-    "time": "12:15PM",
+    "date": "2025-12-09",
+    "time": "5:00PM",
     "tags": []
   },
   {
-    "title": "SEEK Workshops",
-    "link": "https://qc.event.cuny.edu/events/P9vSfSPGwd6yHGxRD8y0/ZDueb4GWCJyOm9krt5xd30",
+    "title": "ACCT Review Sessions",
+    "link": "https://qc.event.cuny.edu/events/BbHVJ5hjNyK30PJPhIVO/hmpZc2vAsW8cyHMMt9BD11",
     "college": "Queens College",
-    "date": "2025-12-08",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "20 Minute Mondays",
-    "link": "https://baruch.event.cuny.edu/events/mdOh9WLfEOKf0tAekP57/DzGBX2hH5uXZrdaMPi1D",
-    "college": "Baruch College",
-    "date": "2025-12-08",
-    "time": "12:00PM",
+    "date": "2025-12-09",
+    "time": "6:30PM",
     "tags": []
   },
   {
@@ -2307,51 +2187,11 @@
     "tags": []
   },
   {
-    "title": "Final Review",
-    "link": "https://citytech.event.cuny.edu/events/BBYB23a622EUJwbfhxGd/ex0sCOj6X4PBAYZGONNe",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-08",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE Math Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/D0GiXVdptET3GZkpCc1e/bdkvOVnVIwWv7UNNbasa14",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-08",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "NYCCT Public Safety Information Tabling",
-    "link": "https://citytech.event.cuny.edu/events/oZrlbRHkgKoO9x5LAiJo/exFZENoLfxV0DYX5ANQS3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-08",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Fresh Food Bag Distribution",
-    "link": "https://citytech.event.cuny.edu/events/DBRF81bpUW1mugBjhty0/h8KsHrHdiYUZSpPxng687",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-08",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "NYPIRG Information Tabling",
-    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/fWxit6ANcLywQCMSjsGi13",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-08",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "Student Life & Development: Peer Navigator Tabling",
-    "link": "https://citytech.event.cuny.edu/events/l8nCPw37rX8ZCdx0iqgI/nT1bbxu1Z0iCahFac0gJ",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-08",
-    "time": "1:00PM",
+    "title": "Fall Regular Session:\tFinal Examinations",
+    "link": "https://baruch.event.cuny.edu/events/AGfVykOXlZCVN19NZUHs/siWdu5JtkNfEvjViBgdK",
+    "college": "Baruch College",
+    "date": "2025-12-16",
+    "time": "",
     "tags": []
   },
   {
@@ -2459,27 +2299,43 @@
     "tags": []
   },
   {
-    "title": "DeStress for Success",
-    "link": "https://hostos.event.cuny.edu/events/IIOqQCpuaCorrlUb0OoU/g68Dgws2AyEDkJwkdTaC",
-    "college": "Hostos Community College",
-    "date": "2025-12-08",
-    "time": "10:30AM",
+    "title": "NYPIRG Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/C2p0ox1FI98NHGoD8UCJ13",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-10",
+    "time": "1:00PM",
     "tags": []
   },
   {
-    "title": "Student Conference in LLAC Studies",
-    "link": "https://hostos.event.cuny.edu/events/RkhgLLxmUGqN4iu6bAGB/5x9klPG3Rj6vA2CQ1BrG",
-    "college": "Hostos Community College",
-    "date": "2025-12-08",
-    "time": "12:30PM",
+    "title": "Student Life & Development: Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/l8nCPw37rX8ZCdx0iqgI/E20G9K1DC2Vd6Mb2TxgM",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-10",
+    "time": "1:00PM",
     "tags": []
   },
   {
-    "title": "Gaymers Against Violence",
-    "link": "https://hostos.event.cuny.edu/events/etu5GjxahmR6DusDiJ9o/IMp0qWNVJq29Q6WZ2Y7e",
-    "college": "Hostos Community College",
-    "date": "2025-12-08",
-    "time": "3:30PM",
+    "title": "Fall 25 Student Writing Showcase",
+    "link": "https://citytech.event.cuny.edu/events/tgvqqH7UcNxw6i2TJI0a/THCuS4leBOJyy2WTqWtx",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-10",
+    "time": "2:30PM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Department: Peer Navigator Lounge Hours",
+    "link": "https://citytech.event.cuny.edu/events/RzuPjzhhOyLBnx5u1mSt/lulUdFNlOgle58ou1hJt",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-10",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "Portfolio Workshop",
+    "link": "https://citytech.event.cuny.edu/events/jTPAnkvD3wE37GgaucoA/KKuGKrh0VzAY9VrlbS1H4",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-11",
+    "time": "8:00AM",
     "tags": []
   },
   {
@@ -2555,6 +2411,30 @@
     "tags": []
   },
   {
+    "title": "Transfer Tabling",
+    "link": "https://hostos.event.cuny.edu/events/jXAiSToSTjq65QteyHeC/VEt89jhombN2knlFgDa8",
+    "college": "Hostos Community College",
+    "date": "2025-12-16",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "New York Public Library Outreach Event",
+    "link": "https://hostos.event.cuny.edu/events/wkcTRFOQXkXm3oegqI0z/1GtrdyYUGfjDSh4qyPfv",
+    "college": "Hostos Community College",
+    "date": "2025-12-16",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Pinning Ceremony Reception",
+    "link": "https://hostos.event.cuny.edu/events/XGls02ETG22vonwghT8A/qvf2JlRwePJ4hlUYXoTe",
+    "college": "Hostos Community College",
+    "date": "2025-12-16",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
     "title": "Dissertation Defense by Rachel Thompson",
     "link": "https://sph.cuny.edu/event/dissertation-defense-by-rachel-thompson/",
     "college": "CUNY School of Public Health",
@@ -2592,30 +2472,6 @@
     "college": "CUNY School of Public Health",
     "date": "2026-01-22",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Lehman Jazz Ensemble Lehman Guitar Ensemble December Concert",
-    "link": "https://www.lehman.edu/events/2025/Lehman-Jazz-EnsembleLehman-Guitar-EnsembleDecember-Concert.php",
-    "college": "Lehman College",
-    "date": "2025-12-08",
-    "time": "3:30 PM- 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Film Screening: \"A Portrait of Michel\" (Remembering Disappeared Syrians)",
-    "link": "https://www.lehman.edu/events/2025/Film-Screening-A-Portrait-of-Michel-Remembering-Disappeared-Syrians.php",
-    "college": "Lehman College",
-    "date": "2025-12-08",
-    "time": "6:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Ed.D. Organizational Leadership, Development and Change Information Session",
-    "link": "https://www.lehman.edu/events/2025/EdD-Organizational-Leadership-Development-and-Change-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "2025-12-08",
-    "time": "7:00 PM- 8:00 PM",
     "tags": []
   },
   {
@@ -2675,11 +2531,27 @@
     "tags": []
   },
   {
-    "title": "Rising Scholars of Justice Program Info Session",
-    "link": "https://www.jjay.cuny.edu/news-events/events/rising-scholars-justice-program-info-session",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2025-12-08",
-    "time": "11:00 PM",
+    "title": "CONCERT 12/16/25 Lehman Percussion Ensemble \"An Afro-Caribbean Celebration\"",
+    "link": "https://www.lehman.edu/events/2025/CONCERT-121625-Lehman-Percussion-Ensemble-An-Afro-Caribbean-Celebration-1.php",
+    "college": "Lehman College",
+    "date": "2025-12-16",
+    "time": "4:30 PM- 5:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
+    "link": "https://www.lehman.edu/events/2025/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session--3.php",
+    "college": "Lehman College",
+    "date": "2025-12-16",
+    "time": "6:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
+    "link": "https://www.lehman.edu/events/2025/Counselor-Ed-School-Counseling-MSEd-Information-Session--3.php",
+    "college": "Lehman College",
+    "date": "2025-12-16",
+    "time": "6:00 PM- 8:00 PM",
     "tags": []
   },
   {
@@ -2923,28 +2795,6 @@
     "tags": []
   },
   {
-    "title": "'INSURGENT VISIONS: FEMINISM, JUSTICE, SOLIDARITY'",
-    "link": "https://www.gc.cuny.edu/events/insurgent-visions-feminism-justice-solidarity",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-08",
-    "time": "6:30 pm — 8:30 pm",
-    "location": "Online",
-    "tags": [
-      "Intellectual Publics"
-    ]
-  },
-  {
-    "title": "CONCERT: JON DE LUCIA’S BRUBECK OCTET PROJECT",
-    "link": "https://www.gc.cuny.edu/events/concert-jon-de-lucias-brubeck-octet-project",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-08",
-    "time": "7:30 pm — 9:30 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Music"
-    ]
-  },
-  {
     "title": "LIVE ESPARC TRAINING",
     "link": "https://www.gc.cuny.edu/events/live-esparc-training",
     "college": "CUNY Graduate Center",
@@ -3034,6 +2884,29 @@
     "location": "Online",
     "tags": [
       "Fellowships and Financial Aid"
+    ]
+  },
+  {
+    "title": "MUSIC IN MIDTOWN: CHAMBER MUSIC ON FIFTH III",
+    "link": "https://www.gc.cuny.edu/events/music-midtown-chamber-music-fifth-iii-dec-11-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-11",
+    "time": "1:00 pm — 3:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Music",
+      "Music in Midtown"
+    ]
+  },
+  {
+    "title": "INSTANT/CE INSTALLATIONS: A CREATIVE WORKSHOP WITH RONALDO V. WILSON",
+    "link": "https://www.gc.cuny.edu/events/instantce-installations-creative-workshop-ronaldo-v-wilson",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-11",
+    "time": "2:00 pm — 4:30 pm",
+    "location": "Multiple Locations (see description for details)",
+    "tags": [
+      "Center for the Humanities"
     ]
   },
   {
