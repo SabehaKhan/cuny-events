@@ -1,13 +1,5 @@
 [
   {
-    "title": "LGBTQ+ Peer Support Group",
-    "link": "https://www.ccny.cuny.edu/calendar/lgbtq-peer-support-group-60",
-    "college": "City College of New York",
-    "date": "2025-12-10",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "Chair Meditation | at CCNY CWE (25 Broadway)",
     "link": "https://www.ccny.cuny.edu/calendar/chair-meditation-1210",
     "college": "City College of New York",
@@ -409,50 +401,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-12-10/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-10",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-86/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-10",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Just Breathe!",
-    "link": "https://www.laguardia.edu/event/just-breathe-2/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-10",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Coping Skills for the Holidays (Walk-ins welcome)",
-    "link": "https://www.laguardia.edu/event/coping-skills-for-the-holidays-walk-ins-welcome/2025-12-10/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-10",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Weekly Support Circle",
     "link": "https://www.laguardia.edu/event/weekly-support-circle/2025-12-10/",
     "college": "LaGuardia Community College",
@@ -749,6 +697,40 @@
     ]
   },
   {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-01-02/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-02",
+    "time": "09:30 AM - 04:30 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-92/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-02",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "MoneyBoss: SMART Money Moves for the New Year",
+    "link": "https://www.laguardia.edu/event/moneyboss-smart-money-moves-for-the-new-year/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-15",
+    "time": "11:45 AM - 12:45 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "The HUB Virtual Hours",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376811",
     "college": "Guttman Community College",
@@ -861,75 +843,6 @@
       "Support Session",
       "Discussion",
       "Information Session"
-    ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-10/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "MS-IPND Challenge Exams",
-    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-challenge-exams/2025-12-10/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Dietetic Internship Information Sessions (DI and MS-DI) 2025",
-    "link": "https://www.hunter.cuny.edu/event/dietetic-internship-information-sessions-di-and-ms-di-2025/2025-12-10/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Seminar: Eduardo Morales (Princeton)",
-    "link": "https://www.hunter.cuny.edu/event/upcoming-seminar-eduardo-morales-princeton/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "01:30 PM - 03:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Singing with the Dean",
-    "link": "https://www.hunter.cuny.edu/event/singing-with-the-dean/2025-12-10/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Performing Arts & Film",
-      "Special Events"
-    ]
-  },
-  {
-    "title": "Fostering Healthy Relationships – Counseling Workshop",
-    "link": "https://www.hunter.cuny.edu/event/fostering-healthy-relationships-counseling-workshop-3/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "02:30 PM - 04:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Undergraduate Nutrition Program Information Session (NFS and NW)",
-    "link": "https://www.hunter.cuny.edu/event/undergraduate-nutrition-program-information-sessions-nfs-and-nw-12-10-25/",
-    "college": "Hunter College",
-    "date": "2025-12-10",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Open Houses"
     ]
   },
   {
@@ -1129,6 +1042,61 @@
     ]
   },
   {
+    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
+    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7/2026-01-12/",
+    "college": "Hunter College",
+    "date": "2026-01-12",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-14/",
+    "college": "Hunter College",
+    "date": "2026-01-12",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Graduate Nursing Information Session (Online)",
+    "link": "https://www.hunter.cuny.edu/event/graduate-nursing-information-session-online-2/",
+    "college": "Hunter College",
+    "date": "2026-01-12",
+    "time": "05:00 PM - 06:30 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-13/",
+    "college": "Hunter College",
+    "date": "2026-01-14",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-14/",
+    "college": "Hunter College",
+    "date": "2026-01-21",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "We the People: An Assembly of New York Artists",
+    "link": "https://www.hunter.cuny.edu/event/we-the-people-an-assembly-of-new-york-artists/",
+    "college": "Hunter College",
+    "date": "2026-01-26",
+    "time": "04:00 PM - 07:00 PM",
+    "tags": [
+      "Conferences & Workshops",
+      "Performing Arts & Film"
+    ]
+  },
+  {
     "title": "Fall 2025 De-Stress Fest: Chair Massage",
     "link": "https://www.bmcc.cuny.edu/event/fall-2025-de-stress-fest-chair-massage/2025-12-10/",
     "college": "Borough of Manhattan Community College",
@@ -1138,50 +1106,6 @@
       "De-Stress Fest",
       "Featured",
       "Student Affairs"
-    ]
-  },
-  {
-    "title": "Sexual Health Education Table",
-    "link": "https://www.bmcc.cuny.edu/event/sexual-health-education-table/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-10",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services"
-    ]
-  },
-  {
-    "title": "Healing Rhythms: Drumming Circle",
-    "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle-6/2025-12-10/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-10",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Take a Break with Zines!",
-    "link": "https://www.bmcc.cuny.edu/event/library-event-take-a-break-with-zines/2025-12-10/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-10",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "Library"
-    ]
-  },
-  {
-    "title": "Count Your Options- Deloitte Networking Event",
-    "link": "https://www.bmcc.cuny.edu/event/count-your-options-deloitte-networking-event/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-10",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development"
     ]
   },
   {
@@ -1274,18 +1198,6 @@
     ]
   },
   {
-    "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga/2025-12-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-16",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "NY State Opportunity Promise: Free Community College Information Session",
     "link": "https://www.bmcc.cuny.edu/event/ny-state-opportunity-promise-free-community-college-information-sessionhttps-www-bmcc-cuny-edu-admissions-nysop/",
     "college": "Borough of Manhattan Community College",
@@ -1310,6 +1222,28 @@
       "Communications and Theatre Arts",
       "Student Affairs",
       "Theatre"
+    ]
+  },
+  {
+    "title": "Healing Rhythms: Drumming Circle",
+    "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle-6/2025-12-17/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-12-17",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Take a Break with Zines!",
+    "link": "https://www.bmcc.cuny.edu/event/library-event-take-a-break-with-zines/2025-12-17/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-12-17",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Library"
     ]
   },
   {
@@ -1374,30 +1308,6 @@
     "tags": [
       "Counseling Center",
       "Student Affairs"
-    ]
-  },
-  {
-    "title": "Admissions Application Workshop",
-    "link": "https://www.bcc.cuny.edu/event/admissions-application-workshop-7/",
-    "college": "Bronx Community College",
-    "date": "2025-12-10",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Information Sessions"
-    ]
-  },
-  {
-    "title": "Admissions Application Workshop",
-    "link": "https://www.bcc.cuny.edu/event/admissions-application-workshop-8/",
-    "college": "Bronx Community College",
-    "date": "2025-12-10",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Information Sessions"
     ]
   },
   {
@@ -1531,17 +1441,6 @@
       "Enrollment Management",
       "Feature",
       "Information Sessions"
-    ]
-  },
-  {
-    "title": "Weekly Tea Time (End of Semester Celebration!)",
-    "link": "https://csi.campuslabs.com/engage/event/11507178",
-    "college": "College of Staten Island",
-    "date": "2025-12-10",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": [
-      "Social",
-      "Willowbrook Campus"
     ]
   },
   {
@@ -1749,6 +1648,14 @@
     "college": "Lehman College",
     "date": "2025-12-10",
     "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Sexual Health Education Table",
+    "link": "https://www.bmcc.cuny.edu/event/?p=660304",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-12-10",
+    "time": "02:00 PM - 03:00 PM",
     "tags": []
   },
   {
@@ -2360,6 +2267,14 @@
     "tags": []
   },
   {
+    "title": "Senior Portraits - Wednesday",
+    "link": "https://www.york.cuny.edu/commencement-2026/senior-portraits-wed",
+    "college": "York College",
+    "date": "2025-12-10",
+    "time": "3:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
     "title": "Wellness Wednesday-December 10th",
     "link": "https://www.york.cuny.edu/events/wellness-wednesday-december-10th",
     "college": "York College",
@@ -2373,6 +2288,14 @@
     "college": "York College",
     "date": "2025-12-11",
     "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Senior Portraits - Thursday",
+    "link": "https://www.york.cuny.edu/commencement-2026/senior-portraits-thu",
+    "college": "York College",
+    "date": "2025-12-11",
+    "time": "3:00 PM - 12:00 AM",
     "tags": []
   },
   {
@@ -2397,6 +2320,22 @@
     "college": "York College",
     "date": "2025-12-12",
     "time": "2:30 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Senior Portraits - Friday",
+    "link": "https://www.york.cuny.edu/commencement-2026/senior-portraits-fri",
+    "college": "York College",
+    "date": "2025-12-12",
+    "time": "3:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Senior Portraits - Saturday",
+    "link": "https://www.york.cuny.edu/commencement-2026/senior-portraits-saturday",
+    "college": "York College",
+    "date": "2025-12-13",
+    "time": "3:00 PM - 8:00 PM",
     "tags": []
   },
   {
@@ -2445,38 +2384,6 @@
     "college": "York College",
     "date": "2025-12-16",
     "time": "9:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/final-examinations-3",
-    "college": "York College",
-    "date": "2025-12-17",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/final-examinations-4",
-    "college": "York College",
-    "date": "2025-12-18",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Winter Wonderland: End-of-Semester Party",
-    "link": "https://www.york.cuny.edu/events/2025/winter-wonderland-end-of-semester-party",
-    "college": "York College",
-    "date": "2025-12-18",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/final-examinations-5",
-    "college": "York College",
-    "date": "2025-12-19",
-    "time": "5:00 AM - 4:59 AM",
     "tags": []
   },
   {
@@ -2607,30 +2514,6 @@
     "description": ""
   },
   {
-    "title": "End of Semester Party",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-10-end-of-semester-party.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-10",
-    "time": "12:00 PM - 02:00 PM",
-    "description": ""
-  },
-  {
-    "title": "FAFSA Fest",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-10-fafsa-fest.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-10",
-    "time": "01:00 PM - 04:00 PM",
-    "description": "Financial Aid Event"
-  },
-  {
-    "title": "Webinar: Virtual Information Session and Counselor Q&A",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-10-webinar-virtual-information-session-and-counselor-qa.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-10",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "Admissions Event"
-  },
-  {
     "title": "R101 Certificate Class",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-11-r101-certificate-class.html",
     "college": "Queensborough Community College",
@@ -2652,6 +2535,14 @@
     "college": "Queensborough Community College",
     "date": "2025-12-11",
     "time": "12:00 PM - 02:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Astronomy Observation Community Outreach",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-11-astronomy-observation-community-outreach.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-11",
+    "time": "07:00 PM - 09:00 PM",
     "description": "Special Event / Fair"
   },
   {
@@ -2764,6 +2655,14 @@
     "college": "Queensborough Community College",
     "date": "2025-12-18",
     "time": "09:00 AM - 11:00 AM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Fall 2025 Fuel Up for Finals",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-18-fall-2025-fuel-up-for-finals1.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-18",
+    "time": "04:00 PM - 05:00 PM",
     "description": "Special Event / Fair"
   }
 ]
