@@ -401,6 +401,14 @@
     "tags": []
   },
   {
+    "title": "🏺 KCC Ceramics Club Annual Holiday Pottery Sale",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/f6f0262a-c16c-48e4-9787-9869333f5aa8",
+    "college": "Kingsborough Community College",
+    "date": "2025-12-10",
+    "time": "03:00 PM - 08:00 PM",
+    "tags": []
+  },
+  {
     "title": "Mindfulness Meditation Wednesdays (In-Person)",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-12-10/",
     "college": "LaGuardia Community College",
@@ -1121,18 +1129,6 @@
     ]
   },
   {
-    "title": "Fall 2025 De-Stress Fest: Meditation Techniques to Help you Relax and Focus",
-    "link": "https://www.bmcc.cuny.edu/event/fall-2025-de-stress-fest-meditation-techniques-to-help-you-relax-and-focus/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-10",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "De-Stress Fest",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Fall 2025 De-Stress Fest: Chair Massage",
     "link": "https://www.bmcc.cuny.edu/event/fall-2025-de-stress-fest-chair-massage/2025-12-10/",
     "college": "Borough of Manhattan Community College",
@@ -1250,6 +1246,18 @@
       "Social Sciences",
       "Human Services and Criminal Justice",
       "Women in STEM"
+    ]
+  },
+  {
+    "title": "BISI Championship Game",
+    "link": "https://www.bmcc.cuny.edu/event/bisi-championship-game/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-12-12",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "Student Affairs",
+      "Urban Male Leadership Academy"
     ]
   },
   {
@@ -2144,6 +2152,22 @@
     "tags": []
   },
   {
+    "title": "Handshake How-To’s: A Step-by-Step Tutorial on Handshake Features",
+    "link": "https://sph.cuny.edu/event/handshake-how-tos-a-step-by-step-tutorial-on-handshake-features-5/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-02-04",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Handshake How-To’s: Career Fair Edition",
+    "link": "https://sph.cuny.edu/event/handshake-how-tos-career-fair-edition-2/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-03-18",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
     "title": "CONCERT - Student Voice Recital",
     "link": "https://www.lehman.edu/events/2025/CONCERT---Student-Voice-Recital.php",
     "college": "Lehman College",
@@ -2591,46 +2615,6 @@
     "description": ""
   },
   {
-    "title": "Nuclear Chemistry: CH-127 Workshop With Dr. Irina Rutenburg",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-10-nuclear-chemistry-ch-127-workshop-with-dr.-irina-rutenburg.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-10",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Club Event"
-  },
-  {
-    "title": "Reset & Refocus: Finals Week Mindfulness",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-10-reset-and-refocus.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-10",
-    "time": "12:00 PM - 01:00 PM",
-    "description": "Conference and Workshop"
-  },
-  {
-    "title": "Verizon Virtual Employer Information Session",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-10-verizon-virtual-employer-information-session.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-10",
-    "time": "12:00 PM - 01:00 PM",
-    "description": "Career Services Event"
-  },
-  {
-    "title": "York College - QCC Pharmaceutical Sciences seminar and Info Session",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-10-york-college-qcc-pharmaceutical-sciences.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-10",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Student Event"
-  },
-  {
-    "title": "End of the Semester Gathering-Maintaining Our Faith",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-10-end-of-the-semester-gathering-maintaining-our-faith.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-10",
-    "time": "12:10 PM - 01:45 PM",
-    "description": "Club Event"
-  },
-  {
     "title": "FAFSA Fest",
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-10-fafsa-fest.html",
     "college": "Queensborough Community College",
@@ -2723,6 +2707,62 @@
     "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-16-fall-2025-fuel-up-for-finals.html",
     "college": "Queensborough Community College",
     "date": "2025-12-16",
+    "time": "09:00 AM - 11:00 AM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Design Your Own Winter Globe",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-16-design-your-own-winter-globe.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-16",
+    "time": "02:00 PM - 04:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Fall 2025 Fuel Up for Finals",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-16-fall-2025-fuel-up-for-finals1.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-16",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Campus Tour",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-16-campus-tour.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-16",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "Admissions Event"
+  },
+  {
+    "title": "Fall 2025 Fuel Up for Finals",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-17-fall-2025-fuel-up-for-finals.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-17",
+    "time": "09:00 AM - 11:00 AM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Fall 2025 Fuel Up for Finals",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-17-fall-2025-fuel-up-for-finals1.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-17",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "Special Event / Fair"
+  },
+  {
+    "title": "Instrumental & Vocal Ensemble and Queensborough Chorus Concert",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-17-instrumental--vocal-ensemble-and-queensborough-chorus-concert.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-17",
+    "time": "07:00 PM - 08:30 PM",
+    "description": "Performing Arts / Film Event"
+  },
+  {
+    "title": "Fall 2025 Fuel Up for Finals",
+    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-18-fall-2025-fuel-up-for-finals.html",
+    "college": "Queensborough Community College",
+    "date": "2025-12-18",
     "time": "09:00 AM - 11:00 AM",
     "description": "Special Event / Fair"
   }
