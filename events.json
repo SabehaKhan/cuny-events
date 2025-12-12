@@ -1,29 +1,5 @@
 [
   {
-    "title": "Sustainability Student Research Symposium",
-    "link": "https://www.ccny.cuny.edu/calendar/sustainability-student-research-symposium",
-    "college": "City College of New York",
-    "date": "2025-12-12",
-    "time": "09:00 AM - 06:00 PM",
-    "tags": []
-  },
-  {
-    "title": "School of Education Admissions Test (SEAT) | Fall 2025 | 4/4",
-    "link": "https://www.ccny.cuny.edu/calendar/school-education-admissions-test-seat-fall-2025-44",
-    "college": "City College of New York",
-    "date": "2025-12-12",
-    "time": "10:00 AM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "LGBTQIA+ Safe Zone Training",
-    "link": "https://www.ccny.cuny.edu/calendar/lgbtqia-safe-zone-training",
-    "college": "City College of New York",
-    "date": "2025-12-12",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": []
-  },
-  {
     "title": "City Reading Series",
     "link": "https://www.ccny.cuny.edu/calendar/city-reading-series-1",
     "college": "City College of New York",
@@ -481,18 +457,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2025-12-12/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-12",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays/2025-12-15/",
     "college": "LaGuardia Community College",
@@ -809,6 +773,18 @@
     ]
   },
   {
+    "title": "Library Book Sale",
+    "link": "https://www.laguardia.edu/event/library-book-sale/2026-02-10/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-10",
+    "time": "10:00 AM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff",
+      "student events"
+    ]
+  },
+  {
     "title": "Gaming Grizzlies Weekly Watch Party",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376716",
     "college": "Guttman Community College",
@@ -1095,18 +1071,6 @@
     "time": "01:00 PM - 02:00 PM",
     "tags": [
       "Open Houses"
-    ]
-  },
-  {
-    "title": "BISI Championship Game",
-    "link": "https://www.bmcc.cuny.edu/event/bisi-championship-game/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-12",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "Student Affairs",
-      "Urban Male Leadership Academy"
     ]
   },
   {
@@ -1453,6 +1417,16 @@
     "time": "12:00 PM - 4:00 PM",
     "tags": [
       "LGBTQI+"
+    ]
+  },
+  {
+    "title": "CCNY Spitzer School of Architecture Tour",
+    "link": "https://events.cuny.edu/cec/ccny-spitzer-school-of-architecture-tour-4/",
+    "college": "The City College of New York",
+    "date": "2025-12-15",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "CCNY Spitzer School of Architecture Tour"
     ]
   },
   {
@@ -2000,14 +1974,6 @@
     "tags": []
   },
   {
-    "title": "V-READY Dec 12",
-    "link": "https://www.york.cuny.edu/advisement/events/v-ready-dec12",
-    "college": "York College",
-    "date": "2025-12-12",
-    "time": "2:30 PM - 9:00 PM",
-    "tags": []
-  },
-  {
     "title": "Senior Portraits - Friday",
     "link": "https://www.york.cuny.edu/commencement-2026/senior-portraits-fri",
     "college": "York College",
@@ -2117,6 +2083,14 @@
     "college": "York College",
     "date": "2025-12-22",
     "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/final-examinations",
+    "college": "York College",
+    "date": "2025-12-22",
+    "time": "8:00 PM - 9:00 PM",
     "tags": []
   },
   {
@@ -2237,22 +2211,6 @@
     "date": "2025-12-13",
     "time": "02:00 PM - 04:30 PM",
     "description": ""
-  },
-  {
-    "title": "Midday Yoga",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-12-midday-yoga.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-12",
-    "time": "12:30 PM - 01:30 PM",
-    "description": "Conference and Workshop"
-  },
-  {
-    "title": "Paint N' Chill Student Workshop",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-12-paint-n-chill-student-workshop.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-12",
-    "time": "01:00 PM - 03:00 PM",
-    "description": "Special Event / Fair"
   },
   {
     "title": "Bites and Insights",
