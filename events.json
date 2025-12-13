@@ -792,16 +792,6 @@
     ]
   },
   {
-    "title": "Hunter College Opera",
-    "link": "https://www.hunter.cuny.edu/event/hunter-college-opera/2025-12-13/",
-    "college": "Hunter College",
-    "date": "2025-12-13",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
     "title": "Fall 2025 Inga Richter Seminar Series: Dr. Katherine Anderson",
     "link": "https://www.hunter.cuny.edu/event/fall-2025-inga-richter-seminar-series-dr-katherine-anderson/",
     "college": "Hunter College",
@@ -1028,6 +1018,16 @@
     "tags": [
       "Performing Arts & Film",
       "Student Events"
+    ]
+  },
+  {
+    "title": "Thomas Hunter Leadership Dinner - Save the Date",
+    "link": "https://www.hunter.cuny.edu/event/thomas-hunter-leadership-dinner-save-the-date/",
+    "college": "Hunter College",
+    "date": "2026-03-19",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "Special Events"
     ]
   },
   {
@@ -1362,6 +1362,14 @@
   {
     "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
     "link": "https://lehman.edu/events/2025/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session--3.php",
+    "college": "Lehman College",
+    "date": "2025-12-16",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
+    "link": "https://lehman.edu/events/2025/Counselor-Ed-School-Counseling-MSEd-Information-Session--3.php",
     "college": "Lehman College",
     "date": "2025-12-16",
     "time": "6:00 PM - 8:00 PM",
