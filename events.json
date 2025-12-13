@@ -1,29 +1,5 @@
 [
   {
-    "title": "City Reading Series",
-    "link": "https://www.ccny.cuny.edu/calendar/city-reading-series-1",
-    "college": "City College of New York",
-    "date": "2025-12-12",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": []
-  },
-  {
-    "title": "New Play Collaborations Showcase (Curated by Naren Weiss)",
-    "link": "https://www.ccny.cuny.edu/calendar/new-play-collaborations-showcase-curated-naren-weiss",
-    "college": "City College of New York",
-    "date": "2025-12-12",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Corporeal: An Evening of Contemporary Music and Movement",
-    "link": "https://www.ccny.cuny.edu/calendar/corporeal-evening-contemporary-music-and-movement",
-    "college": "City College of New York",
-    "date": "2025-12-12",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": []
-  },
-  {
     "title": "Works on Paper Art Show at CCNY CWE",
     "link": "https://www.ccny.cuny.edu/calendar/works-paper-art-show-ccny-cwe",
     "college": "City College of New York",
@@ -425,14 +401,6 @@
     "tags": []
   },
   {
-    "title": "Brooklyn College Info Session",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/f1dd0af0-c253-4961-aa20-c5730325239a",
-    "college": "Kingsborough Community College",
-    "date": "2025-12-12",
-    "time": "05:00 PM - 05:00 PM",
-    "tags": []
-  },
-  {
     "title": "61st Commencement for the Class of 2026!",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/5706f580-760f-4bc9-a8e8-8637223a5654",
     "college": "Kingsborough Community College",
@@ -785,18 +753,6 @@
     ]
   },
   {
-    "title": "Gaming Grizzlies Weekly Watch Party",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376716",
-    "college": "Guttman Community College",
-    "date": "2025-12-12",
-    "time": "08:00 PM - 10:00 PM",
-    "tags": [
-      "TGG",
-      "Meeting",
-      "Student Life"
-    ]
-  },
-  {
     "title": "The HUB Virtual Hours",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376806",
     "college": "Guttman Community College",
@@ -833,16 +789,6 @@
       "Support Session",
       "Discussion",
       "Information Session"
-    ]
-  },
-  {
-    "title": "Dance Department Honors Project",
-    "link": "https://www.hunter.cuny.edu/event/dance-department-honors-project/2025-12-12/",
-    "college": "Hunter College",
-    "date": "2025-12-12",
-    "time": "07:30 PM - 08:30 PM",
-    "tags": [
-      "Performing Arts & Film"
     ]
   },
   {
@@ -1074,6 +1020,17 @@
     ]
   },
   {
+    "title": "Arts Outing: La Traviata at the Met Opera",
+    "link": "https://www.hunter.cuny.edu/event/arts-outing-la-traviata-at-the-met-opera/",
+    "college": "Hunter College",
+    "date": "2026-03-18",
+    "time": "10:30 AM - 01:10 PM",
+    "tags": [
+      "Performing Arts & Film",
+      "Student Events"
+    ]
+  },
+  {
     "title": "Fall 2025 De-Stress Fest: Chair Massage",
     "link": "https://www.bmcc.cuny.edu/event/fall-2025-de-stress-fest-chair-massage-2/",
     "college": "Borough of Manhattan Community College",
@@ -1200,19 +1157,6 @@
     ]
   },
   {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2025-12-12/",
-    "college": "Bronx Community College",
-    "date": "2025-12-12",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
-    ]
-  },
-  {
     "title": "Fall 2025 WN Reversal Form/Application Closes in CUNYfirst",
     "link": "https://www.bcc.cuny.edu/event/wn-reversal-form-application-open-in-cunyfirst/",
     "college": "Bronx Community College",
@@ -1305,19 +1249,6 @@
     ]
   },
   {
-    "title": "🎄✨ A Very Merry Gala Dinner ✨🎄",
-    "link": "https://csi.campuslabs.com/engage/event/11898195",
-    "college": "College of Staten Island",
-    "date": "2025-12-12",
-    "time": "07:00 PM - 11:00 PM",
-    "tags": [
-      "Social",
-      "Health and Wellness",
-      "Entertainment",
-      "Cultural"
-    ]
-  },
-  {
     "title": "Fiscal and Financial Affairs Commission",
     "link": "https://csi.campuslabs.com/engage/event/11945201",
     "college": "College of Staten Island",
@@ -1349,36 +1280,6 @@
       "Entertainment",
       "Willowbrook Campus",
       "Cultural"
-    ]
-  },
-  {
-    "title": "Sustainability Student Research Symposium",
-    "link": "https://events.cuny.edu/cec/sustainability-student-research-symposium/",
-    "college": "The City College of New York",
-    "date": "2025-12-12",
-    "time": "9:00 AM - 6:00 PM",
-    "tags": [
-      "Sustainability Student Research Symposium"
-    ]
-  },
-  {
-    "title": "LGBTQIA+ Safe Zone Training",
-    "link": "https://events.cuny.edu/cec/lgbtqia-safe-zone-training/",
-    "college": "The City College of New York",
-    "date": "2025-12-12",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "LGBTQI+"
-    ]
-  },
-  {
-    "title": "Corporeal: An Evening of Contemporary Music and Movement",
-    "link": "https://events.cuny.edu/cec/corporeal-an-evening-of-contemporary-music-and-movement/",
-    "college": "The City College of New York",
-    "date": "2025-12-12",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": [
-      "Yaz Lancaster"
     ]
   },
   {
@@ -1430,51 +1331,29 @@
     ]
   },
   {
-    "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh110",
-    "college": "Queens College",
-    "date": "2025-12-12",
-    "time": "",
+    "title": "CUNY Dance Initiative: Application Info Session",
+    "link": "https://events.cuny.edu/cec/cuny-dance-initiative-application-info-session/",
+    "college": "The University",
+    "date": "2025-12-16",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": [
+      "CUNY Dance Initiative"
+    ]
+  },
+  {
+    "title": "Garrett Graff - The Devil Reached Toward the Sky: An Oral History of the Making and Unleashing of the Atomic Bomb",
+    "link": "https://events.cuny.edu/cec/garrett-graff-the-devil-reached-toward-the-sky-an-oral-history-of-the-making-and-unleashing-of-the-atomic-bomb/",
+    "college": "Hunter College",
+    "date": "2025-12-16",
+    "time": "6:00 PM",
     "tags": []
   },
   {
-    "title": "ITS Media Upgrade",
-    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/HnQTN5N51AU3Ucinc3gg",
-    "college": "Queens College",
-    "date": "2025-12-12",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "FDNY",
-    "link": "https://qc.event.cuny.edu/events/I2ZDGOEYwrGfcqF2XrN4/ndaJcOFzdU52yk4Pj3r140",
-    "college": "Queens College",
-    "date": "2025-12-12",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Study Abroad Pre-Departure",
-    "link": "https://qc.event.cuny.edu/events/QL71ld5dZmnbSiBIzsTX/XlMODtXgRBLlEE2YYh2B",
-    "college": "Queens College",
-    "date": "2025-12-12",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2025- CUNY Explorers Tours",
-    "link": "https://qc.event.cuny.edu/events/bfx0Pn5kngM72WVy5tRt/b1noW1KGN4ifMNxjfC6b",
-    "college": "Queens College",
-    "date": "2025-12-12",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "CSCI Research Talk",
-    "link": "https://qc.event.cuny.edu/events/LXZ9vLlYgQWciCblUHdI/sRLh2cPinQBdPoM7SvF1",
-    "college": "Queens College",
-    "date": "2025-12-12",
-    "time": "11:00AM",
+    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
+    "link": "https://lehman.edu/events/2025/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session--3.php",
+    "college": "Lehman College",
+    "date": "2025-12-16",
+    "time": "6:00 PM - 8:00 PM",
     "tags": []
   },
   {
@@ -1542,6 +1421,70 @@
     "tags": []
   },
   {
+    "title": "Dean Social Sciences Holiday Party",
+    "link": "https://qc.event.cuny.edu/events/kRXsZYzJv235pJloYdBE/MkG11Mi4Ih3Ok4si5Njn",
+    "college": "Queens College",
+    "date": "2025-12-15",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "PSC Session",
+    "link": "https://qc.event.cuny.edu/events/CX6CrAZFh7WvJ1cfBCtF/uwTgwFJjHMLl0MZrA269",
+    "college": "Queens College",
+    "date": "2025-12-15",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Office of External & Governmental Relations",
+    "link": "https://qc.event.cuny.edu/events/R1isczeSX2ZNNBpPqd95/dBHgLpDgfoVLfxsbql1f3",
+    "college": "Queens College",
+    "date": "2025-12-15",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Townsend Harris HS",
+    "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/sKtZ0wTOoIQ8IBw8wPri31",
+    "college": "Queens College",
+    "date": "2025-12-15",
+    "time": "10:30AM",
+    "tags": []
+  },
+  {
+    "title": "End of Semester Celebration",
+    "link": "https://qc.event.cuny.edu/events/Pi4cMCcnxx9V4VhEqWRr/LqvWtJ8qIJWivSIBTV0D",
+    "college": "Queens College",
+    "date": "2025-12-15",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Computer Sci Final Exam Prep (hold)",
+    "link": "https://qc.event.cuny.edu/events/JxeRiPrJmzBF0NkwG5Eo/sS06G7k7g44iFeAiY9wU",
+    "college": "Queens College",
+    "date": "2025-12-15",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2025- CUNY Explorers Tours",
+    "link": "https://qc.event.cuny.edu/events/bfx0Pn5kngM72WVy5tRt/RiC21o3cbnyZEdMGSUXF",
+    "college": "Queens College",
+    "date": "2025-12-15",
+    "time": "12:05PM",
+    "tags": []
+  },
+  {
+    "title": "PSYCH 1073 Make-up Exam",
+    "link": "https://qc.event.cuny.edu/events/KmhlbcPMw25K3a2VKlDI/D18DlAUvzlSTilfEmQJH",
+    "college": "Queens College",
+    "date": "2025-12-15",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
     "title": "20 Minute Mondays",
     "link": "https://baruch.event.cuny.edu/events/mdOh9WLfEOKf0tAekP57/hAwX5euMKYX1Gdb8yZbf",
     "college": "Baruch College",
@@ -1563,38 +1506,6 @@
     "college": "Baruch College",
     "date": "2025-12-18",
     "time": "5:30PM",
-    "tags": []
-  },
-  {
-    "title": "Final Grade Rosters open in CUNYfirst",
-    "link": "https://citytech.event.cuny.edu/events/BUzpqNX96Lcy0BF2eOOB/eNcGdRjULqdoPQhCKodF",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-12",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "High School Equivalency Math Class",
-    "link": "https://citytech.event.cuny.edu/events/hyXtVjTCkDBdWDcPahyy/D4maXd9vgJtwzKFdsNpS7",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-12",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center Classes",
-    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/FfookhqdiPvXvpxSWkjh12",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-12",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers",
-    "link": "https://citytech.event.cuny.edu/events/zkkr3vLlRqX1w4PGQgFK/dHIpwAYlyPg1pW7ek12F13",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-12",
-    "time": "9:00AM",
     "tags": []
   },
   {
@@ -1683,6 +1594,38 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-12-15",
     "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Development: Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/l8nCPw37rX8ZCdx0iqgI/VLWAOJ7p821ciR1qIJAK",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-15",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/D0GiXVdptET3GZkpCc1e/bdkvOVnVIwWv7UNNbasa15",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-15",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYCCT Public Safety Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/oZrlbRHkgKoO9x5LAiJo/exFZENoLfxV0DYX5ANQS4",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-15",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Fresh Food Bag Distribution",
+    "link": "https://citytech.event.cuny.edu/events/DBRF81bpUW1mugBjhty0/h8KsHrHdiYUZSpPxng688",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-15",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -1974,14 +1917,6 @@
     "tags": []
   },
   {
-    "title": "Senior Portraits - Friday",
-    "link": "https://www.york.cuny.edu/commencement-2026/senior-portraits-fri",
-    "college": "York College",
-    "date": "2025-12-12",
-    "time": "3:00 PM - 12:00 AM",
-    "tags": []
-  },
-  {
     "title": "Senior Portraits - Saturday",
     "link": "https://www.york.cuny.edu/commencement-2026/senior-portraits-saturday",
     "college": "York College",
@@ -2094,106 +2029,6 @@
     "tags": []
   },
   {
-    "title": "DISCRETE APPROXIMATE CIRCLE BUNDLES FOR DATA",
-    "link": "https://www.gc.cuny.edu/events/discrete-approximate-circle-bundles-data",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-12",
-    "time": "11:45 am — 1:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Computer Science",
-      "Mathematics",
-      "Data Science",
-      "Data Science Seminar",
-      "Computer Science Seminar"
-    ]
-  },
-  {
-    "title": "INTRO TO PAPER GRADING: AVOID BURNOUT AND HONE MARKETABLE SKILLS",
-    "link": "https://www.gc.cuny.edu/events/intro-paper-grading-avoid-burnout-and-hone-marketable-skills",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-12",
-    "time": "2:00 pm",
-    "location": "4406: English Student Lounge",
-    "tags": [
-      "English",
-      "Friday Forum"
-    ]
-  },
-  {
-    "title": "EVOLUTIONARY HISTORY AND CONSERVATION OF UAKARI MONKEYS IN THE AMAZONIAN FLOODED FORESTS",
-    "link": "https://www.gc.cuny.edu/events/evolutionary-history-and-conservation-uakari-monkeys-amazonian-flooded-forests",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-12",
-    "time": "4:15 pm — 6:15 pm",
-    "location": "C415A",
-    "tags": [
-      "Anthropology",
-      "Humanities and Social Sciences"
-    ]
-  },
-  {
-    "title": "2025 FRENCH PH.D. OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/2025-french-phd-open-house",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-12",
-    "time": "4:30 pm — 6:00 pm",
-    "location": "4202: French and Urban Education Lounge",
-    "tags": [
-      "French",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "CS/DS HOLIDAY LECTURE",
-    "link": "https://www.gc.cuny.edu/events/csds-holiday-lecture",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-12",
-    "time": "5:00 pm — 7:00 pm",
-    "location": "4102: Science Center",
-    "tags": [
-      "Computer Science",
-      "Data Science"
-    ]
-  },
-  {
-    "title": "CONCERT: MUSIC THEORY DEPARTMENTAL",
-    "link": "https://www.gc.cuny.edu/events/concert-music-theory-departmental",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-12",
-    "time": "5:30 pm — 7:30 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Music"
-    ]
-  },
-  {
-    "title": "STILL CANDY: VISIONS, ALTERS WITH RONALDO V. WILSON",
-    "link": "https://www.gc.cuny.edu/events/still-candy-visions-alters-ronaldo-v-wilson",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-12",
-    "time": "5:30 pm — 6:30 pm",
-    "location": "9100: Skylight Room",
-    "tags": [
-      "Center for the Humanities"
-    ]
-  },
-  {
-    "title": "GRADUATE CENTER SHORTS: AN EVENING OF FILMS AND DISCUSSION",
-    "link": "https://www.gc.cuny.edu/events/graduate-center-shorts-evening-films-and-discussion",
-    "college": "CUNY Graduate Center",
-    "date": "2025-12-12",
-    "time": "7:30 pm — 9:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Film and Media Cultures",
-      "Liberal Studies",
-      "Public Programs",
-      "Center for the Humanities",
-      "GC Presents"
-    ]
-  },
-  {
     "title": "BOOK CELEBRATION FOR ARTISTIC COLLABORATORS KAREN MALPEDE AND PENNY ARCADE",
     "link": "https://www.gc.cuny.edu/events/book-celebration-artistic-collaborators-karen-malpede-and-penny-arcade",
     "college": "CUNY Graduate Center",
@@ -2202,6 +2037,39 @@
     "location": "Hybrid (see description for details)",
     "tags": [
       "Martin E. Segal Theatre Center"
+    ]
+  },
+  {
+    "title": "GRADING SOCIAL AND HOLIDAY PARTY",
+    "link": "https://www.gc.cuny.edu/events/grading-social-and-holiday-party",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-16",
+    "time": "3:00 pm — 7:00 pm",
+    "location": "3317",
+    "tags": [
+      "Teaching & Learning Center"
+    ]
+  },
+  {
+    "title": "DRUPAL ACCESSIBILITY TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-dec-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-17",
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "STUDENT LOGIC GROUP FALL SEMESTER SOCIAL",
+    "link": "https://www.gc.cuny.edu/events/student-logic-group-fall-semester-social",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-18",
+    "time": "5:00 pm — 8:00 pm",
+    "location": "5409: DGSC Meeting Room",
+    "tags": [
+      "Doctoral and Graduate Students' Council"
     ]
   },
   {
