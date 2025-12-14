@@ -1,13 +1,5 @@
 [
   {
-    "title": "Works on Paper Art Show at CCNY CWE",
-    "link": "https://www.ccny.cuny.edu/calendar/works-paper-art-show-ccny-cwe",
-    "college": "City College of New York",
-    "date": "2025-12-13",
-    "time": "06:00 PM - 07:30 PM",
-    "tags": []
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-17",
     "college": "City College of New York",
@@ -1031,19 +1023,6 @@
     ]
   },
   {
-    "title": "Fall 2025 De-Stress Fest: Chair Massage",
-    "link": "https://www.bmcc.cuny.edu/event/fall-2025-de-stress-fest-chair-massage-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-13",
-    "time": "01:00 PM - 05:00 PM",
-    "tags": [
-      "De-Stress Fest",
-      "Evening-Weekend",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "NY State Opportunity Promise: Free Community College Information Session",
     "link": "https://www.bmcc.cuny.edu/event/ny-state-opportunity-promise-free-community-college-information-sessionhttps-www-bmcc-cuny-edu-admissions-nysop/",
     "college": "Borough of Manhattan Community College",
@@ -1154,17 +1133,6 @@
     "tags": [
       "Counseling Center",
       "Student Affairs"
-    ]
-  },
-  {
-    "title": "Fall 2025 WN Reversal Form/Application Closes in CUNYfirst",
-    "link": "https://www.bcc.cuny.edu/event/wn-reversal-form-application-open-in-cunyfirst/",
-    "college": "Bronx Community College",
-    "date": "2025-12-13",
-    "time": "11:59 PM - 11:59 PM",
-    "tags": [
-      "Academic Calendar & Holidays",
-      "Grades"
     ]
   },
   {
@@ -1294,24 +1262,6 @@
     ]
   },
   {
-    "title": "Keith Michael’s The Nutcracker",
-    "link": "https://events.cuny.edu/cec/keith-michaels-the-nutcracker/",
-    "college": "Queens College",
-    "date": "2025-12-13",
-    "time": "3:00 PM - 4:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Works on Paper Art Show at CCNY CWE",
-    "link": "https://events.cuny.edu/cec/works-on-paper-art-show-at-ccny-cwe/",
-    "college": "The City College of New York",
-    "date": "2025-12-13",
-    "time": "6:00 PM - 7:30 PM",
-    "tags": [
-      "CWE"
-    ]
-  },
-  {
     "title": "Learn About MS Bookings",
     "link": "https://events.cuny.edu/cec/learn-about-ms-bookings/",
     "college": "College of Staten Island",
@@ -1376,20 +1326,28 @@
     "tags": []
   },
   {
-    "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/RGozoS2bgEYl5LB8wzWh111",
-    "college": "Queens College",
-    "date": "2025-12-13",
-    "time": "",
-    "tags": []
+    "title": "Alumni and Friends Community Science Night",
+    "link": "https://asrc.gc.cuny.edu/event/alumni-and-friends-community-science-night/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2025-12-16",
+    "time": "4:30 PM - 6:30 PM",
+    "tags": [
+      "Environmental Sciences",
+      "Nanoscience",
+      "Neuroscience",
+      "Photonics",
+      "Structural Biology"
+    ]
   },
   {
-    "title": "FNES 200 - ServSafe Certification Exam",
-    "link": "https://qc.event.cuny.edu/events/TKVXioidaErxPby1MDr7/Wy7QFvsNI2HevE0THmKa",
-    "college": "Queens College",
-    "date": "2025-12-13",
-    "time": "12:00PM",
-    "tags": []
+    "title": "Learn about Copilot",
+    "link": "https://events.cuny.edu/cec/learn-about-copilot/",
+    "college": "College of Staten Island",
+    "date": "2025-12-17",
+    "time": "10:00 AM - 11:00 AM",
+    "tags": [
+      "Technology Training"
+    ]
   },
   {
     "title": "FA25 Hold off room",
@@ -1504,6 +1462,22 @@
     "tags": []
   },
   {
+    "title": "SEEK Workshops",
+    "link": "https://qc.event.cuny.edu/events/P9vSfSPGwd6yHGxRD8y0/ZDueb4GWCJyOm9krt5xd32",
+    "college": "Queens College",
+    "date": "2025-12-15",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Math Sessions",
+    "link": "https://qc.event.cuny.edu/events/His3amnK92M9BIhxIjTv/jQTQlYGZYeN4NwGiMGJL26",
+    "college": "Queens College",
+    "date": "2025-12-15",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
     "title": "20 Minute Mondays",
     "link": "https://baruch.event.cuny.edu/events/mdOh9WLfEOKf0tAekP57/hAwX5euMKYX1Gdb8yZbf",
     "college": "Baruch College",
@@ -1525,86 +1499,6 @@
     "college": "Baruch College",
     "date": "2025-12-18",
     "time": "5:30PM",
-    "tags": []
-  },
-  {
-    "title": "JP Morgan Fellowship Initiative",
-    "link": "https://citytech.event.cuny.edu/events/OuSBA1To3OSSI6Sb08MY/T7C2cDylWAq7Azd2bfo115",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-13",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center Classes",
-    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/sPzXU1x8PFdWzxgPoclb11",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-13",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "STEP Fall 2025 program",
-    "link": "https://citytech.event.cuny.edu/events/mhxXam0MPWZsczB0ylJX/FFB60ARRGdV7uwSeNtxQ9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-13",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "STEP fall 2025 program",
-    "link": "https://citytech.event.cuny.edu/events/rC9yQkzkIZzpJ5p3Dz2s/GQWJF36dpIBJKu42ateV9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-13",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "ENG1101",
-    "link": "https://citytech.event.cuny.edu/events/vQxYEVajIJ8L37r10bY0/JbsUpRIoOePBe2ouFivn7",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-13",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "STEP FAll 2025",
-    "link": "https://citytech.event.cuny.edu/events/Q3UUCYV6EbjkIhBBr4M7/LWPhupIjvPJyrTVRNR6k9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-13",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "NYC Deaf and Hard of Hearing Association",
-    "link": "https://citytech.event.cuny.edu/events/E4xxjqUZbz46fLNCHbUu/n4qeUydu7oaevvexTUpr",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-13",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "HSA 3510-OL54 (16486)",
-    "link": "https://citytech.event.cuny.edu/events/T4rl3t5QCueosqLbzNZt/kF1Ni3gwIxLuGbCD4cci15",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-13",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "College Now De-Stress Fest",
-    "link": "https://citytech.event.cuny.edu/events/U8r8qxxgIXIoHHTVMJAv/xxvJzaYvDFooBElJqMQH",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-13",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "MKT1100 Office Hours",
-    "link": "https://citytech.event.cuny.edu/events/rVqG99UnsIzlhjGZnXWT/IcvrdExEL6Re7Ixfkfkg13",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-13",
-    "time": "1:00PM",
     "tags": []
   },
   {
@@ -1645,6 +1539,118 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-12-15",
     "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/fWxit6ANcLywQCMSjsGi14",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-15",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "HUS 1101 Class",
+    "link": "https://citytech.event.cuny.edu/events/PQoLQclf3pxkiRbaeTNB/L6cByv9AcLRddHkVXLXS",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-15",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Test DEN1112",
+    "link": "https://citytech.event.cuny.edu/events/BJSHbaCCoEDkyO5FpwNk/RW3bUu5wdiNfxik3Zirf",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-15",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://citytech.event.cuny.edu/events/GNp4qP8eaICcZOx8s8GG/ovm39cibVXxY9s8HY2vr",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-16",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "SGA: Coffee Table Tuesdays",
+    "link": "https://citytech.event.cuny.edu/events/Cz2ftAcifCHpiNYJdR3v/gHdV6zW9sZFb16pgyS6814",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-16",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "On Campus General Tour",
+    "link": "https://citytech.event.cuny.edu/events/pZxiVuNs2U0qIwK2eX9B/AyLVUlzGp5gAcuYNJUuE",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-16",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/D0GiXVdptET3GZkpCc1e/wPiw0vyYixbqNdkEK6RV16",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-16",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Student Life and Development Staff Lunch",
+    "link": "https://citytech.event.cuny.edu/events/nv0A8vpT4QSfIf6RW5Zr/mbILyMJrAFjaoq4Hu7zT",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-16",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/O3P15koeJkmSadFkIIfm/UrvoSzeeLoPb74aQWvuS4",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-16",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Humanities Holiday Gathering",
+    "link": "https://citytech.event.cuny.edu/events/K0a2DOV4Fxop3ZemAJ3p/zhKZAfVaWLBMpbzKkYI3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-16",
+    "time": "1:30PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/iyKGQLcvSuVcXc0Ci5zo/tsup4HqRxPwozFVKNnzY14",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-16",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://citytech.event.cuny.edu/events/GNp4qP8eaICcZOx8s8GG/hh3HzsJTO6EoOlG0keSo",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-17",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "US Marines Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/AUgGutCEvzSfXScUnKpq/AZ3z6XLGv1mlwhKBfXlb1117",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-17",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "DEN1100 Exam",
+    "link": "https://citytech.event.cuny.edu/events/fMPrVFxm0849ogizFbkg/TCgFgnTKhb1RnEYrcnU3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-17",
+    "time": "10:00AM",
     "tags": []
   },
   {
@@ -1753,22 +1759,6 @@
   },
   {
     "title": "The Nutcracker",
-    "link": "https://www.lehman.edu/events/2025/The-Nutcracker.php",
-    "college": "Lehman College",
-    "date": "2025-12-13",
-    "time": "12:00 PM- 2:00 PM",
-    "tags": []
-  },
-  {
-    "title": "The Nutcracker",
-    "link": "https://www.lehman.edu/events/2025/The-Nutcracker.php?event_type=recurs_1",
-    "college": "Lehman College",
-    "date": "2025-12-13",
-    "time": "4:00 PM- 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "The Nutcracker",
     "link": "https://www.lehman.edu/events/2025/The-Nutcracker.php?event_type=recurs_2",
     "college": "Lehman College",
     "date": "2025-12-14",
@@ -1829,6 +1819,22 @@
     "college": "Lehman College",
     "date": "2026-01-15",
     "time": "6:30 PM- 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Social Work, MSW Information Session",
+    "link": "https://www.lehman.edu/events/2026/Social-Work-MSW-Information-Session.php",
+    "college": "Lehman College",
+    "date": "2026-01-20",
+    "time": "6:00 PM- 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session-.php",
+    "college": "Lehman College",
+    "date": "2026-02-03",
+    "time": "6:00 PM- 8:00 PM",
     "tags": []
   },
   {
@@ -1936,22 +1942,6 @@
     "tags": []
   },
   {
-    "title": "Senior Portraits - Saturday",
-    "link": "https://www.york.cuny.edu/commencement-2026/senior-portraits-saturday",
-    "college": "York College",
-    "date": "2025-12-13",
-    "time": "3:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Basketball vs. Pratt Institute",
-    "link": "https://www.york.cuny.edu/events/2025/mens-basketball-vs-pratt-12132025",
-    "college": "York College",
-    "date": "2025-12-13",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "Clothing Giveaway - Tree/Minarah Setup",
     "link": "https://www.york.cuny.edu/events/2025/clothing-giveaway-tree-minarah-setup",
     "college": "York College",
@@ -2048,12 +2038,48 @@
     "tags": []
   },
   {
-    "title": "Kwanzaa Celebration 2025",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-13-kwanzaa-celebration-2025.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-13",
-    "time": "02:00 PM - 04:30 PM",
-    "description": ""
+    "title": "BOOK CELEBRATION FOR ARTISTIC COLLABORATORS KAREN MALPEDE AND PENNY ARCADE",
+    "link": "https://www.gc.cuny.edu/events/book-celebration-artistic-collaborators-karen-malpede-and-penny-arcade",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-15",
+    "time": "6:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Martin E. Segal Theatre Center"
+    ]
+  },
+  {
+    "title": "GRADING SOCIAL AND HOLIDAY PARTY",
+    "link": "https://www.gc.cuny.edu/events/grading-social-and-holiday-party",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-16",
+    "time": "3:00 pm — 7:00 pm",
+    "location": "3317",
+    "tags": [
+      "Teaching & Learning Center"
+    ]
+  },
+  {
+    "title": "DRUPAL ACCESSIBILITY TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-dec-2025",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-17",
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "STUDENT LOGIC GROUP FALL SEMESTER SOCIAL",
+    "link": "https://www.gc.cuny.edu/events/student-logic-group-fall-semester-social",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-18",
+    "time": "5:00 pm — 8:00 pm",
+    "location": "5409: DGSC Meeting Room",
+    "tags": [
+      "Doctoral and Graduate Students' Council"
+    ]
   },
   {
     "title": "Bites and Insights",
