@@ -367,44 +367,11 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person/2025-12-17/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-17",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-87/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-17",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Semester End Celebration",
     "link": "https://www.laguardia.edu/event/semester-end-celebration/",
     "college": "LaGuardia Community College",
     "date": "2025-12-17",
     "time": "01:30 PM - 06:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Coping Skills for the Holidays (Walk-ins welcome)",
-    "link": "https://www.laguardia.edu/event/coping-skills-for-the-holidays-walk-ins-welcome/2025-12-17/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-17",
-    "time": "03:00 PM - 04:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -695,6 +662,29 @@
     ]
   },
   {
+    "title": "Paint & Sip",
+    "link": "https://www.laguardia.edu/event/paint-sip-3/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-10",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Library Book Sale",
+    "link": "https://www.laguardia.edu/event/library-book-sale/2026-02-11/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-11",
+    "time": "10:00 AM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff",
+      "student events"
+    ]
+  },
+  {
     "title": "The HUB Virtual Hours",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376812",
     "college": "Guttman Community College",
@@ -719,14 +709,6 @@
       "Discussion",
       "Information Session"
     ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-11/",
-    "college": "Hunter College",
-    "date": "2025-12-17",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": []
   },
   {
     "title": "Accelerated-Second Degree (BS) Nursing Program Information Session",
@@ -964,98 +946,13 @@
     ]
   },
   {
-    "title": "Theater Play: Faded",
-    "link": "https://www.bmcc.cuny.edu/event/theater-play-faded/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-17",
-    "time": "02:00 PM - 03:30 PM",
+    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
+    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7/2026-04-16/",
+    "college": "Hunter College",
+    "date": "2026-04-16",
+    "time": "06:00 PM - 07:00 PM",
     "tags": [
-      "Featured",
-      "LGBTQ Pride Month",
-      "Pride Center",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs",
-      "Theatre"
-    ]
-  },
-  {
-    "title": "Healing Rhythms: Drumming Circle",
-    "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle-6/2025-12-17/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-17",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Take a Break with Zines!",
-    "link": "https://www.bmcc.cuny.edu/event/library-event-take-a-break-with-zines/2025-12-17/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-17",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "Library"
-    ]
-  },
-  {
-    "title": "BMCC Students Perform during Storytelling LIVES at Perelman Performing Arts Center",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-students-perform-at-storytelling-lives-at-the-perelman-performing-arts-center-pac/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-17",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Featured",
-      "Speech",
-      "Communications and Theatre Arts"
-    ]
-  },
-  {
-    "title": "Spring 2026 BMCC New Student Orientation",
-    "link": "https://www.bmcc.cuny.edu/event/spring-2026-bmcc-new-student-orientation/2026-01-12/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-01-12",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured",
-      "New Student Programs"
-    ]
-  },
-  {
-    "title": "Healthy Relationships",
-    "link": "https://www.bmcc.cuny.edu/event/healthy-relationships/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-02-09",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Add Some Spring to Your Step: Tips for Blooming Mental Health",
-    "link": "https://www.bmcc.cuny.edu/event/add-some-spring-to-your-step-tips-for-blooming-mental-health/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-03-12",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Unwind Your Anxious Mind",
-    "link": "https://www.bmcc.cuny.edu/event/unwind-your-anxious-mind-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-10",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Student Affairs"
+      "Open Houses"
     ]
   },
   {
@@ -1067,18 +964,6 @@
     "tags": [
       "Campus Events",
       "Feature"
-    ]
-  },
-  {
-    "title": "Zoom into Majors: Honors Program & World Languages and Cultures",
-    "link": "https://www.bcc.cuny.edu/event/zoom-into-majors-honors-program-world-languages-and-cultures/",
-    "college": "Bronx Community College",
-    "date": "2025-12-17",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Information Sessions"
     ]
   },
   {
@@ -1200,6 +1085,32 @@
     "time": "7:00 PM - 8:30 PM",
     "tags": [
       "Holiday Singalong"
+    ]
+  },
+  {
+    "title": "Workshops for Students who are Parents",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10006139",
+    "college": "Borough of Manhattan Community College",
+    "date": "2025-12-19",
+    "time": "09:30 AM - 10:00 AM",
+    "tags": []
+  },
+  {
+    "title": "BA-Social Work Information Session",
+    "link": "https://lehman.edu/events/2026/BA-Social-Work-Information-Session.php",
+    "college": "Lehman College",
+    "date": "2026-01-07",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Photonics Initiative Seminar: Edoardo Baldini",
+    "link": "https://asrc.gc.cuny.edu/event/photonics-initiative-seminar-baldini/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2026-01-08",
+    "time": "2:00 PM - 3:00 PM",
+    "tags": [
+      "Photonics"
     ]
   },
   {
@@ -1535,7 +1446,7 @@
     "link": "https://www.lehman.edu/events/2026/BA-Social-Work-Information-Session.php",
     "college": "Lehman College",
     "date": "2026-01-07",
-    "time": "4:30 PM- 5:45 PM",
+    "time": "6:00 PM- 7:00 PM",
     "tags": []
   },
   {
@@ -1552,6 +1463,62 @@
     "college": "Lehman College",
     "date": "2026-01-15",
     "time": "6:30 PM- 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Bronx Tech Hub Presents: Prompt Engineering Accelerator Fellowship",
+    "link": "https://www.lehman.edu/events/2026/Bronx-Tech-Hub-Presents-Prompt-Engineering-Accelerator-Fellowship-.php?event_type=recurs_1",
+    "college": "Lehman College",
+    "date": "2026-01-20",
+    "time": "3:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Social Work, MSW Information Session",
+    "link": "https://www.lehman.edu/events/2026/Social-Work-MSW-Information-Session.php",
+    "college": "Lehman College",
+    "date": "2026-01-20",
+    "time": "6:00 PM- 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Lehman College Class of 2026 Commencement",
+    "link": "https://www.lehman.edu/events/2026/Lehman-College-Class-of-2026-Commencement.php",
+    "college": "Lehman College",
+    "date": "2026-01-22",
+    "time": "10:00 AM- 12:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Bronx Tech Hub Presents: Prompt Engineering Accelerator Fellowship",
+    "link": "https://www.lehman.edu/events/2026/Bronx-Tech-Hub-Presents-Prompt-Engineering-Accelerator-Fellowship-.php?event_type=recurs_2",
+    "college": "Lehman College",
+    "date": "2026-01-27",
+    "time": "3:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Bronx Tech Hub Presents: Prompt Engineering Accelerator Fellowship",
+    "link": "https://www.lehman.edu/events/2026/Bronx-Tech-Hub-Presents-Prompt-Engineering-Accelerator-Fellowship-.php?event_type=recurs_3",
+    "college": "Lehman College",
+    "date": "2026-02-03",
+    "time": "3:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session-.php",
+    "college": "Lehman College",
+    "date": "2026-02-03",
+    "time": "6:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session-.php",
+    "college": "Lehman College",
+    "date": "2026-02-03",
+    "time": "6:00 PM- 8:00 PM",
     "tags": []
   },
   {
@@ -1723,12 +1690,26 @@
     "tags": []
   },
   {
-    "title": "Fall 2025 Fuel Up for Finals",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-17-fall-2025-fuel-up-for-finals1.html",
-    "college": "Queensborough Community College",
+    "title": "DRUPAL ACCESSIBILITY TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-dec-2025",
+    "college": "CUNY Graduate Center",
     "date": "2025-12-17",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "Special Event / Fair"
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "STUDENT LOGIC GROUP FALL SEMESTER SOCIAL",
+    "link": "https://www.gc.cuny.edu/events/student-logic-group-fall-semester-social",
+    "college": "CUNY Graduate Center",
+    "date": "2025-12-18",
+    "time": "5:00 pm — 8:00 pm",
+    "location": "5409: DGSC Meeting Room",
+    "tags": [
+      "Doctoral and Graduate Students' Council"
+    ]
   },
   {
     "title": "Instrumental & Vocal Ensemble and Queensborough Chorus Concert",
