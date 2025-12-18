@@ -688,22 +688,6 @@
   },
   {
     "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-11/",
-    "college": "Hunter College",
-    "date": "2025-12-22",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-12/",
-    "college": "Hunter College",
-    "date": "2025-12-29",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
     "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-13/",
     "college": "Hunter College",
     "date": "2026-01-05",
@@ -922,7 +906,17 @@
     ]
   },
   {
-    "title": "Spring 2026 BMCC New Student Orientation",
+    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
+    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7/2026-05-11/",
+    "college": "Hunter College",
+    "date": "2026-05-11",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "Spring 2026 New Student Orientation",
     "link": "https://www.bmcc.cuny.edu/event/spring-2026-bmcc-new-student-orientation/2026-01-12/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-01-12",
@@ -1672,20 +1666,15 @@
     "tags": []
   },
   {
-    "title": "Fall 2025 Fuel Up for Finals",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-18-fall-2025-fuel-up-for-finals.html",
-    "college": "Queensborough Community College",
+    "title": "STUDENT LOGIC GROUP FALL SEMESTER SOCIAL",
+    "link": "https://www.gc.cuny.edu/events/student-logic-group-fall-semester-social",
+    "college": "CUNY Graduate Center",
     "date": "2025-12-18",
-    "time": "09:00 AM - 11:00 AM",
-    "description": "Special Event / Fair"
-  },
-  {
-    "title": "Paint N' Chill Student Workshop",
-    "link": "https://www.qcc.cuny.edu/calendar/events/2025-12-18-paint-n-chill-student-workshop.html",
-    "college": "Queensborough Community College",
-    "date": "2025-12-18",
-    "time": "12:00 PM - 02:00 PM",
-    "description": "Special Event / Fair"
+    "time": "5:00 pm — 8:00 pm",
+    "location": "5409: DGSC Meeting Room",
+    "tags": [
+      "Doctoral and Graduate Students' Council"
+    ]
   },
   {
     "title": "Fall 2025 Fuel Up for Finals",
