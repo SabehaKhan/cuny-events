@@ -1,13 +1,5 @@
 [
   {
-    "title": "Holiday Singalong",
-    "link": "https://www.ccny.cuny.edu/calendar/holiday-singalong",
-    "college": "City College of New York",
-    "date": "2025-12-19",
-    "time": "07:00 PM - 08:30 PM",
-    "tags": []
-  },
-  {
     "title": "Course withdrawal period begins - No Refund",
     "link": "https://www.ccny.cuny.edu/calendar/course-withdrawal-period-begins-no-refund",
     "college": "City College of New York",
@@ -299,7 +291,7 @@
     "link": "https://www.journalism.cuny.edu/events/newmark-film-festival-short-docs-2025/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2025-12-20",
-    "time": "01:30 PM - 05:00 PM",
+    "time": "01:30 PM - 01:30 PM",
     "tags": []
   },
   {
@@ -341,18 +333,6 @@
     "date": "2026-01-27",
     "time": "07:00 PM - 07:00 PM",
     "tags": []
-  },
-  {
-    "title": "Poolside - OTA Pinning Ceremony",
-    "link": "https://www.laguardia.edu/event/poolside-ota-pinning-ceremony/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-19",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "Faculty and Staff",
-      "student events"
-    ]
   },
   {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
@@ -643,6 +623,17 @@
     "college": "LaGuardia Community College",
     "date": "2026-03-12",
     "time": "01:00 PM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Boba Tea",
+    "link": "https://www.laguardia.edu/event/boba-tea-2/",
+    "college": "LaGuardia Community College",
+    "date": "2026-03-12",
+    "time": "02:00 PM - 04:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1004,32 +995,6 @@
     ]
   },
   {
-    "title": "Godzilla Minus One Vs. Past Lives: Romantic Histories and Historic Romances",
-    "link": "https://events.cuny.edu/cec/godzilla-minus-one-vs-past-lives-romantic-histories-and-historic-romances/",
-    "college": "Asian American / Asian Research Institute",
-    "date": "2025-12-19",
-    "time": "6:00 PM - 7:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Holiday Singalong",
-    "link": "https://events.cuny.edu/cec/holiday-singalong/",
-    "college": "The City College of New York",
-    "date": "2025-12-19",
-    "time": "7:00 PM - 8:30 PM",
-    "tags": [
-      "Holiday Singalong"
-    ]
-  },
-  {
-    "title": "Workshops for Students who are Parents",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10006139",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-19",
-    "time": "09:30 AM - 10:00 AM",
-    "tags": []
-  },
-  {
     "title": "BA-Social Work Information Session",
     "link": "https://lehman.edu/events/2026/BA-Social-Work-Information-Session.php",
     "college": "Lehman College",
@@ -1058,43 +1023,41 @@
     ]
   },
   {
-    "title": "FA25 Hold off room",
-    "link": "https://qc.event.cuny.edu/events/UYCcGaQ5ocztcX8oct2d/zAf24h3SRunc2YCXp1s1117",
-    "college": "Queens College",
-    "date": "2025-12-19",
-    "time": "",
-    "tags": []
+    "title": "Creating Rubrics in Brightspace",
+    "link": "https://events.cuny.edu/cec/creating-rubrics-in-brightspace-3/",
+    "college": "College of Staten Island",
+    "date": "2026-01-13",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Cener for Teaching and Learning"
+    ]
   },
   {
-    "title": "FDNY",
-    "link": "https://qc.event.cuny.edu/events/I2ZDGOEYwrGfcqF2XrN4/ndaJcOFzdU52yk4Pj3r145",
-    "college": "Queens College",
-    "date": "2025-12-19",
-    "time": "8:00AM",
-    "tags": []
+    "title": "Creating Accessible Documents for Course Contents",
+    "link": "https://events.cuny.edu/cec/creating-accessible-documents-for-course-contents/",
+    "college": "College of Staten Island",
+    "date": "2026-01-13",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Cener for Teaching and Learning"
+    ]
   },
   {
-    "title": "(HOLD) SEEK dept",
-    "link": "https://qc.event.cuny.edu/events/O84idL2SVfTAQzPMLnNX/ykrjhMEkHrvzqgfOz0Cc",
-    "college": "Queens College",
-    "date": "2025-12-19",
-    "time": "8:00AM",
-    "tags": []
+    "title": "Epigenetics Core Presents: Hands-on Bioinformatics: Exploring Single Cell RNA-Seq",
+    "link": "https://asrc.gc.cuny.edu/event/hands-on-bioinformatics-exploring-single-cell-rna-seq/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2026-01-13",
+    "time": "10:00 AM - 5:00 PM",
+    "tags": [
+      "Neuroscience"
+    ]
   },
   {
-    "title": "Math Review sessions",
-    "link": "https://qc.event.cuny.edu/events/yTGd8ZHBW5PFCkIFXuT4/fbWe5ZbM4FDURx9G4ELl",
-    "college": "Queens College",
-    "date": "2025-12-19",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Public Safety Christmas Party",
-    "link": "https://qc.event.cuny.edu/events/mfxZ6e033VwsxsDOqdd5/QbpAZH2dPwZMMFWqDKQW",
-    "college": "Queens College",
-    "date": "2025-12-19",
-    "time": "4:00PM",
+    "title": "Spring 2026 New Student Orientation",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10006476",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-01-13",
+    "time": "10:00 AM - 03:00 PM",
     "tags": []
   },
   {
@@ -1170,51 +1133,11 @@
     "tags": []
   },
   {
-    "title": "Final Examinations",
-    "link": "https://citytech.event.cuny.edu/events/GNp4qP8eaICcZOx8s8GG/Xj68rqVKiMWBfxC7MYdq",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-19",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "FDC Graduation Event",
-    "link": "https://citytech.event.cuny.edu/events/j1ShfPLkdIAZVU5YXmY2/vOxty1BOVlWq5PRGj3fo",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-19",
-    "time": "8:30AM",
-    "tags": []
-  },
-  {
-    "title": "High School Equivalency Math Class",
-    "link": "https://citytech.event.cuny.edu/events/hyXtVjTCkDBdWDcPahyy/D4maXd9vgJtwzKFdsNpS8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-19",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center Classes",
-    "link": "https://citytech.event.cuny.edu/events/Mp9SN6sSYmIKVnDLqC02/FfookhqdiPvXvpxSWkjh13",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-19",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Heidegger Reading Group",
-    "link": "https://citytech.event.cuny.edu/events/O1S9cUAzsIlLDsq5diBD/RQbPjDSIMHjwRscmwmev",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-19",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "lecture",
-    "link": "https://citytech.event.cuny.edu/events/ALxtfBCgT09ZUczPzPhs/V02BVEusa3fdXcUTENoh",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-19",
-    "time": "10:00AM",
+    "title": "ITS Media Upgrade",
+    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/qVDgFQwkK6WLqJzrfjXN",
+    "college": "Queens College",
+    "date": "2025-12-26",
+    "time": "8:00AM",
     "tags": []
   },
   {
@@ -1271,6 +1194,70 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2025-12-20",
     "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "HSA 3510-OL54 (16486)",
+    "link": "https://citytech.event.cuny.edu/events/T4rl3t5QCueosqLbzNZt/kF1Ni3gwIxLuGbCD4cci16",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-20",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "MKT1100 Office Hours",
+    "link": "https://citytech.event.cuny.edu/events/rVqG99UnsIzlhjGZnXWT/IcvrdExEL6Re7Ixfkfkg14",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-20",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://citytech.event.cuny.edu/events/GNp4qP8eaICcZOx8s8GG/cVL4iYja2vnlCFw82hmz",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-21",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "End of Fall 2025 term",
+    "link": "https://citytech.event.cuny.edu/events/GLqd1vZk8mTOkmuEtlXV/FD7rtyUot3fQFW2IqxDs",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-22",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://citytech.event.cuny.edu/events/GNp4qP8eaICcZOx8s8GG/MVcz1a6pz8rQwoT1u559",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-22",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "End of Fall 2025 term.",
+    "link": "https://citytech.event.cuny.edu/events/ZxzvYcyb0fOac33ikgnI/OIBhsoilxZQzlKvKFtMn",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-22",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Filing period for Fall 2025 graduation ends",
+    "link": "https://citytech.event.cuny.edu/events/VMtCiT6MLe9KxVrog2gx/XExtuVuBfnjawKZ4imDE",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-22",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "OSCE DEN 1112",
+    "link": "https://citytech.event.cuny.edu/events/jvEkSorcnNR8ibe5YJs0/HFKS7N7R4W5WXAxe9WMo",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2025-12-22",
+    "time": "8:00AM",
     "tags": []
   },
   {
@@ -1535,14 +1522,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-06-02",
     "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/final-examinations-5",
-    "college": "York College",
-    "date": "2025-12-19",
-    "time": "5:00 AM - 4:59 AM",
     "tags": []
   },
   {
