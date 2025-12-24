@@ -486,18 +486,6 @@
   },
   {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2025-12-23/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-23",
-    "time": "09:30 AM - 04:30 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2025-12-26/",
     "college": "LaGuardia Community College",
     "date": "2025-12-26",
@@ -803,6 +791,17 @@
     "college": "LaGuardia Community College",
     "date": "2026-01-28",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-2/2026-01-28/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-28",
+    "time": "08:00 PM - 08:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1288,38 +1287,6 @@
     ]
   },
   {
-    "title": "Townsend Harris HS",
-    "link": "https://qc.event.cuny.edu/events/jHesKn4TrHcwPFTn4WgG/PN8tuYPimqapOkembCiX33",
-    "college": "Queens College",
-    "date": "2025-12-23",
-    "time": "7:30AM",
-    "tags": []
-  },
-  {
-    "title": "QSI Math Stretched Course",
-    "link": "https://qc.event.cuny.edu/events/ZkUDk3QHKnSvkl0C8rNp/eGRzH3rWU4b71NuoXVFJ35",
-    "college": "Queens College",
-    "date": "2025-12-23",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ITS Media Upgrade",
-    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/rTUkuSdFwyGumU9QTt1S",
-    "college": "Queens College",
-    "date": "2025-12-23",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "PSC Session",
-    "link": "https://qc.event.cuny.edu/events/CX6CrAZFh7WvJ1cfBCtF/HmFh9wvATltyiWWFZvAx",
-    "college": "Queens College",
-    "date": "2025-12-23",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
     "title": "ITS Media Upgrade",
     "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/qVDgFQwkK6WLqJzrfjXN",
     "college": "Queens College",
@@ -1352,19 +1319,11 @@
     "tags": []
   },
   {
-    "title": "ASAP/ACE Math Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/D0GiXVdptET3GZkpCc1e/wPiw0vyYixbqNdkEK6RV17",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-23",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE Math Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/iyKGQLcvSuVcXc0Ci5zo/tsup4HqRxPwozFVKNnzY15",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2025-12-23",
-    "time": "2:00PM",
+    "title": "ITS Media Upgrade",
+    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/Mh5j9CXTNf5UjnuCOE5B",
+    "college": "Queens College",
+    "date": "2025-12-31",
+    "time": "8:00AM",
     "tags": []
   },
   {
