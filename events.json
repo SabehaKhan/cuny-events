@@ -486,18 +486,6 @@
   },
   {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2025-12-26/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-26",
-    "time": "09:30 AM - 04:30 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2025-12-29/",
     "college": "LaGuardia Community College",
     "date": "2025-12-29",
@@ -802,6 +790,17 @@
     "college": "LaGuardia Community College",
     "date": "2026-01-28",
     "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-2/2026-01-29/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-29",
+    "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1288,14 +1287,6 @@
   },
   {
     "title": "ITS Media Upgrade",
-    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/qVDgFQwkK6WLqJzrfjXN",
-    "college": "Queens College",
-    "date": "2025-12-26",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ITS Media Upgrade",
     "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/YHfHyiDX5Imp3sIjzNO7",
     "college": "Queens College",
     "date": "2025-12-29",
@@ -1331,6 +1322,14 @@
     "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi1",
     "college": "Queens College",
     "date": "2026-01-02",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "ITS Media Upgrade",
+    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi2",
+    "college": "Queens College",
+    "date": "2026-01-03",
     "time": "8:00AM",
     "tags": []
   },
@@ -1396,6 +1395,22 @@
     "college": "Brooklyn College",
     "date": "2026-01-11",
     "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Reconstructing by the TEAM",
+    "link": "https://www.brooklyn.edu/event/reconstructing-by-the-team-5/",
+    "college": "Brooklyn College",
+    "date": "2026-01-11",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "Incoming Graduate Student Information Session",
+    "link": "https://www.brooklyn.edu/event/incoming-graduate-student-information-session-january/",
+    "college": "Brooklyn College",
+    "date": "2026-01-13",
+    "time": "6:00PM",
     "tags": []
   },
   {
