@@ -498,17 +498,6 @@
   },
   {
     "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-88/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-29",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-89/",
     "college": "LaGuardia Community College",
     "date": "2025-12-29",
@@ -800,6 +789,17 @@
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-2/2026-01-29/",
     "college": "LaGuardia Community College",
     "date": "2026-01-29",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-02-02/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-02",
     "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
@@ -1273,11 +1273,27 @@
     ]
   },
   {
+    "title": "Prospective Student Tour",
+    "link": "https://events.cuny.edu/cec/prospective-student-tour-2/",
+    "college": "Queens College",
+    "date": "2026-01-05",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": []
+  },
+  {
     "title": "Health Services Administration M.S. Information Session",
     "link": "https://lehman.edu/events/2026/Health-Services-Administration-MS-Information-Session-.php",
     "college": "Lehman College",
     "date": "2026-01-05",
     "time": "6:00 PM - 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Direct Admissions Day",
+    "link": "https://events.cuny.edu/cec/direct-admissions-day/",
+    "college": "Queens College",
+    "date": "2026-01-07",
+    "time": "9:00 AM - 5:00 PM",
     "tags": []
   },
   {
@@ -1306,16 +1322,6 @@
     "time": "9:00 AM - 5:00 PM",
     "tags": [
       "UNU R-SIRUS Professional Development Workshop"
-    ]
-  },
-  {
-    "title": "Creating Rubrics in Brightspace",
-    "link": "https://events.cuny.edu/cec/creating-rubrics-in-brightspace-3/",
-    "college": "College of Staten Island",
-    "date": "2026-01-13",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Cener for Teaching and Learning"
     ]
   },
   {
@@ -1412,6 +1418,14 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-01-05",
     "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "MEDU 3000-Prep Workshop",
+    "link": "https://citytech.event.cuny.edu/events/klUvLRR4NiE6qnzIwKJX/HqrC45eJe15tKzUBFvYT1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-05",
+    "time": "3:00PM",
     "tags": []
   },
   {
