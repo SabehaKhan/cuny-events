@@ -497,17 +497,6 @@
     ]
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-91/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-30",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-01-02/",
     "college": "LaGuardia Community College",
@@ -806,6 +795,17 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-2/2026-02-05/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-05",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Complete Your FAFSA & TAP Applications",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376882",
     "college": "Guttman Community College",
@@ -1098,17 +1098,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-262/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2025-12-30",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "International F-1 Student Orientation",
     "link": "https://www.bmcc.cuny.edu/event/international-f-1-student-orientation/2026-01-06/",
     "college": "Borough of Manhattan Community College",
@@ -1121,8 +1110,8 @@
     ]
   },
   {
-    "title": "The 2026 Martin Luther King (MLK) Days of Service",
-    "link": "https://www.bmcc.cuny.edu/event/the-2026-martin-luther-king-mlk-volunteer-series/",
+    "title": "MLK Days of Service (2026)",
+    "link": "https://www.bmcc.cuny.edu/event/mlk-days-of-service/2026-01-07/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-01-07",
     "time": "11:00 AM - 12:30 PM",
@@ -1319,6 +1308,17 @@
     "tags": []
   },
   {
+    "title": "Clips and Conversation with IMPACT – Reimagining Justice through Art",
+    "link": "https://events.cuny.edu/cec/clips-and-conversation-with-impact-reimagining-justice-through-art/",
+    "college": "CUNY School of Professional Studies",
+    "date": "2026-01-07",
+    "time": "6:00 PM",
+    "tags": [
+      "social justice",
+      "youth studies"
+    ]
+  },
+  {
     "title": "BA-Social Work Information Session",
     "link": "https://lehman.edu/events/2026/BA-Social-Work-Information-Session.php",
     "college": "Lehman College",
@@ -1335,24 +1335,6 @@
     "tags": [
       "Photonics"
     ]
-  },
-  {
-    "title": "UNU R-SIRUS Professional Development Workshop in Digital Earth and Artificial Intelligence for Sustainability",
-    "link": "https://events.cuny.edu/cec/unu-r-sirus-professional-development-workshop-in-digital-earth-and-artificial-intelligence-for-sustainability/",
-    "college": "The City College of New York",
-    "date": "2026-01-12",
-    "time": "9:00 AM - 5:00 PM",
-    "tags": [
-      "UNU R-SIRUS Professional Development Workshop"
-    ]
-  },
-  {
-    "title": "Prospective Student Tour",
-    "link": "https://events.cuny.edu/cec/prospective-student-tour/",
-    "college": "Queens College",
-    "date": "2026-01-12",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": []
   },
   {
     "title": "ITS Media Upgrade",
