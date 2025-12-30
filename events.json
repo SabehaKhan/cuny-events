@@ -498,17 +498,6 @@
   },
   {
     "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-90/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-30",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-91/",
     "college": "LaGuardia Community College",
     "date": "2025-12-30",
@@ -800,6 +789,17 @@
     "college": "LaGuardia Community College",
     "date": "2026-02-04",
     "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Networking 101: LinkedIn, Connect, and Engage",
+    "link": "https://www.laguardia.edu/event/networking-101-linkedin-connect-and-engage-9/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-05",
+    "time": "11:15 AM - 12:15 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1118,6 +1118,30 @@
       "Admissions",
       "Featured",
       "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "The 2026 Martin Luther King (MLK) Days of Service",
+    "link": "https://www.bmcc.cuny.edu/event/the-2026-martin-luther-king-mlk-volunteer-series/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-01-07",
+    "time": "11:00 AM - 12:30 PM",
+    "tags": [
+      "Conexiones",
+      "Featured",
+      "MLK-Service",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "How to Apply to BMCC & Live Help Hour Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-6/2026-01-08/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-01-08",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
