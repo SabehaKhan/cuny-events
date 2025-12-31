@@ -486,18 +486,6 @@
   },
   {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2025-12-30/",
-    "college": "LaGuardia Community College",
-    "date": "2025-12-30",
-    "time": "09:30 AM - 04:30 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-01-02/",
     "college": "LaGuardia Community College",
     "date": "2026-01-02",
@@ -800,6 +788,17 @@
     "college": "LaGuardia Community College",
     "date": "2026-02-05",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "BMEC Barbershop Series: Love & Leadership: Healthy relationships, respect, and Black masculinity",
+    "link": "https://www.laguardia.edu/event/bmec-barbershop-series-love-leadership-healthy-relationships-respect-and-black-masculinity/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-05",
+    "time": "02:15 PM - 03:15 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1338,14 +1337,6 @@
   },
   {
     "title": "ITS Media Upgrade",
-    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/bC0wQOosrKTuIGtTBI9T",
-    "college": "Queens College",
-    "date": "2025-12-30",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ITS Media Upgrade",
     "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/Mh5j9CXTNf5UjnuCOE5B",
     "college": "Queens College",
     "date": "2025-12-31",
@@ -1417,6 +1408,22 @@
     "tags": []
   },
   {
+    "title": "THHS",
+    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/HpWK9GzqUSa0PNc6d0XT3",
+    "college": "Queens College",
+    "date": "2026-01-07",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "ITS Media Upgrade",
+    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi6",
+    "college": "Queens College",
+    "date": "2026-01-07",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
     "title": "Fall 2025 Degree Conferral Date",
     "link": "https://baruch.event.cuny.edu/events/UxsRTNGkLq5QcvoYGKlV/XtGoIgNv9gP4SKAqh4VD",
     "college": "Baruch College",
@@ -1461,6 +1468,14 @@
     "link": "https://hostos.event.cuny.edu/events/uJwZijLzBs67BZslIBXK/TRN2daeEoLIlvOMJWqGe2",
     "college": "Hostos Community College",
     "date": "2026-01-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Hostos Student Leadership Academy Annual Winter Workshop Series",
+    "link": "https://hostos.event.cuny.edu/events/uJwZijLzBs67BZslIBXK/TRN2daeEoLIlvOMJWqGe3",
+    "college": "Hostos Community College",
+    "date": "2026-01-07",
     "time": "8:00AM",
     "tags": []
   },
