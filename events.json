@@ -1416,14 +1416,6 @@
     "tags": []
   },
   {
-    "title": "Fall 2025 Degree Conferral Date",
-    "link": "https://baruch.event.cuny.edu/events/UxsRTNGkLq5QcvoYGKlV/XtGoIgNv9gP4SKAqh4VD",
-    "college": "Baruch College",
-    "date": "2026-01-01",
-    "time": "",
-    "tags": []
-  },
-  {
     "title": "NYCCT Public Safety Information Tabling",
     "link": "https://citytech.event.cuny.edu/events/oZrlbRHkgKoO9x5LAiJo/exFZENoLfxV0DYX5ANQS7",
     "college": "New York City College of Technology (City Tech)",
@@ -1456,6 +1448,14 @@
     "tags": []
   },
   {
+    "title": "Winter Bridge SEEK 2026",
+    "link": "https://citytech.event.cuny.edu/events/li6boLC06gwCEapZHC47/sTKmpVlwMBdrCKvjF0Mm",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-09",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
     "title": "Hostos Student Leadership Academy Annual Winter Workshop Series",
     "link": "https://hostos.event.cuny.edu/events/uJwZijLzBs67BZslIBXK/TRN2daeEoLIlvOMJWqGe1",
     "college": "Hostos Community College",
@@ -1484,6 +1484,14 @@
     "link": "https://hostos.event.cuny.edu/events/uJwZijLzBs67BZslIBXK/TRN2daeEoLIlvOMJWqGe4",
     "college": "Hostos Community College",
     "date": "2026-01-08",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Hostos Student Leadership Academy Annual Winter Workshop Series",
+    "link": "https://hostos.event.cuny.edu/events/uJwZijLzBs67BZslIBXK/TRN2daeEoLIlvOMJWqGe5",
+    "college": "Hostos Community College",
+    "date": "2026-01-09",
     "time": "8:00AM",
     "tags": []
   },
@@ -1872,14 +1880,6 @@
     "tags": []
   },
   {
-    "title": "Fall 2025 Degree Conferral date",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/fall-2025-degree-conferral-date",
-    "college": "York College",
-    "date": "2026-01-01",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
     "title": "First day of classes",
     "link": "https://www.york.cuny.edu/registrar/calendar/winter/first-day-of-classes-1",
     "college": "York College",
@@ -1917,6 +1917,30 @@
     "college": "York College",
     "date": "2026-01-05",
     "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Basketball vs. CCNY",
+    "link": "https://www.york.cuny.edu/events/2025/womens-basketball-vs-ccny-01072026",
+    "college": "York College",
+    "date": "2026-01-07",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Basketball vs. CCNY",
+    "link": "https://www.york.cuny.edu/events/2025/mens-basketball-vs-ccny-01072026",
+    "college": "York College",
+    "date": "2026-01-08",
+    "time": "12:00 AM - 2:00 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jan 13",
+    "link": "https://www.york.cuny.edu/advisement/events/v-ready-jan13",
+    "college": "York College",
+    "date": "2026-01-13",
+    "time": "2:30 PM - 9:00 PM",
     "tags": []
   },
   {
