@@ -497,18 +497,6 @@
     ]
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-01-02/2/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-02",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-01-05/",
     "college": "LaGuardia Community College",
@@ -804,6 +792,17 @@
     "college": "LaGuardia Community College",
     "date": "2026-02-04",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-2/2026-02-04/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-04",
+    "time": "08:00 PM - 08:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1898,70 +1897,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-06-02",
     "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "First day of classes",
-    "link": "https://www.york.cuny.edu/registrar/calendar/winter/first-day-of-classes-1",
-    "college": "York College",
-    "date": "2026-01-02",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Verification of Enrollment rosters available to faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/winter/verification-of-enrollment-rosters-available-to-faculty-1",
-    "college": "York College",
-    "date": "2026-01-03",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Verification of Enrollment rosters due from faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/winter/verification-of-enrollment-rosters-due-from-faculty-1",
-    "college": "York College",
-    "date": "2026-01-04",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Census date – Form-A cutoff",
-    "link": "https://www.york.cuny.edu/registrar/calendar/winter/census-date-form-a-cutoff-1",
-    "college": "York College",
-    "date": "2026-01-04",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
-    "title": "WN Grades assigned",
-    "link": "https://www.york.cuny.edu/registrar/calendar/winter/wn-grades-assigned-1",
-    "college": "York College",
-    "date": "2026-01-05",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Basketball vs. CCNY",
-    "link": "https://www.york.cuny.edu/events/2025/womens-basketball-vs-ccny-01072026",
-    "college": "York College",
-    "date": "2026-01-07",
-    "time": "10:00 PM - 12:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Basketball vs. CCNY",
-    "link": "https://www.york.cuny.edu/events/2025/mens-basketball-vs-ccny-01072026",
-    "college": "York College",
-    "date": "2026-01-08",
-    "time": "12:00 AM - 2:00 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jan 13",
-    "link": "https://www.york.cuny.edu/advisement/events/v-ready-jan13",
-    "college": "York College",
-    "date": "2026-01-13",
-    "time": "2:30 PM - 9:00 PM",
     "tags": []
   },
   {
