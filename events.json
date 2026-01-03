@@ -485,18 +485,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-01-02/1/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-02",
-    "time": "09:30 AM - 04:30 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-01-05/",
     "college": "LaGuardia Community College",
@@ -809,7 +797,18 @@
     ]
   },
   {
-    "title": "Complete Your FAFSA & TAP Applications",
+    "title": "Networking 101: LinkedIn, Connect, and Engage",
+    "link": "https://www.laguardia.edu/event/networking-101-linkedin-connect-and-engage-9/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-05",
+    "time": "11:15 AM - 12:15 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Complete Your FAFSA & TAP Financial Aid Applications",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376882",
     "college": "Guttman Community College",
     "date": "2026-01-07",
@@ -838,7 +837,7 @@
     ]
   },
   {
-    "title": "Complete Your FAFSA & TAP Applications",
+    "title": "Complete Your FAFSA & TAP Financial Aid Applications",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376883",
     "college": "Guttman Community College",
     "date": "2026-01-28",
@@ -1341,14 +1340,6 @@
   },
   {
     "title": "ITS Media Upgrade",
-    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi1",
-    "college": "Queens College",
-    "date": "2026-01-02",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ITS Media Upgrade",
     "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi2",
     "college": "Queens College",
     "date": "2026-01-03",
@@ -1420,6 +1411,22 @@
     "tags": []
   },
   {
+    "title": "THHS",
+    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/HpWK9GzqUSa0PNc6d0XT4",
+    "college": "Queens College",
+    "date": "2026-01-08",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "ITS Media Upgrade",
+    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi7",
+    "college": "Queens College",
+    "date": "2026-01-08",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
     "title": "NYCCT Public Safety Information Tabling",
     "link": "https://citytech.event.cuny.edu/events/oZrlbRHkgKoO9x5LAiJo/exFZENoLfxV0DYX5ANQS7",
     "college": "New York City College of Technology (City Tech)",
@@ -1457,6 +1464,14 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-01-09",
     "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYC Deaf and Hard of Hearing Association",
+    "link": "https://citytech.event.cuny.edu/events/E4xxjqUZbz46fLNCHbUu/LWuKMmqn150KOPULK3o9",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-10",
+    "time": "11:00AM",
     "tags": []
   },
   {
@@ -1897,6 +1912,86 @@
     "college": "Macaulay Honors College",
     "date": "2026-06-02",
     "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment rosters available to faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/winter/verification-of-enrollment-rosters-available-to-faculty-1",
+    "college": "York College",
+    "date": "2026-01-03",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment rosters due from faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/winter/verification-of-enrollment-rosters-due-from-faculty-1",
+    "college": "York College",
+    "date": "2026-01-04",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Census date – Form-A cutoff",
+    "link": "https://www.york.cuny.edu/registrar/calendar/winter/census-date-form-a-cutoff-1",
+    "college": "York College",
+    "date": "2026-01-04",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "WN Grades assigned",
+    "link": "https://www.york.cuny.edu/registrar/calendar/winter/wn-grades-assigned-1",
+    "college": "York College",
+    "date": "2026-01-05",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Basketball vs. CCNY",
+    "link": "https://www.york.cuny.edu/events/2025/womens-basketball-vs-ccny-01072026",
+    "college": "York College",
+    "date": "2026-01-07",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Basketball vs. CCNY",
+    "link": "https://www.york.cuny.edu/events/2025/mens-basketball-vs-ccny-01072026",
+    "college": "York College",
+    "date": "2026-01-08",
+    "time": "12:00 AM - 2:00 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jan 13",
+    "link": "https://www.york.cuny.edu/advisement/events/v-ready-jan13",
+    "college": "York College",
+    "date": "2026-01-13",
+    "time": "2:30 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Nursing Information Session",
+    "link": "https://www.york.cuny.edu/events/2025/nursing-information-session-4",
+    "college": "York College",
+    "date": "2026-01-13",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Spring 2026 New Student Orientation",
+    "link": "https://www.york.cuny.edu/events/spring-2026-new-student-orientation",
+    "college": "York College",
+    "date": "2026-01-14",
+    "time": "2:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for Winter 2026 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/winter/r2t4-60-date-for-winter-2026-session",
+    "college": "York College",
+    "date": "2026-01-15",
+    "time": "5:00 AM - 4:59 AM",
     "tags": []
   },
   {
