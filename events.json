@@ -1,13 +1,5 @@
 [
   {
-    "title": "Course withdrawal period begins - No Refund",
-    "link": "https://www.ccny.cuny.edu/calendar/course-withdrawal-period-begins-no-refund",
-    "college": "City College of New York",
-    "date": "2026-01-04",
-    "time": "07:00 PM - 06:59 PM",
-    "tags": []
-  },
-  {
     "title": "UNU R-SIRUS Professional Development Workshop in Digital Earth and Artificial Intelligence for Sustainability",
     "link": "https://www.ccny.cuny.edu/calendar/unu-r-sirus-professional-development-workshop-digital-earth-and-artificial-intelligence",
     "college": "City College of New York",
@@ -1362,14 +1354,6 @@
     ]
   },
   {
-    "title": "ITS Media Upgrade",
-    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi3",
-    "college": "Queens College",
-    "date": "2026-01-04",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
     "title": "THHS",
     "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/HpWK9GzqUSa0PNc6d0XT1",
     "college": "Queens College",
@@ -1486,6 +1470,30 @@
     "link": "https://citytech.event.cuny.edu/events/E4xxjqUZbz46fLNCHbUu/LWuKMmqn150KOPULK3o9",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-01-10",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Winter Bridge SEEKX 2026",
+    "link": "https://citytech.event.cuny.edu/events/TDnkX0un00fe5qXI8nLD/Bp33Rs4Yw00nONjngFQJ",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-12",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Training Sessions for NYPIRG Staff",
+    "link": "https://citytech.event.cuny.edu/events/m3MZI26u4fSYM4FZfuYh/TVubrAAr304p7O7JSsOl1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-12",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYCCT Public Safety Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/oZrlbRHkgKoO9x5LAiJo/exFZENoLfxV0DYX5ANQS8",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-12",
     "time": "11:00AM",
     "tags": []
   },
@@ -1922,22 +1930,6 @@
     "tags": []
   },
   {
-    "title": "Verification of Enrollment rosters due from faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/winter/verification-of-enrollment-rosters-due-from-faculty-1",
-    "college": "York College",
-    "date": "2026-01-04",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Census date – Form-A cutoff",
-    "link": "https://www.york.cuny.edu/registrar/calendar/winter/census-date-form-a-cutoff-1",
-    "college": "York College",
-    "date": "2026-01-04",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
     "title": "WN Grades assigned",
     "link": "https://www.york.cuny.edu/registrar/calendar/winter/wn-grades-assigned-1",
     "college": "York College",
@@ -1990,6 +1982,22 @@
     "link": "https://www.york.cuny.edu/registrar/calendar/winter/r2t4-60-date-for-winter-2026-session",
     "college": "York College",
     "date": "2026-01-15",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/winter/final-examinations-1",
+    "college": "York College",
+    "date": "2026-01-23",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "End of Winter 2026 Session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/winter/end-of-winter-2026-session",
+    "college": "York College",
+    "date": "2026-01-23",
     "time": "5:00 AM - 4:59 AM",
     "tags": []
   },
