@@ -478,14 +478,6 @@
   },
   {
     "title": "Fall 2026 CUNY Transfer Application Workshop",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/b265d2fa-5a9f-408e-b3be-83396040c654",
-    "college": "Kingsborough Community College",
-    "date": "2026-01-06",
-    "time": "04:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2026 CUNY Transfer Application Workshop",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/7e1a46a2-dcbb-40f2-926a-322adb223818",
     "college": "Kingsborough Community College",
     "date": "2026-01-21",
@@ -1294,18 +1286,6 @@
     ]
   },
   {
-    "title": "International F-1 Student Orientation",
-    "link": "https://www.bmcc.cuny.edu/event/international-f-1-student-orientation/2026-01-06/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-01-06",
-    "time": "09:30 AM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
     "title": "MLK Days of Service (2026)",
     "link": "https://www.bmcc.cuny.edu/event/mlk-days-of-service/2026-01-07/",
     "college": "Borough of Manhattan Community College",
@@ -1339,6 +1319,18 @@
       "Admissions",
       "Featured",
       "New Student Programs"
+    ]
+  },
+  {
+    "title": "International F-1 Student Orientation",
+    "link": "https://www.bmcc.cuny.edu/event/international-f-1-student-orientation/2026-01-13/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-01-13",
+    "time": "09:30 AM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured",
+      "International Student Events/Workshops"
     ]
   },
   {
@@ -1589,30 +1581,6 @@
     ]
   },
   {
-    "title": "THHS",
-    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/HpWK9GzqUSa0PNc6d0XT2",
-    "college": "Queens College",
-    "date": "2026-01-06",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ITS Media Upgrade",
-    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi5",
-    "college": "Queens College",
-    "date": "2026-01-06",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Winter STEM Open House 2026",
-    "link": "https://qc.event.cuny.edu/events/ys15sow5xJDFmNXB5EZ8/dBdyt6cTTimt891TfJEb",
-    "college": "Queens College",
-    "date": "2026-01-06",
-    "time": "8:30AM",
-    "tags": []
-  },
-  {
     "title": "Public Safety",
     "link": "https://qc.event.cuny.edu/events/Xkb6IsFrfs0KEStlhThf/fNdhPZ3N11laPCztsJkm",
     "college": "Queens College",
@@ -1677,11 +1645,35 @@
     "tags": []
   },
   {
-    "title": "City Tech Spring 2026 Accepted Student Tour",
-    "link": "https://citytech.event.cuny.edu/events/NKIhy0cDMUw9Ww1uRrJi/PMK5If2yLlolgEenXWsc",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-01-06",
-    "time": "3:00PM",
+    "title": "ITS Media Upgrade",
+    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi9",
+    "college": "Queens College",
+    "date": "2026-01-10",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "ITS Media Upgrade",
+    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi10",
+    "college": "Queens College",
+    "date": "2026-01-11",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "THHS",
+    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/HpWK9GzqUSa0PNc6d0XT6",
+    "college": "Queens College",
+    "date": "2026-01-12",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Brightspace + UDL Workshop '25 Reunion",
+    "link": "https://qc.event.cuny.edu/events/Q8l9vAjufd9ZNn1HKgCY/S7hFUBU3ZCTUd10oaLe9",
+    "college": "Queens College",
+    "date": "2026-01-12",
+    "time": "8:00AM",
     "tags": []
   },
   {
@@ -1773,11 +1765,43 @@
     "tags": []
   },
   {
-    "title": "Hostos Student Leadership Academy Annual Winter Workshop Series",
-    "link": "https://hostos.event.cuny.edu/events/uJwZijLzBs67BZslIBXK/TRN2daeEoLIlvOMJWqGe2",
-    "college": "Hostos Community College",
-    "date": "2026-01-06",
-    "time": "8:00AM",
+    "title": "Living Lab General Education Seminar",
+    "link": "https://citytech.event.cuny.edu/events/Yjz9XqdewH9s7SlrsQzk/KxLU2D0ONvVZ83XOE51E3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-14",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Training Sessions for NYPIRG Staff",
+    "link": "https://citytech.event.cuny.edu/events/m3MZI26u4fSYM4FZfuYh/TVubrAAr304p7O7JSsOl3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-14",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "NRTA Graduation Ceremony",
+    "link": "https://citytech.event.cuny.edu/events/USmfVbjMj4Ztm73tVnI8/b9cqRyiQkRla8hGAWle1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-14",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "CLIP SPRING 2026 ORIENTATION",
+    "link": "https://citytech.event.cuny.edu/events/go2VbFuewpr5vdIyyk0q/YsdcNLJxT6VP750AJhSV1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-14",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Student Organization Workshop",
+    "link": "https://citytech.event.cuny.edu/events/A5NDG90jp5DvNoZK8bIw/FupCBrIpYmTCc8Ct0ftB",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-14",
+    "time": "12:30PM",
     "tags": []
   },
   {
