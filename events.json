@@ -404,6 +404,17 @@
     ]
   },
   {
+    "title": "CUNY Law Alumni Connection Series",
+    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-feb/",
+    "college": "CUNY School of Law",
+    "date": "2026-02-04",
+    "time": "12:00 PM - 01:15 PM",
+    "tags": [
+      "Alumni",
+      "Networking Event"
+    ]
+  },
+  {
     "title": "February Dean's Lunch",
     "link": "https://www.law.cuny.edu/event/february-deans-lunch/",
     "college": "CUNY School of Law",
@@ -455,7 +466,7 @@
     ]
   },
   {
-    "title": "UN Holocaust Memorical Day",
+    "title": "UN Holocaust Memorial Day",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/1992f52f-1df0-4735-8344-fcbff7eeb930",
     "college": "Kingsborough Community College",
     "date": "2026-01-27",
@@ -645,17 +656,6 @@
     "date": "2026-06-03",
     "time": "03:00 PM - 07:00 PM",
     "tags": []
-  },
-  {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-2/2026-01-08/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-08",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
   },
   {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
@@ -965,6 +965,18 @@
     "date": "2026-01-29",
     "time": "12:00 PM - 01:00 PM",
     "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-01-30/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-30",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
       "all calendars",
       "student events"
     ]
@@ -1293,6 +1305,16 @@
     ]
   },
   {
+    "title": "Study Abroad 101 Webinar",
+    "link": "https://www.hunter.cuny.edu/event/study-abroad-101-webinar-5/",
+    "college": "Hunter College",
+    "date": "2026-02-12",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "How to Apply to BMCC & Live Help Hour Workshop",
     "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-6/2026-01-08/",
     "college": "Borough of Manhattan Community College",
@@ -1598,6 +1620,16 @@
     "date": "2026-01-12",
     "time": "6:00 PM",
     "tags": []
+  },
+  {
+    "title": "Creating Rubrics in Brightspace",
+    "link": "https://events.cuny.edu/cec/creating-rubrics-in-brightspace-3/",
+    "college": "College of Staten Island",
+    "date": "2026-01-13",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
   },
   {
     "title": "THHS",
@@ -1952,11 +1984,11 @@
     "tags": []
   },
   {
-    "title": "MPH in Epidemiology and Biosatistics Information session",
-    "link": "https://sph.cuny.edu/event/mph-in-epidemiology-and-biosatistics-information-session/",
+    "title": "CUNY SPH Blood Drive",
+    "link": "https://sph.cuny.edu/event/cuny-sph-blood-drive-2/",
     "college": "CUNY School of Public Health",
     "date": "2026-02-25",
-    "time": "6:00PM",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -2133,6 +2165,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2026-01-16",
     "time": "07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Welcome Bash",
+    "link": "https://www.jjay.cuny.edu/news-events/events/welcome-bash",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-01-27",
+    "time": "06:40 PM",
     "tags": []
   },
   {
