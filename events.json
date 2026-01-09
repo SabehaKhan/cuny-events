@@ -40,6 +40,14 @@
     "tags": []
   },
   {
+    "title": "Virtual Bossgirls Info Session #1",
+    "link": "https://www.ccny.cuny.edu/calendar/virtual-bossgirls-info-session-1",
+    "college": "City College of New York",
+    "date": "2026-01-21",
+    "time": "05:30 PM - 06:30 PM",
+    "tags": []
+  },
+  {
     "title": "Rebrand & Reconnect: Alumni Career Refresh",
     "link": "https://www.ccny.cuny.edu/calendar/rebrand-reconnect-alumni-career-refresh",
     "college": "City College of New York",
@@ -101,6 +109,14 @@
     "college": "City College of New York",
     "date": "2026-02-01",
     "time": "12:00 AM - 11:59 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Bossgirls Info Session #2",
+    "link": "https://www.ccny.cuny.edu/calendar/virtual-bossgirls-info-session-2",
+    "college": "City College of New York",
+    "date": "2026-02-05",
+    "time": "05:30 PM - 06:30 PM",
     "tags": []
   },
   {
@@ -729,18 +745,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-01-09/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-09",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-01-12/",
     "college": "LaGuardia Community College",
@@ -1052,6 +1056,18 @@
     ]
   },
   {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-01-30/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-30",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Superman Movie Day",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376889",
     "college": "Guttman Community College",
@@ -1163,16 +1179,6 @@
       "TGG",
       "Meeting",
       "Student Life"
-    ]
-  },
-  {
-    "title": "RN-to-BS Nursing Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-8/",
-    "college": "Hunter College",
-    "date": "2026-01-09",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "Open Houses"
     ]
   },
   {
@@ -1457,6 +1463,16 @@
     ]
   },
   {
+    "title": "Study Abroad 101 Webinar",
+    "link": "https://www.hunter.cuny.edu/event/study-abroad-101-webinar-6/",
+    "college": "Hunter College",
+    "date": "2026-02-17",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Spring 2026 New Student Orientation",
     "link": "https://www.bmcc.cuny.edu/event/spring-2026-bmcc-new-student-orientation/2026-01-12/",
     "college": "Borough of Manhattan Community College",
@@ -1607,14 +1623,6 @@
       "Featured",
       "Student Affairs"
     ]
-  },
-  {
-    "title": "LGBTQI+ Spring Kickoff",
-    "link": "https://www.bcc.cuny.edu/event/lgbtqi-spring-kickoff/",
-    "college": "Bronx Community College",
-    "date": "2026-01-09",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
   },
   {
     "title": "Office of the Registrar Virtual Counter",
@@ -2625,7 +2633,7 @@
     ]
   },
   {
-    "title": "DRUPAL BASICS TRAINING",
+    "title": "DRUPAL TRAINING - BASICS",
     "link": "https://www.gc.cuny.edu/events/drupal-basics-training-jan-2026",
     "college": "CUNY Graduate Center",
     "date": "2026-01-14",
@@ -2647,7 +2655,7 @@
     ]
   },
   {
-    "title": "ADVANCED DRUPAL TRAINING",
+    "title": "DRUPAL TRAINING - ADVANCED",
     "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-jan-2026",
     "college": "CUNY Graduate Center",
     "date": "2026-01-14",
@@ -2666,6 +2674,17 @@
     "location": "Online",
     "tags": [
       "Graduate Center Digital Initiatives"
+    ]
+  },
+  {
+    "title": "THE TLC’S 2026 MID-WINTER INSTITUTE",
+    "link": "https://www.gc.cuny.edu/events/tlcs-2026-mid-winter-institute",
+    "college": "CUNY Graduate Center",
+    "date": "2026-01-20",
+    "time": "",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Teaching & Learning Center"
     ]
   },
   {
@@ -2712,17 +2731,6 @@
     "tags": [
       "Data Analysis and Visualization",
       "Admissions"
-    ]
-  },
-  {
-    "title": "COPLAND HOUSE ENSEMBLE: THEATER IN DISGUISE",
-    "link": "https://www.gc.cuny.edu/events/copland-house-ensemble-theater-disguise",
-    "college": "CUNY Graduate Center",
-    "date": "2026-02-03",
-    "time": "6:30 pm — 8:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
     ]
   },
   {
