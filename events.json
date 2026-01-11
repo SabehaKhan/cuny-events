@@ -1852,12 +1852,18 @@
     ]
   },
   {
-    "title": "ITS Media Upgrade",
-    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi9",
-    "college": "Queens College",
-    "date": "2026-01-10",
-    "time": "8:00AM",
-    "tags": []
+    "title": "Bluesky Training for Academics",
+    "link": "https://asrc.gc.cuny.edu/event/bluesky-training-for-academics/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2026-01-13",
+    "time": "12:30 PM - 1:30 PM",
+    "tags": [
+      "Environmental Sciences",
+      "Nanoscience",
+      "Neuroscience",
+      "Photonics",
+      "Structural Biology"
+    ]
   },
   {
     "title": "ITS Media Upgrade",
@@ -1953,14 +1959,6 @@
     "college": "Baruch College",
     "date": "2026-01-15",
     "time": "1:30PM",
-    "tags": []
-  },
-  {
-    "title": "NYC Deaf and Hard of Hearing Association",
-    "link": "https://citytech.event.cuny.edu/events/E4xxjqUZbz46fLNCHbUu/LWuKMmqn150KOPULK3o9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-01-10",
-    "time": "11:00AM",
     "tags": []
   },
   {
@@ -2102,6 +2100,14 @@
   {
     "title": "Student Organization Workshop",
     "link": "https://citytech.event.cuny.edu/events/A5NDG90jp5DvNoZK8bIw/FupCBrIpYmTCc8Ct0ftB",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-14",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "SLD: Student Organization Workshop",
+    "link": "https://citytech.event.cuny.edu/events/CJrJdkDtPMFKumXkoivs/m3kbMdixGIa480EakPT8",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-01-14",
     "time": "12:30PM",
