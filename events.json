@@ -1,13 +1,5 @@
 [
   {
-    "title": "UNU R-SIRUS Professional Development Workshop in Digital Earth and Artificial Intelligence for Sustainability",
-    "link": "https://www.ccny.cuny.edu/calendar/unu-r-sirus-professional-development-workshop-digital-earth-and-artificial-intelligence",
-    "college": "City College of New York",
-    "date": "2026-01-12",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": []
-  },
-  {
     "title": "CCNY CWE New Student Orientation | WELCOME!",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-cwe-new-student-orientation-welcome",
     "college": "City College of New York",
@@ -553,6 +545,16 @@
     ]
   },
   {
+    "title": "Digital Safety and Best Practices for Journalists",
+    "link": "https://www.journalism.cuny.edu/events/digital-safety-and-best-practices-for-journalists/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-02-05",
+    "time": "01:00 PM - 02:30 PM",
+    "tags": [
+      "Center for Community Media"
+    ]
+  },
+  {
     "title": "UN Holocaust Memorial Day",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/1992f52f-1df0-4735-8344-fcbff7eeb930",
     "college": "Kingsborough Community College",
@@ -743,17 +745,6 @@
     "date": "2026-06-03",
     "time": "03:00 PM - 07:00 PM",
     "tags": []
-  },
-  {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-01-12/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-12",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
   },
   {
     "title": "Baruch Business Academy Virtual Information Session",
@@ -1067,6 +1058,18 @@
     ]
   },
   {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-01-30/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-30",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Superman Movie Day",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376889",
     "college": "Guttman Community College",
@@ -1191,24 +1194,6 @@
       "Meeting",
       "Student Life"
     ]
-  },
-  {
-    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
-    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7/2026-01-12/",
-    "college": "Hunter College",
-    "date": "2026-01-12",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-14/",
-    "college": "Hunter College",
-    "date": "2026-01-12",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
   },
   {
     "title": "Graduate Nursing Information Session (Online)",
@@ -1484,15 +1469,25 @@
     ]
   },
   {
-    "title": "Spring 2026 New Student Orientation",
-    "link": "https://www.bmcc.cuny.edu/event/spring-2026-bmcc-new-student-orientation/2026-01-12/",
+    "title": "Inaugural Tea and Talk with Libba Bray",
+    "link": "https://www.hunter.cuny.edu/event/inaugural-tea-and-talk-with-libba-bray/",
+    "college": "Hunter College",
+    "date": "2026-02-19",
+    "time": "12:00 PM - 12:00 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (Online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-263/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-01-12",
-    "time": "10:00 AM - 03:00 PM",
+    "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Admissions",
-      "Featured",
-      "New Student Programs"
+      "Evening-Weekend",
+      "Featured"
     ]
   },
   {
@@ -1505,6 +1500,18 @@
       "Admissions",
       "Featured",
       "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "Spring 2026 New Student Orientation",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2026-bmcc-new-student-orientation/2026-01-13/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-01-13",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured",
+      "New Student Programs"
     ]
   },
   {
@@ -1576,18 +1583,6 @@
     ]
   },
   {
-    "title": "Healthy Relationships",
-    "link": "https://www.bmcc.cuny.edu/event/healthy-relationships/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-02-09",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Join us for Weekly Yoga Class",
     "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2/",
     "college": "Borough of Manhattan Community College",
@@ -1612,30 +1607,6 @@
     ]
   },
   {
-    "title": "Add Some Spring to Your Step: Tips for Blooming Mental Health",
-    "link": "https://www.bmcc.cuny.edu/event/add-some-spring-to-your-step-tips-for-blooming-mental-health/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-03-12",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Unwind Your Anxious Mind",
-    "link": "https://www.bmcc.cuny.edu/event/unwind-your-anxious-mind-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-10",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2026-01-26/",
     "college": "Bronx Community College",
@@ -1656,17 +1627,6 @@
     "tags": [
       "Administrative Meetings & Events",
       "Meetings"
-    ]
-  },
-  {
-    "title": "WSIA Workshop 1 & 2",
-    "link": "https://csi.campuslabs.com/engage/event/11890204",
-    "college": "College of Staten Island",
-    "date": "2026-01-12",
-    "time": "02:00 PM - 07:00 PM",
-    "tags": [
-      "Arts",
-      "Film and Television"
     ]
   },
   {
@@ -1776,6 +1736,17 @@
     ]
   },
   {
+    "title": "Weekly Tea Time!",
+    "link": "https://csi.campuslabs.com/engage/event/11946142",
+    "college": "College of Staten Island",
+    "date": "2026-02-11",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Social",
+      "Willowbrook Campus"
+    ]
+  },
+  {
     "title": "CAB Film Showings: Back to the Future",
     "link": "https://csi.campuslabs.com/engage/event/11956322",
     "college": "College of Staten Island",
@@ -1877,14 +1848,6 @@
       "Photonics",
       "Structural Biology"
     ]
-  },
-  {
-    "title": "Spring 2026 New Student Orientation",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10006476",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-01-13",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": []
   },
   {
     "title": "THHS",
@@ -2143,11 +2106,11 @@
     "tags": []
   },
   {
-    "title": "MPH in Community Health Information Session",
-    "link": "https://sph.cuny.edu/event/mph-in-community-health-information-session-6/",
+    "title": "Many Paths, One Movement: Approaches to Abortion Advocacy",
+    "link": "https://sph.cuny.edu/event/many-paths-one-movement-approaches-to-abortion-advocacy/",
     "college": "CUNY School of Public Health",
     "date": "2026-02-03",
-    "time": "6:00PM",
+    "time": "4:00PM",
     "tags": []
   },
   {
@@ -2303,11 +2266,51 @@
     "tags": []
   },
   {
+    "title": "Network Strategies Workshops",
+    "link": "https://www.lehman.edu/events/2026/Network-Strategies-Workshops.php",
+    "college": "Lehman College",
+    "date": "2026-01-12",
+    "time": "3:00 PM- 4:00 PM",
+    "tags": []
+  },
+  {
     "title": "Elevator Pitch",
     "link": "https://www.lehman.edu/events/2026/Elevator-Pitch-.php",
     "college": "Lehman College",
     "date": "2026-01-13",
     "time": "12:00 PM- 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Targeting Your Resume For The Career You Want Workshop",
+    "link": "https://www.lehman.edu/events/2026/Targeting-Your-Resume-For-The-Career-You-Want-Workshop.php",
+    "college": "Lehman College",
+    "date": "2026-01-13",
+    "time": "4:00 PM- 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Crafting A Perfect Cover Letter Workshop",
+    "link": "https://www.lehman.edu/events/2026/Crafting-A-Perfect-Cover-Letter-Workshop.php",
+    "college": "Lehman College",
+    "date": "2026-01-14",
+    "time": "12:00 PM- 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Your Job Search Action Plan Workshop",
+    "link": "https://www.lehman.edu/events/2026/Your-Job-Search-Action-Plan-Workshop.php",
+    "college": "Lehman College",
+    "date": "2026-01-14",
+    "time": "3:00 PM- 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Land Your Internship Workshop",
+    "link": "https://www.lehman.edu/events/2026/Land-Your-Internship-Workshop.php",
+    "college": "Lehman College",
+    "date": "2026-01-15",
+    "time": "3:00 PM- 4:00 PM",
     "tags": []
   },
   {
@@ -2319,67 +2322,27 @@
     "tags": []
   },
   {
+    "title": "Mastering The Art Of Interviewing Workshop",
+    "link": "https://www.lehman.edu/events/2026/Mastering-The-Art-Of-Interviewing-Workshop.php",
+    "college": "Lehman College",
+    "date": "2026-01-16",
+    "time": "3:00 PM- 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "LinkedIn Workshop",
+    "link": "https://www.lehman.edu/events/2026/LinkedIn-Workshop.php",
+    "college": "Lehman College",
+    "date": "2026-01-16",
+    "time": "3:00 PM- 4:00 PM",
+    "tags": []
+  },
+  {
     "title": "Social Work, MSW Information Session",
     "link": "https://www.lehman.edu/events/2026/Social-Work-MSW-Information-Session.php",
     "college": "Lehman College",
     "date": "2026-01-20",
     "time": "6:00 PM- 7:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Winter 2026 Commencement Ceremony",
-    "link": "https://www.lehman.edu/events/2026/Winter-2026-Commencement-Ceremony.php",
-    "college": "Lehman College",
-    "date": "2026-01-22",
-    "time": "10:00 AM- 12:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
-    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "2026-02-03",
-    "time": "6:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
-    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "2026-02-03",
-    "time": "6:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "UMLP 10th Annual Fundraiser: Investing in Potential. Elevating Leaders",
-    "link": "https://www.lehman.edu/events/2026/UMLP-10th-Annual-Fundraiser-Investing-in-Potential-Elevating-Leaders-1.php",
-    "college": "Lehman College",
-    "date": "2026-02-07",
-    "time": "10:00 AM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Organizational Leadership M.S. Information Session",
-    "link": "https://www.lehman.edu/events/2026/Organizational-Leadership-MS-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "2026-02-10",
-    "time": "6:00 PM- 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Ed.D. Organizational Leadership, Development and Change Information Session",
-    "link": "https://www.lehman.edu/events/2026/EdD-Organizational-Leadership-Development-and-Change-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "2026-02-11",
-    "time": "6:30 PM- 7:30 PM",
-    "tags": []
-  },
-  {
-    "title": "BA-Social Work Information Session",
-    "link": "https://www.lehman.edu/events/2026/BA-Social-Work-Information-Session-1.php",
-    "college": "Lehman College",
-    "date": "2026-02-17",
-    "time": "6:00 PM- 7:00 PM",
     "tags": []
   },
   {
@@ -2584,7 +2547,7 @@
   },
   {
     "title": "V-READY Jan 13",
-    "link": "https://www.york.cuny.edu/advisement/events/v-ready-jan13",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jan13",
     "college": "York College",
     "date": "2026-01-13",
     "time": "2:30 PM - 9:00 PM",
