@@ -48,14 +48,6 @@
     "tags": []
   },
   {
-    "title": "Rebrand & Reconnect: Alumni Career Refresh",
-    "link": "https://www.ccny.cuny.edu/calendar/rebrand-reconnect-alumni-career-refresh",
-    "college": "City College of New York",
-    "date": "2026-01-22",
-    "time": "05:30 PM - 07:30 PM",
-    "tags": []
-  },
-  {
     "title": "Final Examinations",
     "link": "https://www.ccny.cuny.edu/calendar/final-examinations-1",
     "college": "City College of New York",
@@ -85,6 +77,14 @@
     "college": "City College of New York",
     "date": "2026-01-26",
     "time": "12:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Rebrand & Reconnect: Alumni Career Refresh",
+    "link": "https://www.ccny.cuny.edu/calendar/rebrand-reconnect-alumni-career-refresh",
+    "college": "City College of New York",
+    "date": "2026-01-29",
+    "time": "05:30 PM - 07:30 PM",
     "tags": []
   },
   {
@@ -1879,6 +1879,14 @@
     ]
   },
   {
+    "title": "Spring 2026 New Student Orientation",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10006476",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-01-13",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
+  },
+  {
     "title": "THHS",
     "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/HpWK9GzqUSa0PNc6d0XT6",
     "college": "Queens College",
@@ -2295,6 +2303,14 @@
     "tags": []
   },
   {
+    "title": "Elevator Pitch",
+    "link": "https://www.lehman.edu/events/2026/Elevator-Pitch-.php",
+    "college": "Lehman College",
+    "date": "2026-01-13",
+    "time": "12:00 PM- 1:00 PM",
+    "tags": []
+  },
+  {
     "title": "Ed.D. Organizational Leadership, Development & Change Information Session",
     "link": "https://www.lehman.edu/events/2026/EdD-Organizational-Leadership-Development--Change-Information-Session.php",
     "college": "Lehman College",
@@ -2367,24 +2383,16 @@
     "tags": []
   },
   {
-    "title": "Tribute to Johnny Pacheco",
-    "link": "https://www.lehman.edu/events/2025/Tribute-to-Johnny-Pacheco.php",
-    "college": "Lehman College",
-    "date": "2026-02-21",
-    "time": "8:00 PM- 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Rikers Island & Mental Health: Data, Lived Experience & Diversion Strategies",
-    "link": "https://www.jjay.cuny.edu/news-events/events/rikers-island-mental-health-data-lived-experience-diversion-strategies",
+    "title": "Rikers Island & Mental Health",
+    "link": "https://www.jjay.cuny.edu/news-events/events/rikers-island-mental-health",
     "college": "John Jay College of Criminal Justice",
     "date": "2026-01-15",
     "time": "06:00 PM",
     "tags": []
   },
   {
-    "title": "Rising Scholars of Justice Program Info Session",
-    "link": "https://www.jjay.cuny.edu/news-events/events/rising-scholars-justice-program-info-session-1",
+    "title": "Rising Scholars of Justice Info Session",
+    "link": "https://www.jjay.cuny.edu/news-events/events/rising-scholars-justice-info-session",
     "college": "John Jay College of Criminal Justice",
     "date": "2026-01-16",
     "time": "07:00 PM",
@@ -2592,7 +2600,7 @@
   },
   {
     "title": "Spring 2026 New Student Orientation",
-    "link": "https://www.york.cuny.edu/events/spring-2026-new-student-orientation",
+    "link": "https://www.york.cuny.edu/events/2025/spring-2026-new-student-orientation",
     "college": "York College",
     "date": "2026-01-14",
     "time": "2:00 PM - 9:00 PM",
@@ -2741,6 +2749,17 @@
     ]
   },
   {
+    "title": "RECITAL: REBECCA MORANIS AND JOSEPH VAZ - MUSIC OF MADELINE BARRETT",
+    "link": "https://www.gc.cuny.edu/events/recital-rebecca-moranis-and-joseph-vaz-music-madeline-barrett",
+    "college": "CUNY Graduate Center",
+    "date": "2026-01-26",
+    "time": "7:30 pm — 9:30 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Music"
+    ]
+  },
+  {
     "title": "DRUPAL ACCESSIBILITY TRAINING",
     "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-jan-2026",
     "college": "CUNY Graduate Center",
@@ -2760,18 +2779,6 @@
     "location": "Online",
     "tags": [
       "Digital Humanities",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "M.S. IN DATA ANALYSIS AND VISUALIZATION - VIRTUAL OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/ms-data-analysis-and-visualization-virtual-open-house-feb-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-02-03",
-    "time": "6:00 pm — 7:00 pm",
-    "location": "Online",
-    "tags": [
-      "Data Analysis and Visualization",
       "Admissions"
     ]
   },
