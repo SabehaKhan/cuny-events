@@ -112,6 +112,14 @@
     "tags": []
   },
   {
+    "title": "American Landscapes - 18th Annual Black History Month Celebration",
+    "link": "https://www.ccny.cuny.edu/calendar/american-landscapes-18th-annual-black-history-month-celebration",
+    "college": "City College of New York",
+    "date": "2026-02-05",
+    "time": "07:00 PM - 09:00 PM",
+    "tags": []
+  },
+  {
     "title": "YASS! Mondays: Free & Confidential HIV & STI Testing",
     "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-19",
     "college": "City College of New York",
@@ -422,7 +430,7 @@
     "link": "https://www.law.cuny.edu/event/kristen-clarke-burns-chair-elie-mystal/",
     "college": "CUNY School of Law",
     "date": "2026-02-02",
-    "time": "12:30 PM - 01:30 PM",
+    "time": "12:30 PM - 02:30 PM",
     "tags": [
       "Special Event"
     ]
@@ -447,6 +455,22 @@
     "tags": [
       "Special Event"
     ]
+  },
+  {
+    "title": "Where Do You Go for Help? - ReOrientation",
+    "link": "https://www.law.cuny.edu/event/where-do-you-go-for-help-reorientation/2026-02-19/",
+    "college": "CUNY School of Law",
+    "date": "2026-02-19",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Where Do You Go for Help? - ReOrientation",
+    "link": "https://www.law.cuny.edu/event/where-do-you-go-for-help-reorientation/2026-02-26/",
+    "college": "CUNY School of Law",
+    "date": "2026-02-26",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": []
   },
   {
     "title": "Second Look Symposium",
@@ -479,6 +503,22 @@
     "tags": [
       "Special Event"
     ]
+  },
+  {
+    "title": "Where Do You Go for Help? - ReOrientation",
+    "link": "https://www.law.cuny.edu/event/where-do-you-go-for-help-reorientation/2026-03-23/",
+    "college": "CUNY School of Law",
+    "date": "2026-03-23",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Where Do You Go for Help? - ReOrientation",
+    "link": "https://www.law.cuny.edu/event/where-do-you-go-for-help-reorientation/2026-03-26/",
+    "college": "CUNY School of Law",
+    "date": "2026-03-26",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": []
   },
   {
     "title": "CUNY Law Alumni Connection Series",
@@ -1874,6 +1914,16 @@
     ]
   },
   {
+    "title": "Creating Quizzes in Brightspace",
+    "link": "https://events.cuny.edu/cec/creating-quizzes-in-brightspace-4/",
+    "college": "College of Staten Island",
+    "date": "2026-01-14",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
+  },
+  {
     "title": "Brightspace + UDL Workshop '25 Reunion",
     "link": "https://qc.event.cuny.edu/events/Q8l9vAjufd9ZNn1HKgCY/FuuCRXvVyRdYX10Pr8Wt",
     "college": "Queens College",
@@ -2186,11 +2236,19 @@
     "tags": []
   },
   {
-    "title": "MPH in Public Health Nutrition Information Session",
-    "link": "https://sph.cuny.edu/event/mph-in-public-health-nutrition-information-session-2/",
+    "title": "Coloniality, Global Health, and Reparations",
+    "link": "https://sph.cuny.edu/event/coloniality-global-health-and-reparations/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-02-19",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "Fellowship Discovery Series: OEPR Pipeline to Preparedness Fellowship Program",
+    "link": "https://sph.cuny.edu/event/fellowship-discovery-series-oepr-pipeline-to-preparedness-fellowship-program/",
     "college": "CUNY School of Public Health",
     "date": "2026-02-24",
-    "time": "6:00PM",
+    "time": "2:00PM",
     "tags": []
   },
   {
@@ -2198,6 +2256,14 @@
     "link": "https://sph.cuny.edu/event/cuny-sph-blood-drive-2/",
     "college": "CUNY School of Public Health",
     "date": "2026-02-25",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Employer Discovery Series: Claryx",
+    "link": "https://sph.cuny.edu/event/employer-discovery-series-claryx/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-03-04",
     "time": "12:00PM",
     "tags": []
   },
@@ -2466,6 +2532,14 @@
     "tags": []
   },
   {
+    "title": "Gender Equity Initiatives in NYC: Your Perspective Matters!",
+    "link": "https://www.jjay.cuny.edu/news-events/events/gender-equity-initiatives-nyc-your-perspective-matters",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-03-18",
+    "time": "10:30 PM",
+    "tags": []
+  },
+  {
     "title": "CareerCon: Education",
     "link": "https://www.jjay.cuny.edu/news-events/events/careercon-education",
     "college": "John Jay College of Criminal Justice",
@@ -2479,6 +2553,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2026-03-26",
     "time": "03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Leaders of Justice: Major Treneé D. Young ‘06",
+    "link": "https://www.jjay.cuny.edu/news-events/events/leaders-justice-major-trenee-d-young-06",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-03-26",
+    "time": "05:45 PM",
     "tags": []
   },
   {
@@ -2602,6 +2684,14 @@
     "tags": []
   },
   {
+    "title": "V-READY Jan 16",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jan16",
+    "college": "York College",
+    "date": "2026-01-16",
+    "time": "2:30 PM - 9:00 PM",
+    "tags": []
+  },
+  {
     "title": "Women’s Basketball vs. Baruch College",
     "link": "https://www.york.cuny.edu/events/2025/womens-basketball-vs-baruch-01162026",
     "college": "York College",
@@ -2644,14 +2734,6 @@
   {
     "title": "Final Examinations",
     "link": "https://www.york.cuny.edu/registrar/calendar/winter/final-examinations-1",
-    "college": "York College",
-    "date": "2026-01-23",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
-    "title": "End of Winter 2026 Session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/winter/end-of-winter-2026-session",
     "college": "York College",
     "date": "2026-01-23",
     "time": "5:00 AM - 4:59 AM",
