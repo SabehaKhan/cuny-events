@@ -447,16 +447,6 @@
     ]
   },
   {
-    "title": "February Dean's Lunch",
-    "link": "https://www.law.cuny.edu/event/february-deans-lunch/",
-    "college": "CUNY School of Law",
-    "date": "2026-02-10",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Special Event"
-    ]
-  },
-  {
     "title": "Where Do You Go for Help? - ReOrientation",
     "link": "https://www.law.cuny.edu/event/where-do-you-go-for-help-reorientation/2026-02-19/",
     "college": "CUNY School of Law",
@@ -495,16 +485,6 @@
     ]
   },
   {
-    "title": "March Dean's Lunch",
-    "link": "https://www.law.cuny.edu/event/march-deans-lunch/",
-    "college": "CUNY School of Law",
-    "date": "2026-03-17",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Special Event"
-    ]
-  },
-  {
     "title": "Where Do You Go for Help? - ReOrientation",
     "link": "https://www.law.cuny.edu/event/where-do-you-go-for-help-reorientation/2026-03-23/",
     "college": "CUNY School of Law",
@@ -532,16 +512,6 @@
     ]
   },
   {
-    "title": "April Dean's Lunch",
-    "link": "https://www.law.cuny.edu/event/april-deans-lunch/",
-    "college": "CUNY School of Law",
-    "date": "2026-04-07",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Special Event"
-    ]
-  },
-  {
     "title": "CUNY Law Alumni Connection Series",
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-may/",
     "college": "CUNY School of Law",
@@ -561,16 +531,6 @@
     "tags": [
       "Alumni",
       "Networking Event"
-    ]
-  },
-  {
-    "title": "June Dean's Lunch",
-    "link": "https://www.law.cuny.edu/event/june-deans-lunch/",
-    "college": "CUNY School of Law",
-    "date": "2026-06-09",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Special Event"
     ]
   },
   {
@@ -787,17 +747,6 @@
     "tags": []
   },
   {
-    "title": "Baruch Business Academy Virtual Information Session",
-    "link": "https://www.laguardia.edu/event/baruch-business-academy-virtual-information-session-8/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-13",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Wednesdays (In-Person)",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person-2/2026-01-14/",
     "college": "LaGuardia Community College",
@@ -887,6 +836,17 @@
     ]
   },
   {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-93/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-21",
+    "time": "09:30 AM - 10:30 AM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
     "title": "Mindfulness Meditation Wednesdays (In-Person)",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person-2/2026-01-21/",
     "college": "LaGuardia Community College",
@@ -939,6 +899,17 @@
     "tags": [
       "all calendars",
       "student events"
+    ]
+  },
+  {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-94/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-22",
+    "time": "09:30 AM - 10:30 AM",
+    "tags": [
+      "admissions",
+      "all calendars"
     ]
   },
   {
@@ -1043,6 +1014,17 @@
     ]
   },
   {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-95/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-28",
+    "time": "09:30 AM - 10:30 AM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
     "title": "Mindfulness Meditation Wednesdays (In-Person)",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person-2/2026-01-28/",
     "college": "LaGuardia Community College",
@@ -1065,44 +1047,21 @@
     ]
   },
   {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-96/",
+    "college": "LaGuardia Community College",
+    "date": "2026-01-29",
+    "time": "09:30 AM - 10:30 AM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
     "title": "Mindfulness Meditation Thursdays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-2/2026-01-29/",
     "college": "LaGuardia Community College",
     "date": "2026-01-29",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Baruch Business Academy Virtual Information Session",
-    "link": "https://www.laguardia.edu/event/baruch-business-academy-virtual-information-session-11/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-29",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-01-30/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-30",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-02-02/",
-    "college": "LaGuardia Community College",
-    "date": "2026-02-02",
     "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
@@ -1188,6 +1147,32 @@
     ]
   },
   {
+    "title": "A Conversation on Race in America: What Is Black?",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376904",
+    "college": "Guttman Community College",
+    "date": "2026-02-03",
+    "time": "08:00 PM - 09:30 PM",
+    "tags": [
+      "OSL",
+      "Educational/Awareness",
+      "Black History Month",
+      "Student Life"
+    ]
+  },
+  {
+    "title": "Movie Marathon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376905",
+    "college": "Guttman Community College",
+    "date": "2026-02-05",
+    "time": "06:00 PM - 09:00 PM",
+    "tags": [
+      "OSL",
+      "Cultural/Heritage",
+      "Black History Month",
+      "Student Life"
+    ]
+  },
+  {
     "title": "Gaming Grizzlies Weekly Freeplay",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376895",
     "college": "Guttman Community College",
@@ -1236,14 +1221,6 @@
     ]
   },
   {
-    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-13/",
-    "college": "Hunter College",
-    "date": "2026-01-14",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": []
-  },
-  {
     "title": "Bachelor of Science in Nursing Generic Program Information Session",
     "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-8/",
     "college": "Hunter College",
@@ -1272,14 +1249,6 @@
     "tags": [
       "Special Events"
     ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-14/",
-    "college": "Hunter College",
-    "date": "2026-01-21",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": []
   },
   {
     "title": "Study Abroad 101 Webinar",
@@ -1363,14 +1332,6 @@
     ]
   },
   {
-    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-15/",
-    "college": "Hunter College",
-    "date": "2026-01-28",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": []
-  },
-  {
     "title": "Promoting Civil Discourse & Intellectual Dialogue Series - States of Incarceration",
     "link": "https://www.hunter.cuny.edu/event/promoting-civil-discourse-intellectual-dialogue-series-states-of-incarceration/",
     "college": "Hunter College",
@@ -1389,14 +1350,6 @@
     "tags": [
       "Open Houses"
     ]
-  },
-  {
-    "title": "FAFSA/TAP Helpdesk In-person Wednesdays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-wednesdays-16/",
-    "college": "Hunter College",
-    "date": "2026-02-04",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": []
   },
   {
     "title": "Study Abroad Fair",
@@ -1519,6 +1472,47 @@
     ]
   },
   {
+    "title": "Will Signing Party",
+    "link": "https://www.hunter.cuny.edu/event/will-signing-party/2026-02-26/",
+    "college": "Hunter College",
+    "date": "2026-02-26",
+    "time": "04:00 PM - 06:00 PM",
+    "tags": [
+      "Special Events"
+    ]
+  },
+  {
+    "title": "Black History Month Book Talk: \"A Dream Deferred: Jesse Jackson and the Fight for Black Political Power\"",
+    "link": "https://www.hunter.cuny.edu/event/black-history-month-book-talk-a-dream-deferred-jesse-jackson-and-the-fight-for-black-political-power/",
+    "college": "Hunter College",
+    "date": "2026-02-26",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
+    "title": "American Classical Orchestra at Hunter College",
+    "link": "https://www.hunter.cuny.edu/event/american-classical-orchestra-at-hunter-college/",
+    "college": "Hunter College",
+    "date": "2026-03-03",
+    "time": "06:30 PM - 06:30 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "MFA Playwriting Reading Series: Maia Matsushita",
+    "link": "https://www.hunter.cuny.edu/event/mfa-playwriting-reading-series-maia-matsushita/",
+    "college": "Hunter College",
+    "date": "2026-03-06",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Performing Arts & Film",
+      "Student Events"
+    ]
+  },
+  {
     "title": "International F-1 Student Orientation",
     "link": "https://www.bmcc.cuny.edu/event/international-f-1-student-orientation/2026-01-13/",
     "college": "Borough of Manhattan Community College",
@@ -1532,25 +1526,14 @@
   },
   {
     "title": "Spring 2026 New Student Orientation",
-    "link": "https://www.bmcc.cuny.edu/event/spring-2026-bmcc-new-student-orientation/2026-01-13/",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2026-bmcc-new-student-orientation/2026-01-14/",
     "college": "Borough of Manhattan Community College",
-    "date": "2026-01-13",
+    "date": "2026-01-14",
     "time": "10:00 AM - 03:00 PM",
     "tags": [
       "Admissions",
       "Featured",
       "New Student Programs"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (Online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-263-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-01-13",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
     ]
   },
   {
@@ -1646,6 +1629,90 @@
     ]
   },
   {
+    "title": "Resume and Cover Letter Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/resume-and-cover-letter-workshop/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-02-24",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "The Power of Connections: Networking for Success",
+    "link": "https://www.bmcc.cuny.edu/event/the-power-of-connections-networking-for-success-8/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-02-26",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Networking as an Introvert",
+    "link": "https://www.bmcc.cuny.edu/event/networking-as-an-introvert-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-03",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Storytelling 101",
+    "link": "https://www.bmcc.cuny.edu/event/storytelling-101-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-05",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Job Fair Prep",
+    "link": "https://www.bmcc.cuny.edu/event/job-fair-prep/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-10",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Spring 2026 Job Fair",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-spring-2026-job-fair/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-11",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Essential Job Search Strategies for Success",
+    "link": "https://www.bmcc.cuny.edu/event/essential-job-search-strategies-for-success-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-17",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2026-01-26/",
     "college": "Bronx Community College",
@@ -1678,21 +1745,6 @@
       "Feature",
       "Office of the Registrar",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "WSIA Workshop 3 & 4",
-    "link": "https://csi.campuslabs.com/engage/event/11890207",
-    "college": "College of Staten Island",
-    "date": "2026-01-13",
-    "time": "02:00 PM - 07:00 PM",
-    "tags": [
-      "Arts",
-      "Leadership",
-      "Learning",
-      "Film and Television",
-      "Entertainment",
-      "Career Development"
     ]
   },
   {
@@ -1921,6 +1973,27 @@
     "time": "3:00 PM - 4:00 PM",
     "tags": [
       "Center for Teaching and Learning"
+    ]
+  },
+  {
+    "title": "Angola, Do You Hear Us? – Reimagining Justice through Art",
+    "link": "https://events.cuny.edu/cec/angola-do-you-hear-us-reimagining-justice-through-art/",
+    "college": "CUNY School of Professional Studies",
+    "date": "2026-01-14",
+    "time": "6:00 PM",
+    "tags": [
+      "social justice",
+      "youth studies"
+    ]
+  },
+  {
+    "title": "Nanoscience Joint Guest Presentation: Dr. Luke Baldwin & Dr. Peter A. Mirau, Air Force Research Laboratories (AFRL)",
+    "link": "https://asrc.gc.cuny.edu/event/nanoscience-joint-guest-presentation-dr-luke-baldwin-dr-peter-a-mirau-air-force-research-laboratories-afrl/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2026-01-14",
+    "time": "1:00 PM - 2:00 PM",
+    "tags": [
+      "Nanoscience"
     ]
   },
   {
@@ -2652,94 +2725,6 @@
     "tags": []
   },
   {
-    "title": "V-READY Jan 13",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jan13",
-    "college": "York College",
-    "date": "2026-01-13",
-    "time": "2:30 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Nursing Information Session",
-    "link": "https://www.york.cuny.edu/events/2025/nursing-information-session-4",
-    "college": "York College",
-    "date": "2026-01-13",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Spring 2026 New Student Orientation",
-    "link": "https://www.york.cuny.edu/events/2025/spring-2026-new-student-orientation",
-    "college": "York College",
-    "date": "2026-01-14",
-    "time": "2:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for Winter 2026 session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/winter/r2t4-60-date-for-winter-2026-session",
-    "college": "York College",
-    "date": "2026-01-15",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jan 16",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jan16",
-    "college": "York College",
-    "date": "2026-01-16",
-    "time": "2:30 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Basketball vs. Baruch College",
-    "link": "https://www.york.cuny.edu/events/2025/womens-basketball-vs-baruch-01162026",
-    "college": "York College",
-    "date": "2026-01-16",
-    "time": "10:00 PM - 12:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Basketball vs. Baruch College",
-    "link": "https://www.york.cuny.edu/events/2025/mens-basketball-vs-baruch-01162026",
-    "college": "York College",
-    "date": "2026-01-17",
-    "time": "12:00 AM - 2:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Basketball vs. Brooklyn College",
-    "link": "https://www.york.cuny.edu/events/2025/womens-basketball-vs-brooklyn-01212026",
-    "college": "York College",
-    "date": "2026-01-21",
-    "time": "10:00 PM - 12:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Basketball vs. Brooklyn College",
-    "link": "https://www.york.cuny.edu/events/2025/mens-basketball-vs-brooklyn-01212026",
-    "college": "York College",
-    "date": "2026-01-22",
-    "time": "12:00 AM - 2:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Swimming vs. Hunter College",
-    "link": "https://www.york.cuny.edu/events/2025/swimming-vs-hunter-01222026",
-    "college": "York College",
-    "date": "2026-01-22",
-    "time": "11:00 PM - 1:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/winter/final-examinations-1",
-    "college": "York College",
-    "date": "2026-01-23",
-    "time": "5:00 AM - 4:59 AM",
-    "tags": []
-  },
-  {
     "title": "BLUESKY TRAINING FOR ACADEMICS",
     "link": "https://www.gc.cuny.edu/events/bluesky-training-academics",
     "college": "CUNY Graduate Center",
@@ -2829,6 +2814,15 @@
     ]
   },
   {
+    "title": "LINKEDIN TRAINING FOR ACADEMICS",
+    "link": "https://www.gc.cuny.edu/events/linkedin-training-academics",
+    "college": "CUNY Graduate Center",
+    "date": "2026-01-28",
+    "time": "12:30 pm — 1:30 pm",
+    "location": "Online",
+    "tags": []
+  },
+  {
     "title": "DRUPAL ACCESSIBILITY TRAINING",
     "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-jan-2026",
     "college": "CUNY Graduate Center",
@@ -2837,18 +2831,6 @@
     "location": "Online",
     "tags": [
       "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "M.A. IN DIGITAL HUMANITIES - VIRTUAL OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/ma-digital-humanities-virtual-open-house-feb-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-02-03",
-    "time": "5:00 pm — 6:00 pm",
-    "location": "Online",
-    "tags": [
-      "Digital Humanities",
-      "Admissions"
     ]
   },
   {
