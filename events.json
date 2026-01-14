@@ -620,14 +620,6 @@
   },
   {
     "title": "Transfer Talks: Your Transfer Out Journey",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/2b89218f-819e-4d8a-81b2-4c643f582826",
-    "college": "Kingsborough Community College",
-    "date": "2026-01-13",
-    "time": "05:00 PM - 05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Transfer Talks: Your Transfer Out Journey",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/e1812980-fc21-4afb-9e80-37c6c78e685e",
     "college": "Kingsborough Community College",
     "date": "2026-02-24",
@@ -1147,32 +1139,6 @@
     ]
   },
   {
-    "title": "A Conversation on Race in America: What Is Black?",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376904",
-    "college": "Guttman Community College",
-    "date": "2026-02-03",
-    "time": "08:00 PM - 09:30 PM",
-    "tags": [
-      "OSL",
-      "Educational/Awareness",
-      "Black History Month",
-      "Student Life"
-    ]
-  },
-  {
-    "title": "Movie Marathon",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376905",
-    "college": "Guttman Community College",
-    "date": "2026-02-05",
-    "time": "06:00 PM - 09:00 PM",
-    "tags": [
-      "OSL",
-      "Cultural/Heritage",
-      "Black History Month",
-      "Student Life"
-    ]
-  },
-  {
     "title": "Gaming Grizzlies Weekly Freeplay",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376895",
     "college": "Guttman Community College",
@@ -1513,18 +1479,6 @@
     ]
   },
   {
-    "title": "International F-1 Student Orientation",
-    "link": "https://www.bmcc.cuny.edu/event/international-f-1-student-orientation/2026-01-13/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-01-13",
-    "time": "09:30 AM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
     "title": "Spring 2026 New Student Orientation",
     "link": "https://www.bmcc.cuny.edu/event/spring-2026-bmcc-new-student-orientation/2026-01-14/",
     "college": "Borough of Manhattan Community College",
@@ -1605,6 +1559,18 @@
     ]
   },
   {
+    "title": "BMCC Blood Drive: Make a Difference by Donating Blood",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-blood-drive-make-a-difference-by-donating-blood-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-02-05",
+    "time": "12:00 PM - 06:00 PM",
+    "tags": [
+      "Evening-Weekend",
+      "Featured",
+      "Health Services"
+    ]
+  },
+  {
     "title": "Join us for Weekly Yoga Class",
     "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2/",
     "college": "Borough of Manhattan Community College",
@@ -1626,6 +1592,18 @@
       "Featured",
       "Office of Student Activities (OSA)",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "BMCC Blood Drive: Make a Difference by Donating Blood",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-blood-drive-make-a-difference-by-donating-blood-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-02-18",
+    "time": "12:00 PM - 06:00 PM",
+    "tags": [
+      "Evening-Weekend",
+      "Featured",
+      "Health Services"
     ]
   },
   {
@@ -1706,6 +1684,102 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-03-17",
     "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "How to Succeed in Your Next Interview",
+    "link": "https://www.bmcc.cuny.edu/event/how-to-succeed-in-your-next-interview/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-19",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Salary Negotiations by Amy Geffen",
+    "link": "https://www.bmcc.cuny.edu/event/salary-negotiations-by-amy-geffen/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-26",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Networking as an Introvert",
+    "link": "https://www.bmcc.cuny.edu/event/networking-as-an-introvert-5/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-14",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Resume and Cover Letter Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/resume-and-cover-letter-workshop-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-16",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "The Power of Connections: Networking for Success",
+    "link": "https://www.bmcc.cuny.edu/event/the-power-of-connections-networking-for-success-9/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-28",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "How to Succeed in Your Next Interview",
+    "link": "https://www.bmcc.cuny.edu/event/how-to-succeed-in-your-next-interview-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-30",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Essential Job Search Strategies for Success",
+    "link": "https://www.bmcc.cuny.edu/event/essential-job-search-strategies-for-success-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-05",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Storytelling 101",
+    "link": "https://www.bmcc.cuny.edu/event/storytelling-101-5/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-07",
+    "time": "02:00 PM - 05:00 PM",
     "tags": [
       "Career Workshops/Fairs",
       "Center for Career Development",
@@ -1894,50 +1968,6 @@
     ]
   },
   {
-    "title": "Creating Rubrics in Brightspace",
-    "link": "https://events.cuny.edu/cec/creating-rubrics-in-brightspace-3/",
-    "college": "College of Staten Island",
-    "date": "2026-01-13",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Center for Teaching and Learning"
-    ]
-  },
-  {
-    "title": "Creating Accessible Documents for Course Contents",
-    "link": "https://events.cuny.edu/cec/creating-accessible-documents-for-course-contents/",
-    "college": "College of Staten Island",
-    "date": "2026-01-13",
-    "time": "3:00 PM - 4:00 PM",
-    "tags": [
-      "Center for Teaching and Learning"
-    ]
-  },
-  {
-    "title": "Epigenetics Core Presents: Hands-on Bioinformatics: Exploring Single Cell RNA-Seq",
-    "link": "https://asrc.gc.cuny.edu/event/hands-on-bioinformatics-exploring-single-cell-rna-seq/",
-    "college": "Advanced Science Research Center, GC/CUNY",
-    "date": "2026-01-13",
-    "time": "10:00 AM - 5:00 PM",
-    "tags": [
-      "Neuroscience"
-    ]
-  },
-  {
-    "title": "Bluesky Training for Academics",
-    "link": "https://asrc.gc.cuny.edu/event/bluesky-training-for-academics/",
-    "college": "Advanced Science Research Center, GC/CUNY",
-    "date": "2026-01-13",
-    "time": "12:30 PM - 1:30 PM",
-    "tags": [
-      "Environmental Sciences",
-      "Nanoscience",
-      "Neuroscience",
-      "Photonics",
-      "Structural Biology"
-    ]
-  },
-  {
     "title": "Direct Admissions Day",
     "link": "https://events.cuny.edu/cec/direct-admissions-day-2/",
     "college": "Queens College",
@@ -1997,36 +2027,22 @@
     ]
   },
   {
-    "title": "Brightspace + UDL Workshop '25 Reunion",
-    "link": "https://qc.event.cuny.edu/events/Q8l9vAjufd9ZNn1HKgCY/FuuCRXvVyRdYX10Pr8Wt",
-    "college": "Queens College",
-    "date": "2026-01-13",
-    "time": "8:00AM",
+    "title": "Ed.D. Organizational Leadership, Development & Change Information Session",
+    "link": "https://lehman.edu/events/2026/EdD-Organizational-Leadership-Development--Change-Information-Session.php",
+    "college": "Lehman College",
+    "date": "2026-01-15",
+    "time": "6:30 PM - 7:30 PM",
     "tags": []
   },
   {
-    "title": "THHS",
-    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/HpWK9GzqUSa0PNc6d0XT7",
-    "college": "Queens College",
-    "date": "2026-01-13",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ITS Media Upgrade",
-    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi12",
-    "college": "Queens College",
-    "date": "2026-01-13",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "School of Ed: Team Members Workshhop",
-    "link": "https://qc.event.cuny.edu/events/QA0Xs9BmlP5E6JogI6wD/azMtLXJamaIhpeJfDNh8",
-    "college": "Queens College",
-    "date": "2026-01-13",
-    "time": "8:30AM",
-    "tags": []
+    "title": "Neuroscience Spring 2026 Seminar Series – Anna Orr",
+    "link": "https://asrc.gc.cuny.edu/event/neuroscience-spring-2026-seminar-series-anna-orr/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2026-01-15",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": [
+      "Neuroscience"
+    ]
   },
   {
     "title": "THHS",
@@ -2077,75 +2093,43 @@
     "tags": []
   },
   {
+    "title": "Enrollment Assistance Day",
+    "link": "https://qc.event.cuny.edu/events/W2Z1a0QHe7hknKKAAYlE/g3ZOhAEwj8vpdmffn4pJ",
+    "college": "Queens College",
+    "date": "2026-01-15",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "THHS",
+    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/HpWK9GzqUSa0PNc6d0XT10",
+    "college": "Queens College",
+    "date": "2026-01-16",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "ITS Media Upgrade",
+    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi15",
+    "college": "Queens College",
+    "date": "2026-01-16",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "ITS Media Upgrade",
+    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi16",
+    "college": "Queens College",
+    "date": "2026-01-17",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
     "title": "Newman Real Estate Institute conference",
     "link": "https://baruch.event.cuny.edu/events/NAHNEp0EBJYCEvoGsDFF/TMGvgyNKOCsoPh63uYbz",
     "college": "Baruch College",
     "date": "2026-01-15",
     "time": "1:30PM",
-    "tags": []
-  },
-  {
-    "title": "Living Lab General Education Seminar",
-    "link": "https://citytech.event.cuny.edu/events/Yjz9XqdewH9s7SlrsQzk/KxLU2D0ONvVZ83XOE51E2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-01-13",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Training Sessions for NYPIRG Staff",
-    "link": "https://citytech.event.cuny.edu/events/m3MZI26u4fSYM4FZfuYh/TVubrAAr304p7O7JSsOl2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-01-13",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Nursing Pinning Ceremony",
-    "link": "https://citytech.event.cuny.edu/events/W9vd9sMXEwC2erMzvyQA/jfj7Da84qmUOPIJJzgmu",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-01-13",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Financial Aid Workshop",
-    "link": "https://citytech.event.cuny.edu/events/PPwRdi2ZuEp8U5J8JWAu/xnbM9dQoFoEh1TCmNDZ8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-01-13",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "US Marines Information Tabling",
-    "link": "https://citytech.event.cuny.edu/events/T2IBrYpMVYAz7O5iwfFX/NcNWswHIu1KCkbZn7M3B1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-01-13",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "City Tech Spring 2026 Accepted Student Tour",
-    "link": "https://citytech.event.cuny.edu/events/ErtC71YhaTG30kAa0KM5/npEIJuCprOR2JEKLrLaj",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-01-13",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "HSEN & W2: High School Equivalency",
-    "link": "https://citytech.event.cuny.edu/events/OTCfqsR4n1PtWGiYBPcj/UKLUOzUjTxyv0v6Ejuno1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-01-13",
-    "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "HSDN & W1: High School Equivalency",
-    "link": "https://citytech.event.cuny.edu/events/YMMOUdF2UlmqwdBTRGcI/mY0W5ZHEjtUUAPtgBEDV1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-01-13",
-    "time": "6:00PM",
     "tags": []
   },
   {
@@ -2233,6 +2217,62 @@
     "link": "https://citytech.event.cuny.edu/events/m3MZI26u4fSYM4FZfuYh/TVubrAAr304p7O7JSsOl4",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-01-15",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Spring 2026 New Student Orientation Volunteer Training",
+    "link": "https://citytech.event.cuny.edu/events/uMzYo5lyn3LbokjWH3WO/IAplH1EAWieHSVk5EDB0",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-15",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "City Tech Winter 2026 General Tour (01/15/26)",
+    "link": "https://citytech.event.cuny.edu/events/T9yA0UmqyT002edYdUyt/cUbkp5PD5CO4v84wQTNX",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-15",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "HSEN & W2: High School Equivalency",
+    "link": "https://citytech.event.cuny.edu/events/OTCfqsR4n1PtWGiYBPcj/UKLUOzUjTxyv0v6Ejuno3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-15",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "HSDN & W1: High School Equivalency",
+    "link": "https://citytech.event.cuny.edu/events/YMMOUdF2UlmqwdBTRGcI/mY0W5ZHEjtUUAPtgBEDV3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-15",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "High School Equivalency Math",
+    "link": "https://citytech.event.cuny.edu/events/uacMU14Qwm4rXdNYGrCi/RZFQSlLFS8nzWA1LIlwm1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-16",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Training Sessions for NYPIRG Staff",
+    "link": "https://citytech.event.cuny.edu/events/m3MZI26u4fSYM4FZfuYh/TVubrAAr304p7O7JSsOl5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-16",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center ESOL Classes",
+    "link": "https://citytech.event.cuny.edu/events/olAQjOpGY7PWGxuzV0R1/eZKywaVvOCLgmJG9qCZT5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-16",
     "time": "9:00AM",
     "tags": []
   },
@@ -2341,11 +2381,11 @@
     "tags": []
   },
   {
-    "title": "Complete your Application Day",
-    "link": "https://sph.cuny.edu/event/complete-your-application-day-17/",
+    "title": "Fellowship Discovery Series: U.S. Student Fulbright Program",
+    "link": "https://sph.cuny.edu/event/fellowship-discovery-series-u-s-student-fulbright-program/",
     "college": "CUNY School of Public Health",
     "date": "2026-03-12",
-    "time": "6:00PM",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -2429,22 +2469,6 @@
     "tags": []
   },
   {
-    "title": "Elevator Pitch",
-    "link": "https://www.lehman.edu/events/2026/Elevator-Pitch-.php",
-    "college": "Lehman College",
-    "date": "2026-01-13",
-    "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Targeting Your Resume For The Career You Want Workshop",
-    "link": "https://www.lehman.edu/events/2026/Targeting-Your-Resume-For-The-Career-You-Want-Workshop.php",
-    "college": "Lehman College",
-    "date": "2026-01-13",
-    "time": "4:00 PM- 5:00 PM",
-    "tags": []
-  },
-  {
     "title": "Crafting A Perfect Cover Letter Workshop",
     "link": "https://www.lehman.edu/events/2026/Crafting-A-Perfect-Cover-Letter-Workshop.php",
     "college": "Lehman College",
@@ -2506,6 +2530,22 @@
     "college": "Lehman College",
     "date": "2026-01-16",
     "time": "12:00 PM- 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "LinkedIn Workshop",
+    "link": "https://www.lehman.edu/events/2026/LinkedIn-Workshop.php",
+    "college": "Lehman College",
+    "date": "2026-01-16",
+    "time": "3:00 PM- 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Social Work, MSW Information Session",
+    "link": "https://www.lehman.edu/events/2026/Social-Work-MSW-Information-Session.php",
+    "college": "Lehman College",
+    "date": "2026-01-20",
+    "time": "6:00 PM- 7:30 PM",
     "tags": []
   },
   {
@@ -2725,16 +2765,92 @@
     "tags": []
   },
   {
-    "title": "BLUESKY TRAINING FOR ACADEMICS",
-    "link": "https://www.gc.cuny.edu/events/bluesky-training-academics",
-    "college": "CUNY Graduate Center",
-    "date": "2026-01-13",
-    "time": "12:30 pm — 1:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing",
-      "Advanced Science Research Center"
-    ]
+    "title": "Spring 2026 New Student Orientation",
+    "link": "https://www.york.cuny.edu/events/2025/spring-2026-new-student-orientation",
+    "college": "York College",
+    "date": "2026-01-14",
+    "time": "2:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for Winter 2026 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/winter/r2t4-60-date-for-winter-2026-session",
+    "college": "York College",
+    "date": "2026-01-15",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jan 16",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jan16",
+    "college": "York College",
+    "date": "2026-01-16",
+    "time": "2:30 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Basketball vs. Baruch College",
+    "link": "https://www.york.cuny.edu/events/2025/womens-basketball-vs-baruch-01162026",
+    "college": "York College",
+    "date": "2026-01-16",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Basketball vs. Baruch College",
+    "link": "https://www.york.cuny.edu/events/2025/mens-basketball-vs-baruch-01162026",
+    "college": "York College",
+    "date": "2026-01-17",
+    "time": "12:00 AM - 2:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Basketball vs. Brooklyn College",
+    "link": "https://www.york.cuny.edu/events/2025/womens-basketball-vs-brooklyn-01212026",
+    "college": "York College",
+    "date": "2026-01-21",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Basketball vs. Brooklyn College",
+    "link": "https://www.york.cuny.edu/events/2025/mens-basketball-vs-brooklyn-01212026",
+    "college": "York College",
+    "date": "2026-01-22",
+    "time": "12:00 AM - 2:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Swimming vs. Hunter College",
+    "link": "https://www.york.cuny.edu/events/2025/swimming-vs-hunter-01222026",
+    "college": "York College",
+    "date": "2026-01-22",
+    "time": "11:00 PM - 1:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/winter/final-examinations-1",
+    "college": "York College",
+    "date": "2026-01-23",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "End of Winter 2026 Session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/winter/end-of-winter-2026-session",
+    "college": "York College",
+    "date": "2026-01-23",
+    "time": "5:00 AM - 4:59 AM",
+    "tags": []
+  },
+  {
+    "title": "2026 Legislative Breakfast",
+    "link": "https://www.york.cuny.edu/events/2026/2026-legislative-breakfast",
+    "college": "York College",
+    "date": "2026-01-23",
+    "time": "2:30 PM - 4:00 PM",
+    "tags": []
   },
   {
     "title": "DRUPAL TRAINING - BASICS",
@@ -2831,6 +2947,18 @@
     "location": "Online",
     "tags": [
       "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "M.A. IN DIGITAL HUMANITIES - VIRTUAL OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/ma-digital-humanities-virtual-open-house-feb-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-02-03",
+    "time": "5:00 pm — 6:00 pm",
+    "location": "Online",
+    "tags": [
+      "Digital Humanities",
+      "Admissions"
     ]
   },
   {
