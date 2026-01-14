@@ -424,6 +424,16 @@
     "tags": []
   },
   {
+    "title": "19th Annual Social Work Conference",
+    "link": "https://www.mec.cuny.edu/event/19th-annual-social-work-conference/",
+    "college": "Medgar Evers College",
+    "date": "2026-03-19",
+    "time": "08:00 AM - 04:00 PM",
+    "tags": [
+      "Transition Academy"
+    ]
+  },
+  {
     "title": "2nd Annual CUNY-wide Pre-Law Conference",
     "link": "https://www.law.cuny.edu/event/2nd-annual-cuny-wide-pre-law-conference/",
     "college": "CUNY School of Law",
@@ -1109,15 +1119,16 @@
     ]
   },
   {
-    "title": "Gaming Grizzlies Weekly Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376893",
+    "title": "Open Mic Night",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376899",
     "college": "Guttman Community College",
-    "date": "2026-01-22",
+    "date": "2026-01-27",
     "time": "08:00 PM - 10:00 PM",
     "tags": [
-      "TGG",
-      "Meeting",
-      "Student Life"
+      "PLP",
+      "Social",
+      "Student Life",
+      "Food - Light Refreshments "
     ]
   },
   {
@@ -1132,18 +1143,6 @@
       "Financial Aid",
       "FASFA & TAP Applications",
       "Satisfactory Academic Progress (SAP)"
-    ]
-  },
-  {
-    "title": "Gaming Grizzlies Weekly Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376894",
-    "college": "Guttman Community College",
-    "date": "2026-01-29",
-    "time": "08:00 PM - 10:00 PM",
-    "tags": [
-      "TGG",
-      "Meeting",
-      "Student Life"
     ]
   },
   {
@@ -1182,6 +1181,24 @@
       "TGG",
       "Meeting",
       "Student Life"
+    ]
+  },
+  {
+    "title": "Unapologetically Black Voting, Voice & Visibility in 2026 and Beyond",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376912",
+    "college": "Guttman Community College",
+    "date": "2026-02-05",
+    "time": "10:30 PM - 01:00 AM",
+    "tags": [
+      "PREZ",
+      "Educational/Awareness",
+      "Black History Month",
+      "Food - Light Refreshments",
+      "United Men of Color",
+      "Women of GRIT",
+      "Information Session",
+      "Off-Campus",
+      "Discussion"
     ]
   },
   {
@@ -1286,6 +1303,16 @@
     "college": "Hunter College",
     "date": "2026-01-23",
     "time": "10:00 AM - 11:30 AM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "Dietetic Internship Information Session (Di and MS-DI)",
+    "link": "https://www.hunter.cuny.edu/event/dietetic-internship-information-session-di-and-ms-di/",
+    "college": "Hunter College",
+    "date": "2026-01-23",
+    "time": "03:00 PM - 04:00 PM",
     "tags": [
       "Open Houses"
     ]
@@ -1499,17 +1526,6 @@
     "time": "06:30 PM - 06:30 PM",
     "tags": [
       "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "MFA Playwriting Reading Series: Maia Matsushita",
-    "link": "https://www.hunter.cuny.edu/event/mfa-playwriting-reading-series-maia-matsushita/",
-    "college": "Hunter College",
-    "date": "2026-03-06",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Performing Arts & Film",
-      "Student Events"
     ]
   },
   {
@@ -2153,6 +2169,14 @@
     "tags": []
   },
   {
+    "title": "(DEPT) AD Interviews",
+    "link": "https://qc.event.cuny.edu/events/kABYLHull6LGbNcN9G25/sKRO1LG6KkSKgW8js2zH",
+    "college": "Queens College",
+    "date": "2026-01-15",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
     "title": "Enrollment Assistance Day",
     "link": "https://qc.event.cuny.edu/events/W2Z1a0QHe7hknKKAAYlE/g3ZOhAEwj8vpdmffn4pJ",
     "college": "Queens College",
@@ -2173,14 +2197,6 @@
     "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi15",
     "college": "Queens College",
     "date": "2026-01-16",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ITS Media Upgrade",
-    "link": "https://qc.event.cuny.edu/events/eLwKaL2XTbSPa0Zo9Mgd/XWKsWryV7TzRbMpcZiTi16",
-    "college": "Queens College",
-    "date": "2026-01-17",
     "time": "8:00AM",
     "tags": []
   },
@@ -2430,6 +2446,14 @@
     "college": "CUNY School of Public Health",
     "date": "2026-02-25",
     "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "CPR Training Workshop",
+    "link": "https://sph.cuny.edu/event/cpr-training-workshop/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-02-26",
+    "time": "3:30PM",
     "tags": []
   },
   {
@@ -3012,15 +3036,15 @@
     ]
   },
   {
-    "title": "M.A. IN DIGITAL HUMANITIES - VIRTUAL OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/ma-digital-humanities-virtual-open-house-feb-2026",
+    "title": "MEET THE FACULTY",
+    "link": "https://www.gc.cuny.edu/events/meet-faculty-jan-2026",
     "college": "CUNY Graduate Center",
-    "date": "2026-02-03",
-    "time": "5:00 pm — 6:00 pm",
-    "location": "Online",
+    "date": "2026-01-30",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "4406: English Student Lounge",
     "tags": [
-      "Digital Humanities",
-      "Admissions"
+      "English",
+      "Friday Forum"
     ]
   },
   {
