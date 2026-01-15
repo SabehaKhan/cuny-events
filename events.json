@@ -426,16 +426,6 @@
     ]
   },
   {
-    "title": "2nd Annual CUNY-wide Pre-Law Conference",
-    "link": "https://www.law.cuny.edu/event/2nd-annual-cuny-wide-pre-law-conference/",
-    "college": "CUNY School of Law",
-    "date": "2026-01-15",
-    "time": "09:00 AM - 04:00 PM",
-    "tags": [
-      "Conference"
-    ]
-  },
-  {
     "title": "Kristen Clarke, Burns Chair + Elie Mystal",
     "link": "https://www.law.cuny.edu/event/kristen-clarke-burns-chair-elie-mystal/",
     "college": "CUNY School of Law",
@@ -477,7 +467,7 @@
     "link": "https://www.law.cuny.edu/event/second-look-symposium/",
     "college": "CUNY School of Law",
     "date": "2026-02-27",
-    "time": "11:00 AM - 03:00 PM",
+    "time": "12:00 PM - 02:00 PM",
     "tags": [
       "Conference",
       "Panel Discussion"
@@ -747,28 +737,6 @@
     "date": "2026-06-03",
     "time": "03:00 PM - 07:00 PM",
     "tags": []
-  },
-  {
-    "title": "MoneyBoss: SMART Money Moves for the New Year",
-    "link": "https://www.laguardia.edu/event/moneyboss-smart-money-moves-for-the-new-year/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-15",
-    "time": "11:45 AM - 12:45 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Resume Writing Workshop",
-    "link": "https://www.laguardia.edu/event/resume-writing-workshop-9/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-15",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
   },
   {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
@@ -1083,6 +1051,28 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-2/2026-02-04/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-04",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Networking 101: LinkedIn, Connect, and Engage",
+    "link": "https://www.laguardia.edu/event/networking-101-linkedin-connect-and-engage-9/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-05",
+    "time": "11:15 AM - 12:15 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Gaming Grizzlies Weekly Freeplay",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376892",
     "college": "Guttman Community College",
@@ -1159,18 +1149,6 @@
       "OSL",
       "Cultural/Heritage",
       "Black History Month",
-      "Student Life"
-    ]
-  },
-  {
-    "title": "Gaming Grizzlies Weekly Freeplay",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376895",
-    "college": "Guttman Community College",
-    "date": "2026-02-05",
-    "time": "08:00 PM - 10:00 PM",
-    "tags": [
-      "TGG",
-      "Meeting",
       "Student Life"
     ]
   },
@@ -1520,29 +1498,6 @@
     ]
   },
   {
-    "title": "Spring 2026 New Student Orientation",
-    "link": "https://www.bmcc.cuny.edu/event/spring-2026-bmcc-new-student-orientation/2026-01-15/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-01-15",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured",
-      "New Student Programs"
-    ]
-  },
-  {
-    "title": "How to Apply to BMCC & Live Help Hour Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-6/2026-01-15/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-01-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Don't Miss Our Women in STEM Networking Event",
     "link": "https://www.bmcc.cuny.edu/event/women-in-stem-networking-event/",
     "college": "Borough of Manhattan Community College",
@@ -1561,6 +1516,18 @@
       "Social Sciences",
       "Human Services and Criminal Justice",
       "Women in STEM"
+    ]
+  },
+  {
+    "title": "Spring 2026 New Student Orientation",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2026-bmcc-new-student-orientation/2026-01-16/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-01-16",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured",
+      "New Student Programs"
     ]
   },
   {
@@ -1596,6 +1563,17 @@
     "time": "10:00 AM - 02:00 PM",
     "tags": [
       "Career Workshops/Fairs",
+      "Featured"
+    ]
+  },
+  {
+    "title": "How to Apply to BMCC & Live Help Hour Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/how-to-apply-to-bmcc-live-help-hour-workshop-6/2026-01-22/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-01-22",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
       "Featured"
     ]
   },
@@ -1705,6 +1683,19 @@
       "Career Workshops/Fairs",
       "Center for Career Development",
       "Featured"
+    ]
+  },
+  {
+    "title": "An Evening with the Court of Appeals",
+    "link": "https://www.bmcc.cuny.edu/event/an-evening-with-the-court-of-appeals/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-10",
+    "time": "05:30 PM - 07:00 PM",
+    "tags": [
+      "Criminal Justice",
+      "Featured",
+      "Human Services and Criminal Justice",
+      "Pre-law"
     ]
   },
   {
@@ -1861,6 +1852,14 @@
       "Office of the Registrar",
       "Virtual Event"
     ]
+  },
+  {
+    "title": "Black History Month Kickoff",
+    "link": "https://www.bcc.cuny.edu/event/black-history-month-kickoff/",
+    "college": "Bronx Community College",
+    "date": "2026-02-05",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "Elections and Advocacy Commission (Student Government)",
@@ -2547,19 +2546,19 @@
     "tags": []
   },
   {
-    "title": "Ready Set Go! | Business Planning 2026",
-    "link": "https://www.lehman.edu/events/2026/Ready-Set-Go--Business-Planning-2026-1.php",
-    "college": "Lehman College",
-    "date": "2026-01-15",
-    "time": "3:00 PM- 4:15 PM",
-    "tags": []
-  },
-  {
     "title": "Land Your Internship Workshop",
     "link": "https://www.lehman.edu/events/2026/Land-Your-Internship-Workshop.php",
     "college": "Lehman College",
     "date": "2026-01-15",
     "time": "3:00 PM- 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Ready Set Go! | Business Planning 2026",
+    "link": "https://www.lehman.edu/events/2026/Ready-Set-Go--Business-Planning-2026-1.php",
+    "college": "Lehman College",
+    "date": "2026-01-15",
+    "time": "3:00 PM- 4:15 PM",
     "tags": []
   },
   {
@@ -2624,14 +2623,6 @@
     "college": "Lehman College",
     "date": "2026-01-26",
     "time": "6:00 PM- 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Rikers Island & Mental Health",
-    "link": "https://www.jjay.cuny.edu/news-events/events/rikers-island-mental-health",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-01-15",
-    "time": "06:00 PM",
     "tags": []
   },
   {
