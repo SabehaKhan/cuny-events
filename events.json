@@ -760,17 +760,6 @@
     ]
   },
   {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-2/2026-01-15/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-15",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Resume Writing Workshop",
     "link": "https://www.laguardia.edu/event/resume-writing-workshop-9/",
     "college": "LaGuardia Community College",
@@ -1083,6 +1072,17 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person-2/2026-02-04/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-04",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Gaming Grizzlies Weekly Freeplay",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376892",
     "college": "Guttman Community College",
@@ -1159,6 +1159,18 @@
       "OSL",
       "Cultural/Heritage",
       "Black History Month",
+      "Student Life"
+    ]
+  },
+  {
+    "title": "Gaming Grizzlies Weekly Freeplay",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=376895",
+    "college": "Guttman Community College",
+    "date": "2026-02-05",
+    "time": "08:00 PM - 10:00 PM",
+    "tags": [
+      "TGG",
+      "Meeting",
       "Student Life"
     ]
   },
@@ -1378,6 +1390,16 @@
     ]
   },
   {
+    "title": "Graduate School Resource Fair",
+    "link": "https://www.hunter.cuny.edu/event/graduate-school-resource-fair/",
+    "college": "Hunter College",
+    "date": "2026-02-05",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Speaking in Pairs – Opening Reception",
     "link": "https://www.hunter.cuny.edu/event/speaking-in-pairs-opening-reception/",
     "college": "Hunter College",
@@ -1495,16 +1517,6 @@
     "time": "06:00 PM - 06:00 PM",
     "tags": [
       "Lectures"
-    ]
-  },
-  {
-    "title": "American Classical Orchestra at Hunter College",
-    "link": "https://www.hunter.cuny.edu/event/american-classical-orchestra-at-hunter-college/",
-    "college": "Hunter College",
-    "date": "2026-03-03",
-    "time": "06:30 PM - 06:30 PM",
-    "tags": [
-      "Performing Arts & Film"
     ]
   },
   {
@@ -1895,7 +1907,8 @@
     "time": "08:00 PM - 09:00 PM",
     "tags": [
       "Arts",
-      "Entertainment"
+      "Entertainment",
+      "Dolphin Days"
     ]
   },
   {
@@ -1975,7 +1988,8 @@
       "Leadership",
       "Learning",
       "PG CLUE",
-      "Social"
+      "Social",
+      "Dolphin Days"
     ]
   },
   {
@@ -2365,11 +2379,11 @@
     "tags": []
   },
   {
-    "title": "Sewers to Solutions: The Role of Wastewater Epidemiology in Public Health",
-    "link": "https://sph.cuny.edu/event/sewers-to-solutions-the-role-of-wastewater-epidemiology-in-public-health/",
+    "title": "Fellowship Discovery Series: Oak Ridge Institute for Science and Education (ORISE)",
+    "link": "https://sph.cuny.edu/event/fellowship-discovery-series-oak-ridge-institute-for-science-and-education-orise-2/",
     "college": "CUNY School of Public Health",
     "date": "2026-02-05",
-    "time": "4:00PM",
+    "time": "12:00PM",
     "tags": []
   },
   {
