@@ -48,6 +48,14 @@
     "tags": []
   },
   {
+    "title": "Biochemistry Seminar: Christine Mayr, \"Protein folding regulated by mRNA 3′UTRs acting as RNA-based chaperones\"",
+    "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-christine-mayr-protein-folding-regulated-mrna-3utrs-acting-rna-based",
+    "college": "City College of New York",
+    "date": "2026-01-28",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
     "title": "Rebrand & Reconnect: Alumni Career Refresh",
     "link": "https://www.ccny.cuny.edu/calendar/rebrand-reconnect-alumni-career-refresh",
     "college": "City College of New York",
@@ -1215,16 +1223,6 @@
     ]
   },
   {
-    "title": "Bachelor of Science in Nursing Generic Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-8/",
-    "college": "Hunter College",
-    "date": "2026-01-16",
-    "time": "10:00 AM - 11:30 AM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
     "title": "Study Abroad 101 Webinar",
     "link": "https://www.hunter.cuny.edu/event/study-abroad-101-webinar/",
     "college": "Hunter College",
@@ -1333,6 +1331,17 @@
     "time": "02:30 PM - 03:30 PM",
     "tags": [
       "Student Events"
+    ]
+  },
+  {
+    "title": "Person Place Thing: Kinan Azmeh in Conversation with Randy Cohen",
+    "link": "https://www.hunter.cuny.edu/event/person-place-thing-kinan-azmeh-in-conversation-with-randy-cohen/",
+    "college": "Hunter College",
+    "date": "2026-01-28",
+    "time": "04:00 PM - 04:00 PM",
+    "tags": [
+      "Lectures",
+      "Special Events"
     ]
   },
   {
@@ -1538,6 +1547,7 @@
     "time": "01:00 PM - 03:00 PM",
     "tags": [
       "Career Workshops/Fairs",
+      "Center for Career Development",
       "Featured",
       "Internships & Experiential Learning"
     ]
@@ -2323,6 +2333,14 @@
     "tags": []
   },
   {
+    "title": "SLD: Orientation Full Team Check-In",
+    "link": "https://citytech.event.cuny.edu/events/HNhc7Hls1lEfu1kAu2Wc/jeFZzIxKmPfKhs168sAG",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-20",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
     "title": "DEN 2400 Orientation",
     "link": "https://citytech.event.cuny.edu/events/iolVxKOkpP5tfpRxYybp/QVjcwTDMQFsSvBk37rpu",
     "college": "New York City College of Technology (City Tech)",
@@ -2368,14 +2386,6 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-01-20",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Spring 2026 Orientation",
-    "link": "https://citytech.event.cuny.edu/events/EVHOzte7dHfigfhRw1gR/QiZM67CzXBG4GqsPbP9U1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-01-21",
-    "time": "8:00AM",
     "tags": []
   },
   {
@@ -2511,6 +2521,14 @@
     "link": "https://sph.cuny.edu/event/mph-in-sexual-and-reproductive-justice-health-srjh-information-session/",
     "college": "CUNY School of Public Health",
     "date": "2026-03-19",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Career Workshop: Job Searching in the Age of AI",
+    "link": "https://sph.cuny.edu/event/career-workshop-job-searching-in-the-age-of-ai/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-03-24",
     "time": "6:00PM",
     "tags": []
   },
@@ -2888,6 +2906,14 @@
     "college": "York College",
     "date": "2026-01-17",
     "time": "12:00 AM - 2:00 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jan 20",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jan20",
+    "college": "York College",
+    "date": "2026-01-20",
+    "time": "2:30 PM - 9:00 PM",
     "tags": []
   },
   {
