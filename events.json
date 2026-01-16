@@ -731,18 +731,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-01-16/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-16",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-01-19/",
     "college": "LaGuardia Community College",
@@ -1065,6 +1053,17 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-2/2026-02-05/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-05",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Check-in With Your Financial Aid Advisor",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376887",
     "college": "Guttman Community College",
@@ -1220,16 +1219,6 @@
       "TGG",
       "Meeting",
       "Student Life"
-    ]
-  },
-  {
-    "title": "Study Abroad 101 Webinar",
-    "link": "https://www.hunter.cuny.edu/event/study-abroad-101-webinar/",
-    "college": "Hunter College",
-    "date": "2026-01-16",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Student Events"
     ]
   },
   {
@@ -1512,6 +1501,16 @@
     "time": "06:00 PM - 06:00 PM",
     "tags": [
       "Lectures"
+    ]
+  },
+  {
+    "title": "American Classical Orchestra at Hunter College",
+    "link": "https://www.hunter.cuny.edu/event/american-classical-orchestra-at-hunter-college/",
+    "college": "Hunter College",
+    "date": "2026-03-03",
+    "time": "06:30 PM - 06:30 PM",
+    "tags": [
+      "Performing Arts & Film"
     ]
   },
   {
@@ -1880,7 +1879,10 @@
     "college": "Bronx Community College",
     "date": "2026-02-05",
     "time": "12:00 PM - 02:00 PM",
-    "tags": []
+    "tags": [
+      "Feature",
+      "HBCU"
+    ]
   },
   {
     "title": "Elections and Advocacy Commission (Student Government)",
@@ -2597,16 +2599,16 @@
     "tags": []
   },
   {
-    "title": "Impulse su Marca con Google",
-    "link": "https://www.lehman.edu/events/2026/Impulse-su-Marca-con-Google-1.php",
+    "title": "Dress For Success Workshop",
+    "link": "https://www.lehman.edu/events/2026/Dress-For-Success-Workshop.php",
     "college": "Lehman College",
     "date": "2026-01-16",
     "time": "12:00 PM- 1:00 PM",
     "tags": []
   },
   {
-    "title": "Dress For Success Workshop",
-    "link": "https://www.lehman.edu/events/2026/Dress-For-Success-Workshop.php",
+    "title": "Impulse su Marca con Google",
+    "link": "https://www.lehman.edu/events/2026/Impulse-su-Marca-con-Google.php",
     "college": "Lehman College",
     "date": "2026-01-16",
     "time": "12:00 PM- 1:00 PM",
@@ -2674,14 +2676,6 @@
     "college": "Lehman College",
     "date": "2026-02-03",
     "time": "6:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Rising Scholars of Justice Info Session",
-    "link": "https://www.jjay.cuny.edu/news-events/events/rising-scholars-justice-info-session",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-01-16",
-    "time": "07:00 PM",
     "tags": []
   },
   {
@@ -2882,14 +2876,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-06-02",
     "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jan 16",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jan16",
-    "college": "York College",
-    "date": "2026-01-16",
-    "time": "2:30 PM - 9:00 PM",
     "tags": []
   },
   {
