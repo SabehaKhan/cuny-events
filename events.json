@@ -152,6 +152,14 @@
     "tags": []
   },
   {
+    "title": "Biochemistry Seminar: Edward P. O'Brien, \"A novel class of protein misfolding is associated with changes in enzyme activity, proteostasis, aging, and disease\"",
+    "link": "https://www.ccny.cuny.edu/calendar/biochemistry-seminar-edward-p-obrien-jr-novel-class-protein-misfolding-associated-changes",
+    "college": "City College of New York",
+    "date": "2026-02-18",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
     "title": "The Inquisitor - Film and Talk - Barbara Jordan",
     "link": "https://www.ccny.cuny.edu/calendar/inquisitor-film-and-talk-barbara-jordan",
     "college": "City College of New York",
@@ -544,7 +552,7 @@
   },
   {
     "title": "Where Do You Go for Help?",
-    "link": "https://www.law.cuny.edu/event/where-do-you-go-for-help-reorientation/2026-02-19/",
+    "link": "https://www.law.cuny.edu/event/where-do-you-go-for-help-reorientation-2/",
     "college": "CUNY School of Law",
     "date": "2026-02-19",
     "time": "12:30 PM - 01:30 PM",
@@ -835,26 +843,12 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-93/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-21",
-    "time": "09:30 AM - 10:30 AM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person-2/2026-01-21/",
-    "college": "LaGuardia Community College",
-    "date": "2026-01-21",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
+    "title": "Game Day: Basketball Doubleheader",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/0b46ab68-11d8-4706-9982-fad555f9c6db",
+    "college": "Kingsborough Community College",
+    "date": "2026-01-22",
+    "time": "11:00 PM - 11:00 PM",
+    "tags": []
   },
   {
     "title": "CUNY Transfer Explorer Information Session: CUNY T-Rex - An Introduction to CUNY Transfer Tools and Website",
@@ -1169,6 +1163,28 @@
     ]
   },
   {
+    "title": "Explore the Public Theater: Behind‐the‐Scenes Site Visit",
+    "link": "https://www.laguardia.edu/event/explore-the-public-theater-behind-the-scenes-site-visit/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-06",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-02-09/",
+    "college": "LaGuardia Community College",
+    "date": "2026-02-09",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Check-in With Your Financial Aid Advisor",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376887",
     "college": "Guttman Community College",
@@ -1367,16 +1383,6 @@
     ]
   },
   {
-    "title": "Graduate Admissions Virtual Front Desk",
-    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-virtual-front-desk/",
-    "college": "Hunter College",
-    "date": "2026-01-21",
-    "time": "10:30 AM - 11:30 AM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Study Abroad 101 Webinar",
     "link": "https://www.hunter.cuny.edu/event/study-abroad-101-webinar-2/",
     "college": "Hunter College",
@@ -1447,6 +1453,24 @@
     ]
   },
   {
+    "title": "Hot Wings (USG) - Welcome Week",
+    "link": "https://www.hunter.cuny.edu/event/hot-wings-usg-welcome-week/",
+    "college": "Hunter College",
+    "date": "2026-01-26",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-11/",
+    "college": "Hunter College",
+    "date": "2026-01-26",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
     "title": "We the People: An Assembly of New York Artists",
     "link": "https://www.hunter.cuny.edu/event/we-the-people-an-assembly-of-new-york-artists/",
     "college": "Hunter College",
@@ -1458,11 +1482,41 @@
     ]
   },
   {
+    "title": "Club Fair - Welcome Week",
+    "link": "https://www.hunter.cuny.edu/event/club-fair-welcome-week-2/",
+    "college": "Hunter College",
+    "date": "2026-01-27",
+    "time": "12:00 PM - 04:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Resource Fair - Welcome Week",
+    "link": "https://www.hunter.cuny.edu/event/resource-fair-welcome-week/",
+    "college": "Hunter College",
+    "date": "2026-01-27",
+    "time": "12:00 PM - 04:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Study Abroad 101 Webinar",
     "link": "https://www.hunter.cuny.edu/event/study-abroad-101-webinar-3/",
     "college": "Hunter College",
     "date": "2026-01-27",
     "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Build Your Own Acai Bowls (USG) - Welcome Week",
+    "link": "https://www.hunter.cuny.edu/event/build-your-own-acai-bowls-usg-welcome-week/",
+    "college": "Hunter College",
+    "date": "2026-01-28",
+    "time": "12:00 PM - 04:00 PM",
     "tags": [
       "Student Events"
     ]
@@ -1479,6 +1533,64 @@
     ]
   },
   {
+    "title": "Family Night - Welcome Week",
+    "link": "https://www.hunter.cuny.edu/event/affinity-space-open-house-welcome-week/",
+    "college": "Hunter College",
+    "date": "2026-01-28",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Ice Cream Social (USG) - Welcome Week",
+    "link": "https://www.hunter.cuny.edu/event/ice-cream-social-usg-welcome-week/",
+    "college": "Hunter College",
+    "date": "2026-01-29",
+    "time": "12:00 PM - 02:15 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Graduate Student Association Club Fair - Welcome Week",
+    "link": "https://www.hunter.cuny.edu/event/graduate-student-association-club-fair-welcome-week/",
+    "college": "Hunter College",
+    "date": "2026-01-29",
+    "time": "03:30 PM - 05:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk In-person Fridays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-fridays/",
+    "college": "Hunter College",
+    "date": "2026-01-30",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Games & Grub (USG) - Welcome Week",
+    "link": "https://www.hunter.cuny.edu/event/games-grub-usg-welcome-week/",
+    "college": "Hunter College",
+    "date": "2026-01-30",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Media Board Open House - Welcome Week",
+    "link": "https://www.hunter.cuny.edu/event/media-board-open-house-welcome-week/",
+    "college": "Hunter College",
+    "date": "2026-01-30",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Seminar: Mahesh Karra (Columbia University)",
     "link": "https://www.hunter.cuny.edu/event/seminar-mahesh-karra-columbia-university/",
     "college": "Hunter College",
@@ -1487,6 +1599,14 @@
     "tags": [
       "Lectures"
     ]
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-12/",
+    "college": "Hunter College",
+    "date": "2026-02-02",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": []
   },
   {
     "title": "Promoting Civil Discourse & Intellectual Dialogue Series - States of Incarceration",
@@ -1549,127 +1669,12 @@
     ]
   },
   {
-    "title": "Study Abroad 101 Webinar",
-    "link": "https://www.hunter.cuny.edu/event/study-abroad-101-webinar-4/",
+    "title": "FAFSA/TAP Helpdesk In-person Fridays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-fridays-2/",
     "college": "Hunter College",
     "date": "2026-02-06",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Seminar: Tanika Chakraborty (IIM–Calcutta)",
-    "link": "https://www.hunter.cuny.edu/event/seminar-tanika-chakraborty-iim-calcutta/",
-    "college": "Hunter College",
-    "date": "2026-02-06",
-    "time": "01:30 PM - 03:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Screening: Ken Burns's \"The American Revolution\"",
-    "link": "https://www.hunter.cuny.edu/event/screening-ken-burns-the-american-revolution/",
-    "college": "Hunter College",
-    "date": "2026-02-09",
-    "time": "06:00 PM - 06:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
-    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7-2/2026-02-10/",
-    "college": "Hunter College",
-    "date": "2026-02-10",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Undergraduate Nutrition Program Information Sessions (NFS and NW) Spring 2026",
-    "link": "https://www.hunter.cuny.edu/event/undergraduate-nutrition-program-information-sessions-nfs-and-nw-spring-2026/",
-    "college": "Hunter College",
-    "date": "2026-02-11",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Study Abroad 101 Webinar",
-    "link": "https://www.hunter.cuny.edu/event/study-abroad-101-webinar-5/",
-    "college": "Hunter College",
-    "date": "2026-02-12",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Study Abroad 101 Webinar",
-    "link": "https://www.hunter.cuny.edu/event/study-abroad-101-webinar-6/",
-    "college": "Hunter College",
-    "date": "2026-02-17",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Promoting Civil Discourse & Intellectual Dialogue Series - The Value of Political Pluralism in Academia",
-    "link": "https://www.hunter.cuny.edu/event/promoting-civil-discourse-intellectual-dialogue-series-the-value-of-political-pluralism-in-academia/",
-    "college": "Hunter College",
-    "date": "2026-02-18",
-    "time": "06:00 PM - 07:30 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Inaugural Tea and Talk with Libba Bray",
-    "link": "https://www.hunter.cuny.edu/event/inaugural-tea-and-talk-with-libba-bray/",
-    "college": "Hunter College",
-    "date": "2026-02-19",
-    "time": "12:00 PM - 12:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "American Voices - Louis Armstrong",
-    "link": "https://www.hunter.cuny.edu/event/american-voices-louis-armstrong/",
-    "college": "Hunter College",
-    "date": "2026-02-24",
-    "time": "07:00 PM - 07:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Distinguished Writers Series - Susan Choi",
-    "link": "https://www.hunter.cuny.edu/event/distinguished-writers-series-susan-choi/",
-    "college": "Hunter College",
-    "date": "2026-02-25",
-    "time": "06:30 PM - 06:30 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "MLK Days of Service (2026)",
-    "link": "https://www.bmcc.cuny.edu/event/mlk-days-of-service/2026-01-21/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-01-21",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "Conexiones",
-      "Featured",
-      "MLK-Service",
-      "Student Affairs"
-    ]
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
   },
   {
     "title": "Internship and Apprenticeship Expo",
@@ -1716,6 +1721,19 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "MLK Days of Service (2026)",
+    "link": "https://www.bmcc.cuny.edu/event/mlk-days-of-service/2026-01-22/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-01-22",
+    "time": "02:00 PM - 04:30 PM",
+    "tags": [
+      "Conexiones",
+      "Featured",
+      "MLK-Service",
+      "Student Affairs"
     ]
   },
   {
@@ -2573,6 +2591,14 @@
     "tags": []
   },
   {
+    "title": "Student Parent/ Supporter Information Session",
+    "link": "https://citytech.event.cuny.edu/events/n8luFTy2Gl0Q0tPCWBJF/EY4fLnsNdwdiUCeMIH0q",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-01-22",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
     "title": "Nursing Faculty/Student Orientation",
     "link": "https://citytech.event.cuny.edu/events/VtSGCZlbdV1brb7Zgqgc/V77QhK38Jsp4ekARNbgv",
     "college": "New York City College of Technology (City Tech)",
@@ -2586,14 +2612,6 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-01-22",
     "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "First Year Programs Faculty Development",
-    "link": "https://citytech.event.cuny.edu/events/AFNTvZwGiKEkJ0hWSpL8/OmelUHPtPaCFR9VwXvcp",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-01-22",
-    "time": "9:30AM",
     "tags": []
   },
   {
@@ -2778,6 +2796,14 @@
     "college": "CUNY School of Public Health",
     "date": "2026-04-23",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "SAVE THE DATE! CUNY SPH Spring 2026 Virtual Career Fair on Handshake",
+    "link": "https://sph.cuny.edu/event/save-the-date-cuny-sph-spring-2026-virtual-career-fair-on-handshake/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-04-24",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -3173,118 +3199,113 @@
     "tags": []
   },
   {
-    "title": "RECITAL: REBECCA MORANIS AND JOSEPH VAZ - MUSIC OF MADELINE BARRETT",
-    "link": "https://www.gc.cuny.edu/events/recital-rebecca-moranis-and-joseph-vaz-music-madeline-barrett",
+    "title": "INNOVATION:SOUND:TECHNOLOGY (IST): PHILIPPE KOCHER AND MARC YEATS",
+    "link": "https://www.gc.cuny.edu/events/innovationsoundtechnology-ist-philippe-kocher-and-marc-yeats",
     "college": "CUNY Graduate Center",
-    "date": "2026-01-26",
-    "time": "7:30 pm — 9:30 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Music"
-    ]
-  },
-  {
-    "title": "LINKEDIN TRAINING FOR ACADEMICS",
-    "link": "https://www.gc.cuny.edu/events/linkedin-training-academics",
-    "college": "CUNY Graduate Center",
-    "date": "2026-01-28",
-    "time": "12:30 pm — 1:30 pm",
+    "date": "2026-04-15",
+    "time": "10:00 am",
     "location": "Online",
     "tags": [
-      "Communications and Marketing"
+      "Art Science Connect"
     ]
   },
   {
-    "title": "DRUPAL ACCESSIBILITY TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-jan-2026",
+    "title": "FRANTZ FANON AND THE FUTURE OF CULTURAL POLITICS",
+    "link": "https://www.gc.cuny.edu/events/frantz-fanon-and-future-cultural-politics",
     "college": "CUNY Graduate Center",
-    "date": "2026-01-29",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
+    "date": "2026-09-26",
+    "time": "2:00 pm",
+    "location": "5409: DGSC Meeting Room",
     "tags": [
-      "Communications and Marketing"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "MEET THE FACULTY",
-    "link": "https://www.gc.cuny.edu/events/meet-faculty-jan-2026",
+    "title": "NATIONALISM, INTERNATIONALISM, COSMOPOLITANISM WITH PARTHA CHATERJEE",
+    "link": "https://www.gc.cuny.edu/events/nationalism-internationalism-cosmopolitanism-partha-chaterjee",
     "college": "CUNY Graduate Center",
-    "date": "2026-01-30",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "4406: English Student Lounge",
+    "date": "2026-10-02",
+    "time": "4:30 pm",
+    "location": "TBD",
     "tags": [
-      "English",
-      "Friday Forum"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "M.A. IN DIGITAL HUMANITIES - VIRTUAL OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/ma-digital-humanities-virtual-open-house-feb-2026",
+    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
+    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
     "college": "CUNY Graduate Center",
-    "date": "2026-02-03",
-    "time": "5:00 pm — 6:00 pm",
-    "location": "Online",
+    "date": "2026-10-25",
+    "time": "6:30 pm",
+    "location": "C198",
     "tags": [
-      "Digital Humanities",
-      "Admissions"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "M.S. IN DATA ANALYSIS AND VISUALIZATION - VIRTUAL OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/ms-data-analysis-and-visualization-virtual-open-house-feb-2026",
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
     "college": "CUNY Graduate Center",
-    "date": "2026-02-03",
-    "time": "6:00 pm — 7:00 pm",
-    "location": "Online",
-    "tags": [
-      "Data Analysis and Visualization",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "COPLAND HOUSE ENSEMBLE: THEATER IN DISGUISE",
-    "link": "https://www.gc.cuny.edu/events/copland-house-ensemble-theater-disguise",
-    "college": "CUNY Graduate Center",
-    "date": "2026-02-03",
-    "time": "6:30 pm — 8:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "M.A. IN LIBERAL STUDIES - VIRTUAL INFO SESSION",
-    "link": "https://www.gc.cuny.edu/events/ma-liberal-studies-virtual-info-session-feb-4-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-02-04",
-    "time": "6:00 pm — 7:00 pm",
-    "location": "Online",
-    "tags": [
-      "Liberal Studies",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "WHO WAS PAINTER JUDITH WATERMAN? A CONVERSATION",
-    "link": "https://www.gc.cuny.edu/events/who-was-painter-judith-waterman-conversation",
-    "college": "CUNY Graduate Center",
-    "date": "2026-02-05",
-    "time": "6:30 pm — 8:30 pm",
+    "date": "2026-11-20",
+    "time": "",
     "location": "9100: Skylight Room",
     "tags": [
-      "CLAGS: The Center for LGBTQ Studies",
-      "LGBTQ +"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "FRIDAYS@1: WILLIAM EASTERLY",
-    "link": "https://www.gc.cuny.edu/events/fridays1-william-easterly",
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
     "college": "CUNY Graduate Center",
-    "date": "2026-02-06",
-    "time": "1:00 pm — 2:30 pm",
-    "location": "Online",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
     "tags": [
-      "Academic Initiatives and Strategic Innovation"
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "MILITARIZATION, MEDICALIZATION, RESPONSIBILITY",
+    "link": "https://www.gc.cuny.edu/events/militarization-medicalization-responsibility",
+    "college": "CUNY Graduate Center",
+    "date": "2026-02-05",
+    "time": "4:30 pm",
+    "location": "C202",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "FREEDOM TIME, WITH GARY WILDER",
+    "link": "https://www.gc.cuny.edu/events/freedom-time-gary-wilder",
+    "college": "CUNY Graduate Center",
+    "date": "2026-02-24",
+    "time": "6:00 pm",
+    "location": "9204",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "SADIA ABBAS ON “HOW INJURY TRAVELS”",
+    "link": "https://www.gc.cuny.edu/events/sadia-abbas-how-injury-travels",
+    "college": "CUNY Graduate Center",
+    "date": "2026-02-27",
+    "time": "4:15 pm",
+    "location": "C415A",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "HOW TO BUILD THE HOUSE OF TASWIR?: ABOUT THE (PUBLIC) TRANSFORMATION OF DREAMS, LETTERS AND THINGS",
+    "link": "https://www.gc.cuny.edu/events/how-build-house-taswir-about-public-transformation-dreams-letters-and-things",
+    "college": "CUNY Graduate Center",
+    "date": "2026-03-17",
+    "time": "6:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
     ]
   },
   {
@@ -3312,28 +3333,12 @@
     "description": ""
   },
   {
-    "title": "Write Like You Never Left School",
-    "link": "https://www.eventbrite.com/e/write-like-you-never-left-school-tickets-1979884002348?aff=oddtdtcreator",
+    "title": "Intro to the Library at SLU",
+    "link": "https://www.eventbrite.com/e/introduction-to-the-slu-library-tickets-1980399195304?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-02-08",
-    "time": "08:15 PM - 09:30 PM",
-    "description": "Has it been a while since you’ve written an academic paper? This workshop will provide an overview of key modes and activities of academic writing. We’ll introduce strategies for getting started and moving forward with an assignment, highlighting processes and resources to support your writing. <b>*Registration closes at 4:30pm on 2/6*</b><br><br><a href=\"https://www.eventbrite.com/e/write-like-you-never-left-school-tickets-1979884002348?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
-    "title": "Balancing the Job Hunt: Career Success and Mental Wellness",
-    "link": "https://www.eventbrite.com/e/balancing-the-job-hunt-career-success-and-mental-wellness-tickets-1978284794073?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-10",
-    "time": "10:30 PM - 11:30 PM",
-    "description": "This one-hour workshop combines career guidance and counseling insights to help you navigate the stress of the job search<br>Join this 60 minute in-person workshop to gain understanding and insight in to your writing anxiety.<br><br>We will also share practical tools to support you in getting through it and getting on with writing!<br><br><br><a href=\"https://www.eventbrite.com/e/balancing-the-job-hunt-career-success-and-mental-wellness-tickets-1978284794073?aff=oddtdtcreator\">RSVP HERE </a>"
-  },
-  {
-    "title": "Data Communication and Reporting Results",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-17",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+    "date": "2026-02-17",
+    "time": "05:15 PM - 05:45 PM",
+    "description": "Join the SLU librarian for a quick lunchtime overview of how to login to library databases, check out books, and request books and articles.<br><a href=\"https://www.eventbrite.com/e/introduction-to-the-slu-library-tickets-1980399195304?aff=oddtdtcreator\">RVSP HERE</a>"
   },
   {
     "title": "Research for Literature Reviews",
@@ -3344,60 +3349,12 @@
     "description": "<p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 3/20*</p><a href=\"https://www.eventbrite.com/e/research-for-literature-reviews-tickets-1980188985561?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
-    "title": "Last Minute Lit Review Research",
-    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-24",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
-    "title": "Internship Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/uC7KoCtDRg-Eim1WHn9nmw#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-02-18",
-    "time": "05:00 PM - 06:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/uC7KoCtDRg-Eim1WHn9nmw#/registration\">RSVP HERE</a>"
-  },
-  {
-    "title": "Intro to Career Services & Handshake",
-    "link": "https://us02web.zoom.us/meeting/register/8cL-wvtzRS2bnwIK64oEpw?_x_zm_rtaid=1PNwv8eoSMy68brj65tEXw.1768943569785.7e8d28ac08463da2b03a87a6c81a6020&amp;_x_zm_rhtaid=988#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-01-31",
-    "time": "03:00 PM - 04:00 PM",
-    "description": "<br><a href=\"https://us02web.zoom.us/meeting/register/8cL-wvtzRS2bnwIK64oEpw?_x_zm_rtaid=1PNwv8eoSMy68brj65tEXw.1768943569785.7e8d28ac08463da2b03a87a6c81a6020&amp;_x_zm_rhtaid=988#/registration\">RSVP HERE</a>"
-  },
-  {
     "title": "Library Research 101",
-    "link": "https://www.eventbrite.com/e/library-research-101-tickets-1980188448956?aff=oddtdtcreator",
+    "link": "https://www.eventbrite.com/e/library-research-101-tickets-1980188166110?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-02-20",
+    "date": "2026-02-13",
     "time": "11:15 PM - 12:15 AM",
-    "description": "<p>Do you need to find trustworthy articles and books for your research but don’t know where to start? Join this 60-minute workshop with your SLU librarian for an overview of CUNY library resources and services. By the end of the session, you will know how to search for books, which databases to use, how to keep track of everything you find, and who to contact for expert help. *Registration closes at 4:30pm on 2/20*</p><a href=\"https://www.eventbrite.com/e/library-research-101-tickets-1980188448956?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
-    "title": "Resume Writing with The Learning Center",
-    "link": "https://us02web.zoom.us/meeting/register/ACIgtsF0QHO7DSLypB2ofA#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-02-28",
-    "time": "03:00 PM - 04:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/ACIgtsF0QHO7DSLypB2ofA#/registration\">RSVP HERE</a>"
-  },
-  {
-    "title": "Intro to the Library at SLU",
-    "link": "https://www.eventbrite.com/e/introduction-to-the-slu-library-tickets-1980399195304?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-02-17",
-    "time": "05:15 PM - 05:45 PM",
-    "description": "Join the SLU librarian for a quick lunchtime overview of how to login to library databases, check out books, and request books and articles.<br><a href=\"https://www.eventbrite.com/e/introduction-to-the-slu-library-tickets-1980399195304?aff=oddtdtcreator\">RVSP HERE</a>"
-  },
-  {
-    "title": "Selecting the Best Quantitative Approach",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-27",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Learn how to choose the right quantitative method for your research question and data. We’ll review common statistical approaches, assumptions, and how to plan an analysis strategy that fits your project. *Registration closes at 4:30pm on 3/27*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a>"
+    "description": "<br><br><br><br><br><p>Do you need to find trustworthy articles and books for your research but don’t know where to start? Join this 60-minute workshop with your SLU librarian for an overview of CUNY library resources and services. By the end of the session, you will know how to search for books, which databases to use, how to keep track of everything you find, and who to contact for expert help. *<strong><strong>Registration closes at 4:30pm on 2/13</strong></strong>*</p><a href=\"https://www.eventbrite.com/e/library-research-101-tickets-1980188166110?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
     "title": "Employer Spotlight",
@@ -3408,12 +3365,12 @@
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
   },
   {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
+    "title": "Introduction to Jamovi",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-12",
-    "time": "07:15 PM - 08:30 PM",
-    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
+    "date": "2026-02-06",
+    "time": "11:15 PM - 12:15 AM",
+    "description": "Learn the basics of Jamovi in this workshop designed for students in URB 610 (though students from other courses are welcome to attend!) The workshop will guide you through importing data, exploring datasets, and performing foundational statistical tests to get your research started. <b>*Registration closes at 4:30pm on 2/6*</b><br><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE </a>"
   },
   {
     "title": "Reading Tips to Save Time",
@@ -3424,12 +3381,92 @@
     "description": "<p>Ever found yourself highlighting every sentence on a page or re-reading a passage without comprehension? This thirty-minute workshop offers strategies for how to set yourself up to read with purpose, so you can focus on what’s most important and save energy and time in the long run. *Registration closes at 4:30pm on 2/20*</p><a href=\"https://www.eventbrite.com/e/reading-tips-to-save-time-tickets-1979895922000?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
+    "title": "Intro to Career Services & Handshake",
+    "link": "https://us02web.zoom.us/meeting/register/8cL-wvtzRS2bnwIK64oEpw?_x_zm_rtaid=1PNwv8eoSMy68brj65tEXw.1768943569785.7e8d28ac08463da2b03a87a6c81a6020&amp;_x_zm_rhtaid=988#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-01-31",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "<br><a href=\"https://us02web.zoom.us/meeting/register/8cL-wvtzRS2bnwIK64oEpw?_x_zm_rtaid=1PNwv8eoSMy68brj65tEXw.1768943569785.7e8d28ac08463da2b03a87a6c81a6020&amp;_x_zm_rhtaid=988#/registration\">RSVP HERE</a>"
+  },
+  {
+    "title": "Balancing the Job Hunt: Career Success and Mental Wellness",
+    "link": "https://www.eventbrite.com/e/balancing-the-job-hunt-career-success-and-mental-wellness-tickets-1978284794073?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-03-10",
+    "time": "10:30 PM - 11:30 PM",
+    "description": "This one-hour workshop combines career guidance and counseling insights to help you navigate the stress of the job search<br>Join this 60 minute in-person workshop to gain understanding and insight in to your writing anxiety.<br><br>We will also share practical tools to support you in getting through it and getting on with writing!<br><br><br><a href=\"https://www.eventbrite.com/e/balancing-the-job-hunt-career-success-and-mental-wellness-tickets-1978284794073?aff=oddtdtcreator\">RSVP HERE </a>"
+  },
+  {
+    "title": "Data Essentials",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-03-06",
+    "time": "11:15 PM - 12:15 AM",
+    "description": "<p>Learn how to find, query, export, clean, and organize data for your research. This workshop covers common sources of data by topic, including government and public datasets, academic repositories, and organizational reports. You’ll also practice handling missing values, formatting datasets, and preparing your data for analysis. *Registration closes at 4:30pm on 3/6*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE </a>"
+  },
+  {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-12",
+    "time": "07:15 PM - 08:30 PM",
+    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
+  },
+  {
+    "title": "Selecting the Best Quantitative Approach",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-03-27",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>Learn how to choose the right quantitative method for your research question and data. We’ll review common statistical approaches, assumptions, and how to plan an analysis strategy that fits your project. *Registration closes at 4:30pm on 3/27*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
+    "title": "Data Communication and Reporting Results",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-17",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+  },
+  {
+    "title": "Library Research 101",
+    "link": "https://www.eventbrite.com/e/library-research-101-tickets-1980188448956?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-02-20",
+    "time": "11:15 PM - 12:15 AM",
+    "description": "<p>Do you need to find trustworthy articles and books for your research but don’t know where to start? Join this 60-minute workshop with your SLU librarian for an overview of CUNY library resources and services. By the end of the session, you will know how to search for books, which databases to use, how to keep track of everything you find, and who to contact for expert help. *Registration closes at 4:30pm on 2/20*</p><a href=\"https://www.eventbrite.com/e/library-research-101-tickets-1980188448956?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
+    "title": "Last Minute Lit Review Research",
+    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-24",
+    "time": "10:15 PM - 11:30 PM",
+    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
     "title": "Get Started with Zotero & Citation Management",
     "link": "https://www.eventbrite.com/e/get-started-with-zotero-citation-management-tickets-1980188593388?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
     "date": "2026-03-13",
     "time": "10:15 PM - 11:15 PM",
     "description": "This session will introduce you to the Zotero citation management software and provide an overview of the installation process, how you can use it to keep track of the sources you find, organize a citation library, and insert your formatted sources in your paper. Beginners are absolutely welcome, no experience needed! *Registration closes at 4:30pm on 3/13*<br><br><a href=\"https://www.eventbrite.com/e/get-started-with-zotero-citation-management-tickets-1980188593388?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
+    "title": "Resume Writing with The Learning Center",
+    "link": "https://us02web.zoom.us/meeting/register/ACIgtsF0QHO7DSLypB2ofA#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-02-28",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/ACIgtsF0QHO7DSLypB2ofA#/registration\">RSVP HERE</a>"
+  },
+  {
+    "title": "Internship Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/uC7KoCtDRg-Eim1WHn9nmw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-02-18",
+    "time": "05:00 PM - 06:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/uC7KoCtDRg-Eim1WHn9nmw#/registration\">RSVP HERE</a>"
   },
   {
     "title": "Civil Service Workshop",
@@ -3440,27 +3477,11 @@
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration\">RSVP HERE </a>"
   },
   {
-    "title": "Library Research 101",
-    "link": "https://www.eventbrite.com/e/library-research-101-tickets-1980188166110?aff=oddtdtcreator",
+    "title": "Write Like You Never Left School",
+    "link": "https://www.eventbrite.com/e/write-like-you-never-left-school-tickets-1979884002348?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-02-13",
-    "time": "11:15 PM - 12:15 AM",
-    "description": "<br><br><br><br><br><p>Do you need to find trustworthy articles and books for your research but don’t know where to start? Join this 60-minute workshop with your SLU librarian for an overview of CUNY library resources and services. By the end of the session, you will know how to search for books, which databases to use, how to keep track of everything you find, and who to contact for expert help. *<strong><strong>Registration closes at 4:30pm on 2/13</strong></strong>*</p><a href=\"https://www.eventbrite.com/e/library-research-101-tickets-1980188166110?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
-    "title": "Introduction to Jamovi",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-02-06",
-    "time": "11:15 PM - 12:15 AM",
-    "description": "Learn the basics of Jamovi in this workshop designed for students in URB 610 (though students from other courses are welcome to attend!) The workshop will guide you through importing data, exploring datasets, and performing foundational statistical tests to get your research started. <b>*Registration closes at 4:30pm on 2/6*</b><br><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE </a>"
-  },
-  {
-    "title": "Data Essentials",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-06",
-    "time": "11:15 PM - 12:15 AM",
-    "description": "<p>Learn how to find, query, export, clean, and organize data for your research. This workshop covers common sources of data by topic, including government and public datasets, academic repositories, and organizational reports. You’ll also practice handling missing values, formatting datasets, and preparing your data for analysis. *Registration closes at 4:30pm on 3/6*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE </a>"
+    "date": "2026-02-08",
+    "time": "08:15 PM - 09:30 PM",
+    "description": "Has it been a while since you’ve written an academic paper? This workshop will provide an overview of key modes and activities of academic writing. We’ll introduce strategies for getting started and moving forward with an assignment, highlighting processes and resources to support your writing. <b>*Registration closes at 4:30pm on 2/6*</b><br><br><a href=\"https://www.eventbrite.com/e/write-like-you-never-left-school-tickets-1979884002348?aff=oddtdtcreator\">RSVP HERE</a>"
   }
 ]
