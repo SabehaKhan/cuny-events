@@ -1317,29 +1317,6 @@
     ]
   },
   {
-    "title": "Black Cinema Event",
-    "link": "https://www.laguardia.edu/event/black-cinema-event/2026-02-10/",
-    "college": "LaGuardia Community College",
-    "date": "2026-02-10",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "Faculty and Staff",
-      "student events"
-    ]
-  },
-  {
-    "title": "Paint & Sip",
-    "link": "https://www.laguardia.edu/event/paint-sip-3/",
-    "college": "LaGuardia Community College",
-    "date": "2026-02-10",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Library Book Sale",
     "link": "https://www.laguardia.edu/event/library-book-sale/2026-02-11/",
     "college": "LaGuardia Community College",
@@ -1598,6 +1575,28 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person-2/2026-03-04/",
+    "college": "LaGuardia Community College",
+    "date": "2026-03-04",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-2/2026-03-04/",
+    "college": "LaGuardia Community College",
+    "date": "2026-03-04",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Movie Marathon: The Photograph",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376921",
     "college": "Guttman Community College",
@@ -1738,48 +1737,6 @@
     ]
   },
   {
-    "title": "Business at Hunter Open House (Cooperman Business Center)",
-    "link": "https://www.hunter.cuny.edu/event/business-at-hunter-open-house-cooperman-business-center/",
-    "college": "Hunter College",
-    "date": "2026-02-10",
-    "time": "12:30 PM - 02:00 PM",
-    "tags": [
-      "Pre-Business",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Semester Check In",
-    "link": "https://www.hunter.cuny.edu/event/semester-check-in/",
-    "college": "Hunter College",
-    "date": "2026-02-10",
-    "time": "01:30 PM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "2026 Prospective USG Candidate Workshop",
-    "link": "https://www.hunter.cuny.edu/event/2026-prospective-usg-candidate-workshop/2026-02-10/",
-    "college": "Hunter College",
-    "date": "2026-02-10",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Resume Clinic",
-    "link": "https://www.hunter.cuny.edu/event/resume-clinic/",
-    "college": "Hunter College",
-    "date": "2026-02-10",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Cortec Group Info Session: Learn About Their Exclusive Hunter Internship Program",
     "link": "https://www.hunter.cuny.edu/event/cortec-group-info-session-learn-about-their-exclusive-hunter-internship-program/",
     "college": "Hunter College",
@@ -1840,16 +1797,6 @@
     "time": "05:00 PM - 06:00 PM",
     "tags": [
       "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Study Abroad 101 Webinar",
-    "link": "https://www.hunter.cuny.edu/event/study-abroad-101-webinar-5/",
-    "college": "Hunter College",
-    "date": "2026-02-12",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
       "Student Events"
     ]
   },
@@ -1982,6 +1929,16 @@
     ]
   },
   {
+    "title": "Study Abroad 101 Webinar",
+    "link": "https://www.hunter.cuny.edu/event/study-abroad-101-webinar-5/",
+    "college": "Hunter College",
+    "date": "2026-02-19",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "FAFSA/TAP Helpdesk In-person Fridays",
     "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-fridays-4/",
     "college": "Hunter College",
@@ -2036,46 +1993,45 @@
     "tags": []
   },
   {
-    "title": "Free Workshop: Visual Studio (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/free-workshop-visual-studio-students-only/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-02-10",
-    "time": "01:00 PM - 02:00 PM",
+    "title": "Resume Clinic",
+    "link": "https://www.hunter.cuny.edu/event/resume-clinic-2/",
+    "college": "Hunter College",
+    "date": "2026-02-23",
+    "time": "02:15 PM - 03:15 PM",
     "tags": [
-      "Featured",
-      "Learning Resource Center"
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
     ]
   },
   {
-    "title": "Spring 2026 Super Fair",
-    "link": "https://www.bmcc.cuny.edu/event/spring-2026-super-fair/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-02-10",
-    "time": "01:00 PM - 03:00 PM",
+    "title": "Semester Check In",
+    "link": "https://www.hunter.cuny.edu/event/semester-check-in-3-2/",
+    "college": "Hunter College",
+    "date": "2026-02-24",
+    "time": "01:30 PM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Practice Your Pitch Clinic",
+    "link": "https://www.hunter.cuny.edu/event/practice-your-pitch-clinic/",
+    "college": "Hunter College",
+    "date": "2026-02-24",
+    "time": "02:15 PM - 03:15 PM",
     "tags": [
-      "Featured",
-      "New Student Programs",
-      "Office of Student Activities (OSA)",
-      "Student Affairs"
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
     ]
   },
   {
-    "title": "Afrikan Heritage Month: The Life and Times of Zora Neale Hurston",
-    "link": "https://www.bmcc.cuny.edu/event/afrikan-heritage-month-life-and-times-of-zora-neale-hurston/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-02-10",
-    "time": "03:30 PM - 04:45 PM",
+    "title": "American Voices - Louis Armstrong",
+    "link": "https://www.hunter.cuny.edu/event/american-voices-louis-armstrong/",
+    "college": "Hunter College",
+    "date": "2026-02-24",
+    "time": "07:00 PM - 07:00 PM",
     "tags": [
-      "Afrikan Heritage Month",
-      "English",
-      "Featured",
-      "Gender and Women's Studies",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs",
-      "Urban Male Leadership Academy (UMLA)"
+      "Performing Arts & Film"
     ]
   },
   {
@@ -2159,6 +2115,19 @@
     ]
   },
   {
+    "title": "Study Abroad Scholarship Application Support",
+    "link": "https://www.bmcc.cuny.edu/event/study-abroad-scholarship-application-support/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-02-11",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "CIEE",
+      "Featured",
+      "Student Affairs",
+      "Study Abroad"
+    ]
+  },
+  {
     "title": "Shirley Fiterman Art Center Opening: BMCC Faculty Exhibition",
     "link": "https://www.bmcc.cuny.edu/event/shirley-fiterman-art-center-opening-bmcc-faculty-exhibition/",
     "college": "Borough of Manhattan Community College",
@@ -2193,6 +2162,18 @@
       "Human Services and Criminal Justice",
       "Student Affairs",
       "Urban Male Leadership Academy (UMLA)"
+    ]
+  },
+  {
+    "title": "Study Abroad Application Support",
+    "link": "https://www.bmcc.cuny.edu/event/study-abroad-application-support/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-02-13",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "CIEE",
+      "Featured",
+      "Study Abroad"
     ]
   },
   {
@@ -2243,6 +2224,18 @@
     ]
   },
   {
+    "title": "Study Abroad Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/study-abroad-information-session-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-02-17",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "CIEE",
+      "Featured",
+      "Study Abroad"
+    ]
+  },
+  {
     "title": "Afrikan Heritage Month: Borderless Dreams: Make Your 2026 Vision Board with the  Immigrant Resource Center",
     "link": "https://www.bmcc.cuny.edu/event/afrikan-heritage-month-borderless-dreams-make-your-2026-vision-board-with-immigrant-resource-center/",
     "college": "Borough of Manhattan Community College",
@@ -2256,6 +2249,18 @@
       "Immigration Support",
       "International Student Events/Workshops",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "Study Abroad Scholarship Session",
+    "link": "https://www.bmcc.cuny.edu/event/study-abroad-scholarship-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-02-17",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "CIEE",
+      "Featured",
+      "Study Abroad"
     ]
   },
   {
@@ -2280,6 +2285,18 @@
       "Academic Advisement & Transfer",
       "Featured",
       "Scholarships"
+    ]
+  },
+  {
+    "title": "Study Abroad Application Support",
+    "link": "https://www.bmcc.cuny.edu/event/study-abroad-application-support-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-02-18",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "CIEE",
+      "Featured",
+      "Study Abroad"
     ]
   },
   {
@@ -2416,38 +2433,6 @@
     ]
   },
   {
-    "title": "Transfer Talk Tuesday: Explore Your Options After BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/transfer-talk-tuesday-explore-your-options-after-bmcc-24/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-02-24",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer",
-      "Academic Affairs",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Resume and Cover Letter Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/resume-and-cover-letter-workshop/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-02-24",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Lunch With Leaders: In Celebration of Black History Month",
-    "link": "https://www.bcc.cuny.edu/event/lunch-with-leaders-in-celebration-of-black-history-month/",
-    "college": "Bronx Community College",
-    "date": "2026-02-10",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "65th Anniversary of Dr. Martin Luther King Jr.’s Visit to the Hall of Fame Playhouse",
     "link": "https://www.bcc.cuny.edu/event/65th-anniversary-of-dr-martin-luther-king-jr-s-visit-to-the-hall-of-fame-playhouse/",
     "college": "Bronx Community College",
@@ -2519,104 +2504,20 @@
     "tags": []
   },
   {
-    "title": "LGBTQ+ Support Group",
-    "link": "https://csi.campuslabs.com/engage/event/12147440",
-    "college": "College of Staten Island",
-    "date": "2026-02-10",
-    "time": "05:30 PM - 06:30 PM",
-    "tags": [
-      "Social",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion",
-      "Willowbrook Campus",
-      "Students Only"
-    ]
+    "title": "BCC Senate",
+    "link": "https://www.bcc.cuny.edu/event/bcc-senate/2026-02-26/",
+    "college": "Bronx Community College",
+    "date": "2026-02-26",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
   },
   {
-    "title": "A Dialogue on Slavery of Black Africans in Spain and the Spanish Caribbean (CLUE: 262058-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/12213705",
-    "college": "College of Staten Island",
-    "date": "2026-02-10",
-    "time": "05:15 PM - 07:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion",
-      "CC CLUE"
-    ]
-  },
-  {
-    "title": "E&ES Lecture Series: NJDEP and You: What to expect from a career with NJDEP (CLUE: 262046-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/12170227",
-    "college": "College of Staten Island",
-    "date": "2026-02-10",
-    "time": "07:30 PM - 08:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "CC CLUE",
-      "Career Development"
-    ]
-  },
-  {
-    "title": "“From FAFSA to Dollars: A Guide to Financial Aid Success” (262027-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/12172924",
-    "college": "College of Staten Island",
-    "date": "2026-02-10",
-    "time": "07:30 PM - 08:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "PG CLUE"
-    ]
-  },
-  {
-    "title": "Biology Lecture Series: From Individuals to Ecosystems (262051-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/12177655",
-    "college": "College of Staten Island",
-    "date": "2026-02-10",
-    "time": "07:30 PM - 08:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "CC CLUE"
-    ]
-  },
-  {
-    "title": "Sheikh Ahmed Al Hoori Lecture",
-    "link": "https://csi.campuslabs.com/engage/event/12207598",
-    "college": "College of Staten Island",
-    "date": "2026-02-10",
-    "time": "07:30 PM - 09:00 PM",
-    "tags": [
-      "Spirituality"
-    ]
-  },
-  {
-    "title": "Winter Involvement Fair (262025-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/11974122",
-    "college": "College of Staten Island",
-    "date": "2026-02-10",
-    "time": "07:30 PM - 09:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Leadership",
-      "Learning",
-      "PG CLUE",
-      "Social",
-      "Dolphin Days"
-    ]
-  },
-  {
-    "title": "Valentine Card Making",
-    "link": "https://csi.campuslabs.com/engage/event/12048190",
-    "college": "College of Staten Island",
-    "date": "2026-02-10",
-    "time": "08:30 PM - 09:30 PM",
-    "tags": [
-      "Arts"
-    ]
+    "title": "Men's Conference",
+    "link": "https://www.bcc.cuny.edu/event/mens-conference/",
+    "college": "Bronx Community College",
+    "date": "2026-02-27",
+    "time": "09:00 AM - 04:00 PM",
+    "tags": []
   },
   {
     "title": "Weekly Tea Time!",
@@ -3169,6 +3070,47 @@
       "Conference",
       "Off Campus Event",
       "Career Development"
+    ]
+  },
+  {
+    "title": "E&ES Lecture Series: How can we use the rock record to learn about ancient volcanoes & earthquakes? (CLUE: 262047-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/12172269",
+    "college": "College of Staten Island",
+    "date": "2026-03-12",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "CC CLUE",
+      "Career Development"
+    ]
+  },
+  {
+    "title": "The Importance of Study Habits & Time Management_Virtual (CLUE: 262034-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/12213913",
+    "college": "College of Staten Island",
+    "date": "2026-03-12",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "PG CLUE"
+    ]
+  },
+  {
+    "title": "International Coffee Hour Spring 2026 262012-PG",
+    "link": "https://csi.campuslabs.com/engage/event/12110609",
+    "college": "College of Staten Island",
+    "date": "2026-03-12",
+    "time": "08:00 PM - 09:00 PM",
+    "tags": [
+      "Social",
+      "Leadership",
+      "Global Engagement",
+      "PG CLUE",
+      "Entertainment",
+      "Willowbrook Campus",
+      "Cultural"
     ]
   },
   {
@@ -3857,6 +3799,14 @@
     "tags": []
   },
   {
+    "title": "Financial Planning for Small Businesses",
+    "link": "https://www.lehman.edu/events/2026/Financial-Planning-for-Small-Businesses-1.php",
+    "college": "Lehman College",
+    "date": "2026-02-11",
+    "time": "3:00 PM- 4:15 PM",
+    "tags": []
+  },
+  {
     "title": "Opening Reception: Spring 2026 Art Gallery Exhibition",
     "link": "https://www.lehman.edu/events/2026/Opening-Reception-Spring-2026-Art-Gallery-Exhibition-1.php",
     "college": "Lehman College",
@@ -3909,14 +3859,6 @@
     "link": "https://www.lehman.edu/events/2026/Together-as-One-Critical-Conversations-on-Healthy-Relationships.php",
     "college": "Lehman College",
     "date": "2026-02-19",
-    "time": "12:00 PM- 2:00 PM",
-    "tags": []
-  },
-  {
-    "title": "AI Month: Tools, Ethics, and Voices Across the Learning Ecosystem",
-    "link": "https://www.lehman.edu/events/2026/AI-Month-Tools-Ethics-and-Voices-Across-the-Learning-Ecosystem.php?event_type=recurs_1",
-    "college": "Lehman College",
-    "date": "2026-02-20",
     "time": "12:00 PM- 2:00 PM",
     "tags": []
   },
@@ -4384,20 +4326,44 @@
     ]
   },
   {
-    "title": "Civil Service Workshop",
-    "link": "https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration",
+    "title": "Intro to the Library at SLU",
+    "link": "https://www.eventbrite.com/e/introduction-to-the-slu-library-tickets-1980399195304?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-21",
-    "time": "02:00 PM - 03:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration\">RSVP HERE </a>"
+    "date": "2026-02-17",
+    "time": "05:15 PM - 05:45 PM",
+    "description": "Join the SLU librarian for a quick lunchtime overview of how to login to library databases, check out books, and request books and articles.<br><a href=\"https://www.eventbrite.com/e/introduction-to-the-slu-library-tickets-1980399195304?aff=oddtdtcreator\">RVSP HERE</a>"
   },
   {
-    "title": "Last Minute Lit Review Research",
-    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
+    "title": "Get Started with Zotero & Citation Management",
+    "link": "https://www.eventbrite.com/e/get-started-with-zotero-citation-management-tickets-1980188593388?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-24",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
+    "date": "2026-03-13",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "This session will introduce you to the Zotero citation management software and provide an overview of the installation process, how you can use it to keep track of the sources you find, organize a citation library, and insert your formatted sources in your paper. Beginners are absolutely welcome, no experience needed! *Registration closes at 4:30pm on 3/13*<br><br><a href=\"https://www.eventbrite.com/e/get-started-with-zotero-citation-management-tickets-1980188593388?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
+    "title": "Selecting the Best Quantitative Approach",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-03-27",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>Learn how to choose the right quantitative method for your research question and data. We’ll review common statistical approaches, assumptions, and how to plan an analysis strategy that fits your project. *Registration closes at 4:30pm on 3/27*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
+    "title": "Data Essentials",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-03-06",
+    "time": "11:15 PM - 12:15 AM",
+    "description": "<p>Learn how to find, query, export, clean, and organize data for your research. This workshop covers common sources of data by topic, including government and public datasets, academic repositories, and organizational reports. You’ll also practice handling missing values, formatting datasets, and preparing your data for analysis. *Registration closes at 4:30pm on 3/6*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE </a>"
+  },
+  {
+    "title": "Resume Writing with The Learning Center",
+    "link": "https://us02web.zoom.us/meeting/register/ACIgtsF0QHO7DSLypB2ofA#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-02-28",
+    "time": "03:00 PM - 04:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/ACIgtsF0QHO7DSLypB2ofA#/registration\">RSVP HERE</a>"
   },
   {
     "title": "Feel the Fear and Present Anyway",
@@ -4424,14 +4390,6 @@
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
   },
   {
-    "title": "Get Started with Zotero & Citation Management",
-    "link": "https://www.eventbrite.com/e/get-started-with-zotero-citation-management-tickets-1980188593388?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-13",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "This session will introduce you to the Zotero citation management software and provide an overview of the installation process, how you can use it to keep track of the sources you find, organize a citation library, and insert your formatted sources in your paper. Beginners are absolutely welcome, no experience needed! *Registration closes at 4:30pm on 3/13*<br><br><a href=\"https://www.eventbrite.com/e/get-started-with-zotero-citation-management-tickets-1980188593388?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
     "title": "Research for Literature Reviews",
     "link": "https://www.eventbrite.com/e/research-for-literature-reviews-tickets-1980188985561?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
@@ -4440,12 +4398,28 @@
     "description": "<p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 3/20*</p><a href=\"https://www.eventbrite.com/e/research-for-literature-reviews-tickets-1980188985561?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
+    "title": "Internship Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/uC7KoCtDRg-Eim1WHn9nmw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-02-18",
+    "time": "05:00 PM - 06:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/uC7KoCtDRg-Eim1WHn9nmw#/registration\">RSVP HERE</a>"
+  },
+  {
     "title": "Library Research 101",
     "link": "https://www.eventbrite.com/e/library-research-101-tickets-1980188448956?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
     "date": "2026-02-20",
     "time": "11:15 PM - 12:15 AM",
     "description": "<p>Do you need to find trustworthy articles and books for your research but don’t know where to start? Join this 60-minute workshop with your SLU librarian for an overview of CUNY library resources and services. By the end of the session, you will know how to search for books, which databases to use, how to keep track of everything you find, and who to contact for expert help. *Registration closes at 4:30pm on 2/20*</p><a href=\"https://www.eventbrite.com/e/library-research-101-tickets-1980188448956?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
+    "title": "Last Minute Lit Review Research",
+    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-24",
+    "time": "10:15 PM - 11:30 PM",
+    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
     "title": "Data Communication and Reporting Results",
@@ -4464,28 +4438,12 @@
     "description": "<br><br><br><br><br><p>Do you need to find trustworthy articles and books for your research but don’t know where to start? Join this 60-minute workshop with your SLU librarian for an overview of CUNY library resources and services. By the end of the session, you will know how to search for books, which databases to use, how to keep track of everything you find, and who to contact for expert help. *<strong><strong>Registration closes at 4:30pm on 2/13</strong></strong>*</p><a href=\"https://www.eventbrite.com/e/library-research-101-tickets-1980188166110?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
-    "title": "Resume Writing with The Learning Center",
-    "link": "https://us02web.zoom.us/meeting/register/ACIgtsF0QHO7DSLypB2ofA#/registration",
+    "title": "Civil Service Workshop",
+    "link": "https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-02-28",
-    "time": "03:00 PM - 04:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/ACIgtsF0QHO7DSLypB2ofA#/registration\">RSVP HERE</a>"
-  },
-  {
-    "title": "Selecting the Best Quantitative Approach",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-27",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Learn how to choose the right quantitative method for your research question and data. We’ll review common statistical approaches, assumptions, and how to plan an analysis strategy that fits your project. *Registration closes at 4:30pm on 3/27*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
-    "title": "Intro to the Library at SLU",
-    "link": "https://www.eventbrite.com/e/introduction-to-the-slu-library-tickets-1980399195304?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-02-17",
-    "time": "05:15 PM - 05:45 PM",
-    "description": "Join the SLU librarian for a quick lunchtime overview of how to login to library databases, check out books, and request books and articles.<br><a href=\"https://www.eventbrite.com/e/introduction-to-the-slu-library-tickets-1980399195304?aff=oddtdtcreator\">RVSP HERE</a>"
+    "date": "2026-03-21",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration\">RSVP HERE </a>"
   },
   {
     "title": "Reading Tips to Save Time",
@@ -4494,21 +4452,5 @@
     "date": "2026-02-21",
     "time": "05:15 PM - 05:45 PM",
     "description": "<p>Ever found yourself highlighting every sentence on a page or re-reading a passage without comprehension? This thirty-minute workshop offers strategies for how to set yourself up to read with purpose, so you can focus on what’s most important and save energy and time in the long run. *Registration closes at 4:30pm on 2/20*</p><a href=\"https://www.eventbrite.com/e/reading-tips-to-save-time-tickets-1979895922000?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
-    "title": "Internship Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/uC7KoCtDRg-Eim1WHn9nmw#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-02-18",
-    "time": "05:00 PM - 06:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/uC7KoCtDRg-Eim1WHn9nmw#/registration\">RSVP HERE</a>"
-  },
-  {
-    "title": "Data Essentials",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-06",
-    "time": "11:15 PM - 12:15 AM",
-    "description": "<p>Learn how to find, query, export, clean, and organize data for your research. This workshop covers common sources of data by topic, including government and public datasets, academic repositories, and organizational reports. You’ll also practice handling missing values, formatting datasets, and preparing your data for analysis. *Registration closes at 4:30pm on 3/6*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE </a>"
   }
 ]
