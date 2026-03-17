@@ -48,19 +48,19 @@
     "tags": []
   },
   {
-    "title": "The Black Studies Department presents Women's History Month Imitation of Life Viewing & Lecture",
-    "link": "https://www.ccny.cuny.edu/calendar/imitation-life-lecture-womans-history",
-    "college": "City College of New York",
-    "date": "2026-03-19",
-    "time": "06:30 PM - 09:30 PM",
-    "tags": []
-  },
-  {
     "title": "AI, Ethics, and the Future of Nonfiction Storytelling",
     "link": "https://www.ccny.cuny.edu/calendar/ai-ethics-and-future-nonfiction-storytelling",
     "college": "City College of New York",
     "date": "2026-03-19",
     "time": "06:30 PM - 07:30 PM",
+    "tags": []
+  },
+  {
+    "title": "The Black Studies Department presents Women's History Month Imitation of Life Viewing & Lecture",
+    "link": "https://www.ccny.cuny.edu/calendar/imitation-life-lecture-womans-history",
+    "college": "City College of New York",
+    "date": "2026-03-19",
+    "time": "06:30 PM - 09:30 PM",
     "tags": []
   },
   {
@@ -2430,6 +2430,19 @@
     ]
   },
   {
+    "title": "Jenga and Talk - Immigrant Mental Health Peer Group #1",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377136",
+    "college": "Guttman Community College",
+    "date": "2026-03-19",
+    "time": "05:30 PM - 06:30 PM",
+    "tags": [
+      "GBG",
+      "Support Session",
+      "Immigrant Student Success",
+      "Counseling & Wellness "
+    ]
+  },
+  {
     "title": "Sustainability Hackathon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377103",
     "college": "Guttman Community College",
@@ -2556,6 +2569,19 @@
     ]
   },
   {
+    "title": "Art therapy - Immigrant Mental Health Peer Group #2",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377138",
+    "college": "Guttman Community College",
+    "date": "2026-03-31",
+    "time": "05:30 PM - 06:30 PM",
+    "tags": [
+      "GBG",
+      "Support Session",
+      "Counseling & Wellness",
+      "Immigrant Student Success"
+    ]
+  },
+  {
     "title": "Financial Literacy Workshop Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377106",
     "college": "Guttman Community College",
@@ -2631,6 +2657,19 @@
     ]
   },
   {
+    "title": "Map Challenge with Grizzlies Beyond Borders",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377139",
+    "college": "Guttman Community College",
+    "date": "2026-04-21",
+    "time": "05:30 PM - 06:30 PM",
+    "tags": [
+      "GBG",
+      "Social",
+      "Immigrant Student Success",
+      "Food - Lunch "
+    ]
+  },
+  {
     "title": "Gaming Grizzlies Weekly Freeplay",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377125",
     "college": "Guttman Community College",
@@ -2689,6 +2728,19 @@
       "Social",
       "Food - Light Refreshments",
       "Student Life"
+    ]
+  },
+  {
+    "title": "GBB: Movie Day",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377140",
+    "college": "Guttman Community College",
+    "date": "2026-05-05",
+    "time": "05:15 PM - 06:45 PM",
+    "tags": [
+      "GBG",
+      "Social",
+      "Immigrant Student Success",
+      "Food - Light Refreshments "
     ]
   },
   {
@@ -3176,6 +3228,17 @@
     ]
   },
   {
+    "title": "Internship Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/internship-information-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-18",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "Internships & Experiential Learning"
+    ]
+  },
+  {
     "title": "MoneyWorks Seminar: What Successful Investors Know",
     "link": "https://www.bmcc.cuny.edu/event/moneyworks-seminar-what-successful-investors-know/",
     "college": "Borough of Manhattan Community College",
@@ -3411,6 +3474,18 @@
       "Student Affairs",
       "Women's HerStory Month",
       "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "Salary Negotiations by Amy Geffen",
+    "link": "https://www.bmcc.cuny.edu/event/salary-negotiations-by-amy-geffen/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-26",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
     ]
   },
   {
@@ -4113,7 +4188,7 @@
     ]
   },
   {
-    "title": "Memory Boxes",
+    "title": "Memory Boxes and Elections",
     "link": "https://csi.campuslabs.com/engage/event/12181656",
     "college": "College of Staten Island",
     "date": "2026-04-14",
@@ -4242,6 +4317,16 @@
       "Career Center",
       "SEEK",
       "mens center"
+    ]
+  },
+  {
+    "title": "Digital Publishing Platforms available at CUNY – Manifold, Pressbooks, and CUNY Academic Commons (in person with Zoom option)",
+    "link": "https://events.cuny.edu/cec/digital-publishing-platforms-available-at-cuny-manifold-pressbooks-and-cuny-academic-commons-in-person-with-zoom-option/",
+    "college": "College of Staten Island",
+    "date": "2026-03-17",
+    "time": "2:30 PM - 4:30 PM",
+    "tags": [
+      "Center for Teaching and Learning"
     ]
   },
   {
@@ -4852,6 +4937,14 @@
     "college": "CUNY School of Public Health",
     "date": "2026-04-17",
     "time": "9:00 AM - 5:00PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY SPH Virtual Career Fair Q&A Session",
+    "link": "https://sph.cuny.edu/event/cuny-sph-virtual-career-fair-qa-session-2/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-04-20",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -5523,12 +5616,12 @@
     ]
   },
   {
-    "title": "Research for Literature Reviews",
-    "link": "https://www.eventbrite.com/e/research-for-literature-reviews-tickets-1980188985561?aff=oddtdtcreator",
+    "title": "Civil Service Workshop",
+    "link": "https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-20",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 3/20*</p><a href=\"https://www.eventbrite.com/e/research-for-literature-reviews-tickets-1980188985561?aff=oddtdtcreator\">RSVP HERE</a>"
+    "date": "2026-03-21",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration\">RSVP HERE </a>"
   },
   {
     "title": "Data Communication and Reporting Results",
@@ -5537,6 +5630,22 @@
     "date": "2026-04-17",
     "time": "10:15 PM - 11:15 PM",
     "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+  },
+  {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-12",
+    "time": "07:15 PM - 08:30 PM",
+    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
+  },
+  {
+    "title": "Last Minute Lit Review Research",
+    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-24",
+    "time": "10:15 PM - 11:30 PM",
+    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
     "title": "Selecting the Best Quantitative Approach",
@@ -5555,27 +5664,11 @@
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
   },
   {
-    "title": "Last Minute Lit Review Research",
-    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
+    "title": "Research for Literature Reviews",
+    "link": "https://www.eventbrite.com/e/research-for-literature-reviews-tickets-1980188985561?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-24",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
-    "title": "Civil Service Workshop",
-    "link": "https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-21",
-    "time": "02:00 PM - 03:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration\">RSVP HERE </a>"
-  },
-  {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-12",
-    "time": "07:15 PM - 08:30 PM",
-    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
+    "date": "2026-03-20",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 3/20*</p><a href=\"https://www.eventbrite.com/e/research-for-literature-reviews-tickets-1980188985561?aff=oddtdtcreator\">RSVP HERE</a>"
   }
 ]
