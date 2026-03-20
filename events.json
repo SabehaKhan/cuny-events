@@ -2068,29 +2068,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-03-20/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-20",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Explore the Public Theater: Behind‐the‐Scenes Site Visit",
-    "link": "https://www.laguardia.edu/event/explore-the-public-theater-behind-the-scenes-site-visit/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-20",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-03-23/",
     "college": "LaGuardia Community College",
@@ -2391,6 +2368,29 @@
     "college": "LaGuardia Community College",
     "date": "2026-03-26",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Student Talks: Women, gender, and trauma informed pedagogy",
+    "link": "https://www.laguardia.edu/event/student-talks-women-gender-and-trauma-informed-pedagogy/",
+    "college": "LaGuardia Community College",
+    "date": "2026-03-26",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Emergency Preparedness and Response Event",
+    "link": "https://www.laguardia.edu/event/emergency-preparedness-and-response-event/",
+    "college": "LaGuardia Community College",
+    "date": "2026-03-26",
+    "time": "02:00 PM - 04:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2797,14 +2797,6 @@
     ]
   },
   {
-    "title": "FAFSA/TAP Helpdesk In-person Fridays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-in-person-fridays-8/",
-    "college": "Hunter College",
-    "date": "2026-03-20",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": []
-  },
-  {
     "title": "Hunter Theatre Department presents Big Love",
     "link": "https://www.hunter.cuny.edu/event/hunter-theatre-department-presents-big-love/2026-03-21/1/",
     "college": "Hunter College",
@@ -3090,6 +3082,14 @@
     "college": "Hunter College",
     "date": "2026-03-30",
     "time": "12:30 PM - 01:30 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
+    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-21/",
+    "college": "Hunter College",
+    "date": "2026-03-30",
+    "time": "01:00 PM - 03:00 PM",
     "tags": []
   },
   {
@@ -4385,6 +4385,14 @@
     "tags": []
   },
   {
+    "title": "Medical Billing & Coding Certification for English Language Learners",
+    "link": "https://citytech.event.cuny.edu/events/k4Wbf1P12jAwpieCTTqL/oZu04oyZEu7cYTHZJDM74",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-03-20",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
     "title": "City Tech Spring 2026 General Tour (03/20/2026)",
     "link": "https://citytech.event.cuny.edu/events/DyspZqFvxjpq1c2JGsJ1/biDGD027Vev2NHD0cXKg",
     "college": "New York City College of Technology (City Tech)",
@@ -4414,14 +4422,6 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-03-21",
     "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "Workshop Rooms",
-    "link": "https://citytech.event.cuny.edu/events/ZGoU6Ahx3UBvX3YmI1zb/VzpSW7yLrpQtNph60HA15",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-03-21",
-    "time": "12:00PM",
     "tags": []
   },
   {
@@ -5001,19 +5001,19 @@
     "tags": []
   },
   {
+    "title": "Healing Through Creative Expression",
+    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/healing-through-creative-expression",
+    "college": "York College",
+    "date": "2026-03-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
     "title": "CPR Training",
     "link": "https://www.york.cuny.edu/health/cpr-training-april2025",
     "college": "York College",
     "date": "2026-03-20",
     "time": "1:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Mar 20",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-mar20",
-    "college": "York College",
-    "date": "2026-03-20",
-    "time": "1:30 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -5217,12 +5217,44 @@
     ]
   },
   {
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-15",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
+  },
+  {
     "title": "Feel the Fear and Present Anyway",
     "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
     "date": "2026-04-12",
     "time": "07:15 PM - 08:30 PM",
     "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
+  },
+  {
+    "title": "Research for Literature Reviews",
+    "link": "https://www.eventbrite.com/e/research-for-literature-reviews-tickets-1980188985561?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-03-20",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 3/20*</p><a href=\"https://www.eventbrite.com/e/research-for-literature-reviews-tickets-1980188985561?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
+    "title": "Last Minute Lit Review Research",
+    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-24",
+    "time": "10:15 PM - 11:30 PM",
+    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
+    "title": "Civil Service Workshop",
+    "link": "https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-03-21",
+    "time": "02:00 PM - 03:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration\">RSVP HERE </a>"
   },
   {
     "title": "Selecting the Best Quantitative Approach",
@@ -5239,37 +5271,5 @@
     "date": "2026-04-17",
     "time": "10:15 PM - 11:15 PM",
     "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
-  },
-  {
-    "title": "Last Minute Lit Review Research",
-    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-24",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
-    "title": "Research for Literature Reviews",
-    "link": "https://www.eventbrite.com/e/research-for-literature-reviews-tickets-1980188985561?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-20",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 3/20*</p><a href=\"https://www.eventbrite.com/e/research-for-literature-reviews-tickets-1980188985561?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
-    "title": "Civil Service Workshop",
-    "link": "https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-21",
-    "time": "02:00 PM - 03:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/bUSyybWFTiCke9_6XO_aIw#/registration\">RSVP HERE </a>"
-  },
-  {
-    "title": "Employer Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-15",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
   }
 ]
