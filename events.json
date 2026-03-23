@@ -1194,14 +1194,6 @@
     "tags": []
   },
   {
-    "title": "SGA Presents Tickets to the New York Knicks",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/100ef059-42cf-46ae-971b-0fe008441354",
-    "college": "Kingsborough Community College",
-    "date": "2026-03-22",
-    "time": "11:30 PM - 11:30 PM",
-    "tags": []
-  },
-  {
     "title": "Becoming & Blooming: Leadership in Progress",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/500301fb-c5be-48f4-b2cc-c43fa08acf14",
     "college": "Kingsborough Community College",
@@ -3055,30 +3047,6 @@
     ]
   },
   {
-    "title": "Jane Young Spring 2026 Film Series: Greed, a Film Retrospective",
-    "link": "https://www.bmcc.cuny.edu/event/jane-young-spring-2026-film-series-greed-a-film-retrospective/2026-03-22/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-03-22",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "CUNY in The Heights",
-      "Economics",
-      "English",
-      "Evening-Weekend",
-      "Featured",
-      "Human Services and Criminal Justice",
-      "Media Arts and Technology",
-      "Office of Student Activities (OSA)",
-      "Psychology",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs",
-      "Theatre"
-    ]
-  },
-  {
     "title": "Crunch and Munch: Smart Snacking for College Students (with Free Samples)",
     "link": "https://www.bmcc.cuny.edu/event/crunch-and-munch-smart-snacking-for-college-students-with-free-samples/",
     "college": "Borough of Manhattan Community College",
@@ -3394,6 +3362,20 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "Free Naturalization Clinic for BMCC Students - Register by March 26 for April 2 Clinic",
+    "link": "https://www.bmcc.cuny.edu/event/free-naturalization-clinic-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-02",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "Advocacy and Resource Center (ARC)",
+      "Featured",
+      "Immigration Support",
+      "International Student Events/Workshops",
+      "Student Affairs"
     ]
   },
   {
@@ -4278,30 +4260,6 @@
   },
   {
     "title": "SU Relocation",
-    "link": "https://qc.event.cuny.edu/events/Jjw60nfDqiKhayIgP7iV/gN7plGv0JgFquqDxoO0q34",
-    "college": "Queens College",
-    "date": "2026-03-22",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "MSCHE Visit",
-    "link": "https://qc.event.cuny.edu/events/ven7Vj2xForunMvBulZW/jLjlxIrG2BnWe8rkbDJQ",
-    "college": "Queens College",
-    "date": "2026-03-22",
-    "time": "8:30AM",
-    "tags": []
-  },
-  {
-    "title": "Math Make-Up Class",
-    "link": "https://qc.event.cuny.edu/events/Psoao2vZ21QjoME8g5UM/yroXbSE2Kc4Ohy1IHf3J",
-    "college": "Queens College",
-    "date": "2026-03-22",
-    "time": "2:00PM",
-    "tags": []
-  },
-  {
-    "title": "SU Relocation",
     "link": "https://qc.event.cuny.edu/events/Jjw60nfDqiKhayIgP7iV/FVdS7kCLJNKb4yh4pLSw35",
     "college": "Queens College",
     "date": "2026-03-23",
@@ -4485,11 +4443,11 @@
     "tags": []
   },
   {
-    "title": "ARC Scholars Event",
-    "link": "https://citytech.event.cuny.edu/events/zaIGs78oRL9ZLhWeWiFh/vitUQxFOimR7Je6MeTIP4",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-03-22",
-    "time": "10:00AM",
+    "title": "Bloomberg Professional for Equities @ SFSC Trading Floor, Rm. 124",
+    "link": "https://baruch.event.cuny.edu/events/wwpJRNEjSNNNvSirPvLO/k1FmPyOZNbkrbJqc3zV1",
+    "college": "Baruch College",
+    "date": "2026-03-30",
+    "time": "12:45PM",
     "tags": []
   },
   {
@@ -4629,6 +4587,14 @@
     "tags": []
   },
   {
+    "title": "SUPT 406 : 1.2 Building Systems and Equipment",
+    "link": "https://citytech.event.cuny.edu/events/NDlZNpefOnEotVDbw2Cb/Pjc03vHe17dI6XAuYC3v18",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-03-24",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
     "title": "Career Services on the Go!",
     "link": "https://hostos.event.cuny.edu/events/lnf8MfBipORBdx34zlia/MhmrHE1GTTNcKxKNXFf7",
     "college": "Hostos Community College",
@@ -4650,6 +4616,14 @@
     "college": "Hostos Community College",
     "date": "2026-03-26",
     "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Afro-Brazilian Dance Workshop 2",
+    "link": "https://hostos.event.cuny.edu/events/LW8R7OL7i8pzZmdPOQxo/Oujc8W4oNkKl2oa4hrbZ",
+    "college": "Hostos Community College",
+    "date": "2026-03-30",
+    "time": "5:00PM",
     "tags": []
   },
   {
@@ -5414,12 +5388,28 @@
     ]
   },
   {
+    "title": "Last Minute Lit Review Research",
+    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-24",
+    "time": "10:15 PM - 11:30 PM",
+    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
     "title": "Data Communication and Reporting Results",
     "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
     "date": "2026-04-17",
     "time": "10:15 PM - 11:15 PM",
     "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+  },
+  {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-12",
+    "time": "07:15 PM - 08:30 PM",
+    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
   },
   {
     "title": "Selecting the Best Quantitative Approach",
@@ -5436,21 +5426,5 @@
     "date": "2026-04-15",
     "time": "04:00 PM - 05:00 PM",
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
-  },
-  {
-    "title": "Last Minute Lit Review Research",
-    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-24",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-12",
-    "time": "07:15 PM - 08:30 PM",
-    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
   }
 ]
