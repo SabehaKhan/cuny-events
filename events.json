@@ -1,13 +1,5 @@
 [
   {
-    "title": "CCNY Libraries | CCNY Women Make Art",
-    "link": "https://www.ccny.cuny.edu/calendar/ccny-libraries-ccny-women-make-art",
-    "college": "City College of New York",
-    "date": "2026-03-23",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "CCNY Libraries | Spring Book Sale",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-libraries-spring-book-sale",
     "college": "City College of New York",
@@ -45,6 +37,14 @@
     "college": "City College of New York",
     "date": "2026-03-24",
     "time": "11:00 AM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Dr. Rui Chen: Scalable Reconfigurable Nano-photonics with Zero Static Power",
+    "link": "https://www.ccny.cuny.edu/calendar/scalable-reconfigurable-nano-photonics-zero-static-power-dr-rui-chen",
+    "college": "City College of New York",
+    "date": "2026-03-24",
+    "time": "12:30 PM - 01:30 PM",
     "tags": []
   },
   {
@@ -2082,17 +2082,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-03-23/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-23",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Global Support Group",
     "link": "https://www.laguardia.edu/event/global-support-group/2026-03-23/",
     "college": "LaGuardia Community College",
@@ -2408,6 +2397,18 @@
     "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Student Talks: Women, gender, and trauma informed pedagogy",
+    "link": "https://www.laguardia.edu/event/student-talks-women-gender-and-trauma-informed-pedagogy/",
+    "college": "LaGuardia Community College",
+    "date": "2026-03-26",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
       "student events"
     ]
   },
@@ -2798,14 +2799,6 @@
     ]
   },
   {
-    "title": "Inga Richter Seminar Series: Betty Ortiz Bido",
-    "link": "https://www.hunter.cuny.edu/event/inga-richter-seminar-series-betty-ortiz-bido/",
-    "college": "Hunter College",
-    "date": "2026-03-23",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
     "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
     "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-20/",
     "college": "Hunter College",
@@ -2985,6 +2978,14 @@
     ]
   },
   {
+    "title": "How to Write a Personal Statement",
+    "link": "https://www.hunter.cuny.edu/event/how-to-write-a-personal-statement/",
+    "college": "Hunter College",
+    "date": "2026-03-27",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "Dancing with the Dean",
     "link": "https://www.hunter.cuny.edu/event/dancing-singing-with-the-dean-6/",
     "college": "Hunter College",
@@ -3056,14 +3057,6 @@
     "tags": []
   },
   {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-21/",
-    "college": "Hunter College",
-    "date": "2026-03-30",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
     "title": "Cover Letter Writing Workshop",
     "link": "https://www.hunter.cuny.edu/event/cover-letter-writing-workshop-5/",
     "college": "Hunter College",
@@ -3093,6 +3086,29 @@
     "time": "02:30 PM - 04:00 PM",
     "tags": [
       "Student Events"
+    ]
+  },
+  {
+    "title": "Professional Interview Prep Series (powered by Interview Prep NYC)",
+    "link": "https://www.hunter.cuny.edu/event/professional-interview-prep-series-powered-by-interview-prep-nyc-4/",
+    "college": "Hunter College",
+    "date": "2026-04-01",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "International Admissions Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-23",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Featured",
+      "International Student Events/Workshops"
     ]
   },
   {
@@ -3149,8 +3165,7 @@
     "date": "2026-03-24",
     "time": "11:00 AM - 03:00 PM",
     "tags": [
-      "Academic Advisement & Transfer",
-      "Featured"
+      "Academic Advisement & Transfer"
     ]
   },
   {
@@ -3289,6 +3304,17 @@
     ]
   },
   {
+    "title": "International Students: Maintaining Status--an F1 Travel Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/international-students-maintaining-status-an-f1-travel-workshop/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-25",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
     "title": "Career Workshop: Salary Negotiations by Amy Geffen",
     "link": "https://www.bmcc.cuny.edu/event/salary-negotiations-by-amy-geffen/",
     "college": "Borough of Manhattan Community College",
@@ -3367,64 +3393,6 @@
     "time": "02:00 PM - 03:00 PM",
     "tags": [
       "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "Take a Tour of CUNY BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-cuny-bmcc-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-03-31",
-    "time": "10:00 AM - 11:15 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Take a Tour of CUNY BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-cuny-bmcc-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-01",
-    "time": "11:00 AM - 12:15 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-4/2026-04-01/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-01",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (in-person)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-2/2026-04-01/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-01",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Free Naturalization Clinic for BMCC Students - Register by March 26 for April 2 Clinic",
-    "link": "https://www.bmcc.cuny.edu/event/free-naturalization-clinic-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-02",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "Advocacy and Resource Center (ARC)",
-      "Featured",
-      "Immigration Support",
-      "International Student Events/Workshops",
-      "Student Affairs"
     ]
   },
   {
@@ -3548,30 +3516,6 @@
     "date": "2026-04-14",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
-  },
-  {
-    "title": "SG Club Commission",
-    "link": "https://csi.campuslabs.com/engage/event/12138937",
-    "college": "College of Staten Island",
-    "date": "2026-03-23",
-    "time": "01:45 PM - 02:45 PM",
-    "tags": [
-      "GroupBusiness",
-      "Group Business"
-    ]
-  },
-  {
-    "title": "Elections and Advocacy Commission (Student Government)",
-    "link": "https://csi.campuslabs.com/engage/event/12031530",
-    "college": "College of Staten Island",
-    "date": "2026-03-23",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "GroupBusiness",
-      "Leadership",
-      "Learning",
-      "Group Business"
-    ]
   },
   {
     "title": "After Misogyny: How the Law Fails Women and What to Do about It (262011-CC)",
@@ -3786,6 +3730,19 @@
     "time": "06:30 PM - 08:30 PM",
     "tags": [
       "Cultural"
+    ]
+  },
+  {
+    "title": "Marketing Club Re-Elections and Marketing Portfolio Workshop",
+    "link": "https://csi.campuslabs.com/engage/event/12358545",
+    "college": "College of Staten Island",
+    "date": "2026-03-26",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "GroupBusiness",
+      "Leadership",
+      "Group Business",
+      "Career Development"
     ]
   },
   {
@@ -4199,6 +4156,17 @@
     ]
   },
   {
+    "title": "Weekly Tea Time!",
+    "link": "https://csi.campuslabs.com/engage/event/11946150",
+    "college": "College of Staten Island",
+    "date": "2026-04-22",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "Social",
+      "Willowbrook Campus"
+    ]
+  },
+  {
     "title": "CAB Film Showings: Arco",
     "link": "https://csi.campuslabs.com/engage/event/11956313",
     "college": "College of Staten Island",
@@ -4336,19 +4304,19 @@
     "tags": []
   },
   {
-    "title": "THHS",
-    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/HpWK9GzqUSa0PNc6d0XT56",
+    "title": "MSCHE Visit",
+    "link": "https://qc.event.cuny.edu/events/ven7Vj2xForunMvBulZW/CGMjhHB30GG8BX5RCUcj",
     "college": "Queens College",
     "date": "2026-03-23",
     "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "MSCHE Visit",
-    "link": "https://qc.event.cuny.edu/events/ven7Vj2xForunMvBulZW/N3tOO66JrowDsRg5jefs",
+    "title": "THHS",
+    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/HpWK9GzqUSa0PNc6d0XT56",
     "college": "Queens College",
     "date": "2026-03-23",
-    "time": "9:00AM",
+    "time": "8:00AM",
     "tags": []
   },
   {
@@ -4880,19 +4848,19 @@
     "tags": []
   },
   {
-    "title": "Meditation Mondays",
-    "link": "https://www.lehman.edu/events/2026/Meditation-Mondays-.php?event_type=recurs_6",
-    "college": "Lehman College",
-    "date": "2026-03-23",
-    "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
     "title": "Women’s History Month Panel: Women Shaping Institutions & Generations",
     "link": "https://www.lehman.edu/events/2026/Womens-History-Month-Panel-Women-Shaping-Institutions--Generations.php",
     "college": "Lehman College",
     "date": "2026-03-23",
     "time": "12:00 PM- 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Meditation Mondays",
+    "link": "https://www.lehman.edu/events/2026/Meditation-Mondays-.php?event_type=recurs_6",
+    "college": "Lehman College",
+    "date": "2026-03-23",
+    "time": "12:00 PM- 1:00 PM",
     "tags": []
   },
   {
@@ -5457,28 +5425,12 @@
     ]
   },
   {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-12",
-    "time": "07:15 PM - 08:30 PM",
-    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
-  },
-  {
-    "title": "Selecting the Best Quantitative Approach",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-27",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Learn how to choose the right quantitative method for your research question and data. We’ll review common statistical approaches, assumptions, and how to plan an analysis strategy that fits your project. *Registration closes at 4:30pm on 3/27*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
-    "title": "Data Communication and Reporting Results",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-17",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+    "date": "2026-04-15",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
   },
   {
     "title": "Last Minute Lit Review Research",
@@ -5489,11 +5441,27 @@
     "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
-    "title": "Employer Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
+    "title": "Data Communication and Reporting Results",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-15",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
+    "date": "2026-04-17",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+  },
+  {
+    "title": "Selecting the Best Quantitative Approach",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-03-27",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>Learn how to choose the right quantitative method for your research question and data. We’ll review common statistical approaches, assumptions, and how to plan an analysis strategy that fits your project. *Registration closes at 4:30pm on 3/27*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-12",
+    "time": "07:15 PM - 08:30 PM",
+    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
   }
 ]
