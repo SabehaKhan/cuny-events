@@ -1,29 +1,5 @@
 [
   {
-    "title": "CCNY Libraries | Spring Book Sale",
-    "link": "https://www.ccny.cuny.edu/calendar/ccny-libraries-spring-book-sale",
-    "college": "City College of New York",
-    "date": "2026-03-23",
-    "time": "11:00 AM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "YASS! Mondays: Free & Confidential HIV & STI Testing",
-    "link": "https://www.ccny.cuny.edu/calendar/yass-mondays-22",
-    "college": "City College of New York",
-    "date": "2026-03-23",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Salzberg Chemistry Seminar: Tamer Uyar, Salzberg Chemistry Seminar:",
-    "link": "https://www.ccny.cuny.edu/calendar/salzberg-chemistry-seminar-tamer-uyar-salzberg-chemistry-seminar",
-    "college": "City College of New York",
-    "date": "2026-03-23",
-    "time": "12:00 PM - 12:00 PM",
-    "tags": []
-  },
-  {
     "title": "CCNY Libraries | CCNY Women Make Art",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-libraries-ccny-women-make-art-0",
     "college": "City College of New York",
@@ -1098,6 +1074,16 @@
     ]
   },
   {
+    "title": "Journalism Innovation Club: Building Your Own News Digest Workshop",
+    "link": "https://www.journalism.cuny.edu/events/journalism-innovation-club-building-your-own-news-digest-workshop/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-04-16",
+    "time": "12:00 PM - 01:30 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
     "title": "61st Commencement for the Class of 2026!",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/5706f580-760f-4bc9-a8e8-8637223a5654",
     "college": "Kingsborough Community College",
@@ -2082,40 +2068,6 @@
     "tags": []
   },
   {
-    "title": "Global Support Group",
-    "link": "https://www.laguardia.edu/event/global-support-group/2026-03-23/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-23",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Brooklyn College Mentorship and Funding Opportunities Transfer Information Session (In-Person)",
-    "link": "https://www.laguardia.edu/event/brooklyn-college-mentorship-and-funding-opportunities-transfer-information-session-in-person/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-23",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Brooklyn College Transfer Day at LaGuardia: Information Session and Mini Pop-Up Transfer Fair",
-    "link": "https://www.laguardia.edu/event/brooklyn-college-transfer-day-at-laguardia-information-session-and-mini-pop-up-transfer-fair/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-23",
-    "time": "02:15 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "AI Workshop Series: Hallucinations and Misinformation: Fact Checking with GenAI and Can you Spot AI Writing?",
     "link": "https://www.laguardia.edu/event/ai-workshop-series-hallucinations-and-misinformation-fact-checking-with-genai-and-can-you-spot-ai-writing/",
     "college": "LaGuardia Community College",
@@ -2410,6 +2362,29 @@
       "all calendars",
       "Featured",
       "student events"
+    ]
+  },
+  {
+    "title": "Emergency Preparedness and Response Event",
+    "link": "https://www.laguardia.edu/event/emergency-preparedness-and-response-event/",
+    "college": "LaGuardia Community College",
+    "date": "2026-03-26",
+    "time": "02:00 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Policing, Pews, and Firehouse Politics:",
+    "link": "https://www.laguardia.edu/event/policing-pews-and-firehouse-politics/",
+    "college": "LaGuardia Community College",
+    "date": "2026-03-26",
+    "time": "06:00 PM - 07:30 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff",
+      "Featured"
     ]
   },
   {
@@ -2799,14 +2774,6 @@
     ]
   },
   {
-    "title": "FAFSA/TAP Helpdesk - Virtual Mondays",
-    "link": "https://www.hunter.cuny.edu/event/fafsa-tap-helpdesk-virtual-mondays-20/",
-    "college": "Hunter College",
-    "date": "2026-03-23",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
     "title": "Find Your Fit: How Personality Shapes Your Career",
     "link": "https://www.hunter.cuny.edu/event/find-your-fit-how-personality-shapes-your-career/",
     "college": "Hunter College",
@@ -3089,6 +3056,17 @@
     ]
   },
   {
+    "title": "A Screening and Discussion of Bella! This Woman’s Place is in the House",
+    "link": "https://www.hunter.cuny.edu/event/a-screening-and-discussion-of-bella-this-womans-place-is-in-the-house/",
+    "college": "Hunter College",
+    "date": "2026-03-31",
+    "time": "05:30 PM - 05:30 PM",
+    "tags": [
+      "Lectures",
+      "Performing Arts & Film"
+    ]
+  },
+  {
     "title": "Professional Interview Prep Series (powered by Interview Prep NYC)",
     "link": "https://www.hunter.cuny.edu/event/professional-interview-prep-series-powered-by-interview-prep-nyc-4/",
     "college": "Hunter College",
@@ -3098,41 +3076,6 @@
       "Career Center",
       "Conferences & Workshops",
       "Student Events"
-    ]
-  },
-  {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-03-23",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": [
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
-    "title": "Crunch and Munch: Smart Snacking for College Students (with Free Samples)",
-    "link": "https://www.bmcc.cuny.edu/event/crunch-and-munch-smart-snacking-for-college-students-with-free-samples/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-03-23",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Featured",
-      "Health Education",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online/2026-03-23/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-03-23",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
     ]
   },
   {
@@ -3374,6 +3317,18 @@
     ]
   },
   {
+    "title": "International Admissions Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session/2026-03-27/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-27",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
     "title": "AI Literacy Day: BMCC’s AI Innovation Sprint 2026",
     "link": "https://www.bmcc.cuny.edu/event/ai-literacy-day-bmccs-ai-innovation-sprint-2026/",
     "college": "Borough of Manhattan Community College",
@@ -3393,6 +3348,28 @@
     "time": "02:00 PM - 03:00 PM",
     "tags": [
       "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online/2026-03-30/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-30",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of CUNY BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-cuny-bmcc-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-31",
+    "time": "10:00 AM - 11:15 AM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -3535,6 +3512,18 @@
     ]
   },
   {
+    "title": "Acing Your First Year: Virtual Academic Success Resource Workshop Series (Double CLUE Credit: CC CLUE# 262043 and PG CLUE# 262020)",
+    "link": "https://csi.campuslabs.com/engage/event/12253605",
+    "college": "College of Staten Island",
+    "date": "2026-03-24",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "Virtual event (online offering)"
+    ]
+  },
+  {
     "title": "Student Service Commission",
     "link": "https://csi.campuslabs.com/engage/event/12147142",
     "college": "College of Staten Island",
@@ -3567,18 +3556,6 @@
     "time": "06:30 PM - 07:30 PM",
     "tags": [
       "Arts"
-    ]
-  },
-  {
-    "title": "Acing Your First Year: Virtual Academic Success Resource Workshop Series (Double CLUE Credit: CC CLUE# 262043 and PG CLUE# 262020)",
-    "link": "https://csi.campuslabs.com/engage/event/12253605",
-    "college": "College of Staten Island",
-    "date": "2026-03-24",
-    "time": "06:45 PM - 07:45 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Virtual event (online offering)"
     ]
   },
   {
@@ -4262,14 +4239,6 @@
     ]
   },
   {
-    "title": "Open Forum Middle States Vice President Dr. Feith",
-    "link": "https://lehman.edu/events/2026/Open-Forum-Middle-States-Vice-President-Dr-Feith-1.php",
-    "college": "Lehman College",
-    "date": "2026-03-23",
-    "time": "2:00 PM - 3:00 PM",
-    "tags": []
-  },
-  {
     "title": "Computer Science M.S. Information Session",
     "link": "https://lehman.edu/events/2026/Computer-Science-MS-Information-Session-.php",
     "college": "Lehman College",
@@ -4288,6 +4257,16 @@
   {
     "title": "Universal Wave-Control Framework  for Extremely Tunable Microwave Systems",
     "link": "https://asrc.gc.cuny.edu/event/universal-wave-control-framework-for-extremely-tunable-microwave-systems/",
+    "college": "Advanced Science Research Center, GC/CUNY",
+    "date": "2026-03-23",
+    "time": "2:00 PM - 3:00 PM",
+    "tags": [
+      "Photonics"
+    ]
+  },
+  {
+    "title": "Photonics Initiative Seminar: Philipp Del Hougne",
+    "link": "https://asrc.gc.cuny.edu/event/photonics-initiative-seminar-philipp-del-hougne/",
     "college": "Advanced Science Research Center, GC/CUNY",
     "date": "2026-03-23",
     "time": "2:00 PM - 3:00 PM",
@@ -4865,10 +4844,18 @@
   },
   {
     "title": "Open Forum Middle States Vice President Dr. Feith",
-    "link": "https://www.lehman.edu/events/2026/Open-Forum-Middle-States-Vice-President-Dr-Feith-1.php",
+    "link": "https://www.lehman.edu/events/2026/Open-Forum-Middle-States-Vice-President-Dr-Feith.php",
     "college": "Lehman College",
     "date": "2026-03-23",
     "time": "2:00 PM- 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Black History, Women's History: Our Shared Legacy",
+    "link": "https://www.lehman.edu/events/2026/Black-History-Womens-History-Our-Shared-Legacy-.php",
+    "college": "Lehman College",
+    "date": "2026-03-23",
+    "time": "2:00 PM- 4:00 PM",
     "tags": []
   },
   {
@@ -4904,27 +4891,19 @@
     "tags": []
   },
   {
+    "title": "The Experience of Older Latino Gay Men with Professor Joseph Quinones",
+    "link": "https://www.lehman.edu/events/2026/The-Experience-of-Older-Latino-Gay-Men-with-Professor-Joseph-Quinones-1.php",
+    "college": "Lehman College",
+    "date": "2026-03-25",
+    "time": "12:30 PM- 2:00 PM",
+    "tags": []
+  },
+  {
     "title": "The Keloids We Heal: Trauma, Spirituality, and Black Modernity in Literature by Sarah Soanirina Ohmer",
     "link": "https://www.lehman.edu/events/2026/The-Keloids-We-Heal-Trauma-Spirituality-and-Black-Modernity-in-Literature-by-Sarah-Soanirina-Ohmer.php",
     "college": "Lehman College",
     "date": "2026-03-25",
     "time": "1:00 PM- 2:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Recreation Education Information Session",
-    "link": "https://www.lehman.edu/events/2026/Recreation-Education-Information-Session.php",
-    "college": "Lehman College",
-    "date": "2026-03-25",
-    "time": "5:00 PM- 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Together as One: Critical Conversations on Healthy Relationships",
-    "link": "https://www.lehman.edu/events/2026/Together-as-One-Critical-Conversations-on-Healthy-Relationships.php?event_type=recurs_5",
-    "college": "Lehman College",
-    "date": "2026-03-26",
-    "time": "12:00 PM- 2:00 PM",
     "tags": []
   },
   {
@@ -5200,118 +5179,6 @@
     "tags": []
   },
   {
-    "title": "Aviation Management Info Session - Mar 23rd",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy3_of_aviation-management-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-03-23",
-    "time": "2:00 PM - 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Business Administration Info Session - Mar 23rd",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy4_of_business-administration-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-03-23",
-    "time": "2:00 PM - 4:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HRM Info Session Mar 23rd",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy2_of_hrm-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-03-23",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Business Administration Info Session - Mar 23rd",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy5_of_business-administration-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-03-23",
-    "time": "6:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Spring Senior Portraits - Tuesday",
-    "link": "https://www.york.cuny.edu/commencement-2026/spring-senior-portraits-tue",
-    "college": "York College",
-    "date": "2026-03-24",
-    "time": "2:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Student Town Hall With The President",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/student-town-hall-with-the-president-3-24",
-    "college": "York College",
-    "date": "2026-03-24",
-    "time": "2:00 PM - 2:45 PM",
-    "tags": []
-  },
-  {
-    "title": "2026 Spring Senior Portrait Week",
-    "link": "https://www.york.cuny.edu/events/2026/spring-senior-portrait-week",
-    "college": "York College",
-    "date": "2026-03-24",
-    "time": "2:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Womens History Month Panel",
-    "link": "https://www.york.cuny.edu/seek/events/womens-history-month-panel",
-    "college": "York College",
-    "date": "2026-03-24",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Barbershop Talks - Self Image",
-    "link": "https://www.york.cuny.edu/events/barbershop-talks-self-image",
-    "college": "York College",
-    "date": "2026-03-24",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Plan Ahead, Stress Less: Master DegreeWorks and Schedule Builder",
-    "link": "https://www.york.cuny.edu/events/2026/plan-ahead-stress-less-master-degreeworks-and-schedule-builder",
-    "college": "York College",
-    "date": "2026-03-24",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "AI Behind the Scenes: How York IT Is Using AI in Action",
-    "link": "https://www.york.cuny.edu/events/2026/ai-behind-the-scenes-how-york-it-is-using-ai-in-action",
-    "college": "York College",
-    "date": "2026-03-24",
-    "time": "4:15 PM - 5:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Getting Started with Handshake: Jobs and Internships Made Easy",
-    "link": "https://www.york.cuny.edu/events/2026/getting-started-with-handshake-jobs-and-internships-made-easy",
-    "college": "York College",
-    "date": "2026-03-24",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Dean's List",
-    "link": "https://www.york.cuny.edu/events/2026/deans-list",
-    "college": "York College",
-    "date": "2026-03-24",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-03-25",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "BRYAN ALEXANDER FORD: INHABITING KRIPKE’S TRUTH VIA A WORKING PARACOMPLETE FORMAL ARITHMETIC",
     "link": "https://www.gc.cuny.edu/events/bryan-alexander-ford-inhabiting-kripkes-truth-working-paracomplete-formal-arithmetic",
     "college": "CUNY Graduate Center",
@@ -5433,14 +5300,6 @@
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
   },
   {
-    "title": "Last Minute Lit Review Research",
-    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-24",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
     "title": "Data Communication and Reporting Results",
     "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
@@ -5463,5 +5322,13 @@
     "date": "2026-04-12",
     "time": "07:15 PM - 08:30 PM",
     "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
+  },
+  {
+    "title": "Last Minute Lit Review Research",
+    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-24",
+    "time": "10:15 PM - 11:30 PM",
+    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   }
 ]
