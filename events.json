@@ -1396,7 +1396,7 @@
     "tags": []
   },
   {
-    "title": "Exploring Brooklyn College Majors for Liberal Arts and Undecided Students (Virtual)",
+    "title": "Exploring Brooklyn College Majors for Education Majors (Virtual)",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/8d6ebd4a-81ee-4876-8079-2464860414f5",
     "college": "Kingsborough Community College",
     "date": "2026-03-26",
@@ -1404,7 +1404,7 @@
     "tags": []
   },
   {
-    "title": "Exploring Brooklyn College Majors for Liberal Arts and Undecided Students (Virtual)",
+    "title": "Exploring Brooklyn College Majors for Business Majors (Virtual)",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/af7720f2-c2b3-4422-a30c-70d016fa971b",
     "college": "Kingsborough Community College",
     "date": "2026-04-16",
@@ -1412,7 +1412,7 @@
     "tags": []
   },
   {
-    "title": "Exploring Brooklyn College Majors for Liberal Arts and Undecided Students (Virtual)",
+    "title": "Exploring Brooklyn College Majors for Pre-Health Professions (Virtual)",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/e4489554-340f-4b84-b894-2f6b8c5cef9a",
     "college": "Kingsborough Community College",
     "date": "2026-04-23",
@@ -1431,7 +1431,7 @@
     "title": "CUNY Transfer Application Workshop",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/018d685b-bfba-4994-8077-aa676b84e3f0",
     "college": "Kingsborough Community College",
-    "date": "2026-04-14",
+    "date": "2026-04-20",
     "time": "02:00 PM - 02:00 PM",
     "tags": []
   },
@@ -2202,6 +2202,17 @@
     ]
   },
   {
+    "title": "CUNY John Jay Justice Academy Virtual Transfer Information Session",
+    "link": "https://www.laguardia.edu/event/cuny-john-jay-justice-academy-virtual-transfer-information-session-2/",
+    "college": "LaGuardia Community College",
+    "date": "2026-03-25",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Breaking the Silence: A Domestic Violence Empowerment Workshop",
     "link": "https://www.laguardia.edu/event/breaking-the-silence-a-domestic-violence-empowerment-workshop/",
     "college": "LaGuardia Community College",
@@ -2347,18 +2358,6 @@
     "date": "2026-03-27",
     "time": "10:00 AM - 01:00 PM",
     "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-03-27/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-27",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
       "all calendars",
       "student events"
     ]
@@ -3670,6 +3669,16 @@
     ]
   },
   {
+    "title": "Pre-Law Society Elections",
+    "link": "https://csi.campuslabs.com/engage/event/12361917",
+    "college": "College of Staten Island",
+    "date": "2026-03-26",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "GroupBusiness"
+    ]
+  },
+  {
     "title": "Waste Audit Day 3",
     "link": "https://csi.campuslabs.com/engage/event/12305520",
     "college": "College of Staten Island",
@@ -3726,6 +3735,17 @@
       "PG CLUE",
       "Group Business",
       "Arts and Crafts"
+    ]
+  },
+  {
+    "title": "Management Club Elections",
+    "link": "https://csi.campuslabs.com/engage/event/12361921",
+    "college": "College of Staten Island",
+    "date": "2026-03-31",
+    "time": "06:15 PM - 07:45 PM",
+    "tags": [
+      "Social",
+      "Conference"
     ]
   },
   {
@@ -5108,6 +5128,118 @@
     "tags": []
   },
   {
+    "title": "Spring Senior Portraits - Tuesday",
+    "link": "https://www.york.cuny.edu/commencement-2026/spring-senior-portraits-tue",
+    "college": "York College",
+    "date": "2026-03-24",
+    "time": "2:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Student Town Hall With The President",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/student-town-hall-with-the-president-3-24",
+    "college": "York College",
+    "date": "2026-03-24",
+    "time": "2:00 PM - 2:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Womens History Month Panel",
+    "link": "https://www.york.cuny.edu/seek/events/womens-history-month-panel",
+    "college": "York College",
+    "date": "2026-03-24",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Barbershop Talks - Self Image",
+    "link": "https://www.york.cuny.edu/events/barbershop-talks-self-image",
+    "college": "York College",
+    "date": "2026-03-24",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Plan Ahead, Stress Less: Master DegreeWorks and Schedule Builder",
+    "link": "https://www.york.cuny.edu/events/2026/plan-ahead-stress-less-master-degreeworks-and-schedule-builder",
+    "college": "York College",
+    "date": "2026-03-24",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "AI Behind the Scenes: How York IT Is Using AI in Action",
+    "link": "https://www.york.cuny.edu/events/2026/ai-behind-the-scenes-how-york-it-is-using-ai-in-action",
+    "college": "York College",
+    "date": "2026-03-24",
+    "time": "4:15 PM - 5:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Drug and Alcohol Abuse Workshop",
+    "link": "https://www.york.cuny.edu/health/drug-and-alcohol-abuse-workshop",
+    "college": "York College",
+    "date": "2026-03-24",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Getting Started with Handshake: Jobs and Internships Made Easy",
+    "link": "https://www.york.cuny.edu/events/2026/getting-started-with-handshake-jobs-and-internships-made-easy",
+    "college": "York College",
+    "date": "2026-03-24",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Dean's List",
+    "link": "https://www.york.cuny.edu/events/2026/deans-list",
+    "college": "York College",
+    "date": "2026-03-24",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Volleyball vs. CCNY",
+    "link": "https://www.york.cuny.edu/events/2026/m-volleyball-vs-ccny-03242026",
+    "college": "York College",
+    "date": "2026-03-24",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Mar 25",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-mar25",
+    "college": "York College",
+    "date": "2026-03-25",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "2026 Spring Senior Portrait Week",
+    "link": "https://www.york.cuny.edu/events/2026/spring-senior-portrait-week",
+    "college": "York College",
+    "date": "2026-03-25",
+    "time": "2:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Spring Senior Portraits - Wednesday",
+    "link": "https://www.york.cuny.edu/commencement-2026/spring-senior-portraits-wed",
+    "college": "York College",
+    "date": "2026-03-25",
+    "time": "2:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-03-25",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
     "title": "DEMYSTIFYING ACADEMIC WRITING",
     "link": "https://www.gc.cuny.edu/events/demystifying-academic-writing",
     "college": "CUNY Graduate Center",
@@ -5233,14 +5365,6 @@
     "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
-    "title": "Selecting the Best Quantitative Approach",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-27",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Learn how to choose the right quantitative method for your research question and data. We’ll review common statistical approaches, assumptions, and how to plan an analysis strategy that fits your project. *Registration closes at 4:30pm on 3/27*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
     "title": "Employer Spotlight",
     "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
     "college": "CUNY School of Labor and Urban Studies",
@@ -5249,12 +5373,12 @@
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
   },
   {
-    "title": "Data Communication and Reporting Results",
+    "title": "Selecting the Best Quantitative Approach",
     "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-17",
+    "date": "2026-03-27",
     "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+    "description": "<p>Learn how to choose the right quantitative method for your research question and data. We’ll review common statistical approaches, assumptions, and how to plan an analysis strategy that fits your project. *Registration closes at 4:30pm on 3/27*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
     "title": "Feel the Fear and Present Anyway",
@@ -5263,5 +5387,13 @@
     "date": "2026-04-12",
     "time": "07:15 PM - 08:30 PM",
     "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
+  },
+  {
+    "title": "Data Communication and Reporting Results",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-17",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
   }
 ]
