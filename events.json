@@ -843,18 +843,6 @@
     ]
   },
   {
-    "title": "Where do you go for help?",
-    "link": "https://www.law.cuny.edu/event/where-do-you-go-for-help/",
-    "college": "CUNY School of Law",
-    "date": "2026-03-26",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Info Session",
-      "Student",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "CUNY Law Alumni Connection Series",
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-apr/",
     "college": "CUNY School of Law",
@@ -879,6 +867,16 @@
     "college": "CUNY School of Law",
     "date": "2026-04-11",
     "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Special Event"
+    ]
+  },
+  {
+    "title": "Lawyering for Liberation: Lessons from the Field",
+    "link": "https://www.law.cuny.edu/event/lawyering-for-liberation-lessons-from-the-field/",
+    "college": "CUNY School of Law",
+    "date": "2026-04-13",
+    "time": "06:00 PM - 08:00 PM",
     "tags": [
       "Special Event"
     ]
@@ -957,21 +955,21 @@
     ]
   },
   {
-    "title": "Passing the Torch: Succession Planning for Community Media",
-    "link": "https://www.journalism.cuny.edu/events/passing-the-torch-succession-planning-for-community-media/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-03-26",
-    "time": "02:00 PM - 02:00 PM",
-    "tags": [
-      "Center for Community Media"
-    ]
-  },
-  {
     "title": "Journalism Innovation Club: Building Your Own News Digest Workshop",
     "link": "https://www.journalism.cuny.edu/events/journalism-innovation-club-building-your-own-news-digest-workshop/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2026-04-16",
     "time": "12:00 PM - 01:30 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "Capstone Information Session",
+    "link": "https://www.journalism.cuny.edu/events/capstone-information-session-2026/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-04-22",
+    "time": "12:30 PM - 01:30 PM",
     "tags": [
       "Current Students"
     ]
@@ -1857,40 +1855,6 @@
     "tags": []
   },
   {
-    "title": "BMEC Open House (Spring 2026)",
-    "link": "https://www.laguardia.edu/event/bmec-open-house-2/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-26",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Resume Review Pop-Ups",
-    "link": "https://www.laguardia.edu/event/resume-review-pop-ups/2026-03-26/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-26",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-2/2026-03-26/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-26",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Student Talks: Women, gender, and trauma informed pedagogy",
     "link": "https://www.laguardia.edu/event/student-talks-women-gender-and-trauma-informed-pedagogy/",
     "college": "LaGuardia Community College",
@@ -2065,18 +2029,6 @@
     ]
   },
   {
-    "title": "Real Talk about Money",
-    "link": "https://www.laguardia.edu/event/real-talk-about-money/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-31",
-    "time": "10:30 AM - 12:45 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Exploring My Path: Career Opportunities in Education & Public Service",
     "link": "https://www.laguardia.edu/event/exploring-my-path-career-opportunities-in-education-public-service/",
     "college": "LaGuardia Community College",
@@ -2084,6 +2036,18 @@
     "time": "11:45 AM - 12:15 PM",
     "tags": [
       "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Real Talk about Money",
+    "link": "https://www.laguardia.edu/event/real-talk-about-money/",
+    "college": "LaGuardia Community College",
+    "date": "2026-03-31",
+    "time": "11:45 AM - 01:00 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
       "student events"
     ]
   },
@@ -2172,6 +2136,29 @@
     "college": "LaGuardia Community College",
     "date": "2026-04-02",
     "time": "01:00 PM - 08:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-04-03/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-03",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-04-06/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-06",
+    "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2324,6 +2311,18 @@
       "ASC",
       "Academic",
       "Tutoring"
+    ]
+  },
+  {
+    "title": "♟️Grizzly Knights Chess Tournament♟️",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377152",
+    "college": "Guttman Community College",
+    "date": "2026-04-21",
+    "time": "05:15 PM - 07:45 PM",
+    "tags": [
+      "GKCC",
+      "Social",
+      "Food - Lunch "
     ]
   },
   {
@@ -2666,6 +2665,18 @@
     ]
   },
   {
+    "title": "MFA Playwriting Reading Series: SUPERNOVA by Kyle Osmon",
+    "link": "https://www.hunter.cuny.edu/event/mfa-playwriting-reading-series-supernova-by-kyle-osmon/",
+    "college": "Hunter College",
+    "date": "2026-03-27",
+    "time": "03:00 PM - 04:30 PM",
+    "tags": [
+      "Performing Arts & Film",
+      "Special Events",
+      "Student Events"
+    ]
+  },
+  {
     "title": "Film Screening: We Were Here – The Untold History of Black Africans in Renaissance Europe",
     "link": "https://www.hunter.cuny.edu/event/film-screening-we-were-here-the-untold-history-of-black-africans-in-renaissance-europe/",
     "college": "Hunter College",
@@ -2757,6 +2768,19 @@
     ]
   },
   {
+    "title": "Community Playwriting Workshop with Basil Kriemendahl",
+    "link": "https://www.hunter.cuny.edu/event/community-playwriting-workshop-with-basil-kriemendahl/",
+    "college": "Hunter College",
+    "date": "2026-03-30",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Lectures",
+      "Performing Arts & Film",
+      "Special Events",
+      "Student Events"
+    ]
+  },
+  {
     "title": "Fine Dining and Business Etiquette Event",
     "link": "https://www.hunter.cuny.edu/event/fine-dining-and-business-etiquette-event-3/",
     "college": "Hunter College",
@@ -2800,31 +2824,15 @@
     ]
   },
   {
-    "title": "The Katzenberger Case: Judicial subversion of law and Antisemitism in Weimar and Nazi Germany",
-    "link": "https://www.hunter.cuny.edu/event/the-katzenberger-case-judicial-subversion-of-law-and-antisemitism-in-weimar-and-nazi-germany/",
+    "title": "MFA Playwriting Reading Series: I'M A REALLY GOOD SWIMMER by Mya Ison",
+    "link": "https://www.hunter.cuny.edu/event/mfa-playwriting-reading-series-im-a-really-good-swimmer-by-mya-ison/",
     "college": "Hunter College",
-    "date": "2026-04-13",
-    "time": "12:00 PM - 01:00 PM",
+    "date": "2026-04-10",
+    "time": "03:00 PM - 04:30 PM",
     "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Inga Richter Seminar Series: Dr. Sebastien Shaw",
-    "link": "https://www.hunter.cuny.edu/event/inga-richter-seminar-series-dr-sebastien-shaw/",
-    "college": "Hunter College",
-    "date": "2026-04-13",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Library & Archives Lunch Hour: Mi Puerto Rico & Cerro Maravilla",
-    "link": "https://www.hunter.cuny.edu/event/library-archives-lunch-hour-mi-puerto-rico-cerro-maravilla/",
-    "college": "Hunter College",
-    "date": "2026-04-14",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Lectures"
+      "Performing Arts & Film",
+      "Special Events",
+      "Student Events"
     ]
   },
   {
@@ -3087,6 +3095,41 @@
       "Admissions",
       "Evening-Weekend",
       "Featured"
+    ]
+  },
+  {
+    "title": "Internship Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/internship-information-session-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-10",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Featured",
+      "Internships & Experiential Learning"
+    ]
+  },
+  {
+    "title": "Jane Young Spring 2026 Film Series: Greed, a Film Retrospective",
+    "link": "https://www.bmcc.cuny.edu/event/jane-young-spring-2026-film-series-greed-a-film-retrospective/2026-04-12/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-12",
+    "time": "04:00 PM - 06:00 PM",
+    "tags": [
+      "CUNY in The Heights",
+      "Economics",
+      "English",
+      "Evening-Weekend",
+      "Featured",
+      "Human Services and Criminal Justice",
+      "Media Arts and Technology",
+      "Office of Student Activities (OSA)",
+      "Psychology",
+      "Social Sciences",
+      "Human Services and Criminal Justice",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Student Affairs",
+      "Theatre"
     ]
   },
   {
@@ -4904,20 +4947,12 @@
     ]
   },
   {
-    "title": "Employer Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-15",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
-  },
-  {
-    "title": "Data Communication and Reporting Results",
+    "title": "Selecting the Best Quantitative Approach",
     "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-17",
+    "date": "2026-03-27",
     "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+    "description": "<p>Learn how to choose the right quantitative method for your research question and data. We’ll review common statistical approaches, assumptions, and how to plan an analysis strategy that fits your project. *Registration closes at 4:30pm on 3/27*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
     "title": "Feel the Fear and Present Anyway",
@@ -4936,11 +4971,19 @@
     "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
-    "title": "Selecting the Best Quantitative Approach",
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-15",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
+  },
+  {
+    "title": "Data Communication and Reporting Results",
     "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-03-27",
+    "date": "2026-04-17",
     "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Learn how to choose the right quantitative method for your research question and data. We’ll review common statistical approaches, assumptions, and how to plan an analysis strategy that fits your project. *Registration closes at 4:30pm on 3/27*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a>"
+    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
   }
 ]
