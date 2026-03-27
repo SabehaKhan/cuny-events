@@ -1,13 +1,5 @@
 [
   {
-    "title": "5th Annual CUNY LGBTQI+ Student Conference.",
-    "link": "https://www.ccny.cuny.edu/calendar/5th-annual-cuny-lgbtqi-student-conference",
-    "college": "City College of New York",
-    "date": "2026-03-27",
-    "time": "09:00 AM - 06:00 PM",
-    "tags": []
-  },
-  {
     "title": "CCNY Libraries | Postcards from an Architect",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-libraries-postcards-architect-1",
     "college": "City College of New York",
@@ -277,6 +269,14 @@
     "college": "City College of New York",
     "date": "2026-04-24",
     "time": "10:00 AM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Earth Week Volunteering in St. Nicholas Park",
+    "link": "https://www.ccny.cuny.edu/calendar/earth-week-volunteering-st-nicholas-park",
+    "college": "City College of New York",
+    "date": "2026-04-24",
+    "time": "10:00 AM - 12:00 PM",
     "tags": []
   },
   {
@@ -1748,15 +1748,52 @@
     "tags": []
   },
   {
-    "title": "NYC Parks: Jackson Heights Street Tree Planting and Street Tree Care",
-    "link": "https://www.laguardia.edu/event/nyc-parks-jackson-heights-street-tree-planting-and-street-tree-care/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-27",
-    "time": "10:00 AM - 01:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
+    "title": "Resume Walk-Ins",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/c5db6f95-a734-4988-b947-3a9cfb37b6eb",
+    "college": "Kingsborough Community College",
+    "date": "2026-04-29",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Resume Walk-Ins",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/86800ebb-f435-491b-bae5-8302f21a3cb6",
+    "college": "Kingsborough Community College",
+    "date": "2026-05-06",
+    "time": "01:00 PM - 01:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Internship Walk-In Hours",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/b7d96f0a-f8f1-412f-8e17-2e32f136d5a5",
+    "college": "Kingsborough Community College",
+    "date": "2026-04-29",
+    "time": "10:00 AM - 10:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Internship Walk-In Hours",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/7289f084-4e70-4939-a500-8c4e7dbe5fb0",
+    "college": "Kingsborough Community College",
+    "date": "2026-05-20",
+    "time": "02:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "MTA Virtual Info Session",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a2650821-b9d5-42f5-ba9b-ebeb705ab64b",
+    "college": "Kingsborough Community College",
+    "date": "2026-04-29",
+    "time": "04:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Junior Achievement: Teach for a Day",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/975dae8b-5a84-4c6b-a704-4280a434a15f",
+    "college": "Kingsborough Community College",
+    "date": "2026-05-15",
+    "time": "12:00 PM - 07:00 PM",
+    "tags": []
   },
   {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
@@ -2057,6 +2094,18 @@
     ]
   },
   {
+    "title": "Understanding Depression: Peer Support Group",
+    "link": "https://www.laguardia.edu/event/understanding-depression-peer-support-group/2026-04-08/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-08",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "Museum of Illusions",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=376940",
     "college": "Guttman Community College",
@@ -2305,7 +2354,7 @@
     ]
   },
   {
-    "title": "GBB: Movie Day",
+    "title": "Movie Day",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377140",
     "college": "Guttman Community College",
     "date": "2026-05-05",
@@ -2343,7 +2392,7 @@
     ]
   },
   {
-    "title": "Gods We Deliver",
+    "title": "God's Love We Deliver",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377155",
     "college": "Guttman Community College",
     "date": "2026-05-08",
@@ -2442,16 +2491,6 @@
     "college": "Hunter College",
     "date": "2026-03-27",
     "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Combating Social Anxiety – Counseling Workshop",
-    "link": "https://www.hunter.cuny.edu/event/combating-social-anxiety-counseling-workshop-4/",
-    "college": "Hunter College",
-    "date": "2026-03-27",
-    "time": "12:00 PM - 01:30 PM",
     "tags": [
       "Student Events"
     ]
@@ -2739,15 +2778,15 @@
     ]
   },
   {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session/2026-03-27/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-03-27",
-    "time": "11:00 AM - 12:00 PM",
+    "title": "Singing with the Dean",
+    "link": "https://www.hunter.cuny.edu/event/dancing-singing-with-the-dean-7/",
+    "college": "Hunter College",
+    "date": "2026-04-15",
+    "time": "02:30 PM - 03:30 PM",
     "tags": [
-      "Admissions",
-      "Featured",
-      "International Student Events/Workshops"
+      "Performing Arts & Film",
+      "Special Events",
+      "Student Events"
     ]
   },
   {
@@ -2893,6 +2932,18 @@
       "Immigration Support",
       "International Student Events/Workshops",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "International Admissions Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session/2026-04-03/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-03",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured",
+      "International Student Events/Workshops"
     ]
   },
   {
@@ -3540,6 +3591,16 @@
     ]
   },
   {
+    "title": "Pre-Dental Society Elections for 2026-2027 E-BOARD",
+    "link": "https://csi.campuslabs.com/engage/event/12375346",
+    "college": "College of Staten Island",
+    "date": "2026-04-21",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "ThoughtfulLearning"
+    ]
+  },
+  {
     "title": "This Murder Was Staged",
     "link": "https://csi.campuslabs.com/engage/event/12294810",
     "college": "College of Staten Island",
@@ -3756,6 +3817,14 @@
     "college": "Asian American / Asian Research Institute",
     "date": "2026-03-27",
     "time": "6:00 PM - 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "International Admissions Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007084",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-27",
+    "time": "11:00 AM - 12:00 PM",
     "tags": []
   },
   {
@@ -4313,14 +4382,6 @@
     "tags": []
   },
   {
-    "title": "World Water Day",
-    "link": "https://www.jjay.cuny.edu/news-events/events/world-water-day",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-03-27",
-    "time": "04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Planting the Estuary: Cultivating Bioregional Learning",
     "link": "https://www.jjay.cuny.edu/news-events/events/planting-estuary-cultivating-bioregional-learning",
     "college": "John Jay College of Criminal Justice",
@@ -4501,6 +4562,14 @@
     "link": "https://www.jjay.cuny.edu/news-events/events/lgbtq-support-group-1",
     "college": "John Jay College of Criminal Justice",
     "date": "2026-04-28",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
+    "title": "Ballroom Culture 101: Voguing Runway Edition with Felix Luar",
+    "link": "https://www.jjay.cuny.edu/news-events/events/ballroom-culture-101-voguing-runway-edition-felix-luar",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-04-29",
     "time": "05:40 PM",
     "tags": []
   },
@@ -4812,6 +4881,14 @@
     ]
   },
   {
+    "title": "Last Minute Lit Review Research",
+    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-24",
+    "time": "10:15 PM - 11:30 PM",
+    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
     "title": "Selecting the Best Quantitative Approach",
     "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
@@ -4842,13 +4919,5 @@
     "date": "2026-04-15",
     "time": "04:00 PM - 05:00 PM",
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
-  },
-  {
-    "title": "Last Minute Lit Review Research",
-    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-24",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   }
 ]
