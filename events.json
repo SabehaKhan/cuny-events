@@ -1,29 +1,5 @@
 [
   {
-    "title": "Salzberg Chemistry Seminar: Matthew Baker, \"The Plastic Waste Epidemic: Efforts to Create Sustainable Materials for the Future\"",
-    "link": "https://www.ccny.cuny.edu/calendar/salzberg-chemistry-seminar-matthew-baker-plastic-waste-epidemic-efforts-create-sustainable",
-    "college": "City College of New York",
-    "date": "2026-03-30",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CCNY Libraries | Postcards from an Architect",
-    "link": "https://www.ccny.cuny.edu/calendar/ccny-libraries-postcards-architect-2",
-    "college": "City College of New York",
-    "date": "2026-03-30",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Mathematics Colloquium: Tyler Chen (JPMorganChase) - Randomized Numerical Linear Algebra for the Sciences",
-    "link": "https://www.ccny.cuny.edu/calendar/mathematics-colloquium-tyler-chen-jpmorganchase-randomized-numerical-linear-algebra",
-    "college": "City College of New York",
-    "date": "2026-03-30",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
     "title": "Gaymers Against Violence: Monthly Workshop Series",
     "link": "https://www.ccny.cuny.edu/calendar/gaymers-against-violence-0",
     "college": "City College of New York",
@@ -796,7 +772,7 @@
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-apr/",
     "college": "CUNY School of Law",
     "date": "2026-04-01",
-    "time": "12:00 PM - 01:15 PM",
+    "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Alumni",
       "Networking Event"
@@ -839,7 +815,7 @@
     "tags": []
   },
   {
-    "title": "NYSBA 2026 Haywood Burns Networking Reception",
+    "title": "NYSBA 2026 Haywood Burns Awards Ceremony, Networking Reception and Symposium",
     "link": "https://www.law.cuny.edu/event/nysba-2026-haywood-burns-networking-reception/",
     "college": "CUNY School of Law",
     "date": "2026-04-15",
@@ -847,6 +823,16 @@
     "tags": [
       "Lecture",
       "Networking Event"
+    ]
+  },
+  {
+    "title": "Good Trouble: Rebellious Lawyering and Advocacy with Burns Chair Kristen Clarke in Conversation with Assemblymember Justin J. Pearson",
+    "link": "https://www.law.cuny.edu/event/https-www-law-cuny-edu-event-good-trouble-rebellious-lawyering-and-advocacy-with-burns-chair-kristen-clarke-in-conversation-with-representative-justin-j-pearson/",
+    "college": "CUNY School of Law",
+    "date": "2026-04-16",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": [
+      "W. Haywood Burns Chair Event"
     ]
   },
   {
@@ -875,7 +861,7 @@
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-may/",
     "college": "CUNY School of Law",
     "date": "2026-05-06",
-    "time": "12:00 PM - 01:15 PM",
+    "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Alumni",
       "Networking Event"
@@ -886,7 +872,7 @@
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-jun/",
     "college": "CUNY School of Law",
     "date": "2026-06-03",
-    "time": "12:00 PM - 01:15 PM",
+    "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Alumni",
       "Networking Event"
@@ -897,7 +883,7 @@
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-jul/",
     "college": "CUNY School of Law",
     "date": "2026-07-01",
-    "time": "12:00 PM - 01:15 PM",
+    "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Alumni",
       "Networking Event"
@@ -1804,65 +1790,6 @@
     "tags": []
   },
   {
-    "title": "Global Support Group",
-    "link": "https://www.laguardia.edu/event/global-support-group/2026-03-30/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-30",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Anime & Philosophy",
-    "link": "https://www.laguardia.edu/event/anime-philosophy-2/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-30",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Kaplan Educational Foundation: Kaplan Leadership Scholars Program Virtual Transfer Information Session",
-    "link": "https://www.laguardia.edu/event/kaplan-educational-foundation-kaplan-leadership-scholars-program-virtual-transfer-information-session/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-30",
-    "time": "02:15 PM - 03:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Game Day: UNO",
-    "link": "https://www.laguardia.edu/event/game-day-uno-2/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-30",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "The Social Circle Group",
-    "link": "https://www.laguardia.edu/event/the-social-circle-group/2026-03-30/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-30",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Admissions Adult Learner Virtual Information Session",
     "link": "https://www.laguardia.edu/event/admissions-adult-learner-virtual-information-session-11/",
     "college": "LaGuardia Community College",
@@ -2121,6 +2048,62 @@
     "tags": [
       "admissions",
       "all calendars"
+    ]
+  },
+  {
+    "title": "The Social Circle Group",
+    "link": "https://www.laguardia.edu/event/the-social-circle-group/2026-04-13/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-13",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Admissions Adult Learner In-Person Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-adult-learner-in-person-information-session-15/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-13",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Admissions Adult Learner One-on-One Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-adult-learner-one-on-one-information-session-6/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-13",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Job Fair Prep Carnival",
+    "link": "https://www.laguardia.edu/event/job-fair-prep-carnival-2/2026-04-14/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-14",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Career Studio: Say It with Impact - Pitch Like a Pro",
+    "link": "https://www.laguardia.edu/event/career-studio-say-it-with-impact-pitch-like-a-pro/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-14",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
     ]
   },
   {
@@ -2485,28 +2468,6 @@
     ]
   },
   {
-    "title": "Cover Letter Writing Workshop",
-    "link": "https://www.hunter.cuny.edu/event/cover-letter-writing-workshop-5/",
-    "college": "Hunter College",
-    "date": "2026-03-30",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Business Dress Codes",
-    "link": "https://www.hunter.cuny.edu/event/business-dress-codes-3/",
-    "college": "Hunter College",
-    "date": "2026-03-30",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "NYC Mayor’s Office of Climate & Environmental Justice - EJNYC In-Person Feedback Session",
     "link": "https://www.hunter.cuny.edu/event/nyc-mayors-office-of-climate-environmental-justice-ejnyc-in-person-feedback-session/",
     "college": "Hunter College",
@@ -2688,6 +2649,16 @@
     ]
   },
   {
+    "title": "Arts Outing: The Balusters on Broadway",
+    "link": "https://www.hunter.cuny.edu/event/arts-outing-the-balusters-on-broadway/",
+    "college": "Hunter College",
+    "date": "2026-04-15",
+    "time": "06:30 PM - 09:00 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
     "title": "MS-IPND Graduate Nutrition Program Information Sessions",
     "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7-2/2026-04-16/",
     "college": "Hunter College",
@@ -2790,14 +2761,16 @@
     ]
   },
   {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online/2026-03-30/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-03-30",
-    "time": "04:00 PM - 05:00 PM",
+    "title": "Community Playwriting Workshop with Haruna Lee",
+    "link": "https://www.hunter.cuny.edu/event/community-playwriting-workshop-with-haruna-lee/",
+    "college": "Hunter College",
+    "date": "2026-04-18",
+    "time": "03:00 PM - 05:00 PM",
     "tags": [
-      "Admissions",
-      "Featured"
+      "Lectures",
+      "Performing Arts & Film",
+      "Special Events",
+      "Student Events"
     ]
   },
   {
@@ -3088,6 +3061,18 @@
     "time": "02:30 PM - 04:00 PM",
     "tags": [
       "Academic Advisement & Transfer"
+    ]
+  },
+  {
+    "title": "Free HIV/STI Testing for BMCC Students",
+    "link": "https://www.bmcc.cuny.edu/event/free-hiv-sti-testing-for-bmcc-students-11/2026-04-16/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-16",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
+      "Student Affairs"
     ]
   },
   {
@@ -3839,6 +3824,14 @@
     ]
   },
   {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10006923",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-30",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
     "title": "Gaymers Against Violence",
     "link": "https://events.cuny.edu/cec/gaymers-against-violence-2/",
     "college": "The City College of New York",
@@ -4293,6 +4286,14 @@
     "tags": []
   },
   {
+    "title": "Dissertation Defense by Silpa Srinivasulu",
+    "link": "https://sph.cuny.edu/event/dissertation-defense-by-silpa-srinivasulu/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-05-11",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
     "title": "24th World Congress of Psychotherapy",
     "link": "https://sph.cuny.edu/event/24th-world-congress-of-psychotherapy/",
     "college": "CUNY School of Public Health",
@@ -4418,14 +4419,6 @@
     "college": "Lehman College",
     "date": "2026-04-12",
     "time": "4:00 PM- 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Planting the Estuary: Cultivating Bioregional Learning",
-    "link": "https://www.jjay.cuny.edu/news-events/events/planting-estuary-cultivating-bioregional-learning",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-03-30",
-    "time": "05:45 PM",
     "tags": []
   },
   {
@@ -4613,6 +4606,14 @@
     "tags": []
   },
   {
+    "title": "Planting the Estuary: Cultivating Bioregional Learning",
+    "link": "https://www.jjay.cuny.edu/news-events/events/planting-estuary-cultivating-bioregional-learning-1",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-04-29",
+    "time": "05:45 PM",
+    "tags": []
+  },
+  {
     "title": "Horace W. Goldsmith Scholars Reception 2026",
     "link": "https://macaulay.cuny.edu/calendar-of-events/horace-w-goldsmith-scholars-reception-2026/",
     "college": "Macaulay Honors College",
@@ -4690,94 +4691,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-04-18",
     "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Aviation Management Info Session - Mar 30th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy2_of_aviation-management-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-03-30",
-    "time": "2:00 PM - 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Business Administration Info Session - Mar 30th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy6_of_business-administration-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-03-30",
-    "time": "2:00 PM - 4:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HRM Info Session Mar 30th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy3_of_hrm-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-03-30",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Student Town Hall With The President",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/student-town-hall-with-the-president-3-30",
-    "college": "York College",
-    "date": "2026-03-30",
-    "time": "6:00 PM - 6:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Business Administration Info Session - Mar 30th Afternoon",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy7_of_business-administration-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-03-30",
-    "time": "6:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Life After York",
-    "link": "https://www.york.cuny.edu/events/career-cyai",
-    "college": "York College",
-    "date": "2026-03-31",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Financial Literacy Series #2: Tips on Starting a Business",
-    "link": "https://www.york.cuny.edu/seek/events/financial-literacy-series-2-tips-on-starting-a-business",
-    "college": "York College",
-    "date": "2026-03-31",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Apr 1",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-apr1",
-    "college": "York College",
-    "date": "2026-04-01",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Softball vs. Baruch College",
-    "link": "https://www.york.cuny.edu/events/2026/softball-vs-baruch-04012026",
-    "college": "York College",
-    "date": "2026-04-01",
-    "time": "4:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-04-01",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Economics Info Session Apr 2nd",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy3_of_economics-info-session-mar-12th",
-    "college": "York College",
-    "date": "2026-04-02",
-    "time": "7:00 PM - 8:00 PM",
     "tags": []
   },
   {
@@ -4895,22 +4808,6 @@
     ]
   },
   {
-    "title": "Employer Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-15",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
-  },
-  {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-12",
-    "time": "07:15 PM - 08:30 PM",
-    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
-  },
-  {
     "title": "Data Communication and Reporting Results",
     "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
@@ -4925,5 +4822,21 @@
     "date": "2026-04-24",
     "time": "10:15 PM - 11:30 PM",
     "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
+  },
+  {
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-15",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
+  },
+  {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-12",
+    "time": "07:15 PM - 08:30 PM",
+    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
   }
 ]
