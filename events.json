@@ -1,42 +1,18 @@
 [
   {
-    "title": "Gaymers Against Violence: Monthly Workshop Series",
-    "link": "https://www.ccny.cuny.edu/calendar/gaymers-against-violence-0",
-    "college": "City College of New York",
-    "date": "2026-03-31",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CCNY Libraries | Postcards from an Architect",
-    "link": "https://www.ccny.cuny.edu/calendar/ccny-libraries-postcards-architect-3",
-    "college": "City College of New York",
-    "date": "2026-03-31",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Mathematics Colloquium: Luke Evans (Flatiron Institute)- Estimating a Protein's States From Cry-Electron Microscopy Images",
-    "link": "https://www.ccny.cuny.edu/calendar/mathematics-colloquium-luke-evans-flatiron-institute-estimating-proteins-states-cry",
-    "college": "City College of New York",
-    "date": "2026-03-31",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Trauma-Informed Yoga",
-    "link": "https://www.ccny.cuny.edu/calendar/trauma-informed-yoga-14",
-    "college": "City College of New York",
-    "date": "2026-03-31",
-    "time": "01:00 PM - 01:45 PM",
-    "tags": []
-  },
-  {
     "title": "CCNY Libraries | Postcards from an Architect",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-libraries-postcards-architect-4",
     "college": "City College of New York",
     "date": "2026-04-01",
     "time": "12:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Mathematics Colloquium: Amanda Wilkens (Carnegie Mellon University)- The Ideal Poisson-Voronoi Tessellation and Some Applications",
+    "link": "https://www.ccny.cuny.edu/calendar/mathematics-colloquium-amanda-wilkens-carnegie-mellon-university-ideal-poisson-voronoi",
+    "college": "City College of New York",
+    "date": "2026-04-01",
+    "time": "12:30 PM - 01:30 PM",
     "tags": []
   },
   {
@@ -160,7 +136,7 @@
     "tags": []
   },
   {
-    "title": "Manorexia: Prof. Harold A. Veeser Will Read from and Discuss His Book in Progress",
+    "title": "Manorexia: Prof. Harold A. Veeser will read from and discuss his book in progress",
     "link": "https://www.ccny.cuny.edu/calendar/manorexia-prof-harold-veeser-will-read-and-discuss-his-book-progress",
     "college": "City College of New York",
     "date": "2026-04-16",
@@ -1774,40 +1750,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-101/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-31",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Paint & Sip",
-    "link": "https://www.laguardia.edu/event/paint-sip-9/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-31",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Healthy Relationships Group",
-    "link": "https://www.laguardia.edu/event/healthy-relationships-group/2026-03-31/",
-    "college": "LaGuardia Community College",
-    "date": "2026-03-31",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Understanding Depression: Peer Support Group",
     "link": "https://www.laguardia.edu/event/understanding-depression-peer-support-group/2026-04-01/",
     "college": "LaGuardia Community College",
@@ -2085,6 +2027,50 @@
     "college": "LaGuardia Community College",
     "date": "2026-04-15",
     "time": "02:30 AM - 03:30 AM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Job Fair Prep Carnival",
+    "link": "https://www.laguardia.edu/event/job-fair-prep-carnival-2/2026-04-15/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-15",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "MoneyBoss: A Student's Guide to Investing",
+    "link": "https://www.laguardia.edu/event/moneyboss-a-students-guide-to-investing/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-15",
+    "time": "11:45 AM - 12:45 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays (In-Person)",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person-2/2026-04-15/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-15",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Spring Rutgers Tour",
+    "link": "https://www.laguardia.edu/event/spring-rutgers-tour/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-15",
+    "time": "12:00 PM - 05:00 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2450,27 +2436,6 @@
     ]
   },
   {
-    "title": "Fine Dining and Business Etiquette Event",
-    "link": "https://www.hunter.cuny.edu/event/fine-dining-and-business-etiquette-event-3/",
-    "college": "Hunter College",
-    "date": "2026-03-31",
-    "time": "02:30 PM - 04:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "A Screening and Discussion of Bella! This Woman’s Place is in the House",
-    "link": "https://www.hunter.cuny.edu/event/a-screening-and-discussion-of-bella-this-womans-place-is-in-the-house/",
-    "college": "Hunter College",
-    "date": "2026-03-31",
-    "time": "05:30 PM - 05:30 PM",
-    "tags": [
-      "Lectures",
-      "Performing Arts & Film"
-    ]
-  },
-  {
     "title": "Professional Interview Prep Series (powered by Interview Prep NYC)",
     "link": "https://www.hunter.cuny.edu/event/professional-interview-prep-series-powered-by-interview-prep-nyc-4/",
     "college": "Hunter College",
@@ -2753,15 +2718,21 @@
     ]
   },
   {
-    "title": "Healing Through Hip Hop and Creative Expression",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-12/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-03-31",
-    "time": "03:00 PM - 05:00 PM",
+    "title": "Inga Richter Seminar Series: Dr. Shino Murakami",
+    "link": "https://www.hunter.cuny.edu/event/inga-richter-seminar-series-dr-shino-murakami/",
+    "college": "Hunter College",
+    "date": "2026-04-20",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Redrawing Power: The Supreme Court and the Future of Executive Authority",
+    "link": "https://www.hunter.cuny.edu/event/redrawing-power-the-supreme-court-and-the-future-of-executive-authority/",
+    "college": "Hunter College",
+    "date": "2026-04-20",
+    "time": "06:00 PM - 06:00 PM",
     "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
+      "Lectures"
     ]
   },
   {
@@ -2967,6 +2938,18 @@
     ]
   },
   {
+    "title": "Healing Through Hip Hop and Creative Expression",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-13/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-14",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Evening Online Virtual Transfer Fair",
     "link": "https://www.bmcc.cuny.edu/event/evening-online-virtual-transfer-fair/",
     "college": "Borough of Manhattan Community College",
@@ -3143,78 +3126,6 @@
       "Feature",
       "Office of the Registrar",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "CSI T-Shirt Design Competition Winner Reveal (CLUE: 262059-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/12344066",
-    "college": "College of Staten Island",
-    "date": "2026-03-31",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "Social",
-      "Leadership",
-      "PG CLUE",
-      "Group Business",
-      "Arts and Crafts"
-    ]
-  },
-  {
-    "title": "Interview Tips and Tricks",
-    "link": "https://csi.campuslabs.com/engage/event/12375974",
-    "college": "College of Staten Island",
-    "date": "2026-03-31",
-    "time": "05:30 PM - 07:30 PM",
-    "tags": [
-      "ThoughtfulLearning"
-    ]
-  },
-  {
-    "title": "Management Club Elections",
-    "link": "https://csi.campuslabs.com/engage/event/12361921",
-    "college": "College of Staten Island",
-    "date": "2026-03-31",
-    "time": "06:15 PM - 07:45 PM",
-    "tags": [
-      "Social",
-      "Conference"
-    ]
-  },
-  {
-    "title": "Voices of Palestine (Aṣwāt Filasṭīn) أصوات فلسطين (CLUE: 262056-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/12261848",
-    "college": "College of Staten Island",
-    "date": "2026-03-31",
-    "time": "07:00 PM - 08:00 PM",
-    "tags": [
-      "Arts",
-      "Global Engagement",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion",
-      "Willowbrook Campus",
-      "Cultural",
-      "Arts and Crafts"
-    ]
-  },
-  {
-    "title": "WIT - Women in Technology Club Elections",
-    "link": "https://csi.campuslabs.com/engage/event/12356425",
-    "college": "College of Staten Island",
-    "date": "2026-03-31",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": [
-      "Social"
-    ]
-  },
-  {
-    "title": "Escape Room",
-    "link": "https://csi.campuslabs.com/engage/event/12372928",
-    "college": "College of Staten Island",
-    "date": "2026-03-31",
-    "time": "05:00 PM - 09:00 PM",
-    "tags": [
-      "Social"
     ]
   },
   {
@@ -3707,6 +3618,16 @@
     ]
   },
   {
+    "title": "ASL Club Film Showing: CODA",
+    "link": "https://csi.campuslabs.com/engage/event/12362078",
+    "college": "College of Staten Island",
+    "date": "2026-04-30",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Cultural"
+    ]
+  },
+  {
     "title": "CAB Film Showings: Arco",
     "link": "https://csi.campuslabs.com/engage/event/11956313",
     "college": "College of Staten Island",
@@ -3826,6 +3747,14 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-03-31",
     "time": "11:00 AM - 11:45 AM",
+    "tags": []
+  },
+  {
+    "title": "Healing Through Hip Hop and Creative Expression",
+    "link": "https://www.bmcc.cuny.edu/event/?p=669476",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-03-31",
+    "time": "03:00 PM - 05:00 PM",
     "tags": []
   },
   {
@@ -4325,14 +4254,6 @@
     "tags": []
   },
   {
-    "title": "Strategic Planning Forum",
-    "link": "https://www.jjay.cuny.edu/news-events/events/strategic-planning-forum",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-03-31",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
     "title": "Interfaith Solidarity in Times of Hate",
     "link": "https://www.jjay.cuny.edu/news-events/events/interfaith-solidarity-times-hate",
     "college": "John Jay College of Criminal Justice",
@@ -4514,6 +4435,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2026-04-29",
     "time": "05:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Beyond Human Language: The Impact of AI on Linguistics",
+    "link": "https://www.jjay.cuny.edu/news-events/events/beyond-human-language-impact-ai-linguistics",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-04-30",
+    "time": "02:00 PM",
     "tags": []
   },
   {
@@ -4775,20 +4704,20 @@
     ]
   },
   {
-    "title": "Last Minute Lit Review Research",
-    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-24",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
     "title": "Employer Spotlight",
     "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
     "college": "CUNY School of Labor and Urban Studies",
     "date": "2026-04-15",
     "time": "04:00 PM - 05:00 PM",
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
+  },
+  {
+    "title": "Data Communication and Reporting Results",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-17",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
   },
   {
     "title": "Feel the Fear and Present Anyway",
@@ -4799,11 +4728,11 @@
     "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
   },
   {
-    "title": "Data Communication and Reporting Results",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "title": "Last Minute Lit Review Research",
+    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-17",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+    "date": "2026-04-24",
+    "time": "10:15 PM - 11:30 PM",
+    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   }
 ]
