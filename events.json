@@ -1,22 +1,6 @@
 [
   {
     "title": "CCNY Libraries | Postcards from an Architect",
-    "link": "https://www.ccny.cuny.edu/calendar/ccny-libraries-postcards-architect-4",
-    "college": "City College of New York",
-    "date": "2026-04-01",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Mathematics Colloquium: Amanda Wilkens (Carnegie Mellon University)- The Ideal Poisson-Voronoi Tessellation and Some Applications",
-    "link": "https://www.ccny.cuny.edu/calendar/mathematics-colloquium-amanda-wilkens-carnegie-mellon-university-ideal-poisson-voronoi",
-    "college": "City College of New York",
-    "date": "2026-04-01",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
-    "title": "CCNY Libraries | Postcards from an Architect",
     "link": "https://www.ccny.cuny.edu/calendar/ccny-libraries-postcards-architect-5",
     "college": "City College of New York",
     "date": "2026-04-02",
@@ -901,6 +885,14 @@
     ]
   },
   {
+    "title": "Covering Gaza - Inside & Out",
+    "link": "https://www.journalism.cuny.edu/events/covering-gaza-inside-out/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-04-23",
+    "time": "04:30 PM - 06:00 PM",
+    "tags": []
+  },
+  {
     "title": "61st Commencement for the Class of 2026!",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/5706f580-760f-4bc9-a8e8-8637223a5654",
     "college": "Kingsborough Community College",
@@ -1741,18 +1733,6 @@
     "tags": []
   },
   {
-    "title": "Understanding Depression: Peer Support Group",
-    "link": "https://www.laguardia.edu/event/understanding-depression-peer-support-group/2026-04-01/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-01",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Urban Upbound-Turner Construction",
     "link": "https://www.laguardia.edu/event/urban-upbound-turner-construction/",
     "college": "LaGuardia Community College",
@@ -2080,6 +2060,17 @@
     ]
   },
   {
+    "title": "Job Fair Prep Carnival",
+    "link": "https://www.laguardia.edu/event/job-fair-prep-carnival-2/2026-04-16/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-16",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Financial Literacy Workshop Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377106",
     "college": "Guttman Community College",
@@ -2291,6 +2282,20 @@
     ]
   },
   {
+    "title": "Abilities Club & SGA End of Semester Event: Pizza, Raffles, & Exciting Mystery Movie",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377167",
+    "college": "Guttman Community College",
+    "date": "2026-05-05",
+    "time": "05:15 PM - 08:00 PM",
+    "tags": [
+      "EMSA",
+      "Social",
+      "Student Life",
+      "AccessABILITY Services",
+      "SGA"
+    ]
+  },
+  {
     "title": "Financial Literacy Workshop Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377107",
     "college": "Guttman Community College",
@@ -2399,18 +2404,6 @@
       "TGG",
       "Meeting",
       "Student Life"
-    ]
-  },
-  {
-    "title": "Professional Interview Prep Series (powered by Interview Prep NYC)",
-    "link": "https://www.hunter.cuny.edu/event/professional-interview-prep-series-powered-by-interview-prep-nyc-4/",
-    "college": "Hunter College",
-    "date": "2026-04-01",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
     ]
   },
   {
@@ -2702,50 +2695,25 @@
     ]
   },
   {
-    "title": "Take a Tour of CUNY BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-cuny-bmcc-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-01",
-    "time": "11:00 AM - 12:15 PM",
+    "title": "Salary Negotiation Workshop",
+    "link": "https://www.hunter.cuny.edu/event/salary-negotiation-workshop-6/",
+    "college": "Hunter College",
+    "date": "2026-04-22",
+    "time": "02:15 PM - 03:15 PM",
     "tags": [
-      "Admissions",
-      "Featured"
+      "Conferences & Workshops",
+      "Student Events"
     ]
   },
   {
     "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-4/2026-04-01/",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-4/2026-04-02/",
     "college": "Borough of Manhattan Community College",
-    "date": "2026-04-01",
-    "time": "12:00 PM - 01:00 PM",
+    "date": "2026-04-02",
+    "time": "02:50 AM - 03:50 PM",
     "tags": [
       "Admissions",
       "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (in-person)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-2/2026-04-01/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-01",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "BMCC Tribeca Performing Arts Center: Free Dance Workshop with Elodie Dufroux",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-tribeca-performing-arts-center-free-dance-workshop-with-elodie-dufroux/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-01",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Featured",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs",
-      "Tribeca Performing Arts Center"
     ]
   },
   {
@@ -2804,6 +2772,39 @@
     "tags": [
       "Featured",
       "Financial Aid Office"
+    ]
+  },
+  {
+    "title": "Take a Tour of CUNY BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-cuny-bmcc-4-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-08",
+    "time": "11:00 AM - 12:15 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc/2026-04-08/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-08",
+    "time": "11:00 AM - 12:15 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (in-person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-2/2026-04-08/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-08",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -3133,6 +3134,18 @@
       "Equity and Inclusion",
       "Willowbrook Campus",
       "Students Only"
+    ]
+  },
+  {
+    "title": "Vagrancy in motion: shifting from novelty to ecological importance (CLUE: 262079-CC",
+    "link": "https://csi.campuslabs.com/engage/event/12389307",
+    "college": "College of Staten Island",
+    "date": "2026-04-14",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "CC CLUE"
     ]
   },
   {
@@ -3577,6 +3590,18 @@
     ]
   },
   {
+    "title": "DECONVersation: Single Cell Foundation Model-Derived Embeddings for Robust Cell Type Deconvolution of Bulk RNA-seq Data (CLUE: 262080-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/12389354",
+    "college": "College of Staten Island",
+    "date": "2026-04-28",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "CC CLUE"
+    ]
+  },
+  {
     "title": "The Willowbrook Legacy and the CSI Archives: Collections and Recent Acquisitions",
     "link": "https://csi.campuslabs.com/engage/event/12094818",
     "college": "College of Staten Island",
@@ -3694,6 +3719,38 @@
     ]
   },
   {
+    "title": "Take a Tour of CUNY BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/?p=671529",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-01",
+    "time": "11:00 AM - 12:15 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007005",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-01",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (in-person)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10006985",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-01",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "BMCC Tribeca Performing Arts Center: Free Dance Workshop with Elodie Dufroux",
+    "link": "https://www.bmcc.cuny.edu/event/?p=672219",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-01",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
     "title": "CCNY Libraries | Postcards from an Architect",
     "link": "https://events.cuny.edu/cec/ccny-libraries-postcards-from-an-architect-7/",
     "college": "The City College of New York",
@@ -3702,14 +3759,6 @@
     "tags": [
       "CCNY Libraries"
     ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007050",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-02",
-    "time": "02:50 AM - 03:50 PM",
-    "tags": []
   },
   {
     "title": "THHS Class",
@@ -4336,6 +4385,14 @@
     "tags": []
   },
   {
+    "title": "Denim Day",
+    "link": "https://www.jjay.cuny.edu/news-events/events/denim-day",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-04-28",
+    "time": "03:00 PM",
+    "tags": []
+  },
+  {
     "title": "LGBTQ+ Support Group",
     "link": "https://www.jjay.cuny.edu/news-events/events/lgbtq-support-group-1",
     "college": "John Jay College of Criminal Justice",
@@ -4357,14 +4414,6 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2026-04-29",
     "time": "05:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Beyond Human Language: The Impact of AI on Linguistics",
-    "link": "https://www.jjay.cuny.edu/news-events/events/beyond-human-language-impact-ai-linguistics",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-04-30",
-    "time": "02:00 PM",
     "tags": []
   },
   {
@@ -4445,70 +4494,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-04-21",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Apr 1",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-apr1",
-    "college": "York College",
-    "date": "2026-04-01",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Softball vs. Baruch College",
-    "link": "https://www.york.cuny.edu/events/2026/softball-vs-baruch-04-01-2026",
-    "college": "York College",
-    "date": "2026-04-01",
-    "time": "3:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Economics Info Session Apr 2nd",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy3_of_economics-info-session-mar-12th",
-    "college": "York College",
-    "date": "2026-04-02",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Apr 3",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-apr3",
-    "college": "York College",
-    "date": "2026-04-03",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-04-03",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Aviation Management Info Session - Apr 6th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy4_of_aviation-management-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-04-06",
-    "time": "2:00 PM - 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Business Administration Info Session - Apr 6th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_business-administration-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-04-06",
-    "time": "2:00 PM - 4:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HRM Info Session Apr 6th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy4_of_hrm-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-04-06",
-    "time": "4:00 PM - 5:00 PM",
     "tags": []
   },
   {
@@ -4613,20 +4598,20 @@
     ]
   },
   {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-12",
-    "time": "07:15 PM - 08:30 PM",
-    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
-  },
-  {
     "title": "Employer Spotlight",
     "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
     "college": "CUNY School of Labor and Urban Studies",
     "date": "2026-04-15",
     "time": "04:00 PM - 05:00 PM",
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
+  },
+  {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-12",
+    "time": "07:15 PM - 08:30 PM",
+    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
   },
   {
     "title": "Last Minute Lit Review Research",
