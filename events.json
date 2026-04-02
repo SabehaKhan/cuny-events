@@ -1213,14 +1213,6 @@
     "tags": []
   },
   {
-    "title": "York College Admissions Advisement (Virtual ONLY)",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/6605d179-5b3b-4d59-aa2e-f4989522ff4d",
-    "college": "Kingsborough Community College",
-    "date": "2026-04-01",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": []
-  },
-  {
     "title": "College Visit- Medgar Evers College",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/8677c885-e7a9-4d42-9a0e-c393600ad8cb",
     "college": "Kingsborough Community College",
@@ -2068,19 +2060,6 @@
     "tags": [
       "all calendars",
       "student events"
-    ]
-  },
-  {
-    "title": "Financial Literacy Workshop Series",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377106",
-    "college": "Guttman Community College",
-    "date": "2026-04-01",
-    "time": "05:00 PM - 05:00 PM",
-    "tags": [
-      "CCPP",
-      "Workshop",
-      "Food - Lunch",
-      "Food - Light Refreshments "
     ]
   },
   {
@@ -3700,58 +3679,6 @@
   },
   {
     "title": "CCNY Libraries | Postcards from an Architect",
-    "link": "https://events.cuny.edu/cec/ccny-libraries-postcards-from-an-architect-6/",
-    "college": "The City College of New York",
-    "date": "2026-04-01",
-    "time": "12:00 PM - 4:00 PM",
-    "tags": [
-      "CCNY Libraries"
-    ]
-  },
-  {
-    "title": "Mathematics Colloquium: Amanda Wilkens (Carnegie Mellon University)- The Ideal Poisson-Voronoi Tessellation and Some Applications",
-    "link": "https://events.cuny.edu/cec/mathematics-colloquium-amanda-wilkens-carnegie-mellon-university-the-ideal-poisson-voronoi-tessellation-and-some-applications/",
-    "college": "The City College of New York",
-    "date": "2026-04-01",
-    "time": "12:30 PM - 1:30 PM",
-    "tags": [
-      "Mathematics Colloquium"
-    ]
-  },
-  {
-    "title": "Take a Tour of CUNY BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/?p=671529",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-01",
-    "time": "11:00 AM - 12:15 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007005",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-01",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (in-person)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10006985",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-01",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BMCC Tribeca Performing Arts Center: Free Dance Workshop with Elodie Dufroux",
-    "link": "https://www.bmcc.cuny.edu/event/?p=672219",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-01",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CCNY Libraries | Postcards from an Architect",
     "link": "https://events.cuny.edu/cec/ccny-libraries-postcards-from-an-architect-7/",
     "college": "The City College of New York",
     "date": "2026-04-02",
@@ -3761,35 +3688,49 @@
     ]
   },
   {
-    "title": "THHS Class",
-    "link": "https://qc.event.cuny.edu/events/rvHgFZTrPNkMlJKAUhHZ/YKLaIo7ETSRgHt0LY5ja118",
-    "college": "Queens College",
-    "date": "2026-04-01",
-    "time": "10:40AM",
+    "title": "CCNY Libraries | Postcards from an Architect",
+    "link": "https://events.cuny.edu/cec/ccny-libraries-postcards-from-an-architect-8/",
+    "college": "The City College of New York",
+    "date": "2026-04-03",
+    "time": "12:00 PM - 4:00 PM",
+    "tags": [
+      "CCNY Libraries"
+    ]
+  },
+  {
+    "title": "Elodie Dufroux: UN-spoken",
+    "link": "https://events.cuny.edu/cec/elodie-dufroux-un-spoken/",
+    "college": "The University",
+    "date": "2026-04-03",
+    "time": "7:30 PM",
+    "tags": [
+      "CUNY Dance Initiative"
+    ]
+  },
+  {
+    "title": "BMCC Tribeca Performing Arts Center: Elodie Dufroux Presents UN-SPOKEN",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007100",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-04",
+    "time": "07:30 PM - 08:30 PM",
     "tags": []
   },
   {
-    "title": "SEEK Workshops",
-    "link": "https://qc.event.cuny.edu/events/MMJxgSGR3tZFImcA0ukL/KaUgq1gNenQTNkY4N5Z220",
-    "college": "Queens College",
-    "date": "2026-04-01",
-    "time": "12:15PM",
-    "tags": []
+    "title": "YASS! Mondays",
+    "link": "https://events.cuny.edu/cec/yass-mondays-25/",
+    "college": "The City College of New York",
+    "date": "2026-04-06",
+    "time": "12:00 PM - 4:00 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
   },
   {
-    "title": "Math Review Sessions",
-    "link": "https://qc.event.cuny.edu/events/FwEAlnnQKApRxBGoX4i0/mBfeDBu8F3DyKhFDOESH20",
-    "college": "Queens College",
-    "date": "2026-04-01",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Learning Commons Workshops",
-    "link": "https://qc.event.cuny.edu/events/BSJxlreIROwZeHXDeIyU/u9nAwX4hKvHwOOfSBjos20",
-    "college": "Queens College",
-    "date": "2026-04-01",
-    "time": "12:15PM",
+    "title": "Health Services Administration M.S. Information Session",
+    "link": "https://lehman.edu/events/2026/Health-Services-Administration-MS-Information-Session--6.php",
+    "college": "Lehman College",
+    "date": "2026-04-06",
+    "time": "7:00 PM - 8:00 PM",
     "tags": []
   },
   {
@@ -3841,27 +3782,67 @@
     "tags": []
   },
   {
+    "title": "The OSDL Senior Portraits - April + May",
+    "link": "https://qc.event.cuny.edu/events/j1d9HGUGvg4kDBbWrKyN/nOlM1oEEPSmB5jgMVyH2",
+    "college": "Queens College",
+    "date": "2026-04-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Office of External & Governmental Relations",
+    "link": "https://qc.event.cuny.edu/events/R1isczeSX2ZNNBpPqd95/dBHgLpDgfoVLfxsbql1f11",
+    "college": "Queens College",
+    "date": "2026-04-06",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "THHS Class",
+    "link": "https://qc.event.cuny.edu/events/rvHgFZTrPNkMlJKAUhHZ/YKLaIo7ETSRgHt0LY5ja119",
+    "college": "Queens College",
+    "date": "2026-04-06",
+    "time": "10:40AM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Workshops",
+    "link": "https://qc.event.cuny.edu/events/MMJxgSGR3tZFImcA0ukL/KaUgq1gNenQTNkY4N5Z221",
+    "college": "Queens College",
+    "date": "2026-04-06",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Math Review Sessions",
+    "link": "https://qc.event.cuny.edu/events/FwEAlnnQKApRxBGoX4i0/mBfeDBu8F3DyKhFDOESH21",
+    "college": "Queens College",
+    "date": "2026-04-06",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Learning Commons Workshops",
+    "link": "https://qc.event.cuny.edu/events/BSJxlreIROwZeHXDeIyU/u9nAwX4hKvHwOOfSBjos21",
+    "college": "Queens College",
+    "date": "2026-04-06",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Film Shoot - River",
+    "link": "https://qc.event.cuny.edu/events/poVyYDRjk4421fVyssTo/nnVgioc2U8RotFdMovlB",
+    "college": "Queens College",
+    "date": "2026-04-07",
+    "time": "6:00AM",
+    "tags": []
+  },
+  {
     "title": "Python Fundamentals: A Three-Part Workshop Series | Session 3: Python Data Structures (Via Zoom)",
     "link": "https://baruch.event.cuny.edu/events/vRmE0Qtt8jLTp5FOKR2D/K4kCSZZDViAtCj6upczO",
     "college": "Baruch College",
     "date": "2026-04-02",
     "time": "12:45PM",
-    "tags": []
-  },
-  {
-    "title": "Continuing Education: COMPTIA A+ Prep Course",
-    "link": "https://citytech.event.cuny.edu/events/gztn6bjJLaZGa3De62wm/lQ15LiQ2dGLxPT5UEAo016",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-01",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center ESOL ESBN",
-    "link": "https://citytech.event.cuny.edu/events/bdDP8LiZrLYXbet1euyt/Nj2KcF1jZ4NZUxBJi5SO29",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-01",
-    "time": "6:00PM",
     "tags": []
   },
   {
@@ -3945,11 +3926,11 @@
     "tags": []
   },
   {
-    "title": "Women Center Tabling",
-    "link": "https://hostos.event.cuny.edu/events/GqVKQExYRd9G6iQun3wK/2ZqPEdvjDQdhnVpA3Pwn9",
-    "college": "Hostos Community College",
-    "date": "2026-04-01",
-    "time": "12:00PM",
+    "title": "STEP Program Spring 2026 Semester",
+    "link": "https://citytech.event.cuny.edu/events/MNrqM4jVc9FPh3LsKA8J/EW4LmYnBoVb4luhmYRKT5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-04",
+    "time": "9:30AM",
     "tags": []
   },
   {
@@ -3966,6 +3947,14 @@
     "college": "Hostos Community College",
     "date": "2026-04-08",
     "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Drumming for Stress Management",
+    "link": "https://hostos.event.cuny.edu/events/rm3PjgUIJfyP6fsvg1MH/a9hardGIccqmBI5KL1I3",
+    "college": "Hostos Community College",
+    "date": "2026-04-09",
+    "time": "11:30AM",
     "tags": []
   },
   {
@@ -4146,14 +4135,6 @@
   },
   {
     "title": "Cybersecurity Assessment Bootcamp Spring 2026",
-    "link": "https://www.lehman.edu/events/2026/Cybersecurity-Assessment-Bootcamp-Spring-2026-.php",
-    "college": "Lehman College",
-    "date": "2026-04-01",
-    "time": "1:00 PM- 4:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Cybersecurity Assessment Bootcamp Spring 2026",
     "link": "https://www.lehman.edu/events/2026/Cybersecurity-Assessment-Bootcamp-Spring-2026.php",
     "college": "Lehman College",
     "date": "2026-04-02",
@@ -4222,6 +4203,14 @@
     "college": "Lehman College",
     "date": "2026-04-13",
     "time": "5:30 PM- 6:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Excellence in Education and Community Conference 2026 Pre-Conference Online Forum",
+    "link": "https://www.lehman.edu/events/2026/Excellence-in-Education-and-Community-Conference-2026-Pre-Conference-Online-Forum-1.php",
+    "college": "Lehman College",
+    "date": "2026-04-15",
+    "time": "10:00 AM- 12:00 PM",
     "tags": []
   },
   {
@@ -4497,18 +4486,6 @@
     "tags": []
   },
   {
-    "title": "M.S. PROGRAM IN COGNITIVE NEUROSCIENCE OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/ms-program-cognitive-neuroscience-open-house-april-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-01",
-    "time": "4:30 pm — 6:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Cognitive Neuroscience",
-      "Admissions"
-    ]
-  },
-  {
     "title": "RECITAL: JEREMIAH BLACKLOW, VIOLIN",
     "link": "https://www.gc.cuny.edu/events/recital-jeremiah-blacklow-violin-april-2026",
     "college": "CUNY Graduate Center",
@@ -4598,20 +4575,15 @@
     ]
   },
   {
-    "title": "Employer Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-15",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
-  },
-  {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-12",
-    "time": "07:15 PM - 08:30 PM",
-    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
+    "title": "OVERDRIVE FESTIVAL: SAARIAHO WITH ELECTRONICS",
+    "link": "https://www.gc.cuny.edu/events/overdrive-festival-saariaho-electronics",
+    "college": "CUNY Graduate Center",
+    "date": "2026-04-08",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Art Science Connect"
+    ]
   },
   {
     "title": "Last Minute Lit Review Research",
@@ -4622,11 +4594,27 @@
     "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-12",
+    "time": "07:15 PM - 08:30 PM",
+    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
+  },
+  {
     "title": "Data Communication and Reporting Results",
     "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
     "date": "2026-04-17",
     "time": "10:15 PM - 11:15 PM",
     "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+  },
+  {
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-15",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
   }
 ]
