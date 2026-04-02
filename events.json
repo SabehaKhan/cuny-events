@@ -2685,6 +2685,17 @@
     ]
   },
   {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-4/2026-04-02/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-02",
+    "time": "02:50 AM - 03:50 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
     "title": "International Admissions Information Session",
     "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session/2026-04-03/",
     "college": "Borough of Manhattan Community College",
@@ -2740,6 +2751,39 @@
     "tags": [
       "Featured",
       "Financial Aid Office"
+    ]
+  },
+  {
+    "title": "Take a Tour of CUNY BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-cuny-bmcc-4-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-08",
+    "time": "11:00 AM - 12:15 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc/2026-04-08/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-08",
+    "time": "11:00 AM - 12:15 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (in-person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-2/2026-04-08/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-08",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -3634,6 +3678,27 @@
     ]
   },
   {
+    "title": "Keith & the Herps Alive! Reptile & Amphibian program",
+    "link": "https://csi.campuslabs.com/engage/event/12372941",
+    "college": "College of Staten Island",
+    "date": "2026-05-02",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "ThoughtfulLearning"
+    ]
+  },
+  {
+    "title": "CSI Swap Volunteers",
+    "link": "https://csi.campuslabs.com/engage/event/12305759",
+    "college": "College of Staten Island",
+    "date": "2026-05-02",
+    "time": "01:00 PM - 08:00 PM",
+    "tags": [
+      "CommunityService",
+      "Sustainability"
+    ]
+  },
+  {
     "title": "CCNY Libraries | Postcards from an Architect",
     "link": "https://events.cuny.edu/cec/ccny-libraries-postcards-from-an-architect-7/",
     "college": "The City College of New York",
@@ -3642,14 +3707,6 @@
     "tags": [
       "CCNY Libraries"
     ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007050",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-02",
-    "time": "02:50 AM - 03:50 PM",
-    "tags": []
   },
   {
     "title": "CCNY Libraries | Postcards from an Architect",
@@ -4178,14 +4235,6 @@
     "tags": []
   },
   {
-    "title": "Interfaith Solidarity in Times of Hate",
-    "link": "https://www.jjay.cuny.edu/news-events/events/interfaith-solidarity-times-hate",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-04-02",
-    "time": "12:00 PM",
-    "tags": []
-  },
-  {
     "title": "Stonewall Visiting Center Tour",
     "link": "https://www.jjay.cuny.edu/news-events/events/stonewall-visiting-center-tour",
     "college": "John Jay College of Criminal Justice",
@@ -4279,6 +4328,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2026-04-20",
     "time": "05:40 PM",
+    "tags": []
+  },
+  {
+    "title": "Blood Drive",
+    "link": "https://www.jjay.cuny.edu/news-events/events/blood-drive-0",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-04-21",
+    "time": "04:00 PM",
     "tags": []
   },
   {
@@ -4450,70 +4507,6 @@
     "tags": []
   },
   {
-    "title": "Economics Info Session Apr 2nd",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy3_of_economics-info-session-mar-12th",
-    "college": "York College",
-    "date": "2026-04-02",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Apr 3",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-apr3",
-    "college": "York College",
-    "date": "2026-04-03",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-04-03",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Aviation Management Info Session - Apr 6th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy4_of_aviation-management-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-04-06",
-    "time": "2:00 PM - 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Business Administration Info Session - Apr 6th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_business-administration-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-04-06",
-    "time": "2:00 PM - 4:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HRM Info Session Apr 6th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy4_of_hrm-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-04-06",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Business Administration Info Session - Apr 6th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy9_of_business-administration-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-04-06",
-    "time": "6:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Tennis vs. Hunter College",
-    "link": "https://www.york.cuny.edu/events/2026/mens-tennis-vs-hunter-04072026",
-    "college": "York College",
-    "date": "2026-04-07",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "RECITAL: JEREMIAH BLACKLOW, VIOLIN",
     "link": "https://www.gc.cuny.edu/events/recital-jeremiah-blacklow-violin-april-2026",
     "college": "CUNY Graduate Center",
@@ -4566,7 +4559,8 @@
     "location": "C200: Proshansky Auditorium",
     "tags": [
       "CLAGS: The Center for LGBTQ Studies",
-      "LGBTQ +"
+      "LGBTQ +",
+      "Democracy"
     ]
   },
   {
@@ -4614,6 +4608,22 @@
     ]
   },
   {
+    "title": "Data Communication and Reporting Results",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-17",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+  },
+  {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-12",
+    "time": "07:15 PM - 08:30 PM",
+    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
+  },
+  {
     "title": "Employer Spotlight",
     "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
     "college": "CUNY School of Labor and Urban Studies",
@@ -4628,21 +4638,5 @@
     "date": "2026-04-24",
     "time": "10:15 PM - 11:30 PM",
     "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-12",
-    "time": "07:15 PM - 08:30 PM",
-    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
-  },
-  {
-    "title": "Data Communication and Reporting Results",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-17",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
   }
 ]
