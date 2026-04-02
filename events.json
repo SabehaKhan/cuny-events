@@ -824,6 +824,28 @@
     ]
   },
   {
+    "title": "Mediation & Advocacy Skills Training and Spotlight Resources & Opportunities in Alternative Dispute Resolution (ADR) [CLE]",
+    "link": "https://www.law.cuny.edu/event/mediation-and-advocacy-skills-cle/",
+    "college": "CUNY School of Law",
+    "date": "2026-04-28",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Alumni",
+      "CLE - Continuing Legal Education"
+    ]
+  },
+  {
+    "title": "Disability Justice in Action: Navigating Rights, Access, and Advocacy (CLE)",
+    "link": "https://www.law.cuny.edu/event/disability-justice-cle/",
+    "college": "CUNY School of Law",
+    "date": "2026-04-30",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "Alumni",
+      "CLE - Continuing Legal Education"
+    ]
+  },
+  {
     "title": "Slatkin-Belsky Distinguished Lecture on Law, Social Justice & Gender Equality",
     "link": "https://www.law.cuny.edu/event/slatkin-belsky-distinguished-lecture-on-law-social-justice-gender-equality/",
     "college": "CUNY School of Law",
@@ -2257,7 +2279,8 @@
       "GBG",
       "Social",
       "Immigrant Student Success",
-      "Food - Light Refreshments "
+      "Food - Light Refreshments",
+      "APIDA Heritage Month"
     ]
   },
   {
@@ -2386,14 +2409,12 @@
     ]
   },
   {
-    "title": "RN-to-BS Nursing Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-9/",
+    "title": "In-person Event - Wetlands Clean Up",
+    "link": "https://www.hunter.cuny.edu/event/in-person-event-wetlands-clean-up/",
     "college": "Hunter College",
-    "date": "2026-04-02",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "Open Houses"
-    ]
+    "date": "2026-04-09",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "MFA Playwriting Reading Series: I'M A REALLY GOOD SWIMMER by Mya Ison",
@@ -2406,6 +2427,14 @@
       "Special Events",
       "Student Events"
     ]
+  },
+  {
+    "title": "In-person Event - Tree and Shrub Planting",
+    "link": "https://www.hunter.cuny.edu/event/in-person-event-tree-and-shrub-planting/",
+    "college": "Hunter College",
+    "date": "2026-04-11",
+    "time": "09:00 AM - 12:00 PM",
+    "tags": []
   },
   {
     "title": "The Katzenberger Case: Judicial subversion of law and Antisemitism in Weimar and Nazi Germany",
@@ -2671,17 +2700,6 @@
     "time": "06:00 PM - 06:00 PM",
     "tags": [
       "Lectures"
-    ]
-  },
-  {
-    "title": "Salary Negotiation Workshop",
-    "link": "https://www.hunter.cuny.edu/event/salary-negotiation-workshop-6/",
-    "college": "Hunter College",
-    "date": "2026-04-22",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "Conferences & Workshops",
-      "Student Events"
     ]
   },
   {
@@ -3688,6 +3706,17 @@
     ]
   },
   {
+    "title": "CSI SWAP",
+    "link": "https://csi.campuslabs.com/engage/event/12305668",
+    "college": "College of Staten Island",
+    "date": "2026-05-02",
+    "time": "04:00 PM - 07:00 PM",
+    "tags": [
+      "Social",
+      "Sustainability"
+    ]
+  },
+  {
     "title": "CSI Swap Volunteers",
     "link": "https://csi.campuslabs.com/engage/event/12305759",
     "college": "College of Staten Island",
@@ -4507,113 +4536,142 @@
     "tags": []
   },
   {
-    "title": "RECITAL: JEREMIAH BLACKLOW, VIOLIN",
-    "link": "https://www.gc.cuny.edu/events/recital-jeremiah-blacklow-violin-april-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-06",
-    "time": "6:00 pm — 8:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Music"
-    ]
+    "title": "Economics Info Session Apr 2nd",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy3_of_economics-info-session-mar-12th",
+    "college": "York College",
+    "date": "2026-04-02",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": []
   },
   {
-    "title": "LANCE HORNE'S SING WITH US! MONDAYS IN THE CLUB",
-    "link": "https://www.gc.cuny.edu/events/lance-hornes-sing-us-mondays-club",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-06",
-    "time": "6:30 pm — 9:30 pm",
-    "location": "1218: Segal Theatre",
-    "tags": [
-      "Martin E. Segal Theatre Center"
-    ]
+    "title": "V-READY Apr 3",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-apr3",
+    "college": "York College",
+    "date": "2026-04-03",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
   },
   {
-    "title": "VOICING INNOCENCE: TRAUMA, MEMORY, AND CONTEMPORARY OPERA IN THE WORK OF KAIJA SAARIAHO",
-    "link": "https://www.gc.cuny.edu/events/voicing-innocence-trauma-memory-and-contemporary-opera-work-kaija-saariaho",
-    "college": "CUNY Graduate Center",
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-04-03",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Aviation Management Info Session - Apr 6th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy4_of_aviation-management-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-06",
+    "time": "2:00 PM - 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Business Administration Info Session - Apr 6th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_business-administration-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-06",
+    "time": "2:00 PM - 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "HRM Info Session Apr 6th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy4_of_hrm-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-06",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Business Administration Info Session - Apr 6th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy9_of_business-administration-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-06",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Tennis vs. Hunter College",
+    "link": "https://www.york.cuny.edu/events/2026/mens-tennis-vs-hunter-04072026",
+    "college": "York College",
     "date": "2026-04-07",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "INNOVATION:SOUND:TECHNOLOGY (IST): PHILIPPE KOCHER AND MARC YEATS",
+    "link": "https://www.gc.cuny.edu/events/innovationsoundtechnology-ist-philippe-kocher-and-marc-yeats",
+    "college": "CUNY Graduate Center",
+    "date": "2026-04-15",
+    "time": "10:00 am",
+    "location": "Online",
+    "tags": [
+      "Art Science Connect"
+    ]
+  },
+  {
+    "title": "FRANTZ FANON AND THE FUTURE OF CULTURAL POLITICS",
+    "link": "https://www.gc.cuny.edu/events/frantz-fanon-and-future-cultural-politics",
+    "college": "CUNY Graduate Center",
+    "date": "2026-09-26",
+    "time": "2:00 pm",
+    "location": "5409: DGSC Meeting Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "NATIONALISM, INTERNATIONALISM, COSMOPOLITANISM WITH PARTHA CHATERJEE",
+    "link": "https://www.gc.cuny.edu/events/nationalism-internationalism-cosmopolitanism-partha-chaterjee",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-02",
+    "time": "4:30 pm",
+    "location": "TBD",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
+    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-25",
+    "time": "6:30 pm",
+    "location": "C198",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-20",
     "time": "",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Barry S. Brook Center for Music Research and Documentation"
-    ]
-  },
-  {
-    "title": "DISCUSSION WITH ALEKSI BARRIÈRE",
-    "link": "https://www.gc.cuny.edu/events/discussion-aleksi-barriere",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-07",
-    "time": "4:00 pm — 5:00 pm",
     "location": "9100: Skylight Room",
     "tags": [
-      "Martin E. Segal Theatre Center"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "SARA AHMED PRESENTS \"NO!\" WITH ROXANE GAY",
-    "link": "https://www.gc.cuny.edu/events/sara-ahmed-presents-no-roxane-gay",
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
     "college": "CUNY Graduate Center",
-    "date": "2026-04-07",
-    "time": "6:30 pm — 8:00 pm",
-    "location": "C200: Proshansky Auditorium",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
     "tags": [
-      "CLAGS: The Center for LGBTQ Studies",
-      "LGBTQ +",
-      "Democracy"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "DRUPAL TRAINING - BASICS",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-april-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-08",
-    "time": "10:00 am — 11:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "OVERDRIVE FESTIVAL: EXHIBITION - FINE ART AND NEW MEDIA",
-    "link": "https://www.gc.cuny.edu/events/overdrive-festival-exhibition-fine-art-and-new-media",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-08",
-    "time": "",
-    "location": "Multiple Locations (see description for details)",
-    "tags": [
-      "Art Science Connect"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - ADVANCED",
-    "link": "https://www.gc.cuny.edu/events/advanced-training-april-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-08",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "OVERDRIVE FESTIVAL: SAARIAHO WITH ELECTRONICS",
-    "link": "https://www.gc.cuny.edu/events/overdrive-festival-saariaho-electronics",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-08",
-    "time": "6:30 pm — 8:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Art Science Connect"
-    ]
-  },
-  {
-    "title": "Data Communication and Reporting Results",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-17",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+    "date": "2026-04-15",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
   },
   {
     "title": "Feel the Fear and Present Anyway",
@@ -4624,12 +4682,12 @@
     "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
   },
   {
-    "title": "Employer Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
+    "title": "Data Communication and Reporting Results",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-15",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
+    "date": "2026-04-17",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
   },
   {
     "title": "Last Minute Lit Review Research",
