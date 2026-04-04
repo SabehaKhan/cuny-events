@@ -1731,14 +1731,6 @@
     ]
   },
   {
-    "title": "In-person Event - Forest Restoration",
-    "link": "https://www.hunter.cuny.edu/event/in-person-event-forest-restoration/",
-    "college": "Hunter College",
-    "date": "2026-04-04",
-    "time": "09:00 AM - 12:00 PM",
-    "tags": []
-  },
-  {
     "title": "In-person Event - Wetlands Clean Up",
     "link": "https://www.hunter.cuny.edu/event/in-person-event-wetlands-clean-up/",
     "college": "Hunter College",
@@ -2021,6 +2013,14 @@
     "tags": [
       "Performing Arts & Film"
     ]
+  },
+  {
+    "title": "Inga Richter Seminar Series: Dr. Shino Murakami",
+    "link": "https://www.hunter.cuny.edu/event/inga-richter-seminar-series-dr-shino-murakami/",
+    "college": "Hunter College",
+    "date": "2026-04-20",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": []
   },
   {
     "title": "BMCC Tribeca Performing Arts Center: Elodie Dufroux Presents UN-SPOKEN",
@@ -2314,18 +2314,6 @@
       "Career Workshops/Fairs",
       "Center for Career Development",
       "Featured"
-    ]
-  },
-  {
-    "title": "Welcome to BCC Online: Next Steps for Newly Accepted Students",
-    "link": "https://www.bcc.cuny.edu/event/welcome-to-bcc-online-next-steps-for-newly-accepted-students/",
-    "college": "Bronx Community College",
-    "date": "2026-04-04",
-    "time": "11:00 AM - 12:30 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Virtual Event"
     ]
   },
   {
@@ -3059,6 +3047,19 @@
     ]
   },
   {
+    "title": "Elections and Advocacy Commission (Student Government)",
+    "link": "https://csi.campuslabs.com/engage/event/12031533",
+    "college": "College of Staten Island",
+    "date": "2026-05-04",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "GroupBusiness",
+      "Leadership",
+      "Learning",
+      "Group Business"
+    ]
+  },
+  {
     "title": "CAB Film Showings: Phantom Thread",
     "link": "https://csi.campuslabs.com/engage/event/11973916",
     "college": "College of Staten Island",
@@ -3449,7 +3450,7 @@
   },
   {
     "title": "VITA Free Tax Prep Services at CUNY on the Concourse",
-    "link": "https://www.lehman.edu/events/2026/VITA-Free-Tax-Prep-Services-at-CUNY-on-the-Concourse--4.php",
+    "link": "https://www.lehman.edu/events/2026/VITA-Free-Tax-Prep-Services-at-CUNY-on-the-Concourse-.php",
     "college": "Lehman College",
     "date": "2026-04-04",
     "time": "11:00 AM- 3:30 PM",
@@ -3800,6 +3801,78 @@
     "tags": []
   },
   {
+    "title": "Aviation Management Info Session - Apr 6th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy4_of_aviation-management-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-06",
+    "time": "2:00 PM - 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Business Administration Info Session - Apr 6th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_business-administration-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-06",
+    "time": "2:00 PM - 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "HRM Info Session Apr 6th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy4_of_hrm-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-06",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Business Administration Info Session - Apr 6th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy9_of_business-administration-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-06",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Tennis vs. Hunter College",
+    "link": "https://www.york.cuny.edu/events/2026/mens-tennis-vs-hunter-04072026",
+    "college": "York College",
+    "date": "2026-04-07",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Apr 8",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-apr8",
+    "college": "York College",
+    "date": "2026-04-08",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-04-08",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Tennis vs. University of Mount Saint Vincent",
+    "link": "https://www.york.cuny.edu/events/2026/mens-tennis-vs-umsv-04082026",
+    "college": "York College",
+    "date": "2026-04-08",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Softball vs. Hunter College",
+    "link": "https://www.york.cuny.edu/events/2026/softball-vs-hunter-04092026",
+    "college": "York College",
+    "date": "2026-04-09",
+    "time": "6:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
     "title": "RECITAL: JEREMIAH BLACKLOW, VIOLIN",
     "link": "https://www.gc.cuny.edu/events/recital-jeremiah-blacklow-violin-april-2026",
     "college": "CUNY Graduate Center",
@@ -3901,14 +3974,6 @@
     ]
   },
   {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-12",
-    "time": "07:15 PM - 08:30 PM",
-    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
-  },
-  {
     "title": "Last Minute Lit Review Research",
     "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
@@ -3923,6 +3988,14 @@
     "date": "2026-04-15",
     "time": "04:00 PM - 05:00 PM",
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
+  },
+  {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-12",
+    "time": "07:15 PM - 08:30 PM",
+    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
   },
   {
     "title": "Data Communication and Reporting Results",
