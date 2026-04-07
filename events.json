@@ -1079,17 +1079,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-102/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-07",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Government Contracting I  “Doing Business with the Government”",
     "link": "https://www.laguardia.edu/event/government-contracting-i-doing-business-with-the-government/",
     "college": "LaGuardia Community College",
@@ -1412,6 +1401,17 @@
     "college": "LaGuardia Community College",
     "date": "2026-04-16",
     "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "York College Transfer Information Session",
+    "link": "https://www.laguardia.edu/event/york-college-transfer-information-session/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-16",
+    "time": "02:15 PM - 03:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2054,29 +2054,6 @@
     ]
   },
   {
-    "title": "Join us for Weekly Yoga Class",
-    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2/2026-04-07/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-07",
-    "time": "11:00 AM - 11:45 AM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Stop by our FAFSA (Free Application for Federal Student Aid) On-the-Spot Event",
-    "link": "https://www.bmcc.cuny.edu/event/stop-by-our-fafsa-free-application-for-federal-student-aid-on-the-spot-event/2026-04-07/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-07",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "Financial Aid Office"
-    ]
-  },
-  {
     "title": "Take a Tour of BMCC",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc/2026-04-08/",
     "college": "Borough of Manhattan Community College",
@@ -2181,6 +2158,23 @@
     ]
   },
   {
+    "title": "Film Screening: Frederick Wiseman's Classic Documentary \"High School\"",
+    "link": "https://www.bmcc.cuny.edu/event/film-screening-frederick-wisemans-classic-documentary-high-school/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-13",
+    "time": "06:30 PM - 08:00 PM",
+    "tags": [
+      "Featured",
+      "Media Arts and Technology",
+      "Social Sciences",
+      "Human Services and Criminal Justice",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Student Affairs",
+      "Teacher Education"
+    ]
+  },
+  {
     "title": "Take a Tour of CUNY BMCC",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-cuny-bmcc-3-2/",
     "college": "Borough of Manhattan Community College",
@@ -2189,6 +2183,18 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "Join us for Weekly Yoga Class",
+    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2/2026-04-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-14",
+    "time": "11:00 AM - 11:45 AM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
     ]
   },
   {
@@ -2506,6 +2512,16 @@
     ]
   },
   {
+    "title": "Rise and Science",
+    "link": "https://csi.campuslabs.com/engage/event/12406095",
+    "college": "College of Staten Island",
+    "date": "2026-04-14",
+    "time": "06:45 PM - 07:45 PM",
+    "tags": [
+      "ThoughtfulLearning"
+    ]
+  },
+  {
     "title": "Disability Allyship:  A Training for Students, Faculty and Staff (CLUE: 262064-CC)",
     "link": "https://csi.campuslabs.com/engage/event/12255447",
     "college": "College of Staten Island",
@@ -2529,6 +2545,16 @@
     ]
   },
   {
+    "title": "Rise and Science",
+    "link": "https://csi.campuslabs.com/engage/event/12406096",
+    "college": "College of Staten Island",
+    "date": "2026-04-14",
+    "time": "07:45 PM - 08:00 PM",
+    "tags": [
+      "ThoughtfulLearning"
+    ]
+  },
+  {
     "title": "Memory Boxes and Elections",
     "link": "https://csi.campuslabs.com/engage/event/12181656",
     "college": "College of Staten Island",
@@ -2536,6 +2562,21 @@
     "time": "06:30 PM - 08:30 PM",
     "tags": [
       "Arts"
+    ]
+  },
+  {
+    "title": "Table of Pride (CLUE: 262063-PG)",
+    "link": "https://csi.campuslabs.com/engage/event/12406176",
+    "college": "College of Staten Island",
+    "date": "2026-04-14",
+    "time": "09:30 PM - 11:30 PM",
+    "tags": [
+      "Social",
+      "Learning",
+      "Social Justice\\",
+      "Diversity\\",
+      "Equity and Inclusion",
+      "PG CLUE"
     ]
   },
   {
@@ -2800,7 +2841,7 @@
     ]
   },
   {
-    "title": "First Aid Training 4/22/26",
+    "title": "First Aid Training 4/22/26 (CLUE: 262064-PG)",
     "link": "https://csi.campuslabs.com/engage/event/12399809",
     "college": "College of Staten Island",
     "date": "2026-04-22",
@@ -2809,6 +2850,7 @@
       "ThoughtfulLearning",
       "Learning",
       "Health and Wellness",
+      "PG CLUE",
       "VELA"
     ]
   },
@@ -2998,6 +3040,17 @@
     "time": "06:30 PM - 08:00 PM",
     "tags": [
       "ThoughtfulLearning"
+    ]
+  },
+  {
+    "title": "Think Like a Dentist: Case Studies, Trivia & Ethics",
+    "link": "https://csi.campuslabs.com/engage/event/12405498",
+    "college": "College of Staten Island",
+    "date": "2026-04-28",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning"
     ]
   },
   {
@@ -3203,6 +3256,41 @@
     ]
   },
   {
+    "title": "CUNY LEADS Presents: The Sky’s the Limit-- What’s Next? (CLUE: 262066-CC)",
+    "link": "https://csi.campuslabs.com/engage/event/12255991",
+    "college": "College of Staten Island",
+    "date": "2026-05-07",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "CC CLUE",
+      "Career Development"
+    ]
+  },
+  {
+    "title": "Navigate Your Academic Standing: Virtual Academic Success Resource Workshop Series (Double CLUE Credit: CC CLUE# 262037 and PG CLUE# 262014)",
+    "link": "https://csi.campuslabs.com/engage/event/12252907",
+    "college": "College of Staten Island",
+    "date": "2026-05-07",
+    "time": "06:45 PM - 07:45 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "Virtual event (online offering)"
+    ]
+  },
+  {
+    "title": "ASL Club's End-of-Semester Party",
+    "link": "https://csi.campuslabs.com/engage/event/12341129",
+    "college": "College of Staten Island",
+    "date": "2026-05-07",
+    "time": "06:30 PM - 08:00 PM",
+    "tags": [
+      "Cultural"
+    ]
+  },
+  {
     "title": "CAB Film Showings: Phantom Thread",
     "link": "https://csi.campuslabs.com/engage/event/11973916",
     "college": "College of Staten Island",
@@ -3214,6 +3302,16 @@
     ]
   },
   {
+    "title": "CCNY Libraries | Postcards from an Architect",
+    "link": "https://events.cuny.edu/cec/ccny-libraries-postcards-from-an-architect-9/",
+    "college": "The City College of New York",
+    "date": "2026-04-07",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": [
+      "CCNY Libraries"
+    ]
+  },
+  {
     "title": "Planetarium Show: Artemis II",
     "link": "https://events.cuny.edu/cec/planetarium-show-artemis-ii/",
     "college": "The City College of New York",
@@ -3221,6 +3319,16 @@
     "time": "3:30 PM - 4:30 PM",
     "tags": [
       "Artemis II"
+    ]
+  },
+  {
+    "title": "CCNY Libraries | Postcards from an Architect",
+    "link": "https://events.cuny.edu/cec/ccny-libraries-postcards-from-an-architect-10/",
+    "college": "The City College of New York",
+    "date": "2026-04-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": [
+      "CCNY Libraries"
     ]
   },
   {
@@ -3252,6 +3360,16 @@
       "unique degree",
       "unique degrees",
       "virtual open house"
+    ]
+  },
+  {
+    "title": "CCNY Libraries | Postcards from an Architect",
+    "link": "https://events.cuny.edu/cec/ccny-libraries-postcards-from-an-architect-11/",
+    "college": "The City College of New York",
+    "date": "2026-04-09",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": [
+      "CCNY Libraries"
     ]
   },
   {
@@ -3516,14 +3634,6 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-04-09",
     "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "Aspirin campaign to prevent Preecampsia in pregnant women",
-    "link": "https://hostos.event.cuny.edu/events/GHyWaWyBs33gf6NFCe8M/5XSUuc99HAEFSPZoVdgA",
-    "college": "Hostos Community College",
-    "date": "2026-04-08",
-    "time": "9:00AM",
     "tags": []
   },
   {
@@ -4253,6 +4363,14 @@
     ]
   },
   {
+    "title": "Feel the Fear and Present Anyway",
+    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-12",
+    "time": "07:15 PM - 08:30 PM",
+    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
+  },
+  {
     "title": "Data Communication and Reporting Results",
     "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
@@ -4275,13 +4393,5 @@
     "date": "2026-04-15",
     "time": "04:00 PM - 05:00 PM",
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
-  },
-  {
-    "title": "Feel the Fear and Present Anyway",
-    "link": "https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-12",
-    "time": "07:15 PM - 08:30 PM",
-    "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
   }
 ]
