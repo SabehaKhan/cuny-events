@@ -20,6 +20,16 @@
     ]
   },
   {
+    "title": "Earth Day Panel",
+    "link": "https://www.law.cuny.edu/event/earth-day-panel/",
+    "college": "CUNY School of Law",
+    "date": "2026-04-13",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": [
+      "Panel Discussion"
+    ]
+  },
+  {
     "title": "Lawyering for Liberation: Lessons from the Field",
     "link": "https://www.law.cuny.edu/event/lawyering-for-liberation-lessons-from-the-field/",
     "college": "CUNY School of Law",
@@ -1075,18 +1085,6 @@
     ]
   },
   {
-    "title": "Understanding Depression: Peer Support Group",
-    "link": "https://www.laguardia.edu/event/understanding-depression-peer-support-group/2026-04-08/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-08",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-115/",
     "college": "LaGuardia Community College",
@@ -1396,6 +1394,18 @@
     "college": "LaGuardia Community College",
     "date": "2026-04-16",
     "time": "02:15 PM - 05:15 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "TEDxCUNY: 2026 PLAYBACK Conference",
+    "link": "https://www.laguardia.edu/event/tedxcuny-2026-playback-conference/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-17",
+    "time": "09:00 AM - 05:00 PM",
     "tags": [
       "all calendars",
       "Featured",
@@ -3328,30 +3338,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007057",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-08",
-    "time": "11:00 AM - 12:15 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=672899",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-08",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Admissions Information Session (in-person)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10006993",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-08",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Create Your Own Major in CUNY with CUNY BA – April 9",
     "link": "https://events.cuny.edu/cec/design-degree-cunyba-major/",
     "college": "CUNY Baccalaureate for Unique and Interdisciplinary Studies",
@@ -3398,6 +3384,26 @@
     "college": "Hunter College",
     "date": "2026-04-09",
     "time": "6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Mapping for Equity (First Event)",
+    "link": "https://events.cuny.edu/cec/mapping-for-equity-first-event/",
+    "college": "College of Staten Island",
+    "date": "2026-04-10",
+    "time": "3:00 PM - 5:00 PM",
+    "tags": [
+      "DEI",
+      "OCEE",
+      "Sustainability"
+    ]
+  },
+  {
+    "title": "CCNY Libraries | Postcards from an Architect",
+    "link": "https://events.cuny.edu/cec/ccny-libraries-postcards-from-an-architect-12/",
+    "college": "The City College of New York",
+    "date": "2026-04-10",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -3521,11 +3527,35 @@
     "tags": []
   },
   {
+    "title": "Hillel tabling",
+    "link": "https://baruch.event.cuny.edu/events/o3QTVcU6cIQvMUXlLDD7/FdWTBzNIbWsqGJ7nOnCQ",
+    "college": "Baruch College",
+    "date": "2026-04-14",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
     "title": "Movie Screening: John Carpenter's \"They Live\"",
     "link": "https://baruch.event.cuny.edu/events/LQQcPBiEV7UPAZJjUyJV/NV529PsIvEt8q4eFOaxq",
     "college": "Baruch College",
     "date": "2026-04-14",
     "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Feminism in Judaism",
+    "link": "https://baruch.event.cuny.edu/events/Wuc4AaAaKFrDmo3ltkXm/qgCn9fZerP3gztDPTZ2e",
+    "college": "Baruch College",
+    "date": "2026-04-14",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Development & Rotations (D&R) #2",
+    "link": "https://baruch.event.cuny.edu/events/OtI75ZAFbVfdV9ALT9Kz/dJSXDaxc4U5CRSicbPYJ",
+    "college": "Baruch College",
+    "date": "2026-04-14",
+    "time": "12:30PM",
     "tags": []
   },
   {
@@ -3545,11 +3575,51 @@
     "tags": []
   },
   {
+    "title": "Soviet learning fellowship",
+    "link": "https://baruch.event.cuny.edu/events/mJWaqaWRKzG6eHL6Pstv/Ut2AP2Dr8s0Fg981IRTh",
+    "college": "Baruch College",
+    "date": "2026-04-14",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "Hebrew Class",
+    "link": "https://baruch.event.cuny.edu/events/WQOmpQkwsVjQGaHzmnNQ/DMUZEqB7Elamk2D6nWUY",
+    "college": "Baruch College",
+    "date": "2026-04-14",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "Central Asian Speaker & Networking Event",
+    "link": "https://baruch.event.cuny.edu/events/rZVeWciCEmhz5zOEkTUt/6QMFXaD1rfPgSeOUGehP",
+    "college": "Baruch College",
+    "date": "2026-04-14",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
     "title": "4th Annual Baruch College Conference on Climate Research, Teaching, and Collaboration",
     "link": "https://baruch.event.cuny.edu/events/jCdkpG0OTRVqybYUaJo6/NOrA9LnoHHk87LhLAqnj",
     "college": "Baruch College",
     "date": "2026-04-15",
     "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Hillel tabling",
+    "link": "https://baruch.event.cuny.edu/events/OWW8432lctgJHoVbdRmV/fEbi8zq0bsMnu6WA4hmI",
+    "college": "Baruch College",
+    "date": "2026-04-15",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Hillel tales",
+    "link": "https://baruch.event.cuny.edu/events/PSz75TC3KuGwwJQ5sHBv/xUkApkVnRdA0X9K7RGb6",
+    "college": "Baruch College",
+    "date": "2026-04-15",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -4233,14 +4303,6 @@
     "tags": []
   },
   {
-    "title": "V-READY Apr 8",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-apr8",
-    "college": "York College",
-    "date": "2026-04-08",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
     "title": "Men’s Tennis vs. University of Mount Saint Vincent",
     "link": "https://www.york.cuny.edu/events/2026/mens-tennis-vs-umsv-04082026",
     "college": "York College",
@@ -4310,6 +4372,14 @@
     "college": "York College",
     "date": "2026-04-13",
     "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Softball vs. Sarah Lawrence College",
+    "link": "https://www.york.cuny.edu/events/2026/softball-vs-sarah-lawrence-04132026",
+    "college": "York College",
+    "date": "2026-04-13",
+    "time": "7:00 PM - 11:00 PM",
     "tags": []
   },
   {
