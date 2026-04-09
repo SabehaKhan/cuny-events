@@ -1,15 +1,5 @@
 [
   {
-    "title": "Admitted Students Day",
-    "link": "https://www.law.cuny.edu/event/admitted-students-day/",
-    "college": "CUNY School of Law",
-    "date": "2026-04-09",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": [
-      "Special Event"
-    ]
-  },
-  {
     "title": "CLC Day of Mindfulness",
     "link": "https://www.law.cuny.edu/event/clc-day-of-mindfulness/",
     "college": "CUNY School of Law",
@@ -1073,17 +1063,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-115/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-09",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-04-10/",
     "college": "LaGuardia Community College",
@@ -1409,6 +1388,19 @@
     "tags": [
       "admissions",
       "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "CUNY Education Conference: Literacy Reimagined",
+    "link": "https://www.laguardia.edu/event/cuny-education-conference-literacy-reimagined/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-17",
+    "time": "02:30 PM - 06:30 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff",
+      "Featured",
       "student events"
     ]
   },
@@ -2062,18 +2054,6 @@
     ]
   },
   {
-    "title": "NY State Reconnect: Learn About this Free Community College Program",
-    "link": "https://www.bmcc.cuny.edu/event/ny-state-reconnect-learn-about-this-free-community-college-program-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-09",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
     "title": "International Admissions Information Session",
     "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session/2026-04-10/",
     "college": "Borough of Manhattan Community College",
@@ -2118,6 +2098,17 @@
       "Communications and Theatre Arts",
       "Student Affairs",
       "Theatre"
+    ]
+  },
+  {
+    "title": "Asian Heritage Month: Chinese Cheongsam Fashion Show",
+    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-chinese-cheongsam-show/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-13",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "Asian Heritage Month",
+      "Student Affairs"
     ]
   },
   {
@@ -2249,6 +2240,18 @@
     ]
   },
   {
+    "title": "Asian Heritage Month: Handmade Books Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-handmade-books-workshop/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-15",
+    "time": "09:30 AM - 11:00 AM",
+    "tags": [
+      "Asian Heritage Month",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Admissions Information Session (online)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-4-3/",
     "college": "Borough of Manhattan Community College",
@@ -2257,6 +2260,18 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "Join us for a Meditation Class with Nelly Argon",
+    "link": "https://www.bmcc.cuny.edu/event/join-us-for-a-meditation-class-with-nelly-argon/2026-04-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-15",
+    "time": "12:00 PM - 03:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
+      "Student Affairs"
     ]
   },
   {
@@ -2348,26 +2363,6 @@
       "Career Workshops/Fairs",
       "Center for Career Development",
       "Featured"
-    ]
-  },
-  {
-    "title": "Documentary Film Screening of A Chip Odyssey - The Rise of the Semiconductor Industry in Taiwan",
-    "link": "https://www.bmcc.cuny.edu/event/documentary-film-screening-of-a-chip-odyssey-the-rise-of-the-semiconductor-industry-in-taiwan/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "Business Management",
-      "Center for Ethnic Studies",
-      "Computer Information Systems",
-      "Ethnic and Race Studies",
-      "Featured",
-      "Math",
-      "Science",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Student Affairs",
-      "Urban Studies"
     ]
   },
   {
@@ -3346,6 +3341,14 @@
     "college": "Hunter College",
     "date": "2026-04-09",
     "time": "6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "NY State Reconnect: Learn About this Free Community College Program",
+    "link": "https://www.bmcc.cuny.edu/event/?p=671520",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-09",
+    "time": "03:00 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -4524,7 +4527,8 @@
     "time": "6:00 pm — 8:00 pm",
     "location": "Hybrid (see description for details)",
     "tags": [
-      "Music"
+      "Music",
+      "Student Recital"
     ]
   },
   {
@@ -4547,12 +4551,12 @@
     "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
   },
   {
-    "title": "Last Minute Lit Review Research",
-    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-24",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
+    "date": "2026-04-15",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
   },
   {
     "title": "Feel the Fear and Present Anyway",
@@ -4563,11 +4567,11 @@
     "description": "<p>Speaking or presenting to an audience can be a powerful way to share knowledge and create change, but it’s also a common anxiety that strikes fear into the hearts of many! This workshop provides tools to address and reduce speaking anxiety, so you can focus on developing your message and connecting with the audience. With a special focus on capstone and final presentations, the workshop includes tips for creating and structuring your presentation, choosing engaging visuals, and practicing effectively. *Registration closes at 4:30pm on 4/10*</p><a href=\"https://www.eventbrite.com/e/feel-the-fear-and-present-anyway-tickets-1979895364332?aff=oddtdtcreator\">RSVP HERE </a>"
   },
   {
-    "title": "Employer Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
+    "title": "Last Minute Lit Review Research",
+    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-15",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
+    "date": "2026-04-24",
+    "time": "10:15 PM - 11:30 PM",
+    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   }
 ]
