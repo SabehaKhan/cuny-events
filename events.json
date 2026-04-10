@@ -2046,29 +2046,6 @@
     ]
   },
   {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session/2026-04-10/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-10",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
-    "title": "Internship Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/internship-information-session-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-10",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Featured",
-      "Internships & Experiential Learning"
-    ]
-  },
-  {
     "title": "Jane Young Spring 2026 Film Series: Greed, a Film Retrospective",
     "link": "https://www.bmcc.cuny.edu/event/jane-young-spring-2026-film-series-greed-a-film-retrospective/2026-04-12/",
     "college": "Borough of Manhattan Community College",
@@ -2090,6 +2067,21 @@
       "Communications and Theatre Arts",
       "Student Affairs",
       "Theatre"
+    ]
+  },
+  {
+    "title": "Asian Heritage Month Opening Ceremony",
+    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-opening-ceremony/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-13",
+    "time": "12:00 PM - 02:30 PM",
+    "tags": [
+      "Asian and Pacific Islander Bridge Initiaitve",
+      "Asian Heritage Month",
+      "Featured",
+      "Immigration Support",
+      "International Student Events/Workshops",
+      "Student Affairs"
     ]
   },
   {
@@ -2355,6 +2347,26 @@
       "Career Workshops/Fairs",
       "Center for Career Development",
       "Featured"
+    ]
+  },
+  {
+    "title": "Documentary Film Screening of A Chip Odyssey - The Rise of the Semiconductor Industry in Taiwan",
+    "link": "https://www.bmcc.cuny.edu/event/documentary-film-screening-of-a-chip-odyssey-the-rise-of-the-semiconductor-industry-in-taiwan/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-16",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Business Management",
+      "Center for Ethnic Studies",
+      "Computer Information Systems",
+      "Ethnic and Race Studies",
+      "Featured",
+      "Math",
+      "Science",
+      "Social Sciences",
+      "Human Services and Criminal Justice",
+      "Student Affairs",
+      "Urban Studies"
     ]
   },
   {
@@ -3346,6 +3358,14 @@
     "tags": []
   },
   {
+    "title": "Internship Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=671474",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-10",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
     "title": "Dance workshop with Cole Jazz",
     "link": "https://events.cuny.edu/cec/dance-workshop-with-cole-jazz/",
     "college": "The University",
@@ -3392,6 +3412,14 @@
       "QCC",
       "Queensborough"
     ]
+  },
+  {
+    "title": "Excellence in Education and Community Conference 2026 Pre-Conference Online Forum",
+    "link": "https://lehman.edu/events/2026/Excellence-in-Education-and-Community-Conference-2026-Pre-Conference-Online-Forum.php",
+    "college": "Lehman College",
+    "date": "2026-04-13",
+    "time": "10:00 AM - 12:00 PM",
+    "tags": []
   },
   {
     "title": "P.S.: Peruvian Election Briefing",
@@ -4011,7 +4039,7 @@
   },
   {
     "title": "Spring Into Health! Health and Wellness Fair",
-    "link": "https://www.lehman.edu/events/2026/Spring-Into-Health-Health-and-Wellness-Fair-1.php",
+    "link": "https://www.lehman.edu/events/2026/Spring-Into-Health-Health-and-Wellness-Fair.php",
     "college": "Lehman College",
     "date": "2026-04-14",
     "time": "11:00 AM- 2:00 PM",
@@ -4027,7 +4055,7 @@
   },
   {
     "title": "2nd Annual Interdisciplinary Innovative Speaker Series",
-    "link": "https://www.lehman.edu/events/2026/2nd-Annual-Interdisciplinary-Innovative-Speaker-Series-1.php",
+    "link": "https://www.lehman.edu/events/2026/2nd-Annual-Interdisciplinary-Innovative-Speaker-Series.php",
     "college": "Lehman College",
     "date": "2026-04-15",
     "time": "12:00 PM- 1:00 PM",
@@ -4042,27 +4070,19 @@
     "tags": []
   },
   {
-    "title": "Middle States Launch Event",
-    "link": "https://www.lehman.edu/events/2026/Middle-States-Launch-Event-.php",
+    "title": "UMLP & CREAR Futuros: Student Leaders Summit",
+    "link": "https://www.lehman.edu/events/2026/UMLP--CREAR-Futuros-Student-Leaders-Summit.php",
     "college": "Lehman College",
     "date": "2026-04-16",
     "time": "3:00 PM- 5:00 PM",
     "tags": []
   },
   {
-    "title": "Nursing M.S., Adv. Cert., DNP Information Session",
-    "link": "https://www.lehman.edu/events/2026/Nursing-MS-Adv-Cert-DNP-Information-Session--1.php",
+    "title": "Middle States Launch Event",
+    "link": "https://www.lehman.edu/events/2026/Middle-States-Launch-Event-.php",
     "college": "Lehman College",
     "date": "2026-04-16",
-    "time": "5:30 PM- 6:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Brave Spaces: Supporting LGBTQIA+ Youth in a Shifting World",
-    "link": "https://www.jjay.cuny.edu/news-events/events/brave-spaces-supporting-lgbtqia-youth-shifting-world",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-04-10",
-    "time": "02:00 PM",
+    "time": "3:00 PM- 5:00 PM",
     "tags": []
   },
   {
@@ -4250,6 +4270,14 @@
     "tags": []
   },
   {
+    "title": "Drag Bingo with Trixy Valentine",
+    "link": "https://www.jjay.cuny.edu/news-events/events/drag-bingo-trixy-valentine",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-04-30",
+    "time": "05:40 PM",
+    "tags": []
+  },
+  {
     "title": "Get Hired: Internship Prep 101",
     "link": "https://macaulay.cuny.edu/calendar-of-events/get-hired-internship-prep-101/",
     "college": "Macaulay Honors College",
@@ -4386,6 +4414,14 @@
     "tags": []
   },
   {
+    "title": "OT Department Presents Stephen Nawotniak",
+    "link": "https://www.york.cuny.edu/events/ot-department-presents-stephen-nawotniak",
+    "college": "York College",
+    "date": "2026-04-13",
+    "time": "9:00 PM - 10:30 PM",
+    "tags": []
+  },
+  {
     "title": "Business Administration Info Session - Apr 14th",
     "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy10_of_business-administration-info-session-mar-9th",
     "college": "York College",
@@ -4407,14 +4443,6 @@
     "college": "York College",
     "date": "2026-04-14",
     "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Faculty Caucus - 4/14/2026",
-    "link": "https://www.york.cuny.edu/events/2025/faculty-caucus-4",
-    "college": "York College",
-    "date": "2026-04-14",
-    "time": "4:10 PM - 5:45 PM",
     "tags": []
   },
   {
@@ -4541,12 +4569,12 @@
     ]
   },
   {
-    "title": "Employer Spotlight",
-    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
+    "title": "Data Communication and Reporting Results",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-15",
-    "time": "04:00 PM - 05:00 PM",
-    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
+    "date": "2026-04-17",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
   },
   {
     "title": "Feel the Fear and Present Anyway",
@@ -4565,11 +4593,11 @@
     "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
-    "title": "Data Communication and Reporting Results",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "title": "Employer Spotlight",
+    "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-17",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+    "date": "2026-04-15",
+    "time": "04:00 PM - 05:00 PM",
+    "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
   }
 ]
