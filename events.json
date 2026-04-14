@@ -1577,6 +1577,25 @@
     ]
   },
   {
+    "title": "Guttman Denim Day",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377195",
+    "college": "Guttman Community College",
+    "date": "2026-04-29",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": [
+      "PREZ",
+      "Educational/Awareness",
+      "AccessABILITY Services",
+      "Food - Light Refreshments",
+      "Connect Center",
+      "Denim Day",
+      "Counseling & Wellness",
+      "Student Life",
+      "Sexual Assault Awareness",
+      "SGA"
+    ]
+  },
+  {
     "title": "Gaming Grizzlies Weekly Freeplay",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377126",
     "college": "Guttman Community College",
@@ -1585,6 +1604,23 @@
     "tags": [
       "TGG",
       "Meeting",
+      "Student Life"
+    ]
+  },
+  {
+    "title": "Sexual Assault Awareness Art Display & Training",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377196",
+    "college": "Guttman Community College",
+    "date": "2026-04-30",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "PREZ",
+      "Training",
+      "AccessABILITY Services",
+      "Denim Day",
+      "Food - Light Refreshments",
+      "SGA",
+      "Sexual Assault Awareness",
       "Student Life"
     ]
   },
@@ -1680,6 +1716,18 @@
       "Community Service",
       "Off-Campus",
       "Student Life"
+    ]
+  },
+  {
+    "title": "Citizen Preparedness Training",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377194",
+    "college": "Guttman Community College",
+    "date": "2026-05-13",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "PREZ",
+      "Training",
+      "Food - Breakfast"
     ]
   },
   {
@@ -2055,17 +2103,6 @@
     ]
   },
   {
-    "title": "Take a Tour of CUNY BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-cuny-bmcc-3-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-14",
-    "time": "10:00 AM - 10:15 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Join us for Weekly Yoga Class",
     "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2/2026-04-14/",
     "college": "Borough of Manhattan Community College",
@@ -2351,6 +2388,29 @@
       "Admissions",
       "Featured",
       "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online): Focus on Business Majors",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-forcus-on-business-majors/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-17",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Business Management",
+      "Entrepreneurship"
+    ]
+  },
+  {
+    "title": "Take Control of Your Finances with a Financial Literacy Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/financial-literacy-workshop-sponsored-by-state-farm/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-17",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Conexiones",
+      "Featured"
     ]
   },
   {
@@ -3532,6 +3592,14 @@
     ]
   },
   {
+    "title": "Take a Tour of CUNY BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/?p=670902",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-14",
+    "time": "10:00 AM - 10:15 AM",
+    "tags": []
+  },
+  {
     "title": "Blood Drive (hold)",
     "link": "https://qc.event.cuny.edu/events/md2dN9C4cUJLUvl9DNbW/EVSUuaK8lQ7yiSUbQnjJ",
     "college": "Queens College",
@@ -3977,14 +4045,6 @@
     "college": "Hostos Community College",
     "date": "2026-04-21",
     "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Financial Literacy Event",
-    "link": "https://hostos.event.cuny.edu/events/De2Bz9UPygLajqpcIsE3/UJjdyXdPu43zEctAqxMO",
-    "college": "Hostos Community College",
-    "date": "2026-04-21",
-    "time": "11:30AM",
     "tags": []
   },
   {
@@ -4516,6 +4576,118 @@
     "tags": []
   },
   {
+    "title": "Business Administration Info Session - Apr 14th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy10_of_business-administration-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-14",
+    "time": "2:00 PM - 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Disability Awareness Month Kick-Off Celebration",
+    "link": "https://www.york.cuny.edu/events/cuny-disability-awareness-month-kick-off-celebration",
+    "college": "York College",
+    "date": "2026-04-14",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "The Nursing Program Experience Part 1",
+    "link": "https://www.york.cuny.edu/events/the-nursing-program-experience-part-1",
+    "college": "York College",
+    "date": "2026-04-14",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Faculty Caucus - 4/14/2026",
+    "link": "https://www.york.cuny.edu/events/2025/faculty-caucus-4",
+    "college": "York College",
+    "date": "2026-04-14",
+    "time": "4:10 PM - 5:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Nursing Information Session - April",
+    "link": "https://www.york.cuny.edu/events/2025/nursing-information-session-7",
+    "college": "York College",
+    "date": "2026-04-14",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Business Administration Info Session - Apr 14th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy12_of_business-administration-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-14",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Tennis vs. Baruch College",
+    "link": "https://www.york.cuny.edu/events/2026/mens-tennis-vs-baruch-04142026",
+    "college": "York College",
+    "date": "2026-04-14",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Brandon Diaz' Senior Recital",
+    "link": "https://www.york.cuny.edu/events/brandon-diaz-senior-recital",
+    "college": "York College",
+    "date": "2026-04-14",
+    "time": "11:00 PM - 1:00 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Apr 15",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-apr15",
+    "college": "York College",
+    "date": "2026-04-15",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Marketing Info Session - Apr 15th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy4_of_marketing-info-session-mar-11th",
+    "college": "York College",
+    "date": "2026-04-15",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Making Your Content ADA Compliant!",
+    "link": "https://www.york.cuny.edu/events/making-your-content-ada-compliant",
+    "college": "York College",
+    "date": "2026-04-15",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-04-15",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "The Vicious Cycle of Depression: How to Break Out of It",
+    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/the-vicious-cycle-of-depression-how-to-break-out-of-it",
+    "college": "York College",
+    "date": "2026-04-15",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Occupational Therapy Information Session",
+    "link": "https://www.york.cuny.edu/occupational-therapy/information-session-13",
+    "college": "York College",
+    "date": "2026-04-15",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
     "title": "TAKING SMARTER NOTES",
     "link": "https://www.gc.cuny.edu/events/taking-smarter-notes",
     "college": "CUNY Graduate Center",
@@ -4632,12 +4804,12 @@
     "tags": []
   },
   {
-    "title": "Data Communication and Reporting Results",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
+    "title": "Last Minute Lit Review Research",
+    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-17",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+    "date": "2026-04-24",
+    "time": "10:15 PM - 11:30 PM",
+    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   },
   {
     "title": "Employer Spotlight",
@@ -4648,11 +4820,11 @@
     "description": "<a href=\"https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration\">RSVP HERE</a>"
   },
   {
-    "title": "Last Minute Lit Review Research",
-    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
+    "title": "Data Communication and Reporting Results",
+    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
     "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-24",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
+    "date": "2026-04-17",
+    "time": "10:15 PM - 11:15 PM",
+    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
   }
 ]
