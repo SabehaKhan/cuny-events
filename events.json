@@ -1,24 +1,5 @@
 [
   {
-    "title": "NYSBA Symposium Panel Discussion The Metes and Bounds of the First Amendment",
-    "link": "https://www.law.cuny.edu/event/nysba-symposium-panel-discussion-the-metes-and-bounds-of-the-first-amendment/",
-    "college": "CUNY School of Law",
-    "date": "2026-04-15",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "NYSBA 2026 Haywood Burns Awards Ceremony, Networking Reception and Symposium",
-    "link": "https://www.law.cuny.edu/event/nysba-2026-haywood-burns-networking-reception/",
-    "college": "CUNY School of Law",
-    "date": "2026-04-15",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Lecture",
-      "Networking Event"
-    ]
-  },
-  {
     "title": "Good Trouble: Rebellious Lawyering and Advocacy with Burns Chair Kristen Clarke in Conversation with Assemblymember Justin J. Pearson",
     "link": "https://www.law.cuny.edu/event/good-trouble-rebellious-lawyering-and-advocacy-with-burns-chair-kristen-clarke-in-conversation-with-assemblymember-justin-j-pearson/",
     "college": "CUNY School of Law",
@@ -169,6 +150,14 @@
     "tags": [
       "Current Students"
     ]
+  },
+  {
+    "title": "Beyond the Golden Girls: Reimagining Aging in the Media",
+    "link": "https://www.journalism.cuny.edu/events/beyond-the-golden-girls-reimagining-aging-in-the-media/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-04",
+    "time": "04:00 PM - 05:30 PM",
+    "tags": []
   },
   {
     "title": "Homecoming 2026",
@@ -1045,29 +1034,6 @@
     "tags": []
   },
   {
-    "title": "Spring Rutgers Tour",
-    "link": "https://www.laguardia.edu/event/spring-rutgers-tour/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-15",
-    "time": "12:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Game Day: Karaoke",
-    "link": "https://www.laguardia.edu/event/game-day-karaoke/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-15",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation Wednesdays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-2/2026-04-15/",
     "college": "LaGuardia Community College",
@@ -1363,6 +1329,17 @@
     ]
   },
   {
+    "title": "Earth Day 2026",
+    "link": "https://www.laguardia.edu/event/earth-day-2026/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-22",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Gaming Grizzlies Weekly Freeplay",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377124",
     "college": "Guttman Community College",
@@ -1534,6 +1511,17 @@
     "tags": [
       "CCPP",
       "Career Workshop"
+    ]
+  },
+  {
+    "title": "Inclusive Education: An African Perspective with Dr. Thomas Mtonga",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377201",
+    "college": "Guttman Community College",
+    "date": "2026-04-28",
+    "time": "07:00 PM - 09:30 PM",
+    "tags": [
+      "OAA",
+      "Educational/Awareness"
     ]
   },
   {
@@ -1801,40 +1789,6 @@
     ]
   },
   {
-    "title": "Professional Interview Prep Series (powered by Interview Prep NYC)",
-    "link": "https://www.hunter.cuny.edu/event/professional-interview-prep-series-powered-by-interview-prep-nyc-5/",
-    "college": "Hunter College",
-    "date": "2026-04-15",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Singing with the Dean",
-    "link": "https://www.hunter.cuny.edu/event/dancing-singing-with-the-dean-7/",
-    "college": "Hunter College",
-    "date": "2026-04-15",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Performing Arts & Film",
-      "Special Events",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Undergraduate Nutrition Program Information Sessions (NFS and NW) Spring 2026",
-    "link": "https://www.hunter.cuny.edu/event/undergraduate-nutrition-program-information-sessions-nfs-and-nw-spring-2026-3/",
-    "college": "Hunter College",
-    "date": "2026-04-15",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
     "title": "Arts Outing: The Balusters on Broadway",
     "link": "https://www.hunter.cuny.edu/event/arts-outing-the-balusters-on-broadway/",
     "college": "Hunter College",
@@ -2083,346 +2037,33 @@
     "tags": []
   },
   {
-    "title": "Join us for a Meditation Class with Nelly Argon",
-    "link": "https://www.bmcc.cuny.edu/event/join-us-for-a-meditation-class-with-nelly-argon/2026-04-15/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-15",
-    "time": "12:00 PM - 03:00 PM",
+    "title": "Preventing Procrastination – Counseling Workshop",
+    "link": "https://www.hunter.cuny.edu/event/preventing-procrastination-counseling-workshop-5/",
+    "college": "Hunter College",
+    "date": "2026-04-24",
+    "time": "11:30 AM - 12:45 PM",
     "tags": [
-      "Featured",
-      "Health Services",
-      "Student Affairs"
+      "Student Events"
     ]
   },
   {
-    "title": "Asian Heritage Month: Boba and Beats  (Bubble Tea & Karaoke)",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-boba-and-beats-bubble-tea-karaoke/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-15",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "Asian and Pacific Islander Bridge Initiaitve",
-      "Asian Heritage Month",
-      "Featured",
-      "Music & Art",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs",
-      "Theatre"
-    ]
+    "title": "Career Exploration",
+    "link": "https://www.hunter.cuny.edu/event/career-exploration/",
+    "college": "Hunter College",
+    "date": "2026-04-24",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
   },
   {
-    "title": "Free Workshop: Photoshop (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/free-workshop-photoshop-students-only-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-15",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "MoneyWorks Seminar: Starting Your Own Business",
-    "link": "https://www.bmcc.cuny.edu/event/moneyworks-seminar-starting-your-own-business/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-15",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Featured",
-      "Moneyworks"
-    ]
-  },
-  {
-    "title": "Start Your Next Transfer Journey: Transfer Tools 101",
-    "link": "https://www.bmcc.cuny.edu/event/start-your-next-transfer-journey-transfer-tools-101-6/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-15",
-    "time": "02:30 PM - 04:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer"
-    ]
-  },
-  {
-    "title": "Take a Tour of CUNY BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-cuny-bmcc-4-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "10:00 AM - 11:15 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc/2026-04-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "10:00 AM - 11:15 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Free HIV/STI Testing for BMCC Students",
-    "link": "https://www.bmcc.cuny.edu/event/free-hiv-sti-testing-for-bmcc-students-11/2026-04-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Middle States Town Hall",
-    "link": "https://www.bmcc.cuny.edu/event/middle-states-town-hall/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "Faculty and Staff",
-      "Featured",
-      "Middle States",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Resume and Cover Letter Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/resume-and-cover-letter-workshop-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Documentary Film Screening of A Chip Odyssey - The Rise of the Semiconductor Industry in Taiwan",
-    "link": "https://www.bmcc.cuny.edu/event/documentary-film-screening-of-a-chip-odyssey-the-rise-of-the-semiconductor-industry-in-taiwan/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "Asian and Pacific Islander Bridge Initiaitve",
-      "Asian Heritage Month",
-      "Center for Ethnic Studies",
-      "Computer Information Systems",
-      "Ethnic and Race Studies",
-      "Featured",
-      "Math",
-      "Science",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Student Affairs",
-      "Urban Studies"
-    ]
-  },
-  {
-    "title": "Healing Through Hip Hop and Creative Expression",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-14/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "BMCC Tribeca Performing Arts Center: Sweeney Todd",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-tribeca-performing-arts-center-sweeney-todd/2026-04-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "07:30 PM - 09:30 PM",
-    "tags": [
-      "Featured",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Tribeca Performing Arts Center"
-    ]
-  },
-  {
-    "title": "International Admissions Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/international-admissions-information-session/2026-04-17/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-17",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online): Focus on Business Majors",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-forcus-on-business-majors/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-17",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Business Management",
-      "Entrepreneurship"
-    ]
-  },
-  {
-    "title": "Take Control of Your Finances with a Financial Literacy Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/financial-literacy-workshop-sponsored-by-state-farm/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-17",
+    "title": "Dancing with the Dean",
+    "link": "https://www.hunter.cuny.edu/event/dancing-singing-with-the-dean-8/",
+    "college": "Hunter College",
+    "date": "2026-04-24",
     "time": "01:00 PM - 02:00 PM",
     "tags": [
-      "Conexiones",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Transitions and Transactions VIII: Algorithms, Artificial Intelligence, and the Classroom",
-    "link": "https://www.bmcc.cuny.edu/event/transitions-and-transactions-viii-algorithms-artificial-intelligence-and-the-classroom/2026-04-17/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-17",
-    "time": "03:00 PM - 08:00 PM",
-    "tags": [
-      "English",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Jane Young Spring 2026 Film Series: Greed, a Film Retrospective",
-    "link": "https://www.bmcc.cuny.edu/event/jane-young-spring-2026-film-series-greed-a-film-retrospective/2026-04-19/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-19",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "CUNY in The Heights",
-      "Economics",
-      "English",
-      "Evening-Weekend",
-      "Featured",
-      "Human Services and Criminal Justice",
-      "Media Arts and Technology",
-      "Office of Student Activities (OSA)",
-      "Psychology",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs",
-      "Theatre"
-    ]
-  },
-  {
-    "title": "BMCC Blood Drive: Make a Difference by Donating Blood",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-blood-drive-make-a-difference-by-donating-blood-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-20",
-    "time": "12:00 PM - 06:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "All About Microgreens (including Free Grow Kits!)",
-    "link": "https://www.bmcc.cuny.edu/event/all-about-microgreens-including-free-grow-kits/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-20",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Featured",
-      "Health Education",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-3/2026-04-20/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-20",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Join us for Weekly Yoga Class",
-    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2/2026-04-21/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-21",
-    "time": "11:00 AM - 11:45 AM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Internship Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/internship-information-session-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-21",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Featured",
-      "Internships & Experiential Learning"
-    ]
-  },
-  {
-    "title": "Women’s Herstory Month: Embodied Grief: Transforming Loss in Times of Climate Change",
-    "link": "https://www.bmcc.cuny.edu/event/womens-herstory-month-embodied-grief-transforming-loss-in-times-of-climate-change/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-21",
-    "time": "12:00 PM - 03:00 PM",
-    "tags": [
-      "Co-Curricular Transcript",
-      "CUNY in The Heights",
-      "Featured",
-      "Student Affairs",
-      "Women's HerStory Month",
-      "Women's Resource Center"
-    ]
-  },
-  {
-    "title": "Asian Heritage Month: Embodied Grief: Transforming Loss in Times of Climate Change",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-embodied-grief-transforming-loss-in-times-of-climate-change/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-21",
-    "time": "12:00 PM - 03:00 PM",
-    "tags": [
-      "Asian and Pacific Islander Bridge Initiaitve",
-      "Asian Heritage Month",
-      "Featured",
-      "Health Education",
-      "Human Services and Criminal Justice",
-      "Psychology",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs",
-      "Theatre"
-    ]
-  },
-  {
-    "title": "Transfer Talk Tuesdays: Explore Your Options After BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/transfer-talk-tuesdays-explore-your-options-after-bmcc-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-21",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer",
-      "Ethnic and Race Studies",
-      "Featured"
+      "Performing Arts & Film",
+      "Special Events",
+      "Student Events"
     ]
   },
   {
@@ -2554,24 +2195,6 @@
     "tags": [
       "Campus Events",
       "LGBTQI+ RESOURCE ROOM"
-    ]
-  },
-  {
-    "title": "ALPFA CSI Tabling: Upcoming Events & Student Involvement",
-    "link": "https://csi.campuslabs.com/engage/event/12425361",
-    "college": "College of Staten Island",
-    "date": "2026-04-15",
-    "time": "04:00 PM - 08:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Leadership",
-      "Learning",
-      "Global Engagement",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion",
-      "Group Business",
-      "Career Development"
     ]
   },
   {
@@ -3618,12 +3241,14 @@
     ]
   },
   {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=672901",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
+    "title": "KYR Workshop: Gender and Sexuality Discrimination Protections in NYC",
+    "link": "https://events.cuny.edu/cec/kyr-workshop-gender-and-sexuality-discrimination-protections-in-nyc/",
+    "college": "The City College of New York",
+    "date": "2026-04-16",
+    "time": "12:00 PM - 2:00 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
   },
   {
     "title": "QSI Senior Seminar",
@@ -4330,30 +3955,6 @@
     "tags": []
   },
   {
-    "title": "The Palestine Exception: Academic Freedom, the New McCarthyism & How We Fight the Destruction of Democracy",
-    "link": "https://www.jjay.cuny.edu/news-events/events/palestine-exception-academic-freedom-new-mccarthyism-how-we-fight-destruction-democracy",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-04-15",
-    "time": "05:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Brian Callaci: Chains of Command",
-    "link": "https://www.jjay.cuny.edu/news-events/events/brian-callaci-chains-command",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-04-15",
-    "time": "05:40 PM",
-    "tags": []
-  },
-  {
-    "title": "Planting the Estuary: Cultivating Bioregional Learning",
-    "link": "https://www.jjay.cuny.edu/news-events/events/planting-estuary-cultivating-bioregional-learning-0",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-04-15",
-    "time": "05:45 PM",
-    "tags": []
-  },
-  {
     "title": "GAYMERS: Title IX/Supporting Sexual Violence Survivors in LGBTQ+ Communities",
     "link": "https://www.jjay.cuny.edu/news-events/events/gaymers-title-ixsupporting-sexual-violence-survivors-lgbtq-communities",
     "college": "John Jay College of Criminal Justice",
@@ -4522,11 +4123,27 @@
     "tags": []
   },
   {
-    "title": "Macaulay Accelerated (4+1) Programs",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-accelerated-41-programs/",
-    "college": "Macaulay Honors College",
-    "date": "2026-04-15",
-    "time": "3:00PM",
+    "title": "Beyond Human Language: The Impact of AI on Linguistics",
+    "link": "https://www.jjay.cuny.edu/news-events/events/beyond-human-language-impact-ai-linguistics-1",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-05-02",
+    "time": "02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Harm Reduction after the War on Drugs",
+    "link": "https://www.jjay.cuny.edu/news-events/events/harm-reduction-after-war-drugs",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-05-04",
+    "time": "01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Graduate Salute",
+    "link": "https://www.jjay.cuny.edu/news-events/events/graduate-salute",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-05-05",
+    "time": "05:00 PM",
     "tags": []
   },
   {
@@ -4602,11 +4219,11 @@
     "tags": []
   },
   {
-    "title": "V-READY Apr 15",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-apr15",
-    "college": "York College",
-    "date": "2026-04-15",
-    "time": "1:30 PM - 8:00 PM",
+    "title": "City Nature Challenge Kickoff",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/city-nature-challenge-launch-event/",
+    "college": "Macaulay Honors College",
+    "date": "2026-04-24",
+    "time": "10:00 AM - 12:00PM",
     "tags": []
   },
   {
@@ -4703,6 +4320,14 @@
     "college": "York College",
     "date": "2026-04-16",
     "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "SouthEast Queens Film Festival",
+    "link": "https://www.york.cuny.edu/events/southeast-queens-film-fest",
+    "college": "York College",
+    "date": "2026-04-16",
+    "time": "9:00 PM - 12:00 AM",
     "tags": []
   },
   {
@@ -4831,14 +4456,6 @@
     ]
   },
   {
-    "title": "Last Minute Lit Review Research",
-    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-24",
-    "time": "10:15 PM - 11:30 PM",
-    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
-  },
-  {
     "title": "Employer Spotlight",
     "link": "https://us02web.zoom.us/meeting/register/8FdrVRCmRU2e_qQdLmiDYg#/registration",
     "college": "CUNY School of Labor and Urban Studies",
@@ -4853,5 +4470,13 @@
     "date": "2026-04-17",
     "time": "10:15 PM - 11:15 PM",
     "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+  },
+  {
+    "title": "Last Minute Lit Review Research",
+    "link": "https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator",
+    "college": "CUNY School of Labor and Urban Studies",
+    "date": "2026-04-24",
+    "time": "10:15 PM - 11:30 PM",
+    "description": "<br><br><p>In this session, you will learn tips and tricks for quickly finding trustworthy and relevant information sources for your literature reviews and final papers, using CUNY academic databases and the library catalog, and collecting correctly formatted citations as you go along. *Registration closes at 4:30pm on 4/24*</p><a href=\"https://www.eventbrite.com/e/last-minute-lit-review-research-tickets-1980189211236?aff=oddtdtcreator\">RSVP HERE</a>"
   }
 ]
