@@ -952,40 +952,6 @@
     "tags": []
   },
   {
-    "title": "Book Author Talk: Ruben Reyes Jr.",
-    "link": "https://www.laguardia.edu/event/book-author-talk-ruben-reyes-jr/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-16",
-    "time": "11:00 AM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "York College Transfer Information Session",
-    "link": "https://www.laguardia.edu/event/york-college-transfer-information-session/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-16",
-    "time": "02:15 PM - 03:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "BMEC Barbershop Series (Spring 2026)",
-    "link": "https://www.laguardia.edu/event/bmec-barbershop-series-spring-2026/2026-04-16/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-16",
-    "time": "02:15 PM - 05:15 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "TEDxCUNY: 2026 PLAYBACK Conference",
     "link": "https://www.laguardia.edu/event/tedxcuny-2026-playback-conference/",
     "college": "LaGuardia Community College",
@@ -1267,6 +1233,41 @@
       "all calendars",
       "Faculty and Staff",
       "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "U.S. Passport Day",
+    "link": "https://www.laguardia.edu/event/us-passport-day/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-23",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-2/2026-04-23/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-23",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Clock & Roll: Time Management Workshop",
+    "link": "https://www.laguardia.edu/event/clock-roll-time-management-workshop/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-23",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "all calendars",
       "student events"
     ]
   },
@@ -1998,87 +1999,6 @@
     ]
   },
   {
-    "title": "Take a Tour of CUNY BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-cuny-bmcc-4-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "10:00 AM - 11:15 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Free HIV/STI Testing for BMCC Students",
-    "link": "https://www.bmcc.cuny.edu/event/free-hiv-sti-testing-for-bmcc-students-11/2026-04-16/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "12:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Middle States Town Hall",
-    "link": "https://www.bmcc.cuny.edu/event/middle-states-town-hall/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "Faculty and Staff",
-      "Featured",
-      "Middle States",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Resume and Cover Letter Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/resume-and-cover-letter-workshop-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Documentary Film Screening of A Chip Odyssey - The Rise of the Semiconductor Industry in Taiwan",
-    "link": "https://www.bmcc.cuny.edu/event/documentary-film-screening-of-a-chip-odyssey-the-rise-of-the-semiconductor-industry-in-taiwan/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "Asian and Pacific Islander Bridge Initiaitve",
-      "Asian Heritage Month",
-      "Center for Ethnic Studies",
-      "Computer Information Systems",
-      "Ethnic and Race Studies",
-      "Featured",
-      "Math",
-      "Science",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Student Affairs",
-      "Urban Studies"
-    ]
-  },
-  {
-    "title": "Healing Through Hip Hop and Creative Expression",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-14/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-16",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "BMCC Tribeca Performing Arts Center: Sweeney Todd",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-tribeca-performing-arts-center-sweeney-todd/2026-04-16/",
     "college": "Borough of Manhattan Community College",
@@ -2123,7 +2043,8 @@
     "time": "01:00 PM - 02:00 PM",
     "tags": [
       "Conexiones",
-      "Featured"
+      "Featured",
+      "Student Affairs"
     ]
   },
   {
@@ -2310,6 +2231,18 @@
     ]
   },
   {
+    "title": "Healing Through Hip Hop and Creative Expression",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-21",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Invest In a Future, Change a Life Gala",
     "link": "https://www.bmcc.cuny.edu/event/invest-in-a-future-change-a-life-gala/",
     "college": "Borough of Manhattan Community College",
@@ -2339,6 +2272,17 @@
     ]
   },
   {
+    "title": "Take a Tour of CUNY BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-cuny-bmcc-4-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-22",
+    "time": "11:00 AM - 12:15 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
     "title": "Stop by our FAFSA (Free Application for Federal Student Aid) On-the-Spot Event",
     "link": "https://www.bmcc.cuny.edu/event/stop-by-our-fafsa-free-application-for-federal-student-aid-on-the-spot-event/2026-04-22/",
     "college": "Borough of Manhattan Community College",
@@ -2350,12 +2294,63 @@
     ]
   },
   {
-    "title": "BCC STEM Day",
-    "link": "https://www.bcc.cuny.edu/event/bcc-stem-day/",
-    "college": "Bronx Community College",
-    "date": "2026-04-16",
-    "time": "09:00 AM - 03:30 PM",
-    "tags": []
+    "title": "Lehman College Pre-transfer Advisement",
+    "link": "https://www.bmcc.cuny.edu/event/lehman-college-pre-transfer-advisement/2026-04-22/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-22",
+    "time": "11:00 AM - 05:00 PM",
+    "tags": [
+      "Academic Advisement & Transfer",
+      "Continuing Education",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-4-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-22",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Sign up for SafeZone 101 Training",
+    "link": "https://www.bmcc.cuny.edu/event/sign-up-for-safezone-101-training-3/2026-04-22/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-22",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "Pride Center",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (in-person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-2/2026-04-22/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-22",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Asian Heritage Month: Mario Kart Tournament",
+    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-mario-kart-tournament/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-22",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "Asian Heritage Month",
+      "Featured",
+      "Student Affairs"
+    ]
   },
   {
     "title": "Assessment Day 2026",
@@ -2499,100 +2494,15 @@
     ]
   },
   {
-    "title": "ASL Club 2026-27 Elections",
-    "link": "https://csi.campuslabs.com/engage/event/12331422",
-    "college": "College of Staten Island",
-    "date": "2026-04-16",
-    "time": "06:30 PM - 07:15 PM",
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2026-05-04/",
+    "college": "Bronx Community College",
+    "date": "2026-05-04",
+    "time": "02:00 PM - 07:00 PM",
     "tags": [
-      "GroupBusiness"
-    ]
-  },
-  {
-    "title": "E&ES Lecture Series: Measuring water circulation in coastal bays of New Jersey (CLUE: 262048-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/12172326",
-    "college": "College of Staten Island",
-    "date": "2026-04-16",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "CC CLUE",
-      "Conference"
-    ]
-  },
-  {
-    "title": "Level Up Your Undergrad Research Poster with Augmented Reality (CLUE: 262061-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/12266829",
-    "college": "College of Staten Island",
-    "date": "2026-04-16",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "CC CLUE",
-      "Technology",
-      "Career Development"
-    ]
-  },
-  {
-    "title": "Model Casting",
-    "link": "https://csi.campuslabs.com/engage/event/12419514",
-    "college": "College of Staten Island",
-    "date": "2026-04-16",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": [
-      "Cultural",
-      "Volunteer",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion",
-      "Social"
-    ]
-  },
-  {
-    "title": "ALPFA Charlotte 2026 Convention Workshop",
-    "link": "https://csi.campuslabs.com/engage/event/12341118",
-    "college": "College of Staten Island",
-    "date": "2026-04-16",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "GroupBusiness",
-      "Leadership",
-      "Learning",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion",
-      "Group Business",
-      "Conference",
-      "Career Development"
-    ]
-  },
-  {
-    "title": "🔩 From Doodle to 3D: ASME's First Print Workshop",
-    "link": "https://csi.campuslabs.com/engage/event/12425373",
-    "college": "College of Staten Island",
-    "date": "2026-04-16",
-    "time": "06:45 PM - 08:45 PM",
-    "tags": [
-      "Social",
-      "Technology",
-      "Arts and Crafts"
-    ]
-  },
-  {
-    "title": "International Coffee Hour Spring 2026 262013-PG",
-    "link": "https://csi.campuslabs.com/engage/event/12110644",
-    "college": "College of Staten Island",
-    "date": "2026-04-16",
-    "time": "08:00 PM - 09:00 PM",
-    "tags": [
-      "Cultural",
-      "Global Engagement",
-      "PG CLUE",
-      "Social",
-      "Entertainment",
-      "Willowbrook Campus"
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
     ]
   },
   {
@@ -3132,6 +3042,23 @@
     ]
   },
   {
+    "title": "The OMNI Ensemble - directed by David Wechsler",
+    "link": "https://csi.campuslabs.com/engage/event/12433009",
+    "college": "College of Staten Island",
+    "date": "2026-04-28",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "Arts",
+      "Learning",
+      "Health and Wellness",
+      "Entertainment",
+      "Willowbrook Campus",
+      "Virtual event (online offering)",
+      "Cultural",
+      "Arts and Crafts"
+    ]
+  },
+  {
     "title": "Craft Day",
     "link": "https://csi.campuslabs.com/engage/event/12181652",
     "college": "College of Staten Island",
@@ -3364,6 +3291,16 @@
     "tags": [
       "Social",
       "Willowbrook Campus"
+    ]
+  },
+  {
+    "title": "Scrapbooking Party!",
+    "link": "https://csi.campuslabs.com/engage/event/12432954",
+    "college": "College of Staten Island",
+    "date": "2026-05-06",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "Social"
     ]
   },
   {
@@ -4261,14 +4198,6 @@
     "tags": []
   },
   {
-    "title": "Book Talk: A Promising Past",
-    "link": "https://www.jjay.cuny.edu/news-events/events/book-talk-promising-past",
-    "college": "John Jay College of Criminal Justice",
-    "date": "2026-04-16",
-    "time": "08:30 PM",
-    "tags": []
-  },
-  {
     "title": "The Queer Big Apple Corps: Set Your Heart Ablaze",
     "link": "https://www.jjay.cuny.edu/news-events/events/queer-big-apple-corps-set-your-heart-ablaze",
     "college": "John Jay College of Criminal Justice",
@@ -4322,6 +4251,14 @@
     "college": "John Jay College of Criminal Justice",
     "date": "2026-04-22",
     "time": "05:40 PM",
+    "tags": []
+  },
+  {
+    "title": "Human Trafficking in the Digital Age",
+    "link": "https://www.jjay.cuny.edu/news-events/events/human-trafficking-digital-age",
+    "college": "John Jay College of Criminal Justice",
+    "date": "2026-04-22",
+    "time": "09:30 PM",
     "tags": []
   },
   {
@@ -4653,119 +4590,58 @@
     "tags": []
   },
   {
-    "title": "SHORT LUNCHTIME EXHIBITION TOURS",
-    "link": "https://www.gc.cuny.edu/events/short-lunchtime-exhibition-tours",
+    "title": "FRANTZ FANON AND THE FUTURE OF CULTURAL POLITICS",
+    "link": "https://www.gc.cuny.edu/events/frantz-fanon-and-future-cultural-politics",
     "college": "CUNY Graduate Center",
-    "date": "2026-04-16",
-    "time": "12:00 pm — 2:00 pm",
-    "location": "1200: James Art Gallery",
+    "date": "2026-09-26",
+    "time": "2:00 pm",
+    "location": "5409: DGSC Meeting Room",
     "tags": [
-      "James Gallery"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "MUSIC IN MIDTOWN: CHAMBER MUSIC ON FIFTH I",
-    "link": "https://www.gc.cuny.edu/events/music-midtown-chamber-music-fifth-i-april-2026",
+    "title": "NATIONALISM, INTERNATIONALISM, COSMOPOLITANISM WITH PARTHA CHATERJEE",
+    "link": "https://www.gc.cuny.edu/events/nationalism-internationalism-cosmopolitanism-partha-chaterjee",
     "college": "CUNY Graduate Center",
-    "date": "2026-04-16",
-    "time": "1:00 pm — 3:00 pm",
-    "location": "Hybrid (see description for details)",
+    "date": "2026-10-02",
+    "time": "4:30 pm",
+    "location": "TBD",
     "tags": [
-      "Music",
-      "Music in Midtown"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "MAKE YOUR TEACHING AND LEARNING MATERIALS (MORE) ACCESSIBLE: COLLABORATIVE WORKING SESSION",
-    "link": "https://www.gc.cuny.edu/events/make-your-teaching-and-learning-materials-more-accessible-collaborative-working-session",
+    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
+    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
     "college": "CUNY Graduate Center",
-    "date": "2026-04-16",
-    "time": "2:00 pm — 4:00 pm",
-    "location": "3317",
+    "date": "2026-10-25",
+    "time": "6:30 pm",
+    "location": "C198",
     "tags": [
-      "Teaching & Learning Center",
-      "Accessibility"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "GEOS COLLOQUIUM, DR. SELEN GULER",
-    "link": "https://www.gc.cuny.edu/events/geos-colloquium-dr-selen-guler",
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
     "college": "CUNY Graduate Center",
-    "date": "2026-04-16",
-    "time": "4:15 pm — 6:15 pm",
-    "location": "Hybrid (see description for details)",
+    "date": "2026-11-20",
+    "time": "",
+    "location": "9100: Skylight Room",
     "tags": [
-      "Earth and Environmental Sciences",
-      "Inequality"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "HOW CAN WE USE THE SLAVERY DATABASE",
-    "link": "https://www.gc.cuny.edu/events/how-can-we-use-slavery-database",
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
     "college": "CUNY Graduate Center",
-    "date": "2026-04-16",
-    "time": "6:00 pm — 9:00 pm",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
     "location": "9205",
     "tags": [
-      "Center for Latin American, Caribbean & Latino Studies",
-      "Humanities and Social Sciences"
-    ]
-  },
-  {
-    "title": "CONCERT: MUSICOLOGISTS IN CONCERT – ELLIOTT DAVIS AND ZACHARY POWELL",
-    "link": "https://www.gc.cuny.edu/events/concert-musicologists-concert-elliott-davis-and-zachary-powell",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-16",
-    "time": "7:30 pm — 9:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Music",
-      "Student Recital"
-    ]
-  },
-  {
-    "title": "RAQUEL QUEIROZ \"QUANTUM GEOMETRY: BOUND ELECTRONS, HIERARCHY OF SCALES AND ENTANGLEMENT\"",
-    "link": "https://www.gc.cuny.edu/events/raquel-queiroz-quantum-geometry-bound-electrons-hierarchy-scales-and-entanglement",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-17",
-    "time": "11:00 am — 1:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Physics",
-      "Initiative for the Theoretical Sciences"
-    ]
-  },
-  {
-    "title": "THE FUTURE OF THINGS. SPECULATIVE ONTOLOGIES IN YURI HERRERA’S \"DIEZ PLANETAS\"",
-    "link": "https://www.gc.cuny.edu/events/future-things-speculative-ontologies-yuri-herreras-diez-planetas",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-17",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "4202: French and Urban Education Lounge",
-    "tags": [
-      "Latin American, Iberian, and Latino Cultures"
-    ]
-  },
-  {
-    "title": "THE LAST HUMAN JOB: THE IMPLICATIONS OF AUTOMATING CONNECTIVE LABOR",
-    "link": "https://www.gc.cuny.edu/events/last-human-job-implications-automating-connective-labor",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-17",
-    "time": "3:00 pm — 5:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Sociology"
-    ]
-  },
-  {
-    "title": "TRANSLATING VOLODYMYR VAKULENKO’S DIARY OF OCCUPATION",
-    "link": "https://www.gc.cuny.edu/events/translating-volodymyr-vakulenkos-diary-occupation",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-17",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "4116: Comparative Literature Student Lounge",
-    "tags": [
-      "Comparative Literature"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
