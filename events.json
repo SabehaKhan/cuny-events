@@ -680,14 +680,6 @@
     "tags": []
   },
   {
-    "title": "Leadership Development Seminar",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/90cfe8c2-2d06-43cd-8525-753f53a1a081",
-    "college": "Kingsborough Community College",
-    "date": "2026-04-17",
-    "time": "10:00 AM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Graduation Ball",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/9c09c9fd-fe34-41c6-961a-c3eb91e0f149",
     "college": "Kingsborough Community College",
@@ -902,19 +894,6 @@
     "date": "2026-05-12",
     "time": "04:00 PM - 06:00 PM",
     "tags": []
-  },
-  {
-    "title": "CUNY Education Conference: Literacy Reimagined",
-    "link": "https://www.laguardia.edu/event/cuny-education-conference-literacy-reimagined/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-17",
-    "time": "02:30 PM - 06:30 PM",
-    "tags": [
-      "all calendars",
-      "Faculty and Staff",
-      "Featured",
-      "student events"
-    ]
   },
   {
     "title": "Mindfulness Meditation Mondays",
@@ -1222,14 +1201,15 @@
     ]
   },
   {
-    "title": "Join CCSD and Get Connected",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377161",
-    "college": "Guttman Community College",
-    "date": "2026-04-17",
-    "time": "05:00 PM - 06:30 PM",
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-04-24/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-24",
+    "time": "10:00 AM - 03:00 PM",
     "tags": [
-      "EMSA",
-      "Educational/Awareness"
+      "admissions",
+      "all calendars",
+      "student events"
     ]
   },
   {
@@ -1618,26 +1598,6 @@
     ]
   },
   {
-    "title": "MFA Thesis Exhibition Opening Reception: Sundarpreis",
-    "link": "https://www.hunter.cuny.edu/event/mfa-thesis-exhibition-opening-reception-sundarpreis/",
-    "college": "Hunter College",
-    "date": "2026-04-17",
-    "time": "06:00 PM - 09:00 PM",
-    "tags": [
-      "Exhibits"
-    ]
-  },
-  {
-    "title": "Master’s Recital - Cello",
-    "link": "https://www.hunter.cuny.edu/event/masters-recital-cello/",
-    "college": "Hunter College",
-    "date": "2026-04-17",
-    "time": "08:00 PM - 10:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
     "title": "New York Gilbert & Sullivan Players: Utopia, Limited",
     "link": "https://www.hunter.cuny.edu/event/new-york-gilbert-sullivan-players-utopia-limited/2026-04-18/1/",
     "college": "Hunter College",
@@ -1908,11 +1868,33 @@
     ]
   },
   {
+    "title": "The Power of Mindfulness – Counseling Workshop",
+    "link": "https://www.hunter.cuny.edu/event/the-power-of-mindfulness-counseling-workshop-3/",
+    "college": "Hunter College",
+    "date": "2026-04-29",
+    "time": "02:30 PM - 04:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "LinkedIn Networking Strategies",
+    "link": "https://www.hunter.cuny.edu/event/linkedin-networking-strategies-2/",
+    "college": "Hunter College",
+    "date": "2026-04-30",
+    "time": "02:15 PM - 03:15 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
     "title": "Transitions and Transactions VIII: Algorithms, Artificial Intelligence, and the Classroom",
-    "link": "https://www.bmcc.cuny.edu/event/transitions-and-transactions-viii-algorithms-artificial-intelligence-and-the-classroom/2026-04-17/",
+    "link": "https://www.bmcc.cuny.edu/event/transitions-and-transactions-viii-algorithms-artificial-intelligence-and-the-classroom/2026-04-18/",
     "college": "Borough of Manhattan Community College",
-    "date": "2026-04-17",
-    "time": "03:00 PM - 08:00 PM",
+    "date": "2026-04-18",
+    "time": "09:00 AM - 05:00 PM",
     "tags": [
       "English",
       "Featured"
@@ -1920,10 +1902,10 @@
   },
   {
     "title": "BMCC Tribeca Performing Arts Center: Sweeney Todd",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-tribeca-performing-arts-center-sweeney-todd/2026-04-17/",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-tribeca-performing-arts-center-sweeney-todd/2026-04-18/1/",
     "college": "Borough of Manhattan Community College",
-    "date": "2026-04-17",
-    "time": "07:30 PM - 09:30 PM",
+    "date": "2026-04-18",
+    "time": "02:00 PM - 04:00 PM",
     "tags": [
       "Featured",
       "Speech",
@@ -2396,17 +2378,6 @@
       "Feature",
       "Office of the Registrar",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "This Murder Was Staged",
-    "link": "https://csi.campuslabs.com/engage/event/12294808",
-    "college": "College of Staten Island",
-    "date": "2026-04-17",
-    "time": "11:00 PM - 01:00 AM",
-    "tags": [
-      "Arts",
-      "Entertainment"
     ]
   },
   {
@@ -3297,136 +3268,52 @@
     ]
   },
   {
-    "title": "Hunter College Alumni Weekend",
-    "link": "https://events.cuny.edu/cec/hunter-college-alumni-weekend/",
-    "college": "Hunter College",
-    "date": "2026-04-17",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Beach Cleanup",
-    "link": "https://events.cuny.edu/cec/beach-cleanup-2/",
+    "title": "Introduction to the New CSI Student Email",
+    "link": "https://events.cuny.edu/cec/introduction-to-the-new-csi-student-email-3/",
     "college": "College of Staten Island",
-    "date": "2026-04-17",
-    "time": "10:00 AM - 12:00 PM",
+    "date": "2026-04-18",
+    "time": "12:00 PM - 1:00 PM",
     "tags": [
-      "Sustainability"
+      "Technology Training"
     ]
   },
   {
-    "title": "CCNY Libraries | Postcards from an Architect",
-    "link": "https://events.cuny.edu/cec/ccny-libraries-postcards-from-an-architect-17/",
-    "college": "The City College of New York",
-    "date": "2026-04-17",
-    "time": "12:00 PM - 4:00 PM",
+    "title": "BMCC Tribeca Performing Arts Center: Sweeney Todd",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007105",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-18",
+    "time": "07:30 PM - 09:30 PM",
     "tags": []
   },
   {
-    "title": "Mathematics Colloquium: Dr. Zhuojun Yu(Carnegie Mellon University)-Mathematical Frameworks for Adaptive Behavior: From Neuromechanical Motor Control to Neurocognitive Control",
-    "link": "https://events.cuny.edu/cec/mathematics-colloquium-dr-zhuojun-yucarnegie-mellon-university-mathematical-frameworks-for-adaptive-behavior-from-neuromechanical-motor-control-to-neurocognitive-control/",
+    "title": "YASS! Mondays",
+    "link": "https://events.cuny.edu/cec/yass-mondays-26/",
     "college": "The City College of New York",
-    "date": "2026-04-17",
-    "time": "12:00 PM - 1:30 PM",
+    "date": "2026-04-20",
+    "time": "12:00 PM - 4:00 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
+  },
+  {
+    "title": "Salzberg Chemistry Seminar: Insights into Preceramic Polymer-Based Additive Manufacturing Inks via Rheological and Scattering Studies of Preceramic Polymer- Grafted Nanoparticles Suspended in Polycarbosilane",
+    "link": "https://events.cuny.edu/cec/salzberg-chemistry-seminar-insights-into-preceramic-polymer-based-additive-manufacturing-inks-via-rheological-and-scattering-studies-of-preceramic-polymer-grafted-nanoparticles-suspended-in-polycarb/",
+    "college": "The City College of New York",
+    "date": "2026-04-20",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": [
+      "Salzberg Chemistry Seminar"
+    ]
+  },
+  {
+    "title": "Mathematics Colloquium: Dr. Grigory Terlov (University of North Carolina) – Probabilistic Limit Theorems in Optimization Problems",
+    "link": "https://events.cuny.edu/cec/mathematics-colloquium-dr-grigory-terlov-university-of-north-carolina-probabilistic-limit-theorems-in-optimization-problems/",
+    "college": "The City College of New York",
+    "date": "2026-04-20",
+    "time": "12:30 PM - 1:30 PM",
     "tags": [
       "Mathematics Colloquium"
     ]
-  },
-  {
-    "title": "The Academic Ecosystem: How Our Roles Intersect to Support Students",
-    "link": "https://events.cuny.edu/cec/the-academic-ecosystem-how-our-roles-intersect-to-support-students/",
-    "college": "College of Staten Island",
-    "date": "2026-04-17",
-    "time": "12:30 PM - 1:30 PM",
-    "tags": [
-      "Center for Teaching and Learning"
-    ]
-  },
-  {
-    "title": "Celebrating Arlene Torres: Honoring a Legacy of Education",
-    "link": "https://events.cuny.edu/cec/celebrating-arlene-torres-honoring-a-legacy-of-education/",
-    "college": "Hunter College",
-    "date": "2026-04-17",
-    "time": "1:00 PM - 4:30 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Education Conference: Literacy Reimagined",
-    "link": "https://events.cuny.edu/cec/cuny-education-conference-literacy-reimagined/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-17",
-    "time": "2:30 PM - 6:30 PM",
-    "tags": [
-      "CUNY Education Conference"
-    ]
-  },
-  {
-    "title": "Master of Science in Accounting Infosession",
-    "link": "https://events.cuny.edu/cec/master-of-science-in-accounting-infosession-2/",
-    "college": "College of Staten Island",
-    "date": "2026-04-17",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": [
-      "Accounting and Finance"
-    ]
-  },
-  {
-    "title": "The Moys of New York and Shanghai: One Family’s Extraordinary Journey Through War and Revolution",
-    "link": "https://events.cuny.edu/cec/the-moys-of-new-york-and-shanghai-one-familys-extraordinary-journey-through-war-and-revolution/",
-    "college": "Asian American / Asian Research Institute",
-    "date": "2026-04-17",
-    "time": "6:00 PM - 7:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Master of Science in Computer Science Infosession",
-    "link": "https://events.cuny.edu/cec/master-of-science-in-computer-science-infosession-2/",
-    "college": "College of Staten Island",
-    "date": "2026-04-17",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": [
-      "Computer Science"
-    ]
-  },
-  {
-    "title": "SAEM: Become a Knight 2026",
-    "link": "https://qc.event.cuny.edu/events/WO1MyIQ4q5vnpjIbpZBh/cERjEcMMKdg8N9E35rnb1",
-    "college": "Queens College",
-    "date": "2026-04-17",
-    "time": "5:00AM",
-    "tags": []
-  },
-  {
-    "title": "CETLL Spring Teaching & Learning Showcase",
-    "link": "https://qc.event.cuny.edu/events/oYaGz8AdDXAYBsM20GM2/JjhlB7YIJyORTPQwjjkb",
-    "college": "Queens College",
-    "date": "2026-04-17",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Become a Knight 2026",
-    "link": "https://qc.event.cuny.edu/events/lsrVEovrveW58wy9jEwI/hdnZj08Q4M1vBVeyRDhu",
-    "college": "Queens College",
-    "date": "2026-04-17",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "UG Admissions Office",
-    "link": "https://qc.event.cuny.edu/events/yy8prCAZ5QN3kav2iFBd/MZljcIfHuulwNZC7SLfA11",
-    "college": "Queens College",
-    "date": "2026-04-17",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers tour",
-    "link": "https://qc.event.cuny.edu/events/qB5ctXQMlupyiqoXtrIi/DoFrBPOHklHM4vp6Z3F6",
-    "college": "Queens College",
-    "date": "2026-04-17",
-    "time": "11:30AM",
-    "tags": []
   },
   {
     "title": "SAEM: Become a Knight 2026",
@@ -3509,11 +3396,51 @@
     "tags": []
   },
   {
-    "title": "New York City Operation Day 2026",
-    "link": "https://baruch.event.cuny.edu/events/eFDDd5V68tghNmkwRsha/RqIQSDaoP2wZy0TWECBD",
-    "college": "Baruch College",
-    "date": "2026-04-17",
-    "time": "8:00AM",
+    "title": "THHS Class",
+    "link": "https://qc.event.cuny.edu/events/rvHgFZTrPNkMlJKAUhHZ/YKLaIo7ETSRgHt0LY5ja123",
+    "college": "Queens College",
+    "date": "2026-04-20",
+    "time": "10:40AM",
+    "tags": []
+  },
+  {
+    "title": "Women in Gender Studies: Lightning Talk w/ E. Weeks",
+    "link": "https://qc.event.cuny.edu/events/Md3EEF5PBitCmjb9kISo/H2BCKq2NVqfmCqnWWN9C",
+    "college": "Queens College",
+    "date": "2026-04-20",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "Free Weekly Yoga",
+    "link": "https://qc.event.cuny.edu/events/BBp2l0EUi5gbAKy7ZIAG/BfaEKO43KTt1xbL4lB99",
+    "college": "Queens College",
+    "date": "2026-04-20",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "QC CRU- CRU Bible Studies-RELOCATED",
+    "link": "https://qc.event.cuny.edu/events/uEcWDkAHtd0hRU64RerA/y3dS9pYVUt2kOjTUnoai16",
+    "college": "Queens College",
+    "date": "2026-04-20",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Workshops",
+    "link": "https://qc.event.cuny.edu/events/MMJxgSGR3tZFImcA0ukL/KaUgq1gNenQTNkY4N5Z225",
+    "college": "Queens College",
+    "date": "2026-04-20",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Rehearsal for Flash Mob (Kessler Freshman)",
+    "link": "https://qc.event.cuny.edu/events/HGKcCmYhWJOe5YKNLniM/M5dzRfrFKLSgynAKs3QK1",
+    "college": "Queens College",
+    "date": "2026-04-20",
+    "time": "12:15PM",
     "tags": []
   },
   {
@@ -3589,22 +3516,6 @@
     "tags": []
   },
   {
-    "title": "AI Symposium",
-    "link": "https://citytech.event.cuny.edu/events/QRvYJ6uso0g2eUDgQm7y/OlYfXyIKe9VXLlEXbl5R",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-17",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Medical Billing & Coding Certification for English Language Learners",
-    "link": "https://citytech.event.cuny.edu/events/k4Wbf1P12jAwpieCTTqL/oZu04oyZEu7cYTHZJDM712",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-17",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
     "title": "AIA Brooklyn Mentoring Architectural Pathways",
     "link": "https://citytech.event.cuny.edu/events/pJ8KUnkOTIhSMX58pqu1/KWGcXcXGDxAnuZUPzooO",
     "college": "New York City College of Technology (City Tech)",
@@ -3642,6 +3553,38 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-04-18",
     "time": "10:30AM",
+    "tags": []
+  },
+  {
+    "title": "COMD AI Hackathon Ceremony",
+    "link": "https://citytech.event.cuny.edu/events/L3cHmZQoFps6OyX4kVVm/EivWED6ZKOWadv6FDyjE",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-18",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Workshop Rooms",
+    "link": "https://citytech.event.cuny.edu/events/ZGoU6Ahx3UBvX3YmI1zb/VzpSW7yLrpQtNph60HA19",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-18",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "AIA Brooklyn Mentoring Architectural Pathways",
+    "link": "https://citytech.event.cuny.edu/events/pJ8KUnkOTIhSMX58pqu1/F93V2v8UAgsT2WjYulGo",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-19",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "ARC Scholars Event",
+    "link": "https://citytech.event.cuny.edu/events/zaIGs78oRL9ZLhWeWiFh/vitUQxFOimR7Je6MeTIP8",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-19",
+    "time": "10:00AM",
     "tags": []
   },
   {
@@ -3690,14 +3633,6 @@
     "college": "Hostos Community College",
     "date": "2026-04-23",
     "time": "5:30PM",
-    "tags": []
-  },
-  {
-    "title": "TEDxCUNY 9th Annual PLAYBACK Conference",
-    "link": "https://sph.cuny.edu/event/tedxcunys-9th-annual-conference-playback/",
-    "college": "CUNY School of Public Health",
-    "date": "2026-04-17",
-    "time": "9:00 AM - 5:00PM",
     "tags": []
   },
   {
@@ -3861,14 +3796,6 @@
     "tags": []
   },
   {
-    "title": "Excellence In Education and Community Conference (EECC’26)",
-    "link": "https://www.lehman.edu/events/2026/Excellence-In-Education-and-Community-Conference-EECC26.php",
-    "college": "Lehman College",
-    "date": "2026-04-17",
-    "time": "",
-    "tags": []
-  },
-  {
     "title": "Disco Fever",
     "link": "https://www.lehman.edu/events/2025/Disco-Fever.php",
     "college": "Lehman College",
@@ -3938,6 +3865,14 @@
     "college": "Lehman College",
     "date": "2026-04-22",
     "time": "4:00 PM- 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Underground: Spring Dance 2026 Afterparty",
+    "link": "https://www.lehman.edu/events/2026/Underground-Spring-Dance-2026-Afterparty---1.php",
+    "college": "Lehman College",
+    "date": "2026-04-22",
+    "time": "5:00 PM- 7:00 PM",
     "tags": []
   },
   {
@@ -4133,14 +4068,6 @@
     "tags": []
   },
   {
-    "title": "Community Service Weekend",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/community-service-weekend/",
-    "college": "Macaulay Honors College",
-    "date": "2026-04-17",
-    "time": "10:00 AM - 3:00PM",
-    "tags": []
-  },
-  {
     "title": "In Community: Building Connections Through the Art of Asking Questions",
     "link": "https://macaulay.cuny.edu/calendar-of-events/in-community-forum/",
     "college": "Macaulay Honors College",
@@ -4213,188 +4140,11 @@
     "tags": []
   },
   {
-    "title": "Softball vs. Yeshiva University",
-    "link": "https://www.york.cuny.edu/events/2026/softball-vs-yeshiva-04172026",
-    "college": "York College",
-    "date": "2026-04-17",
-    "time": "2:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "SouthEast Queens Film Festival",
-    "link": "https://www.york.cuny.edu/events/southeast-queens-film-festival",
-    "college": "York College",
-    "date": "2026-04-17",
-    "time": "3:00 PM - 4:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Navigating Inclusive NYC Careers",
-    "link": "https://www.york.cuny.edu/womens-center/navigating-inclusive-nyc-careers",
-    "college": "York College",
-    "date": "2026-04-17",
-    "time": "4:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "SouthEast Film Festival",
-    "link": "https://www.york.cuny.edu/events/southeast-film-festival-1",
-    "college": "York College",
-    "date": "2026-04-17",
-    "time": "6:45 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Aviation Management Info Session - Apr 20th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy6_of_aviation-management-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-04-20",
-    "time": "2:00 PM - 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Business Administration Info Session - Apr 20th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy14_of_business-administration-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-04-20",
-    "time": "2:00 PM - 4:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HRM Info Session Apr 20th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy6_of_hrm-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-04-20",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Constructing Your Career as a Clinical Lab Science Major (Session C)",
-    "link": "https://www.york.cuny.edu/events/2026/constructing-your-career-as-a-clinical-lab-science-major-session-c",
-    "college": "York College",
-    "date": "2026-04-20",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Business Administration Info Session - Apr 20th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy13_of_business-administration-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-04-20",
-    "time": "6:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Spergel Lecture Series: The Alchemy of Stars",
-    "link": "https://www.york.cuny.edu/ia/spergel-lecture-series",
-    "college": "York College",
-    "date": "2026-04-20",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Yoga with Exhale to Inhale - 4/40/26",
-    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/yoga-with-exhale-to-inhale-1",
-    "college": "York College",
-    "date": "2026-04-20",
-    "time": "8:00 PM - 8:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Classes follow a Thursday schedule",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/classes-follow-a-thursday-schedule",
-    "college": "York College",
-    "date": "2026-04-21",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "2026 Senior Salute - Grad Fair",
-    "link": "https://www.york.cuny.edu/events/2026/2026-senior-salute-grad-fair",
-    "college": "York College",
-    "date": "2026-04-21",
-    "time": "3:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Senior Salute",
-    "link": "https://www.york.cuny.edu/commencement-2026/senior-salute-1",
-    "college": "York College",
-    "date": "2026-04-21",
-    "time": "3:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-04-22",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "RAQUEL QUEIROZ \"QUANTUM GEOMETRY: BOUND ELECTRONS, HIERARCHY OF SCALES AND ENTANGLEMENT\"",
-    "link": "https://www.gc.cuny.edu/events/raquel-queiroz-quantum-geometry-bound-electrons-hierarchy-scales-and-entanglement",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-17",
-    "time": "11:00 am — 1:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Physics",
-      "Initiative for the Theoretical Sciences"
-    ]
-  },
-  {
-    "title": "THE FUTURE OF THINGS. SPECULATIVE ONTOLOGIES IN YURI HERRERA’S \"DIEZ PLANETAS\"",
-    "link": "https://www.gc.cuny.edu/events/future-things-speculative-ontologies-yuri-herreras-diez-planetas",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-17",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "4202: French and Urban Education Lounge",
-    "tags": [
-      "Latin American, Iberian, and Latino Cultures"
-    ]
-  },
-  {
-    "title": "THE LAST HUMAN JOB: THE IMPLICATIONS OF AUTOMATING CONNECTIVE LABOR",
-    "link": "https://www.gc.cuny.edu/events/last-human-job-implications-automating-connective-labor",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-17",
-    "time": "3:00 pm — 5:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Sociology"
-    ]
-  },
-  {
-    "title": "TWO LOVERS, ONE HISTORY: THE GREATEST NOVEL OF THE QUATTROCENTO",
-    "link": "https://www.gc.cuny.edu/events/two-lovers-one-history-greatest-novel-quattrocento",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-17",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "4116: Comparative Literature Student Lounge",
-    "tags": [
-      "Global Early Modern Studies"
-    ]
-  },
-  {
-    "title": "LEITH MULLINGS LECTURE: \"ALUMINUM PANS, FUGITIVE LABOR, AND AFFECTIVE ANTI-BLACKNESS IN ACCRA\" - LAURIAN BOWLES",
-    "link": "https://www.gc.cuny.edu/events/leith-mullings-lecture-aluminum-pans-fugitive-labor-and-affective-anti-blackness-accra-laurian",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-17",
-    "time": "4:15 pm — 6:15 pm",
-    "location": "C415A",
-    "tags": [
-      "Anthropology",
-      "Diversity"
-    ]
-  },
-  {
     "title": "RECOVERING LLM TOKEN SUBSPACES BY SYSTEMATIC PROMPTING",
     "link": "https://www.gc.cuny.edu/events/recovering-llm-token-subspaces-systematic-prompting",
     "college": "CUNY Graduate Center",
     "date": "2026-04-20",
-    "time": "11:45 am — 1:45 pm",
+    "time": "11:45 am — 12:45 pm",
     "location": "Hybrid (see description for details)",
     "tags": [
       "Data Science",
@@ -4452,12 +4202,63 @@
     ]
   },
   {
-    "title": "Data Communication and Reporting Results",
-    "link": "https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator",
-    "college": "CUNY School of Labor and Urban Studies",
-    "date": "2026-04-17",
-    "time": "10:15 PM - 11:15 PM",
-    "description": "<p>Develop skills to present your quantitative findings clearly and effectively. This workshop covers creating tables and graphs to communicate statistical results to both academic and general audiences. *Registration closes at 4:30pm on 4/17*</p><a href=\"https://www.eventbrite.com/e/quantitative-reasoning-workshop-series-tickets-1979791589940?aff=oddtdtcreator\">RSVP HERE</a><a href=\"/\"></a>"
+    "title": "DIGITAL COLONIALISM",
+    "link": "https://www.gc.cuny.edu/events/digital-colonialism",
+    "college": "CUNY Graduate Center",
+    "date": "2026-04-21",
+    "time": "6:00 pm — 8:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Digital Humanities",
+      "Center for the Humanities",
+      "Center for Place, Culture and Politics",
+      "Artificial Intelligence",
+      "Democracy"
+    ]
+  },
+  {
+    "title": "COPLAND HOUSE ENSEMBLE: WATERS... FRACTURED",
+    "link": "https://www.gc.cuny.edu/events/copland-house-ensemble-waters-fractured",
+    "college": "CUNY Graduate Center",
+    "date": "2026-04-21",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "DRUPAL ACCESSIBILITY TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-april-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-04-22",
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "MANIFOLD COMMUNITY EVENT: PRESERVING OUR STORIES: COUNTER-ARCHIVING IN THE DIGITAL SPACE",
+    "link": "https://www.gc.cuny.edu/events/manifold-community-event-preserving-our-stories-counter-archiving-digital-space",
+    "college": "CUNY Graduate Center",
+    "date": "2026-04-22",
+    "time": "2:00 pm — 3:00 pm",
+    "location": "5307: Digital Humanities Student Lounge",
+    "tags": [
+      "Graduate Center Digital Initiatives"
+    ]
+  },
+  {
+    "title": "MANIFOLD COMMUNITY EVENT: PRESERVING OUR STORIES: COUNTERARCHIVING IN THE DIGITAL SPACE",
+    "link": "https://www.gc.cuny.edu/events/manifold-community-event-preserving-our-stories-counterarchiving-digital-space",
+    "college": "CUNY Graduate Center",
+    "date": "2026-04-22",
+    "time": "2:00 pm — 3:00 pm",
+    "location": "5307: Digital Humanities Student Lounge",
+    "tags": [
+      "Graduate Center Digital Initiatives"
+    ]
   },
   {
     "title": "Last Minute Lit Review Research",
