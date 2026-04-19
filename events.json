@@ -3953,7 +3953,7 @@
   },
   {
     "title": "Beyond - Film Screening",
-    "link": "https://www.lehman.edu/events/2026/Beyond---Film-Screening.php",
+    "link": "https://www.lehman.edu/events/2026/Beyond---Film-Screening-1.php",
     "college": "Lehman College",
     "date": "2026-04-22",
     "time": "5:30 PM- 8:30 PM",
@@ -4029,6 +4029,14 @@
     "college": "Macaulay Honors College",
     "date": "2026-05-07",
     "time": "10:00 AM - 8:00PM",
+    "tags": []
+  },
+  {
+    "title": "Alumni Mentoring Program – Awards and End-of-Year Celebration!",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/alumni-mentoring-program-award-and-end-of-year-celebration/",
+    "college": "Macaulay Honors College",
+    "date": "2026-05-07",
+    "time": "6:00PM",
     "tags": []
   },
   {
@@ -4158,127 +4166,6 @@
     "date": "2026-04-22",
     "time": "5:00 PM - 7:00 PM",
     "tags": []
-  },
-  {
-    "title": "RECOVERING LLM TOKEN SUBSPACES BY SYSTEMATIC PROMPTING",
-    "link": "https://www.gc.cuny.edu/events/recovering-llm-token-subspaces-systematic-prompting",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-20",
-    "time": "11:45 am — 12:45 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Data Science",
-      "Computer Science",
-      "Data Science Seminar",
-      "Computer Science Seminar"
-    ]
-  },
-  {
-    "title": "THE ORIGINS AND FUTURE OF THE UNITED NATIONS",
-    "link": "https://www.gc.cuny.edu/events/origins-and-future-united-nations",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-20",
-    "time": "5:00 pm — 6:30 pm",
-    "location": "5203: Ralph Bunche Institute for International Studies",
-    "tags": [
-      "Ralph Bunche Institute for International Studies",
-      "Humanities and Social Sciences",
-      "Democracy"
-    ]
-  },
-  {
-    "title": "RECITAL: JASMINE PAI, CELLO",
-    "link": "https://www.gc.cuny.edu/events/recital-jasmine-pai-cello-april-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-20",
-    "time": "6:00 pm — 8:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Music",
-      "Student Recital"
-    ]
-  },
-  {
-    "title": "ABOLITION ARCHIVES, FEMINIST FUTURES",
-    "link": "https://www.gc.cuny.edu/events/abolition-archives-feminist-futures",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-20",
-    "time": "6:30 pm — 8:00 pm",
-    "location": "Online",
-    "tags": [
-      "Intellectual Publics",
-      "Gender Studies"
-    ]
-  },
-  {
-    "title": "BUENOS AIRES IN NEW YORK, WITH ROMINA PAULA'S SOMBRAS",
-    "link": "https://www.gc.cuny.edu/events/buenos-aires-new-york-romina-paulas-sombras",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-20",
-    "time": "6:30 pm — 8:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Martin E. Segal Theatre Center"
-    ]
-  },
-  {
-    "title": "DIGITAL COLONIALISM",
-    "link": "https://www.gc.cuny.edu/events/digital-colonialism",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-21",
-    "time": "6:00 pm — 8:00 pm",
-    "location": "9100: Skylight Room",
-    "tags": [
-      "Digital Humanities",
-      "Center for the Humanities",
-      "Center for Place, Culture and Politics",
-      "Artificial Intelligence",
-      "Democracy"
-    ]
-  },
-  {
-    "title": "COPLAND HOUSE ENSEMBLE: WATERS... FRACTURED",
-    "link": "https://www.gc.cuny.edu/events/copland-house-ensemble-waters-fractured",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-21",
-    "time": "6:30 pm — 8:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "DRUPAL ACCESSIBILITY TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-april-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-22",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "MANIFOLD COMMUNITY EVENT: PRESERVING OUR STORIES: COUNTER-ARCHIVING IN THE DIGITAL SPACE",
-    "link": "https://www.gc.cuny.edu/events/manifold-community-event-preserving-our-stories-counter-archiving-digital-space",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-22",
-    "time": "2:00 pm — 3:00 pm",
-    "location": "5307: Digital Humanities Student Lounge",
-    "tags": [
-      "Graduate Center Digital Initiatives"
-    ]
-  },
-  {
-    "title": "MANIFOLD COMMUNITY EVENT: PRESERVING OUR STORIES: COUNTERARCHIVING IN THE DIGITAL SPACE",
-    "link": "https://www.gc.cuny.edu/events/manifold-community-event-preserving-our-stories-counterarchiving-digital-space",
-    "college": "CUNY Graduate Center",
-    "date": "2026-04-22",
-    "time": "2:00 pm — 3:00 pm",
-    "location": "5307: Digital Humanities Student Lounge",
-    "tags": [
-      "Graduate Center Digital Initiatives"
-    ]
   },
   {
     "title": "Last Minute Lit Review Research",
