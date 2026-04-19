@@ -1599,16 +1599,6 @@
   },
   {
     "title": "New York Gilbert & Sullivan Players: Utopia, Limited",
-    "link": "https://www.hunter.cuny.edu/event/new-york-gilbert-sullivan-players-utopia-limited/2026-04-18/2/",
-    "college": "Hunter College",
-    "date": "2026-04-18",
-    "time": "07:30 PM - 10:30 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "New York Gilbert & Sullivan Players: Utopia, Limited",
     "link": "https://www.hunter.cuny.edu/event/new-york-gilbert-sullivan-players-utopia-limited/2026-04-19/",
     "college": "Hunter College",
     "date": "2026-04-19",
@@ -1888,16 +1878,21 @@
     ]
   },
   {
-    "title": "BMCC Tribeca Performing Arts Center: Sweeney Todd",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-tribeca-performing-arts-center-sweeney-todd/2026-04-18/2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-18",
-    "time": "07:30 PM - 09:30 PM",
+    "title": "Networking Event",
+    "link": "https://www.hunter.cuny.edu/event/networking-event/",
+    "college": "Hunter College",
+    "date": "2026-05-01",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Seminar: Sangeeta Pratap (Hunter College)",
+    "link": "https://www.hunter.cuny.edu/event/seminar-sangeeta-pratap-hunter-college/",
+    "college": "Hunter College",
+    "date": "2026-05-01",
+    "time": "01:30 PM - 03:00 PM",
     "tags": [
-      "Featured",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Tribeca Performing Arts Center"
+      "Lectures"
     ]
   },
   {
@@ -2223,19 +2218,6 @@
     ]
   },
   {
-    "title": "Asian Heritage Month: AHM Sports Presents: Stay Out of the Kitchen Pickleball Tournament",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-ahm-sports-presents-stay-out-of-the-kitchen-pickleball-tournament/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-23",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Asian and Pacific Islander Bridge Initiaitve",
-      "Asian Heritage Month",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2026-04-20/",
     "college": "Bronx Community College",
@@ -2378,17 +2360,6 @@
       "Feature",
       "Office of the Registrar",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "This Murder Was Staged",
-    "link": "https://csi.campuslabs.com/engage/event/12294809",
-    "college": "College of Staten Island",
-    "date": "2026-04-18",
-    "time": "11:00 PM - 01:00 AM",
-    "tags": [
-      "Arts",
-      "Film and Television"
     ]
   },
   {
@@ -3268,24 +3239,6 @@
     ]
   },
   {
-    "title": "Introduction to the New CSI Student Email",
-    "link": "https://events.cuny.edu/cec/introduction-to-the-new-csi-student-email-3/",
-    "college": "College of Staten Island",
-    "date": "2026-04-18",
-    "time": "12:00 PM - 1:00 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "BMCC Tribeca Performing Arts Center: Sweeney Todd",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007104",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-18",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://events.cuny.edu/cec/yass-mondays-26/",
     "college": "The City College of New York",
@@ -3316,28 +3269,37 @@
     ]
   },
   {
-    "title": "SAEM: Become a Knight 2026",
-    "link": "https://qc.event.cuny.edu/events/WO1MyIQ4q5vnpjIbpZBh/k8mZYAeNNjo9T5aOm0aN2",
-    "college": "Queens College",
-    "date": "2026-04-18",
-    "time": "8:00AM",
-    "tags": []
+    "title": "(Rescheduled) Alas Migrantes: Bilingual Vogue Femme Dance Workshop",
+    "link": "https://events.cuny.edu/cec/rescheduled-alas-migrantes-bilingual-vogue-femme-dance-workshop/",
+    "college": "The City College of New York",
+    "date": "2026-04-21",
+    "time": "12:00 PM - 2:00 PM",
+    "tags": [
+      "LGBTQI+",
+      "Alas Migrantes"
+    ]
   },
   {
-    "title": "College Now Program - Pre-College Offering",
-    "link": "https://qc.event.cuny.edu/events/zTR16RJNoCLYr66ZRnBm/oQa8THcbhIlTc9CgBMQm",
-    "college": "Queens College",
-    "date": "2026-04-18",
-    "time": "9:00AM",
-    "tags": []
+    "title": "Navigate Training (All Users) – Using Advanced Search and Reports",
+    "link": "https://events.cuny.edu/cec/navigate-training-all-users-using-advanced-search-and-reports/",
+    "college": "College of Staten Island",
+    "date": "2026-04-21",
+    "time": "2:30 PM - 3:30 PM",
+    "tags": [
+      "Center for Teaching and Learning"
+    ]
   },
   {
-    "title": "KSEA",
-    "link": "https://qc.event.cuny.edu/events/y4ldga0eDC4tFEsH1WYO/TbfruBTpEtwMp7b6mzJg",
-    "college": "Queens College",
-    "date": "2026-04-18",
-    "time": "12:00PM",
-    "tags": []
+    "title": "This Murder Was Staged",
+    "link": "https://events.cuny.edu/cec/this-murder-was-staged-3/",
+    "college": "College of Staten Island",
+    "date": "2026-04-21",
+    "time": "2:30 PM - 4:30 PM",
+    "tags": [
+      "Division of Humanities and Social Sciences",
+      "Drama",
+      "Performing and Creative Arts"
+    ]
   },
   {
     "title": "Become a Knight Day (Undecided Major Workshop)",
@@ -3444,6 +3406,22 @@
     "tags": []
   },
   {
+    "title": "ACE Programming",
+    "link": "https://qc.event.cuny.edu/events/lqvaYe600PjkqduvCIa6/OsqMJRgEr2O7kjWGsjWE",
+    "college": "Queens College",
+    "date": "2026-04-20",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Career Readiness Training Program",
+    "link": "https://qc.event.cuny.edu/events/kO94FAdQSeUigwkyzmuN/bBcsxB8Zr7QVgmgsbAq6",
+    "college": "Queens College",
+    "date": "2026-04-20",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
     "title": "Cover Letters",
     "link": "https://baruch.event.cuny.edu/events/IFSf0lM6fmyGN8JveSUx/e7ZcnM5V8sw3HmmyUxvt",
     "college": "Baruch College",
@@ -3517,62 +3495,6 @@
   },
   {
     "title": "AIA Brooklyn Mentoring Architectural Pathways",
-    "link": "https://citytech.event.cuny.edu/events/pJ8KUnkOTIhSMX58pqu1/KWGcXcXGDxAnuZUPzooO",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-18",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center ESOL Classes",
-    "link": "https://citytech.event.cuny.edu/events/WayqEPNc1l13EK7LPIRF/ShMG76zRZ0GMzy7AGXKm1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-18",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "ENG1101 Class",
-    "link": "https://citytech.event.cuny.edu/events/KesCtd901618z7sYfjGL/BVvcwksng7mhqNZzfIyi",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-18",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "STEP Program Spring 2026 Semester",
-    "link": "https://citytech.event.cuny.edu/events/MNrqM4jVc9FPh3LsKA8J/EW4LmYnBoVb4luhmYRKT7",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-18",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "SEEK info Session",
-    "link": "https://citytech.event.cuny.edu/events/lE5Jox3yV8wa6Q0S9Cxv/ZnvFW6f68u2Iz32ogUK9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-18",
-    "time": "10:30AM",
-    "tags": []
-  },
-  {
-    "title": "COMD AI Hackathon Ceremony",
-    "link": "https://citytech.event.cuny.edu/events/L3cHmZQoFps6OyX4kVVm/EivWED6ZKOWadv6FDyjE",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-18",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Workshop Rooms",
-    "link": "https://citytech.event.cuny.edu/events/ZGoU6Ahx3UBvX3YmI1zb/VzpSW7yLrpQtNph60HA19",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-18",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "AIA Brooklyn Mentoring Architectural Pathways",
     "link": "https://citytech.event.cuny.edu/events/pJ8KUnkOTIhSMX58pqu1/F93V2v8UAgsT2WjYulGo",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-04-19",
@@ -3585,6 +3507,142 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-04-19",
     "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Revisiting Expertise in Teaching in the AI Era",
+    "link": "https://citytech.event.cuny.edu/events/kZ5r6seuLQIo9JYxx7qX/d9olGFRlkk29wBKDjOiD",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-20",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Medical Billing & Coding Certification for English Language Learners",
+    "link": "https://citytech.event.cuny.edu/events/k4Wbf1P12jAwpieCTTqL/oZu04oyZEu7cYTHZJDM713",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-20",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "Continuing Education: COMPTIA A+ Prep Course",
+    "link": "https://citytech.event.cuny.edu/events/gztn6bjJLaZGa3De62wm/PSvsCDuSZfVpcXBCVK6H19",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-20",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYCCT Public Safety Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/oZrlbRHkgKoO9x5LAiJo/exFZENoLfxV0DYX5ANQS22",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-20",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Rehearsal for Fashion Show",
+    "link": "https://citytech.event.cuny.edu/events/GNbcYrpzobYDqwAHwo1Y/CO3wthile7Nn1EIeis7u",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-20",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Tabling",
+    "link": "https://citytech.event.cuny.edu/events/PNWLlpcKB8NNF2mUBW9n/x3oYaCaKGhVlTCTcgtAI2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-20",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Department: SLD Ambassador Lounge Hours",
+    "link": "https://citytech.event.cuny.edu/events/GjOjJfMkz9v3fKEhCCbc/ARnH2X2cyh9CwPq83617",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-20",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "SUPT 406 : 1.2 Building Systems and Equipment",
+    "link": "https://citytech.event.cuny.edu/events/NDlZNpefOnEotVDbw2Cb/Pjc03vHe17dI6XAuYC3v25",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-20",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Classes follow a Thursday schedule",
+    "link": "https://citytech.event.cuny.edu/events/JlzElhkPhFge4CPFom9N/VMDhP0WSGRX3yxkNy8ZE",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-21",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Conversion Day -Classes follow a Thursday schedule",
+    "link": "https://citytech.event.cuny.edu/events/SbuSdpjlyERuNXFjnTfQ/y1NijQrtKGRGVVWwJEBu",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-21",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Continuing Education: COMPTIA A+ Prep Course",
+    "link": "https://citytech.event.cuny.edu/events/gztn6bjJLaZGa3De62wm/DFNxUazG7P7ROnYcIor819",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-21",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "US Marines Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/T2IBrYpMVYAz7O5iwfFX/NcNWswHIu1KCkbZn7M3B15",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-21",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "JFEW Scholarship Program Networking and Discussion (DH)",
+    "link": "https://citytech.event.cuny.edu/events/N35OXEZmWGZ986QXlTGx/PCvtXBr9zzh29MJGkBQ9",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-21",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Brewed by the Board",
+    "link": "https://citytech.event.cuny.edu/events/LuXPCokFdfINMVrLZNgx/m53vjAZAwhulsAz78Ic410",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-21",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "SLD: PlantJoy Nutrition Education Workshops",
+    "link": "https://citytech.event.cuny.edu/events/xFbqyI2lamgW54OM9CiD/ymmhGKyU5w8BjayDaDEN",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-21",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Tabling",
+    "link": "https://citytech.event.cuny.edu/events/cviF5RRw9KaOU8vIMoTk/zSigj8xLu2ypiohNCOmR11",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-21",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Navigating College Dismissal: A Workshop For Dismissed Students",
+    "link": "https://citytech.event.cuny.edu/events/awG9W1FCfTzxVYuvrdWw/AFUPY9fxqeA7m2k0VD1K",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-21",
+    "time": "1:00PM",
     "tags": []
   },
   {
@@ -3796,14 +3854,6 @@
     "tags": []
   },
   {
-    "title": "Disco Fever",
-    "link": "https://www.lehman.edu/events/2025/Disco-Fever.php",
-    "college": "Lehman College",
-    "date": "2026-04-18",
-    "time": "8:00 PM- 11:00 PM",
-    "tags": []
-  },
-  {
     "title": "Lehman College presents CPR/ First Aid Training!",
     "link": "https://www.lehman.edu/events/2026/Lehman-College-presents-CPR-First-Aid-Training-1.php",
     "college": "Lehman College",
@@ -3876,6 +3926,14 @@
     "tags": []
   },
   {
+    "title": "Beyond - Film Screening",
+    "link": "https://www.lehman.edu/events/2026/Beyond---Film-Screening.php",
+    "college": "Lehman College",
+    "date": "2026-04-22",
+    "time": "5:30 PM- 8:30 PM",
+    "tags": []
+  },
+  {
     "title": "Macaulay Honors College 25th Anniversary Gala",
     "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-opportunities-gala/",
     "college": "Macaulay Honors College",
@@ -3945,6 +4003,134 @@
     "college": "Macaulay Honors College",
     "date": "2026-05-07",
     "time": "10:00 AM - 8:00PM",
+    "tags": []
+  },
+  {
+    "title": "Aviation Management Info Session - Apr 20th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy6_of_aviation-management-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-20",
+    "time": "2:00 PM - 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Business Administration Info Session - Apr 20th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy14_of_business-administration-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-20",
+    "time": "2:00 PM - 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "HRM Info Session Apr 20th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy6_of_hrm-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-20",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Constructing Your Career as a Clinical Lab Science Major (Session C)",
+    "link": "https://www.york.cuny.edu/events/2026/constructing-your-career-as-a-clinical-lab-science-major-session-c",
+    "college": "York College",
+    "date": "2026-04-20",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Business Administration Info Session - Apr 20th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy13_of_business-administration-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-20",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Spergel Lecture Series: The Alchemy of Stars",
+    "link": "https://www.york.cuny.edu/ia/spergel-lecture-series",
+    "college": "York College",
+    "date": "2026-04-20",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Yoga with Exhale to Inhale - 4/40/26",
+    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/yoga-with-exhale-to-inhale-1",
+    "college": "York College",
+    "date": "2026-04-20",
+    "time": "8:00 PM - 8:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Classes follow a Thursday schedule",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/classes-follow-a-thursday-schedule",
+    "college": "York College",
+    "date": "2026-04-21",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "2026 Senior Salute - Grad Fair",
+    "link": "https://www.york.cuny.edu/events/2026/2026-senior-salute-grad-fair",
+    "college": "York College",
+    "date": "2026-04-21",
+    "time": "3:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Senior Salute",
+    "link": "https://www.york.cuny.edu/commencement-2026/senior-salute-1",
+    "college": "York College",
+    "date": "2026-04-21",
+    "time": "3:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Aviation Day - Connect, Learn, and Elevate",
+    "link": "https://www.york.cuny.edu/admissions/new/aviation-day",
+    "college": "York College",
+    "date": "2026-04-21",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Spring Symposium",
+    "link": "https://www.york.cuny.edu/events/2026/spring-symposium",
+    "college": "York College",
+    "date": "2026-04-21",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "The Nursing Program Experience Part 2",
+    "link": "https://www.york.cuny.edu/events/2026/the-nursing-program-experience-part-2",
+    "college": "York College",
+    "date": "2026-04-21",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Student Town Hall With The President",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/student-town-hall-with-the-president-4-21",
+    "college": "York College",
+    "date": "2026-04-21",
+    "time": "7:00 PM - 7:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Ceremony: Accounting and Finance",
+    "link": "https://www.york.cuny.edu/events/honors-ceremony-accounting-and-finance",
+    "college": "York College",
+    "date": "2026-04-21",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-04-22",
+    "time": "5:00 PM - 7:00 PM",
     "tags": []
   },
   {
