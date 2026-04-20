@@ -896,40 +896,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-04-20/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-20",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Global Support Group",
-    "link": "https://www.laguardia.edu/event/global-support-group/2026-04-20/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-20",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "LHI Action Workshop: Educating Others",
-    "link": "https://www.laguardia.edu/event/lhi-action-workshop-educating-others-2/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-20",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "First–Gen Support Circles:   Belonging & Being",
     "link": "https://www.laguardia.edu/event/first-gen-support-circles-belonging-being/",
     "college": "LaGuardia Community College",
@@ -1208,6 +1174,39 @@
     "time": "10:00 AM - 03:00 PM",
     "tags": [
       "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Fall 2026 Admissions Event",
+    "link": "https://www.laguardia.edu/event/fall-2026-admissions-event/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-25",
+    "time": "10:00 AM - 12:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Fall 2026 Admissions Event",
+    "link": "https://www.laguardia.edu/event/fall-2026-admissions-event-2/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-25",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Exploring My Path: Career Opportunities in Engineering, Science and Technology",
+    "link": "https://www.laguardia.edu/event/exploring-my-path-career-opportunities-in-engineering-science-and-technology/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-27",
+    "time": "11:45 AM - 12:15 PM",
+    "tags": [
       "all calendars",
       "student events"
     ]
@@ -1598,14 +1597,6 @@
     ]
   },
   {
-    "title": "Inga Richter Seminar Series: Dr. Shino Murakami",
-    "link": "https://www.hunter.cuny.edu/event/inga-richter-seminar-series-dr-shino-murakami/",
-    "college": "Hunter College",
-    "date": "2026-04-20",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": []
-  },
-  {
     "title": "Redrawing Power: The Supreme Court and the Future of Executive Authority",
     "link": "https://www.hunter.cuny.edu/event/redrawing-power-the-supreme-court-and-the-future-of-executive-authority/",
     "college": "Hunter College",
@@ -1893,6 +1884,16 @@
     "time": "01:30 PM - 03:00 PM",
     "tags": [
       "Lectures"
+    ]
+  },
+  {
+    "title": "Undergraduate Spring 26 Concert at The Kaye Playhouse",
+    "link": "https://www.hunter.cuny.edu/event/undergraduate-spring-26-concert-program-at-the-kaye-playhouse/2026-05-01/1/",
+    "college": "Hunter College",
+    "date": "2026-05-01",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Performing Arts & Film"
     ]
   },
   {
@@ -2377,19 +2378,6 @@
       "Feature",
       "Office of the Registrar",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "Elections and Advocacy Commission (Student Government)",
-    "link": "https://csi.campuslabs.com/engage/event/12031532",
-    "college": "College of Staten Island",
-    "date": "2026-04-20",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "GroupBusiness",
-      "Leadership",
-      "Learning",
-      "Group Business"
     ]
   },
   {
@@ -3197,6 +3185,18 @@
     ]
   },
   {
+    "title": "PAS 2025-2026 Farewell Event",
+    "link": "https://csi.campuslabs.com/engage/event/12438223",
+    "college": "College of Staten Island",
+    "date": "2026-05-14",
+    "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Cultural",
+      "Social",
+      "Arts and Crafts"
+    ]
+  },
+  {
     "title": "International Coffee Hour Spring 2026",
     "link": "https://csi.campuslabs.com/engage/event/12110664",
     "college": "College of Staten Island",
@@ -3400,14 +3400,6 @@
     "tags": []
   },
   {
-    "title": "Speakers/Orientations/Workshops",
-    "link": "https://qc.event.cuny.edu/events/HPyPfFEYPg7VQMrizRPS/bFETQhW9OiiKy5fe06ut",
-    "college": "Queens College",
-    "date": "2026-04-20",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
     "title": "Math Review Sessions",
     "link": "https://qc.event.cuny.edu/events/FwEAlnnQKApRxBGoX4i0/mBfeDBu8F3DyKhFDOESH25",
     "college": "Queens College",
@@ -3432,8 +3424,16 @@
     "tags": []
   },
   {
-    "title": "QC Hillel Spring 2026 Space Reservations",
-    "link": "https://qc.event.cuny.edu/events/a4FLKzGnW9iVtO8PldY0/qKadVZKw3VdGo8WKZBVv",
+    "title": "QC Speech & Debate Team Mtg",
+    "link": "https://qc.event.cuny.edu/events/d3ofRnQbCJ1BeXCgLdKX/u4axg7n9X4vvus9Qbj0J",
+    "college": "Queens College",
+    "date": "2026-04-20",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Learning Commons Workshops",
+    "link": "https://qc.event.cuny.edu/events/BSJxlreIROwZeHXDeIyU/u9nAwX4hKvHwOOfSBjos25",
     "college": "Queens College",
     "date": "2026-04-20",
     "time": "12:15PM",
