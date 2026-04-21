@@ -888,52 +888,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-104/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-21",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Paint & Sip",
-    "link": "https://www.laguardia.edu/event/paint-sip-10/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-21",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Documentary Screening & Panel Discussion – Un Pueblo de Coral",
-    "link": "https://www.laguardia.edu/event/documentary-screening-panel-discussion-un-pueblo-de-coral/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-21",
-    "time": "02:30 PM - 04:30 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Healthy Relationships Group",
-    "link": "https://www.laguardia.edu/event/healthy-relationships-group/2026-04-21/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-21",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Spring 2026 Job & Internship Fair",
     "link": "https://www.laguardia.edu/event/spring-2026-job-internship-fair/",
     "college": "LaGuardia Community College",
@@ -1207,6 +1161,51 @@
     ]
   },
   {
+    "title": "Admissions Adult Learner One-on-One Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-adult-learner-one-on-one-information-session-8/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-27",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "The Social Circle Group",
+    "link": "https://www.laguardia.edu/event/the-social-circle-group/2026-04-27/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-27",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Admissions Adult Learner One-on-One Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-adult-learner-one-on-one-information-session-9/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-27",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Spa Day",
+    "link": "https://www.laguardia.edu/event/spa-day-2/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-28",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "The Writing Process Workshop Series (Session 5: APA and MLA Citation)",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377049",
     "college": "Guttman Community College",
@@ -1256,7 +1255,7 @@
     ]
   },
   {
-    "title": "Financial Literacy Workshop Series",
+    "title": "Fin Lit Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377197",
     "college": "Guttman Community College",
     "date": "2026-04-22",
@@ -1359,7 +1358,7 @@
     ]
   },
   {
-    "title": "Financial Literacy Workshop Series",
+    "title": "Fin Lit Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377198",
     "college": "Guttman Community College",
     "date": "2026-04-29",
@@ -1404,18 +1403,6 @@
     ]
   },
   {
-    "title": "Sexual Assault Awareness Month Movie Marathon",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377204",
-    "college": "Guttman Community College",
-    "date": "2026-04-30",
-    "time": "05:00 PM - 10:00 PM",
-    "tags": [
-      "PLP",
-      "Educational/Awareness",
-      "Sexual Assault Awareness"
-    ]
-  },
-  {
     "title": "Guttman Big Read",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377038",
     "college": "Guttman Community College",
@@ -1429,7 +1416,7 @@
     ]
   },
   {
-    "title": "Movie Day: My Name is Khan",
+    "title": "Movie Day",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377140",
     "college": "Guttman Community College",
     "date": "2026-05-05",
@@ -1469,7 +1456,7 @@
     ]
   },
   {
-    "title": "Financial Literacy Workshop Series",
+    "title": "Fin Lit Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377199",
     "college": "Guttman Community College",
     "date": "2026-05-06",
@@ -1519,7 +1506,7 @@
     ]
   },
   {
-    "title": "Financial Literacy Workshop Series",
+    "title": "Fin Lit Series",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377200",
     "college": "Guttman Community College",
     "date": "2026-05-13",
@@ -1904,77 +1891,6 @@
     ]
   },
   {
-    "title": "Women’s Herstory Month: Embodied Grief: Transforming Loss in Times of Climate Change",
-    "link": "https://www.bmcc.cuny.edu/event/womens-herstory-month-embodied-grief-transforming-loss-in-times-of-climate-change/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-21",
-    "time": "12:00 PM - 03:00 PM",
-    "tags": [
-      "Co-Curricular Transcript",
-      "CUNY in The Heights",
-      "Student Affairs",
-      "Women's HerStory Month",
-      "Women's Resource Center"
-    ]
-  },
-  {
-    "title": "Asian Heritage Month: Embodied Grief: Transforming Loss in Times of Climate Change",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-embodied-grief-transforming-loss-in-times-of-climate-change/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-21",
-    "time": "12:00 PM - 03:00 PM",
-    "tags": [
-      "Asian and Pacific Islander Bridge Initiaitve",
-      "Asian Heritage Month",
-      "Featured",
-      "Health Education",
-      "Human Services and Criminal Justice",
-      "Psychology",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs",
-      "Theatre"
-    ]
-  },
-  {
-    "title": "Blackout Poetry Snack Break",
-    "link": "https://www.bmcc.cuny.edu/event/blackout-poetry-snack-break/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-21",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "English",
-      "Featured",
-      "Library"
-    ]
-  },
-  {
-    "title": "Let's Clean-Up at Washington Market Park",
-    "link": "https://www.bmcc.cuny.edu/event/lets-clean-up-at-washington-market-park/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-21",
-    "time": "01:30 PM - 03:30 PM",
-    "tags": [
-      "Conexiones",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Healing Through Hip Hop and Creative Expression",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-15/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-21",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Invest In a Future, Change a Life Gala",
     "link": "https://www.bmcc.cuny.edu/event/invest-in-a-future-change-a-life-gala/",
     "college": "Borough of Manhattan Community College",
@@ -2129,6 +2045,21 @@
     ]
   },
   {
+    "title": "Shirley Fiterman Art Center Opening: BMCC Student Exhibition",
+    "link": "https://www.bmcc.cuny.edu/event/shirley-fiterman-art-center-opening-bmcc-student-exhibition/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-22",
+    "time": "04:00 PM - 06:00 PM",
+    "tags": [
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured",
+      "Music & Art",
+      "Shirley Fiterman Art Center",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Asian Heritage Month: AHM Sports Presents: Stay Out of the Kitchen Pickleball Tournament",
     "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-ahm-sports-presents-stay-out-of-the-kitchen-pickleball-tournament/",
     "college": "Borough of Manhattan Community College",
@@ -2167,6 +2098,18 @@
       "Featured",
       "Student Affairs",
       "Women's HerStory Month"
+    ]
+  },
+  {
+    "title": "Healing Through Hip Hop and Creative Expression",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-16/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-23",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
     ]
   },
   {
@@ -2248,6 +2191,58 @@
     "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Jane Young Spring 2026 Film Series: Greed, a Film Retrospective",
+    "link": "https://www.bmcc.cuny.edu/event/jane-young-spring-2026-film-series-greed-a-film-retrospective/2026-04-26/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-26",
+    "time": "07:00 PM - 09:00 PM",
+    "tags": [
+      "CUNY in The Heights",
+      "Economics",
+      "English",
+      "Evening-Weekend",
+      "Featured",
+      "Human Services and Criminal Justice",
+      "Media Arts and Technology",
+      "Office of Student Activities (OSA)",
+      "Psychology",
+      "Social Sciences",
+      "Human Services and Criminal Justice",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Student Affairs",
+      "Theatre"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-3/2026-04-27/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-27",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Evening-Weekend",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Women’s Herstory Month: Masculinities: Rethinking Masc Identities Beyond the Cape",
+    "link": "https://www.bmcc.cuny.edu/event/womens-herstory-month-beyond-the-cape-masculinities-and-the-social-problems-they-shape-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-27",
+    "time": "04:00 PM - 05:15 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Co-Curricular Transcript",
+      "CUNY in The Heights",
+      "Featured",
+      "Student Affairs",
+      "Women's HerStory Month",
+      "Workshops"
     ]
   },
   {
@@ -2381,135 +2376,6 @@
       "Enrollment Management",
       "Feature",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "CUNY LEADS Presents: Launch Your Career Workshop – Part 2 (CLUE: 262065-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/12255797",
-    "college": "College of Staten Island",
-    "date": "2026-04-21",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "CC CLUE",
-      "Career Development"
-    ]
-  },
-  {
-    "title": "How to Appeal and Replace \"F\" Grades: Virtual Academic Success Resource Workshop Series (Double CLUE Credit: CC CLUE 262038 and PG CLUE 262015)",
-    "link": "https://csi.campuslabs.com/engage/event/12253039",
-    "college": "College of Staten Island",
-    "date": "2026-04-21",
-    "time": "06:45 PM - 07:45 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Virtual event (online offering)"
-    ]
-  },
-  {
-    "title": "Pre-Dental Society Elections for 2026-2027 E-BOARD",
-    "link": "https://csi.campuslabs.com/engage/event/12375346",
-    "college": "College of Staten Island",
-    "date": "2026-04-21",
-    "time": "07:00 PM - 08:00 PM",
-    "tags": [
-      "ThoughtfulLearning"
-    ]
-  },
-  {
-    "title": "Denim Day",
-    "link": "https://csi.campuslabs.com/engage/event/12420680",
-    "college": "College of Staten Island",
-    "date": "2026-04-21",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion"
-    ]
-  },
-  {
-    "title": "History Goes To The Movies",
-    "link": "https://csi.campuslabs.com/engage/event/12425241",
-    "college": "College of Staten Island",
-    "date": "2026-04-21",
-    "time": "06:30 PM - 08:15 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning"
-    ]
-  },
-  {
-    "title": "This Murder Was Staged",
-    "link": "https://csi.campuslabs.com/engage/event/12294810",
-    "college": "College of Staten Island",
-    "date": "2026-04-21",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "Arts",
-      "Entertainment"
-    ]
-  },
-  {
-    "title": "Pre-MED/Pre-PA Society: Elections for 2026-2027 E-BOARD",
-    "link": "https://csi.campuslabs.com/engage/event/12369061",
-    "college": "College of Staten Island",
-    "date": "2026-04-21",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "Social"
-    ]
-  },
-  {
-    "title": "Mapping for Equity (CLUE: 262060-PG) [Two Dates, RSVP for either or both. See description.]",
-    "link": "https://csi.campuslabs.com/engage/event/12388845",
-    "college": "College of Staten Island",
-    "date": "2026-04-21",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "CommunityService",
-      "PG CLUE",
-      "Group Business",
-      "Sustainability"
-    ]
-  },
-  {
-    "title": "50 Hour Film Challenge - Student Reception",
-    "link": "https://csi.campuslabs.com/engage/event/12425396",
-    "college": "College of Staten Island",
-    "date": "2026-04-21",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "Arts",
-      "Social",
-      "Film and Television",
-      "Entertainment"
-    ]
-  },
-  {
-    "title": "WSIA Sing and Swap",
-    "link": "https://csi.campuslabs.com/engage/event/12431511",
-    "college": "College of Staten Island",
-    "date": "2026-04-21",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "Social",
-      "Entertainment"
-    ]
-  },
-  {
-    "title": "Mask Painting",
-    "link": "https://csi.campuslabs.com/engage/event/12431532",
-    "college": "College of Staten Island",
-    "date": "2026-04-21",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "Arts",
-      "Arts and Crafts"
     ]
   },
   {
@@ -3275,11 +3141,11 @@
     ]
   },
   {
-    "title": "Transfer Talk Tuesdays: Explore Your Options After BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/?p=669657",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-21",
-    "time": "01:00 PM - 02:00 PM",
+    "title": "CCNY Libraries | Postcards from an Architect",
+    "link": "https://events.cuny.edu/cec/ccny-libraries-postcards-from-an-architect-20/",
+    "college": "The City College of New York",
+    "date": "2026-04-22",
+    "time": "12:00 PM - 4:00 PM",
     "tags": []
   },
   {
@@ -3296,14 +3162,6 @@
     "college": "Queens College",
     "date": "2026-04-21",
     "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Psychology Lecture Mock Interview Sessions",
-    "link": "https://qc.event.cuny.edu/events/AqIjHzBZBIvABGs1gFZk/NNbegGOFjX918p2L0eUL",
-    "college": "Queens College",
-    "date": "2026-04-21",
-    "time": "9:00AM",
     "tags": []
   },
   {
@@ -3381,6 +3239,14 @@
   {
     "title": "Dialogue of Hope",
     "link": "https://qc.event.cuny.edu/events/His883iHAhVjjWOXmecr/Ze3cQLZRh1IU3Ztbyv96",
+    "college": "Queens College",
+    "date": "2026-04-22",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Advancing Careers in Medicine and Research: Opportunities with Northwell Health",
+    "link": "https://qc.event.cuny.edu/events/FmBDIaJDEHf70J0UTGLZ/wKbBTjh1HNLdcFLKwFkn",
     "college": "Queens College",
     "date": "2026-04-22",
     "time": "11:00AM",
@@ -3836,7 +3702,7 @@
   },
   {
     "title": "The Bronx Business Tech Incubator: April Open House",
-    "link": "https://www.lehman.edu/events/2026/The-Bronx-Business-Tech-Incubator-April-Open-House--1.php",
+    "link": "https://www.lehman.edu/events/2026/The-Bronx-Business-Tech-Incubator-April-Open-House-.php",
     "college": "Lehman College",
     "date": "2026-04-21",
     "time": "4:00 PM- 5:00 PM",
@@ -3844,7 +3710,7 @@
   },
   {
     "title": "Reimagining the Enslaved African Burial Ground at Van Cortlandt Park",
-    "link": "https://www.lehman.edu/events/2026/Reimagining-the-Enslaved-African-Burial-Ground-at-Van-Cortlandt-Park-1.php",
+    "link": "https://www.lehman.edu/events/2026/Reimagining-the-Enslaved-African-Burial-Ground-at-Van-Cortlandt-Park.php",
     "college": "Lehman College",
     "date": "2026-04-21",
     "time": "6:00 PM- 8:00 PM",
@@ -3852,7 +3718,7 @@
   },
   {
     "title": "Spring Dance Concert 2026",
-    "link": "https://www.lehman.edu/events/2026/Spring-Dance-Concert-2026-1.php",
+    "link": "https://www.lehman.edu/events/2026/Spring-Dance-Concert-2026.php",
     "college": "Lehman College",
     "date": "2026-04-22",
     "time": "4:00 PM- 6:00 PM",
@@ -3868,7 +3734,7 @@
   },
   {
     "title": "Underground: Spring Dance 2026 Afterparty",
-    "link": "https://www.lehman.edu/events/2026/Underground-Spring-Dance-2026-Afterparty---1.php",
+    "link": "https://www.lehman.edu/events/2026/Underground-Spring-Dance-2026-Afterparty--.php",
     "college": "Lehman College",
     "date": "2026-04-22",
     "time": "5:00 PM- 7:00 PM",
@@ -3876,7 +3742,7 @@
   },
   {
     "title": "Beyond - Film Screening",
-    "link": "https://www.lehman.edu/events/2026/Beyond---Film-Screening-1.php",
+    "link": "https://www.lehman.edu/events/2026/Beyond---Film-Screening.php",
     "college": "Lehman College",
     "date": "2026-04-22",
     "time": "5:30 PM- 8:30 PM",
@@ -3976,118 +3842,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-05-07",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Classes follow a Thursday schedule",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/classes-follow-a-thursday-schedule",
-    "college": "York College",
-    "date": "2026-04-21",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Aviation Day - Connect, Learn, and Elevate",
-    "link": "https://www.york.cuny.edu/admissions/new/aviation-day",
-    "college": "York College",
-    "date": "2026-04-21",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Spring Symposium",
-    "link": "https://www.york.cuny.edu/events/2026/spring-symposium",
-    "college": "York College",
-    "date": "2026-04-21",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "The Nursing Program Experience Part 2",
-    "link": "https://www.york.cuny.edu/events/2026/the-nursing-program-experience-part-2",
-    "college": "York College",
-    "date": "2026-04-21",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Student Town Hall With The President",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/student-town-hall-with-the-president-4-21",
-    "college": "York College",
-    "date": "2026-04-21",
-    "time": "7:00 PM - 7:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Honors Ceremony: Accounting and Finance",
-    "link": "https://www.york.cuny.edu/events/honors-ceremony-accounting-and-finance",
-    "college": "York College",
-    "date": "2026-04-21",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Apr 22",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-apr22",
-    "college": "York College",
-    "date": "2026-04-22",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Senior Salute",
-    "link": "https://www.york.cuny.edu/commencement-2026/senior-salute-1",
-    "college": "York College",
-    "date": "2026-04-22",
-    "time": "3:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Marketing Info Session - Apr 22nd",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy5_of_marketing-info-session-mar-11th",
-    "college": "York College",
-    "date": "2026-04-22",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-04-22",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Empathy: How it Can Change Your Life",
-    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/empathy-how-it-can-change-your-life",
-    "college": "York College",
-    "date": "2026-04-22",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Tennis vs. John Jay College",
-    "link": "https://www.york.cuny.edu/events/2026/mens-tennis-vs-john-jay-04222026",
-    "college": "York College",
-    "date": "2026-04-22",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Barbershop Talks - Worth & Wisdom: A Night of Empowerment",
-    "link": "https://www.york.cuny.edu/events/barbershop-talks-worth-wisdom-a-night-of-empowerment",
-    "college": "York College",
-    "date": "2026-04-22",
-    "time": "9:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "OIESP Assessment Event",
-    "link": "https://www.york.cuny.edu/events/2025/oiesp-assessment-event",
-    "college": "York College",
-    "date": "2026-04-23",
-    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
