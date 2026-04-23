@@ -79,7 +79,9 @@
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2026-04-23",
     "time": "04:30 PM - 06:00 PM",
-    "tags": []
+    "tags": [
+      "Journalism Protection Initiative"
+    ]
   },
   {
     "title": "NABJ Career Panel",
@@ -145,6 +147,28 @@
     "time": "02:00 PM - 07:00 PM",
     "tags": [
       "Alumni"
+    ]
+  },
+  {
+    "title": "Spring Safety Workshop",
+    "link": "https://www.journalism.cuny.edu/events/spring-safety-workshop/2026-05-18/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-18",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": [
+      "Current Students",
+      "Journalism Protection Initiative"
+    ]
+  },
+  {
+    "title": "Spring Safety Workshop",
+    "link": "https://www.journalism.cuny.edu/events/spring-safety-workshop/2026-05-19/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-19",
+    "time": "12:30 PM - 02:30 PM",
+    "tags": [
+      "Current Students",
+      "Journalism Protection Initiative"
     ]
   },
   {
@@ -777,28 +801,6 @@
     ]
   },
   {
-    "title": "LaGuardia English Faculty Poets",
-    "link": "https://www.laguardia.edu/event/laguardia-english-faculty-poets/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-23",
-    "time": "02:00 PM - 04:30 PM",
-    "tags": [
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "CUNY School of Labor and Urban Studies (SLU) Virtual Transfer Information Session",
-    "link": "https://www.laguardia.edu/event/cuny-school-of-labor-and-urban-studies-slu-virtual-transfer-information-session/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-23",
-    "time": "02:15 PM - 03:15 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-04-24/",
     "college": "LaGuardia Community College",
@@ -1098,6 +1100,30 @@
     "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Breaking the Silence: A Domestic Violence Empowerment Workshop",
+    "link": "https://www.laguardia.edu/event/breaking-the-silence-a-domestic-violence-empowerment-workshop/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-29",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "The Resistance of Joy",
+    "link": "https://www.laguardia.edu/event/the-resistance-of-joy/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-29",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
       "student events"
     ]
   },
@@ -1588,6 +1614,16 @@
     ]
   },
   {
+    "title": "On Translating Kafka's Diaries with Ross Benjamin",
+    "link": "https://www.hunter.cuny.edu/event/on-translating-kafkas-diaries-with-ross-benjamin/",
+    "college": "Hunter College",
+    "date": "2026-04-27",
+    "time": "05:30 PM - 07:00 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
     "title": "Community Playwriting Workshop with Will Davis",
     "link": "https://www.hunter.cuny.edu/event/community-playwriting-workshop-with-will-davis/",
     "college": "Hunter College",
@@ -1612,6 +1648,16 @@
     ]
   },
   {
+    "title": "DIY Nail Kits & Movie",
+    "link": "https://www.hunter.cuny.edu/event/diy-nail-kits-movie/",
+    "college": "Hunter College",
+    "date": "2026-04-28",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Hunter College Jazz Ensembles",
     "link": "https://www.hunter.cuny.edu/event/hunter-college-jazz-ensembles/",
     "college": "Hunter College",
@@ -1619,6 +1665,16 @@
     "time": "08:00 PM - 10:00 PM",
     "tags": [
       "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "Build-A-Bear Event (First-Come, First-Served)",
+    "link": "https://www.hunter.cuny.edu/event/build-a-bear-event-first-come-first-served/",
+    "college": "Hunter College",
+    "date": "2026-04-29",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Student Events"
     ]
   },
   {
@@ -1666,6 +1722,16 @@
     ]
   },
   {
+    "title": "Bracelet Making & Movie",
+    "link": "https://www.hunter.cuny.edu/event/bracelet-making-movie/",
+    "college": "Hunter College",
+    "date": "2026-04-30",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "LinkedIn Networking Strategies",
     "link": "https://www.hunter.cuny.edu/event/linkedin-networking-strategies-2/",
     "college": "Hunter College",
@@ -1704,44 +1770,6 @@
     "college": "Hunter College",
     "date": "2026-04-30",
     "time": "06:00 PM - 07:30 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "B.Mus. Recital",
-    "link": "https://www.hunter.cuny.edu/event/b-mus-recital-8/",
-    "college": "Hunter College",
-    "date": "2026-04-30",
-    "time": "08:00 PM - 10:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Networking Event",
-    "link": "https://www.hunter.cuny.edu/event/networking-event/",
-    "college": "Hunter College",
-    "date": "2026-05-01",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Seminar: Sangeeta Pratap (Hunter College)",
-    "link": "https://www.hunter.cuny.edu/event/seminar-sangeeta-pratap-hunter-college/",
-    "college": "Hunter College",
-    "date": "2026-05-01",
-    "time": "01:30 PM - 03:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Undergraduate Spring 26 Concert at The Kaye Playhouse",
-    "link": "https://www.hunter.cuny.edu/event/undergraduate-spring-26-concert-program-at-the-kaye-playhouse/2026-05-01/1/",
-    "college": "Hunter College",
-    "date": "2026-05-01",
-    "time": "02:00 PM - 03:00 PM",
     "tags": [
       "Performing Arts & Film"
     ]
@@ -2275,134 +2303,6 @@
     "tags": []
   },
   {
-    "title": "E&ES Lecture Series: From carbon-intensive to material-intensive energy generation: a life cycle perspective on offshore wind trade-offs (CLUE: 262049-CC)",
-    "link": "https://csi.campuslabs.com/engage/event/12172353",
-    "college": "College of Staten Island",
-    "date": "2026-04-23",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "CC CLUE",
-      "Conference"
-    ]
-  },
-  {
-    "title": "CUNY LEADS Alumni Panel (CLUE: 262045-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/12255939",
-    "college": "College of Staten Island",
-    "date": "2026-04-23",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "PG CLUE",
-      "Career Development"
-    ]
-  },
-  {
-    "title": "ASL Club Guest Speaker: Russell Rosen",
-    "link": "https://csi.campuslabs.com/engage/event/12425369",
-    "college": "College of Staten Island",
-    "date": "2026-04-23",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "Cultural"
-    ]
-  },
-  {
-    "title": "Nursing Students Alliance x Computer Department",
-    "link": "https://csi.campuslabs.com/engage/event/12445604",
-    "college": "College of Staten Island",
-    "date": "2026-04-23",
-    "time": "06:30 PM - 07:30 PM",
-    "tags": [
-      "GroupBusiness",
-      "Technology",
-      "Career Development"
-    ]
-  },
-  {
-    "title": "Magician Daniel Martin",
-    "link": "https://csi.campuslabs.com/engage/event/12399651",
-    "college": "College of Staten Island",
-    "date": "2026-04-23",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": [
-      "Social"
-    ]
-  },
-  {
-    "title": "Sheikh Omar Klobocista Lecture",
-    "link": "https://csi.campuslabs.com/engage/event/12440218",
-    "college": "College of Staten Island",
-    "date": "2026-04-23",
-    "time": "06:30 PM - 08:00 PM",
-    "tags": [
-      "Spirituality"
-    ]
-  },
-  {
-    "title": "Women in Business Club Investment Workshop: Learn How to Grow Your Money",
-    "link": "https://csi.campuslabs.com/engage/event/12445603",
-    "college": "College of Staten Island",
-    "date": "2026-04-23",
-    "time": "06:30 PM - 08:15 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning"
-    ]
-  },
-  {
-    "title": "Dept. of Sociology/Anthropology Internship & Career Fair (CLUE: 262061-PG)",
-    "link": "https://csi.campuslabs.com/engage/event/12389068",
-    "college": "College of Staten Island",
-    "date": "2026-04-23",
-    "time": "06:30 PM - 08:30 PM",
-    "tags": [
-      "GroupBusiness",
-      "PG CLUE",
-      "Career Development"
-    ]
-  },
-  {
-    "title": "Sue’s Temporary Tattoo Pop-Up Shop",
-    "link": "https://csi.campuslabs.com/engage/event/12399652",
-    "college": "College of Staten Island",
-    "date": "2026-04-23",
-    "time": "04:30 PM - 08:30 PM",
-    "tags": [
-      "Social"
-    ]
-  },
-  {
-    "title": "BLOOMFEST Community Day",
-    "link": "https://csi.campuslabs.com/engage/event/12420860",
-    "college": "College of Staten Island",
-    "date": "2026-04-23",
-    "time": "04:30 PM - 08:30 PM",
-    "tags": [
-      "Social",
-      "Volunteer",
-      "Entertainment",
-      "Fundraiser",
-      "Arts and Crafts"
-    ]
-  },
-  {
-    "title": "The Ultimate Engineering Showdown",
-    "link": "https://csi.campuslabs.com/engage/event/12445599",
-    "college": "College of Staten Island",
-    "date": "2026-04-23",
-    "time": "06:45 PM - 08:30 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Learning",
-      "Social",
-      "Entertainment"
-    ]
-  },
-  {
     "title": "This Murder Was Staged",
     "link": "https://csi.campuslabs.com/engage/event/12294811",
     "college": "College of Staten Island",
@@ -2899,6 +2799,21 @@
       "Learning",
       "Health and Wellness",
       "PG CLUE"
+    ]
+  },
+  {
+    "title": "CSI Chorus featuring Dr. Marina Alexander, Director",
+    "link": "https://csi.campuslabs.com/engage/event/12446808",
+    "college": "College of Staten Island",
+    "date": "2026-05-12",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "Arts",
+      "Learning",
+      "Health and Wellness",
+      "Entertainment",
+      "Willowbrook Campus",
+      "Arts and Crafts"
     ]
   },
   {
@@ -3563,7 +3478,7 @@
   },
   {
     "title": "Basile Memorial Lecture",
-    "link": "https://www.lehman.edu/events/2026/Basile-Memorial-Lecture.php",
+    "link": "https://www.lehman.edu/events/2026/Basile-Memorial-Lecture-1.php",
     "college": "Lehman College",
     "date": "2026-04-24",
     "time": "10:30 AM- 1:00 PM",
@@ -3603,7 +3518,7 @@
   },
   {
     "title": "Queering Economics: Reimagining the Dismal Science",
-    "link": "https://www.lehman.edu/events/2026/Queering-Economics-Reimagining-the-Dismal-Science-.php",
+    "link": "https://www.lehman.edu/events/2026/Queering-Economics-Reimagining-the-Dismal-Science--1.php",
     "college": "Lehman College",
     "date": "2026-04-27",
     "time": "12:00 PM- 3:00 PM",
