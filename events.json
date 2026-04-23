@@ -225,7 +225,7 @@
   },
   {
     "title": "Career Development Virtual Evening Hours",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/186215c0-ef4f-4f7b-a5f1-3c7c2fa5ac19",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/e17d2648-ec3d-4c3d-8d7d-618435c66831",
     "college": "Kingsborough Community College",
     "date": "2026-04-27",
     "time": "08:00 PM - 10:00 PM",
@@ -1995,18 +1995,6 @@
     ]
   },
   {
-    "title": "Lehman College Pre-transfer Advisement",
-    "link": "https://www.bmcc.cuny.edu/event/lehman-college-pre-transfer-advisement/2026-04-29/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-29",
-    "time": "11:00 AM - 05:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer",
-      "Continuing Education",
-      "Featured"
-    ]
-  },
-  {
     "title": "Admissions Information Session (online)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-4-5/",
     "college": "Borough of Manhattan Community College",
@@ -2026,81 +2014,6 @@
     "tags": [
       "Admissions",
       "Featured"
-    ]
-  },
-  {
-    "title": "Free Workshop: Microsoft PowerPoint (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-powerpoint-students-only-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-29",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "MoneyWorks: A Practical Guide to Opening Your First Account",
-    "link": "https://www.bmcc.cuny.edu/event/moneyworks-a-practical-guide-to-opening-your-first-account/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-29",
-    "time": "02:00 PM - 03:30 PM",
-    "tags": [
-      "Featured",
-      "Moneyworks"
-    ]
-  },
-  {
-    "title": "International Students: Preparing for Post-Completion Optional Practical Training (OPT)",
-    "link": "https://www.bmcc.cuny.edu/event/international-students-preparing-for-post-completion-optional-practical-training-opt/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-29",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
-    "title": "Asian Heritage Month: Annual Tea Tasting",
-    "link": "https://www.bmcc.cuny.edu/event/asian-heritage-month-annual-tea-tasting/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-29",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Asian Heritage Month",
-      "Co-Curricular Transcript",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Asian Heritage Month: Anime Screening, Manga Lending and Cosplay Contest",
-    "link": "https://www.bmcc.cuny.edu/event/673362/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-29",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Asian Heritage Month",
-      "Featured",
-      "Library",
-      "Media Arts and Technology"
-    ]
-  },
-  {
-    "title": "Storytelling Open Mike",
-    "link": "https://www.bmcc.cuny.edu/event/storytelling-open-mike-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-29",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Co-Curricular Transcript",
-      "English",
-      "Featured",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs"
     ]
   },
   {
@@ -2296,6 +2209,18 @@
     ]
   },
   {
+    "title": "Nursing Students Alliance x Computer Department",
+    "link": "https://csi.campuslabs.com/engage/event/12445604",
+    "college": "College of Staten Island",
+    "date": "2026-04-23",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "GroupBusiness",
+      "Technology",
+      "Career Development"
+    ]
+  },
+  {
     "title": "Magician Daniel Martin",
     "link": "https://csi.campuslabs.com/engage/event/12399651",
     "college": "College of Staten Island",
@@ -2313,6 +2238,17 @@
     "time": "06:30 PM - 08:00 PM",
     "tags": [
       "Spirituality"
+    ]
+  },
+  {
+    "title": "Women in Business Club Investment Workshop: Learn How to Grow Your Money",
+    "link": "https://csi.campuslabs.com/engage/event/12445603",
+    "college": "College of Staten Island",
+    "date": "2026-04-23",
+    "time": "06:30 PM - 08:15 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning"
     ]
   },
   {
@@ -2349,6 +2285,19 @@
       "Entertainment",
       "Fundraiser",
       "Arts and Crafts"
+    ]
+  },
+  {
+    "title": "The Ultimate Engineering Showdown",
+    "link": "https://csi.campuslabs.com/engage/event/12445599",
+    "college": "College of Staten Island",
+    "date": "2026-04-23",
+    "time": "06:45 PM - 08:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Learning",
+      "Social",
+      "Entertainment"
     ]
   },
   {
@@ -2393,6 +2342,16 @@
     "tags": [
       "Social",
       "Entertainment"
+    ]
+  },
+  {
+    "title": "Club Elections",
+    "link": "https://csi.campuslabs.com/engage/event/12445594",
+    "college": "College of Staten Island",
+    "date": "2026-04-24",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "CommunityService"
     ]
   },
   {
@@ -2442,6 +2401,16 @@
       "Equity and Inclusion",
       "Willowbrook Campus",
       "Students Only"
+    ]
+  },
+  {
+    "title": "Sip n Paint",
+    "link": "https://csi.campuslabs.com/engage/event/12445601",
+    "college": "College of Staten Island",
+    "date": "2026-04-28",
+    "time": "05:30 PM - 06:30 PM",
+    "tags": [
+      "Social"
     ]
   },
   {
@@ -2561,6 +2530,20 @@
     "time": "06:30 PM - 08:30 PM",
     "tags": [
       "Cultural"
+    ]
+  },
+  {
+    "title": "ASME: Build Your Brand",
+    "link": "https://csi.campuslabs.com/engage/event/12445607",
+    "college": "College of Staten Island",
+    "date": "2026-04-28",
+    "time": "06:45 AM - 08:30 PM",
+    "tags": [
+      "ThoughtfulLearning",
+      "Leadership",
+      "Learning",
+      "Social",
+      "Career Development"
     ]
   },
   {
@@ -2718,6 +2701,16 @@
     "college": "College of Staten Island",
     "date": "2026-05-05",
     "time": "06:30 PM - 08:30 PM",
+    "tags": [
+      "Social"
+    ]
+  },
+  {
+    "title": "Shape the Future of ASME: 2026 Board Elections & Networking Mixer",
+    "link": "https://csi.campuslabs.com/engage/event/12445598",
+    "college": "College of Staten Island",
+    "date": "2026-05-05",
+    "time": "06:45 PM - 08:45 PM",
     "tags": [
       "Social"
     ]
@@ -3468,7 +3461,7 @@
   },
   {
     "title": "Basile Memorial Lecture",
-    "link": "https://www.lehman.edu/events/2026/Basile-Memorial-Lecture.php",
+    "link": "https://www.lehman.edu/events/2026/Basile-Memorial-Lecture-1.php",
     "college": "Lehman College",
     "date": "2026-04-24",
     "time": "10:30 AM- 1:00 PM",
@@ -3508,7 +3501,7 @@
   },
   {
     "title": "Queering Economics: Reimagining the Dismal Science",
-    "link": "https://www.lehman.edu/events/2026/Queering-Economics-Reimagining-the-Dismal-Science-.php",
+    "link": "https://www.lehman.edu/events/2026/Queering-Economics-Reimagining-the-Dismal-Science--1.php",
     "college": "Lehman College",
     "date": "2026-04-27",
     "time": "12:00 PM- 3:00 PM",
@@ -3516,7 +3509,7 @@
   },
   {
     "title": "Blood Drive",
-    "link": "https://www.lehman.edu/events/2026/Blood-Drive.php",
+    "link": "https://www.lehman.edu/events/2026/Blood-Drive-1.php",
     "college": "Lehman College",
     "date": "2026-04-28",
     "time": "10:00 AM- 6:00 PM",
@@ -3600,6 +3593,118 @@
     "college": "Macaulay Honors College",
     "date": "2026-05-08",
     "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "OIESP Assessment Event",
+    "link": "https://www.york.cuny.edu/events/2025/oiesp-assessment-event",
+    "college": "York College",
+    "date": "2026-04-23",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Guest Lecture: A Revolution of One, To Preserve the Many",
+    "link": "https://www.york.cuny.edu/events/guest-lecture-a-revolution-of-one-to-preserve-the-many",
+    "college": "York College",
+    "date": "2026-04-23",
+    "time": "6:00 PM - 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Economics Info Session Apr 23rd",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy6_of_economics-info-session-mar-12th",
+    "college": "York College",
+    "date": "2026-04-23",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Deep Dish with the Dean (Session B)",
+    "link": "https://www.york.cuny.edu/events/deep-dish-with-the-dean-session-a",
+    "college": "York College",
+    "date": "2026-04-23",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Event: History, Philosophy and Anthropology",
+    "link": "https://www.york.cuny.edu/events/honors-event-history-philosophy-anthropology",
+    "college": "York College",
+    "date": "2026-04-23",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Celebration of Department Graduates",
+    "link": "https://www.york.cuny.edu/events/celebration-of-department-hpa-graduates",
+    "college": "York College",
+    "date": "2026-04-23",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Apr 24",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-apr24",
+    "college": "York College",
+    "date": "2026-04-24",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-04-24",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Softball vs. John Jay College",
+    "link": "https://www.york.cuny.edu/events/2026/softball-vs-john-jay-04242026",
+    "college": "York College",
+    "date": "2026-04-24",
+    "time": "6:30 PM - 10:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Accepted Student Day",
+    "link": "https://www.york.cuny.edu/admissions/new/accepted-student-day",
+    "college": "York College",
+    "date": "2026-04-24",
+    "time": "8:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "To My Princess by Jasmin Shirley",
+    "link": "https://www.york.cuny.edu/events/to-my-princess-by-jasmin-shirley",
+    "college": "York College",
+    "date": "2026-04-24",
+    "time": "11:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Aviation Management Info Session - Apr 27th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy7_of_aviation-management-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-27",
+    "time": "2:00 PM - 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Business Administration Info Session - Apr 27th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy15_of_business-administration-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-27",
+    "time": "2:00 PM - 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "HRM Info Session Apr 27th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy7_of_hrm-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-04-27",
+    "time": "4:00 PM - 5:00 PM",
     "tags": []
   },
   {
