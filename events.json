@@ -30,6 +30,16 @@
     "tags": []
   },
   {
+    "title": "Graduation Portrait Night",
+    "link": "https://www.law.cuny.edu/event/graduation-portrait-night/",
+    "college": "CUNY School of Law",
+    "date": "2026-05-04",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": [
+      "Special Event"
+    ]
+  },
+  {
     "title": "CUNY Law Alumni Connection Series",
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-may/",
     "college": "CUNY School of Law",
@@ -1441,24 +1451,6 @@
     ]
   },
   {
-    "title": "In-person Event - Forest Restoration and Nature Walk",
-    "link": "https://www.hunter.cuny.edu/event/in-person-event-forest-restoration-and-nature-walk/",
-    "college": "Hunter College",
-    "date": "2026-04-24",
-    "time": "09:00 AM - 12:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Preventing Procrastination – Counseling Workshop",
-    "link": "https://www.hunter.cuny.edu/event/preventing-procrastination-counseling-workshop-5/",
-    "college": "Hunter College",
-    "date": "2026-04-24",
-    "time": "11:30 AM - 12:45 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Career Exploration",
     "link": "https://www.hunter.cuny.edu/event/career-exploration/",
     "college": "Hunter College",
@@ -1736,6 +1728,27 @@
     "date": "2026-05-01",
     "time": "02:00 PM - 03:00 PM",
     "tags": [
+      "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Nursing Generic Program Information Session",
+    "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-10/",
+    "college": "Hunter College",
+    "date": "2026-05-01",
+    "time": "04:00 PM - 05:30 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "Friday Night Free Tour of Whitney Biennial",
+    "link": "https://www.hunter.cuny.edu/event/friday-night-free-tour-of-whitney-biennial/",
+    "college": "Hunter College",
+    "date": "2026-05-01",
+    "time": "05:00 PM - 08:00 PM",
+    "tags": [
+      "Exhibits",
       "Performing Arts & Film"
     ]
   },
@@ -2254,28 +2267,6 @@
     "date": "2026-05-11",
     "time": "02:15 PM - 03:30 PM",
     "tags": []
-  },
-  {
-    "title": "Arbor Day Tree Planting",
-    "link": "https://csi.campuslabs.com/engage/event/11977405",
-    "college": "College of Staten Island",
-    "date": "2026-04-24",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Sustainability"
-    ]
-  },
-  {
-    "title": "Brunch & Toons featuring Dancakes!",
-    "link": "https://csi.campuslabs.com/engage/event/12399650",
-    "college": "College of Staten Island",
-    "date": "2026-04-24",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "Social",
-      "Entertainment"
-    ]
   },
   {
     "title": "Club Elections",
@@ -3081,6 +3072,14 @@
     "tags": []
   },
   {
+    "title": "NEW MEDIA EVENT",
+    "link": "https://baruch.event.cuny.edu/events/OaXkAZ99wMLNqzrVnkhB/cBdyTKLfIzBSqClzNjey",
+    "college": "Baruch College",
+    "date": "2026-04-29",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
     "title": "Creativity Social: How Music Works",
     "link": "https://baruch.event.cuny.edu/events/k40rOh79wV7PFFJAjhJ9/cQ9L24VJq86gqM6acvq7",
     "college": "Baruch College",
@@ -3370,7 +3369,7 @@
   },
   {
     "title": "Basile Memorial Lecture",
-    "link": "https://www.lehman.edu/events/2026/Basile-Memorial-Lecture-1.php",
+    "link": "https://www.lehman.edu/events/2026/Basile-Memorial-Lecture.php",
     "college": "Lehman College",
     "date": "2026-04-24",
     "time": "10:30 AM- 1:00 PM",
@@ -3457,14 +3456,6 @@
     "tags": []
   },
   {
-    "title": "City Nature Challenge Kickoff",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/city-nature-challenge-launch-event/",
-    "college": "Macaulay Honors College",
-    "date": "2026-04-24",
-    "time": "10:00 AM - 12:00PM",
-    "tags": []
-  },
-  {
     "title": "Senior Sendoff 2026: Your Story Isn’t Linear (And That’s the Point)",
     "link": "https://macaulay.cuny.edu/calendar-of-events/senior-sendoff-2026-your-story-isnt-linear-and-thats-the-point/",
     "college": "Macaulay Honors College",
@@ -3526,6 +3517,14 @@
     "college": "Macaulay Honors College",
     "date": "2026-05-08",
     "time": "10:00 AM - 4:00PM",
+    "tags": []
+  },
+  {
+    "title": "Journeys Begun: Hike, Art, Cookout & Reflection",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/journeys-begun-hike-art-cookout-reflection-2/",
+    "college": "Macaulay Honors College",
+    "date": "2026-05-08",
+    "time": "12:30PM",
     "tags": []
   },
   {
