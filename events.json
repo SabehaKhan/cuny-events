@@ -761,17 +761,6 @@
     "tags": []
   },
   {
-    "title": "Fall 2026 Admissions Event",
-    "link": "https://www.laguardia.edu/event/fall-2026-admissions-event-2/",
-    "college": "LaGuardia Community College",
-    "date": "2026-04-25",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Exploring My Path: Career Opportunities in Engineering, Science and Technology",
     "link": "https://www.laguardia.edu/event/exploring-my-path-career-opportunities-in-engineering-science-and-technology/",
     "college": "LaGuardia Community College",
@@ -1092,6 +1081,17 @@
     "college": "LaGuardia Community College",
     "date": "2026-04-29",
     "time": "05:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-2/2026-04-29/",
+    "college": "LaGuardia Community College",
+    "date": "2026-04-29",
+    "time": "08:00 PM - 08:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1822,26 +1822,6 @@
     ]
   },
   {
-    "title": "CUNY AI (Artificial Intelligence) Innovation Challenge: Tech for Change",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-ai-artificial-intelligence-innovation-challenge-tech-for-change/2026-04-25/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-25",
-    "time": "09:00 AM - 09:00 PM",
-    "tags": [
-      "Computer Information Systems",
-      "CUNY in The Heights",
-      "Evening-Weekend",
-      "Featured",
-      "Honors Program",
-      "Math",
-      "Media Arts and Technology",
-      "Science",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Women in STEM"
-    ]
-  },
-  {
     "title": "CUNY in the Heights Career Fair",
     "link": "https://www.bmcc.cuny.edu/event/cuny-in-the-heights-career-fair/",
     "college": "Borough of Manhattan Community College",
@@ -1861,20 +1841,6 @@
     "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "BMCC Theatre Program Presents a New Play: To the Unknown Solidiers",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-tribeca-performing-arts-center-to-the-unknown-solidiers/2026-04-25/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-25",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Featured",
-      "Gender and Women's Studies",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Tribeca Performing Arts Center"
     ]
   },
   {
@@ -2870,6 +2836,22 @@
     "college": "Queens College",
     "date": "2026-04-25",
     "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY AI (Artificial Intelligence) Innovation Challenge: Tech for Change",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007170",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-25",
+    "time": "09:00 AM - 09:00 PM",
+    "tags": []
+  },
+  {
+    "title": "BMCC Theatre Program Presents a New Play: To the Unknown Solidiers",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007117",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-04-25",
+    "time": "02:00 PM - 03:00 PM",
     "tags": []
   },
   {
