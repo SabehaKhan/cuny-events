@@ -1822,28 +1822,6 @@
     ]
   },
   {
-    "title": "CUNY in the Heights Career Fair",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-in-the-heights-career-fair/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-25",
-    "time": "10:00 AM - 02:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "CUNY in The Heights",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Free Workshop: Intro to Computer Basics 1.0 (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/free-workshop-intro-to-computer-basics-1-0-students-only-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-25",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Learning Resource Center"
-    ]
-  },
-  {
     "title": "Jane Young Spring 2026 Film Series: Greed, a Film Retrospective",
     "link": "https://www.bmcc.cuny.edu/event/jane-young-spring-2026-film-series-greed-a-film-retrospective/2026-04-26/",
     "college": "Borough of Manhattan Community College",
@@ -2150,6 +2128,24 @@
     ]
   },
   {
+    "title": "BMCC Spring 2026 Film Festival",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-spring-2026-film-festival/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-03",
+    "time": "04:00 PM - 09:00 PM",
+    "tags": [
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured",
+      "Media Arts and Technology",
+      "Music & Art",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Student Affairs",
+      "Tribeca Performing Arts Center"
+    ]
+  },
+  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/2026-04-27/",
     "college": "Bronx Community College",
@@ -2301,17 +2297,6 @@
     "date": "2026-05-11",
     "time": "02:15 PM - 03:30 PM",
     "tags": []
-  },
-  {
-    "title": "This Murder Was Staged",
-    "link": "https://csi.campuslabs.com/engage/event/12294813",
-    "college": "College of Staten Island",
-    "date": "2026-04-25",
-    "time": "11:00 PM - 01:00 AM",
-    "tags": [
-      "Arts",
-      "Entertainment"
-    ]
   },
   {
     "title": "LGBTQ+ Support Group",
@@ -2821,48 +2806,6 @@
     ]
   },
   {
-    "title": "Don’t Lose Your Work: How to Transfer Your OneDrive Files",
-    "link": "https://events.cuny.edu/cec/dont-lose-your-work-how-to-transfer-your-onedrive-files-2/",
-    "college": "College of Staten Island",
-    "date": "2026-04-25",
-    "time": "12:00 PM - 1:00 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "Darlene Love: Love Songs",
-    "link": "https://events.cuny.edu/cec/darlene-love-love-songs/",
-    "college": "Queens College",
-    "date": "2026-04-25",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY AI (Artificial Intelligence) Innovation Challenge: Tech for Change",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007170",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-25",
-    "time": "09:00 AM - 09:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BMCC Theatre Program Presents a New Play: To the Unknown Solidiers",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007117",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-25",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BMCC Theatre Program Presents a New Play: To the Unknown Solidiers",
-    "link": "https://www.bmcc.cuny.edu/event/?p=672521",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-04-25",
-    "time": "07:00 PM - 08:30 PM",
-    "tags": []
-  },
-  {
     "title": "BMCC Theatre Program Presents a New Play: To the Unknown Solidiers",
     "link": "https://www.bmcc.cuny.edu/event/?p=10007115",
     "college": "Borough of Manhattan Community College",
@@ -2871,11 +2814,60 @@
     "tags": []
   },
   {
-    "title": "College Now Program - Pre-College Offering",
-    "link": "https://qc.event.cuny.edu/events/zTR16RJNoCLYr66ZRnBm/ORF0xkkwnfJKk6C6h7SW",
-    "college": "Queens College",
-    "date": "2026-04-25",
-    "time": "9:00AM",
+    "title": "CCNY Libraries | Postcards from an Architect",
+    "link": "https://events.cuny.edu/cec/ccny-libraries-postcards-from-an-architect-23/",
+    "college": "The City College of New York",
+    "date": "2026-04-27",
+    "time": "12:00 PM - 4:00 PM",
+    "tags": [
+      "CCNY Libraries"
+    ]
+  },
+  {
+    "title": "Salzberg Chemistry Seminar: Selectivity: A Key to Synthetic Efficiency",
+    "link": "https://events.cuny.edu/cec/salzberg-chemistry-seminar-selectivity-a-key-to-synthetic-efficiency/",
+    "college": "The City College of New York",
+    "date": "2026-04-27",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": [
+      "IDEALS Salzberg Chemistry Seminar"
+    ]
+  },
+  {
+    "title": "We Want the Funk! Encore screening with Black Public Media and Firelight Media",
+    "link": "https://events.cuny.edu/cec/we-want-the-funk-encore-screening-with-black-public-media-and-firelight-media/",
+    "college": "The City College of New York",
+    "date": "2026-04-27",
+    "time": "6:00 PM - 9:00 PM",
+    "tags": [
+      "Nicole London",
+      "Stanley Nelson"
+    ]
+  },
+  {
+    "title": "American Voices - An Evening with Julia Alvarez",
+    "link": "https://events.cuny.edu/cec/american-voices-an-evening-with-julia-alvarez/",
+    "college": "Hunter College",
+    "date": "2026-04-27",
+    "time": "7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Don’t Lose Your Work: How to Transfer Your OneDrive Files",
+    "link": "https://events.cuny.edu/cec/dont-lose-your-work-how-to-transfer-your-onedrive-files-3/",
+    "college": "College of Staten Island",
+    "date": "2026-04-27",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "Queering Economics: Reimagining the Dismal Science",
+    "link": "https://lehman.edu/events/2026/Queering-Economics-Reimagining-the-Dismal-Science--1.php",
+    "college": "Lehman College",
+    "date": "2026-04-27",
+    "time": "12:00 PM - 3:00 PM",
     "tags": []
   },
   {
@@ -3039,62 +3031,6 @@
     "tags": []
   },
   {
-    "title": "Deaf and Hard of Hearing Association",
-    "link": "https://citytech.event.cuny.edu/events/pNhedFpE6bW8oPUD58vT/CoTigpP6yW2PA30kC6Ba",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-25",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center ESOL Classes",
-    "link": "https://citytech.event.cuny.edu/events/WayqEPNc1l13EK7LPIRF/ShMG76zRZ0GMzy7AGXKm2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-25",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "STEP Program Spring 2026 Semester",
-    "link": "https://citytech.event.cuny.edu/events/MNrqM4jVc9FPh3LsKA8J/EW4LmYnBoVb4luhmYRKT8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-25",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "ENG1101 Class",
-    "link": "https://citytech.event.cuny.edu/events/KesCtd901618z7sYfjGL/zSO3rNbFh65csCd3kXCk",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-25",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "NYC Deaf and Hard of Hearing Association",
-    "link": "https://citytech.event.cuny.edu/events/wME4YMCwcwOd7bqkl2vB/DDz1Wq7sQDblzi5Um5PC",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-25",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Workshop Rooms",
-    "link": "https://citytech.event.cuny.edu/events/ZGoU6Ahx3UBvX3YmI1zb/VzpSW7yLrpQtNph60HA110",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-25",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "STEM RA x Irondale",
-    "link": "https://citytech.event.cuny.edu/events/WNjH5IPG1XG6M9qEMrAR/x8eZpl95U9RvmLVUL87u",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-04-25",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
     "title": "NYSSO (New York State Society of Opticians) Continuing Education Event",
     "link": "https://citytech.event.cuny.edu/events/ct051WlbjDnIbqP6L6ee/ovDer4Mpzgt611x4xX3j",
     "college": "New York City College of Technology (City Tech)",
@@ -3124,6 +3060,118 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-04-27",
     "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Medical Billing & Coding Certification for English Language Learners",
+    "link": "https://citytech.event.cuny.edu/events/k4Wbf1P12jAwpieCTTqL/oZu04oyZEu7cYTHZJDM715",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-27",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "Continuing Education: COMPTIA A+ Prep Course",
+    "link": "https://citytech.event.cuny.edu/events/gztn6bjJLaZGa3De62wm/PSvsCDuSZfVpcXBCVK6H110",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-27",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYCCT Public Safety Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/oZrlbRHkgKoO9x5LAiJo/exFZENoLfxV0DYX5ANQS23",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-27",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Financial Aid Assistance Workshop",
+    "link": "https://citytech.event.cuny.edu/events/gpigALyKY8WD9YoxoGpM/NmB3Xqt7cx0Pg00BJqnb",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-27",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Spring 2026 SLD Peer Navigator Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/QBEA74FLcShoEMc1VwK4/p19pJrRBDf9v1v5lq83O",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-27",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Tabling",
+    "link": "https://citytech.event.cuny.edu/events/PNWLlpcKB8NNF2mUBW9n/x3oYaCaKGhVlTCTcgtAI3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-27",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Grad Fair DeBrief",
+    "link": "https://citytech.event.cuny.edu/events/ToaPski7uZg6IAmBUkHk/q6qAQSCCBDZpjXIF2AJB",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-27",
+    "time": "2:15PM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Department: SLD Ambassador Lounge Hours",
+    "link": "https://citytech.event.cuny.edu/events/GjOjJfMkz9v3fKEhCCbc/pZXLOwYiEED6P9MWFpyD",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-27",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "SUPT 406 : 1.2 Building Systems and Equipment",
+    "link": "https://citytech.event.cuny.edu/events/NDlZNpefOnEotVDbw2Cb/Pjc03vHe17dI6XAuYC3v27",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-27",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "SLD: Spring 2026 Grad Fair",
+    "link": "https://citytech.event.cuny.edu/events/DM0KEnJwyWze4z7B5buN/up9b2GoOVvl33e4gGMeO2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-28",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Continuing Education: COMPTIA A+ Prep Course",
+    "link": "https://citytech.event.cuny.edu/events/gztn6bjJLaZGa3De62wm/DFNxUazG7P7ROnYcIor8110",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-28",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "School of Professional Studies Discussion of Majors",
+    "link": "https://citytech.event.cuny.edu/events/XlUpqPjruiFNYoud0wK9/FU2y6gzS5TKkgQyILp5f",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-28",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "US Marines Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/T2IBrYpMVYAz7O5iwfFX/NcNWswHIu1KCkbZn7M3B16",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-28",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "PSC Tabling",
+    "link": "https://citytech.event.cuny.edu/events/aUKhwUgjhYWmjTjkhGAx/XnnI3Z7r2AjyCUquIQeM1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-04-28",
+    "time": "12:30PM",
     "tags": []
   },
   {
