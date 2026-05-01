@@ -256,7 +256,7 @@
     "title": "CUNY Transfer Application Workshop",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/95e033ca-539a-4bee-bf2a-fa12abedfb9e",
     "college": "Kingsborough Community College",
-    "date": "2026-05-20",
+    "date": "2026-05-22",
     "time": "05:00 PM - 05:00 PM",
     "tags": []
   },
@@ -289,14 +289,6 @@
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/547a46e8-4183-4414-97bc-83c7307a7c82",
     "college": "Kingsborough Community College",
     "date": "2026-05-05",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Farmingdale State College - Virtual Information Session",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/9b6754ec-db4c-4842-a5cd-0f363ab489fe",
-    "college": "Kingsborough Community College",
-    "date": "2026-05-26",
     "time": "06:00 PM - 07:00 PM",
     "tags": []
   },
@@ -576,7 +568,7 @@
     "title": "Brooklyn College On Spot Decision Day",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/dc28ef71-28a4-4267-8112-d34121b7b296",
     "college": "Kingsborough Community College",
-    "date": "2026-05-21",
+    "date": "2026-05-20",
     "time": "03:00 PM - 07:00 PM",
     "tags": []
   },
@@ -634,6 +626,22 @@
     "college": "Kingsborough Community College",
     "date": "2026-05-04",
     "time": "03:30 PM - 03:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Farmingdale State College - Virtual Information Session",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/b53f78d0-0d6a-4be5-9509-9867d621c2ac",
+    "college": "Kingsborough Community College",
+    "date": "2026-05-19",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "College Visit- College of Staten Island",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/01593808-2237-46ca-80b3-4c84f9e47e10",
+    "college": "Kingsborough Community College",
+    "date": "2026-05-13",
+    "time": "02:00 PM - 05:00 PM",
     "tags": []
   },
   {
@@ -1215,14 +1223,6 @@
     ]
   },
   {
-    "title": "Networking Event",
-    "link": "https://www.hunter.cuny.edu/event/networking-event/",
-    "college": "Hunter College",
-    "date": "2026-05-01",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Undergraduate Spring 26 Concert at The Kaye Playhouse",
     "link": "https://www.hunter.cuny.edu/event/undergraduate-spring-26-concert-program-at-the-kaye-playhouse/2026-05-01/1/",
     "college": "Hunter College",
@@ -1505,6 +1505,18 @@
     "tags": []
   },
   {
+    "title": "2026 Hunter MFA Playwrights Festival: ON A SMALL STRIP OF LAND ON THE GREAT SOUTH BAY by Kev Berry",
+    "link": "https://www.hunter.cuny.edu/event/2026-hunter-mfa-playwrights-festival-on-a-small-strip-of-land-on-the-great-south-bay-by-kev-berry/",
+    "college": "Hunter College",
+    "date": "2026-05-11",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Performing Arts & Film",
+      "Special Events",
+      "Student Events"
+    ]
+  },
+  {
     "title": "AI Innovation Challenge Showcase",
     "link": "https://www.bmcc.cuny.edu/event/ai-innovation-challenge-showcase/",
     "college": "Borough of Manhattan Community College",
@@ -1563,6 +1575,21 @@
       "Communications and Theatre Arts",
       "Student Affairs",
       "Theatre"
+    ]
+  },
+  {
+    "title": "Spring 2026 De-Stressfest: Relaxation Stations",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2026-de-stressfest-relaxation-stations/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-04",
+    "time": "11:00 AM - 04:00 PM",
+    "tags": [
+      "Counseling Center",
+      "De-Stress Fest",
+      "Evening-Weekend",
+      "Featured",
+      "Library",
+      "Student Affairs"
     ]
   },
   {
@@ -1772,8 +1799,26 @@
     "tags": [
       "Asian and Pacific Islander Bridge Initiaitve",
       "Asian Heritage Month",
+      "Diplomatic Engagement and Training",
       "Featured",
+      "Global Initiatives",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "Modern Languages Colloquium: Your Words, Your Future: Languages and Cultural Skills in a Changing World",
+    "link": "https://www.bmcc.cuny.edu/event/modern-languages-colloquium-your-words-your-future-languages-and-cultural-skills-in-a-changing-world/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-07",
+    "time": "09:30 AM - 04:00 PM",
+    "tags": [
+      "Academic Affairs",
+      "Academic Literacy and Linguistics",
+      "Center for Ethnic Studies",
+      "Communication Studies",
+      "Ethnic and Race Studies",
+      "Featured",
+      "Modern Languages"
     ]
   },
   {
@@ -1825,39 +1870,6 @@
       "Counseling Center",
       "Student Affairs",
       "Urban Male Leadership Academy (UMLA)"
-    ]
-  },
-  {
-    "title": "Join us to Celebrate AAPI Beyond BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/join-us-to-celebrate-aapi-beyond-bmcc/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-08",
-    "time": "01:00 PM - 03:30 PM",
-    "tags": [
-      "Asian and Pacific Islander Bridge Initiaitve",
-      "Asian Heritage Month",
-      "Center for Belonging and Inclusion",
-      "Center for Ethnic Studies",
-      "Ethnic and Race Studies",
-      "Evening-Weekend",
-      "Featured",
-      "Global Initiatives",
-      "Immigration Support",
-      "International Student Events/Workshops",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Sign up for SafeZone 101 Training",
-    "link": "https://www.bmcc.cuny.edu/event/sign-up-for-safezone-101-training-3/2026-05-11/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-11",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "Featured",
-      "Pride Center",
-      "Student Affairs"
     ]
   },
   {
@@ -2106,6 +2118,16 @@
     "time": "06:30 PM - 07:30 PM",
     "tags": [
       "ThoughtfulLearning"
+    ]
+  },
+  {
+    "title": "Environmental and Geoscience Club",
+    "link": "https://csi.campuslabs.com/engage/event/12457733",
+    "college": "College of Staten Island",
+    "date": "2026-05-05",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "GroupBusiness"
     ]
   },
   {
