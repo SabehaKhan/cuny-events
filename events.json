@@ -637,18 +637,6 @@
     "tags": []
   },
   {
-    "title": "Unbannable Library",
-    "link": "https://www.laguardia.edu/event/unbannable-library/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-01",
-    "time": "06:00 AM - 10:00 AM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-05-01/",
     "college": "LaGuardia Community College",
@@ -933,6 +921,17 @@
     "college": "LaGuardia Community College",
     "date": "2026-05-11",
     "time": "11:45 AM - 12:45 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-2/2026-05-11/",
+    "college": "LaGuardia Community College",
+    "date": "2026-05-11",
+    "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -2540,14 +2539,6 @@
     "tags": []
   },
   {
-    "title": "Viva El Cinco De Mayo 2026",
-    "link": "https://events.cuny.edu/cec/viva-el-cinco-de-mayo-2026/",
-    "college": "Queens College",
-    "date": "2026-05-03",
-    "time": "3:00 PM - 4:30 PM",
-    "tags": []
-  },
-  {
     "title": "Undergraduate Research Symposium",
     "link": "https://qc.event.cuny.edu/events/rYqVfy58wlqlnOYmvyA8/fSLaTS1pdugztSYiiyf1",
     "college": "Queens College",
@@ -2868,6 +2859,14 @@
     "tags": []
   },
   {
+    "title": "STEP spring 2026-  the Red Cross CPR seminar",
+    "link": "https://citytech.event.cuny.edu/events/w50YgM05U6ur0jnxlodL/jPI0NakNKlvNsf0tiWXG",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-02",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
     "title": "Adult Learning Center ESOL Classes",
     "link": "https://citytech.event.cuny.edu/events/WayqEPNc1l13EK7LPIRF/ShMG76zRZ0GMzy7AGXKm3",
     "college": "New York City College of Technology (City Tech)",
@@ -2878,6 +2877,14 @@
   {
     "title": "STEP Program Spring 2026 Semester",
     "link": "https://citytech.event.cuny.edu/events/MNrqM4jVc9FPh3LsKA8J/EW4LmYnBoVb4luhmYRKT9",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-02",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "STEP Program Computer Lab for Students",
+    "link": "https://citytech.event.cuny.edu/events/dKCxDwAX6JYFb7iG6Tg7/WDEH25kxgX4cnYJLqgqA",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-05-02",
     "time": "9:30AM",
@@ -3201,126 +3208,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-05-13",
     "time": "4:00PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY May 1",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may1",
-    "college": "York College",
-    "date": "2026-05-01",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Aviation Management Info Session - May 4th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_aviation-management-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-05-04",
-    "time": "2:00 PM - 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HRM Info Session May 4th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_hrm-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-05-04",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Faculty Caucus - 5/5/2026",
-    "link": "https://www.york.cuny.edu/events/2025/faculty-caucus-5",
-    "college": "York College",
-    "date": "2026-05-05",
-    "time": "4:10 PM - 5:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Cardinal Soar Celebration",
-    "link": "https://www.york.cuny.edu/advisement/events/2026_cardinal-soar",
-    "college": "York College",
-    "date": "2026-05-05",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY May 6",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may6",
-    "college": "York College",
-    "date": "2026-05-06",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Marketing Info Session - May 6th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_marketing-info-session-mar-11th",
-    "college": "York College",
-    "date": "2026-05-06",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-05-06",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Test Anxiety: Tips and Tricks You Need Now!",
-    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/test-anxiety-tips-and-tricks-you-need-now",
-    "college": "York College",
-    "date": "2026-05-06",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Honors Event: Performing and Fine Arts",
-    "link": "https://www.york.cuny.edu/events/honors-event-performing-and-fine-arts",
-    "college": "York College",
-    "date": "2026-05-06",
-    "time": "11:00 PM - 1:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Rip The Runway Staff/Faculty Edition",
-    "link": "https://www.york.cuny.edu/events/rip-the-runway-staff-faculty-edition",
-    "college": "York College",
-    "date": "2026-05-07",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Economics Info Session May 7th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_economics-info-session-mar-12th",
-    "college": "York College",
-    "date": "2026-05-07",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE Celebration",
-    "link": "https://www.york.cuny.edu/events/asap-ace-celebration",
-    "college": "York College",
-    "date": "2026-05-07",
-    "time": "9:00 PM - 12:30 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY May 8",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may8",
-    "college": "York College",
-    "date": "2026-05-08",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Lavender, Veterans, and Accessibility Graduation Celebration",
-    "link": "https://www.york.cuny.edu/events/lavender-veterans-accessibility-graduation-celebration-1",
-    "college": "York College",
-    "date": "2026-05-08",
-    "time": "5:00 PM - 8:00 PM",
     "tags": []
   },
   {
