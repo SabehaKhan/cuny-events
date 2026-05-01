@@ -1,21 +1,21 @@
 [
   {
-    "title": "Decision Day: Secure Your Future",
-    "link": "https://www.mec.cuny.edu/event/decision-day-secure-your-future/",
-    "college": "Medgar Evers College",
-    "date": "2026-05-01",
-    "time": "09:00 AM - 04:30 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
     "title": "Transfer & Readmit Tuesdays",
     "link": "https://www.mec.cuny.edu/event/transfer-readmit-tuesdays/",
     "college": "Medgar Evers College",
     "date": "2026-05-05",
     "time": "02:00 PM - 06:00 PM",
     "tags": []
+  },
+  {
+    "title": "Imagine Yourself in Publishing: Voice, Stories, and Possibilities",
+    "link": "https://www.mec.cuny.edu/event/imagine-yourself-in-publishing-voice-stories-and-possibilities/",
+    "college": "Medgar Evers College",
+    "date": "2026-05-13",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": [
+      "English Department"
+    ]
   },
   {
     "title": "Graduation Portrait Night",
@@ -74,6 +74,16 @@
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2026-05-07",
     "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "NAHJ Fact Chequeado Event",
+    "link": "https://www.journalism.cuny.edu/events/nahj-fact-chequeado-event/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-11",
+    "time": "01:00 PM - 03:30 PM",
     "tags": [
       "Current Students"
     ]
@@ -645,30 +655,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-05-01/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-01",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Annual Law Society Networking Event",
-    "link": "https://www.laguardia.edu/event/annual-law-society-networking-event/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-01",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Exploring My Path: Career Opportunities in Languages, Culture and Society",
     "link": "https://www.laguardia.edu/event/exploring-my-path-career-opportunities-in-languages-culture-and-society/",
     "college": "LaGuardia Community College",
@@ -946,6 +932,29 @@
     ]
   },
   {
+    "title": "Jornada de Español (Spanish Info Day)",
+    "link": "https://www.laguardia.edu/event/jornada-de-espanol-spanish-info-day/",
+    "college": "LaGuardia Community College",
+    "date": "2026-05-11",
+    "time": "12:00 PM - 05:45 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Admissions Adult Learner One-on-One Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-adult-learner-one-on-one-information-session-10/",
+    "college": "LaGuardia Community College",
+    "date": "2026-05-11",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
     "title": "Movie Day: My Name is Khan",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377140",
     "college": "Guttman Community College",
@@ -999,6 +1008,19 @@
     ]
   },
   {
+    "title": "Humanities and Social Sciences Open House",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377216",
+    "college": "Guttman Community College",
+    "date": "2026-05-07",
+    "time": "05:15 PM - 06:45 PM",
+    "tags": [
+      "OAA",
+      "Academic",
+      "Food - Light Refreshments",
+      "Information Session"
+    ]
+  },
+  {
     "title": "Complete Your FAFSA & TAP Financial Aid Applications",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377211",
     "college": "Guttman Community College",
@@ -1009,6 +1031,19 @@
       "Office Hours",
       "Financial Aid",
       "FASFA & TAP Applications"
+    ]
+  },
+  {
+    "title": "Humanities and Social Sciences Book Talk",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377217",
+    "college": "Guttman Community College",
+    "date": "2026-05-07",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": [
+      "OAA",
+      "Academic",
+      "Food - Dinner",
+      "Information Session"
     ]
   },
   {
@@ -1223,36 +1258,6 @@
     ]
   },
   {
-    "title": "Undergraduate Spring 26 Concert at The Kaye Playhouse",
-    "link": "https://www.hunter.cuny.edu/event/undergraduate-spring-26-concert-program-at-the-kaye-playhouse/2026-05-01/1/",
-    "college": "Hunter College",
-    "date": "2026-05-01",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Chamber Music Workshop",
-    "link": "https://www.hunter.cuny.edu/event/chamber-music-workshop-4/",
-    "college": "Hunter College",
-    "date": "2026-05-01",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Bachelor of Science in Nursing Generic Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-10/",
-    "college": "Hunter College",
-    "date": "2026-05-01",
-    "time": "04:00 PM - 05:30 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
     "title": "Friday Night Free Tour of Whitney Biennial",
     "link": "https://www.hunter.cuny.edu/event/friday-night-free-tour-of-whitney-biennial/",
     "college": "Hunter College",
@@ -1358,6 +1363,16 @@
     "college": "Hunter College",
     "date": "2026-05-05",
     "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Final Fever – Caribbean Street Fair",
+    "link": "https://www.hunter.cuny.edu/event/final-fever-caribbean-street-fair/",
+    "college": "Hunter College",
+    "date": "2026-05-05",
+    "time": "12:00 PM - 04:00 PM",
     "tags": [
       "Student Events"
     ]
@@ -1517,22 +1532,23 @@
     ]
   },
   {
-    "title": "AI Innovation Challenge Showcase",
-    "link": "https://www.bmcc.cuny.edu/event/ai-innovation-challenge-showcase/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-01",
-    "time": "12:00 PM - 03:00 PM",
+    "title": "Hunter Chamber Singers & Honor’s Recital",
+    "link": "https://www.hunter.cuny.edu/event/hunter-chamber-singers-honors-recital/",
+    "college": "Hunter College",
+    "date": "2026-05-11",
+    "time": "04:00 PM - 06:00 PM",
     "tags": [
-      "Computer Information Systems",
-      "Evening-Weekend",
-      "Featured",
-      "Math",
-      "Science",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs"
+      "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
+    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7-3/",
+    "college": "Hunter College",
+    "date": "2026-05-11",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Open Houses"
     ]
   },
   {
@@ -1870,6 +1886,26 @@
       "Counseling Center",
       "Student Affairs",
       "Urban Male Leadership Academy (UMLA)"
+    ]
+  },
+  {
+    "title": "Join us to Celebrate AAPI Beyond BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/join-us-to-celebrate-aapi-beyond-bmcc/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-08",
+    "time": "01:00 PM - 03:30 PM",
+    "tags": [
+      "Asian and Pacific Islander Bridge Initiaitve",
+      "Asian Heritage Month",
+      "Center for Belonging and Inclusion",
+      "Center for Ethnic Studies",
+      "Ethnic and Race Studies",
+      "Evening-Weekend",
+      "Featured",
+      "Global Initiatives",
+      "Immigration Support",
+      "International Student Events/Workshops",
+      "Student Affairs"
     ]
   },
   {
@@ -2561,6 +2597,14 @@
     "tags": []
   },
   {
+    "title": "Viva El Cinco De Mayo 2026",
+    "link": "https://events.cuny.edu/cec/viva-el-cinco-de-mayo-2026/",
+    "college": "Queens College",
+    "date": "2026-05-03",
+    "time": "3:00 PM - 4:30 PM",
+    "tags": []
+  },
+  {
     "title": "Undergraduate Research Symposium",
     "link": "https://qc.event.cuny.edu/events/rYqVfy58wlqlnOYmvyA8/fSLaTS1pdugztSYiiyf1",
     "college": "Queens College",
@@ -3017,11 +3061,11 @@
     "tags": []
   },
   {
-    "title": "Causal Learning for Individual and Population Health in the Era of AI",
-    "link": "https://sph.cuny.edu/event/causal-learning-for-individual-and-population-health-in-the-era-of-ai/",
+    "title": "Reimagining School Food Systems: Policy Pathways to Reduce Ultra-Processed Foods and Expand Scratch Cooking",
+    "link": "https://sph.cuny.edu/event/reimagining-school-food-systems-policy-pathways-to-reduce-ultra-processed-foods-and-expand-scratch-cooking/",
     "college": "CUNY School of Public Health",
     "date": "2026-05-14",
-    "time": "4:00PM",
+    "time": "1:30PM",
     "tags": []
   },
   {
@@ -3150,6 +3194,22 @@
     "college": "Lehman College",
     "date": "2026-05-06",
     "time": "6:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Vogue Workshop with Jason A. Rodriguez",
+    "link": "https://www.lehman.edu/events/2026/Vogue-Workshop-with-Jason-A-Rodriguez.php",
+    "college": "Lehman College",
+    "date": "2026-05-07",
+    "time": "2:00 PM- 3:30 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Pride Picnic (Bronx Edition)",
+    "link": "https://www.lehman.edu/events/2026/CUNY-Pride-Picnic-Bronx-Edition--1.php",
+    "college": "Lehman College",
+    "date": "2026-05-07",
+    "time": "2:00 PM- 5:00 PM",
     "tags": []
   },
   {
