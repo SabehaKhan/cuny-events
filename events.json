@@ -1270,16 +1270,6 @@
     ]
   },
   {
-    "title": "Undergraduate Spring 26 Concert at The Kaye Playhouse",
-    "link": "https://www.hunter.cuny.edu/event/undergraduate-spring-26-concert-program-at-the-kaye-playhouse/2026-05-02/2/",
-    "college": "Hunter College",
-    "date": "2026-05-02",
-    "time": "07:30 PM - 08:30 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
     "title": "Inga Richter Seminar Series: Dr. Amy E. Shyer and Dr. Alan Rodrigues",
     "link": "https://www.hunter.cuny.edu/event/inga-richter-seminar-series-shyer-and-rodrigues/",
     "college": "Hunter College",
@@ -1550,6 +1540,18 @@
     "tags": [
       "Career Center",
       "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Dancing & Singing with the Dean",
+    "link": "https://www.hunter.cuny.edu/event/dancing-singing-with-the-dean/",
+    "college": "Hunter College",
+    "date": "2026-05-13",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Performing Arts & Film",
+      "Special Events",
       "Student Events"
     ]
   },
@@ -2477,62 +2479,6 @@
     ]
   },
   {
-    "title": "CSI Swap Volunteers",
-    "link": "https://events.cuny.edu/cec/csi-swap-volunteers/",
-    "college": "College of Staten Island",
-    "date": "2026-05-02",
-    "time": "9:00 AM - 4:00 PM",
-    "tags": [
-      "Sustainability"
-    ]
-  },
-  {
-    "title": "Rooted + Relational: Boricuas in Relation",
-    "link": "https://events.cuny.edu/cec/rooted-relational-boricuas-in-relation/",
-    "college": "Hunter College",
-    "date": "2026-05-02",
-    "time": "10:00 AM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "City Tech Spring Open House",
-    "link": "https://events.cuny.edu/cec/city-tech-spring-open-house/",
-    "college": "New York City College of Technology",
-    "date": "2026-05-02",
-    "time": "11:00 AM - 3:00 PM",
-    "tags": [
-      "Undergraduate Information Sessions"
-    ]
-  },
-  {
-    "title": "CSI SWAP",
-    "link": "https://events.cuny.edu/cec/csi-swap-4/",
-    "college": "College of Staten Island",
-    "date": "2026-05-02",
-    "time": "12:00 PM - 3:00 PM",
-    "tags": [
-      "Sustainability"
-    ]
-  },
-  {
-    "title": "Kizuna Dance",
-    "link": "https://events.cuny.edu/cec/kizuna-dance/",
-    "college": "The University",
-    "date": "2026-05-02",
-    "time": "7:00 PM",
-    "tags": [
-      "CUNY Dance Initiative"
-    ]
-  },
-  {
-    "title": "Louis Armstrong House Orchestra",
-    "link": "https://events.cuny.edu/cec/louis-armstrong-house-orchestra/",
-    "college": "Queens College",
-    "date": "2026-05-02",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Viva El Cinco De Mayo 2026",
     "link": "https://events.cuny.edu/cec/viva-el-cinco-de-mayo-2026/",
     "college": "Queens College",
@@ -2551,12 +2497,56 @@
     ]
   },
   {
-    "title": "College Now Program - Pre-College Offering",
-    "link": "https://qc.event.cuny.edu/events/zTR16RJNoCLYr66ZRnBm/v9IONAsK01IGWA61KTTG",
-    "college": "Queens College",
-    "date": "2026-05-02",
-    "time": "9:00AM",
+    "title": "Salzberg Chemistry Seminar: Detection of High Valent Intermediates in c-Type Hemes: Kinetics, Spectroscopy and Electronic Structure",
+    "link": "https://events.cuny.edu/cec/salzberg-chemistry-seminar-detection-of-high-valent-intermediates-in-c-type-hemes-kinetics-spectroscopy-and-electronic-structure/",
+    "college": "The City College of New York",
+    "date": "2026-05-04",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": [
+      "Salzberg Chemistry Seminar"
+    ]
+  },
+  {
+    "title": "Book Talk: Jon Meacham",
+    "link": "https://events.cuny.edu/cec/book-talk-jon-meacham/",
+    "college": "Hunter College",
+    "date": "2026-05-04",
+    "time": "6:00 PM",
     "tags": []
+  },
+  {
+    "title": "Green Job Fair",
+    "link": "https://events.cuny.edu/cec/green-job-fair-2/",
+    "college": "College of Staten Island",
+    "date": "2026-05-05",
+    "time": "2:30 PM - 4:00 PM",
+    "tags": [
+      "Sustainability"
+    ]
+  },
+  {
+    "title": "Undercover History of Staten Island Wiki Workshop",
+    "link": "https://events.cuny.edu/cec/undercover-history-of-staten-island-wiki-workshop/",
+    "college": "College of Staten Island",
+    "date": "2026-05-05",
+    "time": "2:30 PM - 4:30 PM",
+    "tags": [
+      "Library"
+    ]
+  },
+  {
+    "title": "Teaching with AI: Faculty Perspectives on Teaching Strategies and Student Engagement",
+    "link": "https://events.cuny.edu/cec/teaching-with-ai-faculty-perspectives-on-teaching-strategies-and-student-engagement/",
+    "college": "College of Staten Island",
+    "date": "2026-05-05",
+    "time": "2:30 PM - 4:00 PM",
+    "tags": [
+      "Economics",
+      "English",
+      "Media Culture",
+      "Physical Therapy",
+      "Social Work"
+    ]
   },
   {
     "title": "SuperCon",
@@ -2759,78 +2749,6 @@
     "tags": []
   },
   {
-    "title": "Open House",
-    "link": "https://citytech.event.cuny.edu/events/ShXzrnE6m8TYtY9hmRjp/EE2hKEQMNqbr8Wg1sqLv",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-02",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Rad Tech Infomation Session",
-    "link": "https://citytech.event.cuny.edu/events/q2EsIi8MvqvEb3FIcQWW/Kree8daLiJjheyGI8bWu",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-02",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "STEP spring 2026-  the Red Cross CPR seminar",
-    "link": "https://citytech.event.cuny.edu/events/w50YgM05U6ur0jnxlodL/jPI0NakNKlvNsf0tiWXG",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-02",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center ESOL Classes",
-    "link": "https://citytech.event.cuny.edu/events/WayqEPNc1l13EK7LPIRF/ShMG76zRZ0GMzy7AGXKm3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-02",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "STEP Program Spring 2026 Semester",
-    "link": "https://citytech.event.cuny.edu/events/MNrqM4jVc9FPh3LsKA8J/EW4LmYnBoVb4luhmYRKT9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-02",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "STEP Program Computer Lab for Students",
-    "link": "https://citytech.event.cuny.edu/events/dKCxDwAX6JYFb7iG6Tg7/WDEH25kxgX4cnYJLqgqA",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-02",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "Workshop Rooms",
-    "link": "https://citytech.event.cuny.edu/events/ZGoU6Ahx3UBvX3YmI1zb/VzpSW7yLrpQtNph60HA111",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-02",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "open house",
-    "link": "https://citytech.event.cuny.edu/events/tRbqmyQz5LBhHWvUFn7M/s3GdWEcKE5cpPXcbbZr8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-02",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Workshops",
-    "link": "https://citytech.event.cuny.edu/events/ncA2vjc0RZRaeXNmmDDE/NXCyG92gUwj3EbgosVje",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-02",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
     "title": "ARC Scholars Event",
     "link": "https://citytech.event.cuny.edu/events/zaIGs78oRL9ZLhWeWiFh/vitUQxFOimR7Je6MeTIP10",
     "college": "New York City College of Technology (City Tech)",
@@ -2844,6 +2762,126 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-05-04",
     "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "NYCCT Public Safety Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/oZrlbRHkgKoO9x5LAiJo/exFZENoLfxV0DYX5ANQS24",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-04",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Tabling",
+    "link": "https://citytech.event.cuny.edu/events/PNWLlpcKB8NNF2mUBW9n/x3oYaCaKGhVlTCTcgtAI4",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-04",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Department: SLD Ambassador Lounge Hours",
+    "link": "https://citytech.event.cuny.edu/events/GjOjJfMkz9v3fKEhCCbc/ZU2R7mgwcSyedaB6zZGg",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-04",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "SUPT 406 : 1.2 Building Systems and Equipment",
+    "link": "https://citytech.event.cuny.edu/events/NDlZNpefOnEotVDbw2Cb/Pjc03vHe17dI6XAuYC3v29",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-04",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "B&G Retirement party",
+    "link": "https://citytech.event.cuny.edu/events/VAPNawwQQ6quUDZI6ebu/vbJsvOeDysOA2MB3kzmW",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-05",
+    "time": "12:00AM",
+    "tags": []
+  },
+  {
+    "title": "US Marines Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/T2IBrYpMVYAz7O5iwfFX/NcNWswHIu1KCkbZn7M3B17",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-05",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Rad Tech Pinning Rehearsal",
+    "link": "https://citytech.event.cuny.edu/events/n9hjaWiHWlp9ELxQqhv3/GRVhGvKJ2wXTA5NwlpFw",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-05",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "Spring 2026 SLD Peer Navigator Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/QBEA74FLcShoEMc1VwK4/OrjK1smL4fI4172fXb2d",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-05",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "DC37 Local384 Union Mtg",
+    "link": "https://citytech.event.cuny.edu/events/rJa88Hg9JheTEWdhg3zB/Ts0LY6LG8f0j2RMEJmeQ",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-05",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Brewed by the Board",
+    "link": "https://citytech.event.cuny.edu/events/ed8B1qdjWKiettGAxc8Z/sUZ1MkDwG2SUTkgcT0KQ",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-05",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Tabling",
+    "link": "https://citytech.event.cuny.edu/events/cviF5RRw9KaOU8vIMoTk/zSigj8xLu2ypiohNCOmR13",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-05",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Cinco de Mayo: History, Culture & Research Workshop",
+    "link": "https://citytech.event.cuny.edu/events/bPbazpOwXJqxstll6tmV/bFyVi4k7jlCJOQgmjeNP",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-05",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Scholarly Publishing Clinic",
+    "link": "https://citytech.event.cuny.edu/events/kUjobvzeEd2lzIzAtRfc/YTsgijGMOC7vRLTgpG5n",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-05",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "City Tech Spring 2026 General Tour (05/05/2026)",
+    "link": "https://citytech.event.cuny.edu/events/up08QKlddDA7Td7kD0HQ/k5X98cM2EwqbX57HjCSF",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-05",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "HSEN & W2: High School Equivalency",
+    "link": "https://citytech.event.cuny.edu/events/OTCfqsR4n1PtWGiYBPcj/OJkFW5vT1kpN1YrnetFS7",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-05",
+    "time": "6:00PM",
     "tags": []
   },
   {
@@ -3180,6 +3218,126 @@
     "college": "Macaulay Honors College",
     "date": "2026-05-13",
     "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "Aviation Management Info Session - May 4th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_aviation-management-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-05-04",
+    "time": "2:00 PM - 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "HRM Info Session May 4th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_hrm-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-05-04",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Personal Statement Workshop",
+    "link": "https://www.york.cuny.edu/events/personal-statement-workshop",
+    "college": "York College",
+    "date": "2026-05-05",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Faculty Caucus - 5/5/2026",
+    "link": "https://www.york.cuny.edu/events/2025/faculty-caucus-5",
+    "college": "York College",
+    "date": "2026-05-05",
+    "time": "4:10 PM - 5:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Cardinal Soar Celebration",
+    "link": "https://www.york.cuny.edu/advisement/events/2026_cardinal-soar",
+    "college": "York College",
+    "date": "2026-05-05",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY May 6",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may6",
+    "college": "York College",
+    "date": "2026-05-06",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Marketing Info Session - May 6th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_marketing-info-session-mar-11th",
+    "college": "York College",
+    "date": "2026-05-06",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-05-06",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Test Anxiety: Tips and Tricks You Need Now!",
+    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/test-anxiety-tips-and-tricks-you-need-now",
+    "college": "York College",
+    "date": "2026-05-06",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Event: Performing and Fine Arts",
+    "link": "https://www.york.cuny.edu/events/honors-event-performing-and-fine-arts",
+    "college": "York College",
+    "date": "2026-05-06",
+    "time": "11:00 PM - 1:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Rip The Runway Staff/Faculty Edition",
+    "link": "https://www.york.cuny.edu/events/rip-the-runway-staff-faculty-edition",
+    "college": "York College",
+    "date": "2026-05-07",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Economics Info Session May 7th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_economics-info-session-mar-12th",
+    "college": "York College",
+    "date": "2026-05-07",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Alpha Phi Alpha Fraternity Inc. Awareness Seminar",
+    "link": "https://www.york.cuny.edu/events/alpha-phi-alpha-fraternity-inc-awareness-seminar",
+    "college": "York College",
+    "date": "2026-05-07",
+    "time": "11:00 PM - 1:00 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY May 8",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may8",
+    "college": "York College",
+    "date": "2026-05-08",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Lavender, Veterans, and Accessibility Graduation Celebration",
+    "link": "https://www.york.cuny.edu/events/lavender-veterans-accessibility-graduation-celebration-1",
+    "college": "York College",
+    "date": "2026-05-08",
+    "time": "5:00 PM - 8:00 PM",
     "tags": []
   },
   {
