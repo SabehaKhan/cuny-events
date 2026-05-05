@@ -629,17 +629,6 @@
     "tags": []
   },
   {
-    "title": "Brightspace: Scaffolding for Success",
-    "link": "https://www.laguardia.edu/event/brightspace-scaffolding-for-success/2026-05-05/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-05",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "Faculty and Staff"
-    ]
-  },
-  {
     "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-106/",
     "college": "LaGuardia Community College",
@@ -947,6 +936,17 @@
     "tags": [
       "all calendars",
       "student events"
+    ]
+  },
+  {
+    "title": "Designing Dynamic Discussions",
+    "link": "https://www.laguardia.edu/event/designing-dynamic-discussions/2026-05-12/",
+    "college": "LaGuardia Community College",
+    "date": "2026-05-12",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff"
     ]
   },
   {
@@ -1267,26 +1267,6 @@
     ]
   },
   {
-    "title": "Wellness & Study Skills Workshop",
-    "link": "https://www.hunter.cuny.edu/event/wellness-study-skills-workshop/2026-05-05/",
-    "college": "Hunter College",
-    "date": "2026-05-05",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Study Hours for Transfers",
-    "link": "https://www.hunter.cuny.edu/event/study-hours-for-transfers/2026-05-05/",
-    "college": "Hunter College",
-    "date": "2026-05-05",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Final Fever – Caribbean Street Fair",
     "link": "https://www.hunter.cuny.edu/event/final-fever-caribbean-street-fair/",
     "college": "Hunter College",
@@ -1555,36 +1535,25 @@
     ]
   },
   {
-    "title": "Join us for Weekly Yoga Class",
-    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-05",
-    "time": "11:00 AM - 11:45 AM",
+    "title": "Singing with the Dean",
+    "link": "https://www.hunter.cuny.edu/event/dancing-singing-with-the-dean-10/",
+    "college": "Hunter College",
+    "date": "2026-05-13",
+    "time": "02:30 PM - 03:30 PM",
     "tags": [
-      "Counseling Center",
-      "Student Affairs"
+      "Performing Arts & Film",
+      "Special Events",
+      "Student Events"
     ]
   },
   {
-    "title": "Stop by our FAFSA (Free Application for Federal Student Aid) On-the-Spot Event",
-    "link": "https://www.bmcc.cuny.edu/event/stop-by-our-fafsa-free-application-for-federal-student-aid-on-the-spot-event/2026-05-05/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-05",
-    "time": "11:00 AM - 02:00 PM",
+    "title": "Undergraduate Nutrition Program Information Sessions (NFS and NW) Spring 2026",
+    "link": "https://www.hunter.cuny.edu/event/undergraduate-nutrition-program-information-sessions-nfs-and-nw-spring-2026-4/",
+    "college": "Hunter College",
+    "date": "2026-05-13",
+    "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "Featured",
-      "Financial Aid Office"
-    ]
-  },
-  {
-    "title": "Essential Job Search Strategies for Success",
-    "link": "https://www.bmcc.cuny.edu/event/essential-job-search-strategies-for-success-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-05",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development"
+      "Open Houses"
     ]
   },
   {
@@ -1887,6 +1856,52 @@
     ]
   },
   {
+    "title": "Spring 2026 De-Stressfest: Let's Crochet",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2026-de-stressfest-lets-crochet/2026-05-08/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-08",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Library",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Join us to Celebrate AAPI Beyond BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/join-us-to-celebrate-aapi-beyond-bmcc/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-08",
+    "time": "01:00 PM - 03:30 PM",
+    "tags": [
+      "Asian and Pacific Islander Bridge Initiaitve",
+      "Asian Heritage Month",
+      "Center for Belonging and Inclusion",
+      "Center for Ethnic Studies",
+      "Ethnic and Race Studies",
+      "Evening-Weekend",
+      "Featured",
+      "Global Initiatives",
+      "Immigration Support",
+      "International Student Events/Workshops",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Spring 2026 De-Stressfest: Chair Massage",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2026-de-stressfest-chair-massage/2026-05-09/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-09",
+    "time": "01:00 PM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "De-Stress Fest",
+      "Evening-Weekend",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Zoom into Majors: Digital Design",
     "link": "https://www.bcc.cuny.edu/event/zoom-into-majors-digital-design/",
     "college": "Bronx Community College",
@@ -1983,31 +1998,6 @@
       "Feature",
       "Office of the Registrar",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "Student Service Commission",
-    "link": "https://csi.campuslabs.com/engage/event/12155876",
-    "college": "College of Staten Island",
-    "date": "2026-05-05",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "CommunityService"
-    ]
-  },
-  {
-    "title": "LGBTQ+ Support Group",
-    "link": "https://csi.campuslabs.com/engage/event/12147450",
-    "college": "College of Staten Island",
-    "date": "2026-05-05",
-    "time": "04:30 PM - 05:30 PM",
-    "tags": [
-      "Social",
-      "Social Justice\\",
-      "Diversity\\",
-      "Equity and Inclusion",
-      "Willowbrook Campus",
-      "Students Only"
     ]
   },
   {
@@ -2500,6 +2490,30 @@
     "tags": []
   },
   {
+    "title": "Stop by our FAFSA (Free Application for Federal Student Aid) On-the-Spot Event",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10006665",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-05",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Join us for Weekly Yoga Class",
+    "link": "https://www.bmcc.cuny.edu/event/?p=675074",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-05",
+    "time": "11:00 AM - 11:45 AM",
+    "tags": []
+  },
+  {
+    "title": "Essential Job Search Strategies for Success",
+    "link": "https://www.bmcc.cuny.edu/event/?p=667400",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-05",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
     "title": "QSI Senior Seminar",
     "link": "https://qc.event.cuny.edu/events/UaIKLWJivJFxqordLexB/AkdodSg3KETanvuhPDom",
     "college": "Queens College",
@@ -2582,14 +2596,6 @@
   {
     "title": "Drawing Session",
     "link": "https://qc.event.cuny.edu/events/n2v8JXjJ7wpZg607vBbz/f4e7KEvI4Zb8tSMrZExg",
-    "college": "Queens College",
-    "date": "2026-05-06",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Field Day with Chi Alpha and Queens Hillel",
-    "link": "https://qc.event.cuny.edu/events/HghAFRMDfB9Bxshi1MIE/ofeBd3tl770CRb5wS7AP",
     "college": "Queens College",
     "date": "2026-05-06",
     "time": "12:00PM",
@@ -3036,19 +3042,19 @@
     "tags": []
   },
   {
+    "title": "Sigma Xi Poster Presentation and Lecture",
+    "link": "https://www.lehman.edu/events/2026/Sigma-Xi-Poster-Presentation-and-Lecture-1.php",
+    "college": "Lehman College",
+    "date": "2026-05-07",
+    "time": "3:00 PM- 6:00 PM",
+    "tags": []
+  },
+  {
     "title": "Health Equity Summit 2026",
     "link": "https://www.lehman.edu/events/2026/Health-Equity-Summit-2026.php",
     "college": "Lehman College",
     "date": "2026-05-08",
     "time": "8:00 AM- 2:30 PM",
-    "tags": []
-  },
-  {
-    "title": "La India",
-    "link": "https://www.lehman.edu/events/2025/La-India.php",
-    "college": "Lehman College",
-    "date": "2026-05-09",
-    "time": "8:00 PM- 11:00 PM",
     "tags": []
   },
   {
@@ -3148,14 +3154,6 @@
     "tags": []
   },
   {
-    "title": "Cardinal Soar Celebration",
-    "link": "https://www.york.cuny.edu/advisement/events/2026_cardinal-soar",
-    "college": "York College",
-    "date": "2026-05-05",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "V-READY May 6",
     "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may6",
     "college": "York College",
@@ -3249,6 +3247,14 @@
     "college": "York College",
     "date": "2026-05-08",
     "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "HRM Info Session May 11th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy9_of_hrm-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-05-11",
+    "time": "4:00 PM - 5:00 PM",
     "tags": []
   },
   {
