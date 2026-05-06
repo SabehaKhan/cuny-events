@@ -43,6 +43,96 @@
     ]
   },
   {
+    "title": "Queer History Workshop with NLGJA",
+    "link": "https://www.journalism.cuny.edu/events/queer-history-workshop-with-nlgja/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-07",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "NAHJ Fact Chequeado Event",
+    "link": "https://www.journalism.cuny.edu/events/nahj-fact-chequeado-event/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-11",
+    "time": "01:00 PM - 03:30 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "Reporter 'Roke Night",
+    "link": "https://www.journalism.cuny.edu/events/reporter-roke-night/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-11",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Good Dog Foundation Therapy Dogs De-Stressor",
+    "link": "https://www.journalism.cuny.edu/events/good-dog-foundation-therapy-dogs-de-stressor/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-12",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "Photo Club Headshots",
+    "link": "https://www.journalism.cuny.edu/events/photo-club-headshots/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-13",
+    "time": "12:30 PM - 03:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "Homecoming 2026",
+    "link": "https://www.journalism.cuny.edu/events/homecoming-2026/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-16",
+    "time": "02:00 PM - 07:00 PM",
+    "tags": [
+      "Alumni"
+    ]
+  },
+  {
+    "title": "Spring Safety Workshop",
+    "link": "https://www.journalism.cuny.edu/events/spring-safety-workshop/2026-05-18/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-18",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": [
+      "Current Students",
+      "Journalism Protection Initiative"
+    ]
+  },
+  {
+    "title": "Spring Safety Workshop",
+    "link": "https://www.journalism.cuny.edu/events/spring-safety-workshop/2026-05-19/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-19",
+    "time": "12:30 PM - 02:30 PM",
+    "tags": [
+      "Current Students",
+      "Journalism Protection Initiative"
+    ]
+  },
+  {
+    "title": "SPJ Meet and Greet",
+    "link": "https://www.journalism.cuny.edu/events/spj-meet-and-greet/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-20",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
     "title": "61st Commencement for the Class of 2026!",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/5706f580-760f-4bc9-a8e8-8637223a5654",
     "college": "Kingsborough Community College",
@@ -541,6 +631,20 @@
     ]
   },
   {
+    "title": "LPAC Community Choir",
+    "link": "https://www.laguardia.edu/event/lpac-community-choir/",
+    "college": "LaGuardia Community College",
+    "date": "2026-05-06",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Faculty and Staff",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "Mindfulness Meditation Wednesdays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-2/2026-05-06/",
     "college": "LaGuardia Community College",
@@ -826,17 +930,6 @@
     "tags": [
       "all calendars",
       "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Career Expo Prep Pop-Up Events",
-    "link": "https://www.laguardia.edu/event/career-expo-prep-pop-up-events/2026-05-13/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-13",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "all calendars",
       "student events"
     ]
   },
@@ -1130,6 +1223,16 @@
     ]
   },
   {
+    "title": "BMI Origami Workshop",
+    "link": "https://www.hunter.cuny.edu/event/origami-workshop-may-6-2026/",
+    "college": "Hunter College",
+    "date": "2026-05-06",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Conferences & Workshops"
+    ]
+  },
+  {
     "title": "Singing with the Dean",
     "link": "https://www.hunter.cuny.edu/event/dancing-singing-with-the-dean-9/",
     "college": "Hunter College",
@@ -1413,13 +1516,12 @@
   },
   {
     "title": "Take a Tour of BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-2/2026-05-06/",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-2-2/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-05-06",
     "time": "11:00 AM - 11:00 AM",
     "tags": [
-      "Admissions",
-      "Featured"
+      "Admissions"
     ]
   },
   {
@@ -1438,14 +1540,13 @@
   },
   {
     "title": "Lehman College Pre-transfer Advisement",
-    "link": "https://www.bmcc.cuny.edu/event/lehman-college-pre-transfer-advisement/2026-05-06/",
+    "link": "https://www.bmcc.cuny.edu/event/lehman-college-pre-transfer-advisement-5/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-05-06",
     "time": "11:00 AM - 05:00 PM",
     "tags": [
       "Academic Advisement & Transfer",
-      "Continuing Education",
-      "Featured"
+      "Continuing Education"
     ]
   },
   {
@@ -1480,7 +1581,6 @@
     "date": "2026-05-06",
     "time": "02:00 PM - 03:00 PM",
     "tags": [
-      "Featured",
       "Internships & Experiential Learning"
     ]
   },
@@ -1549,6 +1649,23 @@
       "Featured",
       "Global Initiatives",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "Women’s Herstory Month: \"Zheng Yi Sao: Pirate Queen\" a Shadow Puppet Show",
+    "link": "https://www.bmcc.cuny.edu/event/womens-herstory-month-zheng-yi-sao-pirate-queen-a-shadow-puppet-show/2026-05-06/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-06",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "Asian Heritage Month",
+      "Co-Curricular Transcript",
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured",
+      "Student Affairs",
+      "Theatre",
+      "Women's HerStory Month"
     ]
   },
   {
@@ -1727,6 +1844,51 @@
     ]
   },
   {
+    "title": "Join us for Weekly Yoga Class",
+    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2/2026-05-12/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-12",
+    "time": "11:00 AM - 11:45 AM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Inaugural Presidential Distinguished Speaker Series: President Anthony E. Munroe in Conversation with Nikole Hannah-Jones",
+    "link": "https://www.bmcc.cuny.edu/event/afrikan-heritage-month-campus-conversation-with-nikole-hannah-jones/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-12",
+    "time": "01:00 PM - 02:30 PM",
+    "tags": [
+      "Center for Ethnic Studies",
+      "Co-Curricular Transcript",
+      "Communication Studies",
+      "Conexiones",
+      "English",
+      "Ethnic and Race Studies",
+      "Featured",
+      "Human Services and Criminal Justice",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Student Affairs",
+      "Urban Male Leadership Academy (UMLA)"
+    ]
+  },
+  {
+    "title": "NY State Reconnect: Learn About this Free Community College Program",
+    "link": "https://www.bmcc.cuny.edu/event/ny-state-reconnect-learn-about-this-free-community-college-program-2-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-12",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Admissions",
+      "Evening-Weekend",
+      "Featured"
+    ]
+  },
+  {
     "title": "Zoom into Majors: Digital Design",
     "link": "https://www.bcc.cuny.edu/event/zoom-into-majors-digital-design/",
     "college": "Bronx Community College",
@@ -1826,6 +1988,14 @@
     ]
   },
   {
+    "title": "Lavender Graduation",
+    "link": "https://www.bcc.cuny.edu/event/lavender-graduation/",
+    "college": "Bronx Community College",
+    "date": "2026-05-21",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "Weekly Tea Time!",
     "link": "https://csi.campuslabs.com/engage/event/11946152",
     "college": "College of Staten Island",
@@ -1857,6 +2027,16 @@
       "Learning",
       "CC CLUE",
       "Career Development"
+    ]
+  },
+  {
+    "title": "International Students Club Election Day",
+    "link": "https://csi.campuslabs.com/engage/event/12462212",
+    "college": "College of Staten Island",
+    "date": "2026-05-07",
+    "time": "06:30 PM - 07:30 PM",
+    "tags": [
+      "Social"
     ]
   },
   {
@@ -2230,6 +2410,14 @@
     "tags": []
   },
   {
+    "title": "Field Day with Chi Alpha and Queens Hillel",
+    "link": "https://qc.event.cuny.edu/events/HghAFRMDfB9Bxshi1MIE/sTZnFMAJtQi0sDlAbtTP",
+    "college": "Queens College",
+    "date": "2026-05-06",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
     "title": "JLF Lifes Big Questions",
     "link": "https://qc.event.cuny.edu/events/f0uSllPq188aGoWQOOhM/W9PFlIk8eFZeo3xwImiu",
     "college": "Queens College",
@@ -2288,14 +2476,6 @@
   {
     "title": "TD Bank Info Session",
     "link": "https://qc.event.cuny.edu/events/JPnHzEjIuUGjQpC4FkkT/hhMGoYQFReMsRUPIq2ct",
-    "college": "Queens College",
-    "date": "2026-05-06",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Econ Dept. Seminar Series",
-    "link": "https://qc.event.cuny.edu/events/IzaKK0XX6xijmZaDDqJv/kCFCcV1PrUOZcWF2Tmjt",
     "college": "Queens College",
     "date": "2026-05-06",
     "time": "12:15PM",
@@ -2819,6 +2999,134 @@
     "college": "Macaulay Honors College",
     "date": "2026-05-27",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY May 6",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may6",
+    "college": "York College",
+    "date": "2026-05-06",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Marketing Info Session - May 6th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_marketing-info-session-mar-11th",
+    "college": "York College",
+    "date": "2026-05-06",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Test Anxiety: Tips and Tricks You Need Now!",
+    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/test-anxiety-tips-and-tricks-you-need-now",
+    "college": "York College",
+    "date": "2026-05-06",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Event: Performing and Fine Arts",
+    "link": "https://www.york.cuny.edu/events/honors-event-performing-and-fine-arts",
+    "college": "York College",
+    "date": "2026-05-06",
+    "time": "11:00 PM - 1:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Rip The Runway Staff/Faculty Edition",
+    "link": "https://www.york.cuny.edu/events/rip-the-runway-staff-faculty-edition",
+    "college": "York College",
+    "date": "2026-05-07",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Economics Info Session May 7th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy8_of_economics-info-session-mar-12th",
+    "college": "York College",
+    "date": "2026-05-07",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Alpha Phi Alpha Fraternity Inc. Awareness Seminar",
+    "link": "https://www.york.cuny.edu/events/alpha-phi-alpha-fraternity-inc-awareness-seminar",
+    "college": "York College",
+    "date": "2026-05-07",
+    "time": "11:00 PM - 1:00 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY May 8",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may8",
+    "college": "York College",
+    "date": "2026-05-08",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-05-08",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Lavender, Veterans, and Accessibility Graduation Celebration",
+    "link": "https://www.york.cuny.edu/events/lavender-veterans-accessibility-graduation-celebration-1",
+    "college": "York College",
+    "date": "2026-05-08",
+    "time": "5:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Lavender Graduation Celebration Luncheon",
+    "link": "https://www.york.cuny.edu/womens-center/lavendar-graduation-celebration-luncheon-updated",
+    "college": "York College",
+    "date": "2026-05-08",
+    "time": "5:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "MOMinar 2026 Panel: Mothers Who Learn, Lead and Lift",
+    "link": "https://www.york.cuny.edu/womens-center/calendar-of-events/mominar-2026-panel-mothers-who-learn-lead-lift-1",
+    "college": "York College",
+    "date": "2026-05-08",
+    "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "HRM Info Session May 11th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy9_of_hrm-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-05-11",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "ISM Info Session - May 11th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy2_of_ism-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-05-11",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Event: English",
+    "link": "https://www.york.cuny.edu/events/honors-event-english",
+    "college": "York College",
+    "date": "2026-05-11",
+    "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Hack and Snack: Cybersecurity Game Day Social",
+    "link": "https://www.york.cuny.edu/events/hack-snack-cybersecurity-game-day-social",
+    "college": "York College",
+    "date": "2026-05-12",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
