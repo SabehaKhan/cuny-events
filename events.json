@@ -32,16 +32,6 @@
     ]
   },
   {
-    "title": "Queer History Workshop with NLGJA",
-    "link": "https://www.journalism.cuny.edu/events/queer-history-workshop-with-nlgja/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-05-07",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Current Students"
-    ]
-  },
-  {
     "title": "NAHJ Fact Chequeado Event",
     "link": "https://www.journalism.cuny.edu/events/nahj-fact-chequeado-event/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -268,7 +258,7 @@
     "tags": []
   },
   {
-    "title": "Leadership Summit",
+    "title": "Leadership Summit: Champions Rising – Leading with Resilience & Intention",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/53a978d9-3b62-4792-bfbb-6728a46b2146",
     "college": "Kingsborough Community College",
     "date": "2026-05-14",
@@ -305,14 +295,6 @@
     "college": "Kingsborough Community College",
     "date": "2026-05-21",
     "time": "06:00 PM - 09:00 PM",
-    "tags": []
-  },
-  {
-    "title": "2026 Graduation Ball",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/0d3dad9c-2061-45af-b3aa-7037ab08f992",
-    "college": "Kingsborough Community College",
-    "date": "2026-05-28",
-    "time": "10:00 PM - 02:00 AM",
     "tags": []
   },
   {
@@ -524,40 +506,6 @@
     "tags": []
   },
   {
-    "title": "Can Unions Save Immigrants?",
-    "link": "https://www.laguardia.edu/event/can-unions-save-immigrants/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-07",
-    "time": "10:00 AM - 11:30 AM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-2/2026-05-07/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-07",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Designing Dynamic Discussions",
-    "link": "https://www.laguardia.edu/event/designing-dynamic-discussions/2026-05-07/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-07",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "Faculty and Staff"
-    ]
-  },
-  {
     "title": "Career Studio: Career Unlocked - Meet the Professionals",
     "link": "https://www.laguardia.edu/event/career-studio-career-unlocked-meet-the-professionals/",
     "college": "LaGuardia Community College",
@@ -732,6 +680,18 @@
     ]
   },
   {
+    "title": "Mother’s Day Brunch with SGA",
+    "link": "https://www.laguardia.edu/event/mothers-day-brunch-with-sga/",
+    "college": "LaGuardia Community College",
+    "date": "2026-05-12",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "Designing Dynamic Discussions",
     "link": "https://www.laguardia.edu/event/designing-dynamic-discussions/2026-05-12/",
     "college": "LaGuardia Community College",
@@ -840,6 +800,18 @@
     "college": "LaGuardia Community College",
     "date": "2026-05-13",
     "time": "02:00 PM - 04:30 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Table Tennis Tournament",
+    "link": "https://www.laguardia.edu/event/table-tennis-tournament/",
+    "college": "LaGuardia Community College",
+    "date": "2026-05-13",
+    "time": "02:15 PM - 03:45 PM",
     "tags": [
       "all calendars",
       "Featured",
@@ -2684,19 +2656,19 @@
     "tags": []
   },
   {
-    "title": "Vogue Workshop with Jason A. Rodriguez",
-    "link": "https://www.lehman.edu/events/2026/Vogue-Workshop-with-Jason-A-Rodriguez.php",
-    "college": "Lehman College",
-    "date": "2026-05-07",
-    "time": "2:00 PM- 3:30 PM",
-    "tags": []
-  },
-  {
     "title": "CUNY Pride Picnic (Bronx Edition)",
     "link": "https://www.lehman.edu/events/2026/CUNY-Pride-Picnic-Bronx-Edition--1.php",
     "college": "Lehman College",
     "date": "2026-05-07",
     "time": "2:00 PM- 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Vogue Workshop with Jason A. Rodriguez",
+    "link": "https://www.lehman.edu/events/2026/Vogue-Workshop-with-Jason-A-Rodriguez.php",
+    "college": "Lehman College",
+    "date": "2026-05-07",
+    "time": "2:00 PM- 3:30 PM",
     "tags": []
   },
   {
