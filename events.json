@@ -959,6 +959,18 @@
     ]
   },
   {
+    "title": "Department of Civil Services information session",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377224",
+    "college": "Guttman Community College",
+    "date": "2026-05-22",
+    "time": "04:00 PM - 06:00 PM",
+    "tags": [
+      "EMSA",
+      "Career Workshop",
+      "Information Session"
+    ]
+  },
+  {
     "title": "Career Fair Unlocked",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377182",
     "college": "Guttman Community College",
@@ -1058,44 +1070,6 @@
       "Social - Off-Campus",
       "Student Life",
       "Trip - Day"
-    ]
-  },
-  {
-    "title": "Wellness & Study Skills Workshop",
-    "link": "https://www.hunter.cuny.edu/event/wellness-study-skills-workshop/2026-05-08/",
-    "college": "Hunter College",
-    "date": "2026-05-08",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Study Hours for Transfers",
-    "link": "https://www.hunter.cuny.edu/event/study-hours-for-transfers/2026-05-08/",
-    "college": "Hunter College",
-    "date": "2026-05-08",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Annual Psychology Research Conference",
-    "link": "https://www.hunter.cuny.edu/event/annual-psychology-research-conference/",
-    "college": "Hunter College",
-    "date": "2026-05-08",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "How Do We Live in Turbulent Times? A Conversation with Writer Gigi L. Leung",
-    "link": "https://www.hunter.cuny.edu/event/how-do-we-live-in-turbulent-times-a-conversation-with-writer-gigi-l-leung/",
-    "college": "Hunter College",
-    "date": "2026-05-08",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Lectures"
     ]
   },
   {
@@ -1338,17 +1312,42 @@
     "tags": []
   },
   {
-    "title": "Spring 2026 De-Stressfest: Let's Crochet",
-    "link": "https://www.bmcc.cuny.edu/event/spring-2026-de-stressfest-lets-crochet/2026-05-08/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-08",
-    "time": "11:00 AM - 02:00 PM",
+    "title": "Arts Outing: El Último Sueño de Frida y Diego at the Met Opera",
+    "link": "https://www.hunter.cuny.edu/event/arts-outing-el-ultimo-sueno-de-frida-y-diego-at-the-met-opera/",
+    "college": "Hunter College",
+    "date": "2026-05-26",
+    "time": "08:00 PM - 10:00 PM",
     "tags": [
-      "Counseling Center",
-      "Featured",
-      "Library",
-      "Student Affairs"
+      "Performing Arts & Film"
     ]
+  },
+  {
+    "title": "Bachelor of Science in Nursing Generic Program Information Session",
+    "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-11/",
+    "college": "Hunter College",
+    "date": "2026-05-29",
+    "time": "04:00 PM - 05:30 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
+    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7-2/2026-06-09/",
+    "college": "Hunter College",
+    "date": "2026-06-09",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "A Sea of Islands: U.S. Territories in Relation",
+    "link": "https://www.hunter.cuny.edu/event/a-sea-of-islands-u-s-territories-in-relation/",
+    "college": "Hunter College",
+    "date": "2026-06-10",
+    "time": "10:00 AM - 08:30 PM",
+    "tags": []
   },
   {
     "title": "Join us to Celebrate AAPI Beyond BMCC",
@@ -1407,17 +1406,6 @@
       "Featured",
       "Music & Art",
       "Student Affairs"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-2/2026-05-12/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-12",
-    "time": "10:00 AM - 10:00 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
     ]
   },
   {
@@ -1496,6 +1484,19 @@
     "tags": [
       "Counseling Center",
       "De-Stress Fest",
+      "Featured",
+      "Library",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Spring 2026 De-Stressfest: Let's Crochet",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2026-de-stressfest-lets-crochet/2026-05-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-14",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "Counseling Center",
       "Featured",
       "Library",
       "Student Affairs"
@@ -2585,14 +2586,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-06-02",
     "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY May 8",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may8",
-    "college": "York College",
-    "date": "2026-05-08",
-    "time": "1:30 PM - 6:00 PM",
     "tags": []
   },
   {
