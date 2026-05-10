@@ -32,6 +32,106 @@
     ]
   },
   {
+    "title": "NAHJ Fact Chequeado Event",
+    "link": "https://www.journalism.cuny.edu/events/nahj-fact-chequeado-event/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-11",
+    "time": "01:00 PM - 03:30 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "Reporter 'Roke Night",
+    "link": "https://www.journalism.cuny.edu/events/reporter-roke-night/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-11",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Good Dog Foundation Therapy Dogs De-Stressor",
+    "link": "https://www.journalism.cuny.edu/events/good-dog-foundation-therapy-dogs-de-stressor/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-12",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "Photo Club Headshots",
+    "link": "https://www.journalism.cuny.edu/events/photo-club-headshots/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-13",
+    "time": "12:30 PM - 03:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "Lunch talk on Disinformation, AI, & Journalism",
+    "link": "https://www.journalism.cuny.edu/events/lunch-talk-on-disinformation-ai-journalism/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-13",
+    "time": "01:00 PM - 02:30 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "Homecoming 2026",
+    "link": "https://www.journalism.cuny.edu/events/homecoming-2026/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-16",
+    "time": "02:00 PM - 07:00 PM",
+    "tags": [
+      "Alumni"
+    ]
+  },
+  {
+    "title": "Spring Safety Workshop",
+    "link": "https://www.journalism.cuny.edu/events/spring-safety-workshop/2026-05-18/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-18",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": [
+      "Current Students",
+      "Journalism Protection Initiative"
+    ]
+  },
+  {
+    "title": "Spring Safety Workshop",
+    "link": "https://www.journalism.cuny.edu/events/spring-safety-workshop/2026-05-19/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-19",
+    "time": "12:30 PM - 02:30 PM",
+    "tags": [
+      "Current Students",
+      "Journalism Protection Initiative"
+    ]
+  },
+  {
+    "title": "AI Journalism Lab: Leaders Showcase",
+    "link": "https://www.journalism.cuny.edu/events/ai-journalism-lab-leaders-showcase/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-20",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "J+"
+    ]
+  },
+  {
+    "title": "SPJ Meet and Greet",
+    "link": "https://www.journalism.cuny.edu/events/spj-meet-and-greet/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-05-20",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
     "title": "61st Commencement for the Class of 2026!",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/5706f580-760f-4bc9-a8e8-8637223a5654",
     "college": "Kingsborough Community College",
@@ -1241,19 +1341,6 @@
     ]
   },
   {
-    "title": "Spring 2026 De-Stressfest: Chair Massage",
-    "link": "https://www.bmcc.cuny.edu/event/spring-2026-de-stressfest-chair-massage/2026-05-09/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-09",
-    "time": "01:00 PM - 05:00 PM",
-    "tags": [
-      "Counseling Center",
-      "De-Stress Fest",
-      "Evening-Weekend",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Sign up for SafeZone 101 Training",
     "link": "https://www.bmcc.cuny.edu/event/sign-up-for-safezone-101-training-3/2026-05-11/",
     "college": "Borough of Manhattan Community College",
@@ -1264,6 +1351,17 @@
       "Featured",
       "Pride Center",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-3-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-11",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -1286,19 +1384,30 @@
     "date": "2026-05-12",
     "time": "10:00 AM - 11:15 AM",
     "tags": [
-      "Admissions",
-      "Featured"
+      "Admissions"
     ]
   },
   {
     "title": "Join us for Weekly Yoga Class",
-    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2/2026-05-12/",
+    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2-5/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-05-12",
     "time": "11:00 AM - 11:45 AM",
     "tags": [
       "Counseling Center",
-      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Spring 2026 De-Stressfest: Chair Massage",
+    "link": "https://www.bmcc.cuny.edu/event/spring-2026-de-stressfest-chair-massage/2026-05-12/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-12",
+    "time": "11:00 AM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "De-Stress Fest",
+      "Evening-Weekend",
       "Student Affairs"
     ]
   },
@@ -1337,10 +1446,21 @@
   },
   {
     "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-4/2026-05-13/",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-4-6/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-05-13",
     "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (in-person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-13",
+    "time": "01:00 PM - 02:00 PM",
     "tags": [
       "Admissions",
       "Featured"
@@ -1358,6 +1478,19 @@
       "Featured",
       "Library",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "International Students Admissions Session",
+    "link": "https://www.bmcc.cuny.edu/event/international-students-admissions-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-13",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured",
+      "Global Initiatives",
+      "International Student Events/Workshops"
     ]
   },
   {
@@ -1491,6 +1624,18 @@
     "tags": [
       "Featured",
       "Tribeca Performing Arts Center"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (in-person, including Paramedic program)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-including-paramedic-program/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-21",
+    "time": "02:50 PM - 03:50 PM",
+    "tags": [
+      "Admissions",
+      "Allied Health Sciences",
+      "Featured"
     ]
   },
   {
@@ -1881,24 +2026,6 @@
     ]
   },
   {
-    "title": "Orlando Hernández & The Knee-Heart Connection",
-    "link": "https://events.cuny.edu/cec/orlando-hernandez-the-knee-heart-connection/",
-    "college": "The University",
-    "date": "2026-05-09",
-    "time": "7:30 PM",
-    "tags": [
-      "CUNY Dance Initiative"
-    ]
-  },
-  {
-    "title": "Ravi Coltrane",
-    "link": "https://events.cuny.edu/cec/ravi-coltrane/",
-    "college": "Queens College",
-    "date": "2026-05-09",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Salzberg Chemistry Seminar: Lee Andrew Solomon, “Investigating DNA Binding and Protein Structure with De Novo Proteins”",
     "link": "https://events.cuny.edu/cec/salzberg-chemistry-seminar-lee-andrew-solomon-investigating-dna-binding-and-protein-structure-with-de-novo-proteins/",
     "college": "The City College of New York",
@@ -1933,14 +2060,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=675408",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-11",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": []
-  },
-  {
     "title": "Gaymers Against Violence",
     "link": "https://events.cuny.edu/cec/gaymers-against-violence-4/",
     "college": "The City College of New York",
@@ -1951,19 +2070,11 @@
     ]
   },
   {
-    "title": "Buddhist Dharma Seminar",
-    "link": "https://qc.event.cuny.edu/events/HLAGWMvsnWkeoRw85fSt/GXYc8SVu5HdBQjM7jKTW",
-    "college": "Queens College",
-    "date": "2026-05-09",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "College Now Program - Pre-College Offering",
-    "link": "https://qc.event.cuny.edu/events/zTR16RJNoCLYr66ZRnBm/P8Eqv4VJZR56uXbrgSD5",
-    "college": "Queens College",
-    "date": "2026-05-09",
-    "time": "9:00AM",
+    "title": "American Voices - Louis Armstrong",
+    "link": "https://events.cuny.edu/cec/american-voices-louis-armstrong-2/",
+    "college": "Hunter College",
+    "date": "2026-05-12",
+    "time": "7:00 PM",
     "tags": []
   },
   {
@@ -2087,6 +2198,14 @@
     "tags": []
   },
   {
+    "title": "Career Readiness Training Program",
+    "link": "https://qc.event.cuny.edu/events/kO94FAdQSeUigwkyzmuN/Pks1PrkRYdChIMcGUn2T",
+    "college": "Queens College",
+    "date": "2026-05-11",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
     "title": "Bloomberg Professional for Equities @ SFSC Trading Floor, Rm. 124",
     "link": "https://baruch.event.cuny.edu/events/vUyz5VHbA4BfWyyEwvQi/SsnKztM1oi6HWDe4hVAZ",
     "college": "Baruch College",
@@ -2143,70 +2262,6 @@
     "tags": []
   },
   {
-    "title": "HSCI 3201 Simulation 2 Debrief",
-    "link": "https://citytech.event.cuny.edu/events/fDIOyTQ0vg6Pp8xnwPpK/EloGH2mfmT8l1Eo3c6Lr",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-09",
-    "time": "8:30AM",
-    "tags": []
-  },
-  {
-    "title": "STEP spring health care workshop",
-    "link": "https://citytech.event.cuny.edu/events/gBOaKuYVrwdQhBMsEWJe/Pe0WCs2oRjrPoNt1qEIq",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-09",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center ESOL Classes",
-    "link": "https://citytech.event.cuny.edu/events/WayqEPNc1l13EK7LPIRF/ShMG76zRZ0GMzy7AGXKm4",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-09",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "C/STEP spring 2026 Parent and Student seminar",
-    "link": "https://citytech.event.cuny.edu/events/y2tB1RSe1nrOJOOBUqw9/Bkm49bbbwJkqwPfkesLa",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-09",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "STEP Program Spring 2026 Semester",
-    "link": "https://citytech.event.cuny.edu/events/MNrqM4jVc9FPh3LsKA8J/EW4LmYnBoVb4luhmYRKT10",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-09",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Information Session",
-    "link": "https://citytech.event.cuny.edu/events/F10SwkRpqxXkEMI4gjAl/aaHk0gZQrCYcRxMwWxjZ",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-09",
-    "time": "10:30AM",
-    "tags": []
-  },
-  {
-    "title": "Workshop Rooms",
-    "link": "https://citytech.event.cuny.edu/events/ZGoU6Ahx3UBvX3YmI1zb/VzpSW7yLrpQtNph60HA112",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-09",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "College Now De-Stress Fest",
-    "link": "https://citytech.event.cuny.edu/events/csGtzSUyyBpIlepodwb3/HN2GHv5AwLCQCodBGouQ",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-09",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
     "title": "ARC Scholars Event",
     "link": "https://citytech.event.cuny.edu/events/zaIGs78oRL9ZLhWeWiFh/vitUQxFOimR7Je6MeTIP11",
     "college": "New York City College of Technology (City Tech)",
@@ -2228,6 +2283,134 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-05-11",
     "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Student Life & Department: SLD Ambassador Lounge Hours",
+    "link": "https://citytech.event.cuny.edu/events/GjOjJfMkz9v3fKEhCCbc/zi2jE8d2GSzTi11Xk9Ww",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-11",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "Scholar on Campus",
+    "link": "https://citytech.event.cuny.edu/events/jih0aVWzauwgpOMeaPrD/Qc2d4YmBWFcD1DZ5em3j",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-11",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "Lab Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/be9Qttj34qkJZgsyoYza/TbCsDXUKj2lWNXvyhiP2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-11",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "End of the Year Gala",
+    "link": "https://citytech.event.cuny.edu/events/wsLq2GmtgikTWUXB3g79/hRHOmkMI68yDOKZ2ClpH",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-11",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "College Now 4 Careers Conference",
+    "link": "https://citytech.event.cuny.edu/events/y7Grkzewig57HfM1LKTc/ZWVxKiNWchZDYSOgL8rI",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-12",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "CN4C Conference",
+    "link": "https://citytech.event.cuny.edu/events/Wfc1YkmgkR61maflOSx8/cmJiNVPKPE6OerEflGmc",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-12",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "College Now for Careers Conference",
+    "link": "https://citytech.event.cuny.edu/events/umRK1AlelKL7Gegl9BaK/kBMcBikOPcdhOfxqCoSv",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-12",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "US Marines Information Tabling",
+    "link": "https://citytech.event.cuny.edu/events/T2IBrYpMVYAz7O5iwfFX/NcNWswHIu1KCkbZn7M3B18",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-12",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "PSC Tabling",
+    "link": "https://citytech.event.cuny.edu/events/aUKhwUgjhYWmjTjkhGAx/BhL1PwpdxhUz9hI0mhpc1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-12",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Tabling",
+    "link": "https://citytech.event.cuny.edu/events/cviF5RRw9KaOU8vIMoTk/zSigj8xLu2ypiohNCOmR14",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-12",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "City Tech Spring 2026 General Tour (05/12/2026)",
+    "link": "https://citytech.event.cuny.edu/events/uaEjFnmYq0JQPM9mOsqr/buiemvgLoZfpKvarzZoo",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-12",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "HSEN & W2: High School Equivalency",
+    "link": "https://citytech.event.cuny.edu/events/OTCfqsR4n1PtWGiYBPcj/OJkFW5vT1kpN1YrnetFS10",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-12",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Medical Billing & Coding Certification for English Language Learners (Evening)",
+    "link": "https://citytech.event.cuny.edu/events/ZtYIOIX6jhagpd58x4oT/bu37gke8yeMZAr8Kan6119",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-12",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "HSDN & W1: High School Equivalency",
+    "link": "https://citytech.event.cuny.edu/events/YMMOUdF2UlmqwdBTRGcI/gRdJg60qKXMsEILnrCPn10",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-12",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Bindlestiff Open Stage Variety Show",
+    "link": "https://citytech.event.cuny.edu/events/MRJnso4JrqONItJ5igRt/gRIzkPaQfqyRkYeQh40A",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-12",
+    "time": "9:00PM",
+    "tags": []
+  },
+  {
+    "title": "Honors scholars panels",
+    "link": "https://citytech.event.cuny.edu/events/JfYyUArFUhPx4DJACot9/ORDybnY57us4biGtuvFm",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-13",
+    "time": "9:00AM",
     "tags": []
   },
   {
@@ -2359,14 +2542,6 @@
     "tags": []
   },
   {
-    "title": "La India",
-    "link": "https://www.lehman.edu/events/2025/La-India.php",
-    "college": "Lehman College",
-    "date": "2026-05-09",
-    "time": "8:00 PM- 11:00 PM",
-    "tags": []
-  },
-  {
     "title": "Meditation Mondays",
     "link": "https://www.lehman.edu/events/2026/Meditation-Mondays-.php?event_type=recurs_13",
     "college": "Lehman College",
@@ -2433,6 +2608,14 @@
   {
     "title": "Lehman College AI Initiative Virtual Presentation Week",
     "link": "https://www.lehman.edu/events/2026/Lehman-College-AI-Initiative-Virtual-Presentation-Week.php?event_type=recurs_1",
+    "college": "Lehman College",
+    "date": "2026-05-14",
+    "time": "11:00 AM- 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "RUMPELSTILTSKIN '26",
+    "link": "https://www.lehman.edu/events/2026/RUMPELSTILTSKIN-26-1.php",
     "college": "Lehman College",
     "date": "2026-05-14",
     "time": "11:00 AM- 1:00 PM",
@@ -2511,115 +2694,11 @@
     "tags": []
   },
   {
-    "title": "HRM Info Session May 11th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy9_of_hrm-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-05-11",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ISM Info Session - May 11th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy2_of_ism-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-05-11",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Honors Event: English",
-    "link": "https://www.york.cuny.edu/events/honors-event-english",
-    "college": "York College",
-    "date": "2026-05-11",
-    "time": "9:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Hack and Snack: Cybersecurity Game Day Social",
-    "link": "https://www.york.cuny.edu/events/hack-snack-cybersecurity-game-day-social",
-    "college": "York College",
-    "date": "2026-05-12",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Nursing Information Session - May",
-    "link": "https://www.york.cuny.edu/events/2025/nursing-information-session-8",
-    "college": "York College",
-    "date": "2026-05-12",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK’s Graduation Celebration",
-    "link": "https://www.york.cuny.edu/events/seeks-graduation-celebration",
-    "college": "York College",
-    "date": "2026-05-12",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY May 13",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may13",
-    "college": "York College",
-    "date": "2026-05-13",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Aviation Management Info Session - May 13th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy9_of_aviation-management-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-05-13",
-    "time": "2:00 PM - 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Marketing Info Session - May 13th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy9_of_marketing-info-session-mar-11th",
-    "college": "York College",
-    "date": "2026-05-13",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-05-13",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE Graduation Luncheon",
-    "link": "https://www.york.cuny.edu/events/asap-ace-celebration",
-    "college": "York College",
-    "date": "2026-05-14",
-    "time": "4:00 PM - 5:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Honors Event: Mathematics and Computer Science",
-    "link": "https://www.york.cuny.edu/events/honors-event-mathematics-computer-science",
-    "college": "York College",
-    "date": "2026-05-14",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Economics Info Session May 14th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy9_of_economics-info-session-mar-12th",
-    "college": "York College",
-    "date": "2026-05-14",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Recognizing Faculty Scholars at York",
-    "link": "https://www.york.cuny.edu/academic-affairs/recognizing-faculty-scholars",
-    "college": "York College",
-    "date": "2026-05-14",
-    "time": "9:00 PM - 11:00 PM",
+    "title": "Your Macaulay Honors Academic Experience",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/new-student-virtual-summer-engagement-opportunities-your-macaulay-honors-academic-experience/",
+    "college": "Macaulay Honors College",
+    "date": "2026-06-30",
+    "time": "7:00PM",
     "tags": []
   },
   {
