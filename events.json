@@ -271,8 +271,8 @@
     "title": "SGA Karaoke Night",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/b912db22-ce23-455f-bf93-196d07ba8abb",
     "college": "Kingsborough Community College",
-    "date": "2026-05-15",
-    "time": "12:00 AM - 02:00 AM",
+    "date": "2026-05-14",
+    "time": "08:00 PM - 10:00 PM",
     "tags": []
   },
   {
@@ -1837,6 +1837,17 @@
     ]
   },
   {
+    "title": "Bio-Medical Engineering Society",
+    "link": "https://csi.campuslabs.com/engage/event/12465257",
+    "college": "College of Staten Island",
+    "date": "2026-05-12",
+    "time": "07:30 PM - 08:30 PM",
+    "tags": [
+      "GroupBusiness",
+      "Group Business"
+    ]
+  },
+  {
     "title": "Senior Recital, Persephone Crespo, guitar, composition",
     "link": "https://csi.campuslabs.com/engage/event/12453879",
     "college": "College of Staten Island",
@@ -2070,12 +2081,14 @@
     ]
   },
   {
-    "title": "American Voices - Louis Armstrong",
-    "link": "https://events.cuny.edu/cec/american-voices-louis-armstrong-2/",
-    "college": "Hunter College",
+    "title": "Batisfera Teatro “Tales of a Potato”",
+    "link": "https://events.cuny.edu/cec/batisfera-teatro-tales-of-a-potato/",
+    "college": "College of Staten Island",
     "date": "2026-05-12",
-    "time": "7:00 PM",
-    "tags": []
+    "time": "2:30 PM - 4:00 PM",
+    "tags": [
+      "World Language and Literature"
+    ]
   },
   {
     "title": "Queens Chamber of Commerce",
