@@ -380,6 +380,14 @@
     "tags": []
   },
   {
+    "title": "Annual CUNY Wellness Festival",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/0a1c645d-4a23-4cb5-882d-deca7f021895",
+    "college": "Kingsborough Community College",
+    "date": "2026-05-19",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-05-15/",
     "college": "LaGuardia Community College",
@@ -387,17 +395,6 @@
     "time": "10:00 AM - 03:00 PM",
     "tags": [
       "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Suicide Prevention Training: QPR Gatekeepet",
-    "link": "https://www.laguardia.edu/event/suicide-prevention-training-qpr-gatekeepet/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-15",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
       "all calendars",
       "student events"
     ]
@@ -508,17 +505,6 @@
   {
     "title": "Admissions Adult Learner In-Person Information Session",
     "link": "https://www.laguardia.edu/event/admissions-adult-learner-in-person-information-session-17/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-18",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Admissions Adult Learner One-on-One Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-adult-learner-one-on-one-information-session-15/",
     "college": "LaGuardia Community College",
     "date": "2026-05-18",
     "time": "05:00 PM - 06:00 PM",
@@ -687,6 +673,28 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-2/2026-05-20/",
+    "college": "LaGuardia Community College",
+    "date": "2026-05-20",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-2/2026-05-21/",
+    "college": "LaGuardia Community College",
+    "date": "2026-05-21",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "(Online)Join CCSD, Network, Have Fun and Get Connected",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377208",
     "college": "Guttman Community College",
@@ -847,24 +855,6 @@
       "Student Life",
       "Trip - Day"
     ]
-  },
-  {
-    "title": "RN-to-BS Nursing Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-10/",
-    "college": "Hunter College",
-    "date": "2026-05-15",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "PsiChi Induction",
-    "link": "https://www.hunter.cuny.edu/event/psichi-induction/",
-    "college": "Hunter College",
-    "date": "2026-05-15",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
   },
   {
     "title": "2026 Hunter MFA Playwrights Festival: GRANTED by Emmy Weissman",
@@ -1069,17 +1059,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (online, focus on Business, Digital Marketing, Entrepreneurship)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-3-5/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "BMCC Tribeca Performing Arts Center: The Rejuvenary River Circus Free on Demand: May 18--22",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-tribeca-performing-arts-center-the-rejuvenary-river-circus-free-ondemand-may-18-22/",
     "college": "Borough of Manhattan Community College",
@@ -1097,19 +1076,28 @@
     "date": "2026-05-18",
     "time": "04:00 PM - 05:00 PM",
     "tags": [
-      "Featured",
       "Internships & Experiential Learning"
     ]
   },
   {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-3-6/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-18",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
     "title": "Join us for Weekly Yoga Class",
-    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2/2026-05-19/",
+    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2-6/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-05-19",
     "time": "11:00 AM - 11:45 AM",
     "tags": [
       "Counseling Center",
-      "Featured",
       "Student Affairs"
     ]
   },
@@ -1441,6 +1429,14 @@
     "college": "Queens College",
     "date": "2026-05-15",
     "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (online, focus on Business, Digital Marketing, Entrepreneurship)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=675419",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-15",
+    "time": "12:00 PM - 01:00 PM",
     "tags": []
   },
   {
@@ -1920,14 +1916,6 @@
     "tags": []
   },
   {
-    "title": "Macaulay Senior Luncheon with Ann Limberg 2026",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-senior-luncheon-2026/",
-    "college": "Macaulay Honors College",
-    "date": "2026-05-15",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
     "title": "CCNY Honors Senior Dinner",
     "link": "https://macaulay.cuny.edu/calendar-of-events/ccny-honors-senior-dinner/",
     "college": "Macaulay Honors College",
@@ -2000,11 +1988,19 @@
     "tags": []
   },
   {
-    "title": "V-READY May 15",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may15",
+    "title": "New Student Orientation Events: 8/24, 8/25, 8/26",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/orientation-calendar-listing/",
+    "college": "Macaulay Honors College",
+    "date": "2026-08-24",
+    "time": "9:00 AM - 6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Information Session",
+    "link": "https://www.york.cuny.edu/admissions/new/virtual-information-session",
     "college": "York College",
     "date": "2026-05-15",
-    "time": "1:30 PM - 6:00 PM",
+    "time": "7:30 PM - 8:30 PM",
     "tags": []
   },
   {
