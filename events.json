@@ -990,28 +990,19 @@
     "date": "2026-05-18",
     "time": "04:00 PM - 05:00 PM",
     "tags": [
+      "Featured",
       "Internships & Experiential Learning"
     ]
   },
   {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-3-6/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-18",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Join us for Weekly Yoga Class",
-    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2-6/",
+    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2/2026-05-19/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-05-19",
     "time": "11:00 AM - 11:45 AM",
     "tags": [
       "Counseling Center",
+      "Featured",
       "Student Affairs"
     ]
   },
@@ -1322,6 +1313,14 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-05-18",
     "time": "08:00 AM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=675421",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-18",
+    "time": "04:00 PM - 05:00 PM",
     "tags": []
   },
   {
@@ -1867,7 +1866,143 @@
     "tags": []
   },
   {
-    "title": "RECITAL: NATALIE CLARK, VIOLA",
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-7",
+    "college": "York College",
+    "date": "2026-05-16",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-8",
+    "college": "York College",
+    "date": "2026-05-17",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-9",
+    "college": "York College",
+    "date": "2026-05-18",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "HRM Info Session May 18th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy10_of_hrm-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-05-18",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Event: World Languages, Literature and Humanities",
+    "link": "https://www.york.cuny.edu/events/honors-event-world-languages-literature-humanities",
+    "college": "York College",
+    "date": "2026-05-19",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-10",
+    "college": "York College",
+    "date": "2026-05-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY May 20",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may20",
+    "college": "York College",
+    "date": "2026-05-20",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Aviation Management Info Session - May 20th",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy10_of_aviation-management-info-session-mar-9th",
+    "college": "York College",
+    "date": "2026-05-20",
+    "time": "2:00 PM - 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-05-20",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-11",
+    "college": "York College",
+    "date": "2026-05-21",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Economics Info Session May 21st",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy10_of_economics-info-session-mar-12th",
+    "college": "York College",
+    "date": "2026-05-21",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Event: Health and Human Performance",
+    "link": "https://www.york.cuny.edu/events/honors-event-health-human-performance",
+    "college": "York College",
+    "date": "2026-05-21",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-12",
+    "college": "York College",
+    "date": "2026-05-22",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY May 22",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may22",
+    "college": "York College",
+    "date": "2026-05-22",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Event: Teacher Education",
+    "link": "https://www.york.cuny.edu/events/honors-event-teacher-education",
+    "college": "York College",
+    "date": "2026-05-22",
+    "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-13",
+    "college": "York College",
+    "date": "2026-05-23",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "WLLH Sigma Delta Pi Induction Ceremony",
+    "link": "https://www.york.cuny.edu/events/wlhh-sigma-delta-pi-induction-ceremony",
+    "college": "York College",
+    "date": "2026-05-23",
+    "time": "7:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Recital: Natalie Clark, Viola",
     "link": "https://www.gc.cuny.edu/events/recital-natalie-clark-viola",
     "college": "CUNY Graduate Center",
     "date": "2026-05-18",
@@ -1878,7 +2013,7 @@
     ]
   },
   {
-    "title": "RECITAL: SAKIRA FUJIMOTO, CLARINET",
+    "title": "Recital: Sakira Fujimoto, Clarinet",
     "link": "https://www.gc.cuny.edu/events/recital-sakira-fujimoto-clarinet",
     "college": "CUNY Graduate Center",
     "date": "2026-05-18",
@@ -1890,7 +2025,7 @@
     ]
   },
   {
-    "title": "WRITING AND PUBLISHING NOW: STRATEGIES FOR TURBULENT TIMES",
+    "title": "Writing and Publishing Now: Strategies for Turbulent Times",
     "link": "https://www.gc.cuny.edu/events/writing-and-publishing-now-strategies-turbulent-times",
     "college": "CUNY Graduate Center",
     "date": "2026-05-18",
@@ -1901,7 +2036,7 @@
     ]
   },
   {
-    "title": "REVISING FOR ARTICLE-LENGTH PUBLICATION",
+    "title": "Revising for Article-Length Publication",
     "link": "https://www.gc.cuny.edu/events/revising-article-length-publication",
     "college": "CUNY Graduate Center",
     "date": "2026-05-19",
@@ -1912,7 +2047,7 @@
     ]
   },
   {
-    "title": "THE ANALYTIC SALON (4)",
+    "title": "The Analytic Salon (4)",
     "link": "https://www.gc.cuny.edu/events/analytic-salon-4",
     "college": "CUNY Graduate Center",
     "date": "2026-05-19",
@@ -1923,7 +2058,7 @@
     ]
   },
   {
-    "title": "UNORTHODOX EDUCATION: SCREENING AND TALK-BACK",
+    "title": "Unorthodox Education: Screening and Talk-Back",
     "link": "https://www.gc.cuny.edu/events/unorthodox-education-screening-and-talk-back",
     "college": "CUNY Graduate Center",
     "date": "2026-05-19",
@@ -1936,7 +2071,7 @@
     ]
   },
   {
-    "title": "RU MARSHALL ON CARLOS CASTANEDA, WITH THAD ZIOLKOWSKI",
+    "title": "Ru Marshall on Carlos Castaneda, with Thad Ziolkowski",
     "link": "https://www.gc.cuny.edu/events/ru-marshall-carlos-castaneda-thad-ziolkowski",
     "college": "CUNY Graduate Center",
     "date": "2026-05-19",
@@ -1947,7 +2082,7 @@
     ]
   },
   {
-    "title": "COMPUTATIONAL MOLECULAR SCIENCES AND AI (V)",
+    "title": "Computational Molecular Sciences and AI (V)",
     "link": "https://www.gc.cuny.edu/events/computational-molecular-sciences-and-ai-v",
     "college": "CUNY Graduate Center",
     "date": "2026-05-20",
@@ -1960,7 +2095,7 @@
     ]
   },
   {
-    "title": "MASTERING THE JOB INTERVIEW: STAND OUT AND GET HIRED",
+    "title": "Mastering the Job Interview: Stand Out and Get Hired",
     "link": "https://www.gc.cuny.edu/events/mastering-job-interview-stand-out-and-get-hired",
     "college": "CUNY Graduate Center",
     "date": "2026-05-20",
@@ -1971,7 +2106,7 @@
     ]
   },
   {
-    "title": "SET-THEORETIC UNIVERSES AND PARADOXES IN ELEMENTARY 2-TOPOI",
+    "title": "Set-Theoretic Universes and Paradoxes in Elementary 2-Topoi",
     "link": "https://www.gc.cuny.edu/events/set-theoretic-universes-and-paradoxes-elementary-2-topoi",
     "college": "CUNY Graduate Center",
     "date": "2026-05-20",
