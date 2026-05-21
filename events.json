@@ -190,54 +190,6 @@
     "tags": []
   },
   {
-    "title": "Exploring Tamazgha: Virtual Edition",
-    "link": "https://www.laguardia.edu/event/exploring-tamazgha-virtual-edition/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-21",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Film Screening: In Search of Bengali Harlem",
-    "link": "https://www.laguardia.edu/event/in-search-of-bengali-harlem/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-21",
-    "time": "01:00 PM - 06:00 PM",
-    "tags": [
-      "all calendars",
-      "Faculty and Staff",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Memorial Day BBQ",
-    "link": "https://www.laguardia.edu/event/memorial-day-bbq/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-21",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Baruch Business Academy Virtual Information Session",
-    "link": "https://www.laguardia.edu/event/baruch-business-academy-virtual-information-session-14/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-21",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Heightened Scrutiny: Free Film Screening",
     "link": "https://www.laguardia.edu/event/heightened-scrutiny-free-film-screening/",
     "college": "LaGuardia Community College",
@@ -511,6 +463,52 @@
     ]
   },
   {
+    "title": "LHI: 2026 Student Showcase",
+    "link": "https://www.laguardia.edu/event/lhi-2026-student-showcase/",
+    "college": "LaGuardia Community College",
+    "date": "2026-06-02",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Transition to Workforce",
+    "link": "https://www.laguardia.edu/event/transition-to-workforce-2/",
+    "college": "LaGuardia Community College",
+    "date": "2026-06-02",
+    "time": "11:45 AM - 12:45 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-110/",
+    "college": "LaGuardia Community College",
+    "date": "2026-06-02",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars"
+    ]
+  },
+  {
+    "title": "Art and Design Seminar Exhibition: The Creative Act",
+    "link": "https://www.laguardia.edu/event/art-and-design-seminar-exhibition-the-creative-act/",
+    "college": "LaGuardia Community College",
+    "date": "2026-06-03",
+    "time": "11:15 AM - 01:30 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "Guttman Big Read",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377039",
     "college": "Guttman Community College",
@@ -619,6 +617,18 @@
       "TGG",
       "Meeting",
       "Student Life"
+    ]
+  },
+  {
+    "title": "Caribbean Tour",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377237",
+    "college": "Guttman Community College",
+    "date": "2026-06-04",
+    "time": "05:15 PM - 06:45 PM",
+    "tags": [
+      "CSA",
+      "Cultural/Heritage",
+      "Food - Lunch "
     ]
   },
   {
@@ -800,43 +810,6 @@
     ]
   },
   {
-    "title": "SWAG Swap: Vintage Women’s Resource Center SWAG Giveaway",
-    "link": "https://www.bmcc.cuny.edu/event/swag-swap-vintage-womens-resource-center-swag-giveaway/2026-05-21/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-21",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "CUNY in The Heights",
-      "Featured",
-      "Pride Center",
-      "Women's Resource Center"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (in-person)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-2-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-21",
-    "time": "02:50 PM - 03:50 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (in-person, including Paramedic program)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-including-paramedic-program/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-21",
-    "time": "02:50 PM - 03:50 PM",
-    "tags": [
-      "Admissions",
-      "Allied Health Sciences",
-      "Featured"
-    ]
-  },
-  {
     "title": "Sign up for SafeZone 101 Training",
     "link": "https://www.bmcc.cuny.edu/event/sign-up-for-safezone-101-training-3/2026-05-22/",
     "college": "Borough of Manhattan Community College",
@@ -847,6 +820,20 @@
       "Featured",
       "Pride Center",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "SWAG Swap: Vintage Women’s Resource Center SWAG Giveaway",
+    "link": "https://www.bmcc.cuny.edu/event/swag-swap-vintage-womens-resource-center-swag-giveaway/2026-05-26/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-26",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "CUNY in The Heights",
+      "Featured",
+      "Pride Center",
+      "Women's Resource Center"
     ]
   },
   {
@@ -915,18 +902,6 @@
       "Admissions",
       "Allied Health Sciences",
       "Nursing"
-    ]
-  },
-  {
-    "title": "Zoom Into Majors: Nursing & Allied Health Sciences",
-    "link": "https://www.bcc.cuny.edu/event/zoom-into-majors-nursing-allied-health-sciences/",
-    "college": "Bronx Community College",
-    "date": "2026-05-21",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Virtual Event"
     ]
   },
   {
@@ -1025,6 +1000,30 @@
     ]
   },
   {
+    "title": "SWAG Swap: Vintage Women’s Resource Center SWAG Giveaway",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007220",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-21",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (in-person)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=671652",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-21",
+    "time": "02:50 PM - 03:50 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (in-person, including Paramedic program)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=675401",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-21",
+    "time": "02:50 PM - 03:50 PM",
+    "tags": []
+  },
+  {
     "title": "Mapping AAPI New York: The Localized History Project Showcase",
     "link": "https://events.cuny.edu/cec/mapping-aapi-new-york-the-localized-history-project-showcase/",
     "college": "Asian American / Asian Research Institute",
@@ -1058,14 +1057,6 @@
     "college": "Hunter College",
     "date": "2026-05-26",
     "time": "6:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "SWAG Swap: Vintage Women’s Resource Center SWAG Giveaway",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007221",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-26",
-    "time": "10:00 AM - 04:00 PM",
     "tags": []
   },
   {
@@ -1414,7 +1405,7 @@
   },
   {
     "title": "Small Business Clinic in the Bronx",
-    "link": "https://www.lehman.edu/events/2026/Small-Business-Clinic-in-the-Bronx-1.php",
+    "link": "https://www.lehman.edu/events/2026/Small-Business-Clinic-in-the-Bronx.php",
     "college": "Lehman College",
     "date": "2026-05-21",
     "time": "11:00 AM- 3:00 PM",
@@ -1438,7 +1429,7 @@
   },
   {
     "title": "Domine Ventas Domine su Negocio (OPEN TO ALL)",
-    "link": "https://www.lehman.edu/events/2026/Domine-Ventas-Domine-su-Negocio-OPEN-TO-ALL-1.php",
+    "link": "https://www.lehman.edu/events/2026/Domine-Ventas-Domine-su-Negocio-OPEN-TO-ALL.php",
     "college": "Lehman College",
     "date": "2026-05-28",
     "time": "5:00 PM- 6:00 PM",
@@ -1454,7 +1445,7 @@
   },
   {
     "title": "Conference on Play",
-    "link": "https://www.lehman.edu/events/2026/Conference-on-Play-1.php",
+    "link": "https://www.lehman.edu/events/2026/Conference-on-Play.php",
     "college": "Lehman College",
     "date": "2026-06-05",
     "time": "8:30 AM- 1:30 PM",
@@ -1570,126 +1561,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-08-24",
     "time": "9:00 AM - 6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-11",
-    "college": "York College",
-    "date": "2026-05-21",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Associate Provost Search: Candidate 1 Presentation",
-    "link": "https://www.york.cuny.edu/events/associate-provost-search-candidate-1-presentation",
-    "college": "York College",
-    "date": "2026-05-21",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Associate Provost Search: Candidate 2 Presentation",
-    "link": "https://www.york.cuny.edu/events/associate-provost-search-candidate-2-presentation",
-    "college": "York College",
-    "date": "2026-05-21",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Economics Info Session May 21st",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy10_of_economics-info-session-mar-12th",
-    "college": "York College",
-    "date": "2026-05-21",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Honors Event: Health and Human Performance",
-    "link": "https://www.york.cuny.edu/events/honors-event-health-human-performance",
-    "college": "York College",
-    "date": "2026-05-21",
-    "time": "10:00 PM - 12:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-12",
-    "college": "York College",
-    "date": "2026-05-22",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY May 22",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may22",
-    "college": "York College",
-    "date": "2026-05-22",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-05-22",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Honors Event: Teacher Education",
-    "link": "https://www.york.cuny.edu/events/honors-event-teacher-education",
-    "college": "York College",
-    "date": "2026-05-22",
-    "time": "9:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-13",
-    "college": "York College",
-    "date": "2026-05-23",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "WLLH Sigma Delta Pi Induction Ceremony",
-    "link": "https://www.york.cuny.edu/events/wlhh-sigma-delta-pi-induction-ceremony",
-    "college": "York College",
-    "date": "2026-05-23",
-    "time": "7:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-14",
-    "college": "York College",
-    "date": "2026-05-24",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "HRM Info Session May 25th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/copy11_of_hrm-info-session-mar-9th",
-    "college": "York College",
-    "date": "2026-05-25",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "End of Spring 2026 term",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/end-of-spring-2026-term",
-    "college": "York College",
-    "date": "2026-05-26",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-16",
-    "college": "York College",
-    "date": "2026-05-26",
-    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
