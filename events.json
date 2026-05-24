@@ -816,6 +816,41 @@
     ]
   },
   {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-6/2026-06-01/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-01",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Evening-Weekend",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (in-person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-5/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-03",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "International Students Admissions Session",
+    "link": "https://www.bmcc.cuny.edu/event/international-students-admissions-session-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-04",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
     "title": "Internship information session",
     "link": "https://www.bmcc.cuny.edu/event/internship-information-session-3/",
     "college": "Borough of Manhattan Community College",
@@ -826,7 +861,19 @@
     ]
   },
   {
-    "title": "Admissions Information Session: Exploring Degrees and Transfer Pathways: Nursing",
+    "title": "Admissions Information Session (online): Criminology and Criminal Justice",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-7/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-11",
+    "time": "02:50 PM - 03:50 PM",
+    "tags": [
+      "Admissions",
+      "Criminal Justice",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session: Exploring Degrees and Transfer Pathways: Focus on Nursing",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-nursing-program/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-06-17",
@@ -834,6 +881,7 @@
     "tags": [
       "Admissions",
       "Allied Health Sciences",
+      "Featured",
       "Nursing"
     ]
   },
