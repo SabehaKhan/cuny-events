@@ -110,11 +110,11 @@
     "tags": []
   },
   {
-    "title": "Lavender Graduation",
+    "title": "KCC 6th Annual Lavender Graduation",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/851b3880-1a81-454d-9df7-cc26886f1671",
     "college": "Kingsborough Community College",
     "date": "2026-06-09",
-    "time": "07:00 PM - 09:00 PM",
+    "time": "08:00 PM - 10:00 PM",
     "tags": []
   },
   {
@@ -770,17 +770,6 @@
     ]
   },
   {
-    "title": "Join us for Weekly Yoga Class",
-    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2-7/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-26",
-    "time": "11:00 AM - 11:45 AM",
-    "tags": [
-      "Counseling Center",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Nursing Pinning Ceremony",
     "link": "https://www.bmcc.cuny.edu/event/nursing-pinning-ceremony/",
     "college": "Borough of Manhattan Community College",
@@ -848,6 +837,18 @@
       "Admissions",
       "Evening-Weekend",
       "Featured"
+    ]
+  },
+  {
+    "title": "Join us for Weekly Yoga Class",
+    "link": "https://www.bmcc.cuny.edu/event/join-us-for-weekly-yoga-class-2/2026-06-02/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-02",
+    "time": "11:00 AM - 11:45 AM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
     ]
   },
   {
@@ -1079,6 +1080,14 @@
     "tags": [
       "Neuroscience"
     ]
+  },
+  {
+    "title": "SWAG Swap: Vintage Women’s Resource Center SWAG Giveaway",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007222",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-05-28",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": []
   },
   {
     "title": "THHS",
@@ -1550,6 +1559,110 @@
     "college": "Macaulay Honors College",
     "date": "2026-08-24",
     "time": "9:00 AM - 6:00PM",
+    "tags": []
+  },
+  {
+    "title": "End of Spring 2026 term",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/end-of-spring-2026-term",
+    "college": "York College",
+    "date": "2026-05-26",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Final Examinations",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-16",
+    "college": "York College",
+    "date": "2026-05-26",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "2026 Nursing Pinning Ceremony",
+    "link": "https://www.york.cuny.edu/events/2026-nursing-pinning-ceremony",
+    "college": "York College",
+    "date": "2026-05-26",
+    "time": "2:00 PM - 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Event: Social Work (Phi Alpha Honor Society, Chi Sigma Induction Ceremony)",
+    "link": "https://www.york.cuny.edu/events/honors-event-social-work-phi-alpha-honor-society-chi-sigma-induction-ceremony",
+    "college": "York College",
+    "date": "2026-05-26",
+    "time": "7:00 PM - 10:30 PM",
+    "tags": []
+  },
+  {
+    "title": "York College Adult Learner Information Session (Virtual)",
+    "link": "https://www.york.cuny.edu/admissions/new/york-college-adult-learner-information-session-virtual",
+    "college": "York College",
+    "date": "2026-05-26",
+    "time": "8:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Political Science Research Celebration!",
+    "link": "https://www.york.cuny.edu/events/political-science-research-celebration",
+    "college": "York College",
+    "date": "2026-05-26",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY May 27",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may27",
+    "college": "York College",
+    "date": "2026-05-27",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Event: Biology",
+    "link": "https://www.york.cuny.edu/events/honors-event-biology",
+    "college": "York College",
+    "date": "2026-05-27",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-05-27",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "2026 YESPYS: Athletics",
+    "link": "https://www.york.cuny.edu/events/2026-yespys-athletics",
+    "college": "York College",
+    "date": "2026-05-27",
+    "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Event: Business and Economics",
+    "link": "https://www.york.cuny.edu/events/honors-event-business-and-economics",
+    "college": "York College",
+    "date": "2026-05-27",
+    "time": "9:30 PM - 12:30 AM",
+    "tags": []
+  },
+  {
+    "title": "York College’s 56th Commencement Ceremony",
+    "link": "https://www.york.cuny.edu/commencement-2026/york-colleges-56th-commencement-ceremony",
+    "college": "York College",
+    "date": "2026-05-29",
+    "time": "2:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes for 4-Week 1",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-1-2",
+    "college": "York College",
+    "date": "2026-06-01",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
