@@ -186,17 +186,6 @@
     ]
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-109/",
-    "college": "LaGuardia Community College",
-    "date": "2026-05-26",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Supporting Healthy Relationships at Home: A Parent Wellness Workshop",
     "link": "https://www.laguardia.edu/event/supporting-healthy-relationships-at-home-a-parent-wellness-workshop/",
     "college": "LaGuardia Community College",
@@ -492,6 +481,20 @@
     ]
   },
   {
+    "title": "LaGuardia Pride on the Greenway",
+    "link": "https://www.laguardia.edu/event/laguardia-pride-on-the-greenway/",
+    "college": "LaGuardia Community College",
+    "date": "2026-06-03",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Faculty and Staff",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "Career Fair Unlocked",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377182",
     "college": "Guttman Community College",
@@ -645,6 +648,18 @@
     "time": "04:00 PM - 05:30 PM",
     "tags": [
       "Open Houses"
+    ]
+  },
+  {
+    "title": "Resume Clinic",
+    "link": "https://www.hunter.cuny.edu/event/resume-clinic-4/",
+    "college": "Hunter College",
+    "date": "2026-06-03",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
     ]
   },
   {
@@ -847,7 +862,6 @@
     "time": "11:00 AM - 11:45 AM",
     "tags": [
       "Counseling Center",
-      "Featured",
       "Student Affairs"
     ]
   },
@@ -910,14 +924,6 @@
     ]
   },
   {
-    "title": "OSDI Graduation Cap Decorating",
-    "link": "https://www.bcc.cuny.edu/event/osdi-graduation-cap-decorating/",
-    "college": "Bronx Community College",
-    "date": "2026-05-26",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Graduation Award Ceremony - Honors Convocation",
     "link": "https://www.bcc.cuny.edu/event/graduation-award-ceremony-honors-convocation/",
     "college": "Bronx Community College",
@@ -959,6 +965,19 @@
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2026-06-17/",
     "college": "Bronx Community College",
     "date": "2026-06-17",
+    "time": "09:00 AM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2026-06-18/",
+    "college": "Bronx Community College",
+    "date": "2026-06-18",
     "time": "09:00 AM - 05:00 PM",
     "tags": [
       "Enrollment Management",
@@ -1154,6 +1173,14 @@
     "tags": []
   },
   {
+    "title": "SEEK Workshop",
+    "link": "https://qc.event.cuny.edu/events/Tso4GcVexXNZU2E8Uxji/V2FmdDyOVs479axqSv6n",
+    "college": "Queens College",
+    "date": "2026-05-27",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
     "title": "THHS Class",
     "link": "https://qc.event.cuny.edu/events/rvHgFZTrPNkMlJKAUhHZ/YKLaIo7ETSRgHt0LY5ja134",
     "college": "Queens College",
@@ -1172,14 +1199,6 @@
   {
     "title": "Commencement 2026 Balloon Building",
     "link": "https://qc.event.cuny.edu/events/MwyakQtEPHR3LvGMEeGW/aMYIhZ5uq8keTtCMPYil",
-    "college": "Queens College",
-    "date": "2026-05-27",
-    "time": "2:00PM",
-    "tags": []
-  },
-  {
-    "title": "Commencement Herff Jones Cap and Gown Distribution",
-    "link": "https://qc.event.cuny.edu/events/dW0VRDiSQZ3wzZix11sg/bPjjAgCVRQDzJuPMEr3f",
     "college": "Queens College",
     "date": "2026-05-27",
     "time": "2:00PM",
@@ -1426,22 +1445,6 @@
     "tags": []
   },
   {
-    "title": "Cyber Security Risk Assessment For Small Businesses",
-    "link": "https://www.lehman.edu/events/2026/Cyber-Security-Risk-Assessment-For-Small-Businesses-.php",
-    "college": "Lehman College",
-    "date": "2026-06-06",
-    "time": "9:00 AM- 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Cyber Security Risk Assessment For Small Businesses",
-    "link": "https://www.lehman.edu/events/2026/Cyber-Security-Risk-Assessment-For-Small-Businesses.php",
-    "college": "Lehman College",
-    "date": "2026-06-13",
-    "time": "9:00 AM- 5:00 PM",
-    "tags": []
-  },
-  {
     "title": "Adult Degree Program Information Session",
     "link": "https://www.lehman.edu/events/2026/Adult-Degree-Program-Information-Session.php?event_type=recurs_2",
     "college": "Lehman College",
@@ -1451,7 +1454,7 @@
   },
   {
     "title": "Cyber Security Risk Assessment For Small Businesses",
-    "link": "https://www.lehman.edu/events/2026/Cyber-Security-Risk-Assessment-For-Small-Businesses-1.php",
+    "link": "https://www.lehman.edu/events/2026/Cyber-Security-Risk-Assessment-For-Small-Businesses.php",
     "college": "Lehman College",
     "date": "2026-06-20",
     "time": "9:00 AM- 5:00 PM",
@@ -1479,6 +1482,22 @@
     "college": "Lehman College",
     "date": "2026-09-08",
     "time": "6:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Geographic Information Science Information Session M.S. & Adv. Cert.",
+    "link": "https://www.lehman.edu/events/2026/Geographic-Information-Science-Information-Session-MS--Adv-Cert-2.php",
+    "college": "Lehman College",
+    "date": "2026-09-15",
+    "time": "5:30 PM- 6:30 PM",
+    "tags": []
+  },
+  {
+    "title": "BA-Social Work Information Sessions",
+    "link": "https://www.lehman.edu/events/2026/BA-Social-Work-Information-Sessions-1.php",
+    "college": "Lehman College",
+    "date": "2026-09-16",
+    "time": "6:00 PM- 7:15 PM",
     "tags": []
   },
   {
@@ -1559,110 +1578,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-08-24",
     "time": "9:00 AM - 6:00PM",
-    "tags": []
-  },
-  {
-    "title": "End of Spring 2026 term",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/end-of-spring-2026-term",
-    "college": "York College",
-    "date": "2026-05-26",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Final Examinations",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/final-examinations-16",
-    "college": "York College",
-    "date": "2026-05-26",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "2026 Nursing Pinning Ceremony",
-    "link": "https://www.york.cuny.edu/events/2026-nursing-pinning-ceremony",
-    "college": "York College",
-    "date": "2026-05-26",
-    "time": "2:00 PM - 4:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Honors Event: Social Work (Phi Alpha Honor Society, Chi Sigma Induction Ceremony)",
-    "link": "https://www.york.cuny.edu/events/honors-event-social-work-phi-alpha-honor-society-chi-sigma-induction-ceremony",
-    "college": "York College",
-    "date": "2026-05-26",
-    "time": "7:00 PM - 10:30 PM",
-    "tags": []
-  },
-  {
-    "title": "York College Adult Learner Information Session (Virtual)",
-    "link": "https://www.york.cuny.edu/admissions/new/york-college-adult-learner-information-session-virtual",
-    "college": "York College",
-    "date": "2026-05-26",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Political Science Research Celebration!",
-    "link": "https://www.york.cuny.edu/events/political-science-research-celebration",
-    "college": "York College",
-    "date": "2026-05-26",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY May 27",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may27",
-    "college": "York College",
-    "date": "2026-05-27",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Honors Event: Biology",
-    "link": "https://www.york.cuny.edu/events/honors-event-biology",
-    "college": "York College",
-    "date": "2026-05-27",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-05-27",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "2026 YESPYS: Athletics",
-    "link": "https://www.york.cuny.edu/events/2026-yespys-athletics",
-    "college": "York College",
-    "date": "2026-05-27",
-    "time": "9:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Honors Event: Business and Economics",
-    "link": "https://www.york.cuny.edu/events/honors-event-business-and-economics",
-    "college": "York College",
-    "date": "2026-05-27",
-    "time": "9:30 PM - 12:30 AM",
-    "tags": []
-  },
-  {
-    "title": "York College’s 56th Commencement Ceremony",
-    "link": "https://www.york.cuny.edu/commencement-2026/york-colleges-56th-commencement-ceremony",
-    "college": "York College",
-    "date": "2026-05-29",
-    "time": "2:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "First day of classes for 4-Week 1",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-1-2",
-    "college": "York College",
-    "date": "2026-06-01",
-    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
