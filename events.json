@@ -524,6 +524,19 @@
     ]
   },
   {
+    "title": "Complete Your FAFSA & TAP Financial Aid Applications",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377244",
+    "college": "Guttman Community College",
+    "date": "2026-06-03",
+    "time": "07:00 PM - 08:30 PM",
+    "tags": [
+      "EMSA",
+      "Office Hours",
+      "Financial Aid",
+      "FASFA & TAP Applications"
+    ]
+  },
+  {
     "title": "Caribbean Tour",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377237",
     "college": "Guttman Community College",
@@ -533,6 +546,21 @@
       "CSA",
       "Cultural/Heritage",
       "Food - Lunch "
+    ]
+  },
+  {
+    "title": "Check-in With Your Financial Aid Advisor",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377245",
+    "college": "Guttman Community College",
+    "date": "2026-06-15",
+    "time": "07:00 PM - 08:30 PM",
+    "tags": [
+      "EMSA",
+      "Office Hours",
+      "Financial Aid",
+      "Federal Work Study",
+      "FASFA & TAP Applications",
+      "Satisfactory Academic Progress (SAP)"
     ]
   },
   {
@@ -927,17 +955,6 @@
     ]
   },
   {
-    "title": "Graduation Award Ceremony - Honors Convocation",
-    "link": "https://www.bcc.cuny.edu/event/graduation-award-ceremony-honors-convocation/",
-    "college": "Bronx Community College",
-    "date": "2026-05-27",
-    "time": "12:15 PM - 02:00 PM",
-    "tags": [
-      "Academic Calendar & Holidays",
-      "Campus Events"
-    ]
-  },
-  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2026-06-15/",
     "college": "Bronx Community College",
@@ -981,6 +998,19 @@
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2026-06-18/",
     "college": "Bronx Community College",
     "date": "2026-06-18",
+    "time": "09:00 AM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2026-06-22/",
+    "college": "Bronx Community College",
+    "date": "2026-06-22",
     "time": "09:00 AM - 05:00 PM",
     "tags": [
       "Enrollment Management",
@@ -1444,6 +1474,14 @@
     "tags": []
   },
   {
+    "title": "Healthy Food and Literary Night for Families & Individuals: Honoring Diverse LGBTQIA+ Identities Through Literature & Community",
+    "link": "https://www.lehman.edu/events/2026/Healthy-Food-and-Literary-Night-for-Families--Individuals-Honoring-Diverse-LGBTQIA-Identities-Through-Literature--Community.php",
+    "college": "Lehman College",
+    "date": "2026-06-17",
+    "time": "4:00 PM- 5:30 PM",
+    "tags": []
+  },
+  {
     "title": "Cyber Security Risk Assessment For Small Businesses",
     "link": "https://www.lehman.edu/events/2026/Cyber-Security-Risk-Assessment-For-Small-Businesses.php",
     "college": "Lehman College",
@@ -1481,14 +1519,6 @@
     "college": "Lehman College",
     "date": "2026-09-15",
     "time": "5:30 PM- 6:30 PM",
-    "tags": []
-  },
-  {
-    "title": "BA-Social Work Information Sessions",
-    "link": "https://www.lehman.edu/events/2026/BA-Social-Work-Information-Sessions-1.php",
-    "college": "Lehman College",
-    "date": "2026-09-16",
-    "time": "6:00 PM- 7:15 PM",
     "tags": []
   },
   {
@@ -1556,19 +1586,107 @@
     "tags": []
   },
   {
-    "title": "Meet Your Orientation Leaders",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/meet-your-orientation-leaders/",
+    "title": "Macaulay Day at Hunter College",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-day-at-hunter-college/",
     "college": "Macaulay Honors College",
-    "date": "2026-07-21",
-    "time": "8:00PM",
+    "date": "2026-07-13",
+    "time": "2:00PM",
     "tags": []
   },
   {
-    "title": "New Student Orientation Events: 8/24, 8/25, 8/26",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/orientation-calendar-listing/",
+    "title": "Macaulay Day at The College of Staten Island",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-day-at-the-college-of-staten-island/",
     "college": "Macaulay Honors College",
-    "date": "2026-08-24",
-    "time": "9:00 AM - 6:00PM",
+    "date": "2026-07-14",
+    "time": "10:00 AM - 1:00PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY May 27",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-may27",
+    "college": "York College",
+    "date": "2026-05-27",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Event: Biology",
+    "link": "https://www.york.cuny.edu/events/honors-event-biology",
+    "college": "York College",
+    "date": "2026-05-27",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "2026 YESPYS: Athletics",
+    "link": "https://www.york.cuny.edu/events/2026-yespys-athletics",
+    "college": "York College",
+    "date": "2026-05-27",
+    "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Honors Event: Business and Economics",
+    "link": "https://www.york.cuny.edu/events/honors-event-business-and-economics",
+    "college": "York College",
+    "date": "2026-05-27",
+    "time": "9:30 PM - 12:30 AM",
+    "tags": []
+  },
+  {
+    "title": "York College’s 56th Commencement Ceremony",
+    "link": "https://www.york.cuny.edu/commencement-2026/york-colleges-56th-commencement-ceremony",
+    "college": "York College",
+    "date": "2026-05-29",
+    "time": "2:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/events/2026/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-05-29",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes for 4-Week 1",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-1-2",
+    "college": "York College",
+    "date": "2026-06-01",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes for 7-Week 1",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-7-week-1-1",
+    "college": "York College",
+    "date": "2026-06-01",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes for 10-Week",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-10-week-1",
+    "college": "York College",
+    "date": "2026-06-01",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Spring 2026 Degree Conferral date",
+    "link": "https://www.york.cuny.edu/registrar/calendar/spring/spring-2026-degree-conferral-date",
+    "college": "York College",
+    "date": "2026-06-01",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 1",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun1",
+    "college": "York College",
+    "date": "2026-06-01",
+    "time": "1:30 PM - 6:00 PM",
     "tags": []
   },
   {
