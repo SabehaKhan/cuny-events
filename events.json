@@ -243,8 +243,8 @@
     ]
   },
   {
-    "title": "Student Tech Fair",
-    "link": "https://www.laguardia.edu/event/student-tech-fair/",
+    "title": "Student Tech Resource Fair",
+    "link": "https://www.laguardia.edu/event/student-tech-resource-fair/",
     "college": "LaGuardia Community College",
     "date": "2026-06-01",
     "time": "01:00 PM - 03:00 PM",
@@ -942,18 +942,6 @@
     ]
   },
   {
-    "title": "Nursing Pinning Ceremony",
-    "link": "https://www.bmcc.cuny.edu/event/nursing-pinning-ceremony/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-05-28",
-    "time": "03:00 AM - 04:00 PM",
-    "tags": [
-      "Evening-Weekend",
-      "Featured",
-      "Nursing"
-    ]
-  },
-  {
     "title": "SWAG Swap: Vintage Women’s Resource Center SWAG Giveaway",
     "link": "https://www.bmcc.cuny.edu/event/swag-swap-vintage-womens-resource-center-swag-giveaway/2026-05-28/",
     "college": "Borough of Manhattan Community College",
@@ -968,21 +956,15 @@
     ]
   },
   {
-    "title": "NY State Reconnect: Learn About this Free Community College Program",
-    "link": "https://www.bmcc.cuny.edu/event/ny-state-reconnect-learn-about-this-free-community-college-program-3/",
+    "title": "Nursing Pinning Ceremony",
+    "link": "https://www.bmcc.cuny.edu/event/nursing-pinning-ceremony/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-05-28",
-    "time": "02:00 PM - 03:00 PM",
+    "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "Admissions",
-      "Community",
-      "Continuing Education",
       "Evening-Weekend",
       "Featured",
-      "Media Arts and Technology",
-      "Nursing",
-      "Science",
-      "Teacher Education"
+      "Nursing"
     ]
   },
   {
@@ -1079,6 +1061,24 @@
       "Admissions",
       "Criminal Justice",
       "Featured"
+    ]
+  },
+  {
+    "title": "NY State Reconnect: Learn About this Free Community College Program",
+    "link": "https://www.bmcc.cuny.edu/event/ny-state-reconnect-learn-about-this-free-community-college-program-3-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-15",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Community",
+      "Continuing Education",
+      "Evening-Weekend",
+      "Featured",
+      "Media Arts and Technology",
+      "Nursing",
+      "Science",
+      "Teacher Education"
     ]
   },
   {
@@ -1230,6 +1230,14 @@
     "college": "Queens College",
     "date": "2026-06-03",
     "time": "9:00 AM - 4:30 PM",
+    "tags": []
+  },
+  {
+    "title": "New York Assembly District 65/Senate District 27 Candidate Forum",
+    "link": "https://events.cuny.edu/cec/new-york-assembly-district-65-senate-district-27-candidate-forum/",
+    "college": "Asian American / Asian Research Institute",
+    "date": "2026-06-03",
+    "time": "6:00 PM - 8:15 PM",
     "tags": []
   },
   {
@@ -1697,117 +1705,58 @@
     "tags": []
   },
   {
-    "title": "TENTH ANNUAL SEGAL CENTER FILM FESTIVAL ON THEATRE & PERFORMANCE",
-    "link": "https://www.gc.cuny.edu/events/tenth-annual-segal-center-film-festival-theatre-performance",
+    "title": "FRANTZ FANON AND THE FUTURE OF CULTURAL POLITICS",
+    "link": "https://www.gc.cuny.edu/events/frantz-fanon-and-future-cultural-politics",
     "college": "CUNY Graduate Center",
-    "date": "2026-05-28",
+    "date": "2026-09-26",
+    "time": "2:00 pm",
+    "location": "5409: DGSC Meeting Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "NATIONALISM, INTERNATIONALISM, COSMOPOLITANISM WITH PARTHA CHATERJEE",
+    "link": "https://www.gc.cuny.edu/events/nationalism-internationalism-cosmopolitanism-partha-chaterjee",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-02",
+    "time": "4:30 pm",
+    "location": "TBD",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
+    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-25",
+    "time": "6:30 pm",
+    "location": "C198",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-20",
     "time": "",
-    "location": "1218: Segal Theatre",
+    "location": "9100: Skylight Room",
     "tags": [
-      "Martin E. Segal Theatre Center"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "CONCERT: COLLIDE-O-SCOPE MUSIC PERFORMS WORKS OF JASON ECKARDT",
-    "link": "https://www.gc.cuny.edu/events/concert-collide-o-scope-music-performs-works-jason-eckardt",
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
     "college": "CUNY Graduate Center",
-    "date": "2026-05-31",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "Hybrid (see description for details)",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
     "tags": [
-      "Music"
-    ]
-  },
-  {
-    "title": "OPEN HOUSE: EDUCATIONAL PSYCHOLOGY PH.D. PROGRAM",
-    "link": "https://www.gc.cuny.edu/events/open-house-educational-psychology-phd-program-june-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-06-08",
-    "time": "5:30 pm — 6:30 pm",
-    "location": "Online",
-    "tags": [
-      "Educational Psychology",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "COPLAND HOUSE ENSEMBLE: CULTIVATE 2026",
-    "link": "https://www.gc.cuny.edu/events/copland-house-ensemble-cultivate-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-06-09",
-    "time": "6:30 pm — 8:00 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - BASICS",
-    "link": "https://www.gc.cuny.edu/events/drupal-basics-training-june-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-06-10",
-    "time": "",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "SHORT LUNCHTIME EXHIBITION TOURS",
-    "link": "https://www.gc.cuny.edu/events/short-lunchtime-exhibition-tours-june-10-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-06-10",
-    "time": "12:00 pm — 1:00 pm",
-    "location": "1200: James Art Gallery",
-    "tags": [
-      "James Gallery"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - ADVANCED",
-    "link": "https://www.gc.cuny.edu/events/advanced-drupal-training-june-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-06-10",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "ANNUAL JOSÉ MUÑOZ AWARD: HONORING QWEEN JEAN",
-    "link": "https://www.gc.cuny.edu/events/annual-jose-munoz-award-honoring-qween-jean",
-    "college": "CUNY Graduate Center",
-    "date": "2026-06-15",
-    "time": "6:30 pm — 7:45 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "CLAGS: The Center for LGBTQ Studies",
-      "Public Programs",
-      "GC Presents",
-      "LGBTQ +"
-    ]
-  },
-  {
-    "title": "DRUPAL ACCESSIBILITY TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-june-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-06-24",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - BASICS",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-jul-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-08",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
+      "Committee on Globalization and Social Change"
     ]
   }
 ]
