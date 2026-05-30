@@ -134,27 +134,11 @@
     "tags": []
   },
   {
-    "title": "Real World Visit at Deloitte",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/fe64a72e-96cc-4b5e-983d-459c715c7b74",
-    "college": "Kingsborough Community College",
-    "date": "2026-05-29",
-    "time": "01:30 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "Commencement Guest Tickets",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/92a56fe8-8c16-4f68-9102-b038ea88d134",
     "college": "Kingsborough Community College",
     "date": "2026-06-04",
     "time": "02:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Kingsborough goes to the New Museum",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/9ad67e49-ef5b-47be-afcb-ca05245ae28c",
-    "college": "Kingsborough Community College",
-    "date": "2026-05-29",
-    "time": "05:00 PM - 05:00 PM",
     "tags": []
   },
   {
@@ -843,6 +827,19 @@
     ]
   },
   {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2026-06-24/",
+    "college": "Bronx Community College",
+    "date": "2026-06-24",
+    "time": "09:00 AM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
+    ]
+  },
+  {
     "title": "CUNY Pride Times Square",
     "link": "https://csi.campuslabs.com/engage/event/12460122",
     "college": "College of Staten Island",
@@ -867,14 +864,6 @@
       "Social",
       "Sustainability"
     ]
-  },
-  {
-    "title": "2026 CUNY Asian American Film Festival",
-    "link": "https://events.cuny.edu/cec/2026-cuny-asian-american-film-festival/",
-    "college": "Asian American / Asian Research Institute",
-    "date": "2026-05-29",
-    "time": "6:00 PM - 8:00 PM",
-    "tags": []
   },
   {
     "title": "Walk-In Wednesday",
@@ -919,27 +908,11 @@
     "tags": []
   },
   {
-    "title": "Mathematics Competition for High School Students",
-    "link": "https://qc.event.cuny.edu/events/hOy27S6rV4bHW3sJ07ii/wt8nLLLuA5UaCKoVh7On",
-    "college": "Queens College",
-    "date": "2026-05-29",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "THHS",
-    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/SW1IZntkxbZ1ZySkIFtr5",
-    "college": "Queens College",
-    "date": "2026-05-29",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "LCD Graduation 2026",
-    "link": "https://qc.event.cuny.edu/events/V2exsKABf2X613ZIIT6N/kYCKeVLzau5Dd4AZ0NYA",
-    "college": "Queens College",
-    "date": "2026-05-29",
-    "time": "8:00AM",
+    "title": "Essay Composition Workshops – BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007244",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-04",
+    "time": "02:00 PM - 03:00 PM",
     "tags": []
   },
   {
@@ -1031,75 +1004,43 @@
     "tags": []
   },
   {
+    "title": "THHS",
+    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/SW1IZntkxbZ1ZySkIFtr7",
+    "college": "Queens College",
+    "date": "2026-06-02",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL12",
+    "college": "Queens College",
+    "date": "2026-06-02",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb2",
+    "college": "Queens College",
+    "date": "2026-06-02",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "QSI Summer Immersion Program",
+    "link": "https://qc.event.cuny.edu/events/NN6NLGjCFGltVRhbIaou/PjPGg77Oc42I8KMG9wjz2",
+    "college": "Queens College",
+    "date": "2026-06-02",
+    "time": "8:50AM",
+    "tags": []
+  },
+  {
     "title": "Spring Regular Session:  Spring 2026 Degree Conferral Date.",
     "link": "https://baruch.event.cuny.edu/events/vYMkvFRDiMfOX5hyrRee/A6afz7JF9fFLU48Xtews",
     "college": "Baruch College",
     "date": "2026-06-01",
     "time": "",
-    "tags": []
-  },
-  {
-    "title": "PLTLIS",
-    "link": "https://citytech.event.cuny.edu/events/W2EVx9wKcVqDxDC5zncC/WTGPRwLp144mI2nGvXWP",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-29",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "PTLIS",
-    "link": "https://citytech.event.cuny.edu/events/LvhhtHvKtmAlVEiBbxZt/X9BpzdGkDPJU4NF5vc0Z2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-29",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "PLTLIS",
-    "link": "https://citytech.event.cuny.edu/events/NoX3mBOg7VauUr3DyA2b/QNUDTkSOdMHF0Ncz28zD2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-29",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers",
-    "link": "https://citytech.event.cuny.edu/events/cQS2XAJkMDSXmmeEyg8Y/xh89Rxoy0UIzMOacY4zX",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-29",
-    "time": "8:30AM",
-    "tags": []
-  },
-  {
-    "title": "ESOL ESDD Friday",
-    "link": "https://citytech.event.cuny.edu/events/vS206b1oDJ0DBiFPcOPX/MiJORYLVaFwfzkUmMcAp6",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-29",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "FDC Class with Khadijah Frederick",
-    "link": "https://citytech.event.cuny.edu/events/j16YeGWtigI4mbLyowTG/PNfiMfvTEa5hOssiBJWi",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-29",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "High School Equivalency Math",
-    "link": "https://citytech.event.cuny.edu/events/uacMU14Qwm4rXdNYGrCi/rkWWaMke8M61Dv6njXvC6",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-29",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "CLIP Student Showcase",
-    "link": "https://citytech.event.cuny.edu/events/Pcg5NZRg0xEJSp6OxRFd/WxghT6FJCkVN5mIpHAfU",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-05-29",
-    "time": "5:30PM",
     "tags": []
   },
   {
@@ -1116,6 +1057,110 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-05-30",
     "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Information Session",
+    "link": "https://citytech.event.cuny.edu/events/DQeW2RYRjQ6ejASHRN25/dSo1wNM89uDRkqEWVHmx",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-05-30",
+    "time": "10:30AM",
+    "tags": []
+  },
+  {
+    "title": "NCLEX Review",
+    "link": "https://citytech.event.cuny.edu/events/PkV77DZtXoiDVmsky3uM/AVEfRMaNv86joB7ugRR5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-01",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-01",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Workspace",
+    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-01",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "CSTEP Summer Research",
+    "link": "https://citytech.event.cuny.edu/events/E6MA3NrLypKDhMXr3iNx/Er8gt5PcUMPAdjCqDYL1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-01",
+    "time": "10:30AM",
+    "tags": []
+  },
+  {
+    "title": "Dental Hygiene Pinning Ceremony",
+    "link": "https://citytech.event.cuny.edu/events/o5fxXhn1cQWc9FvrjO8A/BPrqtnIAZWNjuYxPuIs8",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-01",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Cstep Summer research oorientation",
+    "link": "https://citytech.event.cuny.edu/events/T4CQKoZGZWGCnxmou2fF/ssutSPLIqi2vS36OTYIb",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-01",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Restorative Dentistry Pinning & Awards Ceremony",
+    "link": "https://citytech.event.cuny.edu/events/DDUiyrbT7q2TCij9rteF/VSynQqfH9joRKcIMhFCW",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-01",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "Restorative Dentistry Pinning Ceremony",
+    "link": "https://citytech.event.cuny.edu/events/gi7beyyWXzUzhwUaUtjM/uFnJOERkA62UMGMQ5yJp",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-01",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "25th Annual Citywide HS Graphic Arts Competition",
+    "link": "https://citytech.event.cuny.edu/events/j5iFILjz6i7LKi7aApq8/f7gMIaSIDkCUabngvouT",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-02",
+    "time": "8:30AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-02",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Workspace",
+    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-02",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "A Better Chance For Success",
+    "link": "https://citytech.event.cuny.edu/events/uiLUDQncIBYy4uHJj0MM/SKCNKrAufglqCLtBdsaW",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-02",
+    "time": "11:00AM",
     "tags": []
   },
   {
@@ -1188,86 +1233,6 @@
     "college": "CUNY School of Public Health",
     "date": "2026-08-11",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Adult Degree Program Information Session",
-    "link": "https://www.lehman.edu/events/2026/Adult-Degree-Program-Information-Session.php?event_type=recurs_1",
-    "college": "Lehman College",
-    "date": "2026-06-03",
-    "time": "2:00 PM- 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Conference on Play",
-    "link": "https://www.lehman.edu/events/2026/Conference-on-Play-1.php",
-    "college": "Lehman College",
-    "date": "2026-06-05",
-    "time": "8:30 AM- 1:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Cyber Security Risk Assessment For Small Businesses",
-    "link": "https://www.lehman.edu/events/2026/Cyber-Security-Risk-Assessment-For-Small-Businesses.php",
-    "college": "Lehman College",
-    "date": "2026-06-13",
-    "time": "10:00 AM- 12:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Adult Degree Program Information Session",
-    "link": "https://www.lehman.edu/events/2026/Adult-Degree-Program-Information-Session.php?event_type=recurs_2",
-    "college": "Lehman College",
-    "date": "2026-06-13",
-    "time": "12:00 PM- 1:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Healthy Food and Literary Night for Families & Individuals: Honoring Diverse LGBTQIA+ Identities Through Literature & Community",
-    "link": "https://www.lehman.edu/events/2026/Healthy-Food-and-Literary-Night-for-Families--Individuals-Honoring-Diverse-LGBTQIA-Identities-Through-Literature--Community.php",
-    "college": "Lehman College",
-    "date": "2026-06-17",
-    "time": "4:00 PM- 5:30 PM",
-    "tags": []
-  },
-  {
-    "title": "BA-Social Work Information Sessions",
-    "link": "https://www.lehman.edu/events/2026/BA-Social-Work-Information-Sessions.php",
-    "college": "Lehman College",
-    "date": "2026-06-23",
-    "time": "6:00 PM- 7:15 PM",
-    "tags": []
-  },
-  {
-    "title": "Cyber Security Risk Assessment For Small Businesses",
-    "link": "https://www.lehman.edu/events/2026/Cyber-Security-Risk-Assessment-For-Small-Businesses-1.php",
-    "college": "Lehman College",
-    "date": "2026-06-27",
-    "time": "10:00 AM- 12:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
-    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session--2.php",
-    "college": "Lehman College",
-    "date": "2026-09-08",
-    "time": "6:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
-    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session--2.php",
-    "college": "Lehman College",
-    "date": "2026-09-08",
-    "time": "6:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Geographic Information Science Information Session M.S. & Adv. Cert.",
-    "link": "https://www.lehman.edu/events/2026/Geographic-Information-Science-Information-Session-MS--Adv-Cert-2.php",
-    "college": "Lehman College",
-    "date": "2026-09-15",
-    "time": "5:30 PM- 6:30 PM",
     "tags": []
   },
   {
@@ -1348,62 +1313,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-15",
     "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "York College’s 56th Commencement Ceremony",
-    "link": "https://www.york.cuny.edu/commencement-2026/york-colleges-56th-commencement-ceremony",
-    "college": "York College",
-    "date": "2026-05-29",
-    "time": "2:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "First day of classes for 4-Week 1",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-1-2",
-    "college": "York College",
-    "date": "2026-06-01",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "First day of classes for 7-Week 1",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-7-week-1-1",
-    "college": "York College",
-    "date": "2026-06-01",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "First day of classes for 10-Week",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-10-week-1",
-    "college": "York College",
-    "date": "2026-06-01",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Spring 2026 Degree Conferral date",
-    "link": "https://www.york.cuny.edu/registrar/calendar/spring/spring-2026-degree-conferral-date",
-    "college": "York College",
-    "date": "2026-06-01",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 1",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun1",
-    "college": "York College",
-    "date": "2026-06-01",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Verification of Enrollment Rosters available to faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-8",
-    "college": "York College",
-    "date": "2026-06-02",
-    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
