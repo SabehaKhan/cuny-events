@@ -54,14 +54,6 @@
     "tags": []
   },
   {
-    "title": "Good Luck Finals Breakfast",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/7230e85a-b4fe-4398-9886-47ec0d783137",
-    "college": "Kingsborough Community College",
-    "date": "2026-06-02",
-    "time": "12:30 PM - 12:30 PM",
-    "tags": []
-  },
-  {
     "title": "Grad Cap Decorating",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/1bd6dc25-a2f7-44f4-8774-d4afea66e0f5",
     "college": "Kingsborough Community College",
@@ -132,41 +124,6 @@
     "date": "2026-06-04",
     "time": "02:00 PM - 10:00 PM",
     "tags": []
-  },
-  {
-    "title": "Spring 1 2026 Study-a-Thon",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377247",
-    "college": "Guttman Community College",
-    "date": "2026-06-02",
-    "time": "01:00 PM - 12:00 AM",
-    "tags": [
-      "ASC",
-      "Academic",
-      "Tutoring"
-    ]
-  },
-  {
-    "title": "PTK Spring 2026 Induction",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=376759",
-    "college": "Guttman Community College",
-    "date": "2026-06-02",
-    "time": "05:15 PM - 06:45 PM",
-    "tags": [
-      "PTK",
-      "Ceremony"
-    ]
-  },
-  {
-    "title": "Pride, Joy and Paint",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377223",
-    "college": "Guttman Community College",
-    "date": "2026-06-02",
-    "time": "05:15 PM - 06:45 PM",
-    "tags": [
-      "OSL",
-      "Social",
-      "LGBTQ+"
-    ]
   },
   {
     "title": "Spring 1 2026 Study-a-Thon",
@@ -785,39 +742,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-8/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-29",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-10/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-01",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-9/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-06",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2026-06-15/",
     "college": "Bronx Community College",
@@ -926,6 +850,19 @@
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2026-06-29/",
     "college": "Bronx Community College",
     "date": "2026-06-29",
+    "time": "09:00 AM - 05:00 PM",
+    "tags": [
+      "Enrollment Management",
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2026-06-30/",
+    "college": "Bronx Community College",
+    "date": "2026-06-30",
     "time": "09:00 AM - 05:00 PM",
     "tags": [
       "Enrollment Management",
@@ -1110,62 +1047,6 @@
   },
   {
     "title": "Windows Replacement Project",
-    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ2",
-    "college": "Queens College",
-    "date": "2026-06-02",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "THHS",
-    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/SW1IZntkxbZ1ZySkIFtr7",
-    "college": "Queens College",
-    "date": "2026-06-02",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA12",
-    "college": "Queens College",
-    "date": "2026-06-02",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Placement Exams",
-    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb2",
-    "college": "Queens College",
-    "date": "2026-06-02",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "QSI Summer Immersion Program",
-    "link": "https://qc.event.cuny.edu/events/NN6NLGjCFGltVRhbIaou/rURmfIYsNH7rLvp7GY7z2",
-    "college": "Queens College",
-    "date": "2026-06-02",
-    "time": "9:45AM",
-    "tags": []
-  },
-  {
-    "title": "THHS Class",
-    "link": "https://qc.event.cuny.edu/events/rvHgFZTrPNkMlJKAUhHZ/WGp2UzwqBnV1gHNQ4GtM36",
-    "college": "Queens College",
-    "date": "2026-06-02",
-    "time": "10:40AM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Placement Exams",
-    "link": "https://qc.event.cuny.edu/events/qPP6X09WBELrqLjZcEAe/MkrHlDHq8qc6oM5wrCsu",
-    "college": "Queens College",
-    "date": "2026-06-02",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "Windows Replacement Project",
     "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ3",
     "college": "Queens College",
     "date": "2026-06-03",
@@ -1213,43 +1094,59 @@
     "tags": []
   },
   {
-    "title": "25th Annual Citywide HS Graphic Arts Competition",
-    "link": "https://citytech.event.cuny.edu/events/j5iFILjz6i7LKi7aApq8/f7gMIaSIDkCUabngvouT",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-06-02",
-    "time": "8:30AM",
+    "title": "Windows Replacement Project",
+    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ4",
+    "college": "Queens College",
+    "date": "2026-06-04",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-06-02",
-    "time": "9:00AM",
+    "title": "THHS",
+    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/SW1IZntkxbZ1ZySkIFtr9",
+    "college": "Queens College",
+    "date": "2026-06-04",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Tech Talent Pipeline Residency Workspace",
-    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-06-02",
-    "time": "9:00AM",
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA14",
+    "college": "Queens College",
+    "date": "2026-06-04",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "A Better Chance For Success",
-    "link": "https://citytech.event.cuny.edu/events/uiLUDQncIBYy4uHJj0MM/SKCNKrAufglqCLtBdsaW",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-06-02",
-    "time": "11:00AM",
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb4",
+    "college": "Queens College",
+    "date": "2026-06-04",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "SLD Ambassador End of Year Celebration",
-    "link": "https://citytech.event.cuny.edu/events/wWr76VPKmgMZoms6hdDb/zKL4BqHfsnt7Qtzo8zLT",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-06-02",
-    "time": "12:30PM",
+    "title": "THHS Class",
+    "link": "https://qc.event.cuny.edu/events/rvHgFZTrPNkMlJKAUhHZ/WGp2UzwqBnV1gHNQ4GtM37",
+    "college": "Queens College",
+    "date": "2026-06-04",
+    "time": "10:40AM",
+    "tags": []
+  },
+  {
+    "title": "WIBO Entrepreneur Training - Queens Cohort Graduation Celebration",
+    "link": "https://qc.event.cuny.edu/events/gx2O0YyFZ4gGLbHqTGYZ/AzFxjB4jBUg5psiBFx0l",
+    "college": "Queens College",
+    "date": "2026-06-04",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "Windows Replacement Project",
+    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ5",
+    "college": "Queens College",
+    "date": "2026-06-05",
+    "time": "8:00AM",
     "tags": []
   },
   {
@@ -1325,11 +1222,59 @@
     "tags": []
   },
   {
-    "title": "Hostos Commencement Ceremony",
-    "link": "https://hostos.event.cuny.edu/events/gqpdmdWGVZiyRofbT5oY/ktVID9YBYZ8SYJKiZmVv",
-    "college": "Hostos Community College",
-    "date": "2026-06-02",
-    "time": "11:00AM",
+    "title": "Banner Bearer Rehearsal",
+    "link": "https://citytech.event.cuny.edu/events/BuT71AEP2XLsz9APnJzg/tCAqI6PUBMmh3weqNDtv",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-04",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "ESOL Program Collaboration on Placement and Advisement",
+    "link": "https://citytech.event.cuny.edu/events/SDsHoaO2iArmk2uffmRW/E0aPdrdJVyescbsxWJM0",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-04",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "A Better Chance For Success",
+    "link": "https://citytech.event.cuny.edu/events/uiLUDQncIBYy4uHJj0MM/JFpCpsGV3LEUUEb5TsL1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-04",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "ESOL ESDD Friday",
+    "link": "https://citytech.event.cuny.edu/events/vS206b1oDJ0DBiFPcOPX/MiJORYLVaFwfzkUmMcAp7",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-05",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "NCLEX Review",
+    "link": "https://citytech.event.cuny.edu/events/PkV77DZtXoiDVmsky3uM/Y6G5BbkG50LgmKFvLLh9",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-05",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-05",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Workspace",
+    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-05",
+    "time": "9:00AM",
     "tags": []
   },
   {
@@ -1565,14 +1510,6 @@
     "tags": []
   },
   {
-    "title": "Verification of Enrollment Rosters available to faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-8",
-    "college": "York College",
-    "date": "2026-06-02",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
     "title": "V-READY Jun 3",
     "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun3",
     "college": "York College",
@@ -1649,6 +1586,22 @@
     "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-9",
     "college": "York College",
     "date": "2026-06-10",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 10",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun10",
+    "college": "York College",
+    "date": "2026-06-10",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment Rosters due from faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-10",
+    "college": "York College",
+    "date": "2026-06-14",
     "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
