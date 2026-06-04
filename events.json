@@ -817,17 +817,6 @@
     ]
   },
   {
-    "title": "Garden maintenance",
-    "link": "https://csi.campuslabs.com/engage/event/12481165",
-    "college": "College of Staten Island",
-    "date": "2026-06-04",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Sustainability"
-    ]
-  },
-  {
     "title": "CUNY Pride Times Square",
     "link": "https://csi.campuslabs.com/engage/event/12460122",
     "college": "College of Staten Island",
@@ -983,6 +972,16 @@
     "date": "2026-06-05",
     "time": "8:30 AM - 1:30 PM",
     "tags": []
+  },
+  {
+    "title": "Transfer Your OneDrive Files",
+    "link": "https://events.cuny.edu/cec/transfer-your-onedrive-files-3/",
+    "college": "College of Staten Island",
+    "date": "2026-06-08",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Technology Training"
+    ]
   },
   {
     "title": "Windows Replacement Project",
@@ -1197,30 +1196,6 @@
     "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW5",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-06-05",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Rajah Caruth",
-    "link": "https://citytech.event.cuny.edu/events/Sz9iMYP2JbyYAgqpSXpc/PpQpjWiT0mJFAJlY0FKR",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-06-07",
-    "time": "2:00PM",
-    "tags": []
-  },
-  {
-    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq6",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-06-08",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Tech Talent Pipeline Residency Workspace",
-    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW6",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-06-08",
     "time": "9:00AM",
     "tags": []
   },
