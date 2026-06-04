@@ -27,14 +27,6 @@
     "tags": []
   },
   {
-    "title": "Produce Day",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/89e856f7-a8ae-4b41-9bea-475cb03e5f23",
-    "college": "Kingsborough Community College",
-    "date": "2026-06-03",
-    "time": "03:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "CUNY Transfer Application Workshop",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/4292f105-c02d-4cdb-ba21-864501c04c0b",
     "college": "Kingsborough Community College",
@@ -48,22 +40,6 @@
     "college": "Kingsborough Community College",
     "date": "2026-06-04",
     "time": "02:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "College Visit- St. Francis College",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/e2fb429f-1977-45a8-bf0b-4ba0f7c8b052",
-    "college": "Kingsborough Community College",
-    "date": "2026-06-03",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "College Visit- St. Joseph's University- Brooklyn",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/5b1d5fd2-92cb-4c7e-9a9b-410853b66d64",
-    "college": "Kingsborough Community College",
-    "date": "2026-06-03",
-    "time": "02:00 PM - 05:00 PM",
     "tags": []
   },
   {
@@ -99,20 +75,198 @@
     "tags": []
   },
   {
-    "title": "SGA After Party Prom Party",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/ec91393a-c339-45ea-99c4-f66c952362f2",
-    "college": "Kingsborough Community College",
-    "date": "2026-06-03",
-    "time": "08:00 PM - 12:00 AM",
-    "tags": []
-  },
-  {
     "title": "Commencement Guest Tickets",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/92a56fe8-8c16-4f68-9102-b038ea88d134",
     "college": "Kingsborough Community College",
     "date": "2026-06-04",
     "time": "02:00 PM - 10:00 PM",
     "tags": []
+  },
+  {
+    "title": "Spring 1 2026 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377249",
+    "college": "Guttman Community College",
+    "date": "2026-06-04",
+    "time": "12:00 PM - 12:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Caribbean Tour",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377237",
+    "college": "Guttman Community College",
+    "date": "2026-06-04",
+    "time": "05:15 PM - 06:45 PM",
+    "tags": [
+      "CSA",
+      "Cultural/Heritage",
+      "Food - Lunch "
+    ]
+  },
+  {
+    "title": "Spring 1 2026 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377250",
+    "college": "Guttman Community College",
+    "date": "2026-06-05",
+    "time": "01:00 PM - 12:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Spring 1 2026 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377251",
+    "college": "Guttman Community College",
+    "date": "2026-06-08",
+    "time": "01:00 PM - 01:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Spring 1 2026 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377252",
+    "college": "Guttman Community College",
+    "date": "2026-06-09",
+    "time": "01:00 PM - 12:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Spring 1 2026 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377253",
+    "college": "Guttman Community College",
+    "date": "2026-06-10",
+    "time": "02:00 PM - 01:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Spring 1 2026 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377254",
+    "college": "Guttman Community College",
+    "date": "2026-06-11",
+    "time": "12:00 PM - 12:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Spring 1 2026 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377255",
+    "college": "Guttman Community College",
+    "date": "2026-06-12",
+    "time": "01:00 PM - 12:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Spring 1 2026 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377256",
+    "college": "Guttman Community College",
+    "date": "2026-06-15",
+    "time": "01:00 PM - 01:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Check-in With Your Financial Aid Advisor",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377245",
+    "college": "Guttman Community College",
+    "date": "2026-06-15",
+    "time": "07:00 PM - 08:30 PM",
+    "tags": [
+      "EMSA",
+      "Office Hours",
+      "Financial Aid",
+      "Federal Work Study",
+      "FASFA & TAP Applications",
+      "Satisfactory Academic Progress (SAP)"
+    ]
+  },
+  {
+    "title": "The Stellas - End of Year Award Ceremony",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377222",
+    "college": "Guttman Community College",
+    "date": "2026-06-15",
+    "time": "09:30 PM - 01:00 AM",
+    "tags": [
+      "OSL",
+      "Ceremony",
+      "Ceremony",
+      "Food - Dinner",
+      "Off-Campus",
+      "Student Life"
+    ]
+  },
+  {
+    "title": "Spring 1 2026 Study-a-Thon",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377257",
+    "college": "Guttman Community College",
+    "date": "2026-06-16",
+    "time": "01:00 PM - 12:00 AM",
+    "tags": [
+      "ASC",
+      "Academic",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Commencement Rehearsal!",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377240",
+    "college": "Guttman Community College",
+    "date": "2026-06-16",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "OSL",
+      "Ceremony",
+      "Student Life"
+    ]
+  },
+  {
+    "title": "Join CCSD, Network, Have Fun and Get Connected",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377234",
+    "college": "Guttman Community College",
+    "date": "2026-06-25",
+    "time": "05:00 PM - 06:30 PM",
+    "tags": [
+      "EMSA",
+      "Educational/Awareness"
+    ]
+  },
+  {
+    "title": "Guttman Community College takes Six Flags Great Adventure (READ DESCRIPTION)",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377215",
+    "college": "Guttman Community College",
+    "date": "2026-06-26",
+    "time": "12:00 PM - 01:00 AM",
+    "tags": [
+      "OSL",
+      "Social - Off-Campus",
+      "Student Life",
+      "Trip - Day"
+    ]
   },
   {
     "title": "MS-IPND Graduate Nutrition Program Information Sessions",
@@ -764,22 +918,6 @@
     ]
   },
   {
-    "title": "Walk-In Wednesday",
-    "link": "https://events.cuny.edu/cec/walk-in-wednesday-4/",
-    "college": "Queens College",
-    "date": "2026-06-03",
-    "time": "9:00 AM - 4:30 PM",
-    "tags": []
-  },
-  {
-    "title": "New York Assembly District 65/Senate District 27 Candidate Forum",
-    "link": "https://events.cuny.edu/cec/new-york-assembly-district-65-senate-district-27-candidate-forum/",
-    "college": "Asian American / Asian Research Institute",
-    "date": "2026-06-03",
-    "time": "6:00 PM - 8:15 PM",
-    "tags": []
-  },
-  {
     "title": "Transfer Your OneDrive Files",
     "link": "https://events.cuny.edu/cec/transfer-your-onedrive-files/",
     "college": "College of Staten Island",
@@ -831,6 +969,262 @@
     "college": "Asian American / Asian Research Institute",
     "date": "2026-06-05",
     "time": "6:00 PM - 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Conference on Play",
+    "link": "https://lehman.edu/events/2026/Conference-on-Play-1.php",
+    "college": "Lehman College",
+    "date": "2026-06-05",
+    "time": "8:30 AM - 1:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Windows Replacement Project",
+    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ4",
+    "college": "Queens College",
+    "date": "2026-06-04",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "THHS",
+    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/SW1IZntkxbZ1ZySkIFtr9",
+    "college": "Queens College",
+    "date": "2026-06-04",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA14",
+    "college": "Queens College",
+    "date": "2026-06-04",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb4",
+    "college": "Queens College",
+    "date": "2026-06-04",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "THHS Class",
+    "link": "https://qc.event.cuny.edu/events/rvHgFZTrPNkMlJKAUhHZ/WGp2UzwqBnV1gHNQ4GtM37",
+    "college": "Queens College",
+    "date": "2026-06-04",
+    "time": "10:40AM",
+    "tags": []
+  },
+  {
+    "title": "WIBO Entrepreneur Training - Queens Cohort Graduation Celebration",
+    "link": "https://qc.event.cuny.edu/events/gx2O0YyFZ4gGLbHqTGYZ/AzFxjB4jBUg5psiBFx0l",
+    "college": "Queens College",
+    "date": "2026-06-04",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "Windows Replacement Project",
+    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ5",
+    "college": "Queens College",
+    "date": "2026-06-05",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Scheduling On-Site Craftsperson Mobile Application Training w/ Archibus",
+    "link": "https://qc.event.cuny.edu/events/B946ycA8bPUrJgxYNAEn/JRR9nVT5bprjwHMaupJR",
+    "college": "Queens College",
+    "date": "2026-06-05",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "THHS",
+    "link": "https://qc.event.cuny.edu/events/GFJfqpQgteJXszs0fxH4/SW1IZntkxbZ1ZySkIFtr10",
+    "college": "Queens College",
+    "date": "2026-06-05",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA15",
+    "college": "Queens College",
+    "date": "2026-06-05",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb5",
+    "college": "Queens College",
+    "date": "2026-06-05",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "QSI Summer Immersion Program",
+    "link": "https://qc.event.cuny.edu/events/NN6NLGjCFGltVRhbIaou/rURmfIYsNH7rLvp7GY7z4",
+    "college": "Queens College",
+    "date": "2026-06-05",
+    "time": "9:45AM",
+    "tags": []
+  },
+  {
+    "title": "Windows Replacement Project",
+    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ6",
+    "college": "Queens College",
+    "date": "2026-06-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA16",
+    "college": "Queens College",
+    "date": "2026-06-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb6",
+    "college": "Queens College",
+    "date": "2026-06-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "College Now / Brooklyn DA Youth Summit",
+    "link": "https://citytech.event.cuny.edu/events/lsz7hUR8k5XakpNNtDAo/DKOkOHF45ufwHQhYoRex",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-04",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq4",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-04",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Workspace",
+    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW4",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-04",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Thomas Ahrens International Work/Study Abroad programs",
+    "link": "https://citytech.event.cuny.edu/events/frSvDctKPiYAoeqyzlmi/aF3C3Yy0wqwNWrBwI8Xr",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-04",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center Intake Session",
+    "link": "https://citytech.event.cuny.edu/events/FW3ti2GMt0abuckscXbT/s2Q32aWoNI59rnVAUZ4I1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-04",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Banner Bearer Rehearsal",
+    "link": "https://citytech.event.cuny.edu/events/BuT71AEP2XLsz9APnJzg/tCAqI6PUBMmh3weqNDtv",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-04",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "ESOL Program Collaboration on Placement and Advisement",
+    "link": "https://citytech.event.cuny.edu/events/SDsHoaO2iArmk2uffmRW/E0aPdrdJVyescbsxWJM0",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-04",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "A Better Chance For Success",
+    "link": "https://citytech.event.cuny.edu/events/uiLUDQncIBYy4uHJj0MM/JFpCpsGV3LEUUEb5TsL1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-04",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "ESOL ESDD Friday",
+    "link": "https://citytech.event.cuny.edu/events/vS206b1oDJ0DBiFPcOPX/MiJORYLVaFwfzkUmMcAp7",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-05",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "NCLEX Review",
+    "link": "https://citytech.event.cuny.edu/events/PkV77DZtXoiDVmsky3uM/Y6G5BbkG50LgmKFvLLh9",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-05",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-05",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Workspace",
+    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-05",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Rajah Caruth",
+    "link": "https://citytech.event.cuny.edu/events/Sz9iMYP2JbyYAgqpSXpc/PpQpjWiT0mJFAJlY0FKR",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-07",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-08",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Workspace",
+    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-08",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYC Rent Guidelines Board Hearing",
+    "link": "https://hostos.event.cuny.edu/events/uPlWDmjmbuAEkzhHuxKA/Mtc4BtPIpSPdC26It1BA",
+    "college": "Hostos Community College",
+    "date": "2026-06-08",
+    "time": "5:00PM",
     "tags": []
   },
   {
@@ -887,14 +1281,6 @@
     "college": "CUNY School of Public Health",
     "date": "2026-08-11",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Adult Degree Program Information Session",
-    "link": "https://www.lehman.edu/events/2026/Adult-Degree-Program-Information-Session.php?event_type=recurs_1",
-    "college": "Lehman College",
-    "date": "2026-06-03",
-    "time": "2:00 PM- 3:00 PM",
     "tags": []
   },
   {
@@ -967,6 +1353,14 @@
     "college": "Lehman College",
     "date": "2026-09-15",
     "time": "5:30 PM- 6:30 PM",
+    "tags": []
+  },
+  {
+    "title": "BA-Social Work Information Sessions",
+    "link": "https://www.lehman.edu/events/2026/BA-Social-Work-Information-Sessions-1.php",
+    "college": "Lehman College",
+    "date": "2026-09-16",
+    "time": "6:00 PM- 7:15 PM",
     "tags": []
   },
   {
