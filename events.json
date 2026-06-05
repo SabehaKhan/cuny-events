@@ -70,18 +70,6 @@
     ]
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-06-05/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-05",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Pride in Queens: Stories from Our Neighborhoods",
     "link": "https://www.laguardia.edu/event/pride-in-queens-stories-from-our-neighborhoods/2026-06-05/",
     "college": "LaGuardia Community College",
@@ -386,6 +374,18 @@
     "tags": [
       "admissions",
       "all calendars"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-06-26/",
+    "college": "LaGuardia Community College",
+    "date": "2026-06-26",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
     ]
   },
   {
@@ -1220,14 +1220,6 @@
     "tags": []
   },
   {
-    "title": "Conference on Play",
-    "link": "https://lehman.edu/events/2026/Conference-on-Play-1.php",
-    "college": "Lehman College",
-    "date": "2026-06-05",
-    "time": "8:30 AM - 1:30 PM",
-    "tags": []
-  },
-  {
     "title": "Internship information session",
     "link": "https://www.bmcc.cuny.edu/event/?p=671467",
     "college": "Borough of Manhattan Community College",
@@ -1253,6 +1245,16 @@
     "time": "5:00 PM - 7:00 PM",
     "tags": [
       "LGBTQ+"
+    ]
+  },
+  {
+    "title": "9th Annual CUNY Pridefest @ Times Square",
+    "link": "https://events.cuny.edu/cec/9th-annual-cuny-pridefest-times-square/",
+    "college": "The City College of New York",
+    "date": "2026-06-08",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": [
+      "LGBTQI+"
     ]
   },
   {
@@ -1579,7 +1581,7 @@
   },
   {
     "title": "Conference on Play",
-    "link": "https://www.lehman.edu/events/2026/Conference-on-Play-1.php",
+    "link": "https://www.lehman.edu/events/2026/Conference-on-Play.php",
     "college": "Lehman College",
     "date": "2026-06-05",
     "time": "8:30 AM- 1:30 PM",
