@@ -83,50 +83,6 @@
     "tags": []
   },
   {
-    "title": "La Casa Graduation Celebration",
-    "link": "https://www.laguardia.edu/event/la-casa-graduation-celebration/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-08",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Admissions Adult Learner One-on-One Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-adult-learner-one-on-one-information-session-16/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-08",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Admissions Adult Learner One-on-One Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-adult-learner-one-on-one-information-session-17/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-08",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Admissions Adult Learner In-Person Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-adult-learner-in-person-information-session-18/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-08",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Donut Day",
     "link": "https://www.laguardia.edu/event/donut-day-3/",
     "college": "LaGuardia Community College",
@@ -396,6 +352,60 @@
     "tags": [
       "admissions",
       "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "The World in Queens: World Cup Watch Parties",
+    "link": "https://www.laguardia.edu/event/the-world-in-queens-world-cup-watch-parties/2026-07-10/",
+    "college": "LaGuardia Community College",
+    "date": "2026-07-10",
+    "time": "12:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Faculty and Staff",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "The World in Queens: World Cup Watch Parties",
+    "link": "https://www.laguardia.edu/event/the-world-in-queens-world-cup-watch-parties/2026-07-15/",
+    "college": "LaGuardia Community College",
+    "date": "2026-07-15",
+    "time": "12:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Faculty and Staff",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2/2026-07-17/",
+    "college": "LaGuardia Community College",
+    "date": "2026-07-17",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "The World in Queens: World Cup Watch Parties",
+    "link": "https://www.laguardia.edu/event/the-world-in-queens-world-cup-watch-parties/2026-07-19/",
+    "college": "LaGuardia Community College",
+    "date": "2026-07-19",
+    "time": "12:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Faculty and Staff",
+      "Featured",
       "student events"
     ]
   },
@@ -760,32 +770,6 @@
     ]
   },
   {
-    "title": "Essay Composition Workshops - BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/essay-composition-workshops-bmcc-writing-center-2/2026-06-08/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-08",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "English",
-      "Featured",
-      "Workshops",
-      "Writing Across the Curriculum (WAC)",
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-6-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-08",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
     "title": "International Day of Yoga",
     "link": "https://www.bmcc.cuny.edu/event/international-day-of-yoga-2/",
     "college": "Borough of Manhattan Community College",
@@ -851,6 +835,20 @@
     ]
   },
   {
+    "title": "Essay Composition Workshops - BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/essay-composition-workshops-bmcc-writing-center-2/2026-06-11/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-11",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "English",
+      "Featured",
+      "Workshops",
+      "Writing Across the Curriculum (WAC)",
+      "Writing Center"
+    ]
+  },
+  {
     "title": "Admissions Information Session (online): Criminology and Criminal Justice",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-7/",
     "college": "Borough of Manhattan Community College",
@@ -878,6 +876,18 @@
       "Nursing",
       "Science",
       "Teacher Education"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-6-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-15",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Evening-Weekend",
+      "Featured"
     ]
   },
   {
@@ -1236,6 +1246,14 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-06-08",
     "time": "03:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=676185",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-08",
+    "time": "04:00 PM - 05:00 PM",
     "tags": []
   },
   {
@@ -1726,6 +1744,78 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-21",
     "time": "11:00 AM - 2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment Rosters due from faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-9",
+    "college": "York College",
+    "date": "2026-06-10",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 10",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun10",
+    "college": "York College",
+    "date": "2026-06-10",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment Rosters due from faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-10",
+    "college": "York College",
+    "date": "2026-06-14",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 15",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun15",
+    "college": "York College",
+    "date": "2026-06-15",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 4-Week 1 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-1-session-2",
+    "college": "York College",
+    "date": "2026-06-15",
+    "time": "4:00 PM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 17",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun17",
+    "college": "York College",
+    "date": "2026-06-17",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 22",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun22",
+    "college": "York College",
+    "date": "2026-06-22",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 4-Week 1",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-1-2",
+    "college": "York College",
+    "date": "2026-06-24",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 7-Week 1 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-7-week-1-session-2",
+    "college": "York College",
+    "date": "2026-06-30",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
