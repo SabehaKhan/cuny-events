@@ -59,18 +59,6 @@
     "tags": []
   },
   {
-    "title": "Stay Energized with SGA",
-    "link": "https://www.laguardia.edu/event/stay-energized-with-sga/2026-06-10/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-10",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Navigating Finals Stress:  Peer Support Group",
     "link": "https://www.laguardia.edu/event/navigating-finals-stress-peer-support-group/2026-06-10/",
     "college": "LaGuardia Community College",
@@ -385,6 +373,20 @@
     ]
   },
   {
+    "title": "The World in Queens: World Cup Watch Parties",
+    "link": "https://www.laguardia.edu/event/the-world-in-queens-world-cup-watch-parties/2026-07-15/",
+    "college": "LaGuardia Community College",
+    "date": "2026-07-15",
+    "time": "12:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Faculty and Staff",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "Spring 1 2026 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377253",
     "college": "Guttman Community College",
@@ -530,16 +532,6 @@
     "date": "2026-06-10",
     "time": "10:00 AM - 08:30 PM",
     "tags": []
-  },
-  {
-    "title": "Your Journey to Internship Success: Internship Strategy Workshop",
-    "link": "https://www.hunter.cuny.edu/event/your-journey-to-internship-success-internship-strategy-workshop/",
-    "college": "Hunter College",
-    "date": "2026-06-10",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Career Center"
-    ]
   },
   {
     "title": "Graduate Admissions Information Session",
@@ -711,30 +703,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (in-person): Focus on Human Services",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-5-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-10",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured",
-      "Human Services"
-    ]
-  },
-  {
-    "title": "International Students Admissions Session",
-    "link": "https://www.bmcc.cuny.edu/event/international-students-admissions-session-3-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-10",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
     "title": "Shirley Fiterman Art Center Opening: At the Edge Group Show",
     "link": "https://www.bmcc.cuny.edu/event/shirley-fiterman-art-center-opening-at-the-edge-group-show/",
     "college": "Borough of Manhattan Community College",
@@ -831,6 +799,18 @@
     ]
   },
   {
+    "title": "International Students Admissions Session",
+    "link": "https://www.bmcc.cuny.edu/event/international-students-admissions-session-3-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-17",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
     "title": "BMCC Tribeca Performing Arts Center Presents Dances of Woven Water",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-tribeca-performing-arts-center-presents-dances-of-woven-water/2026-06-20/",
     "college": "Borough of Manhattan Community College",
@@ -843,6 +823,18 @@
       "Global Initiatives",
       "Modern Languages",
       "Tribeca Performing Arts Center"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (in-person): LPN and Nursing",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-5-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-24",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured",
+      "Nursing"
     ]
   },
   {
@@ -1146,6 +1138,22 @@
     "tags": [
       "Technology Training"
     ]
+  },
+  {
+    "title": "Admissions Information Session (in-person): Focus on Human Services",
+    "link": "https://www.bmcc.cuny.edu/event/?p=676169",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-10",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "International Students Admissions Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=676159",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-10",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": []
   },
   {
     "title": "CCNY CWE Admissions Workshop | Online | at CCNY CWE (25 Broadway)",
