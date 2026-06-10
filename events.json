@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mary Umulo Jazzy Jazz Celebration",
+    "link": "https://www.mec.cuny.edu/event/mary-umulo-jazzy-jazz-celebration/",
+    "college": "Medgar Evers College",
+    "date": "2026-09-24",
+    "time": "07:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
     "title": "CUNY Law Alumni Connection Series",
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-sep26/",
     "college": "CUNY School of Law",
@@ -51,19 +59,6 @@
     "tags": []
   },
   {
-    "title": "Government Contracting III  Marketing to the Government Agencies",
-    "link": "https://www.laguardia.edu/event/government-contracting-iii-marketing-to-the-government-agencies/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-10",
-    "time": "09:30 AM - 10:30 AM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Stay Energized with SGA",
     "link": "https://www.laguardia.edu/event/stay-energized-with-sga/2026-06-10/",
     "college": "LaGuardia Community College",
@@ -72,17 +67,6 @@
     "tags": [
       "all calendars",
       "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays (In-Person)",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-in-person-2/2026-06-10/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-10",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
       "student events"
     ]
   },
@@ -371,6 +355,32 @@
     "tags": [
       "admissions",
       "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-2-2/2026-07-10/",
+    "college": "LaGuardia Community College",
+    "date": "2026-07-10",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "The World in Queens: World Cup Watch Parties",
+    "link": "https://www.laguardia.edu/event/the-world-in-queens-world-cup-watch-parties/2026-07-10/",
+    "college": "LaGuardia Community College",
+    "date": "2026-07-10",
+    "time": "12:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Faculty and Staff",
+      "Featured",
       "student events"
     ]
   },
@@ -1625,86 +1635,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-21",
     "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
-    "title": "Verification of Enrollment Rosters due from faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-9",
-    "college": "York College",
-    "date": "2026-06-10",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 10",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun10",
-    "college": "York College",
-    "date": "2026-06-10",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Exercise Science Virtual Information Session",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/exercise-science-virtual-information-session",
-    "college": "York College",
-    "date": "2026-06-11",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Verification of Enrollment Rosters due from faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-10",
-    "college": "York College",
-    "date": "2026-06-14",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 15",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun15",
-    "college": "York College",
-    "date": "2026-06-15",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for 4-Week 1 session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-1-session-2",
-    "college": "York College",
-    "date": "2026-06-15",
-    "time": "4:00 PM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 17",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun17",
-    "college": "York College",
-    "date": "2026-06-17",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 22",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun22",
-    "college": "York College",
-    "date": "2026-06-22",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Finals for classes in 4-Week 1",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-1-2",
-    "college": "York College",
-    "date": "2026-06-24",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Information Session",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-1",
-    "college": "York College",
-    "date": "2026-06-25",
-    "time": "5:00 PM - 6:00 PM",
     "tags": []
   },
   {
