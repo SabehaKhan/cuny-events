@@ -838,41 +838,17 @@
     ]
   },
   {
-    "title": "On-Campus Recruitment: Global Kids",
-    "link": "https://www.bmcc.cuny.edu/event/on-campus-recruitment-global-kids/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-11",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
-    ]
-  },
-  {
     "title": "Essay Composition Workshops - BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/essay-composition-workshops-bmcc-writing-center-2/2026-06-11/",
+    "link": "https://www.bmcc.cuny.edu/event/essay-composition-workshops-bmcc-writing-center-2/2026-06-15/",
     "college": "Borough of Manhattan Community College",
-    "date": "2026-06-11",
-    "time": "02:00 PM - 04:00 PM",
+    "date": "2026-06-15",
+    "time": "03:00 PM - 04:00 PM",
     "tags": [
       "English",
       "Featured",
       "Workshops",
       "Writing Across the Curriculum (WAC)",
       "Writing Center"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online): Criminology and Criminal Justice",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-7/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-11",
-    "time": "02:50 PM - 03:50 PM",
-    "tags": [
-      "Admissions",
-      "Criminal Justice",
-      "Featured"
     ]
   },
   {
@@ -914,6 +890,18 @@
     "tags": [
       "Admissions",
       "Allied Health Sciences",
+      "Featured",
+      "Nursing"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online): LPN and Nursing",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-7-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-17",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Admissions",
       "Featured",
       "Nursing"
     ]
@@ -1223,14 +1211,6 @@
     ]
   },
   {
-    "title": "Essay Composition Workshops – BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007246",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-11",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Free Virtual Immigration Help Friday",
     "link": "https://events.cuny.edu/cec/free-virtual-immigration-help-friday/",
     "college": "The University",
@@ -1266,6 +1246,24 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-06-15",
     "time": "03:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Transfer Your OneDrive Files",
+    "link": "https://events.cuny.edu/cec/transfer-your-onedrive-files-7/",
+    "college": "College of Staten Island",
+    "date": "2026-06-16",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "Walk-In Wednesday",
+    "link": "https://events.cuny.edu/cec/walk-in-wednesday-6/",
+    "college": "Queens College",
+    "date": "2026-06-17",
+    "time": "9:00 AM - 4:30 PM",
     "tags": []
   },
   {
