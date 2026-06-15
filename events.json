@@ -43,18 +43,6 @@
     "tags": []
   },
   {
-    "title": "Stay Energized with SGA",
-    "link": "https://www.laguardia.edu/event/stay-energized-with-sga/2026-06-15/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-15",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Admissions Adult Learner One-on-One Information Session",
     "link": "https://www.laguardia.edu/event/admissions-adult-learner-one-on-one-information-session-19/",
     "college": "LaGuardia Community College",
@@ -372,6 +360,19 @@
     ]
   },
   {
+    "title": "Starting a Business at 50+",
+    "link": "https://www.laguardia.edu/event/starting-a-business-at-50/",
+    "college": "LaGuardia Community College",
+    "date": "2026-08-12",
+    "time": "09:30 AM - 10:30 AM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "Spring 1 2026 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377256",
     "college": "Guttman Community College",
@@ -631,18 +632,6 @@
     ]
   },
   {
-    "title": "Navigating a Tough Job Market: Ways to Organize and Maximize Your Job Search",
-    "link": "https://www.hunter.cuny.edu/event/navigating-a-tough-job-market-ways-to-organize-and-maximize-your-job-search/",
-    "college": "Hunter College",
-    "date": "2026-06-15",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Arts Outing: La Cage Aux Folles",
     "link": "https://www.hunter.cuny.edu/event/arts-outing-la-cage-aux-folles/",
     "college": "Hunter College",
@@ -681,6 +670,16 @@
     "tags": [
       "Conferences & Workshops",
       "Student Events"
+    ]
+  },
+  {
+    "title": "Person Place Thing: Victoria Johnson in Conversation with Randy Cohen",
+    "link": "https://www.hunter.cuny.edu/event/person-place-thing-victoria-johnson-in-conversation-with-randy-cohen/",
+    "college": "Hunter College",
+    "date": "2026-06-24",
+    "time": "04:00 PM - 06:00 PM",
+    "tags": [
+      "Performing Arts & Film"
     ]
   },
   {
@@ -1306,7 +1305,7 @@
   },
   {
     "title": "Office of Communications-student video recording",
-    "link": "https://qc.event.cuny.edu/events/TqmnmNpT9ECBQ4H2QeWQ/lHtbAkSdmtxa7FTjiypb",
+    "link": "https://qc.event.cuny.edu/events/TqmnmNpT9ECBQ4H2QeWQ/n2Ens42D5FMKYx6YwCnT",
     "college": "Queens College",
     "date": "2026-06-16",
     "time": "8:00AM",
@@ -1366,6 +1365,14 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-06-15",
     "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Bedford Academy Rehearsal Holding Room",
+    "link": "https://citytech.event.cuny.edu/events/vhiUphfhhcCV4pqZBKXf/zONm8KZOsWjqEOVPW7sL",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-15",
+    "time": "2:45PM",
     "tags": []
   },
   {
@@ -1478,14 +1485,6 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-06-18",
     "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Professional Development Day",
-    "link": "https://citytech.event.cuny.edu/events/zu6evsJIfyjC2Yr5fkfO/S4ghdK4XkogM8Vuk59WI",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-06-18",
-    "time": "10:00AM",
     "tags": []
   },
   {
@@ -1686,6 +1685,86 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-21",
     "time": "11:00 AM - 2:00PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 15",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun15",
+    "college": "York College",
+    "date": "2026-06-15",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 4-Week 1 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-1-session-2",
+    "college": "York College",
+    "date": "2026-06-15",
+    "time": "4:00 PM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 17",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun17",
+    "college": "York College",
+    "date": "2026-06-17",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-06-17",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 22",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun22",
+    "college": "York College",
+    "date": "2026-06-22",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 4-Week 1",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-1-2",
+    "college": "York College",
+    "date": "2026-06-24",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 24",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun24",
+    "college": "York College",
+    "date": "2026-06-24",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Information Session",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-1",
+    "college": "York College",
+    "date": "2026-06-25",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 29",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun29",
+    "college": "York College",
+    "date": "2026-06-29",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 7-Week 1 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-7-week-1-session-2",
+    "college": "York College",
+    "date": "2026-06-30",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
