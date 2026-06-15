@@ -43,39 +43,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Adult Learner One-on-One Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-adult-learner-one-on-one-information-session-19/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-15",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Admissions Adult Learner One-on-One Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-adult-learner-one-on-one-information-session-20/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-15",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Admissions Adult Learner In-Person Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-adult-learner-in-person-information-session-19/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-15",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Pride Blood Drive",
     "link": "https://www.laguardia.edu/event/pride-blood-drive-2/",
     "college": "LaGuardia Community College",
@@ -368,6 +335,43 @@
     "tags": [
       "all calendars",
       "community & business events",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom-2/2026-08-13/",
+    "college": "LaGuardia Community College",
+    "date": "2026-08-13",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Meet the Lenders",
+    "link": "https://www.laguardia.edu/event/meet-the-lenders/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-09",
+    "time": "09:30 AM - 10:30 AM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Welcome Breakfast",
+    "link": "https://www.laguardia.edu/event/welcome-breakfast-4/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-16",
+    "time": "09:30 AM - 11:30 AM",
+    "tags": [
+      "all calendars",
       "Featured",
       "student events"
     ]
@@ -781,46 +785,13 @@
     ]
   },
   {
-    "title": "Essay Composition Workshops - BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/essay-composition-workshops-bmcc-writing-center-2/2026-06-15/",
+    "title": "Take a Tour of BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc/",
     "college": "Borough of Manhattan Community College",
-    "date": "2026-06-15",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "English",
-      "Featured",
-      "Workshops",
-      "Writing Across the Curriculum (WAC)",
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "NY State Reconnect: Learn About this Free Community College Program",
-    "link": "https://www.bmcc.cuny.edu/event/ny-state-reconnect-learn-about-this-free-community-college-program-3-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-15",
-    "time": "04:00 PM - 05:00 PM",
+    "date": "2026-06-16",
+    "time": "10:00 AM - 11:15 AM",
     "tags": [
       "Admissions",
-      "Community",
-      "Continuing Education",
-      "Evening-Weekend",
-      "Featured",
-      "Media Arts and Technology",
-      "Nursing",
-      "Science",
-      "Teacher Education"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-6-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-15",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
       "Featured"
     ]
   },
@@ -862,6 +833,20 @@
     ]
   },
   {
+    "title": "Essay Composition Workshops - BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/essay-composition-workshops-bmcc-writing-center-2/2026-06-18/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-18",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "English",
+      "Featured",
+      "Workshops",
+      "Writing Across the Curriculum (WAC)",
+      "Writing Center"
+    ]
+  },
+  {
     "title": "BMCC Tribeca Performing Arts Center Presents Dances of Woven Water",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-tribeca-performing-arts-center-presents-dances-of-woven-water/2026-06-20/",
     "college": "Borough of Manhattan Community College",
@@ -874,6 +859,18 @@
       "Global Initiatives",
       "Modern Languages",
       "Tribeca Performing Arts Center"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-6-5/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-22",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Evening-Weekend",
+      "Featured"
     ]
   },
   {
@@ -919,19 +916,6 @@
     "tags": [
       "Admissions",
       "Featured"
-    ]
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2026-06-15/",
-    "college": "Bronx Community College",
-    "date": "2026-06-15",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
     ]
   },
   {
@@ -1159,6 +1143,22 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-06-15",
     "time": "03:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "NY State Reconnect: Learn About this Free Community College Program",
+    "link": "https://www.bmcc.cuny.edu/event/?p=675690",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-15",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=676188",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-15",
+    "time": "04:00 PM - 05:00 PM",
     "tags": []
   },
   {
@@ -1400,6 +1400,14 @@
     "tags": []
   },
   {
+    "title": "Rehearsal for Pre-K",
+    "link": "https://citytech.event.cuny.edu/events/oWvJNbr0yrBQIhksAYsE/xGOD9bQrzo24xqKy1MHA",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-16",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
     "title": "CLIP Orientation and Placement Testing",
     "link": "https://citytech.event.cuny.edu/events/Dls1vAylGgwSOpjqRNB8/IYJ84jKStQJaB1bG1KQX2",
     "college": "New York City College of Technology (City Tech)",
@@ -1474,14 +1482,6 @@
   {
     "title": "Tech Talent Pipeline Residency Summer Bootcamp",
     "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq14",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-06-18",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Tech Talent Pipeline Residency Workspace",
-    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW14",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-06-18",
     "time": "9:00AM",
@@ -1685,86 +1685,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-21",
     "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 15",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun15",
-    "college": "York College",
-    "date": "2026-06-15",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for 4-Week 1 session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-1-session-2",
-    "college": "York College",
-    "date": "2026-06-15",
-    "time": "4:00 PM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 17",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun17",
-    "college": "York College",
-    "date": "2026-06-17",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-06-17",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 22",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun22",
-    "college": "York College",
-    "date": "2026-06-22",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Finals for classes in 4-Week 1",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-1-2",
-    "college": "York College",
-    "date": "2026-06-24",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 24",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun24",
-    "college": "York College",
-    "date": "2026-06-24",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Information Session",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-1",
-    "college": "York College",
-    "date": "2026-06-25",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 29",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun29",
-    "college": "York College",
-    "date": "2026-06-29",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for 7-Week 1 session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-7-week-1-session-2",
-    "college": "York College",
-    "date": "2026-06-30",
-    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
