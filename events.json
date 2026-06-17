@@ -573,18 +573,6 @@
     ]
   },
   {
-    "title": "Cover Letter Clinic",
-    "link": "https://www.hunter.cuny.edu/event/cover-letter-clinic-2/",
-    "college": "Hunter College",
-    "date": "2026-06-17",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Graduate Admissions Information Session",
     "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-38/",
     "college": "Hunter College",
@@ -712,6 +700,17 @@
     ]
   },
   {
+    "title": "Take a Tour of BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-17",
+    "time": "11:00 AM - 12:15 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
     "title": "Admissions Information Session: Exploring Degrees and Transfer Pathways: Focus on Nursing",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-nursing-program/",
     "college": "Borough of Manhattan Community College",
@@ -807,17 +806,6 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-06-29",
     "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-30",
-    "time": "10:00 AM - 11:15 AM",
     "tags": [
       "Admissions",
       "Featured"
@@ -1057,14 +1045,6 @@
     "tags": [
       "Technology Training"
     ]
-  },
-  {
-    "title": "Take a Tour of BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/?p=677133",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-17",
-    "time": "11:00 AM - 12:15 PM",
-    "tags": []
   },
   {
     "title": "CSI Pride Alumni Mixer",
@@ -1389,6 +1369,14 @@
     "tags": []
   },
   {
+    "title": "CUNY Urban Food Policy Book Talk Forum | Fighting for New York: Activism for Health and Social Justice Since the 1960s – Lessons for the age of Mamdani and Trump",
+    "link": "https://sph.cuny.edu/event/cuny-urban-food-policy-book-talk-forum-fighting-for-new-york-activism-for-health-and-social-justice-since-the-1960s-lessons-for-the-age-of-mamdani-and-trump/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-07-14",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
     "title": "MPH and MS programs Information Session",
     "link": "https://sph.cuny.edu/event/mph-and-ms-programs-information-session-4/",
     "college": "CUNY School of Public Health",
@@ -1554,78 +1542,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-16",
     "time": "11:00 AM - 1:00PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 17",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun17",
-    "college": "York College",
-    "date": "2026-06-17",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-06-19",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 22",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun22",
-    "college": "York College",
-    "date": "2026-06-22",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Finals for classes in 4-Week 1",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-1-2",
-    "college": "York College",
-    "date": "2026-06-24",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 24",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun24",
-    "college": "York College",
-    "date": "2026-06-24",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Information Session",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-1",
-    "college": "York College",
-    "date": "2026-06-25",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jun 29",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun29",
-    "college": "York College",
-    "date": "2026-06-29",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for 7-Week 1 session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-7-week-1-session-2",
-    "college": "York College",
-    "date": "2026-06-30",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "First day of classes for 4-Week 2",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-2-2",
-    "college": "York College",
-    "date": "2026-07-06",
-    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
