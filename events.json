@@ -700,17 +700,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-17",
-    "time": "11:00 AM - 12:15 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Admissions Information Session: Exploring Degrees and Transfer Pathways: Focus on Nursing",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-nursing-program/",
     "college": "Borough of Manhattan Community College",
@@ -812,6 +801,17 @@
     ]
   },
   {
+    "title": "Take a Tour of BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-30",
+    "time": "10:00 AM - 11:15 AM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
     "title": "Admissions Information Session (online)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-10/",
     "college": "Borough of Manhattan Community College",
@@ -831,19 +831,6 @@
     "tags": [
       "Admissions",
       "Featured"
-    ]
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2026-06-17/",
-    "college": "Bronx Community College",
-    "date": "2026-06-17",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
     ]
   },
   {
@@ -1045,6 +1032,14 @@
     "tags": [
       "Technology Training"
     ]
+  },
+  {
+    "title": "Take a Tour of BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/?p=677133",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-17",
+    "time": "11:00 AM - 12:15 PM",
+    "tags": []
   },
   {
     "title": "CSI Pride Alumni Mixer",
@@ -1542,6 +1537,78 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-16",
     "time": "11:00 AM - 1:00PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-06-19",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 22",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun22",
+    "college": "York College",
+    "date": "2026-06-22",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 4-Week 1",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-1-2",
+    "college": "York College",
+    "date": "2026-06-24",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 24",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun24",
+    "college": "York College",
+    "date": "2026-06-24",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Information Session",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-1",
+    "college": "York College",
+    "date": "2026-06-25",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 29",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun29",
+    "college": "York College",
+    "date": "2026-06-29",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 7-Week 1 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-7-week-1-session-2",
+    "college": "York College",
+    "date": "2026-06-30",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 1",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul1",
+    "college": "York College",
+    "date": "2026-07-01",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes for 4-Week 2",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-2-2",
+    "college": "York College",
+    "date": "2026-07-06",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
