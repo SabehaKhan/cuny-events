@@ -676,6 +676,16 @@
     ]
   },
   {
+    "title": "Human Biology Program Information Session",
+    "link": "https://www.hunter.cuny.edu/event/human-biology-program-information-session/",
+    "college": "Hunter College",
+    "date": "2026-09-10",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Advising"
+    ]
+  },
+  {
     "title": "MS-IPND Graduate Nutrition Program Information Sessions",
     "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7-2/2026-09-14/",
     "college": "Hunter College",
@@ -683,6 +693,16 @@
     "time": "06:00 PM - 07:00 PM",
     "tags": [
       "Open Houses"
+    ]
+  },
+  {
+    "title": "Graduation Readiness Workshop for Human Biology Majors",
+    "link": "https://www.hunter.cuny.edu/event/graduation-readiness-workshop-for-human-biology-majors/",
+    "college": "Hunter College",
+    "date": "2026-09-15",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Advising"
     ]
   },
   {
@@ -716,6 +736,16 @@
     ]
   },
   {
+    "title": "Academic Planning for Human Biology Majors Workshop",
+    "link": "https://www.hunter.cuny.edu/event/academic-planning-for-human-biology-majors-workshop/",
+    "college": "Hunter College",
+    "date": "2026-11-19",
+    "time": "02:30 PM - 04:30 PM",
+    "tags": [
+      "Advising"
+    ]
+  },
+  {
     "title": "MS-IPND Graduate Nutrition Program Information Sessions",
     "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7-2/2026-12-10/",
     "college": "Hunter College",
@@ -723,32 +753,6 @@
     "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Open Houses"
-    ]
-  },
-  {
-    "title": "Essay Composition Workshops - BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/essay-composition-workshops-bmcc-writing-center-2/2026-06-22/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-22",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "English",
-      "Featured",
-      "Workshops",
-      "Writing Across the Curriculum (WAC)",
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-6-5/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-22",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
     ]
   },
   {
@@ -829,19 +833,6 @@
     "tags": [
       "Admissions",
       "Featured"
-    ]
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/2026-06-22/",
-    "college": "Bronx Community College",
-    "date": "2026-06-22",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
     ]
   },
   {
@@ -988,6 +979,14 @@
     "tags": []
   },
   {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=676190",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-22",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
     "title": "Walk-In Wednesday",
     "link": "https://events.cuny.edu/cec/walk-in-wednesday-7/",
     "college": "Queens College",
@@ -1114,7 +1113,7 @@
   },
   {
     "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL123",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA123",
     "college": "Queens College",
     "date": "2026-06-23",
     "time": "8:00AM",
@@ -1486,6 +1485,78 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-16",
     "time": "11:00 AM - 1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 4-Week 1",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-1-2",
+    "college": "York College",
+    "date": "2026-06-24",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 24",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun24",
+    "college": "York College",
+    "date": "2026-06-24",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-06-24",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Information Session",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-1",
+    "college": "York College",
+    "date": "2026-06-25",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jun 29",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jun29",
+    "college": "York College",
+    "date": "2026-06-29",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 7-Week 1 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-7-week-1-session-2",
+    "college": "York College",
+    "date": "2026-06-30",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 1",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul1",
+    "college": "York College",
+    "date": "2026-07-01",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes for 4-Week 2",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-2-2",
+    "college": "York College",
+    "date": "2026-07-06",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 6",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul6",
+    "college": "York College",
+    "date": "2026-07-06",
+    "time": "1:30 PM - 8:00 PM",
     "tags": []
   },
   {
