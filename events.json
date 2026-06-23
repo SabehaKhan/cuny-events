@@ -38,17 +38,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-113/",
-    "college": "LaGuardia Community College",
-    "date": "2026-06-23",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-3/2026-06-24/",
     "college": "LaGuardia Community College",
@@ -390,6 +379,18 @@
       "all calendars",
       "community & business events",
       "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-09-11/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-11",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
       "student events"
     ]
   },
@@ -976,17 +977,6 @@
   },
   {
     "title": "Garden maintenance",
-    "link": "https://csi.campuslabs.com/engage/event/12481170",
-    "college": "College of Staten Island",
-    "date": "2026-06-23",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "ThoughtfulLearning",
-      "Sustainability"
-    ]
-  },
-  {
-    "title": "Garden maintenance",
     "link": "https://csi.campuslabs.com/engage/event/12481171",
     "college": "College of Staten Island",
     "date": "2026-06-25",
@@ -1098,7 +1088,7 @@
   },
   {
     "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL123",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA123",
     "college": "Queens College",
     "date": "2026-06-23",
     "time": "8:00AM",
@@ -1146,7 +1136,7 @@
   },
   {
     "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL124",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA124",
     "college": "Queens College",
     "date": "2026-06-24",
     "time": "8:00AM",
@@ -1257,14 +1247,6 @@
     "tags": []
   },
   {
-    "title": "CN Summer Orientations",
-    "link": "https://citytech.event.cuny.edu/events/HRWrsRhgvVfmz56edUFJ/V6FXHlLjNamIQeRKp9We",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-06-25",
-    "time": "8:30AM",
-    "tags": []
-  },
-  {
     "title": "Tech Talent Pipeline Residency Summer Bootcamp",
     "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq19",
     "college": "New York City College of Technology (City Tech)",
@@ -1294,6 +1276,14 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-06-25",
     "time": "1:30PM",
+    "tags": []
+  },
+  {
+    "title": "CN Summer Orientations",
+    "link": "https://citytech.event.cuny.edu/events/HRWrsRhgvVfmz56edUFJ/V6FXHlLjNamIQeRKp9We",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-06-25",
+    "time": "2:30PM",
     "tags": []
   },
   {
@@ -1583,113 +1573,5 @@
     "date": "2026-07-06",
     "time": "1:30 PM - 8:00 PM",
     "tags": []
-  },
-  {
-    "title": "THE ANALYTIC SALON (6)",
-    "link": "https://www.gc.cuny.edu/events/analytic-salon-6",
-    "college": "CUNY Graduate Center",
-    "date": "2026-06-23",
-    "time": "6:00 pm — 8:00 pm",
-    "location": "7113: Philosophy Student Lounge",
-    "tags": [
-      "Saul Kripke Center"
-    ]
-  },
-  {
-    "title": "DRUPAL ACCESSIBILITY TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-june-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-06-24",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "GETTING UNSTUCK: USING INFORMAL WRITING TECHNIQUES EFFECTIVELY",
-    "link": "https://www.gc.cuny.edu/events/getting-unstuck-using-informal-writing-techniques-effectively-june-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-06-24",
-    "time": "4:00 pm — 5:00 pm",
-    "location": "Online",
-    "tags": []
-  },
-  {
-    "title": "CREATIVE MORNINGS: CAREERS REINVENTED",
-    "link": "https://www.gc.cuny.edu/events/creative-mornings-careers-reinvented",
-    "college": "CUNY Graduate Center",
-    "date": "2026-06-26",
-    "time": "8:30 am — 10:00 am",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "WRITING A BOOK REVIEW",
-    "link": "https://www.gc.cuny.edu/events/writing-book-review",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-06",
-    "time": "2:00 pm — 3:00 pm",
-    "location": "Online",
-    "tags": [
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - BASICS",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-jul-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-08",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - ADVANCED",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-july-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-08",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "2026 REGENERON SCIENCE TO MEDICINE FORUM",
-    "link": "https://www.gc.cuny.edu/events/2026-regeneron-science-medicine-forum",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-16",
-    "time": "9:00 am — 5:00 pm",
-    "location": "Non-GC Location (see description for details)",
-    "tags": [
-      "Career Planning and Professional Development"
-    ]
-  },
-  {
-    "title": "GOING UP? CRAFTING THE ELEVATOR PITCH",
-    "link": "https://www.gc.cuny.edu/events/going-crafting-elevator-pitch",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-16",
-    "time": "3:00 pm — 4:00 pm",
-    "location": "Online",
-    "tags": [
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "DRUPAL ACCESSIBILITY TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-july-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-29",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
   }
 ]
