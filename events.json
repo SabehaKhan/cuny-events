@@ -588,14 +588,6 @@
     ]
   },
   {
-    "title": "Graduate Admissions Information Session",
-    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-38/",
-    "college": "Hunter College",
-    "date": "2026-06-23",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": []
-  },
-  {
     "title": "Ace that Interview!",
     "link": "https://www.hunter.cuny.edu/event/ace-that-interview-6/",
     "college": "Hunter College",
@@ -841,6 +833,17 @@
     ]
   },
   {
+    "title": "BMCC Blood Drive: Make a Difference by Donating Blood",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-blood-drive-make-a-difference-by-donating-blood-5/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-25",
+    "time": "12:00 PM - 06:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services"
+    ]
+  },
+  {
     "title": "Admissions Information Session (online)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-8/",
     "college": "Borough of Manhattan Community College",
@@ -882,19 +885,6 @@
     "tags": [
       "Admissions",
       "Featured"
-    ]
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3-2/2026-06-23/",
-    "college": "Bronx Community College",
-    "date": "2026-06-23",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
     ]
   },
   {
@@ -1055,14 +1045,6 @@
     ]
   },
   {
-    "title": "Perinatal Mental Health Advanced Certificate Info Session",
-    "link": "https://events.cuny.edu/cec/perinatal-mental-health-advanced-certificate-info-session/",
-    "college": "Brooklyn College",
-    "date": "2026-06-29",
-    "time": "9:00 AM - 10:00 AM",
-    "tags": []
-  },
-  {
     "title": "B&G Usage",
     "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X2",
     "college": "Queens College",
@@ -1088,7 +1070,7 @@
   },
   {
     "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA123",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL123",
     "college": "Queens College",
     "date": "2026-06-23",
     "time": "8:00AM",
@@ -1136,7 +1118,7 @@
   },
   {
     "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA124",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL124",
     "college": "Queens College",
     "date": "2026-06-24",
     "time": "8:00AM",
@@ -1573,5 +1555,113 @@
     "date": "2026-07-06",
     "time": "1:30 PM - 8:00 PM",
     "tags": []
+  },
+  {
+    "title": "THE ANALYTIC SALON (6)",
+    "link": "https://www.gc.cuny.edu/events/analytic-salon-6",
+    "college": "CUNY Graduate Center",
+    "date": "2026-06-23",
+    "time": "6:00 pm — 8:00 pm",
+    "location": "7113: Philosophy Student Lounge",
+    "tags": [
+      "Saul Kripke Center"
+    ]
+  },
+  {
+    "title": "DRUPAL ACCESSIBILITY TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-june-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-06-24",
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "GETTING UNSTUCK: USING INFORMAL WRITING TECHNIQUES EFFECTIVELY",
+    "link": "https://www.gc.cuny.edu/events/getting-unstuck-using-informal-writing-techniques-effectively-june-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-06-24",
+    "time": "4:00 pm — 5:00 pm",
+    "location": "Online",
+    "tags": []
+  },
+  {
+    "title": "CREATIVE MORNINGS: CAREERS REINVENTED",
+    "link": "https://www.gc.cuny.edu/events/creative-mornings-careers-reinvented",
+    "college": "CUNY Graduate Center",
+    "date": "2026-06-26",
+    "time": "8:30 am — 10:00 am",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "WRITING A BOOK REVIEW",
+    "link": "https://www.gc.cuny.edu/events/writing-book-review",
+    "college": "CUNY Graduate Center",
+    "date": "2026-07-06",
+    "time": "2:00 pm — 3:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
+  },
+  {
+    "title": "DRUPAL TRAINING - BASICS",
+    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-jul-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-07-08",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "DRUPAL TRAINING - ADVANCED",
+    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-july-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-07-08",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "2026 REGENERON SCIENCE TO MEDICINE FORUM",
+    "link": "https://www.gc.cuny.edu/events/2026-regeneron-science-medicine-forum",
+    "college": "CUNY Graduate Center",
+    "date": "2026-07-16",
+    "time": "9:00 am — 5:00 pm",
+    "location": "Non-GC Location (see description for details)",
+    "tags": [
+      "Career Planning and Professional Development"
+    ]
+  },
+  {
+    "title": "GOING UP? CRAFTING THE ELEVATOR PITCH",
+    "link": "https://www.gc.cuny.edu/events/going-crafting-elevator-pitch",
+    "college": "CUNY Graduate Center",
+    "date": "2026-07-16",
+    "time": "3:00 pm — 4:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
+  },
+  {
+    "title": "DRUPAL ACCESSIBILITY TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-july-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-07-29",
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
   }
 ]
