@@ -780,29 +780,6 @@
     ]
   },
   {
-    "title": "BMCC Blood Drive: Make a Difference by Donating Blood",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-blood-drive-make-a-difference-by-donating-blood-5/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-25",
-    "time": "12:00 PM - 06:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (in-person): Liberal Arts and Modern Languages",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-5-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-25",
-    "time": "02:50 PM - 03:50 PM",
-    "tags": [
-      "Admissions",
-      "Featured",
-      "Modern Languages"
-    ]
-  },
-  {
     "title": "Admissions Information Session (online)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-8/",
     "college": "Borough of Manhattan Community College",
@@ -892,19 +869,6 @@
   },
   {
     "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3-2/2026-06-25/",
-    "college": "Bronx Community College",
-    "date": "2026-06-25",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
-    ]
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3-2/2026-06-29/",
     "college": "Bronx Community College",
     "date": "2026-06-29",
@@ -976,6 +940,22 @@
       "Art",
       "Library"
     ]
+  },
+  {
+    "title": "BMCC Blood Drive: Make a Difference by Donating Blood",
+    "link": "https://www.bmcc.cuny.edu/event/?p=677549",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-25",
+    "time": "12:00 PM - 06:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (in-person): Liberal Arts and Modern Languages",
+    "link": "https://www.bmcc.cuny.edu/event/?p=676173",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-06-25",
+    "time": "02:50 PM - 03:50 PM",
+    "tags": []
   },
   {
     "title": "CCNY & CUNY at Harlem Pride 2026",
