@@ -724,17 +724,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-8/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-06-29",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Take a Tour of BMCC",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-3/",
     "college": "Borough of Manhattan Community College",
@@ -809,19 +798,6 @@
       "Communications and Theatre Arts",
       "Theatre",
       "Tribeca Performing Arts Center"
-    ]
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3-2/2026-06-29/",
-    "college": "Bronx Community College",
-    "date": "2026-06-29",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
     ]
   },
   {
@@ -917,6 +893,16 @@
     "tags": [
       "Biology",
       "Division of Science and Technology"
+    ]
+  },
+  {
+    "title": "Student Technology Overview Workshop",
+    "link": "https://events.cuny.edu/cec/student-technology-overview-workshop-7/",
+    "college": "College of Staten Island",
+    "date": "2026-07-06",
+    "time": "6:30 PM - 7:30 PM",
+    "tags": [
+      "Technology Training"
     ]
   },
   {
@@ -1365,6 +1351,70 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-21",
     "time": "11:00 AM - 2:00PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 7-Week 1 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-7-week-1-session-2",
+    "college": "York College",
+    "date": "2026-06-30",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 1",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul1",
+    "college": "York College",
+    "date": "2026-07-01",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-07-01",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes for 4-Week 2",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-2-2",
+    "college": "York College",
+    "date": "2026-07-06",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 6",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul6",
+    "college": "York College",
+    "date": "2026-07-06",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment Rosters available to faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-11",
+    "college": "York College",
+    "date": "2026-07-07",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 8",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul8",
+    "college": "York College",
+    "date": "2026-07-08",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment Rosters due from faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-11",
+    "college": "York College",
+    "date": "2026-07-10",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
