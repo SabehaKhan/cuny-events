@@ -75,18 +75,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom-2/2026-07-02/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-02",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-117/",
     "college": "LaGuardia Community College",
@@ -416,6 +404,18 @@
       "all calendars",
       "community & business events",
       "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-09-11/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-11",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
       "student events"
     ]
   },
@@ -801,9 +801,9 @@
   },
   {
     "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3-2/2026-07-02/",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3-2-3/",
     "college": "Bronx Community College",
-    "date": "2026-07-02",
+    "date": "2026-07-06",
     "time": "09:00 AM - 05:00 PM",
     "tags": [
       "Enrollment Management",
@@ -1321,86 +1321,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-23",
     "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-07-03",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "First day of classes for 4-Week 2",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-2-2",
-    "college": "York College",
-    "date": "2026-07-06",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 6",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul6",
-    "college": "York College",
-    "date": "2026-07-06",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Verification of Enrollment Rosters available to faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-11",
-    "college": "York College",
-    "date": "2026-07-07",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 8",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul8",
-    "college": "York College",
-    "date": "2026-07-08",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Verification of Enrollment Rosters due from faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-11",
-    "college": "York College",
-    "date": "2026-07-10",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 13",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul13",
-    "college": "York College",
-    "date": "2026-07-13",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Nursing Information Session",
-    "link": "https://www.york.cuny.edu/nursing/nursing-information-session-july-2026",
-    "college": "York College",
-    "date": "2026-07-13",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for 10-Week session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-10-week-session-2",
-    "college": "York College",
-    "date": "2026-07-14",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 15",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul15",
-    "college": "York College",
-    "date": "2026-07-15",
-    "time": "1:30 PM - 6:00 PM",
     "tags": []
   },
   {
