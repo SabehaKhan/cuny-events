@@ -734,17 +734,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-4-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-03",
-    "time": "12:00 PM - 01:15 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Admissions Information Session (online)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-9/",
     "college": "Borough of Manhattan Community College",
@@ -772,6 +761,17 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-07-08",
     "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-4-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-15",
+    "time": "12:00 PM - 01:15 PM",
     "tags": [
       "Admissions",
       "Featured"
@@ -823,6 +823,14 @@
       "Office of the Registrar",
       "Virtual Event"
     ]
+  },
+  {
+    "title": "Take a Tour of BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/?p=677702",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-03",
+    "time": "12:00 PM - 01:15 PM",
+    "tags": []
   },
   {
     "title": "Summer 2026 Research Series • Biotechnology-Gene Cloning and DNA Analysis",
@@ -1368,113 +1376,5 @@
     "date": "2026-07-15",
     "time": "1:30 PM - 6:00 PM",
     "tags": []
-  },
-  {
-    "title": "WRITING A BOOK REVIEW",
-    "link": "https://www.gc.cuny.edu/events/writing-book-review",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-06",
-    "time": "2:00 pm — 3:00 pm",
-    "location": "Online",
-    "tags": [
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - BASICS",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-jul-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-08",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - ADVANCED",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-july-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-08",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "2026 REGENERON SCIENCE TO MEDICINE FORUM",
-    "link": "https://www.gc.cuny.edu/events/2026-regeneron-science-medicine-forum",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-16",
-    "time": "9:00 am — 5:00 pm",
-    "location": "Non-GC Location (see description for details)",
-    "tags": [
-      "Career Planning and Professional Development"
-    ]
-  },
-  {
-    "title": "GOING UP? CRAFTING THE ELEVATOR PITCH",
-    "link": "https://www.gc.cuny.edu/events/going-crafting-elevator-pitch",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-16",
-    "time": "3:00 pm — 4:00 pm",
-    "location": "Online",
-    "tags": [
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "DRUPAL ACCESSIBILITY TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-july-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-29",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "THE ACADEMIC JOB COVER LETTER",
-    "link": "https://www.gc.cuny.edu/events/academic-job-cover-letter",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-06",
-    "time": "3:00 pm — 4:00 pm",
-    "location": "Online",
-    "tags": [
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - BASICS",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-aug-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-12",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - ADVANCED",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-aug-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-12",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": []
-  },
-  {
-    "title": "APPLYING FOR A PH.D.: THE STATEMENT OF PURPOSE",
-    "link": "https://www.gc.cuny.edu/events/applying-phd-statement-purpose",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-19",
-    "time": "4:00 pm — 5:00 pm",
-    "location": "Online",
-    "tags": [
-      "Writing Center"
-    ]
   }
 ]
