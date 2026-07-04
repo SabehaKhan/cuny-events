@@ -885,54 +885,6 @@
   },
   {
     "title": "B&G Usage",
-    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X12",
-    "college": "Queens College",
-    "date": "2026-07-03",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Windows Replacement Project",
-    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ33",
-    "college": "Queens College",
-    "date": "2026-07-03",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "QC Summer Camp",
-    "link": "https://qc.event.cuny.edu/events/VC7K8hE2YgM2vL38BdRf/IY7B8HTmuvAX4Znoey1f5",
-    "college": "Queens College",
-    "date": "2026-07-03",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA133",
-    "college": "Queens College",
-    "date": "2026-07-03",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Placement Exams",
-    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb33",
-    "college": "Queens College",
-    "date": "2026-07-03",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer SEEK Program",
-    "link": "https://qc.event.cuny.edu/events/mLEG95eZItb1I2TfFdHZ/dKDDaiuc3RuqYUQTuz6K5",
-    "college": "Queens College",
-    "date": "2026-07-03",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "B&G Usage",
     "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X13",
     "college": "Queens College",
     "date": "2026-07-04",
@@ -1020,27 +972,59 @@
     "tags": []
   },
   {
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL136",
+    "college": "Queens College",
+    "date": "2026-07-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb36",
+    "college": "Queens College",
+    "date": "2026-07-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer SEEK Program",
+    "link": "https://qc.event.cuny.edu/events/mLEG95eZItb1I2TfFdHZ/OFgfKQEN9Ca1G57MYQPd6",
+    "college": "Queens College",
+    "date": "2026-07-06",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Luncheon for Incoming SEEK Students",
+    "link": "https://qc.event.cuny.edu/events/k6sWZiqd5TozzHvNcjwM/IBVYdwKjzRL6gkf1egmn1",
+    "college": "Queens College",
+    "date": "2026-07-06",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "QC SURP Orientation",
+    "link": "https://qc.event.cuny.edu/events/MbRJQuSWPdocHJReiR2O/qtpg6Ynslt5HDGTu3RA0",
+    "college": "Queens College",
+    "date": "2026-07-06",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "College Now: 2026 Summer Institute for Acting & Video Production",
+    "link": "https://qc.event.cuny.edu/events/PwLokiN38FKZVbVHOxmx/ZarSpNWIylGW4ehmYdBg",
+    "college": "Queens College",
+    "date": "2026-07-06",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
     "title": "Academic Calendar - Summer I: Final Examinations",
     "link": "https://baruch.event.cuny.edu/events/WGX7koLvKvabmNMxWtYv/HsPOGQ63GVXgyaqqf3gI",
     "college": "Baruch College",
     "date": "2026-07-09",
     "time": "",
-    "tags": []
-  },
-  {
-    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq25",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-03",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Tech Talent Pipeline Residency Workspace",
-    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW25",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-03",
-    "time": "9:00AM",
     "tags": []
   },
   {
@@ -1097,6 +1081,14 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-07-06",
     "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "STEP Summer 2026 Program",
+    "link": "https://citytech.event.cuny.edu/events/zyrwkUOLC5fnUHeb3G1E/JIakMGvrAkhI46W6cT0F2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-07-07",
+    "time": "9:00AM",
     "tags": []
   },
   {
