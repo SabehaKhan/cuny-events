@@ -902,38 +902,6 @@
   },
   {
     "title": "B&G Usage",
-    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X14",
-    "college": "Queens College",
-    "date": "2026-07-05",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Windows Replacement Project",
-    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ35",
-    "college": "Queens College",
-    "date": "2026-07-05",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA135",
-    "college": "Queens College",
-    "date": "2026-07-05",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Placement Exams",
-    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb35",
-    "college": "Queens College",
-    "date": "2026-07-05",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "B&G Usage",
     "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X15",
     "college": "Queens College",
     "date": "2026-07-06",
@@ -1037,6 +1005,38 @@
     "tags": []
   },
   {
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb37",
+    "college": "Queens College",
+    "date": "2026-07-07",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer SEEK Program",
+    "link": "https://qc.event.cuny.edu/events/mLEG95eZItb1I2TfFdHZ/OFgfKQEN9Ca1G57MYQPd7",
+    "college": "Queens College",
+    "date": "2026-07-07",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "College Now: 2026 Summer Institute for Acting & Video Production",
+    "link": "https://qc.event.cuny.edu/events/PwLokiN38FKZVbVHOxmx/lJqzmFgvP5OdB6gw6gSX",
+    "college": "Queens College",
+    "date": "2026-07-07",
+    "time": "10:30AM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Explorers tours",
+    "link": "https://qc.event.cuny.edu/events/RFPCR1mFVzwSPekYcGfw/ONBBcq3ouSUnIBORR2Wn1",
+    "college": "Queens College",
+    "date": "2026-07-07",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
     "title": "Academic Calendar - Summer I: Final Examinations",
     "link": "https://baruch.event.cuny.edu/events/WGX7koLvKvabmNMxWtYv/HsPOGQ63GVXgyaqqf3gI",
     "college": "Baruch College",
@@ -1045,10 +1045,10 @@
     "tags": []
   },
   {
-    "title": "Summer 5W1: Final Grade Rosters Due",
-    "link": "https://citytech.event.cuny.edu/events/CCniICb5ODZJelDKNnez/OCjcfTkms1DhinjNfXUY",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-05",
+    "title": "Academic Calendar - Summer II: Classes Begin. Start of Summer Session II",
+    "link": "https://baruch.event.cuny.edu/events/gpIfwbYbw11uLbf2BuMH/SrgILkYqc8bAHAeqHsFr",
+    "college": "Baruch College",
+    "date": "2026-07-13",
     "time": "",
     "tags": []
   },
@@ -1282,6 +1282,86 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-23",
     "time": "11:00 AM - 2:00PM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes for 4-Week 2",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/first-day-of-classes-for-4-week-2-2",
+    "college": "York College",
+    "date": "2026-07-06",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 6",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul6",
+    "college": "York College",
+    "date": "2026-07-06",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment Rosters available to faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-11",
+    "college": "York College",
+    "date": "2026-07-07",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 8",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul8",
+    "college": "York College",
+    "date": "2026-07-08",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-07-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment Rosters due from faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-11",
+    "college": "York College",
+    "date": "2026-07-10",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 13",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul13",
+    "college": "York College",
+    "date": "2026-07-13",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Nursing Information Session",
+    "link": "https://www.york.cuny.edu/nursing/nursing-information-session-july-2026",
+    "college": "York College",
+    "date": "2026-07-13",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 10-Week session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-10-week-session-2",
+    "college": "York College",
+    "date": "2026-07-14",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 15",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul15",
+    "college": "York College",
+    "date": "2026-07-15",
+    "time": "1:30 PM - 6:00 PM",
     "tags": []
   },
   {
