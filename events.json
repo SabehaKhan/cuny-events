@@ -76,17 +76,6 @@
   },
   {
     "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-117/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-06",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-118/",
     "college": "LaGuardia Community College",
     "date": "2026-07-07",
@@ -342,91 +331,6 @@
     "tags": [
       "all calendars",
       "community & business events",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom-2/2026-08-13/",
-    "college": "LaGuardia Community College",
-    "date": "2026-08-13",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-08-21/",
-    "college": "LaGuardia Community College",
-    "date": "2026-08-21",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-08-28/",
-    "college": "LaGuardia Community College",
-    "date": "2026-08-28",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-09-04/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-04",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Meet the Lenders",
-    "link": "https://www.laguardia.edu/event/meet-the-lenders/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-09",
-    "time": "09:30 AM - 10:30 AM",
-    "tags": [
-      "all calendars",
-      "community & business events",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-09-11/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-11",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Welcome Breakfast",
-    "link": "https://www.laguardia.edu/event/welcome-breakfast-4/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-16",
-    "time": "09:30 AM - 11:30 AM",
-    "tags": [
-      "all calendars",
       "Featured",
       "student events"
     ]
@@ -1122,6 +1026,30 @@
     "college": "Hostos Community College",
     "date": "2026-07-07",
     "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "MPH and MS programs Information Session",
+    "link": "https://sph.cuny.edu/event/mph-and-ms-programs-information-session-3/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-07-09",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Urban Food Policy Book Talk Forum | Fighting for New York: Activism for Health and Social Justice Since the 1960s – Lessons for the age of Mamdani and Trump",
+    "link": "https://sph.cuny.edu/event/cuny-urban-food-policy-book-talk-forum-fighting-for-new-york-activism-for-health-and-social-justice-since-the-1960s-lessons-for-the-age-of-mamdani-and-trump/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-07-14",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "MPH and MS programs Information Session",
+    "link": "https://sph.cuny.edu/event/mph-and-ms-programs-information-session-4/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-08-11",
+    "time": "6:00PM",
     "tags": []
   },
   {
