@@ -75,17 +75,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-118/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-07",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Selling to the Global Market & Export Plan",
     "link": "https://www.laguardia.edu/event/selling-to-the-global-market-export-plan/",
     "college": "LaGuardia Community College",
@@ -348,6 +337,18 @@
     ]
   },
   {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-08-21/",
+    "college": "LaGuardia Community College",
+    "date": "2026-08-21",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "World Cup Watch Parties",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377273",
     "college": "Guttman Community College",
@@ -470,14 +471,6 @@
       "Financial Aid",
       "FASFA & TAP Applications"
     ]
-  },
-  {
-    "title": "Graduate Admissions Information Session",
-    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-39/",
-    "college": "Hunter College",
-    "date": "2026-07-07",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
   },
   {
     "title": "Bachelor of Science in Nursing Generic Program Information Session",
@@ -1315,58 +1308,111 @@
     "tags": []
   },
   {
-    "title": "FRANTZ FANON AND THE FUTURE OF CULTURAL POLITICS",
-    "link": "https://www.gc.cuny.edu/events/frantz-fanon-and-future-cultural-politics",
+    "title": "DRUPAL TRAINING - BASICS",
+    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-jul-2026",
     "college": "CUNY Graduate Center",
-    "date": "2026-09-26",
-    "time": "2:00 pm",
-    "location": "5409: DGSC Meeting Room",
+    "date": "2026-07-08",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
     "tags": [
-      "Committee on Globalization and Social Change"
+      "Communications and Marketing"
     ]
   },
   {
-    "title": "NATIONALISM, INTERNATIONALISM, COSMOPOLITANISM WITH PARTHA CHATERJEE",
-    "link": "https://www.gc.cuny.edu/events/nationalism-internationalism-cosmopolitanism-partha-chaterjee",
+    "title": "DRUPAL TRAINING - ADVANCED",
+    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-july-2026",
     "college": "CUNY Graduate Center",
-    "date": "2026-10-02",
-    "time": "4:30 pm",
-    "location": "TBD",
+    "date": "2026-07-08",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
     "tags": [
-      "Committee on Globalization and Social Change"
+      "Communications and Marketing"
     ]
   },
   {
-    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
-    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
+    "title": "2026 REGENERON SCIENCE TO MEDICINE FORUM",
+    "link": "https://www.gc.cuny.edu/events/2026-regeneron-science-medicine-forum",
     "college": "CUNY Graduate Center",
-    "date": "2026-10-25",
-    "time": "6:30 pm",
-    "location": "C198",
+    "date": "2026-07-16",
+    "time": "9:00 am — 5:00 pm",
+    "location": "Non-GC Location (see description for details)",
     "tags": [
-      "Committee on Globalization and Social Change"
+      "Career Planning and Professional Development"
     ]
   },
   {
-    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
-    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
+    "title": "GOING UP? CRAFTING THE ELEVATOR PITCH",
+    "link": "https://www.gc.cuny.edu/events/going-crafting-elevator-pitch",
     "college": "CUNY Graduate Center",
-    "date": "2026-11-20",
+    "date": "2026-07-16",
+    "time": "3:00 pm — 4:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
+  },
+  {
+    "title": "DRUPAL ACCESSIBILITY TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-july-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-07-29",
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "THE ACADEMIC JOB COVER LETTER",
+    "link": "https://www.gc.cuny.edu/events/academic-job-cover-letter",
+    "college": "CUNY Graduate Center",
+    "date": "2026-08-06",
+    "time": "3:00 pm — 4:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
+  },
+  {
+    "title": "DRUPAL TRAINING - BASICS",
+    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-aug-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-08-12",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "DRUPAL TRAINING - ADVANCED",
+    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-aug-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-08-12",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": []
+  },
+  {
+    "title": "APPLYING FOR A PH.D.: THE STATEMENT OF PURPOSE",
+    "link": "https://www.gc.cuny.edu/events/applying-phd-statement-purpose",
+    "college": "CUNY Graduate Center",
+    "date": "2026-08-19",
+    "time": "4:00 pm — 5:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
+  },
+  {
+    "title": "ART/WORK: THE PRACTICE AND POLITICS OF CETA AND THE ARTS, 1974-1981",
+    "link": "https://www.gc.cuny.edu/events/artwork-practice-and-politics-ceta-and-arts-1974-1981",
+    "college": "CUNY Graduate Center",
+    "date": "2026-08-20",
     "time": "",
-    "location": "9100: Skylight Room",
+    "location": "1200: James Art Gallery",
     "tags": [
-      "Committee on Globalization and Social Change"
-    ]
-  },
-  {
-    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
-    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
-    "college": "CUNY Graduate Center",
-    "date": "2026-12-04",
-    "time": "6:00 pm",
-    "location": "9205",
-    "tags": [
-      "Committee on Globalization and Social Change"
+      "James Gallery"
     ]
   }
 ]
