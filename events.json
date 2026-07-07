@@ -753,6 +753,64 @@
     ]
   },
   {
+    "title": "Introduction to Excel",
+    "link": "https://events.cuny.edu/cec/introduction-to-excel-2/",
+    "college": "College of Staten Island",
+    "date": "2026-07-07",
+    "time": "10:00 AM - 12:00 PM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "Adult Student Virtual Info Session",
+    "link": "https://events.cuny.edu/cec/adult-student-virtual-info-session/",
+    "college": "College of Staten Island",
+    "date": "2026-07-07",
+    "time": "6:00 PM - 7:30 PM",
+    "tags": [
+      "Adult Learners"
+    ]
+  },
+  {
+    "title": "Understanding Communities Discriminated on Work and Descent: Global Perspectives and Emerging Normative Frameworks",
+    "link": "https://events.cuny.edu/cec/understanding-communities-discriminated-on-work-and-descent-global-perspectives-and-emerging-normative-frameworks/",
+    "college": "Asian American / Asian Research Institute",
+    "date": "2026-07-08",
+    "time": "6:00 PM - 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Introduction to Excel",
+    "link": "https://events.cuny.edu/cec/introduction-to-excel-3/",
+    "college": "College of Staten Island",
+    "date": "2026-07-09",
+    "time": "10:00 AM - 12:00 PM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "Working With Data",
+    "link": "https://events.cuny.edu/cec/working-with-data/",
+    "college": "College of Staten Island",
+    "date": "2026-07-13",
+    "time": "2:00 PM - 4:00 PM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "CSI Summer Blood Drive",
+    "link": "https://events.cuny.edu/cec/csi-summer-blood-drive-3/",
+    "college": "College of Staten Island",
+    "date": "2026-07-14",
+    "time": "10:00 AM - 4:00 PM",
+    "tags": [
+      "Health and Wellness Services"
+    ]
+  },
+  {
     "title": "B&G Usage",
     "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X16",
     "college": "Queens College",
@@ -934,6 +992,14 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-07-07",
     "time": "10:30AM",
+    "tags": []
+  },
+  {
+    "title": "ARCH1101 Students Lunch",
+    "link": "https://citytech.event.cuny.edu/events/XapG240EQDyJtUwezGhk/U7PbMof5i2D0Ltefl35R",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-07-07",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -1161,111 +1227,146 @@
     "tags": []
   },
   {
-    "title": "DRUPAL TRAINING - BASICS",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-jul-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-08",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - ADVANCED",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-july-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-08",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "2026 REGENERON SCIENCE TO MEDICINE FORUM",
-    "link": "https://www.gc.cuny.edu/events/2026-regeneron-science-medicine-forum",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-16",
-    "time": "9:00 am — 5:00 pm",
-    "location": "Non-GC Location (see description for details)",
-    "tags": [
-      "Career Planning and Professional Development"
-    ]
-  },
-  {
-    "title": "GOING UP? CRAFTING THE ELEVATOR PITCH",
-    "link": "https://www.gc.cuny.edu/events/going-crafting-elevator-pitch",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-16",
-    "time": "3:00 pm — 4:00 pm",
-    "location": "Online",
-    "tags": [
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "DRUPAL ACCESSIBILITY TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-july-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-07-29",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "THE ACADEMIC JOB COVER LETTER",
-    "link": "https://www.gc.cuny.edu/events/academic-job-cover-letter",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-06",
-    "time": "3:00 pm — 4:00 pm",
-    "location": "Online",
-    "tags": [
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - BASICS",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-aug-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-12",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - ADVANCED",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-aug-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-12",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
+    "title": "Verification of Enrollment Rosters available to faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-available-to-faculty-11",
+    "college": "York College",
+    "date": "2026-07-07",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
-    "title": "APPLYING FOR A PH.D.: THE STATEMENT OF PURPOSE",
-    "link": "https://www.gc.cuny.edu/events/applying-phd-statement-purpose",
+    "title": "V-READY Jul 8",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul8",
+    "college": "York College",
+    "date": "2026-07-08",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-07-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment Rosters due from faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-11",
+    "college": "York College",
+    "date": "2026-07-10",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 13",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul13",
+    "college": "York College",
+    "date": "2026-07-13",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Nursing Information Session",
+    "link": "https://www.york.cuny.edu/nursing/nursing-information-session-july-2026",
+    "college": "York College",
+    "date": "2026-07-13",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 10-Week session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-10-week-session-2",
+    "college": "York College",
+    "date": "2026-07-14",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 15",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul15",
+    "college": "York College",
+    "date": "2026-07-15",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 4-Week 2 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-2-session-2",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 7-Week 1",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-7-week-1-2",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 20",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul20",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FRANTZ FANON AND THE FUTURE OF CULTURAL POLITICS",
+    "link": "https://www.gc.cuny.edu/events/frantz-fanon-and-future-cultural-politics",
     "college": "CUNY Graduate Center",
-    "date": "2026-08-19",
-    "time": "4:00 pm — 5:00 pm",
-    "location": "Online",
+    "date": "2026-09-26",
+    "time": "2:00 pm",
+    "location": "5409: DGSC Meeting Room",
     "tags": [
-      "Writing Center"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "ART/WORK: THE PRACTICE AND POLITICS OF CETA AND THE ARTS, 1974-1981",
-    "link": "https://www.gc.cuny.edu/events/artwork-practice-and-politics-ceta-and-arts-1974-1981",
+    "title": "NATIONALISM, INTERNATIONALISM, COSMOPOLITANISM WITH PARTHA CHATERJEE",
+    "link": "https://www.gc.cuny.edu/events/nationalism-internationalism-cosmopolitanism-partha-chaterjee",
     "college": "CUNY Graduate Center",
-    "date": "2026-08-20",
-    "time": "",
-    "location": "1200: James Art Gallery",
+    "date": "2026-10-02",
+    "time": "4:30 pm",
+    "location": "TBD",
     "tags": [
-      "James Gallery"
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
+    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-25",
+    "time": "6:30 pm",
+    "location": "C198",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-20",
+    "time": "",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
+    "college": "CUNY Graduate Center",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
+    "tags": [
+      "Committee on Globalization and Social Change"
     ]
   }
 ]
