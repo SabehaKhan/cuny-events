@@ -342,6 +342,18 @@
     ]
   },
   {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-08-28/",
+    "college": "LaGuardia Community College",
+    "date": "2026-08-28",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Complete Your FAFSA & TAP Financial Aid Applications",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377290",
     "college": "Guttman Community College",
@@ -590,14 +602,13 @@
     ]
   },
   {
-    "title": "Admissions Information Session (in-person)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-4/2026-07-08/",
+    "title": "Free Workshop: Intro to Computer Basics 1.0 (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/free-workshop-intro-to-computer-basics-1-0-students-only-8/",
     "college": "Borough of Manhattan Community College",
-    "date": "2026-07-08",
+    "date": "2026-07-13",
     "time": "02:00 PM - 03:00 PM",
     "tags": [
-      "Admissions",
-      "Featured"
+      "Learning Resource Center"
     ]
   },
   {
@@ -646,8 +657,31 @@
     "date": "2026-07-15",
     "time": "12:30 PM - 01:30 PM",
     "tags": [
+      "Admissions"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (in-person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-4/2026-07-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-15",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "Free Workshop: Microsoft Excel Orientation (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-excel-orientation-students-only-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-15",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured",
+      "Learning Resource Center"
     ]
   },
   {
@@ -673,6 +707,38 @@
     ]
   },
   {
+    "title": "Free Workshop: Intro to Computer Basics 1.0 (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/free-workshop-intro-to-computer-basics-1-0-students-only-7/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-21",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Free Workshop: Microsoft PowerPoint (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-powerpoint-students-only-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-23",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "CUNY in The Heights",
+      "Featured",
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Free Workshop: Microsoft Word (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-word-students-only-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-27",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
     "title": "NY State Reconnect: Learn About this Free Community College Program",
     "link": "https://www.bmcc.cuny.edu/event/ny-state-reconnect-learn-about-this-free-community-college-program-4/",
     "college": "Borough of Manhattan Community College",
@@ -693,6 +759,81 @@
     ]
   },
   {
+    "title": "Free Workshop: Intro to Computer Basics 1.0 (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/free-workshop-intro-to-computer-basics-1-0-students-only-6/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-29",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Free Workshop: Microsoft Excel Orientation (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-excel-orientation-students-only-5/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-04",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "CUNY in The Heights",
+      "Featured",
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Free Workshop: Intro to Computer Basics 1.0 (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/free-workshop-intro-to-computer-basics-1-0-students-only-5/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-06",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Free Workshop: Microsoft PowerPoint (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-powerpoint-students-only-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-10",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured",
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Free Workshop: Intro to Computer Basics 1.0 (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/free-workshop-intro-to-computer-basics-1-0-students-only-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-12",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Free Workshop: Intro to Computer Basics 1.0 (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/free-workshop-intro-to-computer-basics-1-0-students-only-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-17",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Free Workshop: Microsoft Word (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-word-students-only-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-19",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Learning Resource Center"
+    ]
+  },
+  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2026-08-31/",
     "college": "Bronx Community College",
@@ -710,6 +851,14 @@
     "college": "Asian American / Asian Research Institute",
     "date": "2026-07-08",
     "time": "6:00 PM - 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (in-person)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007277",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-08",
+    "time": "02:00 PM - 03:00 PM",
     "tags": []
   },
   {
@@ -1174,86 +1323,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-23",
     "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Information Session 7/9/26",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-2",
-    "college": "York College",
-    "date": "2026-07-09",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Verification of Enrollment Rosters due from faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/verification-of-enrollment-rosters-due-from-faculty-11",
-    "college": "York College",
-    "date": "2026-07-10",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-07-10",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 13",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul13",
-    "college": "York College",
-    "date": "2026-07-13",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Nursing Information Session",
-    "link": "https://www.york.cuny.edu/nursing/nursing-information-session-july-2026",
-    "college": "York College",
-    "date": "2026-07-13",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for 10-Week session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-10-week-session-2",
-    "college": "York College",
-    "date": "2026-07-14",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 15",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul15",
-    "college": "York College",
-    "date": "2026-07-15",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for 4-Week 2 session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-2-session-2",
-    "college": "York College",
-    "date": "2026-07-20",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Finals for classes in 7-Week 1",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-7-week-1-2",
-    "college": "York College",
-    "date": "2026-07-20",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 20",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul20",
-    "college": "York College",
-    "date": "2026-07-20",
-    "time": "1:30 PM - 8:00 PM",
     "tags": []
   },
   {
