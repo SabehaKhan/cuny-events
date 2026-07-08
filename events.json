@@ -67,18 +67,6 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-3/2026-07-08/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-08",
-    "time": "01:00 PM - 01:30 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom-2/2026-07-09/",
     "college": "LaGuardia Community College",
@@ -342,6 +330,18 @@
     ]
   },
   {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-08-21/",
+    "college": "LaGuardia Community College",
+    "date": "2026-08-21",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Complete Your FAFSA & TAP Financial Aid Applications",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377290",
     "college": "Guttman Community College",
@@ -439,16 +439,6 @@
       "Office Hours",
       "Financial Aid",
       "FASFA & TAP Applications"
-    ]
-  },
-  {
-    "title": "Bachelor of Science in Nursing Generic Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-12/",
-    "college": "Hunter College",
-    "date": "2026-07-08",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "Open Houses"
     ]
   },
   {
@@ -600,17 +590,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-10-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-08",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Admissions Information Session (in-person)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-4/2026-07-08/",
     "college": "Borough of Manhattan Community College",
@@ -655,6 +634,17 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-07-15",
     "time": "12:00 PM - 01:15 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-10-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-15",
+    "time": "12:30 PM - 01:30 PM",
     "tags": [
       "Admissions",
       "Featured"
@@ -750,6 +740,16 @@
     "time": "10:00 AM - 4:00 PM",
     "tags": [
       "Health and Wellness Services"
+    ]
+  },
+  {
+    "title": "Student Technology Overview Workshop",
+    "link": "https://events.cuny.edu/cec/student-technology-overview-workshop-8/",
+    "college": "College of Staten Island",
+    "date": "2026-07-15",
+    "time": "1:00 PM - 2:00 PM",
+    "tags": [
+      "Technology Training"
     ]
   },
   {
@@ -1174,14 +1174,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-07-23",
     "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 8",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul8",
-    "college": "York College",
-    "date": "2026-07-08",
-    "time": "1:30 PM - 6:00 PM",
     "tags": []
   },
   {
