@@ -67,29 +67,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom-2/2026-07-09/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-09",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-120/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-09",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-121/",
     "college": "LaGuardia Community College",
@@ -350,6 +327,31 @@
     "tags": [
       "admissions",
       "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-09-04/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-04",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Meet the Lenders",
+    "link": "https://www.laguardia.edu/event/meet-the-lenders/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-09",
+    "time": "09:30 AM - 10:30 AM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Featured",
       "student events"
     ]
   },
@@ -821,6 +823,14 @@
       "Office of the Registrar",
       "Virtual Event"
     ]
+  },
+  {
+    "title": "Space, Facilities & Physical Plant",
+    "link": "https://www.bcc.cuny.edu/event/space-facilities-physical-plant/2026-09-14/",
+    "college": "Bronx Community College",
+    "date": "2026-09-14",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "Introduction to Excel",
