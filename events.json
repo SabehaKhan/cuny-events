@@ -357,18 +357,6 @@
   },
   {
     "title": "World Cup Watch Parties",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377274",
-    "college": "Guttman Community College",
-    "date": "2026-07-09",
-    "time": "08:00 PM - 10:00 PM",
-    "tags": [
-      "OSL",
-      "Social",
-      "Student Life"
-    ]
-  },
-  {
-    "title": "World Cup Watch Parties",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377275",
     "college": "Guttman Community College",
     "date": "2026-07-14",
@@ -833,16 +821,6 @@
     "tags": []
   },
   {
-    "title": "Introduction to Excel",
-    "link": "https://events.cuny.edu/cec/introduction-to-excel-3/",
-    "college": "College of Staten Island",
-    "date": "2026-07-09",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
     "title": "Working With Data",
     "link": "https://events.cuny.edu/cec/working-with-data/",
     "college": "College of Staten Island",
@@ -888,78 +866,6 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-07-15",
     "time": "09:00 AM - 05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "B&G Usage",
-    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X18",
-    "college": "Queens College",
-    "date": "2026-07-09",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Windows Replacement Project",
-    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ39",
-    "college": "Queens College",
-    "date": "2026-07-09",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "QC Summer Camp",
-    "link": "https://qc.event.cuny.edu/events/VC7K8hE2YgM2vL38BdRf/IY7B8HTmuvAX4Znoey1f9",
-    "college": "Queens College",
-    "date": "2026-07-09",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA139",
-    "college": "Queens College",
-    "date": "2026-07-09",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Placement Exams",
-    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb39",
-    "college": "Queens College",
-    "date": "2026-07-09",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer SEEK Program",
-    "link": "https://qc.event.cuny.edu/events/mLEG95eZItb1I2TfFdHZ/OFgfKQEN9Ca1G57MYQPd9",
-    "college": "Queens College",
-    "date": "2026-07-09",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "College Now: 2026 Summer Institute for Acting & Video Production",
-    "link": "https://qc.event.cuny.edu/events/PwLokiN38FKZVbVHOxmx/dQ90B0HcyjGIFqv8VZg7",
-    "college": "Queens College",
-    "date": "2026-07-09",
-    "time": "10:30AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers tours",
-    "link": "https://qc.event.cuny.edu/events/RFPCR1mFVzwSPekYcGfw/ONBBcq3ouSUnIBORR2Wn3",
-    "college": "Queens College",
-    "date": "2026-07-09",
-    "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "Peter and the Wolf Rehearsals and Preview Performance",
-    "link": "https://qc.event.cuny.edu/events/pKr2iZtx0SaPkiWUaHzp/XsFF3mz5ZzFu7wK42KXv2",
-    "college": "Queens College",
-    "date": "2026-07-09",
-    "time": "4:00PM",
     "tags": []
   },
   {
@@ -1035,11 +941,83 @@
     "tags": []
   },
   {
-    "title": "Academic Calendar - Summer I: Final Examinations",
-    "link": "https://baruch.event.cuny.edu/events/WGX7koLvKvabmNMxWtYv/HsPOGQ63GVXgyaqqf3gI",
-    "college": "Baruch College",
-    "date": "2026-07-09",
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb41",
+    "college": "Queens College",
+    "date": "2026-07-11",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Kaplan Test Prep",
+    "link": "https://qc.event.cuny.edu/events/s4JiZu3sNI0LSAVSk1Nu/HayjtsIS7d0pR2rEigf5",
+    "college": "Queens College",
+    "date": "2026-07-11",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "B&G Usage",
+    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X21",
+    "college": "Queens College",
+    "date": "2026-07-12",
     "time": "",
+    "tags": []
+  },
+  {
+    "title": "Windows Replacement Project",
+    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ42",
+    "college": "Queens College",
+    "date": "2026-07-12",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA142",
+    "college": "Queens College",
+    "date": "2026-07-12",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "LGACC",
+    "link": "https://qc.event.cuny.edu/events/M4PjnWJYbvqTy8iQ5xj4/VYvxZkZC580n1sgLx6Ah",
+    "college": "Queens College",
+    "date": "2026-07-12",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb42",
+    "college": "Queens College",
+    "date": "2026-07-12",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Kaplan Test Prep",
+    "link": "https://qc.event.cuny.edu/events/s4JiZu3sNI0LSAVSk1Nu/nErpjXjwm3gYLUv9rF25",
+    "college": "Queens College",
+    "date": "2026-07-12",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "B&G Usage",
+    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X22",
+    "college": "Queens College",
+    "date": "2026-07-13",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Windows Replacement Project",
+    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ43",
+    "college": "Queens College",
+    "date": "2026-07-13",
+    "time": "8:00AM",
     "tags": []
   },
   {
@@ -1068,70 +1046,6 @@
   },
   {
     "title": "STEP Summer 2026 Program",
-    "link": "https://citytech.event.cuny.edu/events/zyrwkUOLC5fnUHeb3G1E/JIakMGvrAkhI46W6cT0F4",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-09",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq29",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-09",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Tech Talent Pipeline Residency Workspace",
-    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW29",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-09",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers",
-    "link": "https://citytech.event.cuny.edu/events/F7iLsCLk3b6Qt2jqUcgw/Pu8jLaiI7ZZmdZubFjoK1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-09",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "EMSA Strategic Planning",
-    "link": "https://citytech.event.cuny.edu/events/bvdytrIZUgUxOwsp46gp/jzDPB2wRXkY2HSn6mteV",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-09",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "City Tech Summer 2026 Group Tour",
-    "link": "https://citytech.event.cuny.edu/events/deOWplYfsuteFfGNoKJU/R3QA1P70xGNzoEkhPIfu",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-09",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "High School Equivalency Graduation",
-    "link": "https://citytech.event.cuny.edu/events/cPxMJqz0jwqiqAivWCuc/jgouKjxLZxHc4SR2AFjL",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-09",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "A Better Chance for Success",
-    "link": "https://citytech.event.cuny.edu/events/fYGX62sOcYivFY7tQ0up/YeT569P8ADgSoZgytYkq",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-09",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "STEP Summer 2026 Program",
     "link": "https://citytech.event.cuny.edu/events/zyrwkUOLC5fnUHeb3G1E/JIakMGvrAkhI46W6cT0F5",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-07-10",
@@ -1139,11 +1053,35 @@
     "tags": []
   },
   {
-    "title": "MPH and MS programs Information Session",
-    "link": "https://sph.cuny.edu/event/mph-and-ms-programs-information-session-3/",
-    "college": "CUNY School of Public Health",
-    "date": "2026-07-09",
-    "time": "6:00PM",
+    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq30",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-07-10",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Workspace",
+    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW30",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-07-10",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "STEP Summer 2026 Program",
+    "link": "https://citytech.event.cuny.edu/events/zyrwkUOLC5fnUHeb3G1E/JIakMGvrAkhI46W6cT0F6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-07-11",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer 5W2: WD Period Ends",
+    "link": "https://citytech.event.cuny.edu/events/vSJq4gwy7B1Cv6VSRmDa/SUx1QiPVIJfCv1twlfh9",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-07-12",
+    "time": "",
     "tags": []
   },
   {
@@ -1251,14 +1189,6 @@
     "tags": []
   },
   {
-    "title": "Parents & Families Partnering with Academic Affairs & Student Affairs",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/new-student-virtual-summer-engagement-opportunities-parents-families-partnering-with-academic-affairs-student-affairs/",
-    "college": "Macaulay Honors College",
-    "date": "2026-07-09",
-    "time": "7:00PM",
-    "tags": []
-  },
-  {
     "title": "Macaulay Day at Hunter College",
     "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-day-at-hunter-college/",
     "college": "Macaulay Honors College",
@@ -1331,11 +1261,11 @@
     "tags": []
   },
   {
-    "title": "Virtual Information Session 7/9/26",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-2",
-    "college": "York College",
-    "date": "2026-07-09",
-    "time": "5:00 PM - 6:00 PM",
+    "title": "New Student Orientation Events: 8/24, 8/25, 8/26",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/orientation-calendar-listing/",
+    "college": "Macaulay Honors College",
+    "date": "2026-08-24",
+    "time": "9:00 AM - 6:00PM",
     "tags": []
   },
   {
@@ -1344,14 +1274,6 @@
     "college": "York College",
     "date": "2026-07-10",
     "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-07-10",
-    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -1384,6 +1306,14 @@
     "college": "York College",
     "date": "2026-07-15",
     "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-07-15",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
