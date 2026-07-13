@@ -612,27 +612,6 @@
     ]
   },
   {
-    "title": "Free Workshop: Intro to Computer Basics 1.0 (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/free-workshop-intro-to-computer-basics-1-0-students-only-8/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-13",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-9-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-13",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "CPR/AED & First Aid Training for the BMCC Community",
     "link": "https://www.bmcc.cuny.edu/event/cpr-aed-first-aid-training-for-bmcc-community/2026-07-14/",
     "college": "Borough of Manhattan Community College",
@@ -714,6 +693,17 @@
       "Communications and Theatre Arts",
       "Theatre",
       "Tribeca Performing Arts Center"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-9-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-20",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -872,6 +862,14 @@
     "tags": [
       "Technology Training"
     ]
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=676546",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-13",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": []
   },
   {
     "title": "CSI Summer Blood Drive",
@@ -1272,14 +1270,6 @@
     "tags": []
   },
   {
-    "title": "Macaulay Day at Hunter College",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-day-at-hunter-college/",
-    "college": "Macaulay Honors College",
-    "date": "2026-07-13",
-    "time": "2:00PM",
-    "tags": []
-  },
-  {
     "title": "Macaulay Day at The College of Staten Island",
     "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-day-at-the-college-of-staten-island/",
     "college": "Macaulay Honors College",
@@ -1349,6 +1339,94 @@
     "college": "Macaulay Honors College",
     "date": "2026-08-24",
     "time": "9:00 AM - 6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Diversity Reception",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/diversity-reception/",
+    "college": "Macaulay Honors College",
+    "date": "2026-09-03",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Nursing Information Session",
+    "link": "https://www.york.cuny.edu/nursing/nursing-information-session-july-2026",
+    "college": "York College",
+    "date": "2026-07-13",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 10-Week session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-10-week-session-2",
+    "college": "York College",
+    "date": "2026-07-14",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 15",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul15",
+    "college": "York College",
+    "date": "2026-07-15",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-07-15",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 4-Week 2 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-2-session-2",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 7-Week 1",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-7-week-1-2",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 20",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul20",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 22",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul22",
+    "college": "York College",
+    "date": "2026-07-22",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Information Session 7/23/26",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-7-23-26",
+    "college": "York College",
+    "date": "2026-07-23",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 27",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul27",
+    "college": "York College",
+    "date": "2026-07-27",
+    "time": "1:30 PM - 8:00 PM",
     "tags": []
   },
   {
