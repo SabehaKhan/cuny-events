@@ -68,17 +68,6 @@
   },
   {
     "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-121/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-13",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-122/",
     "college": "LaGuardia Community College",
     "date": "2026-07-14",
@@ -352,6 +341,18 @@
       "all calendars",
       "community & business events",
       "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
+    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-09-11/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-11",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
       "student events"
     ]
   },
@@ -1117,6 +1118,30 @@
     "tags": []
   },
   {
+    "title": "CUNY Urban Food Policy Book Talk Forum | Fighting for New York: Activism for Health and Social Justice Since the 1960s – Lessons for the age of Mamdani and Trump",
+    "link": "https://sph.cuny.edu/event/cuny-urban-food-policy-book-talk-forum-fighting-for-new-york-activism-for-health-and-social-justice-since-the-1960s-lessons-for-the-age-of-mamdani-and-trump/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-07-14",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "Dissertation Defense by Jenna Tipaldo",
+    "link": "https://sph.cuny.edu/event/dissertation-defense-by-jenna-tipaldo/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-07-30",
+    "time": "11:00 AM - 12:00PM",
+    "tags": []
+  },
+  {
+    "title": "MPH and MS programs Information Session",
+    "link": "https://sph.cuny.edu/event/mph-and-ms-programs-information-session-4/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-08-11",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
     "title": "Bronx Tech Hub: AI Prompt Engineering Fellowship Program",
     "link": "https://www.lehman.edu/events/2026/Bronx-Tech-Hub-AI-Prompt-Engineering-Fellowship-Program-1.php",
     "college": "Lehman College",
@@ -1274,6 +1299,94 @@
     "college": "Macaulay Honors College",
     "date": "2026-08-24",
     "time": "9:00 AM - 6:00PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 13",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul13",
+    "college": "York College",
+    "date": "2026-07-13",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Nursing Information Session",
+    "link": "https://www.york.cuny.edu/nursing/nursing-information-session-july-2026",
+    "college": "York College",
+    "date": "2026-07-13",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 10-Week session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-10-week-session-2",
+    "college": "York College",
+    "date": "2026-07-14",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 15",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul15",
+    "college": "York College",
+    "date": "2026-07-15",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-07-15",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 4-Week 2 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-2-session-2",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 7-Week 1",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-7-week-1-2",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 20",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul20",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 22",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul22",
+    "college": "York College",
+    "date": "2026-07-22",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Information Session 7/23/26",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-7-23-26",
+    "college": "York College",
+    "date": "2026-07-23",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 27",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul27",
+    "college": "York College",
+    "date": "2026-07-27",
+    "time": "1:30 PM - 8:00 PM",
     "tags": []
   },
   {
