@@ -75,29 +75,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-123/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-15",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-3/2026-07-15/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-15",
-    "time": "01:00 PM - 01:30 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Semi-Finals Watch Parties",
     "link": "https://www.laguardia.edu/event/semi-finals-watch-parties-2/",
     "college": "LaGuardia Community College",
@@ -362,6 +339,31 @@
     "tags": [
       "admissions",
       "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Welcome Breakfast",
+    "link": "https://www.laguardia.edu/event/welcome-breakfast-4/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-16",
+    "time": "09:30 AM - 11:30 AM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "MMR Clinic",
+    "link": "https://www.laguardia.edu/event/mmr-clinic/2026-09-16/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-16",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "admissions",
+      "all calendars",
+      "Featured",
       "student events"
     ]
   },
@@ -1142,6 +1144,14 @@
     "tags": []
   },
   {
+    "title": "Salsa Under the Stars with Tres Del Solar and DJ Woody",
+    "link": "https://www.lehman.edu/events/2026/Salsa-Under-the-Stars-with-Tres-Del-Solar-and-DJ-Woody.php",
+    "college": "Lehman College",
+    "date": "2026-07-30",
+    "time": "6:00 PM- 9:00 PM",
+    "tags": []
+  },
+  {
     "title": "Bronx Tech Hub: AI Prompt Engineering Fellowship Program",
     "link": "https://www.lehman.edu/events/2026/Bronx-Tech-Hub-AI-Prompt-Engineering-Fellowship-Program-4.php",
     "college": "Lehman College",
@@ -1174,35 +1184,27 @@
     "tags": []
   },
   {
+    "title": "Dance Theatre of Harlem",
+    "link": "https://www.lehman.edu/events/2026/Dance-Theatre-of-Harlem.php",
+    "college": "Lehman College",
+    "date": "2026-08-29",
+    "time": "7:00 PM- 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Princess Nokia",
+    "link": "https://www.lehman.edu/events/2026/Princess-Nokia.php",
+    "college": "Lehman College",
+    "date": "2026-09-04",
+    "time": "8:00 PM- 10:00 PM",
+    "tags": []
+  },
+  {
     "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
     "link": "https://www.lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session--2.php",
     "college": "Lehman College",
     "date": "2026-09-08",
     "time": "6:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
-    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session--2.php",
-    "college": "Lehman College",
-    "date": "2026-09-08",
-    "time": "6:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Geographic Information Science Information Session M.S. & Adv. Cert.",
-    "link": "https://www.lehman.edu/events/2026/Geographic-Information-Science-Information-Session-MS--Adv-Cert-2.php",
-    "college": "Lehman College",
-    "date": "2026-09-15",
-    "time": "5:30 PM- 6:30 PM",
-    "tags": []
-  },
-  {
-    "title": "BA-Social Work Information Sessions",
-    "link": "https://www.lehman.edu/events/2026/BA-Social-Work-Information-Sessions-1.php",
-    "college": "Lehman College",
-    "date": "2026-09-16",
-    "time": "6:00 PM- 7:15 PM",
     "tags": []
   },
   {
@@ -1286,14 +1288,6 @@
     "tags": []
   },
   {
-    "title": "V-READY Jul 15",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul15",
-    "college": "York College",
-    "date": "2026-07-15",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "FAFSA and TAP Filing Workshops",
     "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
     "college": "York College",
@@ -1355,6 +1349,14 @@
     "college": "York College",
     "date": "2026-07-29",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 29",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul29",
+    "college": "York College",
+    "date": "2026-07-29",
+    "time": "1:30 PM - 6:00 PM",
     "tags": []
   },
   {
