@@ -97,18 +97,6 @@
     ]
   },
   {
-    "title": "Mindfulness Meditation",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-3/2026-07-16/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-16",
-    "time": "01:00 PM - 01:30 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Admissions Campus Tour and Information Session",
     "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-124/",
     "college": "LaGuardia Community College",
@@ -378,6 +366,18 @@
     ]
   },
   {
+    "title": "Poolside - Vision Board",
+    "link": "https://www.laguardia.edu/event/poolside-vision-board/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-22",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "Complete Your FAFSA & TAP Financial Aid Applications",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377293",
     "college": "Guttman Community College",
@@ -609,7 +609,7 @@
   },
   {
     "title": "CPR/AED & First Aid Training for the BMCC Community",
-    "link": "https://www.bmcc.cuny.edu/event/cpr-aed-first-aid-training-for-bmcc-community/2026-07-16/",
+    "link": "https://www.bmcc.cuny.edu/event/cpr-aed-first-aid-training-for-bmcc-community-2/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-07-16",
     "time": "09:00 AM - 05:00 PM",
@@ -617,7 +617,6 @@
       "CUNY in The Heights",
       "Early Childhood Education",
       "Evening-Weekend",
-      "Featured",
       "Health Education",
       "Nursing",
       "Public Safety",
@@ -685,8 +684,7 @@
     "date": "2026-07-22",
     "time": "12:30 PM - 01:30 PM",
     "tags": [
-      "Admissions",
-      "Featured"
+      "Admissions"
     ]
   },
   {
@@ -962,6 +960,14 @@
     "tags": []
   },
   {
+    "title": "SEEK Program",
+    "link": "https://qc.event.cuny.edu/events/WwgSDtbyL1BikX0O7w4D/rKa3sZmIcPfGXwjMfwoX",
+    "college": "Queens College",
+    "date": "2026-07-16",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
     "title": "Peter and the Wolf Rehearsals and Preview Performance",
     "link": "https://qc.event.cuny.edu/events/pKr2iZtx0SaPkiWUaHzp/XsFF3mz5ZzFu7wK42KXv5",
     "college": "Queens College",
@@ -1015,14 +1021,6 @@
     "college": "Queens College",
     "date": "2026-07-17",
     "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer SEEK Program",
-    "link": "https://qc.event.cuny.edu/events/mLEG95eZItb1I2TfFdHZ/OFgfKQEN9Ca1G57MYQPd15",
-    "college": "Queens College",
-    "date": "2026-07-17",
-    "time": "9:00AM",
     "tags": []
   },
   {
@@ -1211,7 +1209,7 @@
   },
   {
     "title": "Dance Theatre of Harlem",
-    "link": "https://www.lehman.edu/events/2026/Dance-Theatre-of-Harlem-1.php",
+    "link": "https://www.lehman.edu/events/2026/Dance-Theatre-of-Harlem.php",
     "college": "Lehman College",
     "date": "2026-08-29",
     "time": "7:00 PM- 9:00 PM",
@@ -1219,7 +1217,7 @@
   },
   {
     "title": "Princess Nokia",
-    "link": "https://www.lehman.edu/events/2026/Princess-Nokia-1.php",
+    "link": "https://www.lehman.edu/events/2026/Princess-Nokia.php",
     "college": "Lehman College",
     "date": "2026-09-04",
     "time": "8:00 PM- 10:00 PM",
@@ -1231,14 +1229,6 @@
     "college": "Lehman College",
     "date": "2026-09-08",
     "time": "6:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Macaulay Day at Brooklyn College",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-day-at-brooklyn-college/",
-    "college": "Macaulay Honors College",
-    "date": "2026-07-16",
-    "time": "11:00 AM - 1:00PM",
     "tags": []
   },
   {
@@ -1311,6 +1301,86 @@
     "college": "Macaulay Honors College",
     "date": "2027-02-25",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Arts Night",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/arts-night/",
+    "college": "Macaulay Honors College",
+    "date": "2027-03-19",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-07-17",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 4-Week 2 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-2-session-2",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 7-Week 1",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-7-week-1-2",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 20",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul20",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 22",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul22",
+    "college": "York College",
+    "date": "2026-07-22",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Information Session 7/23/26",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-7-23-26",
+    "college": "York College",
+    "date": "2026-07-23",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 27",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul27",
+    "college": "York College",
+    "date": "2026-07-27",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 4-Week 2",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-2-2",
+    "college": "York College",
+    "date": "2026-07-29",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 29",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul29",
+    "college": "York College",
+    "date": "2026-07-29",
+    "time": "1:30 PM - 6:00 PM",
     "tags": []
   },
   {
