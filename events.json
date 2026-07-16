@@ -85,29 +85,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom-2/2026-07-16/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-16",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Admissions Campus Tour and Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-124/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-16",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "The World in Queens: Free Family Final Match Celebration",
     "link": "https://www.laguardia.edu/event/the-world-in-queens-free-family-final-match-celebration/",
     "college": "LaGuardia Community College",
@@ -378,6 +355,18 @@
     ]
   },
   {
+    "title": "Student Resources Fair",
+    "link": "https://www.laguardia.edu/event/student-resources-fair/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-23",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "Complete Your FAFSA & TAP Financial Aid Applications",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377293",
     "college": "Guttman Community College",
@@ -413,6 +402,17 @@
       "Office Hours",
       "Financial Aid",
       "FASFA & TAP Applications"
+    ]
+  },
+  {
+    "title": "Join CCSD, Network, Have Fun and Get Connected",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377300",
+    "college": "Guttman Community College",
+    "date": "2026-07-30",
+    "time": "05:00 PM - 06:30 PM",
+    "tags": [
+      "EMSA",
+      "Educational/Awareness"
     ]
   },
   {
@@ -608,22 +608,6 @@
     ]
   },
   {
-    "title": "CPR/AED & First Aid Training for the BMCC Community",
-    "link": "https://www.bmcc.cuny.edu/event/cpr-aed-first-aid-training-for-bmcc-community-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-16",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": [
-      "CUNY in The Heights",
-      "Early Childhood Education",
-      "Evening-Weekend",
-      "Health Education",
-      "Nursing",
-      "Public Safety",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "BMCC’s Tribeca Performing Arts Center: Screening of Mariah Garnett’s film Trouble",
     "link": "https://www.bmcc.cuny.edu/event/bmccs-tribeca-performing-arts-center-screening-of-mariah-garnetts-film-trouble/",
     "college": "Borough of Manhattan Community College",
@@ -654,6 +638,23 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "CPR/AED & First Aid Training for the BMCC Community",
+    "link": "https://www.bmcc.cuny.edu/event/cpr-aed-first-aid-training-for-bmcc-community/2026-07-21/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-21",
+    "time": "09:00 AM - 05:00 PM",
+    "tags": [
+      "CUNY in The Heights",
+      "Early Childhood Education",
+      "Evening-Weekend",
+      "Featured",
+      "Health Education",
+      "Nursing",
+      "Public Safety",
+      "Student Affairs"
     ]
   },
   {
@@ -851,14 +852,6 @@
     "college": "Queens College",
     "date": "2026-07-21",
     "time": "6:30 PM - 7:30 PM",
-    "tags": []
-  },
-  {
-    "title": "CPR/AED & First Aid Training for the BMCC Community",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007285",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-21",
-    "time": "09:00 AM - 05:00 PM",
     "tags": []
   },
   {
