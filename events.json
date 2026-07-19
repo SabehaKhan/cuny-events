@@ -553,6 +553,14 @@
     "tags": []
   },
   {
+    "title": "VPs & Deans",
+    "link": "https://www.bcc.cuny.edu/event/vps-deans/2026-09-16/",
+    "college": "Bronx Community College",
+    "date": "2026-09-16",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "Data Visualization",
     "link": "https://events.cuny.edu/cec/data-visualization/",
     "college": "College of Staten Island",
@@ -586,46 +594,6 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-07-22",
     "time": "09:00 AM - 05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "B&G Usage",
-    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X27",
-    "college": "Queens College",
-    "date": "2026-07-18",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Windows Replacement Project",
-    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ48",
-    "college": "Queens College",
-    "date": "2026-07-18",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA148",
-    "college": "Queens College",
-    "date": "2026-07-18",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Placement Exams",
-    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb48",
-    "college": "Queens College",
-    "date": "2026-07-18",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Kaplan Test Prep",
-    "link": "https://qc.event.cuny.edu/events/s4JiZu3sNI0LSAVSk1Nu/aGeIszggkr1dGFOT7NHw",
-    "college": "Queens College",
-    "date": "2026-07-18",
-    "time": "9:30AM",
     "tags": []
   },
   {
@@ -733,6 +701,38 @@
     "tags": []
   },
   {
+    "title": "CUNY Explorers tours",
+    "link": "https://qc.event.cuny.edu/events/RFPCR1mFVzwSPekYcGfw/ONBBcq3ouSUnIBORR2Wn8",
+    "college": "Queens College",
+    "date": "2026-07-20",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "B&G Usage",
+    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X30",
+    "college": "Queens College",
+    "date": "2026-07-21",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Windows Replacement Project",
+    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ51",
+    "college": "Queens College",
+    "date": "2026-07-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "QC Summer Camp",
+    "link": "https://qc.event.cuny.edu/events/VC7K8hE2YgM2vL38BdRf/IY7B8HTmuvAX4Znoey1f17",
+    "college": "Queens College",
+    "date": "2026-07-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
     "title": "Academic Calendar - Summer II: Verification of Enrollment Rosters Due from faculty",
     "link": "https://baruch.event.cuny.edu/events/kc1yzbEwucSFWsVNJ39a/pvpVyApSCvWZnQkCpiwe",
     "college": "Baruch College",
@@ -746,14 +746,6 @@
     "college": "Baruch College",
     "date": "2026-07-21",
     "time": "",
-    "tags": []
-  },
-  {
-    "title": "STEP Summer 2026 Program",
-    "link": "https://citytech.event.cuny.edu/events/zyrwkUOLC5fnUHeb3G1E/JIakMGvrAkhI46W6cT0F13",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-18",
-    "time": "9:00AM",
     "tags": []
   },
   {
@@ -775,6 +767,22 @@
   {
     "title": "STEP Summer 2026 Program",
     "link": "https://citytech.event.cuny.edu/events/zyrwkUOLC5fnUHeb3G1E/JIakMGvrAkhI46W6cT0F15",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-07-20",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq36",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-07-20",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Workspace",
+    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW36",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-07-20",
     "time": "9:00AM",
@@ -970,6 +978,94 @@
     "college": "Macaulay Honors College",
     "date": "2027-03-19",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "R2T4 60% date for 4-Week 2 session",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-2-session-2",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 7-Week 1",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-7-week-1-2",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 20",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul20",
+    "college": "York College",
+    "date": "2026-07-20",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 22",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul22",
+    "college": "York College",
+    "date": "2026-07-22",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-07-22",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Information Session 7/23/26",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-7-23-26",
+    "college": "York College",
+    "date": "2026-07-23",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 27",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul27",
+    "college": "York College",
+    "date": "2026-07-27",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 4-Week 2",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-2-2",
+    "college": "York College",
+    "date": "2026-07-29",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 29",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul29",
+    "college": "York College",
+    "date": "2026-07-29",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "New Student Orientation",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/new-student-orientation-1",
+    "college": "York College",
+    "date": "2026-08-05",
+    "time": "1:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 10-Week",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-10-week-2",
+    "college": "York College",
+    "date": "2026-08-10",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
