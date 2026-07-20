@@ -326,17 +326,6 @@
     ]
   },
   {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-9-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-20",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "CPR/AED & First Aid Training for the BMCC Community",
     "link": "https://www.bmcc.cuny.edu/event/cpr-aed-first-aid-training-for-bmcc-community/2026-07-21/",
     "college": "Borough of Manhattan Community College",
@@ -415,6 +404,17 @@
     "time": "03:00 PM - 04:00 PM",
     "tags": [
       "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-9-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-27",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
     ]
   },
   {
@@ -558,6 +558,14 @@
     "college": "Bronx Community College",
     "date": "2026-09-16",
     "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=676548",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-20",
+    "time": "04:00 PM - 05:00 PM",
     "tags": []
   },
   {
@@ -1002,94 +1010,6 @@
     "college": "Macaulay Honors College",
     "date": "2027-03-19",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "R2T4 60% date for 4-Week 2 session",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/r2t4-60-date-for-4-week-2-session-2",
-    "college": "York College",
-    "date": "2026-07-20",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Finals for classes in 7-Week 1",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-7-week-1-2",
-    "college": "York College",
-    "date": "2026-07-20",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 20",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul20",
-    "college": "York College",
-    "date": "2026-07-20",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 22",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul22",
-    "college": "York College",
-    "date": "2026-07-22",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-07-22",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Information Session 7/23/26",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-7-23-26",
-    "college": "York College",
-    "date": "2026-07-23",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 27",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul27",
-    "college": "York College",
-    "date": "2026-07-27",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Finals for classes in 4-Week 2",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-2-2",
-    "college": "York College",
-    "date": "2026-07-29",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 29",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul29",
-    "college": "York College",
-    "date": "2026-07-29",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Aug 3",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug3",
-    "college": "York College",
-    "date": "2026-08-03",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "New Student Orientation",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/new-student-orientation-1",
-    "college": "York College",
-    "date": "2026-08-05",
-    "time": "1:00 PM - 7:00 PM",
     "tags": []
   },
   {
