@@ -369,6 +369,18 @@
     ]
   },
   {
+    "title": "MoneyBoss: How Ordinary People Build Extraordinary Wealth",
+    "link": "https://www.laguardia.edu/event/moneyboss-how-ordinary-people-build-extraordinary-wealth/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-28",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "ADA Barbecue (Games, Food and Ceremony)",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377279",
     "college": "Guttman Community College",
@@ -712,9 +724,9 @@
   },
   {
     "title": "CPR/AED & First Aid Training for the BMCC Community",
-    "link": "https://www.bmcc.cuny.edu/event/cpr-aed-first-aid-training-for-bmcc-community/2026-07-22/",
+    "link": "https://www.bmcc.cuny.edu/event/cpr-aed-first-aid-training-for-bmcc-community/2026-07-23/",
     "college": "Borough of Manhattan Community College",
-    "date": "2026-07-22",
+    "date": "2026-07-23",
     "time": "09:00 AM - 05:00 PM",
     "tags": [
       "CUNY in The Heights",
@@ -725,38 +737,6 @@
       "Nursing",
       "Public Safety",
       "Student Affairs"
-    ]
-  },
-  {
-    "title": "Take a Tour of BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-4-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-22",
-    "time": "10:00 AM - 11:15 AM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-10-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-22",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Admissions"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (in-person)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-4/2026-07-22/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-22",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
     ]
   },
   {
@@ -787,6 +767,39 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-07-27",
     "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Take a Tour of BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-4-5/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-28",
+    "time": "10:00 AM - 11:15 AM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-10-5/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-29",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (in-person)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-4/2026-07-29/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-29",
+    "time": "02:00 PM - 03:00 PM",
     "tags": [
       "Admissions",
       "Featured"
@@ -946,6 +959,22 @@
     ]
   },
   {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=676562",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-22",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (in-person)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007279",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-22",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": []
+  },
+  {
     "title": "Introduction to Calculations and Formulas",
     "link": "https://events.cuny.edu/cec/introduction-to-calculations-and-formulas/",
     "college": "College of Staten Island",
@@ -964,14 +993,6 @@
     "tags": [
       "CWE Admissions Workshop"
     ]
-  },
-  {
-    "title": "CPR/AED & First Aid Training for the BMCC Community",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007287",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-23",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": []
   },
   {
     "title": "B&G Usage",
@@ -1350,14 +1371,6 @@
     "tags": []
   },
   {
-    "title": "Macaulay Day at The City College of New York",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-day-at-the-city-college-of-new-york/",
-    "college": "Macaulay Honors College",
-    "date": "2026-07-22",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
     "title": "Macaulay Day at Queens College",
     "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-day-at-queens-college/",
     "college": "Macaulay Honors College",
@@ -1427,86 +1440,6 @@
     "college": "Macaulay Honors College",
     "date": "2027-05-07",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Information Session 7/23/26",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-7-23-26",
-    "college": "York College",
-    "date": "2026-07-23",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-07-24",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 27",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul27",
-    "college": "York College",
-    "date": "2026-07-27",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Scholarship 101 Workshop 7/27",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarship-101-workshop-7-27",
-    "college": "York College",
-    "date": "2026-07-27",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Finals for classes in 4-Week 2",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-2-2",
-    "college": "York College",
-    "date": "2026-07-29",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Jul 29",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul29",
-    "college": "York College",
-    "date": "2026-07-29",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Aug 3",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug3",
-    "college": "York College",
-    "date": "2026-08-03",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Aug 5",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug5",
-    "college": "York College",
-    "date": "2026-08-05",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Finals for classes in 10-Week",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-10-week-2",
-    "college": "York College",
-    "date": "2026-08-10",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Nursing Information Session",
-    "link": "https://www.york.cuny.edu/nursing/nursing-information-session-aug-2026",
-    "college": "York College",
-    "date": "2026-08-13",
-    "time": "4:00 PM - 5:00 PM",
     "tags": []
   },
   {
