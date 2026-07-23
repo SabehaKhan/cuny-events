@@ -77,18 +77,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Thursday One Stop Enrollment office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-thursday-one-stop-enrollment-office-zoom-2/2026-07-23/",
-    "college": "LaGuardia Community College",
-    "date": "2026-07-23",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Mindfulness Meditation",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-3/2026-07-29/",
     "college": "LaGuardia Community College",
@@ -378,6 +366,17 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-3/2026-09-23/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-23",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "ADA Barbecue (Games, Food and Ceremony)",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377279",
     "college": "Guttman Community College",
@@ -521,14 +520,6 @@
       "Weeks Of Welcome",
       "Connect Center"
     ]
-  },
-  {
-    "title": "Graduate Admissions Information Session",
-    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-40/",
-    "college": "Hunter College",
-    "date": "2026-07-23",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": []
   },
   {
     "title": "Accelerated-Second Degree (BS) Nursing Program Information Session",
@@ -720,35 +711,6 @@
     ]
   },
   {
-    "title": "CPR/AED & First Aid Training for the BMCC Community",
-    "link": "https://www.bmcc.cuny.edu/event/cpr-aed-first-aid-training-for-bmcc-community/2026-07-23/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-23",
-    "time": "09:00 AM - 05:00 PM",
-    "tags": [
-      "CUNY in The Heights",
-      "Early Childhood Education",
-      "Evening-Weekend",
-      "Featured",
-      "Health Education",
-      "Nursing",
-      "Public Safety",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Free Workshop: Microsoft PowerPoint (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-powerpoint-students-only-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-23",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "CUNY in The Heights",
-      "Featured",
-      "Learning Resource Center"
-    ]
-  },
-  {
     "title": "Free Workshop: Microsoft Word (Students Only)",
     "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-word-students-only-4/",
     "college": "Borough of Manhattan Community College",
@@ -833,6 +795,23 @@
     ]
   },
   {
+    "title": "CPR/AED & First Aid Training for the BMCC Community",
+    "link": "https://www.bmcc.cuny.edu/event/cpr-aed-first-aid-training-for-bmcc-community/2026-08-04/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-04",
+    "time": "09:00 AM - 05:00 PM",
+    "tags": [
+      "CUNY in The Heights",
+      "Early Childhood Education",
+      "Evening-Weekend",
+      "Featured",
+      "Health Education",
+      "Nursing",
+      "Public Safety",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Free Workshop: Microsoft Excel Orientation (Students Only)",
     "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-excel-orientation-students-only-5/",
     "college": "Borough of Manhattan Community College",
@@ -865,6 +844,22 @@
       "Evening-Weekend",
       "Featured",
       "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Emergency Medical Services (EMS) Job Fair",
+    "link": "https://www.bmcc.cuny.edu/event/emergency-medical-services-ems-job-fair/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-10",
+    "time": "05:00 PM - 08:00 PM",
+    "tags": [
+      "Allied Health Sciences",
+      "Career Workshops/Fairs",
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured",
+      "Health Education",
+      "Science"
     ]
   },
   {
@@ -981,6 +976,16 @@
     "college": "College of Staten Island",
     "date": "2026-07-29",
     "time": "1:00 PM - 2:00 PM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "Formulas",
+    "link": "https://events.cuny.edu/cec/formulas-2/",
+    "college": "College of Staten Island",
+    "date": "2026-07-29",
+    "time": "2:00 PM - 4:00 PM",
     "tags": [
       "Technology Training"
     ]
@@ -1423,6 +1428,86 @@
     "college": "Macaulay Honors College",
     "date": "2027-05-07",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Virtual Information Session 7/23/26",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-7-23-26",
+    "college": "York College",
+    "date": "2026-07-23",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-07-24",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 27",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul27",
+    "college": "York College",
+    "date": "2026-07-27",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Scholarship 101 Workshop 7/27",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarship-101-workshop-7-27",
+    "college": "York College",
+    "date": "2026-07-27",
+    "time": "8:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 4-Week 2",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-2-2",
+    "college": "York College",
+    "date": "2026-07-29",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Jul 29",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul29",
+    "college": "York College",
+    "date": "2026-07-29",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 3",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug3",
+    "college": "York College",
+    "date": "2026-08-03",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 5",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug5",
+    "college": "York College",
+    "date": "2026-08-05",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Finals for classes in 10-Week",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-10-week-2",
+    "college": "York College",
+    "date": "2026-08-10",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Nursing Information Session",
+    "link": "https://www.york.cuny.edu/nursing/nursing-information-session-aug-2026",
+    "college": "York College",
+    "date": "2026-08-13",
+    "time": "4:00 PM - 5:00 PM",
     "tags": []
   },
   {
