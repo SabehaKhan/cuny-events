@@ -30,14 +30,6 @@
   },
   {
     "title": "CUNY Transfer Application Workshop",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/584a9cb4-174d-4be5-88da-28d0ce0310ef",
-    "college": "Kingsborough Community College",
-    "date": "2026-07-23",
-    "time": "02:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Transfer Application Workshop",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/d5175b8c-2228-4cb0-84c4-c7dcda92891e",
     "college": "Kingsborough Community College",
     "date": "2026-08-03",
@@ -377,18 +369,6 @@
     ]
   },
   {
-    "title": "ADA Barbecue (Games, Food and Ceremony)",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377279",
-    "college": "Guttman Community College",
-    "date": "2026-07-23",
-    "time": "03:00 PM - 07:00 PM",
-    "tags": [
-      "EMSA",
-      "Educational/Awareness",
-      "Disability Awareness Month"
-    ]
-  },
-  {
     "title": "Spring 2 2026 Study-a-Thon",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377302",
     "college": "Guttman Community College",
@@ -519,6 +499,19 @@
       "Educational/Awareness",
       "Weeks Of Welcome",
       "Connect Center"
+    ]
+  },
+  {
+    "title": "Guttman Stands with Immigrants",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377311",
+    "college": "Guttman Community College",
+    "date": "2026-10-29",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": [
+      "EMSA",
+      "Social",
+      "Food - Lunch",
+      "Immigrant Student Success"
     ]
   },
   {
@@ -941,26 +934,6 @@
     "tags": []
   },
   {
-    "title": "Introduction to Calculations and Formulas",
-    "link": "https://events.cuny.edu/cec/introduction-to-calculations-and-formulas/",
-    "college": "College of Staten Island",
-    "date": "2026-07-23",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "CCNY CWE Admissions Workshop | Online",
-    "link": "https://events.cuny.edu/cec/ccny-cwe-admissions-workshop-online-2/",
-    "college": "The City College of New York",
-    "date": "2026-07-23",
-    "time": "6:00 PM - 6:45 PM",
-    "tags": [
-      "CWE Admissions Workshop"
-    ]
-  },
-  {
     "title": "Formulas",
     "link": "https://events.cuny.edu/cec/formulas/",
     "college": "College of Staten Island",
@@ -991,91 +964,11 @@
     ]
   },
   {
-    "title": "B&G Usage",
-    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X32",
-    "college": "Queens College",
-    "date": "2026-07-23",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Windows Replacement Project",
-    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ53",
-    "college": "Queens College",
-    "date": "2026-07-23",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "QC Summer Camp",
-    "link": "https://qc.event.cuny.edu/events/VC7K8hE2YgM2vL38BdRf/IY7B8HTmuvAX4Znoey1f19",
-    "college": "Queens College",
-    "date": "2026-07-23",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA153",
-    "college": "Queens College",
-    "date": "2026-07-23",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Placement Exams",
-    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb53",
-    "college": "Queens College",
-    "date": "2026-07-23",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "QSVI Rehearsal",
-    "link": "https://qc.event.cuny.edu/events/pkH2dTT061tVOklWdwdL/vP0zvuOa8hlgfD5cvEM5",
-    "college": "Queens College",
-    "date": "2026-07-23",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Macaulay Day at Queens College",
-    "link": "https://qc.event.cuny.edu/events/WHw8moqL1hVBuBm6aBSt/Yommu8AmFZBMBZAZFtJ9",
-    "college": "Queens College",
-    "date": "2026-07-23",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer SEEK Program",
-    "link": "https://qc.event.cuny.edu/events/mLEG95eZItb1I2TfFdHZ/dKDDaiuc3RuqYUQTuz6K19",
-    "college": "Queens College",
-    "date": "2026-07-23",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "College Now: 2026 Summer Institute for Acting & Video Production",
-    "link": "https://qc.event.cuny.edu/events/PwLokiN38FKZVbVHOxmx/gSnX342ckilOtE2VRdfN",
-    "college": "Queens College",
-    "date": "2026-07-23",
-    "time": "10:30AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers tours",
-    "link": "https://qc.event.cuny.edu/events/RFPCR1mFVzwSPekYcGfw/ONBBcq3ouSUnIBORR2Wn11",
-    "college": "Queens College",
-    "date": "2026-07-23",
-    "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "Peter and the Wolf Rehearsals and Preview Performance",
-    "link": "https://qc.event.cuny.edu/events/pKr2iZtx0SaPkiWUaHzp/XsFF3mz5ZzFu7wK42KXv8",
-    "college": "Queens College",
-    "date": "2026-07-23",
-    "time": "4:00PM",
+    "title": "Take a Tour of BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/?p=677710",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-29",
+    "time": "10:00 AM - 11:15 AM",
     "tags": []
   },
   {
@@ -1135,67 +1028,99 @@
     "tags": []
   },
   {
-    "title": "CREST Symposium",
-    "link": "https://citytech.event.cuny.edu/events/syJf4BncXwFHOl1m3isb/FLY0Vu88TQTQDYpAU3WL",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-23",
-    "time": "7:30AM",
+    "title": "Windows Replacement Project",
+    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ55",
+    "college": "Queens College",
+    "date": "2026-07-25",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "STEP Summer 2026 Program",
-    "link": "https://citytech.event.cuny.edu/events/zyrwkUOLC5fnUHeb3G1E/JIakMGvrAkhI46W6cT0F18",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-23",
-    "time": "9:00AM",
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA155",
+    "college": "Queens College",
+    "date": "2026-07-25",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq39",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-23",
-    "time": "9:00AM",
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb55",
+    "college": "Queens College",
+    "date": "2026-07-25",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Tech Talent Pipeline Residency Workspace",
-    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW39",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-23",
-    "time": "9:00AM",
+    "title": "Kaplan Test Prep",
+    "link": "https://qc.event.cuny.edu/events/s4JiZu3sNI0LSAVSk1Nu/AdiSucZ4XMFIU2uHLnqk",
+    "college": "Queens College",
+    "date": "2026-07-25",
+    "time": "9:30AM",
     "tags": []
   },
   {
-    "title": "ENG1101",
-    "link": "https://citytech.event.cuny.edu/events/Lkgyde5ir7Xl9Mb9b170/wU5JpFssGBAuYyPTLOoK4",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-23",
-    "time": "9:00AM",
+    "title": "B&G Usage",
+    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X35",
+    "college": "Queens College",
+    "date": "2026-07-26",
+    "time": "",
     "tags": []
   },
   {
-    "title": "CUNY Explorers",
-    "link": "https://citytech.event.cuny.edu/events/F7iLsCLk3b6Qt2jqUcgw/Pu8jLaiI7ZZmdZubFjoK3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-23",
-    "time": "10:00AM",
+    "title": "Windows Replacement Project",
+    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ56",
+    "college": "Queens College",
+    "date": "2026-07-26",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Student Wellness Center: Summer 2026 Blood Drive",
-    "link": "https://citytech.event.cuny.edu/events/A58c9BwfdWskSPJWcSiL/sPcvkz0YW69kwvwbXcQf",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-23",
-    "time": "10:00AM",
+    "title": "Project TCG NYC",
+    "link": "https://qc.event.cuny.edu/events/jm63bC74j6CJhKOagPCq/NiQF6T6Xz2WYj3yTKkHE",
+    "college": "Queens College",
+    "date": "2026-07-26",
+    "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "A Better Chance for Success",
-    "link": "https://citytech.event.cuny.edu/events/fYGX62sOcYivFY7tQ0up/CNSaKBR3WrCA1cYhP4dk",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-07-23",
-    "time": "3:00PM",
+    "title": "Pokiemon (Eddy) Card Expo",
+    "link": "https://qc.event.cuny.edu/events/K1Hlu5DMw8JKuj52pktB/YZxJQdxAKS6msWVSIqGG",
+    "college": "Queens College",
+    "date": "2026-07-26",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL156",
+    "college": "Queens College",
+    "date": "2026-07-26",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb56",
+    "college": "Queens College",
+    "date": "2026-07-26",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Kaplan Test Prep",
+    "link": "https://qc.event.cuny.edu/events/s4JiZu3sNI0LSAVSk1Nu/Y6jTRhh9WheZtGSb91ez",
+    "college": "Queens College",
+    "date": "2026-07-26",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "B&G Usage",
+    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X36",
+    "college": "Queens College",
+    "date": "2026-07-27",
+    "time": "",
     "tags": []
   },
   {
@@ -1211,6 +1136,38 @@
     "link": "https://citytech.event.cuny.edu/events/zyrwkUOLC5fnUHeb3G1E/JIakMGvrAkhI46W6cT0F19",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-07-24",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
+    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq40",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-07-24",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tech Talent Pipeline Residency Workspace",
+    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW40",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-07-24",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "ENG1101",
+    "link": "https://citytech.event.cuny.edu/events/Lkgyde5ir7Xl9Mb9b170/wU5JpFssGBAuYyPTLOoK5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-07-24",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "STEP Summer 2026 Program",
+    "link": "https://citytech.event.cuny.edu/events/zyrwkUOLC5fnUHeb3G1E/JIakMGvrAkhI46W6cT0F20",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-07-25",
     "time": "9:00AM",
     "tags": []
   },
@@ -1431,22 +1388,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Information Session 7/23/26",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/virtual-information-session-7-23-26",
-    "college": "York College",
-    "date": "2026-07-23",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Workshops",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-07-24",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "V-READY Jul 27",
     "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul27",
     "college": "York College",
@@ -1476,6 +1417,14 @@
     "college": "York College",
     "date": "2026-07-29",
     "time": "1:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Workshops",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-07-29",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
