@@ -731,27 +731,6 @@
     ]
   },
   {
-    "title": "Free Workshop: Microsoft Word (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-word-students-only-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-27",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-9-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-27",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
-    ]
-  },
-  {
     "title": "Take a Tour of BMCC",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-4-5/",
     "college": "Borough of Manhattan Community College",
@@ -971,6 +950,22 @@
     ]
   },
   {
+    "title": "Free Workshop: Microsoft Word (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=678365",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-27",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=676551",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-07-27",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
     "title": "Student Technology Overview Workshop",
     "link": "https://events.cuny.edu/cec/student-technology-overview-workshop-10/",
     "college": "College of Staten Island",
@@ -1032,7 +1027,7 @@
   },
   {
     "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL157",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA157",
     "college": "Queens College",
     "date": "2026-07-27",
     "time": "8:00AM",
@@ -1104,7 +1099,7 @@
   },
   {
     "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL158",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA158",
     "college": "Queens College",
     "date": "2026-07-28",
     "time": "8:00AM",
@@ -1399,22 +1394,6 @@
     "tags": []
   },
   {
-    "title": "V-READY Jul 27",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul27",
-    "college": "York College",
-    "date": "2026-07-27",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Scholarship 101 Workshop 7/27",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarship-101-workshop-7-27",
-    "college": "York College",
-    "date": "2026-07-27",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
     "title": "Finals for classes in 4-Week 2",
     "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-2-2",
     "college": "York College",
@@ -1444,6 +1423,14 @@
     "college": "York College",
     "date": "2026-08-03",
     "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Scholarship 101 Workshop 8/03",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarship-101-workshop-8-03",
+    "college": "York College",
+    "date": "2026-08-03",
+    "time": "8:00 PM - 9:00 PM",
     "tags": []
   },
   {
