@@ -1016,7 +1016,7 @@
   },
   {
     "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL158",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA158",
     "college": "Queens College",
     "date": "2026-07-28",
     "time": "8:00AM",
@@ -1052,14 +1052,6 @@
     "college": "Queens College",
     "date": "2026-07-28",
     "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "Hip to Hip Rain Locations",
-    "link": "https://qc.event.cuny.edu/events/Rxxs3eobDD7FvKEgiDk1/XMhc9AP6wYots0oxIIkR",
-    "college": "Queens College",
-    "date": "2026-07-28",
-    "time": "12:00PM",
     "tags": []
   },
   {
@@ -1113,6 +1105,14 @@
   {
     "title": "Math Lab Relocation",
     "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA159",
+    "college": "Queens College",
+    "date": "2026-07-29",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb59",
     "college": "Queens College",
     "date": "2026-07-29",
     "time": "8:00AM",
@@ -1231,11 +1231,11 @@
     "tags": []
   },
   {
-    "title": "Faculty Office Hours: An Interactive Conversation with Dr. Jean Grassman",
-    "link": "https://sph.cuny.edu/event/faculty-office-hours-an-interactive-conversation-with-dr-jean-grassman/",
+    "title": "2026 Biennial Molina Health Equity Summit",
+    "link": "https://sph.cuny.edu/event/2026-biennial-molina-health-equity-summit/",
     "college": "CUNY School of Public Health",
     "date": "2026-10-01",
-    "time": "12:30PM",
+    "time": "8:30 AM - 1:00PM",
     "tags": []
   },
   {
@@ -1335,14 +1335,6 @@
     "tags": []
   },
   {
-    "title": "Macaulay Day at Baruch College",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-day-at-baruch-college/",
-    "college": "Macaulay Honors College",
-    "date": "2026-07-28",
-    "time": "11:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
     "title": "New Student Orientation Events: 8/24, 8/25, 8/26",
     "link": "https://macaulay.cuny.edu/calendar-of-events/orientation-calendar-listing/",
     "college": "Macaulay Honors College",
@@ -1399,75 +1391,115 @@
     "tags": []
   },
   {
-    "title": "Finals for classes in 4-Week 2",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-2-2",
-    "college": "York College",
+    "title": "DRUPAL ACCESSIBILITY TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-july-2026",
+    "college": "CUNY Graduate Center",
     "date": "2026-07-29",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
   },
   {
-    "title": "V-READY Jul 29",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul29",
-    "college": "York College",
-    "date": "2026-07-29",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
+    "title": "THE ACADEMIC JOB COVER LETTER",
+    "link": "https://www.gc.cuny.edu/events/academic-job-cover-letter",
+    "college": "CUNY Graduate Center",
+    "date": "2026-08-06",
+    "time": "3:00 pm — 4:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
   },
   {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-07-29",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
+    "title": "DRUPAL TRAINING - BASICS",
+    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-aug-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-08-12",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
   },
   {
-    "title": "V-READY Aug 3",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug3",
-    "college": "York College",
-    "date": "2026-08-03",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
+    "title": "DRUPAL TRAINING - ADVANCED",
+    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-aug-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-08-12",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
   },
   {
-    "title": "Scholarship 101 Workshop 8/03",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarship-101-workshop-8-03",
-    "college": "York College",
-    "date": "2026-08-03",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
+    "title": "APPLYING FOR A PH.D.: THE STATEMENT OF PURPOSE",
+    "link": "https://www.gc.cuny.edu/events/applying-phd-statement-purpose",
+    "college": "CUNY Graduate Center",
+    "date": "2026-08-19",
+    "time": "4:00 pm — 5:00 pm",
+    "location": "Online",
+    "tags": [
+      "Writing Center"
+    ]
   },
   {
-    "title": "V-READY Aug 5",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug5",
-    "college": "York College",
-    "date": "2026-08-05",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
+    "title": "ART/WORK: THE PRACTICE AND POLITICS OF CETA AND THE ARTS, 1974-1981",
+    "link": "https://www.gc.cuny.edu/events/artwork-practice-and-politics-ceta-and-arts-1974-1981",
+    "college": "CUNY Graduate Center",
+    "date": "2026-08-20",
+    "time": "",
+    "location": "1200: James Art Gallery",
+    "tags": [
+      "James Gallery"
+    ]
   },
   {
-    "title": "Finals for classes in 10-Week",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-10-week-2",
-    "college": "York College",
-    "date": "2026-08-10",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
+    "title": "DRUPAL ACCESSIBILITY TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-aug-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-08-26",
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
   },
   {
-    "title": "V-READY Aug 10",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug10",
-    "college": "York College",
-    "date": "2026-08-10",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
+    "title": "DRUPAL TRAINING - BASICS",
+    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-sept-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-09-09",
+    "time": "10:00 am — 11:30 am",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
   },
   {
-    "title": "Nursing Information Session",
-    "link": "https://www.york.cuny.edu/nursing/nursing-information-session-aug-2026",
-    "college": "York College",
-    "date": "2026-08-13",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
+    "title": "DRUPAL TRAINING - ADVANCED",
+    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-sept-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-09-09",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "HISTORY ABOARD THE INTREPID: A GRADUATE CENTER ALUMNI TOUR",
+    "link": "https://www.gc.cuny.edu/events/history-aboard-intrepid-graduate-center-alumni-tour",
+    "college": "CUNY Graduate Center",
+    "date": "2026-09-15",
+    "time": "3:15 pm — 4:45 pm",
+    "location": "Non-GC Location (see description for details)",
+    "tags": [
+      "Institutional Advancement",
+      "Alumni Relations",
+      "Alumni"
+    ]
   }
 ]
