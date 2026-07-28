@@ -712,9 +712,9 @@
   },
   {
     "title": "Take a Tour of BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-4-5/",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-4-6/",
     "college": "Borough of Manhattan Community College",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "time": "10:00 AM - 11:15 AM",
     "tags": [
       "Admissions",
@@ -920,6 +920,36 @@
     "tags": []
   },
   {
+    "title": "Student Government: Student Services Commission",
+    "link": "https://csi.campuslabs.com/engage/event/12527901",
+    "college": "College of Staten Island",
+    "date": "2026-08-04",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "GroupBusiness"
+    ]
+  },
+  {
+    "title": "Student Government: Elections and Advocacy Commission",
+    "link": "https://csi.campuslabs.com/engage/event/12527902",
+    "college": "College of Staten Island",
+    "date": "2026-08-10",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "GroupBusiness"
+    ]
+  },
+  {
+    "title": "Student Government: Club Commission",
+    "link": "https://csi.campuslabs.com/engage/event/12527903",
+    "college": "College of Staten Island",
+    "date": "2026-08-10",
+    "time": "05:30 PM - 06:30 PM",
+    "tags": [
+      "GroupBusiness"
+    ]
+  },
+  {
     "title": "Student Technology Overview Workshop",
     "link": "https://events.cuny.edu/cec/student-technology-overview-workshop-10/",
     "college": "College of Staten Island",
@@ -940,14 +970,6 @@
     ]
   },
   {
-    "title": "Take a Tour of BMCC",
-    "link": "https://www.bmcc.cuny.edu/event/?p=677710",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-07-29",
-    "time": "10:00 AM - 11:15 AM",
-    "tags": []
-  },
-  {
     "title": "Summer 2026 Research Series • Biotechnology-Gene Cloning and DNA Analysis",
     "link": "https://events.cuny.edu/cec/summer-2026-research-series-biotechnology-gene-cloning-and-dna-analysis/",
     "college": "College of Staten Island",
@@ -956,6 +978,16 @@
     "tags": [
       "Biology",
       "Division of Science and Technology"
+    ]
+  },
+  {
+    "title": "Formulas",
+    "link": "https://events.cuny.edu/cec/formulas-3/",
+    "college": "College of Staten Island",
+    "date": "2026-08-04",
+    "time": "10:00 AM - 12:00 PM",
+    "tags": [
+      "Technology Training"
     ]
   },
   {
@@ -1231,6 +1263,14 @@
     "tags": []
   },
   {
+    "title": "\"The Reset\" Small Business Conference | The Dominican American Chamber of Commerce",
+    "link": "https://www.lehman.edu/events/2026/The-Reset-Small-Business-Conference--The-Dominican-American-Chamber-of-Commerce-.php",
+    "college": "Lehman College",
+    "date": "2026-07-29",
+    "time": "10:00 AM- 4:00 PM",
+    "tags": []
+  },
+  {
     "title": "Salsa Under the Stars with Tres Del Solar and DJ Woody",
     "link": "https://www.lehman.edu/events/2026/Salsa-Under-the-Stars-with-Tres-Del-Solar-and-DJ-Woody.php",
     "college": "Lehman College",
@@ -1289,14 +1329,6 @@
   {
     "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
     "link": "https://www.lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session--2.php",
-    "college": "Lehman College",
-    "date": "2026-09-08",
-    "time": "6:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
-    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session--2.php",
     "college": "Lehman College",
     "date": "2026-09-08",
     "time": "6:00 PM- 8:00 PM",
@@ -1367,115 +1399,75 @@
     "tags": []
   },
   {
-    "title": "DRUPAL ACCESSIBILITY TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-july-2026",
-    "college": "CUNY Graduate Center",
+    "title": "Finals for classes in 4-Week 2",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-4-week-2-2",
+    "college": "York College",
     "date": "2026-07-29",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
   },
   {
-    "title": "THE ACADEMIC JOB COVER LETTER",
-    "link": "https://www.gc.cuny.edu/events/academic-job-cover-letter",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-06",
-    "time": "3:00 pm — 4:00 pm",
-    "location": "Online",
-    "tags": [
-      "Writing Center"
-    ]
+    "title": "V-READY Jul 29",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-jul29",
+    "college": "York College",
+    "date": "2026-07-29",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
   },
   {
-    "title": "DRUPAL TRAINING - BASICS",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-aug-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-12",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-07-29",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
   },
   {
-    "title": "DRUPAL TRAINING - ADVANCED",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-aug-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-12",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
+    "title": "V-READY Aug 3",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug3",
+    "college": "York College",
+    "date": "2026-08-03",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
   },
   {
-    "title": "APPLYING FOR A PH.D.: THE STATEMENT OF PURPOSE",
-    "link": "https://www.gc.cuny.edu/events/applying-phd-statement-purpose",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-19",
-    "time": "4:00 pm — 5:00 pm",
-    "location": "Online",
-    "tags": [
-      "Writing Center"
-    ]
+    "title": "Scholarship 101 Workshop 8/03",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarship-101-workshop-8-03",
+    "college": "York College",
+    "date": "2026-08-03",
+    "time": "8:00 PM - 9:00 PM",
+    "tags": []
   },
   {
-    "title": "ART/WORK: THE PRACTICE AND POLITICS OF CETA AND THE ARTS, 1974-1981",
-    "link": "https://www.gc.cuny.edu/events/artwork-practice-and-politics-ceta-and-arts-1974-1981",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-20",
-    "time": "",
-    "location": "1200: James Art Gallery",
-    "tags": [
-      "James Gallery"
-    ]
+    "title": "V-READY Aug 5",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug5",
+    "college": "York College",
+    "date": "2026-08-05",
+    "time": "1:30 PM - 6:00 PM",
+    "tags": []
   },
   {
-    "title": "DRUPAL ACCESSIBILITY TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-aug-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-26",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
+    "title": "Finals for classes in 10-Week",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/finals-for-classes-in-10-week-2",
+    "college": "York College",
+    "date": "2026-08-10",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
   },
   {
-    "title": "DRUPAL TRAINING - BASICS",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-sept-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-09-09",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
+    "title": "V-READY Aug 10",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug10",
+    "college": "York College",
+    "date": "2026-08-10",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
   },
   {
-    "title": "DRUPAL TRAINING - ADVANCED",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-sept-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-09-09",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "HISTORY ABOARD THE INTREPID: A GRADUATE CENTER ALUMNI TOUR",
-    "link": "https://www.gc.cuny.edu/events/history-aboard-intrepid-graduate-center-alumni-tour",
-    "college": "CUNY Graduate Center",
-    "date": "2026-09-15",
-    "time": "3:15 pm — 4:45 pm",
-    "location": "Non-GC Location (see description for details)",
-    "tags": [
-      "Institutional Advancement",
-      "Alumni Relations",
-      "Alumni"
-    ]
+    "title": "Nursing Information Session",
+    "link": "https://www.york.cuny.edu/nursing/nursing-information-session-aug-2026",
+    "college": "York College",
+    "date": "2026-08-13",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": []
   }
 ]
