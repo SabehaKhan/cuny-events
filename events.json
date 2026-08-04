@@ -795,17 +795,6 @@
     ]
   },
   {
-    "title": "Free Workshop: Microsoft Excel Orientation (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-excel-orientation-students-only-5/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-08-04",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "CUNY in The Heights",
-      "Learning Resource Center"
-    ]
-  },
-  {
     "title": "Take a Tour of BMCC",
     "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-bmcc-5-2/",
     "college": "Borough of Manhattan Community College",
@@ -1476,11 +1465,11 @@
     "tags": []
   },
   {
-    "title": "Career Success at CUNY SPH: Meet the Career Services Team",
-    "link": "https://sph.cuny.edu/event/career-success-at-cuny-sph-meet-the-career-services-team-2/",
+    "title": "Career Workshop: What Hiring Managers Want with Dr. Danielle Greene",
+    "link": "https://sph.cuny.edu/event/career-workshop-what-hiring-managers-want-with-dr-danielle-greene/",
     "college": "CUNY School of Public Health",
     "date": "2026-11-17",
-    "time": "4:00PM",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -1493,7 +1482,7 @@
   },
   {
     "title": "Bronx Tech Hub: AI Prompt Engineering Fellowship Program",
-    "link": "https://www.lehman.edu/events/2026/Bronx-Tech-Hub-AI-Prompt-Engineering-Fellowship-Program-4.php",
+    "link": "https://www.lehman.edu/events/2026/Bronx-Tech-Hub-AI-Prompt-Engineering-Fellowship-Program.php",
     "college": "Lehman College",
     "date": "2026-08-04",
     "time": "3:00 PM- 8:00 PM",
@@ -1588,6 +1577,14 @@
     "tags": []
   },
   {
+    "title": "Macaulay’s Family & Friends Night!",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/welcome-to-the-macaulay-community-parents-night-2026/",
+    "college": "Macaulay Honors College",
+    "date": "2026-09-23",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
     "title": "Community Service Weekend",
     "link": "https://macaulay.cuny.edu/calendar-of-events/community-service-weekend/",
     "college": "Macaulay Honors College",
@@ -1625,142 +1622,6 @@
     "college": "Macaulay Honors College",
     "date": "2027-05-07",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Annual Social Justice Teaching Corps Summer Camp",
-    "link": "https://www.york.cuny.edu/events/Annual-Social-Justice-Teaching-Corps-Summer-Camp-2026-08-04",
-    "college": "York College",
-    "date": "2026-08-04",
-    "time": "8:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Summer 2026 JFKR AAA Program",
-    "link": "https://www.york.cuny.edu/events/Summer-2026-JFKR-AAA-Program-2026-08-04",
-    "college": "York College",
-    "date": "2026-08-04",
-    "time": "8:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK End of Celebration | Summer Slam - Amphitheater",
-    "link": "https://www.york.cuny.edu/events/SEEK-End-of-Celebration-Summer-Slam-Amphitheater-2026-08-04",
-    "college": "York College",
-    "date": "2026-08-04",
-    "time": "10:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Annual Social Justice Teaching Corps Summer Camp",
-    "link": "https://www.york.cuny.edu/events/Annual-Social-Justice-Teaching-Corps-Summer-Camp-2026-08-05",
-    "college": "York College",
-    "date": "2026-08-05",
-    "time": "8:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Summer 2026 JFKR AAA Program",
-    "link": "https://www.york.cuny.edu/events/Summer-2026-JFKR-AAA-Program-2026-08-05",
-    "college": "York College",
-    "date": "2026-08-05",
-    "time": "8:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Walk It Out Wednesdays",
-    "link": "https://www.york.cuny.edu/events/Walk-It-Out-Wednesdays-2026-08-05",
-    "college": "York College",
-    "date": "2026-08-05",
-    "time": "11:30 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Aug 5",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug5",
-    "college": "York College",
-    "date": "2026-08-05",
-    "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-08-05",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "USIP 2001 EXAMS",
-    "link": "https://www.york.cuny.edu/events/USIP-2001-EXAMS-2026-08-05",
-    "college": "York College",
-    "date": "2026-08-05",
-    "time": "6:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Annual Social Justice Teaching Corps Summer Camp",
-    "link": "https://www.york.cuny.edu/events/Annual-Social-Justice-Teaching-Corps-Summer-Camp-2026-08-06",
-    "college": "York College",
-    "date": "2026-08-06",
-    "time": "8:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Summer 2026 JFKR AAA Program",
-    "link": "https://www.york.cuny.edu/events/Summer-2026-JFKR-AAA-Program-2026-08-06",
-    "college": "York College",
-    "date": "2026-08-06",
-    "time": "8:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Lehman College Now – ExpandED Schools Summer Youth Employment Program",
-    "link": "https://www.york.cuny.edu/events/Lehman-College-Now-ExpandED-Schools-Summer-Youth-Employment-Program-2026-08-06",
-    "college": "York College",
-    "date": "2026-08-06",
-    "time": "10:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "ASAP | ACE Summer Institute",
-    "link": "https://www.york.cuny.edu/events/ASAP-ACE-Summer-Institute-2026-08-06",
-    "college": "York College",
-    "date": "2026-08-06",
-    "time": "10:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "College Now Summer Soiree",
-    "link": "https://www.york.cuny.edu/events/College-Now-Summer-Soiree-2026-08-06",
-    "college": "York College",
-    "date": "2026-08-06",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "USIP 3004 EXAMS",
-    "link": "https://www.york.cuny.edu/events/USIP-3004-EXAMS-2026-08-06",
-    "college": "York College",
-    "date": "2026-08-06",
-    "time": "1:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Physicals For Student Athletes",
-    "link": "https://www.york.cuny.edu/events/Physicals-For-Student-Athletes-2026-08-06",
-    "college": "York College",
-    "date": "2026-08-06",
-    "time": "2:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Summer 2026 JFKR AAA Program",
-    "link": "https://www.york.cuny.edu/events/Summer-2026-JFKR-AAA-Program-2026-08-07",
-    "college": "York College",
-    "date": "2026-08-07",
-    "time": "8:00 AM - 11:30 PM",
     "tags": []
   },
   {
