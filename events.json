@@ -1,5 +1,16 @@
 [
   {
+    "title": "Community Health Fair",
+    "link": "https://www.mec.cuny.edu/event/community-health-fair/",
+    "college": "Medgar Evers College",
+    "date": "2026-09-19",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "Health Services",
+      "Transition Academy"
+    ]
+  },
+  {
     "title": "Mary Umulo Jazzy Jazz Celebration",
     "link": "https://www.mec.cuny.edu/event/mary-umulo-jazzy-jazz-celebration/",
     "college": "Medgar Evers College",
@@ -392,18 +403,6 @@
     "date": "2026-09-23",
     "time": "11:00 AM - 12:00 PM",
     "tags": []
-  },
-  {
-    "title": "Spring 2 2026 Study-a-Thon",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377307",
-    "college": "Guttman Community College",
-    "date": "2026-08-04",
-    "time": "02:00 PM - 10:00 PM",
-    "tags": [
-      "ASC",
-      "Academic",
-      "Tutoring"
-    ]
   },
   {
     "title": "Spring 2 2026 Study-a-Thon",
@@ -998,16 +997,6 @@
     ]
   },
   {
-    "title": "Formulas",
-    "link": "https://events.cuny.edu/cec/formulas-3/",
-    "college": "College of Staten Island",
-    "date": "2026-08-04",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
     "title": "PivotTables",
     "link": "https://events.cuny.edu/cec/pivottables/",
     "college": "College of Staten Island",
@@ -1066,78 +1055,6 @@
   },
   {
     "title": "B&G Usage",
-    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X44",
-    "college": "Queens College",
-    "date": "2026-08-04",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Windows Replacement Project",
-    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ65",
-    "college": "Queens College",
-    "date": "2026-08-04",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "QC Summer Camp",
-    "link": "https://qc.event.cuny.edu/events/VC7K8hE2YgM2vL38BdRf/IY7B8HTmuvAX4Znoey1f27",
-    "college": "Queens College",
-    "date": "2026-08-04",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL165",
-    "college": "Queens College",
-    "date": "2026-08-04",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Placement Exams",
-    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb65",
-    "college": "Queens College",
-    "date": "2026-08-04",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Summer SEEK Program",
-    "link": "https://qc.event.cuny.edu/events/mLEG95eZItb1I2TfFdHZ/OFgfKQEN9Ca1G57MYQPd27",
-    "college": "Queens College",
-    "date": "2026-08-04",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "College Now: 2026 Summer Institute for Acting & Video Production",
-    "link": "https://qc.event.cuny.edu/events/PwLokiN38FKZVbVHOxmx/bO3AVDa1MyWT5lgH9Xyd",
-    "college": "Queens College",
-    "date": "2026-08-04",
-    "time": "10:30AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers tours",
-    "link": "https://qc.event.cuny.edu/events/RFPCR1mFVzwSPekYcGfw/ONBBcq3ouSUnIBORR2Wn17",
-    "college": "Queens College",
-    "date": "2026-08-04",
-    "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "Hip to Hip Theatre - Free Outdoor Shakespeare",
-    "link": "https://qc.event.cuny.edu/events/Rxxs3eobDD7FvKEgiDk1/XMhc9AP6wYots0oxIIkR",
-    "college": "Queens College",
-    "date": "2026-08-04",
-    "time": "4:00PM",
-    "tags": []
-  },
-  {
-    "title": "B&G Usage",
     "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X45",
     "college": "Queens College",
     "date": "2026-08-05",
@@ -1170,7 +1087,7 @@
   },
   {
     "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA166",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL166",
     "college": "Queens College",
     "date": "2026-08-05",
     "time": "8:00AM",
@@ -1201,35 +1118,83 @@
     "tags": []
   },
   {
-    "title": "Critical Migration and Deportation Studies Conference",
-    "link": "https://baruch.event.cuny.edu/events/hVTbQVKF1BVjPXOg8Mju/YcWeGkKP2HTcMhgLWTDU",
-    "college": "Baruch College",
+    "title": "CUNY Explorers tours",
+    "link": "https://qc.event.cuny.edu/events/RFPCR1mFVzwSPekYcGfw/ONBBcq3ouSUnIBORR2Wn18",
+    "college": "Queens College",
+    "date": "2026-08-05",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "B&G Usage",
+    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X46",
+    "college": "Queens College",
+    "date": "2026-08-06",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Windows Replacement Project",
+    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ67",
+    "college": "Queens College",
+    "date": "2026-08-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "QC Summer Camp",
+    "link": "https://qc.event.cuny.edu/events/VC7K8hE2YgM2vL38BdRf/IY7B8HTmuvAX4Znoey1f29",
+    "college": "Queens College",
+    "date": "2026-08-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL167",
+    "college": "Queens College",
+    "date": "2026-08-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Placement Exams",
+    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb67",
+    "college": "Queens College",
+    "date": "2026-08-06",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Summer SEEK Program",
+    "link": "https://qc.event.cuny.edu/events/mLEG95eZItb1I2TfFdHZ/OFgfKQEN9Ca1G57MYQPd29",
+    "college": "Queens College",
     "date": "2026-08-06",
     "time": "9:00AM",
     "tags": []
   },
   {
-    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq47",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-04",
-    "time": "9:00AM",
+    "title": "College Now: 2026 Summer Institute for Acting & Video Production",
+    "link": "https://qc.event.cuny.edu/events/PwLokiN38FKZVbVHOxmx/zKTiejsf3uv3SNXhJt2F",
+    "college": "Queens College",
+    "date": "2026-08-06",
+    "time": "10:30AM",
     "tags": []
   },
   {
-    "title": "Tech Talent Pipeline Residency Workspace",
-    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW47",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-04",
-    "time": "9:00AM",
+    "title": "CUNY Explorers tours",
+    "link": "https://qc.event.cuny.edu/events/RFPCR1mFVzwSPekYcGfw/ONBBcq3ouSUnIBORR2Wn19",
+    "college": "Queens College",
+    "date": "2026-08-06",
+    "time": "11:30AM",
     "tags": []
   },
   {
-    "title": "Brooklyn Community HS for Excellence & Equity Group Tour",
-    "link": "https://citytech.event.cuny.edu/events/xNCn5n47Fbxzt6lWdLq1/c8MsZs4kFPNbyA9rKIQj",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-04",
-    "time": "11:00AM",
+    "title": "Critical Migration and Deportation Studies Conference",
+    "link": "https://baruch.event.cuny.edu/events/hVTbQVKF1BVjPXOg8Mju/YcWeGkKP2HTcMhgLWTDU",
+    "college": "Baruch College",
+    "date": "2026-08-06",
+    "time": "9:00AM",
     "tags": []
   },
   {
@@ -1345,11 +1310,27 @@
     "tags": []
   },
   {
-    "title": "Empower Her HIV Testing and Education",
-    "link": "https://hostos.event.cuny.edu/events/oj8ngqe8JDsukd2wkym9/8sFWafSLBdEO7Mws8ePL3",
-    "college": "Hostos Community College",
-    "date": "2026-08-04",
+    "title": "Tech Talent Pipeline Residency Workspace",
+    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW52",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-08-11",
     "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2026 Orientation Walkthrough - Rehearsal",
+    "link": "https://citytech.event.cuny.edu/events/MccVh1za8RvwcNRJ4vJe/mRbUSWSo3tSdj35jmMrE",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-08-11",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "SLD Orientation Check-in",
+    "link": "https://citytech.event.cuny.edu/events/ZZVVvt77PA2xzojQxVUI/TsfdCNdQYgFrouPEBbMb",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-08-11",
+    "time": "3:00PM",
     "tags": []
   },
   {
@@ -1482,14 +1463,6 @@
   },
   {
     "title": "Bronx Tech Hub: AI Prompt Engineering Fellowship Program",
-    "link": "https://www.lehman.edu/events/2026/Bronx-Tech-Hub-AI-Prompt-Engineering-Fellowship-Program.php",
-    "college": "Lehman College",
-    "date": "2026-08-04",
-    "time": "3:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Bronx Tech Hub: AI Prompt Engineering Fellowship Program",
     "link": "https://www.lehman.edu/events/2026/Bronx-Tech-Hub-AI-Prompt-Engineering-Fellowship-Program-5.php",
     "college": "Lehman College",
     "date": "2026-08-11",
@@ -1558,6 +1531,14 @@
     "college": "Lehman College",
     "date": "2026-09-15",
     "time": "5:30 PM- 6:30 PM",
+    "tags": []
+  },
+  {
+    "title": "BA-Social Work Information Sessions",
+    "link": "https://www.lehman.edu/events/2026/BA-Social-Work-Information-Sessions-1.php",
+    "college": "Lehman College",
+    "date": "2026-09-16",
+    "time": "6:00 PM- 7:15 PM",
     "tags": []
   },
   {
