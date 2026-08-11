@@ -673,20 +673,6 @@
     ]
   },
   {
-    "title": "Paint y Platicar",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377338",
-    "college": "Guttman Community College",
-    "date": "2026-09-24",
-    "time": "05:15 PM - 06:30 PM",
-    "tags": [
-      "OSL",
-      "Cultural/Heritage",
-      "Weeks Of Welcome",
-      "Hispanic/LatinX Heritage Month",
-      "Trip - Day"
-    ]
-  },
-  {
     "title": "Conexiones",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377319",
     "college": "Guttman Community College",
@@ -982,6 +968,18 @@
     ]
   },
   {
+    "title": "BMCC Study Abroad Fair",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-study-abroad-fair-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-09",
+    "time": "02:00 PM - 04:30 PM",
+    "tags": [
+      "CIEE",
+      "Featured",
+      "Study Abroad"
+    ]
+  },
+  {
     "title": "Spilling The Tea: Meet the Counseling Center",
     "link": "https://www.bmcc.cuny.edu/event/spilling-the-tea-meet-the-counseling-center-2/",
     "college": "Borough of Manhattan Community College",
@@ -1032,6 +1030,14 @@
     "tags": []
   },
   {
+    "title": "Diversity & Inclusion",
+    "link": "https://www.bcc.cuny.edu/event/diversity-inclusion/2026-09-10/",
+    "college": "Bronx Community College",
+    "date": "2026-09-10",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
     "title": "Space, Facilities & Physical Plant",
     "link": "https://www.bcc.cuny.edu/event/space-facilities-physical-plant/2026-09-14/",
     "college": "Bronx Community College",
@@ -1057,6 +1063,14 @@
     "college": "Bronx Community College",
     "date": "2026-09-14",
     "time": "02:15 PM - 03:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Budget & Financial Planning",
+    "link": "https://www.bcc.cuny.edu/event/budget-financial-planning/2026-09-15/",
+    "college": "Bronx Community College",
+    "date": "2026-09-15",
+    "time": "12:00 PM - 02:00 PM",
     "tags": []
   },
   {
@@ -1484,6 +1498,14 @@
     "tags": []
   },
   {
+    "title": "Grand Rounds: Strategies for Reducing Disparities in Managed Care",
+    "link": "https://sph.cuny.edu/event/grand-rounds-strategies-for-reducing-disparities-in-managed-care/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-10-07",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
     "title": "MPH in Epidemiology and Biostatistics Virtual Information Session",
     "link": "https://sph.cuny.edu/event/mph-in-epidemiology-and-biostatistics-virtual-information-session/",
     "college": "CUNY School of Public Health",
@@ -1564,14 +1586,6 @@
     "tags": []
   },
   {
-    "title": "Bronx Tech Hub: AI Prompt Engineering Fellowship Program",
-    "link": "https://www.lehman.edu/events/2026/Bronx-Tech-Hub-AI-Prompt-Engineering-Fellowship-Program-5.php",
-    "college": "Lehman College",
-    "date": "2026-08-11",
-    "time": "3:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
     "title": "Bronx Film Week Day 2 | Women of The Bronx | Film Screening",
     "link": "https://www.lehman.edu/events/2026/Bronx-Film-Week-Day-2--Women-of-The-Bronx--Film-Screening.php",
     "college": "Lehman College",
@@ -1641,6 +1655,14 @@
     "college": "Lehman College",
     "date": "2026-09-04",
     "time": "8:00 PM- 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session--2.php",
+    "college": "Lehman College",
+    "date": "2026-09-08",
+    "time": "6:00 PM- 8:00 PM",
     "tags": []
   },
   {
