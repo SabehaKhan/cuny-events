@@ -39,86 +39,6 @@
     "tags": []
   },
   {
-    "title": "Lunch",
-    "link": "https://www.law.cuny.edu/event/lunch/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-17",
-    "time": "01:15 PM - 02:15 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Class Photo",
-    "link": "https://www.law.cuny.edu/event/class-photo-3/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-17",
-    "time": "02:15 PM - 03:00 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Break",
-    "link": "https://www.law.cuny.edu/event/break-15/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-17",
-    "time": "03:00 PM - 03:15 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Public Safety Tour – Evening",
-    "link": "https://www.law.cuny.edu/event/public-safety-tour-evening-2/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-17",
-    "time": "03:00 PM - 03:15 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Concurrent Session - Day Panel",
-    "link": "https://www.law.cuny.edu/event/concurrent-session-day-panel/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-17",
-    "time": "03:15 PM - 04:30 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Concurrent Session - Evening Panel",
-    "link": "https://www.law.cuny.edu/event/concurrent-session-evening-panel/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-17",
-    "time": "03:15 PM - 04:30 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Concurrent Session - Together for Justice: Alumni Voices on Community, Advocacy, and Public Service",
-    "link": "https://www.law.cuny.edu/event/concurrent-session-together-for-justice-alumni-voices-on-community-advocacy-and-public-service/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-17",
-    "time": "04:30 PM - 05:30 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Concurrent Session - Building the Circle: Supporting Your 1L Student",
-    "link": "https://www.law.cuny.edu/event/concurrent-session-building-the-circle-supporting-your-1l-student/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-17",
-    "time": "04:30 PM - 05:30 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
     "title": "Community Night",
     "link": "https://www.law.cuny.edu/event/community-night-2/",
     "college": "CUNY School of Law",
@@ -339,6 +259,86 @@
     ]
   },
   {
+    "title": "Liberty, Equality, and Due Process (LEDP) | Day",
+    "link": "https://www.law.cuny.edu/event/ledp/",
+    "college": "CUNY School of Law",
+    "date": "2026-08-19",
+    "time": "11:45 AM - 01:15 PM",
+    "tags": [
+      "Orientation 2026"
+    ]
+  },
+  {
+    "title": "Lunch",
+    "link": "https://www.law.cuny.edu/event/lunch-3/",
+    "college": "CUNY School of Law",
+    "date": "2026-08-19",
+    "time": "01:15 PM - 02:15 PM",
+    "tags": [
+      "Orientation 2026"
+    ]
+  },
+  {
+    "title": "Public Safety Presentation",
+    "link": "https://www.law.cuny.edu/event/public-safety-presentation/",
+    "college": "CUNY School of Law",
+    "date": "2026-08-19",
+    "time": "02:15 PM - 03:00 PM",
+    "tags": [
+      "Orientation 2026"
+    ]
+  },
+  {
+    "title": "Dinner – Evening",
+    "link": "https://www.law.cuny.edu/event/dinner-evening/",
+    "college": "CUNY School of Law",
+    "date": "2026-08-19",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "Orientation 2026"
+    ]
+  },
+  {
+    "title": "Academic Skills | Evening",
+    "link": "https://www.law.cuny.edu/event/skills-evening/",
+    "college": "CUNY School of Law",
+    "date": "2026-08-19",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Orientation 2026"
+    ]
+  },
+  {
+    "title": "Liberty, Equality, and Due Process (LEDP) | Evening",
+    "link": "https://www.law.cuny.edu/event/ledp-evening/",
+    "college": "CUNY School of Law",
+    "date": "2026-08-19",
+    "time": "07:00 PM - 08:30 PM",
+    "tags": [
+      "Orientation 2026"
+    ]
+  },
+  {
+    "title": "Academic Skills | Evening",
+    "link": "https://www.law.cuny.edu/event/skills-evening-2/",
+    "college": "CUNY School of Law",
+    "date": "2026-08-19",
+    "time": "08:30 PM - 09:00 PM",
+    "tags": [
+      "Orientation 2026"
+    ]
+  },
+  {
+    "title": "Student IDs",
+    "link": "https://www.law.cuny.edu/event/student-ids-9/",
+    "college": "CUNY School of Law",
+    "date": "2026-08-20",
+    "time": "08:00 AM - 10:00 AM",
+    "tags": [
+      "Orientation 2026"
+    ]
+  },
+  {
     "title": "Building a Safety Mindset Into Your Newsroom: A Practical Planning Session",
     "link": "https://www.journalism.cuny.edu/events/building-a-safety-mindset-into-your-newsroom-a-practical-planning-session/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -489,17 +489,6 @@
     "date": "2026-11-19",
     "time": "04:00 PM - 08:00 PM",
     "tags": []
-  },
-  {
-    "title": "Baruch Business Academy Virtual Information Session",
-    "link": "https://www.laguardia.edu/event/baruch-business-academy-virtual-information-session-18/",
-    "college": "LaGuardia Community College",
-    "date": "2026-08-17",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
   },
   {
     "title": "Baruch Business Academy Virtual Information Session",
@@ -808,6 +797,14 @@
     ]
   },
   {
+    "title": "AES/PUR Year 1 (P1) Introductions",
+    "link": "https://www.laguardia.edu/event/aes-pur-year-1-p1-introductions/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-23",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": []
+  },
+  {
     "title": "Mayor's Office for People with Disabilities Civil Service 101 Information Session",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377329",
     "college": "Guttman Community College",
@@ -1016,6 +1013,16 @@
     ]
   },
   {
+    "title": "Campus Navigation - Exploring Hunter's Website",
+    "link": "https://www.hunter.cuny.edu/event/campus-navigation-exploring-hunters-website/",
+    "college": "Hunter College",
+    "date": "2026-09-15",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Graduation Readiness Workshop for Human Biology Majors",
     "link": "https://www.hunter.cuny.edu/event/graduation-readiness-workshop-for-human-biology-majors/",
     "college": "Hunter College",
@@ -1133,28 +1140,6 @@
     "tags": []
   },
   {
-    "title": "Free Workshop: Intro to Computer Basics 1.0 (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/free-workshop-intro-to-computer-basics-1-0-students-only-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-08-17",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-11-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-08-17",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Admissions",
-      "Evening-Weekend",
-      "Featured"
-    ]
-  },
-  {
     "title": "Free Workshop: Microsoft Word (Students Only)",
     "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-word-students-only-3/",
     "college": "Borough of Manhattan Community College",
@@ -1172,6 +1157,18 @@
     "time": "02:00 PM - 03:00 PM",
     "tags": [
       "Admissions",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-11-3-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-24",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Admissions",
+      "Evening-Weekend",
       "Featured"
     ]
   },
@@ -1312,6 +1309,22 @@
     "tags": []
   },
   {
+    "title": "Free Workshop: Intro to Computer Basics 1.0 (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=678358",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-17",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Admissions Information Session (online)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=679502",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-17",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": []
+  },
+  {
     "title": "Enhanced Features + Reporting",
     "link": "https://events.cuny.edu/cec/enhanced-features-reporting/",
     "college": "College of Staten Island",
@@ -1350,14 +1363,6 @@
     "tags": []
   },
   {
-    "title": "Admissions Information Session (online)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=680050",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-08-24",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": []
-  },
-  {
     "title": "B&G Usage",
     "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X57",
     "college": "Queens College",
@@ -1383,7 +1388,7 @@
   },
   {
     "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA178",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL178",
     "college": "Queens College",
     "date": "2026-08-17",
     "time": "8:00AM",
@@ -1670,6 +1675,14 @@
     "tags": []
   },
   {
+    "title": "Internship Discovery Series: HRTP & Epi Scholars",
+    "link": "https://sph.cuny.edu/event/internship-discovery-series-hrtp-epi-scholars/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-10-08",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
     "title": "MPH in Epidemiology and Biostatistics Virtual Information Session",
     "link": "https://sph.cuny.edu/event/mph-in-epidemiology-and-biostatistics-virtual-information-session/",
     "college": "CUNY School of Public Health",
@@ -1806,6 +1819,22 @@
     "tags": []
   },
   {
+    "title": "Music Has Power® for Aphasia",
+    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia-1.php",
+    "college": "Lehman College",
+    "date": "2026-08-27",
+    "time": "10:30 AM- 11:30 AM",
+    "tags": []
+  },
+  {
+    "title": "Music for Veterans",
+    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans-1.php",
+    "college": "Lehman College",
+    "date": "2026-08-27",
+    "time": "1:30 PM- 3:00 PM",
+    "tags": []
+  },
+  {
     "title": "Dance Theatre of Harlem",
     "link": "https://www.lehman.edu/events/2026/Dance-Theatre-of-Harlem.php",
     "college": "Lehman College",
@@ -1814,27 +1843,11 @@
     "tags": []
   },
   {
-    "title": "Princess Nokia",
-    "link": "https://www.lehman.edu/events/2026/Princess-Nokia.php",
+    "title": "Music Has Power® for Aphasia",
+    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia-1.php?event_type=recurs_1",
     "college": "Lehman College",
-    "date": "2026-09-04",
-    "time": "8:00 PM- 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
-    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session--2.php",
-    "college": "Lehman College",
-    "date": "2026-09-08",
-    "time": "6:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
-    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session--2.php",
-    "college": "Lehman College",
-    "date": "2026-09-08",
-    "time": "6:00 PM- 8:00 PM",
+    "date": "2026-09-03",
+    "time": "10:30 AM- 11:30 AM",
     "tags": []
   },
   {
@@ -1916,117 +1929,5 @@
     "date": "2027-03-19",
     "time": "6:00PM",
     "tags": []
-  },
-  {
-    "title": "APPLYING FOR A PH.D.: THE STATEMENT OF PURPOSE",
-    "link": "https://www.gc.cuny.edu/events/applying-phd-statement-purpose",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-19",
-    "time": "4:00 pm — 5:00 pm",
-    "location": "Online",
-    "tags": [
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "ART/WORK: THE PRACTICE AND POLITICS OF CETA AND THE ARTS, 1974-1981",
-    "link": "https://www.gc.cuny.edu/events/artwork-practice-and-politics-ceta-and-arts-1974-1981",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-20",
-    "time": "",
-    "location": "1200: James Art Gallery",
-    "tags": [
-      "James Gallery"
-    ]
-  },
-  {
-    "title": "RECITAL: ELZBIETA BILICKA, PIANO",
-    "link": "https://www.gc.cuny.edu/events/recital-elzbieta-bilicka-piano-august-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-21",
-    "time": "7:30 pm — 9:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Music"
-    ]
-  },
-  {
-    "title": "TEACHING & LEARNING CENTER'S LATE SUMMER INSTITUTE",
-    "link": "https://www.gc.cuny.edu/events/teaching-learning-centers-late-summer-institute-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-24",
-    "time": "",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Teaching & Learning Center"
-    ]
-  },
-  {
-    "title": "DRUPAL ACCESSIBILITY TRAINING",
-    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-aug-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-26",
-    "time": "11:00 am — 12:00 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "CONCERT: REIMAGINING CLASSICAL",
-    "link": "https://www.gc.cuny.edu/events/concert-reimagining-classical",
-    "college": "CUNY Graduate Center",
-    "date": "2026-08-26",
-    "time": "7:30 pm — 9:30 pm",
-    "location": "1201: Elebash Recital Hall",
-    "tags": [
-      "Music"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - BASICS",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-sept-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-09-09",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - ADVANCED",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-advanced-sept-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-09-09",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "HISTORY ABOARD THE INTREPID: A GRADUATE CENTER ALUMNI TOUR",
-    "link": "https://www.gc.cuny.edu/events/history-aboard-intrepid-graduate-center-alumni-tour",
-    "college": "CUNY Graduate Center",
-    "date": "2026-09-15",
-    "time": "3:15 pm — 4:45 pm",
-    "location": "Non-GC Location (see description for details)",
-    "tags": [
-      "Institutional Advancement",
-      "Alumni Relations",
-      "Alumni"
-    ]
-  },
-  {
-    "title": "\"ASIAN AMERICANS IN BILINGUALISM AND BILINGUAL EDUCATION: THE LONG OVERDUE VOICE\"",
-    "link": "https://www.gc.cuny.edu/events/asian-americans-bilingualism-and-bilingual-education-long-overdue-voice",
-    "college": "CUNY Graduate Center",
-    "date": "2026-09-16",
-    "time": "6:30 pm — 8:30 pm",
-    "location": "4202: French and Urban Education Lounge",
-    "tags": [
-      "Urban Education"
-    ]
   }
 ]
