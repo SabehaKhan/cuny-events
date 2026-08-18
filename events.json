@@ -39,56 +39,6 @@
     "tags": []
   },
   {
-    "title": "Lunch",
-    "link": "https://www.law.cuny.edu/event/lunch-2/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-18",
-    "time": "01:15 PM - 02:15 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Student Groups Panel",
-    "link": "https://www.law.cuny.edu/event/student-groups-panel/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-18",
-    "time": "02:15 PM - 03:00 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Break",
-    "link": "https://www.law.cuny.edu/event/break-19/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-18",
-    "time": "03:00 PM - 03:15 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Public Safety Tour – Evening",
-    "link": "https://www.law.cuny.edu/event/public-safety-tour-evening-4/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-18",
-    "time": "03:00 PM - 03:15 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Building a Foundation for Wellness in Law School",
-    "link": "https://www.law.cuny.edu/event/building-a-foundation-for-wellness-in-law-school/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-18",
-    "time": "03:15 PM - 04:15 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
     "title": "Student IDs",
     "link": "https://www.law.cuny.edu/event/student-ids-8/",
     "college": "CUNY School of Law",
@@ -333,6 +283,39 @@
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-sep26/",
     "college": "CUNY School of Law",
     "date": "2026-09-02",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Alumni",
+      "Networking Event"
+    ]
+  },
+  {
+    "title": "CUNY Law Alumni Connection Series",
+    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-oct26/",
+    "college": "CUNY School of Law",
+    "date": "2026-10-07",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Alumni",
+      "Networking Event"
+    ]
+  },
+  {
+    "title": "CUNY Law Alumni Connection Series",
+    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-nov26/",
+    "college": "CUNY School of Law",
+    "date": "2026-11-04",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Alumni",
+      "Networking Event"
+    ]
+  },
+  {
+    "title": "CUNY Law Alumni Connection Series",
+    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-dec26/",
+    "college": "CUNY School of Law",
+    "date": "2026-12-02",
     "time": "01:00 PM - 02:00 PM",
     "tags": [
       "Alumni",
@@ -1559,7 +1542,7 @@
   },
   {
     "title": "Fall 2026 New Student Orientation",
-    "link": "https://citytech.event.cuny.edu/events/hBNS76KPcSFXcl2ENEMW/eycI2isLgccSN1JXpnuA4",
+    "link": "https://citytech.event.cuny.edu/events/hBNS76KPcSFXcl2ENEMW/RByiWI0oeEEwgY7RzxA24",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-08-20",
     "time": "8:00AM",
@@ -1891,142 +1874,6 @@
     "college": "Macaulay Honors College",
     "date": "2027-03-19",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Untitled Event",
-    "link": "https://www.york.cuny.edu/events/Untitled-Event-2026-08-18",
-    "college": "York College",
-    "date": "2026-08-18",
-    "time": "8:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "ASAP | ACE Summer Institute Breakout Rooms",
-    "link": "https://www.york.cuny.edu/events/ASAP-ACE-Summer-Institute-Breakout-Rooms-2026-08-18",
-    "college": "York College",
-    "date": "2026-08-18",
-    "time": "10:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "ASAP | ACE Summer Institute",
-    "link": "https://www.york.cuny.edu/events/ASAP-ACE-Summer-Institute-2026-08-18",
-    "college": "York College",
-    "date": "2026-08-18",
-    "time": "10:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Walk It Out Wednesdays",
-    "link": "https://www.york.cuny.edu/events/Walk-It-Out-Wednesdays-2026-08-19",
-    "college": "York College",
-    "date": "2026-08-19",
-    "time": "11:30 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-08-19",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "STEP Summer Research Presentation",
-    "link": "https://www.york.cuny.edu/events/STEP-Summer-Research-Presentation-2026-08-20",
-    "college": "York College",
-    "date": "2026-08-20",
-    "time": "8:30 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Ice Cream Social | Breezeway",
-    "link": "https://www.york.cuny.edu/events/Ice-Cream-Social-Breezeway-2026-08-20",
-    "college": "York College",
-    "date": "2026-08-20",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Sri Chinmoy",
-    "link": "https://www.york.cuny.edu/events/Sri-Chinmoy-2026-08-22",
-    "college": "York College",
-    "date": "2026-08-22",
-    "time": "8:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Aug 22",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/v-ready-aug-22",
-    "college": "York College",
-    "date": "2026-08-22",
-    "time": "2:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Aug 24",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug24",
-    "college": "York College",
-    "date": "2026-08-24",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Aug 25",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug25",
-    "college": "York College",
-    "date": "2026-08-25",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Department of Nursing Retreat",
-    "link": "https://www.york.cuny.edu/events/Department-of-Nursing-Retreat-2026-08-26",
-    "college": "York College",
-    "date": "2026-08-26",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Department of Social Work Fall 2026 Orientation",
-    "link": "https://www.york.cuny.edu/events/Department-of-Social-Work-Fall-2026-Orientation-2026-08-26",
-    "college": "York College",
-    "date": "2026-08-26",
-    "time": "9:30 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Walk It Out Wednesdays",
-    "link": "https://www.york.cuny.edu/events/Walk-It-Out-Wednesdays-2026-08-26",
-    "college": "York College",
-    "date": "2026-08-26",
-    "time": "11:30 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "BSW Program Follow Up Session",
-    "link": "https://www.york.cuny.edu/events/BSW-Program-Follow-Up-Session-2026-08-26",
-    "college": "York College",
-    "date": "2026-08-26",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Aug 26",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug26",
-    "college": "York College",
-    "date": "2026-08-26",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "STEP Poster Presentation Event",
-    "link": "https://www.york.cuny.edu/events/STEP-Poster-Presentation-Event-2026-08-27",
-    "college": "York College",
-    "date": "2026-08-27",
-    "time": "8:00 AM - 11:30 PM",
     "tags": []
   }
 ]
