@@ -39,26 +39,6 @@
     "tags": []
   },
   {
-    "title": "Lunch",
-    "link": "https://www.law.cuny.edu/event/lunch-3/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-19",
-    "time": "01:15 PM - 02:15 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Public Safety Presentation",
-    "link": "https://www.law.cuny.edu/event/public-safety-presentation/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-19",
-    "time": "02:15 PM - 03:00 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
     "title": "Dinner – Evening",
     "link": "https://www.law.cuny.edu/event/dinner-evening/",
     "college": "CUNY School of Law",
@@ -471,19 +451,6 @@
     "tags": []
   },
   {
-    "title": "MMR Clinic",
-    "link": "https://www.laguardia.edu/event/mmr-clinic/2026-08-19/",
-    "college": "LaGuardia Community College",
-    "date": "2026-08-19",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-08-21/",
     "college": "LaGuardia Community College",
@@ -786,6 +753,18 @@
     "tags": []
   },
   {
+    "title": "Student Resources Fair",
+    "link": "https://www.laguardia.edu/event/student-resources-fair/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-23",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "Work, Business, and a More Sustainable Future (HYBRID)",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377334",
     "college": "Guttman Community College",
@@ -1053,6 +1032,16 @@
     ]
   },
   {
+    "title": "Distinguished Writers Series - Karan Mahajan",
+    "link": "https://www.hunter.cuny.edu/event/distinguished-writers-series-karan-mahajan/",
+    "college": "Hunter College",
+    "date": "2026-09-22",
+    "time": "07:30 PM - 07:30 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
     "title": "Graduate Admissions Information Session",
     "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-44/",
     "college": "Hunter College",
@@ -1131,6 +1120,16 @@
     ]
   },
   {
+    "title": "Humanities Action Lab: Exhibit of Stories for Environmental Justice",
+    "link": "https://www.hunter.cuny.edu/event/humanities-action-lab-exhibit-of-stories-for-environmental-justice/",
+    "college": "Hunter College",
+    "date": "2026-10-07",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Exhibits"
+    ]
+  },
+  {
     "title": "Bachelor of Science in Nursing Generic Program Information Session",
     "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-15/",
     "college": "Hunter College",
@@ -1161,31 +1160,22 @@
     ]
   },
   {
+    "title": "Discussion: Bronx Attitude",
+    "link": "https://www.hunter.cuny.edu/event/discussion-bronx-attitude/",
+    "college": "Hunter College",
+    "date": "2026-10-19",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Lectures",
+      "Special Events"
+    ]
+  },
+  {
     "title": "MS-IPND Graduate Nutrition Program Information Sessions",
     "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7-2/2026-10-20/",
     "college": "Hunter College",
     "date": "2026-10-20",
     "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Accelerated-Second Degree (BS) Nursing Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/accelerated-second-degree-bs-nursing-program-information-session-15/",
-    "college": "Hunter College",
-    "date": "2026-11-05",
-    "time": "06:00 PM - 07:30 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "RN-to-BS Nursing Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-14/",
-    "college": "Hunter College",
-    "date": "2026-11-17",
-    "time": "01:00 PM - 02:30 PM",
     "tags": [
       "Open Houses"
     ]
@@ -1898,11 +1888,43 @@
     "tags": []
   },
   {
+    "title": "Online Summer Information Session for Prospective Students",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/online-summer-information-session-for-prospective-students/",
+    "college": "Macaulay Honors College",
+    "date": "2026-08-25",
+    "time": "11:00 AM - 12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Online Summer Information Session for Prospective Students",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/online-summer-information-session-for-prospective-students-2/",
+    "college": "Macaulay Honors College",
+    "date": "2026-08-26",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Online Summer Information Session for Prospective Students",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/online-summer-information-session-for-prospective-students-3/",
+    "college": "Macaulay Honors College",
+    "date": "2026-08-27",
+    "time": "11:00 AM - 12:00PM",
+    "tags": []
+  },
+  {
     "title": "Macaulay BioBlitz at Willowbrook Park on Staten Island",
     "link": "https://macaulay.cuny.edu/calendar-of-events/bioblitz/",
     "college": "Macaulay Honors College",
     "date": "2026-08-29",
     "time": "11:00 AM - 2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Online Summer Information Session for Prospective Students",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/online-summer-information-session-for-prospective-students-4/",
+    "college": "Macaulay Honors College",
+    "date": "2026-08-31",
+    "time": "2:00PM",
     "tags": []
   },
   {
@@ -1917,8 +1939,16 @@
     "title": "Prepare for the Fair: Resume Rush",
     "link": "https://macaulay.cuny.edu/calendar-of-events/prepare-for-the-fair-resume-rush/",
     "college": "Macaulay Honors College",
-    "date": "2026-09-08",
+    "date": "2026-09-15",
     "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "Pre-Career Fair Workshop & Info Session ft. Morgan Stanley",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/pre-career-fair-workshop-info-session-ft-morgan-stanley/",
+    "college": "Macaulay Honors College",
+    "date": "2026-09-18",
+    "time": "10:00AM",
     "tags": []
   },
   {
@@ -1927,46 +1957,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-09-18",
     "time": "10:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
-    "title": "Macaulay’s Family & Friends Night!",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/welcome-to-the-macaulay-community-parents-night-2026/",
-    "college": "Macaulay Honors College",
-    "date": "2026-09-23",
-    "time": "5:00PM",
-    "tags": []
-  },
-  {
-    "title": "Progress, Not Perfection: How to Pivot Without Losing Yourself",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/progress-not-perfection-how-to-pivot-without-losing-yourself/",
-    "college": "Macaulay Honors College",
-    "date": "2026-10-06",
-    "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Community Service Weekend",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/community-service-weekend/",
-    "college": "Macaulay Honors College",
-    "date": "2026-11-21",
-    "time": "10:00 AM - 5:00PM",
-    "tags": []
-  },
-  {
-    "title": "Supporting Excellence: an Equity, Inclusion, and Belonging Conference",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/supporting-excellence-conference/",
-    "college": "Macaulay Honors College",
-    "date": "2027-02-25",
-    "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Arts Night",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/arts-night/",
-    "college": "Macaulay Honors College",
-    "date": "2027-03-19",
-    "time": "6:00PM",
     "tags": []
   }
 ]
