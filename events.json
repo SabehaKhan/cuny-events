@@ -39,36 +39,6 @@
     "tags": []
   },
   {
-    "title": "Dinner – Evening",
-    "link": "https://www.law.cuny.edu/event/dinner-evening-2/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-20",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Liberty, Equality, and Due Process (LEDP) | Evening",
-    "link": "https://www.law.cuny.edu/event/ledp-evening-2/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-20",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
-    "title": "Academic Skills | Evening",
-    "link": "https://www.law.cuny.edu/event/skills-evening-3/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-20",
-    "time": "08:00 PM - 09:00 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
     "title": "Court Orientation (Mandatory for Day students, Optional for Evening students)",
     "link": "https://www.law.cuny.edu/event/court-orientation-mandatory-for-day-students-optional-for-evening-students/",
     "college": "CUNY School of Law",
@@ -646,15 +616,17 @@
     ]
   },
   {
-    "title": "Civil Service Pathways Fellowship Information Session",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377331",
+    "title": "Hispanic Heritage Month Kickoff",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377320",
     "college": "Guttman Community College",
-    "date": "2026-08-20",
-    "time": "03:00 PM - 04:00 PM",
+    "date": "2026-09-17",
+    "time": "05:15 PM - 06:45 PM",
     "tags": [
-      "CCPP",
-      "Educational/Awareness",
-      "Information Session"
+      "OSL",
+      "Cultural/Heritage",
+      "Hispanic/LatinX Heritage Month",
+      "Student Life",
+      "Weeks Of Welcome"
     ]
   },
   {
@@ -763,14 +735,6 @@
       "United Men of Color",
       "Off-Campus"
     ]
-  },
-  {
-    "title": "Graduate Admissions Information Session",
-    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-42/",
-    "college": "Hunter College",
-    "date": "2026-08-20",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": []
   },
   {
     "title": "Graduate Admissions Information Session",
@@ -1040,6 +1004,16 @@
     ]
   },
   {
+    "title": "Conversation With Playwright David Henry Hwang",
+    "link": "https://www.hunter.cuny.edu/event/conversation-with-playwright-david-henry-hwang/",
+    "college": "Hunter College",
+    "date": "2026-10-20",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
     "title": "Admissions Information Session (online)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-11-3-2/",
     "college": "Borough of Manhattan Community College",
@@ -1074,6 +1048,20 @@
     ]
   },
   {
+    "title": "CUNY BMCC Career Day 1: Arts, Education, Non-Profits, and Media",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-bmcc-career-day-1-arts-education-non-profits-and-media/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-09",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured"
+    ]
+  },
+  {
     "title": "Stop by the BMCC Study Abroad Fair",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-study-abroad-fair-2/",
     "college": "Borough of Manhattan Community College",
@@ -1102,6 +1090,20 @@
       "Speech",
       "Communications and Theatre Arts",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "Paramedic Program Open House",
+    "link": "https://www.bmcc.cuny.edu/event/paramedic-program-open-house/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-14",
+    "time": "06:00 PM - 07:30 PM",
+    "tags": [
+      "Allied Health Sciences",
+      "Center for Career Development",
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured"
     ]
   },
   {
@@ -1263,14 +1265,6 @@
     "tags": []
   },
   {
-    "title": "Graduate Admissions General Information Session",
-    "link": "https://events.cuny.edu/cec/graduate-admissions-general-information-session-3/",
-    "college": "Queens College",
-    "date": "2026-08-20",
-    "time": "12:00 PM - 1:00 PM",
-    "tags": []
-  },
-  {
     "title": "Student Technology Overview Workshop",
     "link": "https://events.cuny.edu/cec/student-technology-overview-workshop-14/",
     "college": "College of Staten Island",
@@ -1324,86 +1318,6 @@
   },
   {
     "title": "B&G Usage",
-    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X60",
-    "college": "Queens College",
-    "date": "2026-08-20",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Windows Replacement Project",
-    "link": "https://qc.event.cuny.edu/events/HqGhANfFXxmrhzfdtRCS/ChdNOE0HEodD0GSLcwUJ81",
-    "college": "Queens College",
-    "date": "2026-08-20",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "QC SURP Orientation",
-    "link": "https://qc.event.cuny.edu/events/MbRJQuSWPdocHJReiR2O/HDC2r7aC78o1H2FRcm2P",
-    "college": "Queens College",
-    "date": "2026-08-20",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "QC Summer Camp",
-    "link": "https://qc.event.cuny.edu/events/VC7K8hE2YgM2vL38BdRf/IY7B8HTmuvAX4Znoey1f39",
-    "college": "Queens College",
-    "date": "2026-08-20",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Film Shoot",
-    "link": "https://qc.event.cuny.edu/events/ZXCRHQmnFNRRxQdZtw2o/YsjFvslFiwoooomDLSRM",
-    "college": "Queens College",
-    "date": "2026-08-20",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL181",
-    "college": "Queens College",
-    "date": "2026-08-20",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Placement Exams",
-    "link": "https://qc.event.cuny.edu/events/G051Pt8lIyTcxeISAKzu/pfthG8izC1sMXDKWYyVb81",
-    "college": "Queens College",
-    "date": "2026-08-20",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "ACE Orientation",
-    "link": "https://qc.event.cuny.edu/events/UmKGZm9S3FLcFM99doKO/Bd9cxZ4HWxua1JrWMayP",
-    "college": "Queens College",
-    "date": "2026-08-20",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "ACE QC ORIENTATION DAY",
-    "link": "https://qc.event.cuny.edu/events/z110LAMtoyMKyfMuyKMq/aaxT1YERHPSQrzWgj9yu",
-    "college": "Queens College",
-    "date": "2026-08-20",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "Youth Talk Democracy sessions",
-    "link": "https://qc.event.cuny.edu/events/TXw2frwIfsLp23wQJIgi/eK9xIGpi7xIdmlXdQyNX",
-    "college": "Queens College",
-    "date": "2026-08-20",
-    "time": "5:30PM",
-    "tags": []
-  },
-  {
-    "title": "B&G Usage",
     "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X61",
     "college": "Queens College",
     "date": "2026-08-21",
@@ -1451,35 +1365,83 @@
     "tags": []
   },
   {
-    "title": "Fall 2026 Orientation",
-    "link": "https://citytech.event.cuny.edu/events/FuqcwUBh2uQOWVTGIGl0/DSJTekQ6TVuJT5Dy4jZ93",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-20",
+    "title": "B&G Usage",
+    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X63",
+    "college": "Queens College",
+    "date": "2026-08-23",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA184",
+    "college": "Queens College",
+    "date": "2026-08-23",
     "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Fall 2026 New Student Orientation",
-    "link": "https://citytech.event.cuny.edu/events/hBNS76KPcSFXcl2ENEMW/eycI2isLgccSN1JXpnuA4",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-20",
+    "title": "Pokiemon",
+    "link": "https://qc.event.cuny.edu/events/m82kfomFYQGkSZEDl0sJ/kg9olvTLR4WoPdViIykX",
+    "college": "Queens College",
+    "date": "2026-08-23",
     "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Tech Talent Pipeline Residency Summer Bootcamp",
-    "link": "https://citytech.event.cuny.edu/events/F7yYZztplgNyznUHp1kP/bbrhxdKdSLuXfNuDE5Eq59",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-20",
+    "title": "B&G Usage",
+    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X64",
+    "college": "Queens College",
+    "date": "2026-08-24",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Welcome Day and ID card distribution",
+    "link": "https://qc.event.cuny.edu/events/AbcKHWunOHba3e2LuQCu/KxoP0URF9aKjBjqG6v4Z",
+    "college": "Queens College",
+    "date": "2026-08-24",
+    "time": "7:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA185",
+    "college": "Queens College",
+    "date": "2026-08-24",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "IT Tec Equipment Servicing",
+    "link": "https://qc.event.cuny.edu/events/Z8gi71SVwtMZKqvfQqdk/rjHI6A0QCqmbeYpfRD7d",
+    "college": "Queens College",
+    "date": "2026-08-24",
     "time": "9:00AM",
     "tags": []
   },
   {
-    "title": "Tech Talent Pipeline Residency Workspace",
-    "link": "https://citytech.event.cuny.edu/events/AWRByEfzLLj2eBatbTdW/lqYMGQRer3WANN4x6RNW59",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-20",
-    "time": "9:00AM",
+    "title": "ACE Orientation",
+    "link": "https://qc.event.cuny.edu/events/UmKGZm9S3FLcFM99doKO/YYmpJYE1sPhAajzEEX6A",
+    "college": "Queens College",
+    "date": "2026-08-24",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Academic Calendar - Fall Regular Session: Classes Begin. Start of Fall Regular Session",
+    "link": "https://baruch.event.cuny.edu/events/kDLFUfYLjqGxkNNK4mXA/b9tDiR1kdcdLoTF9tNE0",
+    "college": "Baruch College",
+    "date": "2026-08-28",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Academic Calendar - Fall Seven Week I: Classes Begin. Start of Fall Seven Week I Session",
+    "link": "https://baruch.event.cuny.edu/events/twYj1gu8FA4xXWk9XjBG/st9E7JioLveQEnTaN9ED",
+    "college": "Baruch College",
+    "date": "2026-08-28",
+    "time": "",
     "tags": []
   },
   {
@@ -1576,6 +1538,46 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-08-25",
     "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP Fall 2026 Orientation Breakout 1",
+    "link": "https://citytech.event.cuny.edu/events/XysMstYXfpQHjv7XOeJr/UxSZu7IJT1qEtTJc770x",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-08-25",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "TOC/NYCMT Summer PD",
+    "link": "https://citytech.event.cuny.edu/events/b2kmCTRjCcng9049BvfQ/sCWJI7tSisUq2YGIvjdL",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-08-25",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Refocus & Rise: An Academic Recovery Workshop",
+    "link": "https://citytech.event.cuny.edu/events/R6oPE4itsvUJXxUwbS1s/iykrW9dDHRv0XuN40d9L",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-08-25",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "The Comeback Reignite Your Journey",
+    "link": "https://citytech.event.cuny.edu/events/Av9lsxUAp0F3LBV3PjXx/fr5RgpnielsdrdsN0jIi",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-08-25",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Welcome Week Briefing",
+    "link": "https://citytech.event.cuny.edu/events/WmTOA0lXZYJ35mBPJc5z/MNe4pRYUkRvTkCPqR1Cm",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-08-25",
+    "time": "3:00PM",
     "tags": []
   },
   {
@@ -1891,75 +1893,11 @@
     "tags": []
   },
   {
-    "title": "STEP Summer Research Presentation",
-    "link": "https://www.york.cuny.edu/events/STEP-Summer-Research-Presentation-2026-08-20",
-    "college": "York College",
-    "date": "2026-08-20",
-    "time": "8:30 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "International New Student Orientation",
-    "link": "https://www.york.cuny.edu/events/International-New-Student-Orientation-2026-08-20",
-    "college": "York College",
-    "date": "2026-08-20",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Ice Cream Social | Breezeway",
-    "link": "https://www.york.cuny.edu/events/Ice-Cream-Social-Breezeway-2026-08-20",
-    "college": "York College",
-    "date": "2026-08-20",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Ice Cream Social | Amphitheater",
-    "link": "https://www.york.cuny.edu/events/Ice-Cream-Social-Amphitheater-2026-08-20",
-    "college": "York College",
-    "date": "2026-08-20",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "TESOL Certificate Presentation",
-    "link": "https://www.york.cuny.edu/events/TESOL-Certificate-Presentation-2026-08-20",
-    "college": "York College",
-    "date": "2026-08-20",
-    "time": "3:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Benches Painting | Outside Classroom Building on 160th Street",
-    "link": "https://www.york.cuny.edu/events/Benches-Painting-Outside-Classroom-Building-on-160th-Street-2026-08-20",
-    "college": "York College",
-    "date": "2026-08-20",
-    "time": "3:30 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Benches Painting",
-    "link": "https://www.york.cuny.edu/events/Benches-Painting-2026-08-20",
-    "college": "York College",
-    "date": "2026-08-20",
-    "time": "3:30 PM - 11:30 PM",
-    "tags": []
-  },
-  {
     "title": "V-READY Aug 21",
     "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug-21",
     "college": "York College",
     "date": "2026-08-21",
     "time": "1:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-08-21",
-    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -2032,6 +1970,54 @@
     "college": "York College",
     "date": "2026-08-26",
     "time": "12:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 26",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "STEP Poster Presentation Event",
+    "link": "https://www.york.cuny.edu/events/STEP-Poster-Presentation-Event-2026-08-27",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "8:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "STEP Giveaway Event",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/step-giveaway-event",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "1:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 27",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug27",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/first-day-of-classes-3",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   }
 ]
