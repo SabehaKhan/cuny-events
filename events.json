@@ -39,16 +39,6 @@
     "tags": []
   },
   {
-    "title": "Court Orientation (Mandatory for Day students, Optional for Evening students)",
-    "link": "https://www.law.cuny.edu/event/court-orientation-mandatory-for-day-students-optional-for-evening-students/",
-    "college": "CUNY School of Law",
-    "date": "2026-08-21",
-    "time": "08:00 AM - 02:00 PM",
-    "tags": [
-      "Orientation 2026"
-    ]
-  },
-  {
     "title": "CUNY Law Alumni Connection Series",
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-sep26/",
     "college": "CUNY School of Law",
@@ -341,27 +331,36 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-08-21/",
-    "college": "LaGuardia Community College",
-    "date": "2026-08-21",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
+    "title": "In Person- Application Help Walk-ins- Spring 2027 CUNY Transfer Application",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/4926353f-9823-4694-8b7d-c9679b6103a6",
+    "college": "Kingsborough Community College",
+    "date": "2026-09-15",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": []
   },
   {
-    "title": "Baruch Business Academy Virtual Information Session",
-    "link": "https://www.laguardia.edu/event/baruch-business-academy-virtual-information-session-20/",
-    "college": "LaGuardia Community College",
-    "date": "2026-08-21",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
+    "title": "Brooklyn College On Spot Decision Day",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/ccfd00cf-a5ae-4f39-b662-48f18e94f20c",
+    "college": "Kingsborough Community College",
+    "date": "2026-10-13",
+    "time": "03:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Brooklyn College On Spot Decision Day",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/c25c097d-5efe-4f24-9d4e-05cde94e4680",
+    "college": "Kingsborough Community College",
+    "date": "2026-12-09",
+    "time": "04:00 PM - 08:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Transfer Out 101- An Overview on the Transfer Process",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/8c9f5baf-ceb1-461a-8dbf-3f2164ce8e63",
+    "college": "Kingsborough Community College",
+    "date": "2026-09-23",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": []
   },
   {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
@@ -652,6 +651,28 @@
     "tags": [
       "all calendars",
       "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-3/2026-09-23/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-23",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-thursdays/2026-09-24/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-24",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
       "student events"
     ]
   },
@@ -1040,6 +1061,42 @@
     ]
   },
   {
+    "title": "Tapestry: The My Sister's Keeper Scholar Gallery",
+    "link": "https://www.bmcc.cuny.edu/event/tapestry-the-my-sisters-keeper-scholar-gallery/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-24",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "CUNY in The Heights",
+      "Featured",
+      "Student Affairs",
+      "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "92NY Employer Tabling: Connect with a Recruiter",
+    "link": "https://www.bmcc.cuny.edu/event/92ny-employer-tabling-connect-with-a-recruiter/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-24",
+    "time": "12:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "92NY (92nd Street Y) Interview Day",
+    "link": "https://www.bmcc.cuny.edu/event/92ny-92nd-street-y-interview-day/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-24",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development"
+    ]
+  },
+  {
     "title": "Admissions Information Session (online)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-online-11-3-2/",
     "college": "Borough of Manhattan Community College",
@@ -1100,6 +1157,19 @@
     ]
   },
   {
+    "title": "CUNY Spring Forward Internship Program Information Webinar",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-spring-forward-internship-program-information-webinar/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-10",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured",
+      "Internships & Experiential Learning"
+    ]
+  },
+  {
     "title": "Jane Young Fall 2026 Film Series: The Return of the Repressed",
     "link": "https://www.bmcc.cuny.edu/event/jane-young-fall-2026-film-series-the-return-of-the-repressed/",
     "college": "Borough of Manhattan Community College",
@@ -1145,6 +1215,23 @@
     ]
   },
   {
+    "title": "The 25th Annual Chamber Business Expo",
+    "link": "https://www.bmcc.cuny.edu/event/the-25th-annual-chamber-business-expo/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-17",
+    "time": "09:00 AM - 04:00 PM",
+    "tags": [
+      "Business Management",
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "CUNY in The Heights",
+      "Diplomatic Engagement and Training",
+      "Entrepreneurship",
+      "Evening-Weekend",
+      "Featured"
+    ]
+  },
+  {
     "title": "Healing Through Hip-Hop and Creative Expression",
     "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression-7/2026-09-21/",
     "college": "Borough of Manhattan Community College",
@@ -1156,6 +1243,18 @@
       "Featured",
       "Student Affairs",
       "Urban Male Leadership Academy (UMLA)"
+    ]
+  },
+  {
+    "title": "NYS Department of Civil Service Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/nys-dept-of-civil-service-information-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-23",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
     ]
   },
   {
@@ -1291,6 +1390,14 @@
     "tags": []
   },
   {
+    "title": "Tapestry: The My Sister’s Keeper Scholar Gallery",
+    "link": "https://www.bmcc.cuny.edu/event/?p=680596",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-24",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": []
+  },
+  {
     "title": "Student Technology Overview Workshop",
     "link": "https://events.cuny.edu/cec/student-technology-overview-workshop-14/",
     "college": "College of Staten Island",
@@ -1324,22 +1431,6 @@
     "college": "Queens College",
     "date": "2026-09-01",
     "time": "6:30 PM - 7:30 AM",
-    "tags": []
-  },
-  {
-    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
-    "link": "https://lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session--2.php",
-    "college": "Lehman College",
-    "date": "2026-09-08",
-    "time": "6:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
-    "link": "https://lehman.edu/events/2026/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session--2.php",
-    "college": "Lehman College",
-    "date": "2026-09-08",
-    "time": "6:00 PM - 8:00 PM",
     "tags": []
   },
   {
@@ -1612,6 +1703,22 @@
     "college": "CUNY School of Public Health",
     "date": "2026-08-26",
     "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY SPH Alumni Meet-Up at Sammy’s Fish Box",
+    "link": "https://sph.cuny.edu/event/cuny-sph-alumni-meet-up-at-sammys-fish-box/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-09-12",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY SPH Blood Drive",
+    "link": "https://sph.cuny.edu/event/cuny-sph-blood-drive-3/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-09-16",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -1916,14 +2023,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-09-18",
     "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Aug 21",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug-21",
-    "college": "York College",
-    "date": "2026-08-21",
-    "time": "1:30 PM - 6:00 PM",
     "tags": []
   },
   {
