@@ -1294,18 +1294,6 @@
     ]
   },
   {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/2026-08-31/",
-    "college": "Bronx Community College",
-    "date": "2026-08-31",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
-    ]
-  },
-  {
     "title": "Curriculum",
     "link": "https://www.bcc.cuny.edu/event/curriculum/2026-09-01/",
     "college": "Bronx Community College",
@@ -1354,7 +1342,7 @@
     "tags": [
       "Feature",
       "Office of the Registrar",
-      "Virtual Event"
+      "Virtual Events"
     ]
   },
   {
@@ -1371,22 +1359,6 @@
     "college": "Bronx Community College",
     "date": "2026-09-15",
     "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Curriculum",
-    "link": "https://www.bcc.cuny.edu/event/curriculum/2026-09-15/",
-    "college": "Bronx Community College",
-    "date": "2026-09-15",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "VPs & Deans",
-    "link": "https://www.bcc.cuny.edu/event/vps-deans/2026-09-16/",
-    "college": "Bronx Community College",
-    "date": "2026-09-16",
-    "time": "01:00 PM - 02:00 PM",
     "tags": []
   },
   {
@@ -1435,38 +1407,6 @@
   },
   {
     "title": "B&G Usage",
-    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X61",
-    "college": "Queens College",
-    "date": "2026-08-21",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "QC Summer Camp",
-    "link": "https://qc.event.cuny.edu/events/VC7K8hE2YgM2vL38BdRf/IY7B8HTmuvAX4Znoey1f40",
-    "college": "Queens College",
-    "date": "2026-08-21",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA182",
-    "college": "Queens College",
-    "date": "2026-08-21",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "QC SURP Orientation",
-    "link": "https://qc.event.cuny.edu/events/WRBfKNKzyre3jkVBRnPp/oivQskDpaHEbhS3lIzps",
-    "college": "Queens College",
-    "date": "2026-08-21",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "B&G Usage",
     "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X62",
     "college": "Queens College",
     "date": "2026-08-22",
@@ -1490,16 +1430,16 @@
     "tags": []
   },
   {
-    "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA184",
+    "title": "Pokiemon",
+    "link": "https://qc.event.cuny.edu/events/m82kfomFYQGkSZEDl0sJ/kg9olvTLR4WoPdViIykX",
     "college": "Queens College",
     "date": "2026-08-23",
     "time": "8:00AM",
     "tags": []
   },
   {
-    "title": "Pokiemon",
-    "link": "https://qc.event.cuny.edu/events/m82kfomFYQGkSZEDl0sJ/kg9olvTLR4WoPdViIykX",
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL184",
     "college": "Queens College",
     "date": "2026-08-23",
     "time": "8:00AM",
@@ -1546,6 +1486,78 @@
     "tags": []
   },
   {
+    "title": "B&G Usage",
+    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X65",
+    "college": "Queens College",
+    "date": "2026-08-25",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "QSI Student Orientation",
+    "link": "https://qc.event.cuny.edu/events/Qh3HoC6FyiMgCCtXspQh/keIX8s3gzRJlFETbRKTY1",
+    "college": "Queens College",
+    "date": "2026-08-25",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL186",
+    "college": "Queens College",
+    "date": "2026-08-25",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "FYE Peer Mentor Trainings",
+    "link": "https://qc.event.cuny.edu/events/XtRMpxBfkpumfOi2waKI/sW96zWX6wrqie7DVIELz",
+    "college": "Queens College",
+    "date": "2026-08-25",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "ACE Level Up Orientation",
+    "link": "https://qc.event.cuny.edu/events/JBeBUOA5WCqoiJInrA60/zN4dLLiL2hEWvcLGMZxC",
+    "college": "Queens College",
+    "date": "2026-08-25",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "B&G Usage",
+    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X66",
+    "college": "Queens College",
+    "date": "2026-08-26",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "QSI Student Orientation",
+    "link": "https://qc.event.cuny.edu/events/Qh3HoC6FyiMgCCtXspQh/keIX8s3gzRJlFETbRKTY2",
+    "college": "Queens College",
+    "date": "2026-08-26",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Math Lab Relocation",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL187",
+    "college": "Queens College",
+    "date": "2026-08-26",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "FYE Peer Mentor Trainings",
+    "link": "https://qc.event.cuny.edu/events/XtRMpxBfkpumfOi2waKI/cD0tagUBvLjq326mwt3F",
+    "college": "Queens College",
+    "date": "2026-08-26",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
     "title": "Academic Calendar - Fall Regular Session: Classes Begin. Start of Fall Regular Session",
     "link": "https://baruch.event.cuny.edu/events/kDLFUfYLjqGxkNNK4mXA/b9tDiR1kdcdLoTF9tNE0",
     "college": "Baruch College",
@@ -1559,14 +1571,6 @@
     "college": "Baruch College",
     "date": "2026-08-28",
     "time": "",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE Orientation Setup",
-    "link": "https://citytech.event.cuny.edu/events/EGlOkFLhPYLVPYcUA79j/wnKaFfg3Klcpm20UumBP",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-21",
-    "time": "3:00PM",
     "tags": []
   },
   {
@@ -1695,6 +1699,30 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-08-25",
     "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "Prospect Schools Second Event - External Event",
+    "link": "https://citytech.event.cuny.edu/events/UJ9M05yIr7nTtyPr3XBL/mS0T5hnxW7L1FQWIvgBZ3",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-08-26",
+    "time": "7:30AM",
+    "tags": []
+  },
+  {
+    "title": "BEOC 2026 Convocation",
+    "link": "https://citytech.event.cuny.edu/events/A3eKiSsBoqbI8MxGFzjx/d3cW2cI0WkdSs2nryf8B",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-08-26",
+    "time": "8:30AM",
+    "tags": []
+  },
+  {
+    "title": "Rad Tech Orientation",
+    "link": "https://citytech.event.cuny.edu/events/mCGfO0eIOgSwoiLBcZsc/SCuTe0iFHPfRYCz1ytmf",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-08-26",
+    "time": "9:00AM",
     "tags": []
   },
   {
@@ -2026,14 +2054,6 @@
     "tags": []
   },
   {
-    "title": "TESOL Certificate Presentation",
-    "link": "https://www.york.cuny.edu/events/TESOL-Certificate-Presentation-2026-08-21",
-    "college": "York College",
-    "date": "2026-08-21",
-    "time": "3:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
     "title": "Sri Chinmoy",
     "link": "https://www.york.cuny.edu/events/Sri-Chinmoy-2026-08-22",
     "college": "York College",
@@ -2151,6 +2171,22 @@
     "college": "York College",
     "date": "2026-08-28",
     "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Campus Resource Tabling",
+    "link": "https://www.york.cuny.edu/events/Campus-Resource-Tabling-2026-08-28",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "10:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 28",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug28",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "1:30 PM - 8:00 PM",
     "tags": []
   }
 ]
