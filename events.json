@@ -866,7 +866,7 @@
     ]
   },
   {
-    "title": "Campus Navigation - Exploring Hunter's Website",
+    "title": "Campus Navigation: Exploring Hunter's Website",
     "link": "https://www.hunter.cuny.edu/event/campus-navigation-exploring-hunters-website/",
     "college": "Hunter College",
     "date": "2026-09-15",
@@ -886,6 +886,16 @@
     ]
   },
   {
+    "title": "Campus Resources: Math, Science and Writing Learning Centers",
+    "link": "https://www.hunter.cuny.edu/event/campus-navigation-math-science-and-writing-learning-centers/",
+    "college": "Hunter College",
+    "date": "2026-09-17",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "FALL 2026 WELLNESS/BENEFITS FAIR",
     "link": "https://www.hunter.cuny.edu/event/fall-2026-wellness-benefits-fair/",
     "college": "Hunter College",
@@ -893,6 +903,16 @@
     "time": "11:00 AM - 03:00 PM",
     "tags": [
       "Open Houses"
+    ]
+  },
+  {
+    "title": "Campus Navigation: Exploring Hunter's Website",
+    "link": "https://www.hunter.cuny.edu/event/campus-navigation-exploring-hunters-website-2/",
+    "college": "Hunter College",
+    "date": "2026-09-22",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Student Events"
     ]
   },
   {
@@ -912,6 +932,16 @@
     "date": "2026-09-23",
     "time": "01:00 PM - 02:00 PM",
     "tags": []
+  },
+  {
+    "title": "Campus Navigation: Global Class Search and Degree Maps",
+    "link": "https://www.hunter.cuny.edu/event/campus-navigation-global-class-search-and-degree-maps/",
+    "college": "Hunter College",
+    "date": "2026-09-24",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Student Events"
+    ]
   },
   {
     "title": "Will Signing Party",
@@ -946,11 +976,41 @@
     ]
   },
   {
+    "title": "Campus Navigation: 2nd Year and Beyond",
+    "link": "https://www.hunter.cuny.edu/event/campus-navigation-2nd-year-and-beyond/",
+    "college": "Hunter College",
+    "date": "2026-09-28",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Graduate Admissions Virtual Front Desk",
     "link": "https://www.hunter.cuny.edu/event/graduate-admissions-virtual-front-desk-6/",
     "college": "Hunter College",
     "date": "2026-09-29",
     "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Application-Based Majors: Preparation for Social Work",
+    "link": "https://www.hunter.cuny.edu/event/application-based-majors-preparation-for-social-work/",
+    "college": "Hunter College",
+    "date": "2026-09-29",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Preparation for Science Majors (Human Biology, Biology and Chemistry)",
+    "link": "https://www.hunter.cuny.edu/event/science-majors-preparation-for-science-majors-human-biology-biology-and-chemistry/",
+    "college": "Hunter College",
+    "date": "2026-09-29",
+    "time": "02:30 PM - 02:30 PM",
     "tags": [
       "Student Events"
     ]
@@ -962,6 +1022,16 @@
     "date": "2026-09-30",
     "time": "06:00 PM - 08:00 PM",
     "tags": []
+  },
+  {
+    "title": "Campus Navigation: Global Class Search and Degree Maps",
+    "link": "https://www.hunter.cuny.edu/event/campus-navigation-global-class-search-and-degree-maps-2/",
+    "college": "Hunter College",
+    "date": "2026-10-01",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Student Events"
+    ]
   },
   {
     "title": "Hunter Jazz Presents Scott Robinson - Reach for Tomorrow",
@@ -991,79 +1061,6 @@
     "time": "08:00 AM - 05:00 PM",
     "tags": [
       "Exhibits"
-    ]
-  },
-  {
-    "title": "Students & Alumni Networking Mixer",
-    "link": "https://www.hunter.cuny.edu/event/students-alumni-networking-mixer/",
-    "college": "Hunter College",
-    "date": "2026-10-08",
-    "time": "05:00 PM - 07:30 PM",
-    "tags": [
-      "Alumni Events",
-      "Special Events",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Bachelor of Science in Nursing Generic Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-15/",
-    "college": "Hunter College",
-    "date": "2026-10-09",
-    "time": "04:00 PM - 05:30 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Special Screening of Sex Work: It’s Just a Job",
-    "link": "https://www.hunter.cuny.edu/event/special-screening-of-sex-work-its-just-a-job/",
-    "college": "Hunter College",
-    "date": "2026-10-14",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "RN-to-BS Nursing Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/rn-to-bs-nursing-program-information-session-13/",
-    "college": "Hunter College",
-    "date": "2026-10-19",
-    "time": "01:00 PM - 02:30 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Discussion: Bronx Attitude",
-    "link": "https://www.hunter.cuny.edu/event/discussion-bronx-attitude/",
-    "college": "Hunter College",
-    "date": "2026-10-19",
-    "time": "06:00 PM - 06:00 PM",
-    "tags": [
-      "Lectures",
-      "Special Events"
-    ]
-  },
-  {
-    "title": "MS-IPND Graduate Nutrition Program Information Sessions",
-    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7-2/2026-10-20/",
-    "college": "Hunter College",
-    "date": "2026-10-20",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Conversation With Playwright David Henry Hwang",
-    "link": "https://www.hunter.cuny.edu/event/conversation-with-playwright-david-henry-hwang/",
-    "college": "Hunter College",
-    "date": "2026-10-20",
-    "time": "06:00 PM - 06:00 PM",
-    "tags": [
-      "Lectures"
     ]
   },
   {
@@ -1367,7 +1364,7 @@
     ]
   },
   {
-    "title": "Men's Soccer Scrimmage: Bronx Broncos vs Lehman College",
+    "title": "Men's Soccer Scrimmage: Bronx Community College vs Lehman College",
     "link": "https://www.bcc.cuny.edu/event/mens-soccer-scrimmage-bronx-broncos-vs-lehman-college/",
     "college": "Bronx Community College",
     "date": "2026-08-28",
@@ -1387,7 +1384,7 @@
     "tags": []
   },
   {
-    "title": "Men's Soccer: Bronx Broncos vs Laguardia Red Hawks",
+    "title": "Men's Soccer: Bronx Community College vs Laguardia Community College",
     "link": "https://www.bcc.cuny.edu/event/mens-soccer-bronx-broncos-vs-laguardia-red-hawks/",
     "college": "Bronx Community College",
     "date": "2026-09-03",
