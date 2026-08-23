@@ -1131,7 +1131,13 @@
       "Center for Career Development",
       "CUNY in The Heights",
       "Evening-Weekend",
-      "Featured"
+      "Featured",
+      "Media Arts and Technology",
+      "Music & Art",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Teacher Education",
+      "Theatre"
     ]
   },
   {
@@ -1222,6 +1228,20 @@
     ]
   },
   {
+    "title": "CUNY Macaulay Honors College Business and Technology Career Fair",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-macaulay-honors-college-business-and-technology-career-fair/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-18",
+    "time": "10:00 AM - 02:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured"
+    ]
+  },
+  {
     "title": "Healing Through Hip-Hop and Creative Expression",
     "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression-7/2026-09-21/",
     "college": "Borough of Manhattan Community College",
@@ -1281,6 +1301,53 @@
       "Career Workshops/Fairs",
       "Center for Career Development",
       "Featured"
+    ]
+  },
+  {
+    "title": "CUNY BMCC Career Day 2 (Virtual): Government, Legal, Law Enforcement and Public Service",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-bmcc-career-day-2-virtual-government-legal-law-enforcement-and-public-service/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-30",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Criminal Justice",
+      "Featured",
+      "Human Services and Criminal Justice",
+      "Pre-law",
+      "Social Sciences",
+      "Human Services and Criminal Justice"
+    ]
+  },
+  {
+    "title": "Women in Business Employer Panel (Non-Traditional Career Series)",
+    "link": "https://www.bmcc.cuny.edu/event/women-in-business-employer-panel-non-traditional-career-series/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-22",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Business Management",
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Pizza and Peace Corps Info Session",
+    "link": "https://www.bmcc.cuny.edu/event/pizza-and-peace-corps-info-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-30",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "College Visits",
+      "Featured",
+      "Global Initiatives",
+      "Social Sciences",
+      "Human Services and Criminal Justice",
+      "Teacher Education"
     ]
   },
   {
