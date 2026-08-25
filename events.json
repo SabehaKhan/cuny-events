@@ -40,6 +40,28 @@
     ]
   },
   {
+    "title": "Admissions: Information Session - Virtual",
+    "link": "https://www.law.cuny.edu/event/admissions-information-session-virtual/",
+    "college": "CUNY School of Law",
+    "date": "2026-09-15",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "Info Session",
+      "Special Event"
+    ]
+  },
+  {
+    "title": "Admissions: Personal Statement Workshop - Virtual",
+    "link": "https://www.law.cuny.edu/event/admissions-personal-statement-workshop-virtual/",
+    "college": "CUNY School of Law",
+    "date": "2026-09-29",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "Info Session",
+      "Workshop"
+    ]
+  },
+  {
     "title": "CUNY Law Alumni Connection Series",
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-oct26/",
     "college": "CUNY School of Law",
@@ -51,6 +73,27 @@
     ]
   },
   {
+    "title": "Admissions: Information Session - Virtual",
+    "link": "https://www.law.cuny.edu/event/admissions-information-session-virtual-2/",
+    "college": "CUNY School of Law",
+    "date": "2026-10-13",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "Info Session"
+    ]
+  },
+  {
+    "title": "Admissions: Personal Statement Workshop - In Person",
+    "link": "https://www.law.cuny.edu/event/admissions-personal-statement-workshop-in-person/",
+    "college": "CUNY School of Law",
+    "date": "2026-10-20",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "Info Session",
+      "Workshop"
+    ]
+  },
+  {
     "title": "CUNY Law Alumni Connection Series",
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-nov26/",
     "college": "CUNY School of Law",
@@ -59,6 +102,17 @@
     "tags": [
       "Alumni",
       "Networking Event"
+    ]
+  },
+  {
+    "title": "Admissions: Information Session - In Person",
+    "link": "https://www.law.cuny.edu/event/admissions-information-session-in-person/",
+    "college": "CUNY School of Law",
+    "date": "2026-11-10",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "Info Session",
+      "Special Event"
     ]
   },
   {
@@ -537,6 +591,14 @@
     "tags": []
   },
   {
+    "title": "Transferring to SUNY Essentials (Discover SUNY)",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/1e2e0bf4-bf6f-4daf-86e9-b86d8798c634",
+    "college": "Kingsborough Community College",
+    "date": "2026-10-27",
+    "time": "09:30 PM - 09:30 PM",
+    "tags": []
+  },
+  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-08-28/",
     "college": "LaGuardia Community College",
@@ -971,6 +1033,16 @@
     ]
   },
   {
+    "title": "Welcome Week: Welcome Mixer",
+    "link": "https://www.hunter.cuny.edu/event/welcome-week-welcome-mixer/",
+    "college": "Hunter College",
+    "date": "2026-08-28",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Welcome Week: Dine and Dash",
     "link": "https://www.hunter.cuny.edu/event/welcome-week-dine-and-dash/",
     "college": "Hunter College",
@@ -1237,16 +1309,6 @@
     ]
   },
   {
-    "title": "Application-Based Majors: Preparation for Social Work",
-    "link": "https://www.hunter.cuny.edu/event/application-based-majors-preparation-for-social-work/",
-    "college": "Hunter College",
-    "date": "2026-09-29",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Admissions Information Session (in-person)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-5-4/",
     "college": "Borough of Manhattan Community College",
@@ -1255,6 +1317,44 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "BMCC Writing Center - Student Orientations",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-student-orientations-3/2026-08-28/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-08-28",
+    "time": "02:00 PM - 02:30 PM",
+    "tags": [
+      "Academic Affairs",
+      "Academic Literacy and Linguistics",
+      "CUNY in The Heights",
+      "English",
+      "Evening-Weekend",
+      "Featured",
+      "Human Services",
+      "Human Services and Criminal Justice",
+      "Learning Academy",
+      "Learning Resource Center",
+      "Liberal Arts",
+      "New Student Programs",
+      "Office of Student Activities (OSA)",
+      "Project Impact",
+      "Race Equity and Inclusion",
+      "Research & Scholarly Inquiry",
+      "Scholarships",
+      "Social Sciences",
+      "Human Services and Criminal Justice",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Student Affairs",
+      "Student Government Association",
+      "Student Success",
+      "Study Abroad",
+      "Teacher Education",
+      "Workshops",
+      "Writing Across the Curriculum (WAC)",
+      "Writing Center"
     ]
   },
   {
@@ -1278,6 +1378,19 @@
     "tags": [
       "Center for Career Development",
       "Featured"
+    ]
+  },
+  {
+    "title": "CUNY Cultural Corps Internship Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-cultural-corps-internship-information-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-08",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured",
+      "Internships & Experiential Learning"
     ]
   },
   {
@@ -1651,6 +1764,14 @@
     "tags": []
   },
   {
+    "title": "Budget & Financial Planning",
+    "link": "https://www.bcc.cuny.edu/event/budget-financial-planning/2026-09-15/",
+    "college": "Bronx Community College",
+    "date": "2026-09-15",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "Student Technology Overview Workshop",
     "link": "https://events.cuny.edu/cec/student-technology-overview-workshop-14/",
     "college": "College of Staten Island",
@@ -2003,16 +2124,16 @@
     "tags": []
   },
   {
-    "title": "SLD Ambassador Orientation",
-    "link": "https://citytech.event.cuny.edu/events/tsARFFvKbdlwiDhJmVLl/H47GrYzfPSldSktLynd7",
+    "title": "Refocus & Rise: An Academic Recovery Workshop",
+    "link": "https://citytech.event.cuny.edu/events/zrRb60DegCPFvLheN7vt/Zk38mnEYGZTpo6UDgfh9",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-08-27",
-    "time": "12:30PM",
+    "time": "11:00AM",
     "tags": []
   },
   {
-    "title": "Student Organization Workshop",
-    "link": "https://citytech.event.cuny.edu/events/ercfYTdGfRoz0A5tlE9N/Z86NP6SlrN8VKVg0ahh6",
+    "title": "SLD Ambassador Orientation",
+    "link": "https://citytech.event.cuny.edu/events/tsARFFvKbdlwiDhJmVLl/H47GrYzfPSldSktLynd7",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-08-27",
     "time": "12:30PM",
@@ -2368,14 +2489,6 @@
     "college": "York College",
     "date": "2026-08-25",
     "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Aug 25",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug25",
-    "college": "York College",
-    "date": "2026-08-25",
-    "time": "1:30 PM - 8:00 PM",
     "tags": []
   },
   {
