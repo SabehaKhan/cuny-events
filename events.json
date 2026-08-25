@@ -529,6 +529,14 @@
     "tags": []
   },
   {
+    "title": "Brooklyn College On Spot Decision Day",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/90d67adb-1c75-4cb4-b2e3-1e9214b06a63",
+    "college": "Kingsborough Community College",
+    "date": "2026-11-12",
+    "time": "04:00 PM - 08:00 PM",
+    "tags": []
+  },
+  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-08-28/",
     "college": "LaGuardia Community College",
@@ -953,6 +961,36 @@
     ]
   },
   {
+    "title": "Welcome Week: Boba + Giri Blast",
+    "link": "https://www.hunter.cuny.edu/event/welcome-week-boba-giri-blast/",
+    "college": "Hunter College",
+    "date": "2026-08-28",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Welcome Week: Dine and Dash",
+    "link": "https://www.hunter.cuny.edu/event/welcome-week-dine-and-dash/",
+    "college": "Hunter College",
+    "date": "2026-08-31",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Welcome Week: Churros and Ice Cream Social",
+    "link": "https://www.hunter.cuny.edu/event/welcome-week-churros-and-ice-cream-social/",
+    "college": "Hunter College",
+    "date": "2026-09-01",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Graduate Admissions Information Session",
     "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-43/",
     "college": "Hunter College",
@@ -961,11 +999,51 @@
     "tags": []
   },
   {
+    "title": "Welcome Week: Breakfast for Dinner",
+    "link": "https://www.hunter.cuny.edu/event/welcome-week-breakfast-for-dinner/",
+    "college": "Hunter College",
+    "date": "2026-09-02",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Welcome Week: Pre-Professional Open House",
+    "link": "https://www.hunter.cuny.edu/event/welcome-week-pre-professional-open-house/",
+    "college": "Hunter College",
+    "date": "2026-09-02",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Welcome Week: Sip & Chat",
+    "link": "https://www.hunter.cuny.edu/event/welcome-week-sip-chat/",
+    "college": "Hunter College",
+    "date": "2026-09-03",
+    "time": "02:00 PM - 05:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Graduate Admissions Virtual Front Desk",
     "link": "https://www.hunter.cuny.edu/event/graduate-admissions-virtual-front-desk-5/",
     "college": "Hunter College",
     "date": "2026-09-09",
     "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Welcome Week: Carnival Club Fair",
+    "link": "https://www.hunter.cuny.edu/event/welcome-week-carnival-club-fair/",
+    "college": "Hunter College",
+    "date": "2026-09-09",
+    "time": "12:00 PM - 04:00 PM",
     "tags": [
       "Student Events"
     ]
@@ -1169,64 +1247,6 @@
     ]
   },
   {
-    "title": "Preparation for Science Majors (Human Biology, Biology and Chemistry)",
-    "link": "https://www.hunter.cuny.edu/event/science-majors-preparation-for-science-majors-human-biology-biology-and-chemistry/",
-    "college": "Hunter College",
-    "date": "2026-09-29",
-    "time": "02:30 PM - 02:30 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Democracy and Development: Screening of Emergent City",
-    "link": "https://www.hunter.cuny.edu/event/democracy-and-development-screening-of-emergent-city/",
-    "college": "Hunter College",
-    "date": "2026-09-30",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Campus Navigation: Global Class Search and Degree Maps",
-    "link": "https://www.hunter.cuny.edu/event/campus-navigation-global-class-search-and-degree-maps-2/",
-    "college": "Hunter College",
-    "date": "2026-10-01",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Hunter Jazz Presents Scott Robinson - Reach for Tomorrow",
-    "link": "https://www.hunter.cuny.edu/event/hunter-jazz-presents-scott-robinson-reach-for-tomorrow/",
-    "college": "Hunter College",
-    "date": "2026-10-01",
-    "time": "07:00 PM - 07:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "American Voices - Frank Sinatra: From Band Singer to Icon",
-    "link": "https://www.hunter.cuny.edu/event/american-voices-frank-sinatra-from-band-singer-to-icon/",
-    "college": "Hunter College",
-    "date": "2026-10-06",
-    "time": "07:00 PM - 07:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Humanities Action Lab: Exhibit of Stories for Environmental Justice",
-    "link": "https://www.hunter.cuny.edu/event/humanities-action-lab-exhibit-of-stories-for-environmental-justice/",
-    "college": "Hunter College",
-    "date": "2026-10-07",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": [
-      "Exhibits"
-    ]
-  },
-  {
     "title": "Admissions Information Session (in-person)",
     "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-5-4/",
     "college": "Borough of Manhattan Community College",
@@ -1289,6 +1309,7 @@
     "tags": [
       "CIEE",
       "Featured",
+      "Global Initiatives",
       "Study Abroad"
     ]
   },
@@ -2263,14 +2284,6 @@
   },
   {
     "title": "Online Summer Information Session for Prospective Students",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/online-summer-information-session-for-prospective-students/",
-    "college": "Macaulay Honors College",
-    "date": "2026-08-25",
-    "time": "11:00 AM - 12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Online Summer Information Session for Prospective Students",
     "link": "https://macaulay.cuny.edu/calendar-of-events/online-summer-information-session-for-prospective-students-2/",
     "college": "Macaulay Honors College",
     "date": "2026-08-26",
@@ -2332,5 +2345,204 @@
     "date": "2026-09-15",
     "time": "5:00PM",
     "tags": []
+  },
+  {
+    "title": "Pre-Career Fair Workshop & Info Session ft. Morgan Stanley",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/pre-career-fair-workshop-info-session-ft-morgan-stanley/",
+    "college": "Macaulay Honors College",
+    "date": "2026-09-18",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Faculty Chair PD & Retreat",
+    "link": "https://www.york.cuny.edu/events/Faculty-Chair-PD-Retreat-2026-08-25",
+    "college": "York College",
+    "date": "2026-08-25",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Faculty Chair Wokrshop & Retreat",
+    "link": "https://www.york.cuny.edu/events/Faculty-Chair-Wokrshop-Retreat-2026-08-25",
+    "college": "York College",
+    "date": "2026-08-25",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 25",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug25",
+    "college": "York College",
+    "date": "2026-08-25",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Department of Nursing Retreat",
+    "link": "https://www.york.cuny.edu/events/Department-of-Nursing-Retreat-2026-08-26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Department of Social Work Fall 2026 Orientation",
+    "link": "https://www.york.cuny.edu/events/Department-of-Social-Work-Fall-2026-Orientation-2026-08-26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "9:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Walk It Out Wednesdays",
+    "link": "https://www.york.cuny.edu/events/Walk-It-Out-Wednesdays-2026-08-26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "11:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "BSW Program Follow Up Session",
+    "link": "https://www.york.cuny.edu/events/BSW-Program-Follow-Up-Session-2026-08-26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "12:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 26",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "STEP Poster Presentation Event",
+    "link": "https://www.york.cuny.edu/events/STEP-Poster-Presentation-Event-2026-08-27",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "8:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "STEP Giveaway Event",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/step-giveaway-event",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "1:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 27",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug27",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/first-day-of-classes-3",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Campus Resource Tabling",
+    "link": "https://www.york.cuny.edu/events/Campus-Resource-Tabling-2026-08-28",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "10:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 28",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug28",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 29",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug29",
+    "college": "York College",
+    "date": "2026-08-29",
+    "time": "2:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "SGA Welcome To and Welcome Back Breakfast",
+    "link": "https://www.york.cuny.edu/events/SGA-Welcome-To-and-Welcome-Back-Breakfast-2026-08-31",
+    "college": "York College",
+    "date": "2026-08-31",
+    "time": "8:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "FRANTZ FANON AND THE FUTURE OF CULTURAL POLITICS",
+    "link": "https://www.gc.cuny.edu/events/frantz-fanon-and-future-cultural-politics",
+    "college": "CUNY Graduate Center",
+    "date": "2026-09-26",
+    "time": "2:00 pm",
+    "location": "5409: DGSC Meeting Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "NATIONALISM, INTERNATIONALISM, COSMOPOLITANISM WITH PARTHA CHATERJEE",
+    "link": "https://www.gc.cuny.edu/events/nationalism-internationalism-cosmopolitanism-partha-chaterjee",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-02",
+    "time": "4:30 pm",
+    "location": "TBD",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
+    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-25",
+    "time": "6:30 pm",
+    "location": "C198",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-20",
+    "time": "",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
+    "college": "CUNY Graduate Center",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
   }
 ]
