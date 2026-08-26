@@ -1764,84 +1764,6 @@
     "tags": []
   },
   {
-    "title": "Student Technology Overview Workshop",
-    "link": "https://events.cuny.edu/cec/student-technology-overview-workshop-14/",
-    "college": "College of Staten Island",
-    "date": "2026-08-26",
-    "time": "1:00 PM - 2:00 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "MFA Workshop",
-    "link": "https://events.cuny.edu/cec/mfa-workshop/",
-    "college": "College of Staten Island",
-    "date": "2026-08-28",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "Brightspace",
-    "link": "https://events.cuny.edu/cec/brightspace/",
-    "college": "College of Staten Island",
-    "date": "2026-08-28",
-    "time": "11:30 AM - 12:30 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "Technology Overview",
-    "link": "https://events.cuny.edu/cec/technology-overview/",
-    "college": "College of Staten Island",
-    "date": "2026-08-28",
-    "time": "1:00 PM - 2:00 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "BMCC Writing Center – Student Orientations",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007446",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-08-28",
-    "time": "02:00 PM - 02:30 PM",
-    "tags": []
-  },
-  {
-    "title": "MFA Workshop",
-    "link": "https://events.cuny.edu/cec/mfa-workshop-2/",
-    "college": "College of Staten Island",
-    "date": "2026-08-29",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "Brightspace",
-    "link": "https://events.cuny.edu/cec/brightspace-3/",
-    "college": "College of Staten Island",
-    "date": "2026-08-29",
-    "time": "11:30 AM - 12:30 PM",
-    "tags": [
-      "Techology Training"
-    ]
-  },
-  {
-    "title": "Student Technology Overview Workshop",
-    "link": "https://events.cuny.edu/cec/student-technology-overview-workshop-15/",
-    "college": "College of Staten Island",
-    "date": "2026-08-29",
-    "time": "1:00 PM - 2:00 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
     "title": "B&G Usage",
     "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X66",
     "college": "Queens College",
@@ -1939,7 +1861,7 @@
   },
   {
     "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA188",
+    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/ooG8985NF1hPTZshKKKL188",
     "college": "Queens College",
     "date": "2026-08-27",
     "time": "8:00AM",
@@ -2455,6 +2377,142 @@
     "college": "Macaulay Honors College",
     "date": "2026-09-18",
     "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Department of Nursing Retreat",
+    "link": "https://www.york.cuny.edu/events/Department-of-Nursing-Retreat-2026-08-26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Department of Social Work Fall 2026 Orientation",
+    "link": "https://www.york.cuny.edu/events/Department-of-Social-Work-Fall-2026-Orientation-2026-08-26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "9:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Walk It Out Wednesdays",
+    "link": "https://www.york.cuny.edu/events/Walk-It-Out-Wednesdays-2026-08-26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "11:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "BSW Program Follow Up Session",
+    "link": "https://www.york.cuny.edu/events/BSW-Program-Follow-Up-Session-2026-08-26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "12:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 26",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "STEP Poster Presentation Event",
+    "link": "https://www.york.cuny.edu/events/STEP-Poster-Presentation-Event-2026-08-27",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "8:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "STEP Giveaway Event",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/step-giveaway-event",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "1:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 27",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug27",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Adjunct Orientation",
+    "link": "https://www.york.cuny.edu/events/Adjunct-Orientation-2026-08-27",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "4:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/first-day-of-classes-3",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Campus Resource Tabling",
+    "link": "https://www.york.cuny.edu/events/Campus-Resource-Tabling-2026-08-28",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "10:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 28",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug28",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 29",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug29",
+    "college": "York College",
+    "date": "2026-08-29",
+    "time": "2:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "SGA Welcome Back Breakfast",
+    "link": "https://www.york.cuny.edu/events/SGA-Welcome-Back-Breakfast-2026-08-31",
+    "college": "York College",
+    "date": "2026-08-31",
+    "time": "8:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "SGA Welcome To and Welcome Back Breakfast",
+    "link": "https://www.york.cuny.edu/events/SGA-Welcome-To-and-Welcome-Back-Breakfast-2026-08-31",
+    "college": "York College",
+    "date": "2026-08-31",
+    "time": "8:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 31",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug31",
+    "college": "York College",
+    "date": "2026-08-31",
+    "time": "1:30 PM - 8:00 PM",
     "tags": []
   },
   {
