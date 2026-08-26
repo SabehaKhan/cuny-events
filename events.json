@@ -770,7 +770,7 @@
     "link": "https://www.laguardia.edu/event/the-u-s-constitution/",
     "college": "LaGuardia Community College",
     "date": "2026-09-17",
-    "time": "01:00 PM - 04:00 PM",
+    "time": "01:00 PM - 03:00 PM",
     "tags": [
       "all calendars",
       "Featured",
@@ -1083,6 +1083,16 @@
     ]
   },
   {
+    "title": "New Student Convocation",
+    "link": "https://www.hunter.cuny.edu/event/new-student-convocation-5/",
+    "college": "Hunter College",
+    "date": "2026-09-04",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Graduate Admissions Virtual Front Desk",
     "link": "https://www.hunter.cuny.edu/event/graduate-admissions-virtual-front-desk-5/",
     "college": "Hunter College",
@@ -1178,6 +1188,16 @@
     "time": "02:00 PM - 03:00 PM",
     "tags": [
       "Advising"
+    ]
+  },
+  {
+    "title": "Dietetic Internship Information Session (Di and MS-DI)",
+    "link": "https://www.hunter.cuny.edu/event/dietetic-internship-information-session-di-and-ms-di-2/2026-09-16/",
+    "college": "Hunter College",
+    "date": "2026-09-16",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": [
+      "Open Houses"
     ]
   },
   {
@@ -1278,37 +1298,6 @@
     "time": "01:00 PM - 02:00 PM",
     "tags": [
       "Student Events"
-    ]
-  },
-  {
-    "title": "Graduate Admissions Virtual Front Desk",
-    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-virtual-front-desk-6/",
-    "college": "Hunter College",
-    "date": "2026-09-29",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Application-Based Majors: Preparation for Social Work",
-    "link": "https://www.hunter.cuny.edu/event/application-based-majors-preparation-for-social-work/",
-    "college": "Hunter College",
-    "date": "2026-09-29",
-    "time": "12:30 PM - 01:30 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Admissions Information Session (in-person)",
-    "link": "https://www.bmcc.cuny.edu/event/admissions-information-session-in-person-5-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-08-26",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Admissions",
-      "Featured"
     ]
   },
   {
@@ -2084,6 +2073,14 @@
     "tags": []
   },
   {
+    "title": "Career Workshop: Breaking Into The Public Health Field",
+    "link": "https://sph.cuny.edu/event/career-workshop-breaking-into-the-public-health-field/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-09-23",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
     "title": "PhD Open House – Virtual",
     "link": "https://sph.cuny.edu/event/phd-open-house-virtual/",
     "college": "CUNY School of Public Health",
@@ -2229,7 +2226,7 @@
   },
   {
     "title": "Music Has Power® for Aphasia",
-    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia-1.php",
+    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia.php",
     "college": "Lehman College",
     "date": "2026-08-27",
     "time": "10:30 AM- 11:30 AM",
@@ -2237,7 +2234,7 @@
   },
   {
     "title": "Music for Veterans",
-    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans-1.php",
+    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans.php",
     "college": "Lehman College",
     "date": "2026-08-27",
     "time": "1:30 PM- 3:00 PM",
@@ -2252,8 +2249,16 @@
     "tags": []
   },
   {
+    "title": "Passport Day",
+    "link": "https://www.lehman.edu/events/2026/Passport-Day.php",
+    "college": "Lehman College",
+    "date": "2026-09-02",
+    "time": "11:30 AM- 2:30 PM",
+    "tags": []
+  },
+  {
     "title": "Music Has Power® for Aphasia",
-    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia-1.php?event_type=recurs_1",
+    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia.php?event_type=recurs_1",
     "college": "Lehman College",
     "date": "2026-09-03",
     "time": "10:30 AM- 11:30 AM",
@@ -2261,7 +2266,7 @@
   },
   {
     "title": "Music for Veterans",
-    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans-1.php?event_type=recurs_1",
+    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans.php?event_type=recurs_1",
     "college": "Lehman College",
     "date": "2026-09-03",
     "time": "1:30 PM- 3:00 PM",
@@ -2297,22 +2302,6 @@
     "college": "Lehman College",
     "date": "2026-09-09",
     "time": "5:00 PM- 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Music Has Power® for Aphasia",
-    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia-1.php?event_type=recurs_2",
-    "college": "Lehman College",
-    "date": "2026-09-10",
-    "time": "10:30 AM- 11:30 AM",
-    "tags": []
-  },
-  {
-    "title": "Online Summer Information Session for Prospective Students",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/online-summer-information-session-for-prospective-students-2/",
-    "college": "Macaulay Honors College",
-    "date": "2026-08-26",
-    "time": "2:00PM",
     "tags": []
   },
   {
@@ -2364,6 +2353,14 @@
     "tags": []
   },
   {
+    "title": "My Musical Life: A Conversation and Performance",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/my-musical-life/",
+    "college": "Macaulay Honors College",
+    "date": "2026-09-14",
+    "time": "6:30PM",
+    "tags": []
+  },
+  {
     "title": "Prepare for the Fair: Resume Rush",
     "link": "https://macaulay.cuny.edu/calendar-of-events/prepare-for-the-fair-resume-rush/",
     "college": "Macaulay Honors College",
@@ -2377,6 +2374,142 @@
     "college": "Macaulay Honors College",
     "date": "2026-09-18",
     "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Department of Nursing Retreat",
+    "link": "https://www.york.cuny.edu/events/Department-of-Nursing-Retreat-2026-08-26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Department of Social Work Fall 2026 Orientation",
+    "link": "https://www.york.cuny.edu/events/Department-of-Social-Work-Fall-2026-Orientation-2026-08-26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "9:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Walk It Out Wednesdays",
+    "link": "https://www.york.cuny.edu/events/Walk-It-Out-Wednesdays-2026-08-26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "11:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "BSW Program Follow Up Session",
+    "link": "https://www.york.cuny.edu/events/BSW-Program-Follow-Up-Session-2026-08-26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "12:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 26",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug26",
+    "college": "York College",
+    "date": "2026-08-26",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "STEP Poster Presentation Event",
+    "link": "https://www.york.cuny.edu/events/STEP-Poster-Presentation-Event-2026-08-27",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "8:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "STEP Giveaway Event",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/step-giveaway-event",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "1:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 27",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug27",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Adjunct Orientation",
+    "link": "https://www.york.cuny.edu/events/Adjunct-Orientation-2026-08-27",
+    "college": "York College",
+    "date": "2026-08-27",
+    "time": "4:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "First day of classes",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/first-day-of-classes-3",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Campus Resource Tabling",
+    "link": "https://www.york.cuny.edu/events/Campus-Resource-Tabling-2026-08-28",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "10:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 28",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug28",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-08-28",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 29",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug29",
+    "college": "York College",
+    "date": "2026-08-29",
+    "time": "2:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "SGA Welcome Back Breakfast",
+    "link": "https://www.york.cuny.edu/events/SGA-Welcome-Back-Breakfast-2026-08-31",
+    "college": "York College",
+    "date": "2026-08-31",
+    "time": "8:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "SGA Welcome To and Welcome Back Breakfast",
+    "link": "https://www.york.cuny.edu/events/SGA-Welcome-To-and-Welcome-Back-Breakfast-2026-08-31",
+    "college": "York College",
+    "date": "2026-08-31",
+    "time": "8:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Aug 31",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug31",
+    "college": "York College",
+    "date": "2026-08-31",
+    "time": "1:30 PM - 8:00 PM",
     "tags": []
   },
   {
