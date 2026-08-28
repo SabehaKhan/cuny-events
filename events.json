@@ -1,15 +1,5 @@
 [
   {
-    "title": "Raksha Bandhan",
-    "link": "https://www.mec.cuny.edu/event/raksha-bandhan-2026/",
-    "college": "Medgar Evers College",
-    "date": "2026-08-27",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": [
-      "Religous and Ethnic Holidays"
-    ]
-  },
-  {
     "title": "Community Health Fair",
     "link": "https://www.mec.cuny.edu/event/community-health-fair/",
     "college": "Medgar Evers College",
@@ -83,6 +73,19 @@
     ]
   },
   {
+    "title": "Heightened Security - A Film Screening and Community Discussion",
+    "link": "https://www.law.cuny.edu/event/heightened-security-a-film-screening-and-community-discussion/",
+    "college": "CUNY School of Law",
+    "date": "2026-10-19",
+    "time": "06:00 PM - 08:30 PM",
+    "tags": [
+      "Alumni",
+      "Panel Discussion",
+      "Special Event",
+      "Student"
+    ]
+  },
+  {
     "title": "Admissions: Personal Statement Workshop - In Person",
     "link": "https://www.law.cuny.edu/event/admissions-personal-statement-workshop-in-person/",
     "college": "CUNY School of Law",
@@ -125,14 +128,6 @@
       "Alumni",
       "Networking Event"
     ]
-  },
-  {
-    "title": "Building a Safety Mindset Into Your Newsroom: A Practical Planning Session",
-    "link": "https://www.journalism.cuny.edu/events/building-a-safety-mindset-into-your-newsroom-a-practical-planning-session/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-08-27",
-    "time": "02:00 PM - 02:00 PM",
-    "tags": []
   },
   {
     "title": "Film Screening: Steal This Story, Please! with Amy Goodman",
@@ -1349,6 +1344,19 @@
     ]
   },
   {
+    "title": "CUNY Internship Programs Prep Session",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-internship-programs-prep-session/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-08",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured",
+      "Internships & Experiential Learning"
+    ]
+  },
+  {
     "title": "Get Ready for the Job Fair with a Prep Workshop",
     "link": "https://www.bmcc.cuny.edu/event/job-fair-prep-workshop/",
     "college": "Borough of Manhattan Community College",
@@ -1357,6 +1365,18 @@
     "tags": [
       "Center for Career Development",
       "Featured"
+    ]
+  },
+  {
+    "title": "Welcome Back Super Fair",
+    "link": "https://www.bmcc.cuny.edu/event/welcome-back-super-fair/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-08",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Featured",
+      "New Student Programs",
+      "Student Affairs"
     ]
   },
   {
@@ -1449,6 +1469,21 @@
       "CUNY in The Heights",
       "Evening-Weekend",
       "Featured"
+    ]
+  },
+  {
+    "title": "Healing Rhythms: Drumming Circle",
+    "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle-8/2026-09-16/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-16",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Music & Art",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Student Affairs"
     ]
   },
   {
@@ -1759,6 +1794,14 @@
     "tags": []
   },
   {
+    "title": "VPs & Deans",
+    "link": "https://www.bcc.cuny.edu/event/vps-deans/2026-09-16/",
+    "college": "Bronx Community College",
+    "date": "2026-09-16",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "MFA Workshop",
     "link": "https://events.cuny.edu/cec/mfa-workshop/",
     "college": "College of Staten Island",
@@ -1858,86 +1901,6 @@
   },
   {
     "title": "B&G Usage",
-    "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X67",
-    "college": "Queens College",
-    "date": "2026-08-27",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "QC Welcome Day",
-    "link": "https://qc.event.cuny.edu/events/rTWD4QEOyeX02bsqxrGJ/M6WAtHFLYrTvQnsG38hJ",
-    "college": "Queens College",
-    "date": "2026-08-27",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "Welcome Day and ID card distribution",
-    "link": "https://qc.event.cuny.edu/events/AbcKHWunOHba3e2LuQCu/PZUEe5GHJ72iBwHFxtH0",
-    "college": "Queens College",
-    "date": "2026-08-27",
-    "time": "7:00AM",
-    "tags": []
-  },
-  {
-    "title": "Honors Orientation",
-    "link": "https://qc.event.cuny.edu/events/sBFQsRMABxPwzaWfbImY/U88Vr7PyI4njlukC8ysn",
-    "college": "Queens College",
-    "date": "2026-08-27",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Math Lab Relocation",
-    "link": "https://qc.event.cuny.edu/events/AuJCKA8afCfpWYnJNi0h/VCdZEimkNnyjzep36dkA188",
-    "college": "Queens College",
-    "date": "2026-08-27",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "OIT--tech repair",
-    "link": "https://qc.event.cuny.edu/events/qFpB1koUoPX5LZKGLJaW/kXHzuFwHlKFvdBOmQbmb",
-    "college": "Queens College",
-    "date": "2026-08-27",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "First-Year Writing Faculty Orientation",
-    "link": "https://qc.event.cuny.edu/events/xtU06ponG0g2BOWY4VwI/HkwbCdrPGXyMNbSnM7KU",
-    "college": "Queens College",
-    "date": "2026-08-27",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Health Insurance Outreach",
-    "link": "https://qc.event.cuny.edu/events/ZAm76Hyq7fsdp5eRlsz9/zF0kBrTExjG0PychypD5",
-    "college": "Queens College",
-    "date": "2026-08-27",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "College Now Fall 2026 Student Orientation",
-    "link": "https://qc.event.cuny.edu/events/OWoZYEBr9KHjl0MXXBbt/JMzdU4PnVZCCfiAP6sZQ",
-    "college": "Queens College",
-    "date": "2026-08-27",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "School of Education: Graduate Orientation",
-    "link": "https://qc.event.cuny.edu/events/Xb4TX7RRORtYXRQ9HBbM/T5q32Bmt2DFWWUEejahR",
-    "college": "Queens College",
-    "date": "2026-08-27",
-    "time": "4:00PM",
-    "tags": []
-  },
-  {
-    "title": "B&G Usage",
     "link": "https://qc.event.cuny.edu/events/QX5gXsvgLP42bXdVmzB7/axoo8dcyL9YZC9vi3y9X68",
     "college": "Queens College",
     "date": "2026-08-28",
@@ -1950,6 +1913,14 @@
     "college": "Queens College",
     "date": "2026-08-28",
     "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "IT Trainning",
+    "link": "https://qc.event.cuny.edu/events/TrOVL5YWQxocrFsFFoZz/ac6iO6Mu8Xu5MaITbAQn",
+    "college": "Queens College",
+    "date": "2026-08-28",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -1966,6 +1937,62 @@
     "college": "Queens College",
     "date": "2026-08-31",
     "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "QC Office of Student Development and Leadership - Dunkin Donuts Free Giveaways",
+    "link": "https://qc.event.cuny.edu/events/A3sh01svJ7RTPM11yE8q/KVjwihBHzltyKvAbUVcl",
+    "college": "Queens College",
+    "date": "2026-08-31",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Learning Commons Workshops",
+    "link": "https://qc.event.cuny.edu/events/jexWsnPBpj4VSiMUkO1s/Cn7aGNHiTu5OSfZgxFtw1",
+    "college": "Queens College",
+    "date": "2026-08-31",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Math Dept Review Sessions",
+    "link": "https://qc.event.cuny.edu/events/YQS7FA7iXKZZR0SuInVQ/SOgtYCRJ7PuGAOlo0VgQ1",
+    "college": "Queens College",
+    "date": "2026-08-31",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Santander's Bank",
+    "link": "https://qc.event.cuny.edu/events/gJ4JPYJHYOrHveEQn3TY/wnEmZ9yAbaTeBjRgaeeh",
+    "college": "Queens College",
+    "date": "2026-09-01",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Student Success Tabling for New Students",
+    "link": "https://qc.event.cuny.edu/events/lBnvKk9e9jJTJlhdOFto/S20UikExs2bzyLSyd8uF",
+    "college": "Queens College",
+    "date": "2026-09-01",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "Athletics Dept.",
+    "link": "https://qc.event.cuny.edu/events/qUh9C9nRDAcs4aNXEqPk/ZEMLqBrcizgD2ZI8AFJl",
+    "college": "Queens College",
+    "date": "2026-09-02",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "OSDL- Knights Table - Harvest Fest",
+    "link": "https://qc.event.cuny.edu/events/ojrjcH2qIjVm1TaoXzqm/hZhRY1xCo3LPLhZyqPPq",
+    "college": "Queens College",
+    "date": "2026-09-02",
+    "time": "10:00AM",
     "tags": []
   },
   {
@@ -2001,43 +2028,11 @@
     "tags": []
   },
   {
-    "title": "Prospect Schools Second Event - External Event",
-    "link": "https://citytech.event.cuny.edu/events/UJ9M05yIr7nTtyPr3XBL/mS0T5hnxW7L1FQWIvgBZ4",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-27",
-    "time": "7:30AM",
-    "tags": []
-  },
-  {
-    "title": "Refocus & Rise: An Academic Recovery Workshop",
-    "link": "https://citytech.event.cuny.edu/events/zrRb60DegCPFvLheN7vt/Zk38mnEYGZTpo6UDgfh9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-27",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "SLD Ambassador Orientation",
-    "link": "https://citytech.event.cuny.edu/events/tsARFFvKbdlwiDhJmVLl/H47GrYzfPSldSktLynd7",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-27",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "Student Organization Workshop",
-    "link": "https://citytech.event.cuny.edu/events/ercfYTdGfRoz0A5tlE9N/Z86NP6SlrN8VKVg0ahh6",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-27",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "JFEW Scholarship Program Orientation",
-    "link": "https://citytech.event.cuny.edu/events/ucS6DbnBDeNBNlVgdXHa/r9uEjjPLCN66LK1wnPUh",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-08-27",
-    "time": "1:00PM",
+    "title": "Academic Calendar - Fall Regular Session: Verification of Enrollment Rosters Available to faculty",
+    "link": "https://baruch.event.cuny.edu/events/WJSt5k1MnEYQ5v30hLCy/w9tsQxlYS0RbUswOoaqn",
+    "college": "Baruch College",
+    "date": "2026-09-04",
+    "time": "",
     "tags": []
   },
   {
@@ -2109,6 +2104,38 @@
     "link": "https://citytech.event.cuny.edu/events/muTYISUzAXo4nD2TqE5A/tXEbplb44qgRTYAQbjo3",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-09-03",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Student Organization Workshop",
+    "link": "https://citytech.event.cuny.edu/events/mQYiKQ6hAYax4CsiGIbz/CSVlUmXjbidjYUpRIR5m",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-03",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "SLD Informational Session #1",
+    "link": "https://citytech.event.cuny.edu/events/vZxkqKYl3GGdghBb3fHg/KOA4jaCCK2BSYjXpwNyu",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-03",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK workshops",
+    "link": "https://citytech.event.cuny.edu/events/NViE3ngU4SGGqP5ZG9Tz/rdWjONoHIdz8nL14ngeL1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-03",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment (VOE) Rosters available to faculty",
+    "link": "https://citytech.event.cuny.edu/events/aN1onXIFRki7MdcPiGJw/W8auwzmz5cIv4EbBli57",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-04",
     "time": "",
     "tags": []
   },
@@ -2313,22 +2340,6 @@
     "tags": []
   },
   {
-    "title": "Music Has Power® for Aphasia",
-    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia-1.php",
-    "college": "Lehman College",
-    "date": "2026-08-27",
-    "time": "10:30 AM- 11:30 AM",
-    "tags": []
-  },
-  {
-    "title": "Music for Veterans",
-    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans-1.php",
-    "college": "Lehman College",
-    "date": "2026-08-27",
-    "time": "1:30 PM- 3:00 PM",
-    "tags": []
-  },
-  {
     "title": "Dance Theatre of Harlem",
     "link": "https://www.lehman.edu/events/2026/Dance-Theatre-of-Harlem.php",
     "college": "Lehman College",
@@ -2346,7 +2357,7 @@
   },
   {
     "title": "Music Has Power® for Aphasia",
-    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia-1.php?event_type=recurs_1",
+    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia.php?event_type=recurs_1",
     "college": "Lehman College",
     "date": "2026-09-03",
     "time": "10:30 AM- 11:30 AM",
@@ -2354,7 +2365,7 @@
   },
   {
     "title": "Music for Veterans",
-    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans-1.php?event_type=recurs_1",
+    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans.php?event_type=recurs_1",
     "college": "Lehman College",
     "date": "2026-09-03",
     "time": "1:30 PM- 3:00 PM",
@@ -2393,14 +2404,6 @@
     "tags": []
   },
   {
-    "title": "Weeks of Welcome",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/weeks-of-welcome/",
-    "college": "Macaulay Honors College",
-    "date": "2026-08-27",
-    "time": "1:30PM",
-    "tags": []
-  },
-  {
     "title": "Macaulay BioBlitz at Willowbrook Park on Staten Island",
     "link": "https://macaulay.cuny.edu/calendar-of-events/bioblitz/",
     "college": "Macaulay Honors College",
@@ -2409,7 +2412,7 @@
     "tags": []
   },
   {
-    "title": "Online Summer Information Session for Prospective Students",
+    "title": "Summer Information Session – How to Apply",
     "link": "https://macaulay.cuny.edu/calendar-of-events/online-summer-information-session-for-prospective-students-4/",
     "college": "Macaulay Honors College",
     "date": "2026-08-31",
@@ -2425,7 +2428,7 @@
     "tags": []
   },
   {
-    "title": "In-Person – Information Session for Prospective Students",
+    "title": "Online – Information Session for Prospective Students",
     "link": "https://macaulay.cuny.edu/calendar-of-events/in-person-information-session-for-prospective-students/",
     "college": "Macaulay Honors College",
     "date": "2026-09-14",
@@ -2473,38 +2476,6 @@
     "tags": []
   },
   {
-    "title": "STEP Poster Presentation Event",
-    "link": "https://www.york.cuny.edu/events/STEP-Poster-Presentation-Event-2026-08-27",
-    "college": "York College",
-    "date": "2026-08-27",
-    "time": "8:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "STEP Giveaway Event",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/step-giveaway-event",
-    "college": "York College",
-    "date": "2026-08-27",
-    "time": "1:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Aug 27",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-aug27",
-    "college": "York College",
-    "date": "2026-08-27",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Adjunct Orientation",
-    "link": "https://www.york.cuny.edu/events/Adjunct-Orientation-2026-08-27",
-    "college": "York College",
-    "date": "2026-08-27",
-    "time": "4:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
     "title": "First day of classes",
     "link": "https://www.york.cuny.edu/registrar/calendar/fall/first-day-of-classes-3",
     "college": "York College",
@@ -2526,14 +2497,6 @@
     "college": "York College",
     "date": "2026-08-28",
     "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-08-28",
-    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -2606,6 +2569,14 @@
     "college": "York College",
     "date": "2026-09-01",
     "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-09-02",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
