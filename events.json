@@ -52,6 +52,16 @@
     ]
   },
   {
+    "title": "MuBANY: How Did I Get Here? A Fireside Chat with Ali Najmi",
+    "link": "https://www.law.cuny.edu/event/mubany-how-did-i-get-here-a-fireside-chat-with-ali-najmi/",
+    "college": "CUNY School of Law",
+    "date": "2026-10-01",
+    "time": "06:00 PM - 09:00 PM",
+    "tags": [
+      "Panel Discussion"
+    ]
+  },
+  {
     "title": "CUNY Law Alumni Connection Series",
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-oct26/",
     "college": "CUNY School of Law",
@@ -178,6 +188,16 @@
     "tags": []
   },
   {
+    "title": "Virtual Information Session",
+    "link": "https://www.journalism.cuny.edu/events/virtual-information-session/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-09-09",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
     "title": "Resume Strategies: Tips to Get You Noticed",
     "link": "https://www.journalism.cuny.edu/events/resume-strategies-tips-to-get-you-noticed/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -202,6 +222,16 @@
     "tags": []
   },
   {
+    "title": "Tips for Applying",
+    "link": "https://www.journalism.cuny.edu/events/tips-for-applying-6/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-09-22",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
     "title": "Digital Oblivion: How Autocrats Engineer Forgetting",
     "link": "https://www.journalism.cuny.edu/events/digital-oblivion-how-autocrats-engineer-forgetting/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -218,12 +248,42 @@
     "tags": []
   },
   {
+    "title": "On-Campus Information Session",
+    "link": "https://www.journalism.cuny.edu/events/on-campus-information-sessions/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-09-24",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "Tips for Applying",
+    "link": "https://www.journalism.cuny.edu/events/tips-for-applying-5/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-10-05",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
     "title": "Making the Most of the Networking & Career Fair",
     "link": "https://www.journalism.cuny.edu/events/making-the-most-of-the-networking-career-fair/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2026-10-13",
     "time": "01:00 PM - 02:00 PM",
     "tags": []
+  },
+  {
+    "title": "On-Campus Information Session",
+    "link": "https://www.journalism.cuny.edu/events/on-campus-information-session/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-10-13",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
   },
   {
     "title": "Latino Media Summit 2026",
@@ -256,6 +316,86 @@
     "date": "2026-10-27",
     "time": "01:00 PM - 02:00 PM",
     "tags": []
+  },
+  {
+    "title": "Virtual Information Session",
+    "link": "https://www.journalism.cuny.edu/events/virtual-information-session-2/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-11-10",
+    "time": "01:00 PM - 01:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "Open House",
+    "link": "https://www.journalism.cuny.edu/events/open-house-2/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-11-19",
+    "time": "05:30 PM - 05:30 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "Tips for Applying",
+    "link": "https://www.journalism.cuny.edu/events/tips-for-applying-4/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-01",
+    "time": "01:00 PM - 01:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "On-Campus Information Session",
+    "link": "https://www.journalism.cuny.edu/events/on-campus-information-session-2/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-10",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "Virtual Information Session",
+    "link": "https://www.journalism.cuny.edu/events/virtual-information-session-3/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-01-14",
+    "time": "01:00 PM - 01:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "Tips for Applying",
+    "link": "https://www.journalism.cuny.edu/events/tips-for-applying-2/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-01-26",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "Tips for Applying",
+    "link": "https://www.journalism.cuny.edu/events/tips-for-applying-3/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-02-09",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "On-Campus Information Session",
+    "link": "https://www.journalism.cuny.edu/events/on-campus-information-session-3/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-02-11",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
   },
   {
     "title": "Transfer Out 101",
@@ -395,7 +535,7 @@
   },
   {
     "title": "CUNY Transfer Application Workshop",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/c9211585-a2d2-4caa-810e-0be49fd2ce11",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/372a304e-6428-4e71-a4ce-528c45d1bd73",
     "college": "Kingsborough Community College",
     "date": "2026-11-10",
     "time": "09:00 PM - 09:00 PM",
@@ -616,17 +756,6 @@
     "date": "2026-10-27",
     "time": "09:30 PM - 09:30 PM",
     "tags": []
-  },
-  {
-    "title": "Baruch Business Academy Virtual Information Session",
-    "link": "https://www.laguardia.edu/event/baruch-business-academy-virtual-information-session-22/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-01",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
   },
   {
     "title": "Baruch Business Academy Virtual Information Session",
@@ -935,29 +1064,15 @@
     ]
   },
   {
-    "title": "LOL Musical Bingo Challenge",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377337",
-    "college": "Guttman Community College",
-    "date": "2026-09-15",
-    "time": "05:15 PM - 06:45 PM",
+    "title": "Got Something on your Mind?",
+    "link": "https://www.laguardia.edu/event/got-something-on-your-mind-2/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-23",
+    "time": "03:30 PM - 05:00 PM",
     "tags": [
-      "OSL",
-      "Social",
-      "Weeks Of Welcome",
-      "Student Life"
-    ]
-  },
-  {
-    "title": "Student Organization Club Fair",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377383",
-    "college": "Guttman Community College",
-    "date": "2026-09-22",
-    "time": "05:15 AM - 06:45 PM",
-    "tags": [
-      "OSL",
-      "Social",
-      "Student Life",
-      "Weeks Of Welcome"
+      "all calendars",
+      "Featured",
+      "student events"
     ]
   },
   {
@@ -1028,20 +1143,6 @@
     ]
   },
   {
-    "title": "Student Government Association Town Hall",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377384",
-    "college": "Guttman Community College",
-    "date": "2026-10-06",
-    "time": "05:15 PM - 06:45 PM",
-    "tags": [
-      "OSL",
-      "Meeting",
-      "Student Life",
-      "Food - Lunch",
-      "Weeks Of Welcome"
-    ]
-  },
-  {
     "title": "Conexiones",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377319",
     "college": "Guttman Community College",
@@ -1069,22 +1170,6 @@
     ]
   },
   {
-    "title": "Spooky Annual Halloween Party",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377385",
-    "college": "Guttman Community College",
-    "date": "2026-10-29",
-    "time": "10:00 PM - 01:00 AM",
-    "tags": [
-      "SGA",
-      "Social",
-      "Food - Dinner",
-      "Food - Light Refreshments",
-      "Student Life",
-      "SGA",
-      "Weeks Of Welcome"
-    ]
-  },
-  {
     "title": "Avengers Assemble! A UMOC Movie Meetup",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377341",
     "college": "Guttman Community College",
@@ -1096,24 +1181,6 @@
       "United Men of Color",
       "Off-Campus"
     ]
-  },
-  {
-    "title": "Welcome Week: Churros and Ice Cream Social",
-    "link": "https://www.hunter.cuny.edu/event/welcome-week-churros-and-ice-cream-social/",
-    "college": "Hunter College",
-    "date": "2026-09-01",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Graduate Admissions Information Session",
-    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-43/",
-    "college": "Hunter College",
-    "date": "2026-09-01",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": []
   },
   {
     "title": "Welcome Week: Breakfast for Dinner",
@@ -1164,6 +1231,14 @@
     "tags": [
       "Student Events"
     ]
+  },
+  {
+    "title": "Physics & Astronomy 'Meet & Greet + Lunch & Learn' Event",
+    "link": "https://www.hunter.cuny.edu/event/physics-astronomy-meet-greet-lunch-learn-event/",
+    "college": "Hunter College",
+    "date": "2026-09-09",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "Welcome Week: Carnival Club Fair",
@@ -1237,6 +1312,16 @@
     "college": "Hunter College",
     "date": "2026-09-14",
     "time": "06:00 PM - 07:30 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
+    "title": "Library & Archives Lunch Hour - Cold War Puerto Rico: Anti-Communism in Was",
+    "link": "https://www.hunter.cuny.edu/event/library-archives-lunch-hour-cold-war-puerto-rico-anti-communism-in-was/",
+    "college": "Hunter College",
+    "date": "2026-09-15",
+    "time": "12:00 PM - 01:00 PM",
     "tags": [
       "Lectures"
     ]
@@ -1331,6 +1416,16 @@
     "tags": []
   },
   {
+    "title": "Share this event  CENTRO Open House",
+    "link": "https://www.hunter.cuny.edu/event/share-this-event-centro-open-house/",
+    "college": "Hunter College",
+    "date": "2026-09-24",
+    "time": "03:00 PM - 05:30 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
     "title": "Campus Navigation: Global Class Search and Degree Maps",
     "link": "https://www.hunter.cuny.edu/event/campus-navigation-global-class-search-and-degree-maps/",
     "college": "Hunter College",
@@ -1360,16 +1455,6 @@
       "Lectures",
       "Performing Arts & Film",
       "Student Events"
-    ]
-  },
-  {
-    "title": "Bachelor of Science in Nursing Generic Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-14/",
-    "college": "Hunter College",
-    "date": "2026-09-25",
-    "time": "04:00 PM - 05:30 PM",
-    "tags": [
-      "Open Houses"
     ]
   },
   {
@@ -1416,6 +1501,17 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-09-02",
     "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "Virtual Information Session: Understanding F1 Student Status Changes",
+    "link": "https://www.bmcc.cuny.edu/event/virtual-information-session-understanding-f1-student-status-changes/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-03",
+    "time": "03:00 PM - 05:00 PM",
     "tags": [
       "Featured",
       "International Student Events/Workshops"
@@ -1774,31 +1870,6 @@
     ]
   },
   {
-    "title": "CUNY BMCC Career Day 2 (Virtual): Government, Legal, Law Enforcement and Public Service",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-bmcc-career-day-2-virtual-government-legal-law-enforcement-and-public-service/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-30",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Criminal Justice",
-      "Featured",
-      "Human Services and Criminal Justice",
-      "Pre-law",
-      "Social Sciences",
-      "Human Services and Criminal Justice"
-    ]
-  },
-  {
-    "title": "Curriculum",
-    "link": "https://www.bcc.cuny.edu/event/curriculum/2026-09-01/",
-    "college": "Bronx Community College",
-    "date": "2026-09-01",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Governance & Elections",
     "link": "https://www.bcc.cuny.edu/event/governance-elections/2026-09-08/",
     "college": "Bronx Community College",
@@ -1908,6 +1979,20 @@
     ]
   },
   {
+    "title": "Fall 2026 Census date – Form-A Cutoff",
+    "link": "https://www.bcc.cuny.edu/event/fall-2026-census-date-form-a-cutoff/",
+    "college": "Bronx Community College",
+    "date": "2026-09-17",
+    "time": "11:59 PM - 11:59 PM",
+    "tags": [
+      "Academic Calendar",
+      "Deadlines",
+      "Enrollment Management & Retention",
+      "Feature",
+      "Office of the Registrar"
+    ]
+  },
+  {
     "title": "MFA Workshop",
     "link": "https://events.cuny.edu/cec/mfa-workshop-6/",
     "college": "College of Staten Island",
@@ -1944,14 +2029,6 @@
     "tags": [
       "Technology Training"
     ]
-  },
-  {
-    "title": "BMCC Writing Center – Student Orientations",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007449",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-01",
-    "time": "11:00 AM - 11:30 AM",
-    "tags": []
   },
   {
     "title": "Biochemistry Seminar: Pranam Chatterjee, “Designing Programmable Biologics with Generative Sequence Models”",
@@ -1991,6 +2068,16 @@
     "time": "3:00 PM - 4:00 PM",
     "tags": [
       "Technology Training"
+    ]
+  },
+  {
+    "title": "International Coffee Hour",
+    "link": "https://events.cuny.edu/cec/international-coffee-hour/",
+    "college": "College of Staten Island",
+    "date": "2026-09-03",
+    "time": "4:00 PM - 5:00 PM",
+    "tags": [
+      "Center for Global Engagement"
     ]
   },
   {
@@ -2575,6 +2662,118 @@
     "college": "Macaulay Honors College",
     "date": "2026-10-06",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Summer 2026 Degree Conferral Date",
+    "link": "https://www.york.cuny.edu/registrar/calendar/summer/summer-2026-degree-conferral-date",
+    "college": "York College",
+    "date": "2026-09-01",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "SGA Welcome Back Breakfast",
+    "link": "https://www.york.cuny.edu/events/SGA-Welcome-Back-Breakfast-2026-09-01",
+    "college": "York College",
+    "date": "2026-09-01",
+    "time": "8:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
+    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-01",
+    "college": "York College",
+    "date": "2026-09-01",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Student-Athlete Orientation",
+    "link": "https://www.york.cuny.edu/events/Student-Athlete-Orientation-2026-09-01",
+    "college": "York College",
+    "date": "2026-09-01",
+    "time": "12:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
+    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-02",
+    "college": "York College",
+    "date": "2026-09-02",
+    "time": "12:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Sep 2",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep2",
+    "college": "York College",
+    "date": "2026-09-02",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-09-02",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Soccer vs. Sarah Lawrence College",
+    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-sarah-lawrence-09022026",
+    "college": "York College",
+    "date": "2026-09-02",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Financial Aid Certification Enrollment Status date",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/financial-aid-certification-enrollment-status-date-2",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
+    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-03",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP | ACE Summer Institute",
+    "link": "https://www.york.cuny.edu/events/ASAP-ACE-Summer-Institute-2026-09-03",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "12:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "OSA / SGA Welcome Back & Resources Party",
+    "link": "https://www.york.cuny.edu/events/OSA-SGA-Welcome-Back-Resources-Party-2026-09-03",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "12:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Sep 3",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep3",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Library workshop on textbooks",
+    "link": "https://www.york.cuny.edu/events/library-workshop-on-textbooks",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "4:45 PM - 5:45 PM",
     "tags": []
   },
   {
