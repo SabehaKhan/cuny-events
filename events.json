@@ -848,8 +848,8 @@
     ]
   },
   {
-    "title": "Poolside - Vision Board",
-    "link": "https://www.laguardia.edu/event/poolside-vision-board/",
+    "title": "Vision Board",
+    "link": "https://www.laguardia.edu/event/vision-board-2/",
     "college": "LaGuardia Community College",
     "date": "2026-09-22",
     "time": "02:00 PM - 04:00 PM",
@@ -912,6 +912,17 @@
     "tags": []
   },
   {
+    "title": "Faculty Training: T-REX CUNY Equivalency Review Module (ERM)",
+    "link": "https://www.laguardia.edu/event/faculty-training-t-rex-cuny-equivalency-review-module-erm/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-23",
+    "time": "12:00 PM - 01:30 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff"
+    ]
+  },
+  {
     "title": "Student Resources Fair",
     "link": "https://www.laguardia.edu/event/student-resources-fair/",
     "college": "LaGuardia Community College",
@@ -924,15 +935,29 @@
     ]
   },
   {
-    "title": "Got Something on your Mind?",
-    "link": "https://www.laguardia.edu/event/got-something-on-your-mind-2/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-23",
-    "time": "03:30 PM - 05:00 PM",
+    "title": "LOL Musical Bingo Challenge",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377337",
+    "college": "Guttman Community College",
+    "date": "2026-09-15",
+    "time": "05:15 PM - 06:45 PM",
     "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
+      "OSL",
+      "Social",
+      "Weeks Of Welcome",
+      "Student Life"
+    ]
+  },
+  {
+    "title": "Student Organization Club Fair",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377383",
+    "college": "Guttman Community College",
+    "date": "2026-09-22",
+    "time": "05:15 AM - 06:45 PM",
+    "tags": [
+      "OSL",
+      "Social",
+      "Student Life",
+      "Weeks Of Welcome"
     ]
   },
   {
@@ -1003,6 +1028,20 @@
     ]
   },
   {
+    "title": "Student Government Association Town Hall",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377384",
+    "college": "Guttman Community College",
+    "date": "2026-10-06",
+    "time": "05:15 PM - 06:45 PM",
+    "tags": [
+      "OSL",
+      "Meeting",
+      "Student Life",
+      "Food - Lunch",
+      "Weeks Of Welcome"
+    ]
+  },
+  {
     "title": "Conexiones",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377319",
     "college": "Guttman Community College",
@@ -1027,6 +1066,22 @@
       "Social",
       "Food - Lunch",
       "Immigrant Student Success"
+    ]
+  },
+  {
+    "title": "Spooky Annual Halloween Party",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377385",
+    "college": "Guttman Community College",
+    "date": "2026-10-29",
+    "time": "10:00 PM - 01:00 AM",
+    "tags": [
+      "SGA",
+      "Social",
+      "Food - Dinner",
+      "Food - Light Refreshments",
+      "Student Life",
+      "SGA",
+      "Weeks Of Welcome"
     ]
   },
   {
@@ -1318,21 +1373,11 @@
     ]
   },
   {
-    "title": "Campus Navigation: 2nd Year and Beyond",
-    "link": "https://www.hunter.cuny.edu/event/campus-navigation-2nd-year-and-beyond/",
-    "college": "Hunter College",
-    "date": "2026-09-28",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "BMCC Writing Center - Student Orientations",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-student-orientations-3/2026-09-01/",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-student-orientations-3/2026-09-02/",
     "college": "Borough of Manhattan Community College",
-    "date": "2026-09-01",
-    "time": "11:00 AM - 11:30 AM",
+    "date": "2026-09-02",
+    "time": "12:00 PM - 12:30 PM",
     "tags": [
       "Academic Affairs",
       "Academic Literacy and Linguistics",
@@ -1387,6 +1432,19 @@
       "Featured",
       "Student Affairs",
       "Women's Resource Center"
+    ]
+  },
+  {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-5/2026-09-08/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-08",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Health Services",
+      "Student Affairs"
     ]
   },
   {
@@ -1678,6 +1736,18 @@
     ]
   },
   {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-6/2026-09-28/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-28",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Health Services"
+    ]
+  },
+  {
     "title": "Crafting Your Future: Resume and Cover Letter Workshop",
     "link": "https://www.bmcc.cuny.edu/event/crafting-your-future-resume-and-cover-letter-workshop-4/",
     "college": "Borough of Manhattan Community College",
@@ -1718,37 +1788,6 @@
       "Pre-law",
       "Social Sciences",
       "Human Services and Criminal Justice"
-    ]
-  },
-  {
-    "title": "CUNY BMCC Career Day 3: Business, STEM, and Health Professions",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-bmcc-career-day-3-business-stem-and-health-professions/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-07",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "Allied Health Sciences",
-      "Business Management",
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Computer Information Systems",
-      "Featured",
-      "Health Education",
-      "Math",
-      "Science"
-    ]
-  },
-  {
-    "title": "Women in Business Employer Panel (Non-Traditional Career Series)",
-    "link": "https://www.bmcc.cuny.edu/event/women-in-business-employer-panel-non-traditional-career-series/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-22",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "Business Management",
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
     ]
   },
   {
@@ -1971,27 +2010,11 @@
     "tags": []
   },
   {
-    "title": "OSDL- Knights Table - Harvest Fest",
-    "link": "https://qc.event.cuny.edu/events/ojrjcH2qIjVm1TaoXzqm/hZhRY1xCo3LPLhZyqPPq",
-    "college": "Queens College",
-    "date": "2026-09-02",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
     "title": "Student Success Tabling for New Students",
     "link": "https://qc.event.cuny.edu/events/lBnvKk9e9jJTJlhdOFto/LOlULqumwjiNQvkGD7Yp",
     "college": "Queens College",
     "date": "2026-09-02",
     "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "CIE Team Events",
-    "link": "https://qc.event.cuny.edu/events/Q0DqLfzqFKyPWKtqyW1D/IM1953tlCHEeyM4SqII2",
-    "college": "Queens College",
-    "date": "2026-09-02",
-    "time": "11:45AM",
     "tags": []
   },
   {
@@ -2019,14 +2042,6 @@
     "tags": []
   },
   {
-    "title": "Economics Seminar",
-    "link": "https://qc.event.cuny.edu/events/vIIVACTpCJa9wtChyGRJ/HSeYgty2447oasuNvEFD1",
-    "college": "Queens College",
-    "date": "2026-09-02",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
     "title": "Math Dept Review Sessions",
     "link": "https://qc.event.cuny.edu/events/YQS7FA7iXKZZR0SuInVQ/u43J7l2KV54kJJFaV9e32",
     "college": "Queens College",
@@ -2039,6 +2054,30 @@
     "link": "https://qc.event.cuny.edu/events/Wt5n5roDF8ZncPSCFJwB/DiSNymUonHyjFqSWLmGy",
     "college": "Queens College",
     "date": "2026-09-02",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "Learning Commons Workshops",
+    "link": "https://qc.event.cuny.edu/events/jexWsnPBpj4VSiMUkO1s/Cn7aGNHiTu5OSfZgxFtw3",
+    "college": "Queens College",
+    "date": "2026-09-07",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Math Dept Review Sessions",
+    "link": "https://qc.event.cuny.edu/events/YQS7FA7iXKZZR0SuInVQ/u43J7l2KV54kJJFaV9e33",
+    "college": "Queens College",
+    "date": "2026-09-07",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Tech Equipment Test Session",
+    "link": "https://qc.event.cuny.edu/events/qCboylT03uAW4T3VfXBM/WQerHG6sXzlq2OGhNVGT",
+    "college": "Queens College",
+    "date": "2026-09-08",
     "time": "4:00PM",
     "tags": []
   },
@@ -2536,126 +2575,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-10-06",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Summer 2026 Degree Conferral Date",
-    "link": "https://www.york.cuny.edu/registrar/calendar/summer/summer-2026-degree-conferral-date",
-    "college": "York College",
-    "date": "2026-09-01",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "SGA Welcome Back Breakfast",
-    "link": "https://www.york.cuny.edu/events/SGA-Welcome-Back-Breakfast-2026-09-01",
-    "college": "York College",
-    "date": "2026-09-01",
-    "time": "8:30 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
-    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-01",
-    "college": "York College",
-    "date": "2026-09-01",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Student-Athlete Orientation",
-    "link": "https://www.york.cuny.edu/events/Student-Athlete-Orientation-2026-09-01",
-    "college": "York College",
-    "date": "2026-09-01",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Sept 1",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sept1",
-    "college": "York College",
-    "date": "2026-09-01",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
-    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-02",
-    "college": "York College",
-    "date": "2026-09-02",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Sep 2",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep2",
-    "college": "York College",
-    "date": "2026-09-02",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-09-02",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Soccer vs. Sarah Lawrence College",
-    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-sarah-lawrence-09022026",
-    "college": "York College",
-    "date": "2026-09-02",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Financial Aid Certification Enrollment Status date",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/financial-aid-certification-enrollment-status-date-2",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
-    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-03",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "ASAP | ACE Summer Institute",
-    "link": "https://www.york.cuny.edu/events/ASAP-ACE-Summer-Institute-2026-09-03",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "OSA / SGA Welcome Back & Resources Party",
-    "link": "https://www.york.cuny.edu/events/OSA-SGA-Welcome-Back-Resources-Party-2026-09-03",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Sep 3",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep3",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Library workshop on textbooks",
-    "link": "https://www.york.cuny.edu/events/library-workshop-on-textbooks",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "4:45 PM - 5:45 PM",
     "tags": []
   },
   {
