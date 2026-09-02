@@ -1464,7 +1464,7 @@
     "tags": []
   },
   {
-    "title": "Share this event  CENTRO Open House",
+    "title": "CENTRO Open House",
     "link": "https://www.hunter.cuny.edu/event/share-this-event-centro-open-house/",
     "college": "Hunter College",
     "date": "2026-09-24",
@@ -1506,11 +1506,33 @@
     ]
   },
   {
-    "title": "BMCC Writing Center - Student Orientations",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-student-orientations-3/2026-09-02/",
+    "title": "Information Session: Understanding F-1 International Student Status Changes",
+    "link": "https://www.bmcc.cuny.edu/event/information-session-understanding-f-1-international-student-status-changes/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-09-02",
-    "time": "12:00 PM - 12:30 PM",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "Virtual Information Session: Understanding F1 Student Status Changes",
+    "link": "https://www.bmcc.cuny.edu/event/virtual-information-session-understanding-f1-student-status-changes/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-03",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "BMCC Writing Center - Student Orientations",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-student-orientations-3/2026-09-04/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-04",
+    "time": "01:00 PM - 01:30 PM",
     "tags": [
       "Academic Affairs",
       "Academic Literacy and Linguistics",
@@ -1541,28 +1563,6 @@
       "Workshops",
       "Writing Across the Curriculum (WAC)",
       "Writing Center"
-    ]
-  },
-  {
-    "title": "Information Session: Understanding F-1 International Student Status Changes",
-    "link": "https://www.bmcc.cuny.edu/event/information-session-understanding-f-1-international-student-status-changes/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-02",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "International Student Events/Workshops"
-    ]
-  },
-  {
-    "title": "Virtual Information Session: Understanding F1 Student Status Changes",
-    "link": "https://www.bmcc.cuny.edu/event/virtual-information-session-understanding-f1-student-status-changes/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-03",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Featured",
-      "International Student Events/Workshops"
     ]
   },
   {
@@ -1674,6 +1674,20 @@
     ]
   },
   {
+    "title": "Shirley Fiterman Art Center Opening: William Majors: Making a Mark",
+    "link": "https://www.bmcc.cuny.edu/event/shirley-fiterman-art-center-opening/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-09",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "Ethnic and Race Studies",
+      "Evening-Weekend",
+      "Featured",
+      "Music & Art",
+      "Shirley Fiterman Art Center"
+    ]
+  },
+  {
     "title": "9/11 25th Anniversary Commemoration",
     "link": "https://www.bmcc.cuny.edu/event/9-11-25th-anniversary-commemoration/",
     "college": "Borough of Manhattan Community College",
@@ -1732,6 +1746,22 @@
       "CUNY in The Heights",
       "Evening-Weekend",
       "Featured"
+    ]
+  },
+  {
+    "title": "Table Talk Tuesday: Come Join Us!",
+    "link": "https://www.bmcc.cuny.edu/event/table-talk-tuesday-come-join-us/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-15",
+    "time": "02:30 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Conexiones",
+      "Counseling Center",
+      "Featured",
+      "Office of Student Activities (OSA)",
+      "Student Affairs",
+      "Urban Male Leadership Academy (UMLA)"
     ]
   },
   {
@@ -1889,30 +1919,6 @@
       "Evening-Weekend",
       "Featured",
       "Student Affairs"
-    ]
-  },
-  {
-    "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-6/2026-09-28/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-28",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Health Services"
-    ]
-  },
-  {
-    "title": "Crafting Your Future: Resume and Cover Letter Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/crafting-your-future-resume-and-cover-letter-workshop-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-29",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
     ]
   },
   {
@@ -2377,6 +2383,14 @@
     "tags": []
   },
   {
+    "title": "The BMJ-CUNY SPH Special Collection Launch Event",
+    "link": "https://sph.cuny.edu/event/the-bmj-cuny-sph-special-collection-launch-event/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-09-15",
+    "time": "10:00 AM - 2:00PM",
+    "tags": []
+  },
+  {
     "title": "CUNY SPH Blood Drive",
     "link": "https://sph.cuny.edu/event/cuny-sph-blood-drive-3/",
     "college": "CUNY School of Public Health",
@@ -2694,6 +2708,126 @@
     "college": "Macaulay Honors College",
     "date": "2026-10-06",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Health Assessment",
+    "link": "https://www.york.cuny.edu/events/Health-Assessment-2026-09-02",
+    "college": "York College",
+    "date": "2026-09-02",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
+    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-02",
+    "college": "York College",
+    "date": "2026-09-02",
+    "time": "12:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Sep 2",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep2",
+    "college": "York College",
+    "date": "2026-09-02",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "CHEM 109 W3L8",
+    "link": "https://www.york.cuny.edu/events/CHEM-109-W3L8-2026-09-02",
+    "college": "York College",
+    "date": "2026-09-02",
+    "time": "4:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Soccer vs. Sarah Lawrence College",
+    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-sarah-lawrence-09022026",
+    "college": "York College",
+    "date": "2026-09-02",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Financial Aid Certification Enrollment Status date",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/financial-aid-certification-enrollment-status-date-2",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
+    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-03",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP | ACE Summer Institute",
+    "link": "https://www.york.cuny.edu/events/ASAP-ACE-Summer-Institute-2026-09-03",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "12:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "OSA / SGA Welcome Back & Resources Party",
+    "link": "https://www.york.cuny.edu/events/OSA-SGA-Welcome-Back-Resources-Party-2026-09-03",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "12:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Sep 3",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep3",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Training",
+    "link": "https://www.york.cuny.edu/events/Training-2026-09-03",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "1:30 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Library workshop on textbooks",
+    "link": "https://www.york.cuny.edu/events/library-workshop-on-textbooks",
+    "college": "York College",
+    "date": "2026-09-03",
+    "time": "4:45 PM - 5:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment rosters available to faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/verification-of-enrollment-rosters-available-to-faculty-2",
+    "college": "York College",
+    "date": "2026-09-04",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Health Assessment",
+    "link": "https://www.york.cuny.edu/events/Health-Assessment-2026-09-04",
+    "college": "York College",
+    "date": "2026-09-04",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-09-04",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
