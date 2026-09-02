@@ -19,17 +19,6 @@
     "tags": []
   },
   {
-    "title": "CUNY Law Alumni Connection Series",
-    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-sep26/",
-    "college": "CUNY School of Law",
-    "date": "2026-09-02",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Alumni",
-      "Networking Event"
-    ]
-  },
-  {
     "title": "Admissions: Information Session - Virtual",
     "link": "https://www.law.cuny.edu/event/admissions-information-session-virtual/",
     "college": "CUNY School of Law",
@@ -750,17 +739,6 @@
     "tags": []
   },
   {
-    "title": "Baruch Business Academy Virtual Information Session",
-    "link": "https://www.laguardia.edu/event/baruch-business-academy-virtual-information-session-23/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-02",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
     "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-09-04/",
     "college": "LaGuardia Community College",
@@ -1068,6 +1046,17 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Wednesdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-3/2026-09-23/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-23",
+    "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "LOL Musical Bingo Challenge",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377337",
     "college": "Guttman Community College",
@@ -1228,26 +1217,6 @@
       "Social - Off-Campus",
       "United Men of Color",
       "Off-Campus"
-    ]
-  },
-  {
-    "title": "Welcome Week: Breakfast for Dinner",
-    "link": "https://www.hunter.cuny.edu/event/welcome-week-breakfast-for-dinner/",
-    "college": "Hunter College",
-    "date": "2026-09-02",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Welcome Week: Pre-Professional Open House",
-    "link": "https://www.hunter.cuny.edu/event/welcome-week-pre-professional-open-house/",
-    "college": "Hunter College",
-    "date": "2026-09-02",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Student Events"
     ]
   },
   {
@@ -1506,14 +1475,23 @@
     ]
   },
   {
-    "title": "Information Session: Understanding F-1 International Student Status Changes",
-    "link": "https://www.bmcc.cuny.edu/event/information-session-understanding-f-1-international-student-status-changes/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-02",
-    "time": "02:00 PM - 04:00 PM",
+    "title": "Opening Night: NY Premiere of Desarchivar la mirada",
+    "link": "https://www.hunter.cuny.edu/event/opening-night-ny-premiere-of-desarchivar-la-mirada/",
+    "college": "Hunter College",
+    "date": "2026-09-24",
+    "time": "06:00 PM - 08:00 PM",
     "tags": [
-      "Featured",
-      "International Student Events/Workshops"
+      "Exhibits"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Nursing Generic Program Information Session",
+    "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-14/",
+    "college": "Hunter College",
+    "date": "2026-09-25",
+    "time": "04:00 PM - 05:30 PM",
+    "tags": [
+      "Open Houses"
     ]
   },
   {
@@ -1716,6 +1694,18 @@
     ]
   },
   {
+    "title": "Learn about Financial Literacy with PNC",
+    "link": "https://www.bmcc.cuny.edu/event/learn-about-financial-literacy-with-pnc/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-10",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Featured",
+      "Library",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Jane Young Fall 2026 Film Series: The Return of the Repressed",
     "link": "https://www.bmcc.cuny.edu/event/jane-young-fall-2026-film-series-the-return-of-the-repressed/",
     "college": "Borough of Manhattan Community College",
@@ -1731,6 +1721,18 @@
       "Human Services and Criminal Justice",
       "Speech",
       "Communications and Theatre Arts",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "BMCC Stay Healthy: Free HIV/STI and Hepatitis Testing for BMCC Students",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-stay-healthy-free-hiv-sti-testing-for-bmcc-students/2026-09-14/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-14",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
       "Student Affairs"
     ]
   },
@@ -1821,6 +1823,18 @@
     ]
   },
   {
+    "title": "Free HIV/STI Testing for BMCC Students",
+    "link": "https://www.bmcc.cuny.edu/event/free-hiv-sti-testing-for-bmcc-students/2026-09-17/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-17",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "CUNY Macaulay Honors College Business and Technology Career Fair",
     "link": "https://www.bmcc.cuny.edu/event/cuny-macaulay-honors-college-business-and-technology-career-fair/",
     "college": "Borough of Manhattan Community College",
@@ -1886,38 +1900,15 @@
     ]
   },
   {
-    "title": "92NY Employer Tabling: Connect with a Recruiter",
-    "link": "https://www.bmcc.cuny.edu/event/92ny-employer-tabling-connect-with-a-recruiter-2/",
+    "title": "Migration Matters: Ask Me Anything with Albert Lee",
+    "link": "https://www.bmcc.cuny.edu/event/migration-matters-ask-me-anything-with-albert-lee/2026-09-24/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-09-24",
-    "time": "12:00 PM - 03:00 PM",
+    "time": "10:00 AM - 04:30 PM",
     "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
-    ]
-  },
-  {
-    "title": "Storytelling 101: How to Tell Your Story During an Interview",
-    "link": "https://www.bmcc.cuny.edu/event/storytelling-101-how-to-tell-your-story-during-an-interview/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-24",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Center for Career Development"
-    ]
-  },
-  {
-    "title": "Spilling The Tea: Meet the Counseling Center",
-    "link": "https://www.bmcc.cuny.edu/event/spilling-the-tea-meet-the-counseling-center-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-28",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "CUNY in The Heights",
-      "Evening-Weekend",
+      "Center for Belonging and Inclusion",
       "Featured",
+      "Immigration Support",
       "Student Affairs"
     ]
   },
@@ -2061,6 +2052,14 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-09-02",
     "time": "12:00 PM - 12:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Information Session: Understanding F-1 International Student Status Changes",
+    "link": "https://www.bmcc.cuny.edu/event/?p=681473",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-02",
+    "time": "02:00 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -2383,14 +2382,6 @@
     "tags": []
   },
   {
-    "title": "The BMJ-CUNY SPH Special Collection Launch Event",
-    "link": "https://sph.cuny.edu/event/the-bmj-cuny-sph-special-collection-launch-event/",
-    "college": "CUNY School of Public Health",
-    "date": "2026-09-15",
-    "time": "10:00 AM - 2:00PM",
-    "tags": []
-  },
-  {
     "title": "CUNY SPH Blood Drive",
     "link": "https://sph.cuny.edu/event/cuny-sph-blood-drive-3/",
     "college": "CUNY School of Public Health",
@@ -2560,7 +2551,7 @@
   },
   {
     "title": "Passport Day",
-    "link": "https://www.lehman.edu/events/2026/Passport-Day-1.php",
+    "link": "https://www.lehman.edu/events/2026/Passport-Day.php",
     "college": "Lehman College",
     "date": "2026-09-02",
     "time": "11:30 AM- 2:30 PM",
@@ -2711,124 +2702,37 @@
     "tags": []
   },
   {
-    "title": "Health Assessment",
-    "link": "https://www.york.cuny.edu/events/Health-Assessment-2026-09-02",
-    "college": "York College",
-    "date": "2026-09-02",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
+    "title": "INFORMATION ASSURANCE RESEARCH PANEL",
+    "link": "https://www.gc.cuny.edu/events/information-assurance-research-panel",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
   },
   {
-    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
-    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-02",
-    "college": "York College",
-    "date": "2026-09-02",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
+    "title": "GAMING TECHNOLOGY AND EDUCATION PANEL",
+    "link": "https://www.gc.cuny.edu/events/gaming-technology-and-education-panel",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-14",
+    "time": "12:00 pm — 5:00 pm",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
   },
   {
-    "title": "V-READY Sep 2",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep2",
-    "college": "York College",
-    "date": "2026-09-02",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CHEM 109 W3L8",
-    "link": "https://www.york.cuny.edu/events/CHEM-109-W3L8-2026-09-02",
-    "college": "York College",
-    "date": "2026-09-02",
-    "time": "4:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Soccer vs. Sarah Lawrence College",
-    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-sarah-lawrence-09022026",
-    "college": "York College",
-    "date": "2026-09-02",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Financial Aid Certification Enrollment Status date",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/financial-aid-certification-enrollment-status-date-2",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
-    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-03",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "ASAP | ACE Summer Institute",
-    "link": "https://www.york.cuny.edu/events/ASAP-ACE-Summer-Institute-2026-09-03",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "OSA / SGA Welcome Back & Resources Party",
-    "link": "https://www.york.cuny.edu/events/OSA-SGA-Welcome-Back-Resources-Party-2026-09-03",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Sep 3",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep3",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Training",
-    "link": "https://www.york.cuny.edu/events/Training-2026-09-03",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "1:30 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Library workshop on textbooks",
-    "link": "https://www.york.cuny.edu/events/library-workshop-on-textbooks",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "4:45 PM - 5:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Verification of Enrollment rosters available to faculty",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/verification-of-enrollment-rosters-available-to-faculty-2",
-    "college": "York College",
-    "date": "2026-09-04",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Health Assessment",
-    "link": "https://www.york.cuny.edu/events/Health-Assessment-2026-09-04",
-    "college": "York College",
-    "date": "2026-09-04",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-09-04",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
+    "title": "E-COMMERCE SECURITY HOT TOPICS",
+    "link": "https://www.gc.cuny.edu/events/e-commerce-security-hot-topics",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-30",
+    "time": "",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
   },
   {
     "title": "FRANTZ FANON AND THE FUTURE OF CULTURAL POLITICS",
