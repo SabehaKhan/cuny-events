@@ -1261,16 +1261,6 @@
     ]
   },
   {
-    "title": "Welcome Week: Sip & Chat",
-    "link": "https://www.hunter.cuny.edu/event/welcome-week-sip-chat/",
-    "college": "Hunter College",
-    "date": "2026-09-03",
-    "time": "02:00 PM - 05:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "New Student Convocation",
     "link": "https://www.hunter.cuny.edu/event/new-student-convocation-5/",
     "college": "Hunter College",
@@ -1536,14 +1526,13 @@
     ]
   },
   {
-    "title": "Virtual Information Session: Understanding F1 Student Status Changes",
-    "link": "https://www.bmcc.cuny.edu/event/virtual-information-session-understanding-f1-student-status-changes/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-03",
-    "time": "03:00 PM - 05:00 PM",
+    "title": "Bachelor of Science in Nursing Generic Program Information Session",
+    "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-14/",
+    "college": "Hunter College",
+    "date": "2026-09-25",
+    "time": "04:00 PM - 05:30 PM",
     "tags": [
-      "Featured",
-      "International Student Events/Workshops"
+      "Open Houses"
     ]
   },
   {
@@ -1951,6 +1940,19 @@
       "Center for Career Development",
       "Featured",
       "Internships & Experiential Learning"
+    ]
+  },
+  {
+    "title": "Migration Matters: Ask Me Anything with Albert Lee",
+    "link": "https://www.bmcc.cuny.edu/event/migration-matters-ask-me-anything-with-albert-lee/2026-09-24/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-24",
+    "time": "10:00 AM - 04:30 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "Immigration Support",
+      "Student Affairs"
     ]
   },
   {
@@ -2774,14 +2776,6 @@
     "tags": []
   },
   {
-    "title": "V-READY Sep 3",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep3",
-    "college": "York College",
-    "date": "2026-09-03",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
     "title": "Training",
     "link": "https://www.york.cuny.edu/events/Training-2026-09-03",
     "college": "York College",
@@ -2868,5 +2862,93 @@
     "date": "2026-09-08",
     "time": "9:00 AM - 11:30 PM",
     "tags": []
+  },
+  {
+    "title": "INFORMATION ASSURANCE RESEARCH PANEL",
+    "link": "https://www.gc.cuny.edu/events/information-assurance-research-panel",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "GAMING TECHNOLOGY AND EDUCATION PANEL",
+    "link": "https://www.gc.cuny.edu/events/gaming-technology-and-education-panel",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-14",
+    "time": "12:00 pm — 5:00 pm",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "E-COMMERCE SECURITY HOT TOPICS",
+    "link": "https://www.gc.cuny.edu/events/e-commerce-security-hot-topics",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-30",
+    "time": "",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "FRANTZ FANON AND THE FUTURE OF CULTURAL POLITICS",
+    "link": "https://www.gc.cuny.edu/events/frantz-fanon-and-future-cultural-politics",
+    "college": "CUNY Graduate Center",
+    "date": "2026-09-26",
+    "time": "2:00 pm",
+    "location": "5409: DGSC Meeting Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "NATIONALISM, INTERNATIONALISM, COSMOPOLITANISM WITH PARTHA CHATERJEE",
+    "link": "https://www.gc.cuny.edu/events/nationalism-internationalism-cosmopolitanism-partha-chaterjee",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-02",
+    "time": "4:30 pm",
+    "location": "TBD",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
+    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-25",
+    "time": "6:30 pm",
+    "location": "C198",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-20",
+    "time": "",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
+    "college": "CUNY Graduate Center",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
   }
 ]
