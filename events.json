@@ -231,6 +231,16 @@
     "tags": []
   },
   {
+    "title": "IRE Kickoff Event",
+    "link": "https://www.journalism.cuny.edu/events/ire-kickoff-event-sept-26/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-09-16",
+    "time": "12:50 PM - 01:50 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
     "title": "Inside the Prediction Market Boom",
     "link": "https://www.journalism.cuny.edu/events/inside-the-prediction-market-boom/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -399,16 +409,6 @@
     "link": "https://www.journalism.cuny.edu/events/tips-for-applying-3/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2027-02-09",
-    "time": "06:00 PM - 06:00 PM",
-    "tags": [
-      "Future Students"
-    ]
-  },
-  {
-    "title": "On-Campus Information Session",
-    "link": "https://www.journalism.cuny.edu/events/on-campus-information-session-3/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2027-02-11",
     "time": "06:00 PM - 06:00 PM",
     "tags": [
       "Future Students"
@@ -767,18 +767,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-09-04/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-04",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
     "title": "Meet the Lenders",
     "link": "https://www.laguardia.edu/event/meet-the-lenders/",
     "college": "LaGuardia Community College",
@@ -1085,6 +1073,17 @@
     ]
   },
   {
+    "title": "Mindfulness Meditation Thursdays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-thursdays/2026-09-24/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-24",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
     "title": "Free Prepared Meals in the Grizzly Pantry",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377386",
     "college": "Guttman Community College",
@@ -1258,16 +1257,6 @@
       "Social - Off-Campus",
       "United Men of Color",
       "Off-Campus"
-    ]
-  },
-  {
-    "title": "New Student Convocation",
-    "link": "https://www.hunter.cuny.edu/event/new-student-convocation-5/",
-    "college": "Hunter College",
-    "date": "2026-09-04",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Student Events"
     ]
   },
   {
@@ -1466,6 +1455,16 @@
     ]
   },
   {
+    "title": "Ortiz's War and The Pilot, The Doctor, and The Spy: a true story of resistance and heroism in WWII and the Holocaust",
+    "link": "https://www.hunter.cuny.edu/event/ortizs-war-and-the-pilot-the-doctor-and-the-spy-a-true-story-of-resistance-and-heroism-in-wwii-and-the-holocaust/",
+    "college": "Hunter College",
+    "date": "2026-09-23",
+    "time": "12:00 PM - 12:00 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
     "title": "Graduate Admissions Information Session",
     "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-44/",
     "college": "Hunter College",
@@ -1533,44 +1532,6 @@
     "time": "04:00 PM - 05:30 PM",
     "tags": [
       "Open Houses"
-    ]
-  },
-  {
-    "title": "BMCC Writing Center - Student Orientations",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-student-orientations-3/2026-09-04/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-04",
-    "time": "01:00 PM - 01:30 PM",
-    "tags": [
-      "Academic Affairs",
-      "Academic Literacy and Linguistics",
-      "CUNY in The Heights",
-      "English",
-      "Evening-Weekend",
-      "Featured",
-      "Human Services",
-      "Human Services and Criminal Justice",
-      "Learning Academy",
-      "Learning Resource Center",
-      "Liberal Arts",
-      "New Student Programs",
-      "Office of Student Activities (OSA)",
-      "Project Impact",
-      "Race Equity and Inclusion",
-      "Research & Scholarly Inquiry",
-      "Scholarships",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs",
-      "Student Government Association",
-      "Student Success",
-      "Study Abroad",
-      "Teacher Education",
-      "Workshops",
-      "Writing Across the Curriculum (WAC)",
-      "Writing Center"
     ]
   },
   {
@@ -1679,6 +1640,44 @@
       "Featured",
       "Global Initiatives",
       "Study Abroad"
+    ]
+  },
+  {
+    "title": "BMCC Writing Center - Student Orientations",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-student-orientations-3/2026-09-09/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-09",
+    "time": "05:00 PM - 05:30 PM",
+    "tags": [
+      "Academic Affairs",
+      "Academic Literacy and Linguistics",
+      "CUNY in The Heights",
+      "English",
+      "Evening-Weekend",
+      "Featured",
+      "Human Services",
+      "Human Services and Criminal Justice",
+      "Learning Academy",
+      "Learning Resource Center",
+      "Liberal Arts",
+      "New Student Programs",
+      "Office of Student Activities (OSA)",
+      "Project Impact",
+      "Race Equity and Inclusion",
+      "Research & Scholarly Inquiry",
+      "Scholarships",
+      "Social Sciences",
+      "Human Services and Criminal Justice",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Student Affairs",
+      "Student Government Association",
+      "Student Success",
+      "Study Abroad",
+      "Teacher Education",
+      "Workshops",
+      "Writing Across the Curriculum (WAC)",
+      "Writing Center"
     ]
   },
   {
@@ -2113,14 +2112,6 @@
     "tags": []
   },
   {
-    "title": "BMCC Writing Center – Student Orientations",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007451",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-04",
-    "time": "01:00 PM - 01:30 PM",
-    "tags": []
-  },
-  {
     "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
     "link": "https://lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session--2.php",
     "college": "Lehman College",
@@ -2142,6 +2133,14 @@
     "college": "Queens College",
     "date": "2026-09-09",
     "time": "12:15 PM - 1:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Return to Queens College with CUNY Reconnect",
+    "link": "https://events.cuny.edu/cec/return-to-queens-college-with-cuny-reconnect/",
+    "college": "Queens College",
+    "date": "2026-09-09",
+    "time": "6:00 PM - 7:00 PM",
     "tags": []
   },
   {
@@ -2297,6 +2296,14 @@
     "tags": []
   },
   {
+    "title": "How to Beat the Clock - Time Management Strategies for College Success",
+    "link": "https://citytech.event.cuny.edu/events/Zeyz1ujrWb0VVYReC67P/hQkNpmQQnp5RupSuMmPS",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-04",
+    "time": "10:30AM",
+    "tags": []
+  },
+  {
     "title": "New Student Seminar",
     "link": "https://citytech.event.cuny.edu/events/waD5MM6HlbL8krN2yUxs/I7wqYhtXbSS04sQw5kZx",
     "college": "New York City College of Technology (City Tech)",
@@ -2366,14 +2373,6 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-09-10",
     "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "Welcome Back Bash Club Fair",
-    "link": "https://citytech.event.cuny.edu/events/gBnsnOTjdO7wyQOZoo5u/a0NPt7Jl0U07HP3MBjnz",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-10",
-    "time": "12:30PM",
     "tags": []
   },
   {
