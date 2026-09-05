@@ -1799,7 +1799,6 @@
     "date": "2026-09-15",
     "time": "02:30 PM - 04:00 PM",
     "tags": [
-      "Center for Belonging and Inclusion",
       "Conexiones",
       "Counseling Center",
       "Featured",
@@ -1965,6 +1964,18 @@
       "Featured",
       "Immigration Support",
       "Student Affairs"
+    ]
+  },
+  {
+    "title": "92NY Employer Tabling: Connect with a Recruiter",
+    "link": "https://www.bmcc.cuny.edu/event/92ny-employer-tabling-connect-with-a-recruiter-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-24",
+    "time": "12:00 PM - 03:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
     ]
   },
   {
@@ -2738,142 +2749,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-10-06",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "External: St Joseph's School Soccer",
-    "link": "https://www.york.cuny.edu/events/External-St-Joseph-s-School-Soccer-2026-09-05",
-    "college": "York College",
-    "date": "2026-09-05",
-    "time": "3:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
-    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-07",
-    "college": "York College",
-    "date": "2026-09-07",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Cardinal Scavenger Hunt",
-    "link": "https://www.york.cuny.edu/events/cardinal-scavenger-hunt",
-    "college": "York College",
-    "date": "2026-09-08",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
-    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-08",
-    "college": "York College",
-    "date": "2026-09-08",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Opportunity Explorers Campus Tours",
-    "link": "https://www.york.cuny.edu/events/Opportunity-Explorers-Campus-Tours-2026-09-08",
-    "college": "York College",
-    "date": "2026-09-08",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers Program Campus Tours",
-    "link": "https://www.york.cuny.edu/events/CUNY-Explorers-Program-Campus-Tours-2026-09-08",
-    "college": "York College",
-    "date": "2026-09-08",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Faculty Chair Wokrshop & Retreat",
-    "link": "https://www.york.cuny.edu/events/Faculty-Chair-Wokrshop-Retreat-2026-09-08",
-    "college": "York College",
-    "date": "2026-09-08",
-    "time": "9:30 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Students, Faculty and Staff Convocation",
-    "link": "https://www.york.cuny.edu/events/Convocation-2026-09-08",
-    "college": "York College",
-    "date": "2026-09-08",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ISM Information Session - 9/8",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/september-8th-ism-information-session-1",
-    "college": "York College",
-    "date": "2026-09-08",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Opportunity Explorers Campus Tours",
-    "link": "https://www.york.cuny.edu/events/Opportunity-Explorers-Campus-Tours-2026-09-09",
-    "college": "York College",
-    "date": "2026-09-09",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers Program Campus Tours",
-    "link": "https://www.york.cuny.edu/events/CUNY-Explorers-Program-Campus-Tours-2026-09-09",
-    "college": "York College",
-    "date": "2026-09-09",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
-    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-09",
-    "college": "York College",
-    "date": "2026-09-09",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Sep 9",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep9",
-    "college": "York College",
-    "date": "2026-09-09",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Wellness Wednesday Workshop",
-    "link": "https://www.york.cuny.edu/events/Wellness-Wednesday-Workshop-2026-09-09",
-    "college": "York College",
-    "date": "2026-09-09",
-    "time": "2:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "External: St Joseph's School Soccer",
-    "link": "https://www.york.cuny.edu/events/External-St-Joseph-s-School-Soccer-2026-09-09",
-    "college": "York College",
-    "date": "2026-09-09",
-    "time": "3:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-09-09",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Volleyball vs. Yeshiva University",
-    "link": "https://www.york.cuny.edu/events/2026/w-volleyball-vs-yeshiva-09092026",
-    "college": "York College",
-    "date": "2026-09-09",
-    "time": "10:00 PM - 12:00 AM",
     "tags": []
   },
   {
