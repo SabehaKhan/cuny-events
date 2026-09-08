@@ -167,26 +167,6 @@
     ]
   },
   {
-    "title": "SPJ Family Feud Event",
-    "link": "https://www.journalism.cuny.edu/events/spj-family-feud-event-sept-26/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-09-08",
-    "time": "12:30 PM - 02:00 PM",
-    "tags": [
-      "Current Students"
-    ]
-  },
-  {
-    "title": "Innovation Club Kickoff Event",
-    "link": "https://www.journalism.cuny.edu/events/innovation-club-kickoff-event-sept-26/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-09-08",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "Current Students"
-    ]
-  },
-  {
     "title": "Film Screening: Steal This Story, Please! with Amy Goodman",
     "link": "https://www.journalism.cuny.edu/events/film-screening-steal-this-story-please-with-amy-goodman/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -409,6 +389,26 @@
     "link": "https://www.journalism.cuny.edu/events/tips-for-applying-2/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2027-01-26",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "Tips for Applying",
+    "link": "https://www.journalism.cuny.edu/events/tips-for-applying-3/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-02-09",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "On-Campus Information Session",
+    "link": "https://www.journalism.cuny.edu/events/on-campus-information-session-3/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-02-11",
     "time": "06:00 PM - 06:00 PM",
     "tags": [
       "Future Students"
@@ -1308,6 +1308,16 @@
     ]
   },
   {
+    "title": "First Semester Pitstop: 30/60/90 Success Plan",
+    "link": "https://www.hunter.cuny.edu/event/first-semester-pitstop-30-60-90-success-plan/",
+    "college": "Hunter College",
+    "date": "2026-09-09",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Physics & Astronomy 'Meet & Greet + Lunch & Learn' Event",
     "link": "https://www.hunter.cuny.edu/event/physics-astronomy-meet-greet-lunch-learn-event/",
     "college": "Hunter College",
@@ -1537,6 +1547,16 @@
     ]
   },
   {
+    "title": "TSSC Fall Welcome Tabling Event",
+    "link": "https://www.hunter.cuny.edu/event/tssc-fall-welcome-tabling-event/",
+    "college": "Hunter College",
+    "date": "2026-09-18",
+    "time": "10:00 AM - 02:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "FALL 2026 WELLNESS/BENEFITS FAIR",
     "link": "https://www.hunter.cuny.edu/event/fall-2026-wellness-benefits-fair/",
     "college": "Hunter College",
@@ -1565,28 +1585,6 @@
     "tags": [
       "Career Center",
       "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Cover Letter Clinic: Conveying Your Career Journey",
-    "link": "https://www.hunter.cuny.edu/event/cover-letter-clinic-conveying-your-career-journey/",
-    "college": "Hunter College",
-    "date": "2026-09-19",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Campus Navigation: Exploring Hunter's Website",
-    "link": "https://www.hunter.cuny.edu/event/campus-navigation-exploring-hunters-website-2/",
-    "college": "Hunter College",
-    "date": "2026-09-22",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
       "Student Events"
     ]
   },
@@ -2022,14 +2020,6 @@
     ]
   },
   {
-    "title": "Governance & Elections",
-    "link": "https://www.bcc.cuny.edu/event/governance-elections/2026-09-08/",
-    "college": "Bronx Community College",
-    "date": "2026-09-08",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Academic Standing",
     "link": "https://www.bcc.cuny.edu/event/academic-standing/2026-09-09/",
     "college": "Bronx Community College",
@@ -2235,6 +2225,14 @@
     ]
   },
   {
+    "title": "Academic Standing",
+    "link": "https://www.bcc.cuny.edu/event/academic-standing/2026-09-23/",
+    "college": "Bronx Community College",
+    "date": "2026-09-23",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
     "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
     "link": "https://lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session--2.php",
     "college": "Lehman College",
@@ -2251,16 +2249,16 @@
     "tags": []
   },
   {
-    "title": "CUNY Internship Programs Prep Session",
-    "link": "https://www.bmcc.cuny.edu/event/?p=681403",
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007478",
     "college": "Borough of Manhattan Community College",
     "date": "2026-09-08",
     "time": "11:00 AM - 12:00 PM",
     "tags": []
   },
   {
-    "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007478",
+    "title": "CUNY Internship Programs Prep Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=681403",
     "college": "Borough of Manhattan Community College",
     "date": "2026-09-08",
     "time": "11:00 AM - 12:00 PM",
@@ -2568,6 +2566,14 @@
     "college": "Hostos Community College",
     "date": "2026-09-15",
     "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "The Impacts of Maternal Geophagy on Children’s Neurodevelopment in Zambia",
+    "link": "https://sph.cuny.edu/event/the-impacts-of-maternal-geophagy-on-childrens-neurodevelopment-in-zambia/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-09-08",
+    "time": "8:00 AM - 5:00PM",
     "tags": []
   },
   {
@@ -2955,14 +2961,6 @@
     "tags": []
   },
   {
-    "title": "ISM Information Session - 9/8",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/september-8th-ism-information-session-1",
-    "college": "York College",
-    "date": "2026-09-08",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "Opportunity Explorers Campus Tours",
     "link": "https://www.york.cuny.edu/events/Opportunity-Explorers-Campus-Tours-2026-09-09",
     "college": "York College",
@@ -3045,6 +3043,14 @@
   {
     "title": "SEEK Meet | Lawn by Classroom Building",
     "link": "https://www.york.cuny.edu/events/SEEK-Meet-Lawn-by-Classroom-Building-2026-09-10",
+    "college": "York College",
+    "date": "2026-09-10",
+    "time": "10:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Meet",
+    "link": "https://www.york.cuny.edu/events/SEEK-Meet-2026-09-10",
     "college": "York College",
     "date": "2026-09-10",
     "time": "10:00 AM - 11:30 PM",
