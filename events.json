@@ -539,7 +539,7 @@
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/b55f7652-8cf2-4269-b066-5886f9ef3fe4",
     "college": "Kingsborough Community College",
     "date": "2026-10-02",
-    "time": "04:00 PM - 04:30 PM",
+    "time": "04:00 PM - 04:00 PM",
     "tags": []
   },
   {
@@ -675,7 +675,7 @@
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/181c560c-2fd5-48ea-944c-4c9955cf5890",
     "college": "Kingsborough Community College",
     "date": "2026-09-09",
-    "time": "07:00 PM - 07:30 PM",
+    "time": "06:00 PM - 06:00 PM",
     "tags": []
   },
   {
@@ -683,7 +683,7 @@
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/091412fc-2a89-4d61-9eee-563f431e2ee3",
     "college": "Kingsborough Community College",
     "date": "2026-09-14",
-    "time": "02:00 PM - 02:00 PM",
+    "time": "07:00 PM - 07:00 PM",
     "tags": []
   },
   {
@@ -1110,6 +1110,18 @@
     ]
   },
   {
+    "title": "VIRTUAL NYC Govt Careers: DCAS Civil Service 101 Info Session - Sep '26",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377391",
+    "college": "Guttman Community College",
+    "date": "2026-09-16",
+    "time": "09:30 PM - 11:00 PM",
+    "tags": [
+      "CCPP",
+      "Career Workshop",
+      "Information Session"
+    ]
+  },
+  {
     "title": "Student Organization Club Fair",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377383",
     "college": "Guttman Community College",
@@ -1186,6 +1198,19 @@
       "Social - Off-Campus",
       "United Men of Color",
       "Off-Campus"
+    ]
+  },
+  {
+    "title": "Island Mix and Mingle",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377390",
+    "college": "Guttman Community College",
+    "date": "2026-09-29",
+    "time": "05:15 PM - 06:45 PM",
+    "tags": [
+      "CSA",
+      "Social",
+      "Food - Lunch",
+      "Student Life"
     ]
   },
   {
@@ -1309,6 +1334,30 @@
     "tags": []
   },
   {
+    "title": "The Career Center and You! (Juniors)",
+    "link": "https://www.hunter.cuny.edu/event/the-career-center-and-you-juniors/",
+    "college": "Hunter College",
+    "date": "2026-09-10",
+    "time": "01:00 PM - 01:30 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "The Career Center and You! (Senior)",
+    "link": "https://www.hunter.cuny.edu/event/the-career-center-and-you-senior/",
+    "college": "Hunter College",
+    "date": "2026-09-10",
+    "time": "01:45 PM - 02:15 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
     "title": "Human Biology Program Information Session",
     "link": "https://www.hunter.cuny.edu/event/human-biology-program-information-session/",
     "college": "Hunter College",
@@ -1334,6 +1383,42 @@
     "time": "10:00 AM - 11:30 AM",
     "tags": [
       "Open Houses"
+    ]
+  },
+  {
+    "title": "The Career Center and You! (Freshmen)",
+    "link": "https://www.hunter.cuny.edu/event/the-career-center-and-you-freshmen/",
+    "college": "Hunter College",
+    "date": "2026-09-11",
+    "time": "01:00 PM - 01:30 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "The Career Center and You! (Sophomore)",
+    "link": "https://www.hunter.cuny.edu/event/the-career-center-and-you-sophomore/",
+    "college": "Hunter College",
+    "date": "2026-09-11",
+    "time": "01:45 PM - 02:15 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Mastering the Art of Résumé Writing: Résumé Clinic",
+    "link": "https://www.hunter.cuny.edu/event/mastering-the-art-of-resume-writing-resume-clinic/",
+    "college": "Hunter College",
+    "date": "2026-09-12",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
     ]
   },
   {
@@ -1387,6 +1472,18 @@
     ]
   },
   {
+    "title": "CUNY Career Launch and Spring Forward Application Essay Workshop",
+    "link": "https://www.hunter.cuny.edu/event/cuny-career-launch-and-spring-forward-application-essay-workshop-writing-center-collab/",
+    "college": "Hunter College",
+    "date": "2026-09-15",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
     "title": "Graduation Readiness Workshop for Human Biology Majors",
     "link": "https://www.hunter.cuny.edu/event/graduation-readiness-workshop-for-human-biology-majors/",
     "college": "Hunter College",
@@ -1394,6 +1491,18 @@
     "time": "02:00 PM - 03:00 PM",
     "tags": [
       "Advising"
+    ]
+  },
+  {
+    "title": "Mastering the Art of Résumé Writing: Résumé Clinic",
+    "link": "https://www.hunter.cuny.edu/event/mastering-the-art-of-resume-writing-resume-clinic-2/",
+    "college": "Hunter College",
+    "date": "2026-09-16",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
     ]
   },
   {
@@ -1448,6 +1557,30 @@
     ]
   },
   {
+    "title": "Continuing Your Academic Journey: Graduate School Preparation Workshop",
+    "link": "https://www.hunter.cuny.edu/event/continuing-your-academic-journey-graduate-school-preparation-workshop-writing-center-collab/",
+    "college": "Hunter College",
+    "date": "2026-09-18",
+    "time": "01:15 PM - 02:15 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Cover Letter Clinic: Conveying Your Career Journey",
+    "link": "https://www.hunter.cuny.edu/event/cover-letter-clinic-conveying-your-career-journey/",
+    "college": "Hunter College",
+    "date": "2026-09-19",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
     "title": "Campus Navigation: Exploring Hunter's Website",
     "link": "https://www.hunter.cuny.edu/event/campus-navigation-exploring-hunters-website-2/",
     "college": "Hunter College",
@@ -1455,96 +1588,6 @@
     "time": "01:00 PM - 02:00 PM",
     "tags": [
       "Student Events"
-    ]
-  },
-  {
-    "title": "Distinguished Writers Series - Karan Mahajan",
-    "link": "https://www.hunter.cuny.edu/event/distinguished-writers-series-karan-mahajan/",
-    "college": "Hunter College",
-    "date": "2026-09-22",
-    "time": "07:30 PM - 07:30 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Ortiz's War and The Pilot, The Doctor, and The Spy: a true story of resistance and heroism in WWII and the Holocaust",
-    "link": "https://www.hunter.cuny.edu/event/ortizs-war-and-the-pilot-the-doctor-and-the-spy-a-true-story-of-resistance-and-heroism-in-wwii-and-the-holocaust/",
-    "college": "Hunter College",
-    "date": "2026-09-23",
-    "time": "12:00 PM - 12:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Graduate Admissions Information Session",
-    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-44/",
-    "college": "Hunter College",
-    "date": "2026-09-23",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CENTRO Open House",
-    "link": "https://www.hunter.cuny.edu/event/share-this-event-centro-open-house/",
-    "college": "Hunter College",
-    "date": "2026-09-24",
-    "time": "03:00 PM - 05:30 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
-    "title": "Campus Navigation: Global Class Search and Degree Maps",
-    "link": "https://www.hunter.cuny.edu/event/campus-navigation-global-class-search-and-degree-maps/",
-    "college": "Hunter College",
-    "date": "2026-09-24",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Will Signing Party",
-    "link": "https://www.hunter.cuny.edu/event/will-signing-party-2026-09-24/",
-    "college": "Hunter College",
-    "date": "2026-09-24",
-    "time": "04:00 PM - 06:00 PM",
-    "tags": [
-      "Special Events"
-    ]
-  },
-  {
-    "title": "Latinx Heritage Month Celebration: Dreaming and the City",
-    "link": "https://www.hunter.cuny.edu/event/latinx-heritage-month-celebration-dreaming-and-the-city/",
-    "college": "Hunter College",
-    "date": "2026-09-24",
-    "time": "05:30 PM - 07:00 PM",
-    "tags": [
-      "Lectures",
-      "Performing Arts & Film",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Opening Night: NY Premiere of Desarchivar la mirada",
-    "link": "https://www.hunter.cuny.edu/event/opening-night-ny-premiere-of-desarchivar-la-mirada/",
-    "college": "Hunter College",
-    "date": "2026-09-24",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": [
-      "Exhibits"
-    ]
-  },
-  {
-    "title": "Bachelor of Science in Nursing Generic Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-14/",
-    "college": "Hunter College",
-    "date": "2026-09-25",
-    "time": "04:00 PM - 05:30 PM",
-    "tags": [
-      "Open Houses"
     ]
   },
   {
@@ -1558,43 +1601,6 @@
       "Featured",
       "Student Affairs",
       "Women's Resource Center"
-    ]
-  },
-  {
-    "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-5/2026-09-08/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-08",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "CUNY Internship Programs Prep Session",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-internship-programs-prep-session/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-08",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured",
-      "Internships & Experiential Learning"
-    ]
-  },
-  {
-    "title": "Get Ready for the Job Fair with a Prep Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/job-fair-prep-workshop/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-08",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Center for Career Development",
-      "Featured"
     ]
   },
   {
@@ -1793,6 +1799,19 @@
     ]
   },
   {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-5/2026-09-15/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-15",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Health Services",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Table Talk Tuesday: Come Join Us!",
     "link": "https://www.bmcc.cuny.edu/event/table-talk-tuesday-come-join-us/",
     "college": "Borough of Manhattan Community College",
@@ -1976,6 +1995,30 @@
       "Career Workshops/Fairs",
       "Center for Career Development",
       "Featured"
+    ]
+  },
+  {
+    "title": "Storytelling 101: How to Tell Your Story During an Interview",
+    "link": "https://www.bmcc.cuny.edu/event/storytelling-101-how-to-tell-your-story-during-an-interview/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-24",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Center for Career Development"
+    ]
+  },
+  {
+    "title": "Spilling The Tea: Meet the Counseling Center",
+    "link": "https://www.bmcc.cuny.edu/event/spilling-the-tea-meet-the-counseling-center-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-28",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Counseling Center",
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured",
+      "Student Affairs"
     ]
   },
   {
@@ -2208,6 +2251,30 @@
     "tags": []
   },
   {
+    "title": "CUNY Internship Programs Prep Session",
+    "link": "https://www.bmcc.cuny.edu/event/?p=681403",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-08",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007478",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-08",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Get Ready for the Job Fair with a Prep Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/?p=680278",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-08",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
     "title": "Tragedy, Trauma, and Transformation: The 9/11 Catastrophe 25 Years Later",
     "link": "https://events.cuny.edu/cec/tragedy-trauma-and-transformation-the-9-11-catastrophe-25-years-later/",
     "college": "Queens College",
@@ -2221,6 +2288,14 @@
     "college": "Queens College",
     "date": "2026-09-09",
     "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Sam Schwartz and Cary Pepper on their New Novel AutoKill",
+    "link": "https://events.cuny.edu/cec/sam-schwartz-and-cary-pepper-on-their-new-novel-autokill/",
+    "college": "Hunter College",
+    "date": "2026-09-09",
+    "time": "6:00 PM",
     "tags": []
   },
   {
@@ -2360,6 +2435,14 @@
     "tags": []
   },
   {
+    "title": "NEST Volunteer Orientation",
+    "link": "https://citytech.event.cuny.edu/events/BevpuYT1Zk1epwvzDHBY/ToeLs1ja0ErsrQNeA0Ml",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-08",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
     "title": "Theatre tour",
     "link": "https://citytech.event.cuny.edu/events/t09J7rx7dTKBMt3VYFrX/ia2PwouRpKa5mWWrO6DT",
     "college": "New York City College of Technology (City Tech)",
@@ -2416,6 +2499,14 @@
     "tags": []
   },
   {
+    "title": "Deaf and Hard of Hearing Association",
+    "link": "https://citytech.event.cuny.edu/events/dqY29tCJ246EfHfoGuZb/B4anRZNuUT7brAP0wNE6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-12",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
     "title": "Teach an Online Course - HSCI 2301-OL60 (58028)",
     "link": "https://citytech.event.cuny.edu/events/LVCiGxSa9yJ1o7OmV7t6/hXKKTL4J4FwrkBKPygV03",
     "college": "New York City College of Technology (City Tech)",
@@ -2429,22 +2520,6 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-09-13",
     "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Nursing Information Session",
-    "link": "https://citytech.event.cuny.edu/events/gb1KO7OkvDHCn8lpJTLx/NhQs3tf8qlXNPIo8fhJ2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-14",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "CONTINUING EDUCATION EMPLOYMENT FAIR",
-    "link": "https://citytech.event.cuny.edu/events/OxSbzMo0weQIx0kZ6V1P/lXEkKYzIppxIAnRx6a5K",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-15",
-    "time": "8:30AM",
     "tags": []
   },
   {
@@ -2501,6 +2576,14 @@
     "college": "CUNY School of Public Health",
     "date": "2026-09-12",
     "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "The BMJ-CUNY SPH Collection Launch",
+    "link": "https://sph.cuny.edu/event/the-bmj-cuny-sph-special-collection-launch-event/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-09-15",
+    "time": "10:00 AM - 2:00PM",
     "tags": []
   },
   {
@@ -2640,7 +2723,7 @@
     "tags": []
   },
   {
-    "title": "In-Person Open House",
+    "title": "In-Person Graduate Admissions Open House",
     "link": "https://sph.cuny.edu/event/in-person-open-house/",
     "college": "CUNY School of Public Health",
     "date": "2026-11-12",
@@ -2821,6 +2904,150 @@
     "college": "Macaulay Honors College",
     "date": "2026-10-06",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Cardinal Scavenger Hunt",
+    "link": "https://www.york.cuny.edu/events/cardinal-scavenger-hunt",
+    "college": "York College",
+    "date": "2026-09-08",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
+    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-08",
+    "college": "York College",
+    "date": "2026-09-08",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Opportunity Explorers Campus Tours",
+    "link": "https://www.york.cuny.edu/events/Opportunity-Explorers-Campus-Tours-2026-09-08",
+    "college": "York College",
+    "date": "2026-09-08",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Explorers Program Campus Tours",
+    "link": "https://www.york.cuny.edu/events/CUNY-Explorers-Program-Campus-Tours-2026-09-08",
+    "college": "York College",
+    "date": "2026-09-08",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Faculty Chair Wokrshop & Retreat",
+    "link": "https://www.york.cuny.edu/events/Faculty-Chair-Wokrshop-Retreat-2026-09-08",
+    "college": "York College",
+    "date": "2026-09-08",
+    "time": "9:30 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Students, Faculty and Staff Convocation",
+    "link": "https://www.york.cuny.edu/events/convocation-2026-09-08",
+    "college": "York College",
+    "date": "2026-09-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "ISM Information Session - 9/8",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/september-8th-ism-information-session-1",
+    "college": "York College",
+    "date": "2026-09-08",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Opportunity Explorers Campus Tours",
+    "link": "https://www.york.cuny.edu/events/Opportunity-Explorers-Campus-Tours-2026-09-09",
+    "college": "York College",
+    "date": "2026-09-09",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Explorers Program Campus Tours",
+    "link": "https://www.york.cuny.edu/events/CUNY-Explorers-Program-Campus-Tours-2026-09-09",
+    "college": "York College",
+    "date": "2026-09-09",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
+    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-09",
+    "college": "York College",
+    "date": "2026-09-09",
+    "time": "12:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Sep 9",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep9",
+    "college": "York College",
+    "date": "2026-09-09",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Wellness Wednesday Workshop",
+    "link": "https://www.york.cuny.edu/events/Wellness-Wednesday-Workshop-2026-09-09",
+    "college": "York College",
+    "date": "2026-09-09",
+    "time": "2:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "External: St Joseph's School Soccer",
+    "link": "https://www.york.cuny.edu/events/External-St-Joseph-s-School-Soccer-2026-09-09",
+    "college": "York College",
+    "date": "2026-09-09",
+    "time": "3:00 PM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-09-09",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
+    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-10",
+    "college": "York College",
+    "date": "2026-09-10",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Opportunity Explorers Campus Tours",
+    "link": "https://www.york.cuny.edu/events/Opportunity-Explorers-Campus-Tours-2026-09-10",
+    "college": "York College",
+    "date": "2026-09-10",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Explorers Program Campus Tours",
+    "link": "https://www.york.cuny.edu/events/CUNY-Explorers-Program-Campus-Tours-2026-09-10",
+    "college": "York College",
+    "date": "2026-09-10",
+    "time": "9:00 AM - 11:30 PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Meet | Lawn by Classroom Building",
+    "link": "https://www.york.cuny.edu/events/SEEK-Meet-Lawn-by-Classroom-Building-2026-09-10",
+    "college": "York College",
+    "date": "2026-09-10",
+    "time": "10:00 AM - 11:30 PM",
     "tags": []
   },
   {
