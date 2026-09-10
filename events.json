@@ -297,16 +297,6 @@
     "tags": []
   },
   {
-    "title": "NABJ Sip n’ Paint",
-    "link": "https://www.journalism.cuny.edu/events/nabj-sip-n-paint/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-09-29",
-    "time": "06:00 PM - 06:00 PM",
-    "tags": [
-      "Current Students"
-    ]
-  },
-  {
     "title": "Digital Safety Workshop",
     "link": "https://www.journalism.cuny.edu/events/digital-safety-workshop/2026-10-01/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -315,6 +305,16 @@
     "tags": [
       "Current Students",
       "Journalism Protection Initiative"
+    ]
+  },
+  {
+    "title": "NABJ Sip n’ Paint",
+    "link": "https://www.journalism.cuny.edu/events/nabj-sip-n-paint/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-10-01",
+    "time": "04:30 PM - 06:00 PM",
+    "tags": [
+      "Current Students"
     ]
   },
   {
@@ -848,6 +848,29 @@
     ]
   },
   {
+    "title": "CUNY Cultural Corps Info Session for LaGuardia Students",
+    "link": "https://www.laguardia.edu/event/cuny-cultural-corps-info-session-for-laguardia-students/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-11",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "BFIT Step Workout",
+    "link": "https://www.laguardia.edu/event/bfit-step-workout/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-12",
+    "time": "01:30 PM - 03:30 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "student events"
+    ]
+  },
+  {
     "title": "Mindfulness Meditation Mondays",
     "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-3/2026-09-14/",
     "college": "LaGuardia Community College",
@@ -1043,6 +1066,31 @@
     ]
   },
   {
+    "title": "Your Neighbor's Table: A Global Food Bazaar by Plant Powered Metro New York",
+    "link": "https://www.laguardia.edu/event/your-neighbors-table-a-global-food-bazaar-by-plant-powered-metro-new-york/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-22",
+    "time": "05:30 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "community & business events",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Philosophy Pop-Up Agora",
+    "link": "https://www.laguardia.edu/event/philosophy-pop-up-agora/2026-09-23/1/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-23",
+    "time": "01:00 AM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
+      "student events"
+    ]
+  },
+  {
     "title": "AES/PUR Year 2 (P2) Introductions",
     "link": "https://www.laguardia.edu/event/aes-pur-year-2-p2-introductions/",
     "college": "LaGuardia Community College",
@@ -1094,59 +1142,14 @@
     ]
   },
   {
-    "title": "Student Resources Fair",
-    "link": "https://www.laguardia.edu/event/student-resources-fair/",
+    "title": "Philosophy Pop-Up Agora",
+    "link": "https://www.laguardia.edu/event/philosophy-pop-up-agora/2026-09-23/2/",
     "college": "LaGuardia Community College",
     "date": "2026-09-23",
-    "time": "02:00 PM - 03:30 PM",
+    "time": "01:00 PM - 03:00 PM",
     "tags": [
       "all calendars",
       "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Got Something on your Mind?",
-    "link": "https://www.laguardia.edu/event/got-something-on-your-mind-2/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-23",
-    "time": "03:30 PM - 05:00 PM",
-    "tags": [
-      "all calendars",
-      "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Wednesdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-wednesdays-3/2026-09-23/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-23",
-    "time": "08:00 PM - 08:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "Mindfulness Meditation Thursdays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-thursdays/2026-09-24/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-24",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
-  },
-  {
-    "title": "FYS Student Success Hub Open House Sessions",
-    "link": "https://www.laguardia.edu/event/fys-student-success-hub-open-house-sessions/2026-09-24/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-24",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "all calendars",
       "student events"
     ]
   },
@@ -1786,11 +1789,36 @@
     ]
   },
   {
-    "title": "BMCC Writing Center - Student Orientations",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-student-orientations-3/2026-09-10/",
+    "title": "CUNY Spring Forward Internship Program Information Webinar",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-spring-forward-internship-program-information-webinar/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-09-10",
-    "time": "10:00 AM - 10:30 AM",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured",
+      "Internships & Experiential Learning"
+    ]
+  },
+  {
+    "title": "Learn about Financial Literacy with PNC",
+    "link": "https://www.bmcc.cuny.edu/event/learn-about-financial-literacy-with-pnc/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-10",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Featured",
+      "Library",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "BMCC Writing Center - Student Orientations",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-student-orientations-3/2026-09-11/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-11",
+    "time": "02:00 PM - 02:30 PM",
     "tags": [
       "Academic Affairs",
       "Academic Literacy and Linguistics",
@@ -1821,46 +1849,6 @@
       "Workshops",
       "Writing Across the Curriculum (WAC)",
       "Writing Center"
-    ]
-  },
-  {
-    "title": "9/11 25th Anniversary Commemoration",
-    "link": "https://www.bmcc.cuny.edu/event/9-11-25th-anniversary-commemoration/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-10",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": [
-      "9/11 Commemoration",
-      "Center for Belonging and Inclusion",
-      "CUNY in The Heights",
-      "Evening-Weekend",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "CUNY Spring Forward Internship Program Information Webinar",
-    "link": "https://www.bmcc.cuny.edu/event/cuny-spring-forward-internship-program-information-webinar/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-10",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured",
-      "Internships & Experiential Learning"
-    ]
-  },
-  {
-    "title": "Learn about Financial Literacy with PNC",
-    "link": "https://www.bmcc.cuny.edu/event/learn-about-financial-literacy-with-pnc/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-10",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Featured",
-      "Library",
-      "Student Affairs"
     ]
   },
   {
@@ -2173,6 +2161,32 @@
     ]
   },
   {
+    "title": "Spilling The Tea: Meet the Counseling Center",
+    "link": "https://www.bmcc.cuny.edu/event/spilling-the-tea-meet-the-counseling-center-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-28",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Counseling Center",
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-6/2026-09-28/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-28",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Health Services"
+    ]
+  },
+  {
     "title": "Space, Facilities & Physical Plant",
     "link": "https://www.bcc.cuny.edu/event/space-facilities-physical-plant/",
     "college": "Bronx Community College",
@@ -2257,14 +2271,6 @@
   },
   {
     "title": "BMCC Writing Center – Student Orientations",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007453",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-10",
-    "time": "10:00 AM - 10:30 AM",
-    "tags": []
-  },
-  {
-    "title": "BMCC Writing Center – Student Orientations",
     "link": "https://www.bmcc.cuny.edu/event/?p=10007454",
     "college": "Borough of Manhattan Community College",
     "date": "2026-09-11",
@@ -2278,6 +2284,26 @@
     "date": "2026-09-13",
     "time": "8:30 AM",
     "tags": []
+  },
+  {
+    "title": "YASS! Mondays",
+    "link": "https://events.cuny.edu/cec/yass-mondays-29/",
+    "college": "The City College of New York",
+    "date": "2026-09-14",
+    "time": "12:00 PM - 4:00 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
+  },
+  {
+    "title": "JAZZ an exhibition featuring photographs Hubert Williams",
+    "link": "https://events.cuny.edu/cec/jazz-an-exhibition-featuring-photographs-hubert-williams/",
+    "college": "The City College of New York",
+    "date": "2026-09-14",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": [
+      "Hubert Williams"
+    ]
   },
   {
     "title": "President's Office: New Faculty Reception",
@@ -2336,14 +2362,6 @@
     "tags": []
   },
   {
-    "title": "Fall 2026: QSI Senior Seminar",
-    "link": "https://qc.event.cuny.edu/events/PIrbdteN99uHBFTdpmuY/OrVfrP2GYLu4dIudIIEk111",
-    "college": "Queens College",
-    "date": "2026-09-15",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
     "title": "TIME 2000 Monthly Seminar",
     "link": "https://qc.event.cuny.edu/events/SZf89zLzVKtYRGsdARzj/nzROHSsoxCr99iXX24GK",
     "college": "Queens College",
@@ -2354,14 +2372,6 @@
   {
     "title": "Santander's Bank",
     "link": "https://qc.event.cuny.edu/events/gJ4JPYJHYOrHveEQn3TY/BkSlJsogNtetmVtiiJxN",
-    "college": "Queens College",
-    "date": "2026-09-16",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2026: QSI Senior Seminar",
-    "link": "https://qc.event.cuny.edu/events/PIrbdteN99uHBFTdpmuY/OrVfrP2GYLu4dIudIIEk112",
     "college": "Queens College",
     "date": "2026-09-16",
     "time": "8:00AM",
@@ -2472,14 +2482,6 @@
     "tags": []
   },
   {
-    "title": "Redeemer Classrooms",
-    "link": "https://citytech.event.cuny.edu/events/n6uBl2ZWJkoB28lt1w6J/HKJBduUaZyu3y8uqbM5I3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-13",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
     "title": "Nursing Information Session",
     "link": "https://citytech.event.cuny.edu/events/gb1KO7OkvDHCn8lpJTLx/NhQs3tf8qlXNPIo8fhJ2",
     "college": "New York City College of Technology (City Tech)",
@@ -2533,6 +2535,14 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-09-16",
     "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment (VOE) Rosters due from faculty",
+    "link": "https://citytech.event.cuny.edu/events/ZJEut7NiHXicIHwQw08S/TJOz8m6mTtSg751t6nQD",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-17",
+    "time": "",
     "tags": []
   },
   {
@@ -2672,11 +2682,11 @@
     "tags": []
   },
   {
-    "title": "Grand Rounds: Strategies for Reducing Disparities in Managed Care",
-    "link": "https://sph.cuny.edu/event/grand-rounds-strategies-for-reducing-disparities-in-managed-care/",
+    "title": "Career Corner: Building Meaningful Connections with Faculty",
+    "link": "https://sph.cuny.edu/event/career-corner-building-meaningful-connections-with-faculty-3/",
     "college": "CUNY School of Public Health",
     "date": "2026-10-07",
-    "time": "2:00PM",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -2736,11 +2746,11 @@
     "tags": []
   },
   {
-    "title": "MS in Population Health Informatics Information Session",
-    "link": "https://sph.cuny.edu/event/ms-in-population-health-informatics-information-session-4/",
+    "title": "Career Workshop: Crafting Effective Emails",
+    "link": "https://sph.cuny.edu/event/career-workshop-crafting-effective-emails/",
     "college": "CUNY School of Public Health",
     "date": "2026-10-27",
-    "time": "6:00PM",
+    "time": "5:00PM",
     "tags": []
   },
   {
@@ -2764,6 +2774,22 @@
     "link": "https://sph.cuny.edu/event/career-workshop-what-hiring-managers-want-with-dr-danielle-greene/",
     "college": "CUNY School of Public Health",
     "date": "2026-11-17",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Career Workshop: Bringing Your Authentic Self to Work",
+    "link": "https://sph.cuny.edu/event/career-workshop-bringing-your-authentic-self-to-work/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-11-18",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Career Corner: Master the Professional Pitch",
+    "link": "https://sph.cuny.edu/event/career-corner-master-the-professional-pitch-3/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-11-23",
     "time": "12:00PM",
     "tags": []
   },
@@ -2936,126 +2962,6 @@
     "tags": []
   },
   {
-    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
-    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-10",
-    "college": "York College",
-    "date": "2026-09-10",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Opportunity Explorers Campus Tours",
-    "link": "https://www.york.cuny.edu/events/Opportunity-Explorers-Campus-Tours-2026-09-10",
-    "college": "York College",
-    "date": "2026-09-10",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers Program Campus Tours",
-    "link": "https://www.york.cuny.edu/events/CUNY-Explorers-Program-Campus-Tours-2026-09-10",
-    "college": "York College",
-    "date": "2026-09-10",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Meet | Lawn by Classroom Building",
-    "link": "https://www.york.cuny.edu/events/SEEK-Meet-Lawn-by-Classroom-Building-2026-09-10",
-    "college": "York College",
-    "date": "2026-09-10",
-    "time": "10:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Meet",
-    "link": "https://www.york.cuny.edu/events/SEEK-Meet-2026-09-10",
-    "college": "York College",
-    "date": "2026-09-10",
-    "time": "10:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "ASAP | ACE Communications Skills Workshop",
-    "link": "https://www.york.cuny.edu/events/ASAP-ACE-Communications-Skills-Workshop-2026-09-10",
-    "college": "York College",
-    "date": "2026-09-10",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Meet 2026",
-    "link": "https://www.york.cuny.edu/seek/seek-meet-2026",
-    "college": "York College",
-    "date": "2026-09-10",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Study Abroad 101: Your Global Journey Starts Here 9/10",
-    "link": "https://www.york.cuny.edu/events/study-abroad-101-your-global-journey-starts-here",
-    "college": "York College",
-    "date": "2026-09-10",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "SGA Special Elections - Additional Senators Needed | 1G04",
-    "link": "https://www.york.cuny.edu/events/SGA-Special-Elections-Additional-Senators-Needed-1G04-2026-09-10",
-    "college": "York College",
-    "date": "2026-09-10",
-    "time": "4:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Women's Volleyball Practice",
-    "link": "https://www.york.cuny.edu/events/Women-s-Volleyball-Practice-2026-09-10",
-    "college": "York College",
-    "date": "2026-09-10",
-    "time": "4:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Travel, Learn, Afford: Financing Your Study Abroad Experience 9/10",
-    "link": "https://www.york.cuny.edu/events/travel-learn-afford-financing-your-study-abroad-experience",
-    "college": "York College",
-    "date": "2026-09-10",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "September 11 Memorial | Guy R. Brewer Main Entrance Flag Poles",
-    "link": "https://www.york.cuny.edu/events/September-11-Memorial-Guy-R-Brewer-Main-Entrance-Flag-Poles-2026-09-11",
-    "college": "York College",
-    "date": "2026-09-11",
-    "time": "8:30 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Opportunity Explorers Campus Tours",
-    "link": "https://www.york.cuny.edu/events/Opportunity-Explorers-Campus-Tours-2026-09-11",
-    "college": "York College",
-    "date": "2026-09-11",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers Program Campus Tours",
-    "link": "https://www.york.cuny.edu/events/CUNY-Explorers-Program-Campus-Tours-2026-09-11",
-    "college": "York College",
-    "date": "2026-09-11",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-09-11",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "INFORMATION ASSURANCE RESEARCH PANEL",
     "link": "https://www.gc.cuny.edu/events/information-assurance-research-panel",
     "college": "CUNY Graduate Center",
@@ -3082,7 +2988,7 @@
     "link": "https://www.gc.cuny.edu/events/e-commerce-security-hot-topics",
     "college": "CUNY Graduate Center",
     "date": "2026-11-30",
-    "time": "",
+    "time": "2:00 pm — 5:00 pm",
     "location": "TBD",
     "tags": [
       "CUNY Institute for Software Design and Development"
