@@ -1204,18 +1204,6 @@
     ]
   },
   {
-    "title": "Constitution Day",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377482",
-    "college": "Guttman Community College",
-    "date": "2026-09-17",
-    "time": "05:15 PM - 06:45 PM",
-    "tags": [
-      "EMSA",
-      "Educational/Awareness",
-      "AccessABILITY Services"
-    ]
-  },
-  {
     "title": "Student Organization Club Fair",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377383",
     "college": "Guttman Community College",
@@ -1503,20 +1491,6 @@
     ]
   },
   {
-    "title": "Know Your Rights Training",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377481",
-    "college": "Guttman Community College",
-    "date": "2026-11-17",
-    "time": "06:15 PM - 07:45 PM",
-    "tags": [
-      "EMSA",
-      "Training",
-      "Connect Center",
-      "Immigrant Student Success",
-      "Food - Lunch "
-    ]
-  },
-  {
     "title": "Avengers Assemble! A UMOC Movie Meetup",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377341",
     "college": "Guttman Community College",
@@ -1528,14 +1502,6 @@
       "United Men of Color",
       "Off-Campus"
     ]
-  },
-  {
-    "title": "A Commemoration of the Geospatial Response to the Attack on the World Trade Center and Reflections on 25 Years of Progress",
-    "link": "https://www.hunter.cuny.edu/event/a-commemoration-of-the-geospatial-response-to-the-attack-on-the-world-trade-center-and-reflections-on-25-years-of-progress/",
-    "college": "Hunter College",
-    "date": "2026-09-10",
-    "time": "05:00 PM - 07:00 PM",
-    "tags": []
   },
   {
     "title": "Accelerated-Second Degree (BS) Nursing Program Information Session",
@@ -1815,6 +1781,18 @@
     "link": "https://www.hunter.cuny.edu/event/cover-letter-clinic-conveying-your-career-journey-2/",
     "college": "Hunter College",
     "date": "2026-09-23",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Your Journey to Internship Success: Internship Strategy Workshop",
+    "link": "https://www.hunter.cuny.edu/event/your-journey-to-internship-success-internship-strategy-workshop-2/",
+    "college": "Hunter College",
+    "date": "2026-09-24",
     "time": "01:00 PM - 02:00 PM",
     "tags": [
       "Career Center",
@@ -2228,6 +2206,18 @@
     "tags": []
   },
   {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-2/",
+    "college": "Bronx Community College",
+    "date": "2026-09-14",
+    "time": "02:00 PM - 06:00 PM",
+    "tags": [
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
+    ]
+  },
+  {
     "title": "Senate Executive",
     "link": "https://www.bcc.cuny.edu/event/senate-executive/",
     "college": "Bronx Community College",
@@ -2252,25 +2242,36 @@
     "tags": []
   },
   {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/",
+    "college": "Bronx Community College",
+    "date": "2026-09-28",
+    "time": "02:00 PM - 06:00 PM",
+    "tags": [
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/",
+    "college": "Bronx Community College",
+    "date": "2026-10-21",
+    "time": "02:00 PM - 06:00 PM",
+    "tags": [
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
+    ]
+  },
+  {
     "title": "Student Activities",
     "link": "https://www.bcc.cuny.edu/event/student-activities/",
     "college": "Bronx Community College",
     "date": "2026-10-30",
     "time": "03:00 PM - 04:00 PM",
     "tags": []
-  },
-  {
-    "title": "Fall 2026 Graduation Mixer",
-    "link": "https://www.bcc.cuny.edu/event/fall-2026-graduation-mixer/",
-    "college": "Bronx Community College",
-    "date": "2026-11-12",
-    "time": "12:00 PM - 06:00 PM",
-    "tags": [
-      "Enrollment Management",
-      "Feature",
-      "Grad Unit",
-      "Office of the Registrar"
-    ]
   },
   {
     "title": "Design Matters: In Favor of Urban Public Space",
@@ -2344,14 +2345,6 @@
     "college": "Hunter College",
     "date": "2026-09-14",
     "time": "6:00 PM - 7:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Health Services Administration M.S. Information Session",
-    "link": "https://lehman.edu/events/2026/Health-Services-Administration-MS-Information-Session--8.php",
-    "college": "Lehman College",
-    "date": "2026-09-14",
-    "time": "8:00 PM - 9:00 PM",
     "tags": []
   },
   {
