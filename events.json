@@ -250,6 +250,16 @@
     "tags": []
   },
   {
+    "title": "FASPE Journalism Fellowship",
+    "link": "https://www.journalism.cuny.edu/events/faspe-journalism-fellowship/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-09-24",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Digital Safety Workshop",
     "link": "https://www.journalism.cuny.edu/events/digital-safety-workshop/2026-09-24/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -417,16 +427,6 @@
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2026-12-01",
     "time": "01:00 PM - 01:00 PM",
-    "tags": [
-      "Future Students"
-    ]
-  },
-  {
-    "title": "On-Campus Information Session",
-    "link": "https://www.journalism.cuny.edu/events/on-campus-information-session-2/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-12-10",
-    "time": "06:00 PM - 06:00 PM",
     "tags": [
       "Future Students"
     ]
@@ -1971,7 +1971,7 @@
     ]
   },
   {
-    "title": "BMCC Stay Healthy Program: Nutritious Meal Prep Workshop",
+    "title": "BMCC Stay Healthy: Tasty Eats on a Budget",
     "link": "https://www.bmcc.cuny.edu/event/bmcc-stay-healthy-program-nutritious-meal-prep-workshop/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-09-16",
@@ -2627,6 +2627,22 @@
     "tags": []
   },
   {
+    "title": "Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/K051oBFQ2h3j7Po52UP1/FAd3ToqSJTApZspmF0FI",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-15",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "NYPIRG Tabling",
+    "link": "https://citytech.event.cuny.edu/events/FL5bBy7R3d2ddl5Nh8Xi/eX4vYuFwp6cfLkcRiBpA",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-15",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
     "title": "Marine Tabling",
     "link": "https://citytech.event.cuny.edu/events/kpO9DFi98vh6Tp1FVyF4/oG6XFuyTXisOm8YN0EKW2",
     "college": "New York City College of Technology (City Tech)",
@@ -2651,11 +2667,27 @@
     "tags": []
   },
   {
+    "title": "NYPIRG Tabling",
+    "link": "https://citytech.event.cuny.edu/events/FL5bBy7R3d2ddl5Nh8Xi/XqZirGBEysSaNLuqFEeS",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-16",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
     "title": "PSC-CUNY City Tech chapter Tabling",
     "link": "https://citytech.event.cuny.edu/events/Nx3Wm5p5BRmOC0bjAxn4/G5RCARrVtzXqNoJGJDQT",
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-09-16",
     "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/K051oBFQ2h3j7Po52UP1/F7xQsdiMIkFIvL5gjZ0Q",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-16",
+    "time": "1:00PM",
     "tags": []
   },
   {
@@ -2672,14 +2704,6 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-09-17",
     "time": "",
-    "tags": []
-  },
-  {
-    "title": "New York City Blood Drive",
-    "link": "https://citytech.event.cuny.edu/events/bbicPWuxWFan57EkDkMX/aSfVgb2XoPge7ygXG5iX",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-17",
-    "time": "9:30AM",
     "tags": []
   },
   {
@@ -3080,126 +3104,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-10-06",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers Program Campus Tours",
-    "link": "https://www.york.cuny.edu/events/CUNY-Explorers-Program-Campus-Tours-2026-09-11",
-    "college": "York College",
-    "date": "2026-09-11",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "September 11 Memorial | Guy R. Brewer Main Entrance Flag Poles",
-    "link": "https://www.york.cuny.edu/events/September-11-Memorial-Guy-R-Brewer-Main-Entrance-Flag-Poles-2026-09-11",
-    "college": "York College",
-    "date": "2026-09-11",
-    "time": "12:30 PM - 3:30 AM",
-    "tags": []
-  },
-  {
-    "title": "Writing Concisely: The Art of the 300-Word Essay",
-    "link": "https://www.york.cuny.edu/events/Writing-Concisely-The-Art-of-the-300-Word-Essay-2026-09-11",
-    "college": "York College",
-    "date": "2026-09-11",
-    "time": "2:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Soccer vs. Gallaudet University",
-    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-gallaudet-09112026",
-    "college": "York College",
-    "date": "2026-09-11",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Writing Concisely: The Art of the 300-Word Essay 9/11",
-    "link": "https://www.york.cuny.edu/events/2026/writing-concisely-the-art-of-the-300-word-essay-2",
-    "college": "York College",
-    "date": "2026-09-11",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "External: Droom Soccer Showcase",
-    "link": "https://www.york.cuny.edu/events/External-Droom-Soccer-Showcase-2026-09-12",
-    "college": "York College",
-    "date": "2026-09-12",
-    "time": "4:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers Program Campus Tours",
-    "link": "https://www.york.cuny.edu/events/CUNY-Explorers-Program-Campus-Tours-2026-09-14",
-    "college": "York College",
-    "date": "2026-09-14",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
-    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-14",
-    "college": "York College",
-    "date": "2026-09-14",
-    "time": "12:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Trauma Informed Yoga Class | HPE Dance Studio",
-    "link": "https://www.york.cuny.edu/events/Trauma-Informed-Yoga-Class-HPE-Dance-Studio-2026-09-14",
-    "college": "York College",
-    "date": "2026-09-14",
-    "time": "2:00 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "External: Pratt Soccer",
-    "link": "https://www.york.cuny.edu/events/External-Pratt-Soccer-2026-09-14",
-    "college": "York College",
-    "date": "2026-09-14",
-    "time": "2:30 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Travel, Learn, Afford: Financing Your Study Abroad Experience 9/14",
-    "link": "https://www.york.cuny.edu/events/2026/travel-learn-afford-financing-your-study-abroad-experience-2",
-    "college": "York College",
-    "date": "2026-09-14",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Carnival",
-    "link": "https://www.york.cuny.edu/events/Carnival-2026-09-15",
-    "college": "York College",
-    "date": "2026-09-15",
-    "time": "8:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2026 Mathematics Supplemental Instruction Sessions",
-    "link": "https://www.york.cuny.edu/events/Fall-2026-Mathematics-Supplemental-Instruction-Sessions-2026-09-15",
-    "college": "York College",
-    "date": "2026-09-15",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers Program Campus Tours",
-    "link": "https://www.york.cuny.edu/events/CUNY-Explorers-Program-Campus-Tours-2026-09-15",
-    "college": "York College",
-    "date": "2026-09-15",
-    "time": "9:00 AM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-09-16",
-    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
