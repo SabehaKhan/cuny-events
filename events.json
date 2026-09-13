@@ -1836,25 +1836,6 @@
     ]
   },
   {
-    "title": "Jane Young Fall 2026 Film Series: The Return of the Repressed",
-    "link": "https://www.bmcc.cuny.edu/event/jane-young-fall-2026-film-series-the-return-of-the-repressed/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-13",
-    "time": "04:00 PM - 06:00 PM",
-    "tags": [
-      "CUNY in The Heights",
-      "English",
-      "Evening-Weekend",
-      "Featured",
-      "Media Arts and Technology",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Walgreens Vaccination Clinic: Get Your Flu Vaccine",
     "link": "https://www.bmcc.cuny.edu/event/walgreens-vaccination-clinic-free-flu-vaccines/",
     "college": "Borough of Manhattan Community College",
@@ -2235,6 +2216,18 @@
     ]
   },
   {
+    "title": "Fall Into Connection: Love Languages, Communication and Boundaries",
+    "link": "https://www.bmcc.cuny.edu/event/fall-into-connection-love-languages-communication-and-boundaries/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-29",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Space, Facilities & Physical Plant",
     "link": "https://www.bcc.cuny.edu/event/space-facilities-physical-plant/",
     "college": "Bronx Community College",
@@ -2377,6 +2370,14 @@
     "college": "The University",
     "date": "2026-09-13",
     "time": "8:30 AM",
+    "tags": []
+  },
+  {
+    "title": "Jane Young Fall 2026 Film Series: The Return of the Repressed",
+    "link": "https://www.bmcc.cuny.edu/event/?p=680253",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-13",
+    "time": "04:00 PM - 06:00 PM",
     "tags": []
   },
   {
@@ -3101,6 +3102,118 @@
     "college": "Macaulay Honors College",
     "date": "2026-10-06",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Travel, Learn, Afford: Financing Your Study Abroad Experience 9/14",
+    "link": "https://www.york.cuny.edu/events/2026/travel-learn-afford-financing-your-study-abroad-experience-2",
+    "college": "York College",
+    "date": "2026-09-14",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Navigate Summit",
+    "link": "https://www.york.cuny.edu/events/2026/Navigate-Summit-2026-09-15",
+    "college": "York College",
+    "date": "2026-09-15",
+    "time": "4:00 PM - 5:50 PM",
+    "tags": []
+  },
+  {
+    "title": "Digital Research Skills",
+    "link": "https://www.york.cuny.edu/events/2026/digital-research-skills",
+    "college": "York College",
+    "date": "2026-09-15",
+    "time": "8:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Volleyball vs. Medgar Evers College",
+    "link": "https://www.york.cuny.edu/events/2026/w-volleyball-vs-medgar-evers-09152026",
+    "college": "York College",
+    "date": "2026-09-15",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Sep 16",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep16",
+    "college": "York College",
+    "date": "2026-09-16",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-09-16",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Soccer vs. Medgar Evers College",
+    "link": "https://www.york.cuny.edu/events/2026/w-soccer-vs-medgar-evers-09162026",
+    "college": "York College",
+    "date": "2026-09-16",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Verification of Enrollment rosters due from faculty",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/verification-of-enrollment-rosters-due-from-faculty-2",
+    "college": "York College",
+    "date": "2026-09-17",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Census date – Form-A cutoff",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/census-date-form-a-cutoff-2",
+    "college": "York College",
+    "date": "2026-09-17",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Welcome Back, Cardinals!",
+    "link": "https://www.york.cuny.edu/events/2026/welcome-back-cardinals",
+    "college": "York College",
+    "date": "2026-09-17",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Fresh Produce Day - September 15th",
+    "link": "https://www.york.cuny.edu/womens-center/calendar-of-events/fresh-produce-day-september-15th",
+    "college": "York College",
+    "date": "2026-09-17",
+    "time": "4:30 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Constitution Day Lecture: \"America's Conflicting Constitutional Visions: The Quest for Common Ground\"",
+    "link": "https://www.york.cuny.edu/events/2026/constitution-day-lecture-americas-conflicting-constitutional-visions-the-quest-for-common-ground-by-dr-rogers-m-smith",
+    "college": "York College",
+    "date": "2026-09-17",
+    "time": "6:00 PM - 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Soccer vs. Medgar Evers College",
+    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-medgar-evers-09172026",
+    "college": "York College",
+    "date": "2026-09-17",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Volleyball vs. Rutgers University-Newark",
+    "link": "https://www.york.cuny.edu/events/2026/w-volleyball-vs-rutgers-newark-09172026",
+    "college": "York College",
+    "date": "2026-09-17",
+    "time": "11:00 PM - 1:00 AM",
     "tags": []
   },
   {
