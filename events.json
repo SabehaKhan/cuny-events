@@ -432,6 +432,16 @@
     ]
   },
   {
+    "title": "On-Campus Information Session",
+    "link": "https://www.journalism.cuny.edu/events/on-campus-information-session-2/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-10",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
     "title": "Time Management Workshop (Virtual)",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a562f2d6-6f67-47dc-8e4c-2f4356e7ece3",
     "college": "Kingsborough Community College",
@@ -848,15 +858,36 @@
     "tags": []
   },
   {
-    "title": "Mindfulness Meditation Mondays",
-    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-3/2026-09-14/",
-    "college": "LaGuardia Community College",
+    "title": "Student Support Hub",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/889c545d-515f-4963-94f0-441041080a4e",
+    "college": "Kingsborough Community College",
     "date": "2026-09-14",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "all calendars",
-      "student events"
-    ]
+    "time": "09:00 AM - 05:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Student Affairs Welcome Hub",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/5721211a-675d-4acc-b86f-66b701b2bba2",
+    "college": "Kingsborough Community College",
+    "date": "2026-09-14",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Grab and Go Breakfast",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/992b570a-e0b1-4a2c-a70a-bf4ff43c5343",
+    "college": "Kingsborough Community College",
+    "date": "2026-09-14",
+    "time": "08:30 AM - 08:30 AM",
+    "tags": []
+  },
+  {
+    "title": "Academic & Student Resources Tabling Fair",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/2a16056d-d90b-4e83-8b74-3799c820f853",
+    "college": "Kingsborough Community College",
+    "date": "2026-09-14",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": []
   },
   {
     "title": "Welcome Breakfast",
@@ -1160,6 +1191,17 @@
     "college": "LaGuardia Community College",
     "date": "2026-09-23",
     "time": "08:00 PM - 08:30 PM",
+    "tags": [
+      "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Academies Day",
+    "link": "https://www.laguardia.edu/event/academies-day/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-24",
+    "time": "11:45 AM - 03:30 PM",
     "tags": [
       "all calendars",
       "student events"
@@ -1836,68 +1878,6 @@
     ]
   },
   {
-    "title": "Walgreens Vaccination Clinic: Get Your Flu Vaccine",
-    "link": "https://www.bmcc.cuny.edu/event/walgreens-vaccination-clinic-free-flu-vaccines/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-14",
-    "time": "09:00 AM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "BMCC Stay Healthy: Free HIV/STI and Hepatitis Testing for BMCC Students",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-stay-healthy-free-hiv-sti-testing-for-bmcc-students/2026-09-14/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-14",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "BMCC Writing Center - Student Orientations",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-writing-center-student-orientations-3/2026-09-14/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-14",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": [
-      "Academic Affairs",
-      "Academic Literacy and Linguistics",
-      "CUNY in The Heights",
-      "English",
-      "Evening-Weekend",
-      "Featured",
-      "Human Services",
-      "Human Services and Criminal Justice",
-      "Learning Academy",
-      "Learning Resource Center",
-      "Liberal Arts",
-      "New Student Programs",
-      "Office of Student Activities (OSA)",
-      "Project Impact",
-      "Race Equity and Inclusion",
-      "Research & Scholarly Inquiry",
-      "Scholarships",
-      "Social Sciences",
-      "Human Services and Criminal Justice",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs",
-      "Student Government Association",
-      "Student Success",
-      "Study Abroad",
-      "Teacher Education",
-      "Workshops",
-      "Writing Across the Curriculum (WAC)",
-      "Writing Center"
-    ]
-  },
-  {
     "title": "Paramedic Program Open House",
     "link": "https://www.bmcc.cuny.edu/event/paramedic-program-open-house/",
     "college": "Borough of Manhattan Community College",
@@ -2228,12 +2208,46 @@
     ]
   },
   {
-    "title": "Space, Facilities & Physical Plant",
-    "link": "https://www.bcc.cuny.edu/event/space-facilities-physical-plant/",
-    "college": "Bronx Community College",
-    "date": "2026-09-14",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
+    "title": "BMCC Stay Healthy: Free Dental Screening – NYU Dentistry at BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-stay-healthy-free-dental-screening-nyu-dentistry-at-bmcc/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-30",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "CUNY BMCC Career Day 2 (Virtual): Government, Legal, Law Enforcement and Public Service",
+    "link": "https://www.bmcc.cuny.edu/event/cuny-bmcc-career-day-2-virtual-government-legal-law-enforcement-and-public-service/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-30",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Criminal Justice",
+      "Featured",
+      "Global Initiatives",
+      "Human Services and Criminal Justice",
+      "Pre-law",
+      "Social Sciences",
+      "Human Services and Criminal Justice"
+    ]
+  },
+  {
+    "title": "The City College of New York Information Session",
+    "link": "https://www.bmcc.cuny.edu/event/the-city-college-of-new-york-information-session-3/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-30",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Academic Advisement & Transfer",
+      "English",
+      "Featured"
+    ]
   },
   {
     "title": "Office of the Registrar Virtual Counter",
@@ -2282,6 +2296,14 @@
       "Office of the Registrar",
       "Virtual Event"
     ]
+  },
+  {
+    "title": "Space, Facilities & Physical Plant",
+    "link": "https://www.bcc.cuny.edu/event/space-facilities-physical-plant/",
+    "college": "Bronx Community College",
+    "date": "2026-09-14",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "Office of the Registrar Virtual Counter",
@@ -2417,14 +2439,6 @@
     "tags": []
   },
   {
-    "title": "BMCC Writing Center – Student Orientations",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007455",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-14",
-    "time": "12:00 PM - 12:30 PM",
-    "tags": []
-  },
-  {
     "title": "Library & Archives Lunch Hour – Cold War Puerto Rico: Anti-Communism in Was",
     "link": "https://events.cuny.edu/cec/library-archives-lunch-hour-cold-war-puerto-rico-anti-communism-in-was/",
     "college": "Hunter College",
@@ -2441,14 +2455,6 @@
     "tags": [
       "Career Center"
     ]
-  },
-  {
-    "title": "NIH: URISE Welcome & Recognition Ceremony",
-    "link": "https://qc.event.cuny.edu/events/wOlgksKuIYBH1Q6qjqBH/EKjUp6HdIj9B0FOCpQQZ",
-    "college": "Queens College",
-    "date": "2026-09-14",
-    "time": "9:30AM",
-    "tags": []
   },
   {
     "title": "Free Weekly Yoga Classes",
@@ -2536,6 +2542,14 @@
     "college": "Queens College",
     "date": "2026-09-17",
     "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Flavored Food & Wine Festival",
+    "link": "https://qc.event.cuny.edu/events/YccQ5ML671D38lSGIC54/RsVS0T3ExGJjmhZl7nVP",
+    "college": "Queens College",
+    "date": "2026-09-18",
+    "time": "8:00AM",
     "tags": []
   },
   {
@@ -2635,14 +2649,6 @@
     "tags": []
   },
   {
-    "title": "Peer Navigator Tabling",
-    "link": "https://citytech.event.cuny.edu/events/K051oBFQ2h3j7Po52UP1/FAd3ToqSJTApZspmF0FI",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-15",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
     "title": "NYPIRG Tabling",
     "link": "https://citytech.event.cuny.edu/events/FL5bBy7R3d2ddl5Nh8Xi/eX4vYuFwp6cfLkcRiBpA",
     "college": "New York City College of Technology (City Tech)",
@@ -2672,6 +2678,14 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-09-15",
     "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/K051oBFQ2h3j7Po52UP1/FAd3ToqSJTApZspmF0FI",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-15",
+    "time": "2:30PM",
     "tags": []
   },
   {
@@ -3131,6 +3145,14 @@
     "tags": []
   },
   {
+    "title": "Study Abroad 101: Your Global Journey Starts Here",
+    "link": "https://www.york.cuny.edu/events/2026/study-abroad-101-your-global-journey-starts-here-3",
+    "college": "York College",
+    "date": "2026-09-14",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
     "title": "Navigate Summit",
     "link": "https://www.york.cuny.edu/events/2026/Navigate-Summit-2026-09-15",
     "college": "York College",
@@ -3232,14 +3254,6 @@
     "college": "York College",
     "date": "2026-09-17",
     "time": "11:00 PM - 1:00 AM",
-    "tags": []
-  },
-  {
-    "title": "WN Grades assigned",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/wn-grades-assigned-2",
-    "college": "York College",
-    "date": "2026-09-18",
-    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
