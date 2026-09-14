@@ -2264,18 +2264,6 @@
     "tags": []
   },
   {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter/",
-    "college": "Bronx Community College",
-    "date": "2026-09-21",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
-    ]
-  },
-  {
     "title": "Senate",
     "link": "https://www.bcc.cuny.edu/event/senate/",
     "college": "Bronx Community College",
@@ -2333,6 +2321,20 @@
     ]
   },
   {
+    "title": "32nd Annual BCC Film and Video Festival Screening",
+    "link": "https://www.bcc.cuny.edu/event/32nd-annual-bcc-film-and-video-festival-screening/",
+    "college": "Bronx Community College",
+    "date": "2026-10-22",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Campus Events",
+      "Feature",
+      "Media & Digital Film Events",
+      "STEM Events",
+      "Student Activities"
+    ]
+  },
+  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-6/",
     "college": "Bronx Community College",
@@ -2365,20 +2367,18 @@
     ]
   },
   {
-    "title": "Remembrance Ruck – Honoring Post 9/11 NYC Veterans",
-    "link": "https://events.cuny.edu/cec/remembrance-ruck/",
-    "college": "The University",
-    "date": "2026-09-13",
-    "time": "8:30 AM",
-    "tags": []
-  },
-  {
-    "title": "Jane Young Fall 2026 Film Series: The Return of the Repressed",
-    "link": "https://www.bmcc.cuny.edu/event/?p=680253",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-13",
-    "time": "04:00 PM - 06:00 PM",
-    "tags": []
+    "title": "Fall 2026 R2T4 60% Date",
+    "link": "https://www.bcc.cuny.edu/event/fall-2026-r2t4-60-date-for-the-semester/",
+    "college": "Bronx Community College",
+    "date": "2026-11-05",
+    "time": "11:59 PM - 11:59 PM",
+    "tags": [
+      "Academic Calendar",
+      "Enrollment Management & Retention",
+      "Feature",
+      "Financial Aid",
+      "Office of the Registrar"
+    ]
   },
   {
     "title": "YASS! Mondays",
@@ -2423,6 +2423,24 @@
     "date": "2026-09-14",
     "time": "12:00 PM - 12:30 PM",
     "tags": []
+  },
+  {
+    "title": "Library & Archives Lunch Hour – Cold War Puerto Rico: Anti-Communism in Was",
+    "link": "https://events.cuny.edu/cec/library-archives-lunch-hour-cold-war-puerto-rico-anti-communism-in-was/",
+    "college": "Hunter College",
+    "date": "2026-09-15",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "New York State Civil Service 101",
+    "link": "https://events.cuny.edu/cec/new-york-state-civil-service-101/",
+    "college": "College of Staten Island",
+    "date": "2026-09-15",
+    "time": "3:00 PM - 4:00 PM",
+    "tags": [
+      "Career Center"
+    ]
   },
   {
     "title": "NIH: URISE Welcome & Recognition Ceremony",
@@ -3214,6 +3232,14 @@
     "college": "York College",
     "date": "2026-09-17",
     "time": "11:00 PM - 1:00 AM",
+    "tags": []
+  },
+  {
+    "title": "WN Grades assigned",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/wn-grades-assigned-2",
+    "college": "York College",
+    "date": "2026-09-18",
+    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
