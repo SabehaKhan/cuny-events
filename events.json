@@ -455,14 +455,6 @@
     ]
   },
   {
-    "title": "Time Management Workshop (Virtual)",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a562f2d6-6f67-47dc-8e4c-2f4356e7ece3",
-    "college": "Kingsborough Community College",
-    "date": "2026-09-17",
-    "time": "07:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "Resume-athon Workshop (Virtual)",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/33ab9a36-e02d-4f75-ae13-04ca6c8778a2",
     "college": "Kingsborough Community College",
@@ -1538,18 +1530,6 @@
     ]
   },
   {
-    "title": "Constitution Day",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377482",
-    "college": "Guttman Community College",
-    "date": "2026-09-17",
-    "time": "05:15 PM - 06:45 PM",
-    "tags": [
-      "EMSA",
-      "Educational/Awareness",
-      "AccessABILITY Services"
-    ]
-  },
-  {
     "title": "Student Organization Club Fair",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377383",
     "college": "Guttman Community College",
@@ -1610,7 +1590,7 @@
       "EMSA",
       "Support Session",
       "Connect Center",
-      "Virtual Event"
+      "Food - Light Refreshments "
     ]
   },
   {
@@ -1655,7 +1635,7 @@
       "Immigrant Student Success",
       "United Men of Color",
       "Student Life",
-      "Virtual Event"
+      "Food - Light Refreshments "
     ]
   },
   {
@@ -1663,7 +1643,7 @@
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377344",
     "college": "Guttman Community College",
     "date": "2026-09-25",
-    "time": "07:30 PM - 10:30 PM",
+    "time": "07:00 PM - 10:00 PM",
     "tags": [
       "UMOC",
       "Social - Off-Campus",
@@ -1796,7 +1776,7 @@
       "Career Workshop",
       "Student Life",
       "Hispanic/LatinX Heritage Month",
-      "Virtual Event"
+      "Food - Light Refreshments "
     ]
   },
   {
@@ -1834,7 +1814,7 @@
       "SGA",
       "Social",
       "Food - Dinner",
-      "Virtual Event",
+      "Food - Light Refreshments",
       "Student Life",
       "SGA",
       "Weeks Of Welcome"
@@ -1889,17 +1869,6 @@
       "Social - Off-Campus",
       "United Men of Color",
       "Off-Campus"
-    ]
-  },
-  {
-    "title": "Keith Haring: Apocalypse",
-    "link": "https://www.hunter.cuny.edu/event/keith-haring-apocalypse/",
-    "college": "Hunter College",
-    "date": "2026-09-17",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": [
-      "Exhibits",
-      "Special Events"
     ]
   },
   {
@@ -2201,6 +2170,16 @@
     "date": "2026-09-29",
     "time": "12:00 PM - 01:00 PM",
     "tags": []
+  },
+  {
+    "title": "Application-Based Majors: Preparation for Social Work",
+    "link": "https://www.hunter.cuny.edu/event/application-based-majors-preparation-for-social-work/",
+    "college": "Hunter College",
+    "date": "2026-09-29",
+    "time": "12:30 PM - 01:30 PM",
+    "tags": [
+      "Student Events"
+    ]
   },
   {
     "title": "CUNY Macaulay Honors College Business and Technology Career Fair",
@@ -2631,6 +2610,19 @@
     ]
   },
   {
+    "title": "Fall 2026 Blood Drive",
+    "link": "https://www.bcc.cuny.edu/event/fall-2026-blood-drive/",
+    "college": "Bronx Community College",
+    "date": "2026-10-15",
+    "time": "11:00 AM - 05:00 PM",
+    "tags": [
+      "Campus Events",
+      "Feature",
+      "Health & Fitness Events",
+      "Student Success"
+    ]
+  },
+  {
     "title": "Office of the Registrar Virtual Counter",
     "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-5/",
     "college": "Bronx Community College",
@@ -2717,10 +2709,50 @@
     ]
   },
   {
-    "title": "Subtle Subversions: The Art of Patricia Espinosa",
-    "link": "https://events.cuny.edu/cec/subtle-subversions-the-art-of-patricia-espinosa/",
+    "title": "Office of the Registrar Virtual Counter",
+    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-8/",
+    "college": "Bronx Community College",
+    "date": "2026-11-09",
+    "time": "02:00 PM - 06:00 PM",
+    "tags": [
+      "Feature",
+      "Office of the Registrar",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "“Take Me Home:” Screening and Panel -PG CLUE",
+    "link": "https://events.cuny.edu/cec/take-me-home-screening-and-panel/",
     "college": "College of Staten Island",
-    "date": "2026-09-17",
+    "date": "2026-09-18",
+    "time": "2:00 PM - 5:00 PM",
+    "tags": [
+      "Accessibility",
+      "DEI",
+      "Division of Humanities and Social Sciences",
+      "Drama",
+      "Economic Development & Community Partnership",
+      "EdD",
+      "OCEE",
+      "Performing and Creative Arts",
+      "Social Work",
+      "Student Life",
+      "Womens Studies"
+    ]
+  },
+  {
+    "title": "Across Continents: Writing Goans, Making Worlds",
+    "link": "https://events.cuny.edu/cec/across-continents-writing-goans-making-worlds/",
+    "college": "Asian American / Asian Research Institute",
+    "date": "2026-09-18",
+    "time": "6:00 PM - 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Subtle Subversions: The Art of Patricia Espinosa",
+    "link": "https://events.cuny.edu/cec/subtle-subversions-the-art-of-patricia-espinosa-2/",
+    "college": "College of Staten Island",
+    "date": "2026-09-21",
     "time": "12:00 PM - 4:00 PM",
     "tags": [
       "Art",
@@ -2729,101 +2761,19 @@
     ]
   },
   {
-    "title": "Graduate Admissions General Information Session",
-    "link": "https://events.cuny.edu/cec/graduate-admissions-general-information-session-5/",
-    "college": "Queens College",
-    "date": "2026-09-17",
-    "time": "12:15 PM - 1:15 PM",
+    "title": "Business M.S. Information Session",
+    "link": "https://lehman.edu/events/2026/Business-MS-Information-Session--2.php",
+    "college": "Lehman College",
+    "date": "2026-09-21",
+    "time": "5:30 PM - 6:30 PM",
     "tags": []
   },
   {
-    "title": "Podwal Seminar: Lecture on Corrosion Protection & Hot-Dip Galvanizing",
-    "link": "https://events.cuny.edu/cec/podwal-seminar-lecture-on-corrosion-protection-hot-dip-galvanizing/",
-    "college": "The City College of New York",
-    "date": "2026-09-17",
-    "time": "12:30 PM - 1:30 PM",
-    "tags": [
-      "Podwal Seminar"
-    ]
-  },
-  {
-    "title": "Welcome Back to the Men’s Center",
-    "link": "https://events.cuny.edu/cec/welcome-back-to-the-mens-center/",
-    "college": "College of Staten Island",
-    "date": "2026-09-17",
-    "time": "2:30 PM - 4:30 PM",
-    "tags": [
-      "mens center"
-    ]
-  },
-  {
-    "title": "Book Talk with CUNY BA Alumna Pennell Somsen [IN-PERSON EVENT]",
-    "link": "https://events.cuny.edu/cec/cunyba-book-talk-pennell-somsen-alumni/",
-    "college": "CUNY Baccalaureate for Unique and Interdisciplinary Studies",
-    "date": "2026-09-17",
-    "time": "3:00 PM - 5:00 PM",
-    "tags": [
-      "#IamCUNYBA",
-      "Bachelor's degree",
-      "CUNYBA",
-      "alumni events",
-      "book talk events",
-      "creative degree",
-      "higher education",
-      "in person cuny events",
-      "interdisciplinary degree",
-      "unique degrees",
-      "unique majors;"
-    ]
-  },
-  {
-    "title": "Subtle Subversions: The Art of Patricia Espinosa – Artist’s Reception",
-    "link": "https://events.cuny.edu/cec/subtle-subversions-the-art-of-patricia-espinosa-artists-reception/",
-    "college": "College of Staten Island",
-    "date": "2026-09-17",
-    "time": "4:30 PM - 6:30 PM",
-    "tags": [
-      "Art",
-      "Division of Humanities and Social Sciences",
-      "Performing and Creative Arts"
-    ]
-  },
-  {
-    "title": "North Indian Dance Workshops with Brinda Guha",
-    "link": "https://events.cuny.edu/cec/north-indian-dance-workshops-with-brinda-guha/",
-    "college": "The City College of New York",
-    "date": "2026-09-17",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": [
-      "Brinda Guha"
-    ]
-  },
-  {
-    "title": "Brinda Guha: North Indian dance workshop",
-    "link": "https://events.cuny.edu/cec/brinda-guha-north-indian-dance-workshop/",
-    "college": "The University",
-    "date": "2026-09-17",
-    "time": "5:00 PM",
-    "tags": [
-      "CUNY Dance Initiative"
-    ]
-  },
-  {
-    "title": "Reimagining the Archive: Black Memory as Design Praxis",
-    "link": "https://events.cuny.edu/cec/reimagining-the-archive-black-memory-as-design-praxis/",
-    "college": "The City College of New York",
-    "date": "2026-09-17",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": [
-      "Reimagining the Archive: Black Memory as Design Praxis"
-    ]
-  },
-  {
-    "title": "Free HIV/STI Testing for BMCC Students",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007623",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-17",
-    "time": "12:00 PM - 04:00 PM",
+    "title": "Across Continents: Transnational Asian/American Perspectives (Fall 2026 Seminar)",
+    "link": "https://events.cuny.edu/cec/across-continents-transnational-asian-american-perspectives-fall-2026-seminar/",
+    "college": "Asian American / Asian Research Institute",
+    "date": "2026-09-22",
+    "time": "",
     "tags": []
   },
   {
@@ -2923,22 +2873,6 @@
     "tags": []
   },
   {
-    "title": "Academic Calendar - Fall Regular Session: Verification of Enrollment Rosters Due from faculty",
-    "link": "https://baruch.event.cuny.edu/events/V9MchnnmccB00BwUYHzv/Z0GTNsU4Hn9WDjN7iVSc",
-    "college": "Baruch College",
-    "date": "2026-09-17",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Creativity Social: Make Your Own Notebook",
-    "link": "https://baruch.event.cuny.edu/events/Xf2giQIi0Y1wQybLljUR/kX1H5ii9YwMBjoxLuiN1",
-    "college": "Baruch College",
-    "date": "2026-09-17",
-    "time": "4:00PM",
-    "tags": []
-  },
-  {
     "title": "Academic Calendar - Fall Regular Session: A Grade of W is assigned to students who officially withdraw from a course",
     "link": "https://baruch.event.cuny.edu/events/LqYBreVF5jNPhGtH0JsD/Wl4OPNqqlEbAFQBlg2Q0",
     "college": "Baruch College",
@@ -3019,91 +2953,123 @@
     "tags": []
   },
   {
-    "title": "Verification of Enrollment (VOE) Rosters due from faculty",
-    "link": "https://citytech.event.cuny.edu/events/ZJEut7NiHXicIHwQw08S/TJOz8m6mTtSg751t6nQD",
+    "title": "Developing Thesis Statements",
+    "link": "https://baruch.event.cuny.edu/events/us4SraMyazJhLiJJNHtE/Mg2QMgxLIOG27b4iDPdl",
+    "college": "Baruch College",
+    "date": "2026-09-25",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "WN Grades assigned",
+    "link": "https://citytech.event.cuny.edu/events/Dt20TNnyknYGgwQ0dY8g/CjcCoetedV0n8sHurZG3",
     "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "time": "",
     "tags": []
   },
   {
-    "title": "Connect Day: Departmental Orientation",
-    "link": "https://citytech.event.cuny.edu/events/aRU6wa5QnmkNqBTerOfY/boI3YokhmKZa8BrGLwBR",
+    "title": "A grade of W is assigned to students who officially withdraw from a class.",
+    "link": "https://citytech.event.cuny.edu/events/wkjmfL3tTz6bq4hFWLZs/RzM1xTZCgXU5EHPm7mCQ",
     "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "time": "",
     "tags": []
   },
   {
-    "title": "New York City Blood Drive",
-    "link": "https://citytech.event.cuny.edu/events/bbicPWuxWFan57EkDkMX/aSfVgb2XoPge7ygXG5iX",
+    "title": "External Event- Out in Tech",
+    "link": "https://citytech.event.cuny.edu/events/ySqMnKCOdffMXbtZzCvg/kS61v7u6IsANwRpiou8V",
     "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-17",
-    "time": "9:30AM",
+    "date": "2026-09-18",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "CUNY Explorers",
+    "link": "https://citytech.event.cuny.edu/events/Kw8UhBHS517Ureg37AGj/PoEfU5oqTktwhPQN7Gq51",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-18",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Philosophy reading group",
+    "link": "https://citytech.event.cuny.edu/events/vVzCFOkaO28CTbw0zXYU/bZ0XPtJRuYR6A2OQtAn8",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-18",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Teach an Online Course - HSCI 2301-OL60 (58028)",
+    "link": "https://citytech.event.cuny.edu/events/LVCiGxSa9yJ1o7OmV7t6/hXKKTL4J4FwrkBKPygV04",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-19",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Prof. Chowdhury Office hours",
+    "link": "https://citytech.event.cuny.edu/events/Ltp1KetClGwRezWv7AhC/ERXXaCy7LqLClBkaymoM",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-19",
+    "time": "12:45PM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/g6TQuTZ9CuGsG9EoOTXH/ZZP0GEDSLLb0dFtQCUEK1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-21",
+    "time": "11:30AM",
     "tags": []
   },
   {
     "title": "NYPIRG Tabling",
-    "link": "https://citytech.event.cuny.edu/events/FL5bBy7R3d2ddl5Nh8Xi/fGCoJSjccJQpDbousu6U",
+    "link": "https://citytech.event.cuny.edu/events/FL5bBy7R3d2ddl5Nh8Xi/JUOs7v3ujK4ZCXpOwtS7",
     "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-17",
+    "date": "2026-09-22",
     "time": "11:00AM",
     "tags": []
   },
   {
-    "title": "Unclassified health Connect Day",
-    "link": "https://citytech.event.cuny.edu/events/a0fDmM58yubiuQh0MIxv/GaJOukDcAEATYa7gzTXy",
+    "title": "Marine Tabling",
+    "link": "https://citytech.event.cuny.edu/events/kpO9DFi98vh6Tp1FVyF4/oG6XFuyTXisOm8YN0EKW3",
     "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-17",
-    "time": "12:30PM",
+    "date": "2026-09-22",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "SGA Brewed By The Board",
+    "link": "https://citytech.event.cuny.edu/events/qTC61ptJixZ5IaKLglDU/hocGUCbQ4aogRwVbiKeP",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-22",
+    "time": "12:00PM",
     "tags": []
   },
   {
     "title": "PSC-CUNY City Tech chapter Tabling",
-    "link": "https://citytech.event.cuny.edu/events/Nx3Wm5p5BRmOC0bjAxn4/qciBQTajYiXlJU5iXAK5",
+    "link": "https://citytech.event.cuny.edu/events/Nx3Wm5p5BRmOC0bjAxn4/JE2xQHFDdB8esLESBXgr",
     "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-17",
+    "date": "2026-09-22",
     "time": "12:30PM",
     "tags": []
   },
   {
-    "title": "Chemistry Connect",
-    "link": "https://citytech.event.cuny.edu/events/Ed78nnhWX8ru2FbM3mFI/Da8KVSbnYarssZTrci8a",
+    "title": "SLD Info Session #2",
+    "link": "https://citytech.event.cuny.edu/events/EooKxWVfCrxAKEVeHRsD/b8zOq3tr2Ug2Pwqq5Yia",
     "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-17",
-    "time": "12:45PM",
-    "tags": []
-  },
-  {
-    "title": "Undergraduate Research Mixer",
-    "link": "https://citytech.event.cuny.edu/events/ZZ3ZivmOuHHgnGnGiYFP/v2KGl1cFNIL8LPvN5Ble",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-17",
-    "time": "12:45PM",
-    "tags": []
-  },
-  {
-    "title": "LAA/LAS :Connect Day",
-    "link": "https://citytech.event.cuny.edu/events/Ml5uGSWCK9fW2YdlEESL/M1bHrTudLyhP2JVUqnkn",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-17",
+    "date": "2026-09-22",
     "time": "1:00PM",
     "tags": []
   },
   {
-    "title": "Connect Day Departmental Orientation",
-    "link": "https://citytech.event.cuny.edu/events/mXL99ye9SzWhK9lAuNdD/eJ1oFxZe33l0DhPcmc8t",
+    "title": "Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/K051oBFQ2h3j7Po52UP1/toAUOOe2b1uKyUFqnnUl",
     "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-17",
+    "date": "2026-09-22",
     "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Tabling",
-    "link": "https://hostos.event.cuny.edu/events/keSwIE5OwPccRuerOpwu/93esEj1wv0ogHKfeqOTi3",
-    "college": "Hostos Community College",
-    "date": "2026-09-17",
-    "time": "12:00PM",
     "tags": []
   },
   {
@@ -3147,11 +3113,19 @@
     "tags": []
   },
   {
-    "title": "CUNY SPH Welcome Week",
-    "link": "https://sph.cuny.edu/event/cuny-sph-welcome-week-4/",
-    "college": "CUNY School of Public Health",
-    "date": "2026-09-17",
-    "time": "5:00PM",
+    "title": "2026 Hostos Community College Homecoming",
+    "link": "https://hostos.event.cuny.edu/events/rFvZ992pwBW1A8txC05f/rlVb7PpNWv0t1wztc6dG",
+    "college": "Hostos Community College",
+    "date": "2026-09-25",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "Hostos Student Leadership Academy Friday Ambassador Workshop Series",
+    "link": "https://hostos.event.cuny.edu/events/KaiCmuTgfnuq3kqBvxM0/mu3V8jaHVvoFLuNkdgoV",
+    "college": "Hostos Community College",
+    "date": "2026-09-25",
+    "time": "2:00PM",
     "tags": []
   },
   {
@@ -3331,46 +3305,6 @@
     "tags": []
   },
   {
-    "title": "Music Has Power® for Aphasia",
-    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia.php?event_type=recurs_3",
-    "college": "Lehman College",
-    "date": "2026-09-17",
-    "time": "10:30 AM- 11:30 AM",
-    "tags": []
-  },
-  {
-    "title": "Fall 2026 Convocation Ceremony",
-    "link": "https://www.lehman.edu/events/2026/Fall-2026-Convocation-Ceremony.php",
-    "college": "Lehman College",
-    "date": "2026-09-17",
-    "time": "1:00 PM- 2:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Music for Veterans",
-    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans.php?event_type=recurs_3",
-    "college": "Lehman College",
-    "date": "2026-09-17",
-    "time": "1:30 PM- 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "English M.A. Information Session",
-    "link": "https://www.lehman.edu/events/2026/English-MA-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "2026-09-17",
-    "time": "5:30 PM- 6:30 PM",
-    "tags": []
-  },
-  {
-    "title": "The Tempest",
-    "link": "https://www.lehman.edu/events/2026/The-Tempest.php?event_type=recurs_4",
-    "college": "Lehman College",
-    "date": "2026-09-17",
-    "time": "7:00 PM- 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Italians and Albanians in the Bronx – celebrating Library’s Joseph Tusiani Collection",
     "link": "https://www.lehman.edu/events/2026/Italians-and-Albanians-in-the-Bronx--celebrating-Librarys-Joseph-Tusiani-Collection.php",
     "college": "Lehman College",
@@ -3408,6 +3342,46 @@
     "college": "Lehman College",
     "date": "2026-09-23",
     "time": "3:45 PM- 4:45 PM",
+    "tags": []
+  },
+  {
+    "title": "Science Education M.S.Ed. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Science-Education-MSEd-Information-Session--2.php",
+    "college": "Lehman College",
+    "date": "2026-09-23",
+    "time": "6:00 PM- 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Music Has Power® for Aphasia",
+    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia.php?event_type=recurs_4",
+    "college": "Lehman College",
+    "date": "2026-09-24",
+    "time": "10:30 AM- 11:30 AM",
+    "tags": []
+  },
+  {
+    "title": "Reimagining the Classroom: Ask Me Anything Session",
+    "link": "https://www.lehman.edu/events/2026/Reimagining-the-Classroom-Ask-Me-Anything-Session.php",
+    "college": "Lehman College",
+    "date": "2026-09-24",
+    "time": "12:00 PM- 1:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Music for Veterans",
+    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans.php?event_type=recurs_4",
+    "college": "Lehman College",
+    "date": "2026-09-24",
+    "time": "1:30 PM- 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Reimagining the Classroom: Getting Started with Transforming your Course",
+    "link": "https://www.lehman.edu/events/2026/Reimagining-the-Classroom-Getting-Started-with-Transforming-your-Course-1.php",
+    "college": "Lehman College",
+    "date": "2026-09-24",
+    "time": "2:00 PM- 2:00 PM",
     "tags": []
   },
   {
