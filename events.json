@@ -1,16 +1,5 @@
 [
   {
-    "title": "Community Health Fair",
-    "link": "https://www.mec.cuny.edu/event/community-health-fair/",
-    "college": "Medgar Evers College",
-    "date": "2026-09-19",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "Health Services",
-      "Transition Academy"
-    ]
-  },
-  {
     "title": "Mary Umulo Jazzy Jazz Celebration",
     "link": "https://www.mec.cuny.edu/event/mary-umulo-jazzy-jazz-celebration/",
     "college": "Medgar Evers College",
@@ -2573,30 +2562,6 @@
     "tags": []
   },
   {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-3/",
-    "college": "Bronx Community College",
-    "date": "2026-09-28",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
-    ]
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-4/",
-    "college": "Bronx Community College",
-    "date": "2026-10-05",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
-    ]
-  },
-  {
     "title": "Fall 2026 Blood Drive",
     "link": "https://www.bcc.cuny.edu/event/fall-2026-blood-drive/",
     "college": "Bronx Community College",
@@ -2605,8 +2570,7 @@
     "tags": [
       "Campus Events",
       "Feature",
-      "Health & Fitness Events",
-      "Student Success"
+      "Health & Fitness Events"
     ]
   },
   {
@@ -2620,18 +2584,6 @@
       "Feature",
       "Graduation & Commencement",
       "Transfer Planning"
-    ]
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-5/",
-    "college": "Bronx Community College",
-    "date": "2026-10-19",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
     ]
   },
   {
@@ -2663,48 +2615,12 @@
     ]
   },
   {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-6/",
-    "college": "Bronx Community College",
-    "date": "2026-10-26",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
-    ]
-  },
-  {
-    "title": "Financial Aid Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/financial-aid-virtual-counter/",
-    "college": "Bronx Community College",
-    "date": "2026-10-26",
-    "time": "03:00 PM - 06:00 PM",
-    "tags": [
-      "Feature",
-      "Financial Aid",
-      "Virtual Event"
-    ]
-  },
-  {
     "title": "Student Activities",
     "link": "https://www.bcc.cuny.edu/event/student-activities/",
     "college": "Bronx Community College",
     "date": "2026-10-30",
     "time": "03:00 PM - 04:00 PM",
     "tags": []
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-7/",
-    "college": "Bronx Community College",
-    "date": "2026-11-02",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "Feature",
-      "Office of the Registrar",
-      "Virtual Event"
-    ]
   },
   {
     "title": "Women's Basketball: Bronx Broncos vs. Hostos Community College",
@@ -2738,10 +2654,8 @@
     "time": "11:59 PM - 11:59 PM",
     "tags": [
       "Academic Calendar",
-      "Enrollment Management & Retention",
       "Feature",
-      "Financial Aid",
-      "Office of the Registrar"
+      "Financial Aid"
     ]
   },
   {
@@ -2750,6 +2664,65 @@
     "college": "Bronx Community College",
     "date": "2026-11-07",
     "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Athletics",
+      "Feature",
+      "Women's Initiatives"
+    ]
+  },
+  {
+    "title": "Men's Basketball: Bronx Broncos vs. SUNY Sullivan",
+    "link": "https://www.bcc.cuny.edu/event/mens-basketball-bronx-broncos-vs-suny-sullivan/",
+    "college": "Bronx Community College",
+    "date": "2026-11-07",
+    "time": "04:00 PM - 06:00 PM",
+    "tags": [
+      "Athletics",
+      "Feature",
+      "Men's Initiatives"
+    ]
+  },
+  {
+    "title": "Fall 2026 Graduation Mixer",
+    "link": "https://www.bcc.cuny.edu/event/fall-2026-graduation-mixer/",
+    "college": "Bronx Community College",
+    "date": "2026-11-12",
+    "time": "12:00 PM - 06:00 PM",
+    "tags": [
+      "Feature",
+      "Graduation & Commencement"
+    ]
+  },
+  {
+    "title": "Women's Basketball: Bronx Broncos vs. Kingsborough Community College",
+    "link": "https://www.bcc.cuny.edu/event/womens-basketball-bronx-broncos-vs-kingsborough-community-college/",
+    "college": "Bronx Community College",
+    "date": "2026-11-12",
+    "time": "05:00 PM - 07:00 PM",
+    "tags": [
+      "Athletics",
+      "Feature",
+      "Women's Initiatives"
+    ]
+  },
+  {
+    "title": "Men's Basketball: Bronx Broncos vs. Kingsborough Community College",
+    "link": "https://www.bcc.cuny.edu/event/mens-basketball-bronx-broncos-vs-kingsborough-community-college/",
+    "college": "Bronx Community College",
+    "date": "2026-11-12",
+    "time": "07:00 PM - 09:00 PM",
+    "tags": [
+      "Athletics",
+      "Feature",
+      "Men's Initiatives"
+    ]
+  },
+  {
+    "title": "Women's Basketball: Bronx Broncos vs. Nassau Community College",
+    "link": "https://www.bcc.cuny.edu/event/womens-basketball-bronx-broncos-vs-nassau-community-college/",
+    "college": "Bronx Community College",
+    "date": "2026-11-14",
+    "time": "12:00 PM - 02:00 PM",
     "tags": [
       "Athletics",
       "Feature",
@@ -2935,14 +2908,6 @@
     "tags": []
   },
   {
-    "title": "Reading Strategies for Grad Students",
-    "link": "https://baruch.event.cuny.edu/events/ISLl4ZIgFx5mS9FTCwvK/bjl6XJtM4Um0uMR3zULa",
-    "college": "Baruch College",
-    "date": "2026-09-19",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
     "title": "Book Club Series",
     "link": "https://baruch.event.cuny.edu/events/bojgvmhnXLFijpPPNVlh/E7hCesQJllEjjtDIOt2y1",
     "college": "Baruch College",
@@ -2999,27 +2964,11 @@
     "tags": []
   },
   {
-    "title": "Teach an Online Course - HSCI 2301-OL60 (58028)",
-    "link": "https://citytech.event.cuny.edu/events/LVCiGxSa9yJ1o7OmV7t6/hXKKTL4J4FwrkBKPygV04",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-19",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "Prof. Chowdhury Office hours",
-    "link": "https://citytech.event.cuny.edu/events/Ltp1KetClGwRezWv7AhC/ERXXaCy7LqLClBkaymoM",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-19",
-    "time": "12:45PM",
-    "tags": []
-  },
-  {
-    "title": "Math Tutoring Fall 2026",
-    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA3",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-19",
-    "time": "3:00PM",
+    "title": "Academic Calendar - Fall Regular Session: WA Grades Assigned- Immunization non-compliance",
+    "link": "https://baruch.event.cuny.edu/events/L2HfXaF3zsG2eeXudFGO/q4xkG885P1Dtn1MoQMqV",
+    "college": "Baruch College",
+    "date": "2026-09-27",
+    "time": "",
     "tags": []
   },
   {
@@ -3140,6 +3089,30 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-09-23",
     "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Math Tutoring Fall 2026",
+    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA6",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-23",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "TTP Showcase",
+    "link": "https://citytech.event.cuny.edu/events/S1Wxwql9VJAzSKHheJ7l/sl8psKzst1FDKnS9ACKg",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-23",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center High School Equivalency Class",
+    "link": "https://citytech.event.cuny.edu/events/WLKCv1H60LfQMXwvwVbm/khJOOksgZT37KmJWo3sp2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-23",
+    "time": "6:00PM",
     "tags": []
   },
   {
@@ -3375,14 +3348,6 @@
     "tags": []
   },
   {
-    "title": "The Tempest",
-    "link": "https://www.lehman.edu/events/2026/The-Tempest.php?event_type=recurs_6",
-    "college": "Lehman College",
-    "date": "2026-09-19",
-    "time": "7:00 PM- 10:00 PM",
-    "tags": []
-  },
-  {
     "title": "Business M.S. Information Session",
     "link": "https://www.lehman.edu/events/2026/Business-MS-Information-Session--2.php",
     "college": "Lehman College",
@@ -3452,6 +3417,14 @@
     "college": "Lehman College",
     "date": "2026-09-24",
     "time": "7:00 PM- 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Lehman Night at Yankee Stadium",
+    "link": "https://www.lehman.edu/events/2026/Lehman-Night-at-Yankee-Stadium.php",
+    "college": "Lehman College",
+    "date": "2026-09-24",
+    "time": "7:05 PM- 10:00 PM",
     "tags": []
   },
   {
@@ -3532,158 +3505,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-10-16",
     "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Scholarships 101",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarships-101",
-    "college": "York College",
-    "date": "2026-09-21",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Bachelor in Clinical Laboratory Science - Sep 22",
-    "link": "https://www.york.cuny.edu/events/2026/bachelor-in-clinical-laboratory-science",
-    "college": "York College",
-    "date": "2026-09-22",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Study Abroad 101: Your Global Journey Starts Here 9/22",
-    "link": "https://www.york.cuny.edu/events/2026/study-abroad-101-your-global-journey-starts-here-5",
-    "college": "York College",
-    "date": "2026-09-22",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Tennis vs. Pratt Institute",
-    "link": "https://www.york.cuny.edu/events/2026/w-tennis-vs-pratt-09222026",
-    "college": "York College",
-    "date": "2026-09-22",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "AdvisorFest - Fall 26",
-    "link": "https://www.york.cuny.edu/advisement/events/advisorfest-fall26",
-    "college": "York College",
-    "date": "2026-09-23",
-    "time": "2:30 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-09-23",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Marketing Information Session - 9/23",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/sept-23rd-marketing-information-session",
-    "college": "York College",
-    "date": "2026-09-23",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Soccer vs. Medgar Evers College",
-    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-medgar-evers-09232026",
-    "college": "York College",
-    "date": "2026-09-23",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Theatre Games Workshop",
-    "link": "https://www.york.cuny.edu/performing-fine-arts/programs/speech-comm-theatre-arts/theatre-games-workshop",
-    "college": "York College",
-    "date": "2026-09-24",
-    "time": "4:00 PM - 5:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Library Skills 101 September",
-    "link": "https://www.york.cuny.edu/events/2026/library-skills-101-september",
-    "college": "York College",
-    "date": "2026-09-24",
-    "time": "4:45 PM - 5:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Study Abroad 101: Your Global Journey Starts Here 9/25",
-    "link": "https://www.york.cuny.edu/events/2026/study-abroad-101-your-global-journey-starts-here-6",
-    "college": "York College",
-    "date": "2026-09-25",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Soccer vs. Pratt Institute",
-    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-pratt-09262026",
-    "college": "York College",
-    "date": "2026-09-26",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "WA Grades assigned – Immunization non-compliance",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/wa-grades-assigned-immunization-non-compliance-2",
-    "college": "York College",
-    "date": "2026-09-27",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Travel, Learn, Afford: Financing Your Study Abroad Experience 9/28",
-    "link": "https://www.york.cuny.edu/events/2026/travel-learn-afford-financing-your-study-abroad-experience-3",
-    "college": "York College",
-    "date": "2026-09-28",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Writing Concisely: The Art of the 300-Word Essay 9/29",
-    "link": "https://www.york.cuny.edu/events/2026/writing-concisely-the-art-of-the-300-word-essay-3",
-    "college": "York College",
-    "date": "2026-09-29",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Sep 30",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep30",
-    "college": "York College",
-    "date": "2026-09-30",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Soccer vs. Saint Elizabeth University",
-    "link": "https://www.york.cuny.edu/events/2026/w-soccer-vs-saint-elizabeth-09302026",
-    "college": "York College",
-    "date": "2026-09-30",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fresh Produce Day - October 1st",
-    "link": "https://www.york.cuny.edu/womens-center/fresh-produce-day-october-1st",
-    "college": "York College",
-    "date": "2026-10-01",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "2026 Homecoming/ Spirit Week: 1966 Day",
-    "link": "https://www.york.cuny.edu/events/2026/2026-homecoming-spirit-week-1966-day",
-    "college": "York College",
-    "date": "2026-10-05",
-    "time": "4:00 AM - 3:59 AM",
     "tags": []
   },
   {
