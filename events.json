@@ -1178,17 +1178,6 @@
     "tags": []
   },
   {
-    "title": "Admissions In-Person Adult Information Session",
-    "link": "https://www.laguardia.edu/event/admissions-in-person-adult-information-session/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-21",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
     "title": "Leadership Networking Social (Orientation)",
     "link": "https://www.laguardia.edu/event/leadership-networking-social-orientation/",
     "college": "LaGuardia Community College",
@@ -1344,6 +1333,18 @@
     "tags": [
       "all calendars",
       "Featured",
+      "student events"
+    ]
+  },
+  {
+    "title": "Bindlestiff College Matinee",
+    "link": "https://www.laguardia.edu/event/bindlestiff-college-matinee/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-23",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "all calendars",
+      "Faculty and Staff",
       "student events"
     ]
   },
@@ -2346,14 +2347,16 @@
   },
   {
     "title": "Healing Through Hip-Hop and Creative Expression",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression-8/2026-09-23/",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression-7/2026-09-23/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-09-23",
     "time": "03:00 PM - 05:00 PM",
     "tags": [
       "Counseling Center",
+      "Evening-Weekend",
       "Featured",
-      "Student Affairs"
+      "Student Affairs",
+      "Urban Male Leadership Academy (UMLA)"
     ]
   },
   {
@@ -2545,23 +2548,38 @@
     ]
   },
   {
-    "title": "Health and Wellness Fair",
-    "link": "https://www.bmcc.cuny.edu/event/health-and-wellness-fair-4/2026-10-05/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-05",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services"
-    ]
-  },
-  {
     "title": "Senate",
     "link": "https://www.bcc.cuny.edu/event/senate/",
     "college": "Bronx Community College",
     "date": "2026-09-24",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
+  },
+  {
+    "title": "Bronco Hope Market",
+    "link": "https://www.bcc.cuny.edu/event/bronco-hope-market/",
+    "college": "Bronx Community College",
+    "date": "2026-10-07",
+    "time": "10:00 AM - 05:00 PM",
+    "tags": [
+      "Feature",
+      "Food Pantry",
+      "Health & Fitness Events",
+      "Student Success"
+    ]
+  },
+  {
+    "title": "Bronco Hope Market",
+    "link": "https://www.bcc.cuny.edu/event/bronco-hope-market-2/",
+    "college": "Bronx Community College",
+    "date": "2026-10-08",
+    "time": "11:00 AM - 06:30 PM",
+    "tags": [
+      "Feature",
+      "Food Pantry",
+      "Health & Fitness Events",
+      "Student Success"
+    ]
   },
   {
     "title": "Fall 2026 Blood Drive",
@@ -2586,6 +2604,32 @@
       "Feature",
       "Graduation & Commencement",
       "Transfer Planning"
+    ]
+  },
+  {
+    "title": "Bronco Hope Market",
+    "link": "https://www.bcc.cuny.edu/event/bronco-hope-market-3/",
+    "college": "Bronx Community College",
+    "date": "2026-10-21",
+    "time": "10:00 AM - 05:00 PM",
+    "tags": [
+      "Feature",
+      "Food Pantry",
+      "Health & Fitness Events",
+      "Student Success"
+    ]
+  },
+  {
+    "title": "Bronco Hope Market",
+    "link": "https://www.bcc.cuny.edu/event/bronco-hope-market-4/",
+    "college": "Bronx Community College",
+    "date": "2026-10-22",
+    "time": "11:00 AM - 06:30 PM",
+    "tags": [
+      "Feature",
+      "Food Pantry",
+      "Health & Fitness Events",
+      "Student Success"
     ]
   },
   {
@@ -2623,6 +2667,32 @@
     "date": "2026-10-30",
     "time": "03:00 PM - 04:00 PM",
     "tags": []
+  },
+  {
+    "title": "Bronco Hope Market",
+    "link": "https://www.bcc.cuny.edu/event/bronco-hope-market-5/",
+    "college": "Bronx Community College",
+    "date": "2026-11-04",
+    "time": "10:00 AM - 05:00 PM",
+    "tags": [
+      "Feature",
+      "Food Pantry",
+      "Health & Fitness Events",
+      "Student Success"
+    ]
+  },
+  {
+    "title": "Bronco Hope Market",
+    "link": "https://www.bcc.cuny.edu/event/bronco-hope-market-6/",
+    "college": "Bronx Community College",
+    "date": "2026-11-05",
+    "time": "11:00 AM - 06:30 PM",
+    "tags": [
+      "Feature",
+      "Food Pantry",
+      "Health & Fitness Events",
+      "Student Success"
+    ]
   },
   {
     "title": "Women's Basketball: Bronx Broncos vs. Hostos Community College",
@@ -2672,66 +2742,6 @@
     ]
   },
   {
-    "title": "Men's Basketball: Bronx Broncos vs. SUNY Sullivan",
-    "link": "https://www.bcc.cuny.edu/event/mens-basketball-bronx-broncos-vs-suny-sullivan/",
-    "college": "Bronx Community College",
-    "date": "2026-11-07",
-    "time": "04:00 PM - 06:00 PM",
-    "tags": [
-      "Athletics",
-      "Feature",
-      "Men's Initiatives"
-    ]
-  },
-  {
-    "title": "Fall 2026 Graduation Mixer",
-    "link": "https://www.bcc.cuny.edu/event/fall-2026-graduation-mixer/",
-    "college": "Bronx Community College",
-    "date": "2026-11-12",
-    "time": "12:00 PM - 06:00 PM",
-    "tags": [
-      "Feature",
-      "Graduation & Commencement",
-      "Office of the Registrar"
-    ]
-  },
-  {
-    "title": "Women's Basketball: Bronx Broncos vs. Kingsborough Community College",
-    "link": "https://www.bcc.cuny.edu/event/womens-basketball-bronx-broncos-vs-kingsborough-community-college/",
-    "college": "Bronx Community College",
-    "date": "2026-11-12",
-    "time": "05:00 PM - 07:00 PM",
-    "tags": [
-      "Athletics",
-      "Feature",
-      "Women's Initiatives"
-    ]
-  },
-  {
-    "title": "Men's Basketball: Bronx Broncos vs. Kingsborough Community College",
-    "link": "https://www.bcc.cuny.edu/event/mens-basketball-bronx-broncos-vs-kingsborough-community-college/",
-    "college": "Bronx Community College",
-    "date": "2026-11-12",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "Athletics",
-      "Feature",
-      "Men's Initiatives"
-    ]
-  },
-  {
-    "title": "Women's Basketball: Bronx Broncos vs. Nassau Community College",
-    "link": "https://www.bcc.cuny.edu/event/womens-basketball-bronx-broncos-vs-nassau-community-college/",
-    "college": "Bronx Community College",
-    "date": "2026-11-14",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Athletics",
-      "Feature",
-      "Women's Initiatives"
-    ]
-  },
-  {
     "title": "Subtle Subversions: The Art of Patricia Espinosa",
     "link": "https://events.cuny.edu/cec/subtle-subversions-the-art-of-patricia-espinosa-2/",
     "college": "College of Staten Island",
@@ -2742,30 +2752,6 @@
       "Division of Humanities and Social Sciences",
       "Performing and Creative Arts"
     ]
-  },
-  {
-    "title": "Business M.S. Information Session",
-    "link": "https://lehman.edu/events/2026/Business-MS-Information-Session--2.php",
-    "college": "Lehman College",
-    "date": "2026-09-21",
-    "time": "5:30 PM - 6:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Academic Coaching Workshop: Think First, AI Second: Using AI to Strengthen Your Learning (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/?p=682326",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-21",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Essay Writing Workshops – BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007700",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-21",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
   },
   {
     "title": "Across Continents: Transnational Asian/American Perspectives (Fall 2026 Seminar)",
@@ -2812,6 +2798,14 @@
     "tags": [
       "Graduate Information Sessions"
     ]
+  },
+  {
+    "title": "Essay Writing Workshops – BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007701",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-22",
+    "time": "01:30 PM - 03:30 PM",
+    "tags": []
   },
   {
     "title": "Learning Commons Workshops",
@@ -3383,7 +3377,7 @@
   },
   {
     "title": "Business M.S. Information Session",
-    "link": "https://www.lehman.edu/events/2026/Business-MS-Information-Session--2.php",
+    "link": "https://www.lehman.edu/events/2026/Business-MS-Information-Session-.php",
     "college": "Lehman College",
     "date": "2026-09-21",
     "time": "5:30 PM- 6:30 PM",
