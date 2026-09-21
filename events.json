@@ -304,6 +304,14 @@
     ]
   },
   {
+    "title": "Audience Studio Live: The Gettable Audience",
+    "link": "https://www.journalism.cuny.edu/events/audience-studio-live-the-gettable-audience/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-10-08",
+    "time": "09:00 AM - 05:00 PM",
+    "tags": []
+  },
+  {
     "title": "Digital Safety Workshop",
     "link": "https://www.journalism.cuny.edu/events/digital-safety-workshop/2026-10-08/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -429,16 +437,6 @@
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2026-12-10",
     "time": "06:00 PM - 06:00 PM",
-    "tags": [
-      "Future Students"
-    ]
-  },
-  {
-    "title": "Virtual Information Session",
-    "link": "https://www.journalism.cuny.edu/events/virtual-information-session-3/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2027-01-14",
-    "time": "01:00 PM - 01:00 PM",
     "tags": [
       "Future Students"
     ]
@@ -1180,14 +1178,6 @@
     "tags": []
   },
   {
-    "title": "AES/Annual Assessment Tracking Refresher",
-    "link": "https://www.laguardia.edu/event/aes-annual-assessment-tracking-refresher/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-21",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": []
-  },
-  {
     "title": "Admissions In-Person Adult Information Session",
     "link": "https://www.laguardia.edu/event/admissions-in-person-adult-information-session/",
     "college": "LaGuardia Community College",
@@ -1399,6 +1389,18 @@
     "time": "12:00 PM - 12:30 PM",
     "tags": [
       "all calendars",
+      "student events"
+    ]
+  },
+  {
+    "title": "Santander Bank: Financial Literacy & Resume Review",
+    "link": "https://www.laguardia.edu/event/santander-bank-financial-literacy-resume-review/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-24",
+    "time": "12:00 PM - 03:00 PM",
+    "tags": [
+      "all calendars",
+      "Featured",
       "student events"
     ]
   },
@@ -1962,7 +1964,7 @@
     ]
   },
   {
-    "title": "Campus Navigation: Global Class Search and Degree Maps",
+    "title": "Diving into using Global Class Search & Degree Maps",
     "link": "https://www.hunter.cuny.edu/event/campus-navigation-global-class-search-and-degree-maps/",
     "college": "Hunter College",
     "date": "2026-09-24",
@@ -2096,7 +2098,7 @@
     "tags": []
   },
   {
-    "title": "Application-Based Majors: Preparation for Social Work",
+    "title": "Preparation for Social Work: Interested in the BSW program?",
     "link": "https://www.hunter.cuny.edu/event/application-based-majors-preparation-for-social-work/",
     "college": "Hunter College",
     "date": "2026-09-29",
@@ -2171,41 +2173,6 @@
     ]
   },
   {
-    "title": "Essay Writing Workshops - BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/essay-writing-workshops-bmcc-writing-center/2026-09-21/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-21",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Academic Affairs",
-      "Academic Calendar",
-      "Academic Literacy and Linguistics",
-      "CUNY in The Heights",
-      "CUNY Start",
-      "English",
-      "Evening-Weekend",
-      "Featured",
-      "Human Services",
-      "Human Services and Criminal Justice",
-      "Learning Resource Center",
-      "Scholarships",
-      "Workshops",
-      "Writing Across the Curriculum (WAC)",
-      "Writing Center"
-    ]
-  },
-  {
-    "title": "Academic Coaching Workshop: Think First, AI Second: Using AI to Strengthen Your Learning (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/academic-coaching-workshop-think-first-ai-second-using-ai-to-strengthen-your-learning-students-only/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-21",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "Featured",
-      "Learning Resource Center"
-    ]
-  },
-  {
     "title": "Exhale to Inhale: Healing Yoga",
     "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-5/2026-09-22/",
     "college": "Borough of Manhattan Community College",
@@ -2239,6 +2206,30 @@
     "tags": [
       "Admissions",
       "Featured"
+    ]
+  },
+  {
+    "title": "Essay Writing Workshops - BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/essay-writing-workshops-bmcc-writing-center/2026-09-22/1/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-22",
+    "time": "01:30 PM - 03:30 PM",
+    "tags": [
+      "Academic Affairs",
+      "Academic Calendar",
+      "Academic Literacy and Linguistics",
+      "CUNY in The Heights",
+      "CUNY Start",
+      "English",
+      "Evening-Weekend",
+      "Featured",
+      "Human Services",
+      "Human Services and Criminal Justice",
+      "Learning Resource Center",
+      "Scholarships",
+      "Workshops",
+      "Writing Across the Curriculum (WAC)",
+      "Writing Center"
     ]
   },
   {
@@ -2554,6 +2545,17 @@
     ]
   },
   {
+    "title": "Health and Wellness Fair",
+    "link": "https://www.bmcc.cuny.edu/event/health-and-wellness-fair-4/2026-10-05/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-05",
+    "time": "10:00 AM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services"
+    ]
+  },
+  {
     "title": "Senate",
     "link": "https://www.bcc.cuny.edu/event/senate/",
     "college": "Bronx Community College",
@@ -2747,6 +2749,14 @@
     "college": "Lehman College",
     "date": "2026-09-21",
     "time": "5:30 PM - 6:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Academic Coaching Workshop: Think First, AI Second: Using AI to Strengthen Your Learning (Students Only)",
+    "link": "https://www.bmcc.cuny.edu/event/?p=682326",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-21",
+    "time": "12:00 PM - 01:30 PM",
     "tags": []
   },
   {
@@ -2949,7 +2959,7 @@
   },
   {
     "title": "2026 Inaugural Baruch College Affordable Housing Forum",
-    "link": "https://baruch.event.cuny.edu/events/u4Nmgxwfan7iF3OsFEtG/IiHFrhJ8noHu5P1nzbtN",
+    "link": "https://baruch.event.cuny.edu/events/u4Nmgxwfan7iF3OsFEtG/I5pRxH9tJUB9g0LTgRGl",
     "college": "Baruch College",
     "date": "2026-09-23",
     "time": "12:30PM",
@@ -3532,155 +3542,91 @@
     "tags": []
   },
   {
-    "title": "Scholarships 101",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarships-101",
-    "college": "York College",
-    "date": "2026-09-21",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
+    "title": "INFORMATION ASSURANCE RESEARCH PANEL",
+    "link": "https://www.gc.cuny.edu/events/information-assurance-research-panel",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
   },
   {
-    "title": "Bachelor in Clinical Laboratory Science - Sep 22",
-    "link": "https://www.york.cuny.edu/events/2026/bachelor-in-clinical-laboratory-science",
-    "college": "York College",
-    "date": "2026-09-22",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
+    "title": "GAMING TECHNOLOGY AND EDUCATION PANEL",
+    "link": "https://www.gc.cuny.edu/events/gaming-technology-and-education-panel",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-14",
+    "time": "12:00 pm — 5:00 pm",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
   },
   {
-    "title": "Study Abroad 101: Your Global Journey Starts Here 9/22",
-    "link": "https://www.york.cuny.edu/events/2026/study-abroad-101-your-global-journey-starts-here-5",
-    "college": "York College",
-    "date": "2026-09-22",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
+    "title": "E-COMMERCE SECURITY HOT TOPICS",
+    "link": "https://www.gc.cuny.edu/events/e-commerce-security-hot-topics",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-30",
+    "time": "2:00 pm — 5:00 pm",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
   },
   {
-    "title": "AdvisorFest - Fall 26",
-    "link": "https://www.york.cuny.edu/advisement/events/advisorfest-fall26",
-    "college": "York College",
-    "date": "2026-09-23",
-    "time": "2:30 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-09-23",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Marketing Information Session - 9/23",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/sept-23rd-marketing-information-session",
-    "college": "York College",
-    "date": "2026-09-23",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Soccer vs. Medgar Evers College",
-    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-medgar-evers-09232026",
-    "college": "York College",
-    "date": "2026-09-23",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Theatre Games Workshop",
-    "link": "https://www.york.cuny.edu/performing-fine-arts/programs/speech-comm-theatre-arts/theatre-games-workshop",
-    "college": "York College",
-    "date": "2026-09-24",
-    "time": "4:00 PM - 5:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Library Skills 101 September",
-    "link": "https://www.york.cuny.edu/events/2026/library-skills-101-september",
-    "college": "York College",
-    "date": "2026-09-24",
-    "time": "4:45 PM - 5:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Study Abroad 101: Your Global Journey Starts Here 9/25",
-    "link": "https://www.york.cuny.edu/events/2026/study-abroad-101-your-global-journey-starts-here-6",
-    "college": "York College",
-    "date": "2026-09-25",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Soccer vs. Pratt Institute",
-    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-pratt-09262026",
-    "college": "York College",
+    "title": "FRANTZ FANON AND THE FUTURE OF CULTURAL POLITICS",
+    "link": "https://www.gc.cuny.edu/events/frantz-fanon-and-future-cultural-politics",
+    "college": "CUNY Graduate Center",
     "date": "2026-09-26",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
+    "time": "2:00 pm",
+    "location": "5409: DGSC Meeting Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
   },
   {
-    "title": "WA Grades assigned – Immunization non-compliance",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/wa-grades-assigned-immunization-non-compliance-2",
-    "college": "York College",
-    "date": "2026-09-27",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
+    "title": "NATIONALISM, INTERNATIONALISM, COSMOPOLITANISM WITH PARTHA CHATERJEE",
+    "link": "https://www.gc.cuny.edu/events/nationalism-internationalism-cosmopolitanism-partha-chaterjee",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-02",
+    "time": "4:30 pm",
+    "location": "TBD",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
   },
   {
-    "title": "Travel, Learn, Afford: Financing Your Study Abroad Experience 9/28",
-    "link": "https://www.york.cuny.edu/events/2026/travel-learn-afford-financing-your-study-abroad-experience-3",
-    "college": "York College",
-    "date": "2026-09-28",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
+    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
+    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-25",
+    "time": "6:30 pm",
+    "location": "C198",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
   },
   {
-    "title": "Writing Concisely: The Art of the 300-Word Essay 9/29",
-    "link": "https://www.york.cuny.edu/events/2026/writing-concisely-the-art-of-the-300-word-essay-3",
-    "college": "York College",
-    "date": "2026-09-29",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-20",
+    "time": "",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
   },
   {
-    "title": "Women’s Tennis vs. St. Joseph’s University (L.I.)",
-    "link": "https://www.york.cuny.edu/events/2026/w-tennis-vs-sjli-09292026",
-    "college": "York College",
-    "date": "2026-09-29",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Sep 30",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-sep30",
-    "college": "York College",
-    "date": "2026-09-30",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Soccer vs. Saint Elizabeth University",
-    "link": "https://www.york.cuny.edu/events/2026/w-soccer-vs-saint-elizabeth-09302026",
-    "college": "York College",
-    "date": "2026-09-30",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fresh Produce Day - October 1st",
-    "link": "https://www.york.cuny.edu/womens-center/fresh-produce-day-october-1st",
-    "college": "York College",
-    "date": "2026-10-01",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "2026 Homecoming/ Spirit Week: 1966 Day",
-    "link": "https://www.york.cuny.edu/events/2026/2026-homecoming-spirit-week-1966-day",
-    "college": "York College",
-    "date": "2026-10-05",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
+    "college": "CUNY Graduate Center",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
   }
 ]
