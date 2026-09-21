@@ -2654,8 +2654,7 @@
     "time": "11:59 PM - 11:59 PM",
     "tags": [
       "Academic Calendar",
-      "Feature",
-      "Financial Aid"
+      "Feature"
     ]
   },
   {
@@ -2690,7 +2689,8 @@
     "time": "12:00 PM - 06:00 PM",
     "tags": [
       "Feature",
-      "Graduation & Commencement"
+      "Graduation & Commencement",
+      "Office of the Registrar"
     ]
   },
   {
@@ -2908,6 +2908,22 @@
     "tags": []
   },
   {
+    "title": "Learning Commons Workshops",
+    "link": "https://qc.event.cuny.edu/events/jexWsnPBpj4VSiMUkO1s/Cn7aGNHiTu5OSfZgxFtw9",
+    "college": "Queens College",
+    "date": "2026-09-28",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Math Dept Review Sessions",
+    "link": "https://qc.event.cuny.edu/events/YQS7FA7iXKZZR0SuInVQ/u43J7l2KV54kJJFaV9e39",
+    "college": "Queens College",
+    "date": "2026-09-28",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
     "title": "Book Club Series",
     "link": "https://baruch.event.cuny.edu/events/bojgvmhnXLFijpPPNVlh/E7hCesQJllEjjtDIOt2y1",
     "college": "Baruch College",
@@ -2969,6 +2985,14 @@
     "college": "Baruch College",
     "date": "2026-09-27",
     "time": "",
+    "tags": []
+  },
+  {
+    "title": "2nd Annual Champion of Higher Education Award Lecture",
+    "link": "https://baruch.event.cuny.edu/events/OnnpHDaM8X9fyci9FGXV/B2yWuWKFX17dxQCMklpS",
+    "college": "Baruch College",
+    "date": "2026-09-28",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -3658,93 +3682,5 @@
     "date": "2026-10-05",
     "time": "4:00 AM - 3:59 AM",
     "tags": []
-  },
-  {
-    "title": "INFORMATION ASSURANCE RESEARCH PANEL",
-    "link": "https://www.gc.cuny.edu/events/information-assurance-research-panel",
-    "college": "CUNY Graduate Center",
-    "date": "2026-10-28",
-    "time": "",
-    "location": "TBD",
-    "tags": [
-      "CUNY Institute for Software Design and Development"
-    ]
-  },
-  {
-    "title": "GAMING TECHNOLOGY AND EDUCATION PANEL",
-    "link": "https://www.gc.cuny.edu/events/gaming-technology-and-education-panel",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-14",
-    "time": "12:00 pm — 5:00 pm",
-    "location": "TBD",
-    "tags": [
-      "CUNY Institute for Software Design and Development"
-    ]
-  },
-  {
-    "title": "E-COMMERCE SECURITY HOT TOPICS",
-    "link": "https://www.gc.cuny.edu/events/e-commerce-security-hot-topics",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-30",
-    "time": "2:00 pm — 5:00 pm",
-    "location": "TBD",
-    "tags": [
-      "CUNY Institute for Software Design and Development"
-    ]
-  },
-  {
-    "title": "FRANTZ FANON AND THE FUTURE OF CULTURAL POLITICS",
-    "link": "https://www.gc.cuny.edu/events/frantz-fanon-and-future-cultural-politics",
-    "college": "CUNY Graduate Center",
-    "date": "2026-09-26",
-    "time": "2:00 pm",
-    "location": "5409: DGSC Meeting Room",
-    "tags": [
-      "Committee on Globalization and Social Change"
-    ]
-  },
-  {
-    "title": "NATIONALISM, INTERNATIONALISM, COSMOPOLITANISM WITH PARTHA CHATERJEE",
-    "link": "https://www.gc.cuny.edu/events/nationalism-internationalism-cosmopolitanism-partha-chaterjee",
-    "college": "CUNY Graduate Center",
-    "date": "2026-10-02",
-    "time": "4:30 pm",
-    "location": "TBD",
-    "tags": [
-      "Committee on Globalization and Social Change"
-    ]
-  },
-  {
-    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
-    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
-    "college": "CUNY Graduate Center",
-    "date": "2026-10-25",
-    "time": "6:30 pm",
-    "location": "C198",
-    "tags": [
-      "Committee on Globalization and Social Change"
-    ]
-  },
-  {
-    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
-    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-20",
-    "time": "",
-    "location": "9100: Skylight Room",
-    "tags": [
-      "Committee on Globalization and Social Change"
-    ]
-  },
-  {
-    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
-    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
-    "college": "CUNY Graduate Center",
-    "date": "2026-12-04",
-    "time": "6:00 pm",
-    "location": "9205",
-    "tags": [
-      "Committee on Globalization and Social Change"
-    ]
   }
 ]
