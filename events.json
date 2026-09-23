@@ -78,6 +78,19 @@
     ]
   },
   {
+    "title": "National Conference of Black Lawyers 2026 Annual Conference",
+    "link": "https://www.law.cuny.edu/event/national-conference-of-black-lawyers-2026-annual-conference/",
+    "college": "CUNY School of Law",
+    "date": "2026-10-09",
+    "time": "08:00 AM - 05:30 PM",
+    "tags": [
+      "Alumni",
+      "Info Session",
+      "Special Event",
+      "Workshop"
+    ]
+  },
+  {
     "title": "Admissions: Information Session - Virtual",
     "link": "https://www.law.cuny.edu/event/admissions-information-session-virtual-2/",
     "college": "CUNY School of Law",
@@ -177,16 +190,6 @@
     ]
   },
   {
-    "title": "How to Build a Board That Aligns With Your Newsroom's Needs",
-    "link": "https://www.journalism.cuny.edu/events/how-to-build-a-board-that-aligns-with-your-newsrooms-needs/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-09-23",
-    "time": "12:00 PM - 12:00 PM",
-    "tags": [
-      "Center for Community Media"
-    ]
-  },
-  {
     "title": "Clubs and Orgs Info Session",
     "link": "https://www.journalism.cuny.edu/events/clubs-and-orgs-info-session/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -264,11 +267,11 @@
     ]
   },
   {
-    "title": "NABJ Sip n’ Paint",
+    "title": "Paint, Sip, and Yap with NABJ, NAHJ, AAJA",
     "link": "https://www.journalism.cuny.edu/events/nabj-sip-n-paint/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2026-10-01",
-    "time": "04:30 PM - 06:00 PM",
+    "time": "04:30 PM - 07:00 PM",
     "tags": [
       "Current Students"
     ]
@@ -446,6 +449,16 @@
     "link": "https://www.journalism.cuny.edu/events/tips-for-applying-3/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2027-02-09",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "On-Campus Information Session",
+    "link": "https://www.journalism.cuny.edu/events/on-campus-information-session-3/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-02-11",
     "time": "06:00 PM - 06:00 PM",
     "tags": [
       "Future Students"
@@ -1322,18 +1335,10 @@
     "date": "2026-09-23",
     "time": "01:00 AM - 03:00 PM",
     "tags": [
-      "all calendars",
+      "All Calendars",
       "Featured",
-      "student events"
+      "Student Events"
     ]
-  },
-  {
-    "title": "AES/PUR Year 2 (P2) Introductions",
-    "link": "https://www.laguardia.edu/event/aes-pur-year-2-p2-introductions/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-23",
-    "time": "10:00 AM - 11:30 AM",
-    "tags": []
   },
   {
     "title": "MMR Clinic",
@@ -1342,40 +1347,10 @@
     "date": "2026-09-23",
     "time": "10:00 AM - 04:00 PM",
     "tags": [
-      "admissions",
-      "all calendars",
+      "Admissions",
+      "All Calendars",
       "Featured",
-      "student events"
-    ]
-  },
-  {
-    "title": "Health & Wellness Candidacy Information Session",
-    "link": "https://www.laguardia.edu/event/health-wellness-candidacy-information-session/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-23",
-    "time": "10:30 AM - 11:30 AM",
-    "tags": [
-      "admissions",
-      "all calendars"
-    ]
-  },
-  {
-    "title": "AES/PUR Year 1 (P1) Introductions",
-    "link": "https://www.laguardia.edu/event/aes-pur-year-1-p1-introductions/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-23",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Faculty Training: T-REX CUNY Equivalency Review Module (ERM)",
-    "link": "https://www.laguardia.edu/event/faculty-training-t-rex-cuny-equivalency-review-module-erm/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-23",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "all calendars",
-      "Faculty and Staff"
+      "Student Events"
     ]
   },
   {
@@ -1385,9 +1360,9 @@
     "date": "2026-09-23",
     "time": "01:00 PM - 03:00 PM",
     "tags": [
-      "all calendars",
+      "All Calendars",
       "Featured",
-      "student events"
+      "Student Events"
     ]
   },
   {
@@ -1397,9 +1372,9 @@
     "date": "2026-09-23",
     "time": "02:00 PM - 03:30 PM",
     "tags": [
-      "all calendars",
+      "All Calendars",
       "Featured",
-      "student events"
+      "Student Events"
     ]
   },
   {
@@ -1409,9 +1384,9 @@
     "date": "2026-09-23",
     "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "all calendars",
+      "All Calendars",
       "Faculty and Staff",
-      "student events"
+      "Student Events"
     ]
   },
   {
@@ -1421,9 +1396,9 @@
     "date": "2026-09-23",
     "time": "03:30 PM - 05:00 PM",
     "tags": [
-      "all calendars",
+      "All Calendars",
       "Featured",
-      "student events"
+      "Student Events"
     ]
   },
   {
@@ -1433,8 +1408,8 @@
     "date": "2026-09-23",
     "time": "08:00 PM - 08:30 PM",
     "tags": [
-      "all calendars",
-      "student events"
+      "All Calendars",
+      "Student Events"
     ]
   },
   {
@@ -1444,8 +1419,8 @@
     "date": "2026-09-24",
     "time": "11:45 AM - 03:30 PM",
     "tags": [
-      "all calendars",
-      "student events"
+      "All Calendars",
+      "Student Events"
     ]
   },
   {
@@ -1455,8 +1430,8 @@
     "date": "2026-09-24",
     "time": "12:00 PM - 12:30 PM",
     "tags": [
-      "all calendars",
-      "student events"
+      "All Calendars",
+      "Student Events"
     ]
   },
   {
@@ -1466,9 +1441,9 @@
     "date": "2026-09-24",
     "time": "12:00 PM - 03:00 PM",
     "tags": [
-      "all calendars",
+      "All Calendars",
       "Featured",
-      "student events"
+      "Student Events"
     ]
   },
   {
@@ -1478,8 +1453,8 @@
     "date": "2026-09-24",
     "time": "01:00 PM - 02:00 PM",
     "tags": [
-      "all calendars",
-      "student events"
+      "All Calendars",
+      "Student Events"
     ]
   },
   {
@@ -1489,8 +1464,8 @@
     "date": "2026-09-24",
     "time": "02:15 PM - 03:15 PM",
     "tags": [
-      "all calendars",
-      "student events"
+      "All Calendars",
+      "Student Events"
     ]
   },
   {
@@ -1500,8 +1475,8 @@
     "date": "2026-09-24",
     "time": "02:30 PM - 03:30 PM",
     "tags": [
-      "admissions",
-      "all calendars"
+      "Admissions",
+      "All Calendars"
     ]
   },
   {
@@ -1511,8 +1486,8 @@
     "date": "2026-09-24",
     "time": "03:30 PM - 04:30 PM",
     "tags": [
-      "all calendars",
-      "student events"
+      "All Calendars",
+      "Student Events"
     ]
   },
   {
@@ -1522,9 +1497,9 @@
     "date": "2026-09-25",
     "time": "10:00 AM - 03:00 PM",
     "tags": [
-      "admissions",
-      "all calendars",
-      "student events"
+      "Admissions",
+      "All Calendars",
+      "Student Events"
     ]
   },
   {
@@ -1534,8 +1509,8 @@
     "date": "2026-09-25",
     "time": "02:15 PM - 04:30 PM",
     "tags": [
-      "all calendars",
-      "student events"
+      "All Calendars",
+      "Student Events"
     ]
   },
   {
@@ -1545,10 +1520,10 @@
     "date": "2026-09-25",
     "time": "07:00 PM - 08:30 PM",
     "tags": [
-      "all calendars",
-      "community & business events",
+      "All Calendars",
+      "Community & Business Events",
       "Featured",
-      "student events"
+      "Student Events"
     ]
   },
   {
@@ -1558,10 +1533,10 @@
     "date": "2026-09-26",
     "time": "02:00 PM - 03:30 PM",
     "tags": [
-      "all calendars",
-      "community & business events",
+      "All Calendars",
+      "Community & Business Events",
       "Featured",
-      "student events"
+      "Student Events"
     ]
   },
   {
@@ -1571,8 +1546,8 @@
     "date": "2026-09-28",
     "time": "11:45 AM - 02:00 PM",
     "tags": [
-      "all calendars",
-      "student events"
+      "All Calendars",
+      "Student Events"
     ]
   },
   {
@@ -1582,8 +1557,8 @@
     "date": "2026-09-28",
     "time": "12:00 PM - 12:30 PM",
     "tags": [
-      "all calendars",
-      "student events"
+      "All Calendars",
+      "Student Events"
     ]
   },
   {
@@ -1593,9 +1568,9 @@
     "date": "2026-09-28",
     "time": "01:00 PM - 02:00 PM",
     "tags": [
-      "all calendars",
+      "All Calendars",
       "Featured",
-      "student events"
+      "Student Events"
     ]
   },
   {
@@ -1605,9 +1580,9 @@
     "date": "2026-09-28",
     "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "all calendars",
+      "All Calendars",
       "Featured",
-      "student events"
+      "Student Events"
     ]
   },
   {
@@ -1617,9 +1592,9 @@
     "date": "2026-09-29",
     "time": "12:00 PM - 04:00 PM",
     "tags": [
-      "all calendars",
+      "All Calendars",
       "Featured",
-      "student events"
+      "Student Events"
     ]
   },
   {
@@ -1637,10 +1612,44 @@
     "date": "2026-09-30",
     "time": "10:00 AM - 04:00 PM",
     "tags": [
-      "admissions",
-      "all calendars",
+      "Admissions",
+      "All Calendars",
       "Featured",
-      "student events"
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Admissions Campus Tour and Information Session",
+    "link": "https://www.laguardia.edu/event/admissions-campus-tour-and-information-session-129/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-30",
+    "time": "10:30 AM - 11:30 AM",
+    "tags": [
+      "Admissions",
+      "All Calendars"
+    ]
+  },
+  {
+    "title": "Club Fest",
+    "link": "https://www.laguardia.edu/event/club-fest-4/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-30",
+    "time": "01:00 PM - 05:00 PM",
+    "tags": [
+      "All Calendars",
+      "Featured",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Understanding Anxiety: A Peer Support Group",
+    "link": "https://www.laguardia.edu/event/understanding-anxiety-a-peer-support-group/2026-09-30/",
+    "college": "LaGuardia Community College",
+    "date": "2026-09-30",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "All Calendars",
+      "Student Events"
     ]
   },
   {
@@ -1948,16 +1957,6 @@
     ]
   },
   {
-    "title": "Ortiz’s War and The Pilot, The Doctor, and The Spy: A true story of resistance and heroism in WWII and the Holocaust",
-    "link": "https://www.hunter.cuny.edu/event/ortizs-war-and-the-pilot-the-doctor-and-the-spy-a-true-story-of-resistance-and-heroism-in-wwii-and-the-holocaust/",
-    "college": "Hunter College",
-    "date": "2026-09-23",
-    "time": "12:00 PM - 12:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
     "title": "Graduate Admissions Information Session",
     "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-44/",
     "college": "Hunter College",
@@ -2259,6 +2258,16 @@
     ]
   },
   {
+    "title": "Diving into using Global Class Search & Degree Maps",
+    "link": "https://www.hunter.cuny.edu/event/campus-navigation-global-class-search-and-degree-maps-2/",
+    "college": "Hunter College",
+    "date": "2026-10-01",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Latine Heritage Month Opening Ceremony",
     "link": "https://www.bmcc.cuny.edu/event/latine-heritage-month/",
     "college": "Borough of Manhattan Community College",
@@ -2353,6 +2362,30 @@
       "Featured",
       "Student Affairs",
       "Urban Male Leadership Academy (UMLA)"
+    ]
+  },
+  {
+    "title": "Essay Writing Workshops - BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/essay-writing-workshops-bmcc-writing-center/2026-09-23/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-23",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Academic Affairs",
+      "Academic Calendar",
+      "Academic Literacy and Linguistics",
+      "CUNY in The Heights",
+      "CUNY Start",
+      "English",
+      "Evening-Weekend",
+      "Featured",
+      "Human Services",
+      "Human Services and Criminal Justice",
+      "Learning Resource Center",
+      "Scholarships",
+      "Workshops",
+      "Writing Across the Curriculum (WAC)",
+      "Writing Center"
     ]
   },
   {
@@ -2598,12 +2631,35 @@
     ]
   },
   {
+    "title": "BMCC Stay Healthy: Wellness Wednesdays",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-stay-healthy-program-wellness-wednesdays/2026-10-07/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-07",
+    "time": "12:00 PM - 03:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Senate",
     "link": "https://www.bcc.cuny.edu/event/senate/",
     "college": "Bronx Community College",
     "date": "2026-09-24",
     "time": "12:00 PM - 02:00 PM",
     "tags": []
+  },
+  {
+    "title": "Emblem Health Resources Tabling",
+    "link": "https://www.bcc.cuny.edu/event/emblem-health-resources-tabling/",
+    "college": "Bronx Community College",
+    "date": "2026-09-30",
+    "time": "10:00 AM - 03:00 PM",
+    "tags": [
+      "Health & Fitness Events",
+      "Student Success"
+    ]
   },
   {
     "title": "Bronco Hope Market",
@@ -2683,6 +2739,14 @@
     ]
   },
   {
+    "title": "Senate Executive",
+    "link": "https://www.bcc.cuny.edu/event/senate-executive-3/",
+    "college": "Bronx Community College",
+    "date": "2026-10-19",
+    "time": "02:15 PM - 03:30 PM",
+    "tags": []
+  },
+  {
     "title": "NYC Bureau of Public Health Clinic",
     "link": "https://www.bcc.cuny.edu/event/nyc-bureau-of-public-health-clinics/",
     "college": "Bronx Community College",
@@ -2735,6 +2799,14 @@
     ]
   },
   {
+    "title": "Senate",
+    "link": "https://www.bcc.cuny.edu/event/senate-3/",
+    "college": "Bronx Community College",
+    "date": "2026-10-22",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "Fall Fest - Financial Aid Filing Event",
     "link": "https://www.bcc.cuny.edu/event/fall-fest-financial-aid-filing-event/",
     "college": "Bronx Community College",
@@ -2778,54 +2850,6 @@
       "Food Pantry",
       "Health & Fitness Events",
       "Student Success"
-    ]
-  },
-  {
-    "title": "Bronco Hope Market",
-    "link": "https://www.bcc.cuny.edu/event/bronco-hope-market-6/",
-    "college": "Bronx Community College",
-    "date": "2026-11-05",
-    "time": "11:00 AM - 06:30 PM",
-    "tags": [
-      "Feature",
-      "Food Pantry",
-      "Health & Fitness Events",
-      "Student Success"
-    ]
-  },
-  {
-    "title": "Women's Basketball: Bronx Broncos vs. Hostos Community College",
-    "link": "https://www.bcc.cuny.edu/event/womens-basketball-bronx-broncos-vs-hostos-community-college/",
-    "college": "Bronx Community College",
-    "date": "2026-11-05",
-    "time": "05:00 PM - 07:00 PM",
-    "tags": [
-      "Athletics",
-      "Feature",
-      "Women's Initiatives"
-    ]
-  },
-  {
-    "title": "Men's Basketball: Bronx Broncos vs. Hostos Community College",
-    "link": "https://www.bcc.cuny.edu/event/mens-basketball-bronx-broncos-vs-hostos-community-college/",
-    "college": "Bronx Community College",
-    "date": "2026-11-05",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "Athletics",
-      "Feature",
-      "Men's Initiatives"
-    ]
-  },
-  {
-    "title": "Fall 2026 R2T4 60% Date",
-    "link": "https://www.bcc.cuny.edu/event/fall-2026-r2t4-60-date-for-the-semester/",
-    "college": "Bronx Community College",
-    "date": "2026-11-05",
-    "time": "11:59 PM - 11:59 PM",
-    "tags": [
-      "Academic Calendar",
-      "Feature"
     ]
   },
   {
