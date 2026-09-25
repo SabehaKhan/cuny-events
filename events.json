@@ -196,6 +196,16 @@
     "tags": []
   },
   {
+    "title": "Photo Club Lightroom Editing Workshop",
+    "link": "https://www.journalism.cuny.edu/events/photo-club-lightroom-editing-workshop/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-10-01",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
     "title": "Digital Safety Workshop",
     "link": "https://www.journalism.cuny.edu/events/digital-safety-workshop/2026-10-01/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -234,6 +244,16 @@
     "time": "06:00 PM - 06:00 PM",
     "tags": [
       "Future Students"
+    ]
+  },
+  {
+    "title": "SPJ Movie Screening: All The President’s Men",
+    "link": "https://www.journalism.cuny.edu/events/spj-movie-screening-all-the-presidents-men/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-10-06",
+    "time": "03:00 PM - 05:30 PM",
+    "tags": [
+      "Current Students"
     ]
   },
   {
@@ -290,12 +310,32 @@
     "tags": []
   },
   {
+    "title": "AAJA Mahjong Social",
+    "link": "https://www.journalism.cuny.edu/events/aaja-mahjong-social-oct-26/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-10-19",
+    "time": "12:00 PM - 01:30 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
     "title": "Reporting on Election ‘26: Midterms, Mamdami and More!",
     "link": "https://www.journalism.cuny.edu/events/reporting-on-election-26-midterms-mamdami-event/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2026-10-20",
     "time": "12:30 PM - 02:00 PM",
     "tags": []
+  },
+  {
+    "title": "IRE Student Chapter Event",
+    "link": "https://www.journalism.cuny.edu/events/ire-student-chapter-event-oct-26/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-10-21",
+    "time": "12:50 PM - 01:50 PM",
+    "tags": [
+      "Current Students"
+    ]
   },
   {
     "title": "Breaking Into Investigative Reporting",
@@ -335,6 +375,16 @@
     "tags": []
   },
   {
+    "title": "AAJA/NAHJ Game Night",
+    "link": "https://www.journalism.cuny.edu/events/aaja-nahj-game-night/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-10-27",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
     "title": "Virtual Information Session",
     "link": "https://www.journalism.cuny.edu/events/virtual-information-session-2/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -369,46 +419,6 @@
     "link": "https://www.journalism.cuny.edu/events/on-campus-information-session-2/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2026-12-10",
-    "time": "06:00 PM - 06:00 PM",
-    "tags": [
-      "Future Students"
-    ]
-  },
-  {
-    "title": "Virtual Information Session",
-    "link": "https://www.journalism.cuny.edu/events/virtual-information-session-3/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2027-01-14",
-    "time": "01:00 PM - 01:00 PM",
-    "tags": [
-      "Future Students"
-    ]
-  },
-  {
-    "title": "Tips for Applying",
-    "link": "https://www.journalism.cuny.edu/events/tips-for-applying-2/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2027-01-26",
-    "time": "06:00 PM - 06:00 PM",
-    "tags": [
-      "Future Students"
-    ]
-  },
-  {
-    "title": "Tips for Applying",
-    "link": "https://www.journalism.cuny.edu/events/tips-for-applying-3/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2027-02-09",
-    "time": "06:00 PM - 06:00 PM",
-    "tags": [
-      "Future Students"
-    ]
-  },
-  {
-    "title": "On-Campus Information Session",
-    "link": "https://www.journalism.cuny.edu/events/on-campus-information-session-3/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2027-02-11",
     "time": "06:00 PM - 06:00 PM",
     "tags": [
       "Future Students"
@@ -1215,29 +1225,6 @@
     "tags": []
   },
   {
-    "title": "Virtual Friday One Stop Enrollment Office (Zoom)",
-    "link": "https://www.laguardia.edu/event/virtual-friday-one-stop-enrollment-office-zoom-3/2026-09-25/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-25",
-    "time": "10:00 AM - 03:00 PM",
-    "tags": [
-      "Admissions",
-      "All Calendars",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "MERENGUE MOVES",
-    "link": "https://www.laguardia.edu/event/merengue-moves/",
-    "college": "LaGuardia Community College",
-    "date": "2026-09-25",
-    "time": "02:15 PM - 04:30 PM",
-    "tags": [
-      "All Calendars",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Bindlestiff Cirkus Surprise!",
     "link": "https://www.laguardia.edu/event/bindlestiff-cirkus-surprise/",
     "college": "LaGuardia Community College",
@@ -1546,6 +1533,28 @@
       "All Calendars",
       "Community & Business Events",
       "Featured",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Mindfulness Meditation Mondays",
+    "link": "https://www.laguardia.edu/event/mindfulness-meditation-mondays-3/2026-10-05/",
+    "college": "LaGuardia Community College",
+    "date": "2026-10-05",
+    "time": "12:00 PM - 12:30 PM",
+    "tags": [
+      "All Calendars",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Princeton University - Virtual Transfer Information Session - Military Mondays",
+    "link": "https://www.laguardia.edu/event/princeton-university-virtual-transfer-information-session-military-mondays/",
+    "college": "LaGuardia Community College",
+    "date": "2026-10-05",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "All Calendars",
       "Student Events"
     ]
   },
@@ -1872,16 +1881,6 @@
     ]
   },
   {
-    "title": "Bachelor of Science in Nursing Generic Program Information Session",
-    "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-14/",
-    "college": "Hunter College",
-    "date": "2026-09-25",
-    "time": "04:00 PM - 05:30 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
     "title": "Ace That Interview!",
     "link": "https://www.hunter.cuny.edu/event/ace-that-interview-7/",
     "college": "Hunter College",
@@ -2179,11 +2178,19 @@
     ]
   },
   {
-    "title": "Essay Writing Workshops - BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/essay-writing-workshops-bmcc-writing-center/2026-09-25/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-25",
+    "title": "Purple PEERiod Project",
+    "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-17/",
+    "college": "Hunter College",
+    "date": "2026-10-06",
     "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Essay Writing Workshops - BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/essay-writing-workshops-bmcc-writing-center/2026-09-28/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-28",
+    "time": "10:00 AM - 11:00 AM",
     "tags": [
       "Academic Affairs",
       "Academic Calendar",
@@ -2626,8 +2633,7 @@
       "Feature",
       "Health & Fitness Events",
       "Health Services",
-      "Student Success",
-      "Womxn Up"
+      "Student Success"
     ]
   },
   {
@@ -2652,8 +2658,7 @@
     "tags": [
       "Health & Fitness Events",
       "Health Services",
-      "Student Success",
-      "Womxn Up"
+      "Student Success"
     ]
   },
   {
@@ -2768,8 +2773,7 @@
     "time": "12:00 PM - 06:00 PM",
     "tags": [
       "Campus Events",
-      "Feature",
-      "Financial Aid"
+      "Feature"
     ]
   },
   {
@@ -2791,14 +2795,6 @@
     "tags": [
       "CUNY Dance Initiative"
     ]
-  },
-  {
-    "title": "Essay Writing Workshops – BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/?p=10007705",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-25",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
   },
   {
     "title": "Macaulay Honors College at CSI Open House and Information Session",
@@ -3094,6 +3090,14 @@
     "tags": []
   },
   {
+    "title": "CUNY First Help",
+    "link": "https://citytech.event.cuny.edu/events/OfccBot4DBnbVh5AumDu/gOyORqV2pGYFf9AVLNWH",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-26",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
     "title": "Math Tutoring Fall 2026",
     "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA9",
     "college": "New York City College of Technology (City Tech)",
@@ -3115,14 +3119,6 @@
     "college": "New York City College of Technology (City Tech)",
     "date": "2026-09-27",
     "time": "8:30AM",
-    "tags": []
-  },
-  {
-    "title": "NYPIRG Tabling",
-    "link": "https://citytech.event.cuny.edu/events/FL5bBy7R3d2ddl5Nh8Xi/C5C7DfxaktQzujGWCMkw",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-28",
-    "time": "11:00AM",
     "tags": []
   },
   {
@@ -3366,14 +3362,6 @@
     "tags": []
   },
   {
-    "title": "Reimagining the Classroom: Ask Me Anything Session",
-    "link": "https://www.lehman.edu/events/2026/Reimagining-the-Classroom-Ask-Me-Anything-Session-1.php",
-    "college": "Lehman College",
-    "date": "2026-09-30",
-    "time": "4:00 PM- 5:00 PM",
-    "tags": []
-  },
-  {
     "title": "Human Rights Education and Transformative Justice Adv. Cert. Information Session",
     "link": "https://www.lehman.edu/events/2026/Human-Rights-Education-and-Transformative-Justice-Adv-Cert-Information-Session-.php",
     "college": "Lehman College",
@@ -3395,6 +3383,14 @@
     "college": "Lehman College",
     "date": "2026-10-01",
     "time": "10:30 AM- 11:30 AM",
+    "tags": []
+  },
+  {
+    "title": "Reimagining the Classroom: Ask Me Anything Session",
+    "link": "https://www.lehman.edu/events/2026/Reimagining-the-Classroom-Ask-Me-Anything-Session-1.php",
+    "college": "Lehman College",
+    "date": "2026-10-01",
+    "time": "11:00 AM- 12:00 PM",
     "tags": []
   },
   {
