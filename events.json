@@ -1,13 +1,5 @@
 [
   {
-    "title": "Founders Day & 2026 Freshman Convocation",
-    "link": "https://www.mec.cuny.edu/event/founders-day-2026-freshman-convocation/",
-    "college": "Medgar Evers College",
-    "date": "2026-09-28",
-    "time": "11:30 AM - 12:45 PM",
-    "tags": []
-  },
-  {
     "title": "Fall 2026 Assessment Café Series",
     "link": "https://www.mec.cuny.edu/event/fall-2026-assessment-cafe-series/",
     "college": "Medgar Evers College",
@@ -711,14 +703,6 @@
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/9b8a9c52-449a-48cd-b08d-41d68883a721",
     "college": "Kingsborough Community College",
     "date": "2026-10-05",
-    "time": "08:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Virtual Evening Hours",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/dcbbff59-7869-4354-80a1-7e11cd80e78a",
-    "college": "Kingsborough Community College",
-    "date": "2026-09-28",
     "time": "08:00 PM - 10:00 PM",
     "tags": []
   },
@@ -1616,6 +1600,20 @@
     ]
   },
   {
+    "title": "Networking with Partners",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377514",
+    "college": "Guttman Community College",
+    "date": "2026-10-01",
+    "time": "04:30 PM - 07:00 PM",
+    "tags": [
+      "EMSA",
+      "Job/Volunteer Opportunities",
+      "AccessABILITY Services",
+      "Disability Awareness Month",
+      "Food - Light Refreshments "
+    ]
+  },
+  {
     "title": "Meet and Greet with Your Advisor !",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377508",
     "college": "Guttman Community College",
@@ -1625,6 +1623,19 @@
       "EMSA",
       "Social",
       "Advising & Transfer Support"
+    ]
+  },
+  {
+    "title": "College Apprenticeship Program: Calling all IT Students",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377513",
+    "college": "Guttman Community College",
+    "date": "2026-10-01",
+    "time": "05:15 PM - 06:45 PM",
+    "tags": [
+      "CCPP",
+      "Job/Volunteer Opportunities",
+      "Food - Lunch",
+      "Information Session"
     ]
   },
   {
@@ -1664,19 +1675,6 @@
       "United Men of Color",
       "Conference",
       "Off-Campus"
-    ]
-  },
-  {
-    "title": "College Apprenticeship Program: Calling all IT Students",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377513",
-    "college": "Guttman Community College",
-    "date": "2026-10-02",
-    "time": "05:15 PM - 06:45 PM",
-    "tags": [
-      "CCPP",
-      "Job/Volunteer Opportunities",
-      "Food - Lunch",
-      "Information Session"
     ]
   },
   {
@@ -1887,16 +1885,6 @@
       "Social - Off-Campus",
       "United Men of Color",
       "Off-Campus"
-    ]
-  },
-  {
-    "title": "September Social Event: Anything But Major",
-    "link": "https://www.hunter.cuny.edu/event/september-social-event-anything-but-major/",
-    "college": "Hunter College",
-    "date": "2026-09-28",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Student Events"
     ]
   },
   {
@@ -2193,17 +2181,13 @@
     ]
   },
   {
-    "title": "Healing Through Hip-Hop and Creative Expression",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression-7/2026-09-28/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-09-28",
-    "time": "04:00 PM - 06:00 PM",
+    "title": "Practice Your Pitch - Career Fair Success Clinic",
+    "link": "https://www.hunter.cuny.edu/event/practice-your-pitch-career-fair-success-clinic/",
+    "college": "Hunter College",
+    "date": "2026-10-06",
+    "time": "01:00 PM - 03:00 PM",
     "tags": [
-      "Counseling Center",
-      "Evening-Weekend",
-      "Featured",
-      "Student Affairs",
-      "Urban Male Leadership Academy (UMLA)"
+      "Student Events"
     ]
   },
   {
@@ -2389,6 +2373,20 @@
     ]
   },
   {
+    "title": "Healing Through Hip-Hop and Creative Expression",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression-7/2026-09-30/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-30",
+    "time": "03:00 PM - 05:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Evening-Weekend",
+      "Featured",
+      "Student Affairs",
+      "Urban Male Leadership Academy (UMLA)"
+    ]
+  },
+  {
     "title": "Friedman Transfer Scholars Program at CUNY's Macaulay Honors College Recruitment and Information Session",
     "link": "https://www.bmcc.cuny.edu/event/friedman-transfer-scholars-program-at-cunys-macaulay-honors-college-recruitment-and-information-session/",
     "college": "Borough of Manhattan Community College",
@@ -2568,6 +2566,18 @@
     ]
   },
   {
+    "title": "Pride Reading Group",
+    "link": "https://www.bmcc.cuny.edu/event/pride-reading-group/2026-10-08/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-08",
+    "time": "04:00 PM - 05:30 PM",
+    "tags": [
+      "Featured",
+      "Library",
+      "Pride Center"
+    ]
+  },
+  {
     "title": "Emblem Health Resources Tabling",
     "link": "https://www.bcc.cuny.edu/event/emblem-health-resources-tabling/",
     "college": "Bronx Community College",
@@ -2679,6 +2689,14 @@
     ]
   },
   {
+    "title": "Academic Standing",
+    "link": "https://www.bcc.cuny.edu/event/academic-standing-3/",
+    "college": "Bronx Community College",
+    "date": "2026-10-14",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
     "title": "Fall 2026 Blood Drive",
     "link": "https://www.bcc.cuny.edu/event/fall-2026-blood-drive/",
     "college": "Bronx Community College",
@@ -2768,56 +2786,6 @@
     ]
   },
   {
-    "title": "YASS! Mondays",
-    "link": "https://events.cuny.edu/cec/yass-mondays-30/",
-    "college": "The City College of New York",
-    "date": "2026-09-28",
-    "time": "12:00 PM - 4:00 PM",
-    "tags": [
-      "LGBTQI+"
-    ]
-  },
-  {
-    "title": "Subtle Subversions: The Art of Patricia Espinosa",
-    "link": "https://events.cuny.edu/cec/subtle-subversions-the-art-of-patricia-espinosa-3/",
-    "college": "College of Staten Island",
-    "date": "2026-09-28",
-    "time": "12:00 PM - 4:00 PM",
-    "tags": [
-      "Art",
-      "Division of Humanities and Social Sciences",
-      "Performing and Creative Arts"
-    ]
-  },
-  {
-    "title": "SAVE THE DATE: Rifkind Center’s Fall 2026 Events",
-    "link": "https://events.cuny.edu/cec/save-the-date-rifkind-centers-fall-2026-events/",
-    "college": "The City College of New York",
-    "date": "2026-09-28",
-    "time": "5:00 PM - 5:00 PM",
-    "tags": [
-      "Rifkind Center"
-    ]
-  },
-  {
-    "title": "Orbán’s Defeat and the Future of the Global Far Right: A Panel Discussion",
-    "link": "https://events.cuny.edu/cec/orbans-defeat-and-the-future-of-the-global-far-right-a-panel-discussion/",
-    "college": "The City College of New York",
-    "date": "2026-09-28",
-    "time": "5:00 PM - 6:45 PM",
-    "tags": [
-      "The Rifkind Center presents"
-    ]
-  },
-  {
-    "title": "Health Services Administration M.S. Information Session",
-    "link": "https://lehman.edu/events/2026/Health-Services-Administration-MS-Information-Session--9.php",
-    "college": "Lehman College",
-    "date": "2026-09-28",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
     "title": "Gaymers Against Violence",
     "link": "https://events.cuny.edu/cec/gaymers-against-violence-5/",
     "college": "The City College of New York",
@@ -2858,19 +2826,11 @@
     "tags": []
   },
   {
-    "title": "Learning Commons Workshops",
-    "link": "https://qc.event.cuny.edu/events/jexWsnPBpj4VSiMUkO1s/Cn7aGNHiTu5OSfZgxFtw9",
-    "college": "Queens College",
-    "date": "2026-09-28",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Math Dept Review Sessions",
-    "link": "https://qc.event.cuny.edu/events/YQS7FA7iXKZZR0SuInVQ/u43J7l2KV54kJJFaV9e39",
-    "college": "Queens College",
-    "date": "2026-09-28",
-    "time": "12:15PM",
+    "title": "Essay Writing Workshops – BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007707",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-09-29",
+    "time": "01:30 PM - 03:30 PM",
     "tags": []
   },
   {
@@ -2922,27 +2882,19 @@
     "tags": []
   },
   {
-    "title": "20 Minute Mondays",
-    "link": "https://baruch.event.cuny.edu/events/THOaVM3gtuDnN5Qu8sFW/octIPeJIx1hp541VGO4N",
-    "college": "Baruch College",
-    "date": "2026-09-28",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Jewish learning fellowship",
-    "link": "https://baruch.event.cuny.edu/events/gX1lZSkG0f57Ey1rO0Py/QI45tBGIK1OmCTTZxLn7",
-    "college": "Baruch College",
-    "date": "2026-09-28",
-    "time": "4:30PM",
-    "tags": []
-  },
-  {
     "title": "Do Small Claims Courts Provide Access to Justice?",
     "link": "https://baruch.event.cuny.edu/events/WHxevo3jr34ih8WotgfR/YuPG7s0JsoWiG2Kw3rLI",
     "college": "Baruch College",
     "date": "2026-09-29",
     "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "ColorStack Baruch GIM",
+    "link": "https://baruch.event.cuny.edu/events/tITmzOOzquMRjDW541is/OPhaZknGsHssRxieaIRv",
+    "college": "Baruch College",
+    "date": "2026-09-29",
+    "time": "12:30PM",
     "tags": []
   },
   {
@@ -2962,6 +2914,22 @@
     "tags": []
   },
   {
+    "title": "Hillel tabling",
+    "link": "https://baruch.event.cuny.edu/events/kr7Vn3dXPtAQKbXCmnNc/Yrtas5LBXZwSiI8pw34Y",
+    "college": "Baruch College",
+    "date": "2026-09-29",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Hebrew Class",
+    "link": "https://baruch.event.cuny.edu/events/bQIseJRm2QmV4CS97ZyL/v2gzp6MYBNystxYfymJn",
+    "college": "Baruch College",
+    "date": "2026-09-29",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
     "title": "Test",
     "link": "https://baruch.event.cuny.edu/events/WminpL7ACGOgQTCvhYaL/ladQaksIkTFFKteFt1b1",
     "college": "Baruch College",
@@ -2975,6 +2943,30 @@
     "college": "Baruch College",
     "date": "2026-09-30",
     "time": "12:45PM",
+    "tags": []
+  },
+  {
+    "title": "Hillel tabling",
+    "link": "https://baruch.event.cuny.edu/events/kr7Vn3dXPtAQKbXCmnNc/wW3MZoHIyVdjuxGWfxPz",
+    "college": "Baruch College",
+    "date": "2026-09-30",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Israel learning fellowship",
+    "link": "https://baruch.event.cuny.edu/events/ZCVSoRQdIS4PpNyOgNxv/Bm8XaBAhraChLJFkoee8",
+    "college": "Baruch College",
+    "date": "2026-09-30",
+    "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "GIM #1: Paint & Sip",
+    "link": "https://baruch.event.cuny.edu/events/FeCLCqxJVPWan9FDxLK1/LAaJXEaUCDdLfdEfBzAM",
+    "college": "Baruch College",
+    "date": "2026-10-01",
+    "time": "12:25PM",
     "tags": []
   },
   {
@@ -3002,6 +2994,14 @@
     "tags": []
   },
   {
+    "title": "Faith FULL Fellowship",
+    "link": "https://baruch.event.cuny.edu/events/LkUzqfFrV2ecskspYy9O/iOHsiVUT1mT08YcHmstT",
+    "college": "Baruch College",
+    "date": "2026-10-01",
+    "time": "4:30PM",
+    "tags": []
+  },
+  {
     "title": "Cover Letters",
     "link": "https://baruch.event.cuny.edu/events/aeItQZlbxVhowZJhpYNj/ubSDJ4XXXElmSk0Hysiu",
     "college": "Baruch College",
@@ -3010,59 +3010,11 @@
     "tags": []
   },
   {
-    "title": "20 Minute Mondays",
-    "link": "https://baruch.event.cuny.edu/events/THOaVM3gtuDnN5Qu8sFW/a5ftI7699iMlLWMlcl14",
+    "title": "Torah Learning",
+    "link": "https://baruch.event.cuny.edu/events/uXptkAEtxP5xcFFr0zu4/Qk2BeqAXeeu3wkJqagb7",
     "college": "Baruch College",
     "date": "2026-10-05",
     "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Jewish learning fellowship",
-    "link": "https://baruch.event.cuny.edu/events/gX1lZSkG0f57Ey1rO0Py/JkPQ77CKHOcNJh5wqOgU",
-    "college": "Baruch College",
-    "date": "2026-10-05",
-    "time": "4:30PM",
-    "tags": []
-  },
-  {
-    "title": "NYPIRG Tabling",
-    "link": "https://citytech.event.cuny.edu/events/FL5bBy7R3d2ddl5Nh8Xi/C5C7DfxaktQzujGWCMkw",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-28",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Massage Mondays - Wellness Center",
-    "link": "https://citytech.event.cuny.edu/events/ttNfMSbdzFsXuAOj7nfb/hvGZGippIIFUcdTViEeI",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-28",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE Math Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/g6TQuTZ9CuGsG9EoOTXH/ZZP0GEDSLLb0dFtQCUEK2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-28",
-    "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "Success Coaching",
-    "link": "https://citytech.event.cuny.edu/events/ZZ0z1Qx6nvhk5YKWVw9F/XV2jYs6ZLxs4cPgh02PI1",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-28",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Math Tutoring Fall 2026",
-    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA10",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-09-28",
-    "time": "3:00PM",
     "tags": []
   },
   {
@@ -3178,6 +3130,54 @@
     "tags": []
   },
   {
+    "title": "ASAP/ACE Math Tutoring (Wednesdays)",
+    "link": "https://citytech.event.cuny.edu/events/OlDOLlYVv0INShXbEY3S/eC1CdRJcAnHD76BOFrmy2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-30",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "DEN1100 Exam",
+    "link": "https://citytech.event.cuny.edu/events/DrTy2IbZlzy3UOqpv2fD/velXu0baQSjFJ7MXNVj5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-30",
+    "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Math Tutoring Fall 2026",
+    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA12",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-30",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "Counting Out Movie Discussion",
+    "link": "https://citytech.event.cuny.edu/events/feX2M5XiP36E2FrS84U4/ZCbe0tVwmg52bWtPsrgA",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-30",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center High School Equivalency Class",
+    "link": "https://citytech.event.cuny.edu/events/WLKCv1H60LfQMXwvwVbm/khJOOksgZT37KmJWo3sp5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-09-30",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "CAA/Chairs' Colloquium",
+    "link": "https://citytech.event.cuny.edu/events/GeOWEnlj8Ti98m1Zn6ky/PY2V0S1CWhxWsVCWDrvJ",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-10-01",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
     "title": "Tabling",
     "link": "https://hostos.event.cuny.edu/events/keSwIE5OwPccRuerOpwu/93esEj1wv0ogHKfeqOTi5",
     "college": "Hostos Community College",
@@ -3191,6 +3191,14 @@
     "college": "Hostos Community College",
     "date": "2026-10-02",
     "time": "2:00PM",
+    "tags": []
+  },
+  {
+    "title": "Club Fair",
+    "link": "https://hostos.event.cuny.edu/events/FpEpUjS6elp3008U7SvI/ViWZM1fv86snD3rIhZlP",
+    "college": "Hostos Community College",
+    "date": "2026-10-06",
+    "time": "9:00AM",
     "tags": []
   },
   {
@@ -3354,14 +3362,6 @@
     "tags": []
   },
   {
-    "title": "Health Services Administration M.S. Information Session",
-    "link": "https://www.lehman.edu/events/2026/Health-Services-Administration-MS-Information-Session--9.php",
-    "college": "Lehman College",
-    "date": "2026-09-28",
-    "time": "8:00 PM- 9:00 PM",
-    "tags": []
-  },
-  {
     "title": "Geographic Information Science Information Session M.S. & Adv. Cert.",
     "link": "https://www.lehman.edu/events/2026/Geographic-Information-Science-Information-Session-MS--Adv-Cert-2.php",
     "college": "Lehman College",
@@ -3387,7 +3387,7 @@
   },
   {
     "title": "Queer Theater and Performance Speaker Series: Guest Artist Linda La",
-    "link": "https://www.lehman.edu/events/2026/Queer-Theater-and-Performance-Speaker-Series-Guest-Artist-Linda-La.php",
+    "link": "https://www.lehman.edu/events/2026/Queer-Theater-and-Performance-Speaker-Series-Guest-Artist-Linda-La-1.php",
     "college": "Lehman College",
     "date": "2026-09-30",
     "time": "4:30 PM- 5:30 PM",
@@ -3403,7 +3403,7 @@
   },
   {
     "title": "#21 Through My Eyes - Stepping Up to the Plate for Humanity",
-    "link": "https://www.lehman.edu/events/2026/21-Through-My-Eyes---Stepping-Up-to-the-Plate-for-Humanity.php",
+    "link": "https://www.lehman.edu/events/2026/21-Through-My-Eyes---Stepping-Up-to-the-Plate-for-Humanity-1.php",
     "college": "Lehman College",
     "date": "2026-09-30",
     "time": "6:00 PM- 8:00 PM",
