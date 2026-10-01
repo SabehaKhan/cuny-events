@@ -151,27 +151,6 @@
     ]
   },
   {
-    "title": "Photo Club Lightroom Editing Workshop",
-    "link": "https://www.journalism.cuny.edu/events/photo-club-lightroom-editing-workshop/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-10-01",
-    "time": "12:30 PM - 02:00 PM",
-    "tags": [
-      "Current Students"
-    ]
-  },
-  {
-    "title": "Digital Safety Workshop",
-    "link": "https://www.journalism.cuny.edu/events/digital-safety-workshop/2026-10-01/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-10-01",
-    "time": "01:00 PM - 02:15 PM",
-    "tags": [
-      "Current Students",
-      "Journalism Protection Initiative"
-    ]
-  },
-  {
     "title": "Paint, Sip, and Yap with NABJ, NAHJ, AAJA",
     "link": "https://www.journalism.cuny.edu/events/nabj-sip-n-paint/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -404,6 +383,16 @@
     "link": "https://www.journalism.cuny.edu/events/tips-for-applying-3/",
     "college": "Craig Newmark Graduate School of Journalism",
     "date": "2027-02-09",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "On-Campus Information Session",
+    "link": "https://www.journalism.cuny.edu/events/on-campus-information-session-3/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-02-11",
     "time": "06:00 PM - 06:00 PM",
     "tags": [
       "Future Students"
@@ -1128,18 +1117,6 @@
     ]
   },
   {
-    "title": "Meet and Greet with Your Advisor !",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377508",
-    "college": "Guttman Community College",
-    "date": "2026-10-01",
-    "time": "05:15 PM - 06:15 PM",
-    "tags": [
-      "EMSA",
-      "Social",
-      "Advising & Transfer Support"
-    ]
-  },
-  {
     "title": "College Apprenticeship Program: Calling all IT Students",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377513",
     "college": "Guttman Community College",
@@ -1364,6 +1341,17 @@
     ]
   },
   {
+    "title": "Connect, Network and Have Fun with CCSD",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377519",
+    "college": "Guttman Community College",
+    "date": "2026-10-30",
+    "time": "05:00 PM - 06:30 PM",
+    "tags": [
+      "EMSA",
+      "Educational/Awareness"
+    ]
+  },
+  {
     "title": "The Writing Process Workshop (Session 5: APA and MLA Citation)",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377474",
     "college": "Guttman Community College",
@@ -1412,28 +1400,6 @@
       "Social - Off-Campus",
       "United Men of Color",
       "Off-Campus"
-    ]
-  },
-  {
-    "title": "Preparing for the Career Fair",
-    "link": "https://www.hunter.cuny.edu/event/preparing-for-the-career-fair/",
-    "college": "Hunter College",
-    "date": "2026-10-01",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Relationships with Faculty Group Advising Session",
-    "link": "https://www.hunter.cuny.edu/event/relationships-with-faculty-group-advising-session/",
-    "college": "Hunter College",
-    "date": "2026-10-01",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Student Events"
     ]
   },
   {
@@ -1707,22 +1673,43 @@
     ]
   },
   {
-    "title": "Friedman Transfer Scholars Program at CUNY's Macaulay Honors College Recruitment and Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/friedman-transfer-scholars-program-at-cunys-macaulay-honors-college-recruitment-and-information-session/",
+    "title": "Freshman & Sophomores Discovery Week is just for YOU!!!",
+    "link": "https://www.hunter.cuny.edu/event/freshman-sophomores-discovery-week-is-just-for-you/",
+    "college": "Hunter College",
+    "date": "2026-10-07",
+    "time": "12:00 PM - 01:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Crack Your Career Code with Basta (In-Person)",
+    "link": "https://www.hunter.cuny.edu/event/crack-your-career-code-with-basta-in-person/",
+    "college": "Hunter College",
+    "date": "2026-10-07",
+    "time": "12:00 PM - 01:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "How to Succeed in Your Next Interview",
+    "link": "https://www.bmcc.cuny.edu/event/how-to-succeed-in-your-next-interview-3/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-10-01",
-    "time": "11:00 AM - 01:00 PM",
+    "time": "02:00 PM - 03:00 PM",
     "tags": [
-      "Featured",
-      "Honors Program"
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
     ]
   },
   {
     "title": "Essay Writing Workshops - BMCC Writing Center",
-    "link": "https://www.bmcc.cuny.edu/event/essay-writing-workshops-bmcc-writing-center/2026-10-01/1/",
+    "link": "https://www.bmcc.cuny.edu/event/essay-writing-workshops-bmcc-writing-center/2026-10-01/2/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-10-01",
-    "time": "12:00 PM - 01:00 PM",
+    "time": "02:00 PM - 04:00 PM",
     "tags": [
       "Academic Affairs",
       "Academic Calendar",
@@ -1739,18 +1726,6 @@
       "Workshops",
       "Writing Across the Curriculum (WAC)",
       "Writing Center"
-    ]
-  },
-  {
-    "title": "How to Succeed in Your Next Interview",
-    "link": "https://www.bmcc.cuny.edu/event/how-to-succeed-in-your-next-interview-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-01",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
     ]
   },
   {
@@ -2109,6 +2084,17 @@
     ]
   },
   {
+    "title": "Library Club Hour: Black Out Poetry",
+    "link": "https://www.bmcc.cuny.edu/event/library-club-hour-black-out-poetry/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-14",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Featured",
+      "Library"
+    ]
+  },
+  {
     "title": "Space, Facilities, & Physical Plant",
     "link": "https://www.bcc.cuny.edu/event/space-facilities-physical-plant-3/",
     "college": "Bronx Community College",
@@ -2362,14 +2348,6 @@
     "tags": []
   },
   {
-    "title": "Friedman Transfer Scholars Program at CUNY’s Macaulay Honors College Recruitment and Information Session",
-    "link": "https://www.bmcc.cuny.edu/event/?p=683819",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-01",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": []
-  },
-  {
     "title": "Essay Writing Workshops – BMCC Writing Center",
     "link": "https://www.bmcc.cuny.edu/event/?p=10007710",
     "college": "Borough of Manhattan Community College",
@@ -2383,6 +2361,14 @@
     "college": "Borough of Manhattan Community College",
     "date": "2026-10-01",
     "time": "02:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Koreatown, NYC: The Consumption of a Transnational Brand",
+    "link": "https://events.cuny.edu/cec/koreatown-nyc-the-consumption-of-a-transnational-brand/",
+    "college": "Asian American / Asian Research Institute",
+    "date": "2026-10-02",
+    "time": "6:00 PM - 7:30 PM",
     "tags": []
   },
   {
@@ -2455,6 +2441,14 @@
     "college": "Queens College",
     "date": "2026-10-08",
     "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "Spring 2027 New Venture Accelerator 2 Application",
+    "link": "https://baruch.event.cuny.edu/events/BDIp25DhP66YrfGE7Td1/BIN8wZfxglIOJ3SLvvOy",
+    "college": "Baruch College",
+    "date": "2026-10-01",
+    "time": "11:30AM",
     "tags": []
   },
   {
@@ -2883,7 +2877,7 @@
   },
   {
     "title": "Reimagining the Classroom: Ask Me Anything Session",
-    "link": "https://www.lehman.edu/events/2026/Reimagining-the-Classroom-Ask-Me-Anything-Session-1.php",
+    "link": "https://www.lehman.edu/events/2026/Reimagining-the-Classroom-Ask-Me-Anything-Session.php",
     "college": "Lehman College",
     "date": "2026-10-01",
     "time": "11:00 AM- 12:00 PM",
@@ -2906,19 +2900,19 @@
     "tags": []
   },
   {
-    "title": "Music for Veterans",
-    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans.php?event_type=recurs_5",
-    "college": "Lehman College",
-    "date": "2026-10-01",
-    "time": "1:30 PM- 3:00 PM",
-    "tags": []
-  },
-  {
     "title": "Grammy-nominated composer Shawn Okpebholo discusses history, culture, and community through sound.",
     "link": "https://www.lehman.edu/events/2026/Grammy-nominated-composer-Shawn-Okpebholo-discusses-history-culture-and-community-through-sound.php",
     "college": "Lehman College",
     "date": "2026-10-01",
     "time": "1:30 PM- 2:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Music for Veterans",
+    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans.php?event_type=recurs_5",
+    "college": "Lehman College",
+    "date": "2026-10-01",
+    "time": "1:30 PM- 3:00 PM",
     "tags": []
   },
   {
