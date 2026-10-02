@@ -1419,6 +1419,16 @@
     ]
   },
   {
+    "title": "Graduate Admissions Virtual Desk",
+    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-virtual-front-desk-7/",
+    "college": "Hunter College",
+    "date": "2026-10-06",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Purple PEERiod Project",
     "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-17/",
     "college": "Hunter College",
@@ -1587,30 +1597,6 @@
     ]
   },
   {
-    "title": "BlackRock Future of Asset Management Virtual Series: Careers in Asset Management",
-    "link": "https://www.hunter.cuny.edu/event/blackrock-future-of-asset-management-virtual-series-careers-in-asset-management/",
-    "college": "Hunter College",
-    "date": "2026-10-07",
-    "time": "05:00 PM - 06:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Spilling The Tea: Meet the Counseling Center",
-    "link": "https://www.bmcc.cuny.edu/event/spilling-the-tea-meet-the-counseling-center-2-3/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-02",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Counseling Center",
-      "CUNY in The Heights",
-      "Evening-Weekend",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Latine Heritage Month: Stories Across Cultures: A Haitian American Play Reading",
     "link": "https://www.bmcc.cuny.edu/event/latine-heritage-month-stories-across-cultures-a-haitian-american-play-reading/",
     "college": "Borough of Manhattan Community College",
@@ -1631,25 +1617,23 @@
     ]
   },
   {
+    "title": "Crafting Your Future: Resume and Cover Letter Workshop",
+    "link": "https://www.bmcc.cuny.edu/event/crafting-your-future-resume-and-cover-letter-workshop-5/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-03",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development"
+    ]
+  },
+  {
     "title": "Health and Wellness Fair",
-    "link": "https://www.bmcc.cuny.edu/event/health-and-wellness-fair-4/2026-10-05/",
+    "link": "https://www.bmcc.cuny.edu/event/health-and-wellness-fair-4-2/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-10-05",
     "time": "10:00 AM - 04:00 PM",
     "tags": [
-      "Featured",
-      "Health Services"
-    ]
-  },
-  {
-    "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-6/2026-10-05/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-05",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Featured",
       "Health Services"
     ]
   },
@@ -1660,20 +1644,41 @@
     "date": "2026-10-05",
     "time": "04:00 PM - 05:00 PM",
     "tags": [
-      "Featured",
       "Learning Resource Center"
     ]
   },
   {
+    "title": "Essay Writing Workshops - BMCC Writing Center",
+    "link": "https://www.bmcc.cuny.edu/event/essay-writing-workshops-bmcc-writing-center-2/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-05",
+    "time": "04:00 PM - 05:00 PM",
+    "tags": [
+      "Academic Affairs",
+      "Academic Calendar",
+      "Academic Literacy and Linguistics",
+      "CUNY in The Heights",
+      "CUNY Start",
+      "English",
+      "Evening-Weekend",
+      "Human Services",
+      "Human Services and Criminal Justice",
+      "Learning Resource Center",
+      "Scholarships",
+      "Workshops",
+      "Writing Across the Curriculum (WAC)",
+      "Writing Center"
+    ]
+  },
+  {
     "title": "Healing Through Hip-Hop and Creative Expression",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression-7/2026-10-05/",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression-7-2/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-10-05",
     "time": "04:00 PM - 06:00 PM",
     "tags": [
       "Counseling Center",
       "Evening-Weekend",
-      "Featured",
       "Student Affairs",
       "Urban Male Leadership Academy (UMLA)"
     ]
@@ -1695,13 +1700,12 @@
   },
   {
     "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-5/2026-10-06/",
+    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-5-3/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-10-06",
     "time": "11:00 AM - 12:00 PM",
     "tags": [
       "Counseling Center",
-      "Featured",
       "Health Services",
       "Student Affairs"
     ]
@@ -1713,8 +1717,7 @@
     "date": "2026-10-06",
     "time": "02:00 PM - 03:00 PM",
     "tags": [
-      "Academic Advisement & Transfer",
-      "Featured"
+      "Academic Advisement & Transfer"
     ]
   },
   {
@@ -1743,7 +1746,6 @@
     "date": "2026-10-07",
     "time": "12:00 PM - 03:00 PM",
     "tags": [
-      "Featured",
       "Health Services",
       "Student Affairs"
     ]
@@ -1788,12 +1790,11 @@
   },
   {
     "title": "Library Club Hour: Graphic Novels",
-    "link": "https://www.bmcc.cuny.edu/event/library-club-hour-graphic-novels/2026-10-07/",
+    "link": "https://www.bmcc.cuny.edu/event/library-club-hour-graphic-novels-2/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-10-07",
     "time": "02:00 PM - 03:00 PM",
     "tags": [
-      "Featured",
       "Library"
     ]
   },
@@ -1805,7 +1806,6 @@
     "time": "02:00 PM - 03:30 PM",
     "tags": [
       "Counseling Center",
-      "Featured",
       "Music & Art",
       "Speech",
       "Communications and Theatre Arts",
@@ -1833,24 +1833,22 @@
   },
   {
     "title": "Barry M. Goldwater Scholarship Scholarship Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/barry-m-goldwater-scholarship-scholarship-workshop/2026-10-07/",
+    "link": "https://www.bmcc.cuny.edu/event/barry-m-goldwater-scholarship-scholarship-workshop-2/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-10-07",
     "time": "02:30 PM - 03:30 PM",
     "tags": [
-      "Featured",
       "Honors Program",
       "Scholarships"
     ]
   },
   {
     "title": "Morris Udall Scholarship Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/morris-udall-scholarship-workshop/2026-10-07/",
+    "link": "https://www.bmcc.cuny.edu/event/morris-udall-scholarship-workshop-2/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-10-07",
     "time": "02:30 PM - 03:30 PM",
     "tags": [
-      "Featured",
       "Scholarships"
     ]
   },
@@ -1862,6 +1860,22 @@
     "time": "02:30 PM - 04:00 PM",
     "tags": [
       "Academic Advisement & Transfer"
+    ]
+  },
+  {
+    "title": "Pride Month: FIERCE! Pride Month 2026 Opening Ceremony",
+    "link": "https://www.bmcc.cuny.edu/event/pride-month-fierce-pride-month-2026-opening-ceremony/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-08",
+    "time": "01:00 PM - 03:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured",
+      "LGBTQ Pride Month",
+      "Student Affairs",
+      "Women's Resource Center"
     ]
   },
   {
@@ -1877,14 +1891,30 @@
   },
   {
     "title": "Pride Reading Group",
-    "link": "https://www.bmcc.cuny.edu/event/pride-reading-group/2026-10-08/",
+    "link": "https://www.bmcc.cuny.edu/event/pride-reading-group-2/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-10-08",
     "time": "04:00 PM - 05:30 PM",
     "tags": [
       "Featured",
+      "LGBTQ Pride Month",
       "Library",
-      "Pride Center"
+      "Pride Center",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Pride Month: We Are All FIERCE! An Interactive BMCC Community Mural",
+    "link": "https://www.bmcc.cuny.edu/event/pride-month-we-are-all-fierce-an-interactive-bmcc-community-mural/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-09",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Evening-Weekend",
+      "Featured",
+      "LGBTQ Pride Month",
+      "Student Affairs"
     ]
   },
   {
@@ -1952,14 +1982,18 @@
     ]
   },
   {
-    "title": "Library Club Hour: Black Out Poetry",
-    "link": "https://www.bmcc.cuny.edu/event/library-club-hour-black-out-poetry/",
+    "title": "How to become a SAGE Volunteer: Orientation & Training",
+    "link": "https://www.bmcc.cuny.edu/event/how-to-become-a-sage-volunteer-orientation-training/",
     "college": "Borough of Manhattan Community College",
-    "date": "2026-10-14",
-    "time": "02:00 PM - 03:00 PM",
+    "date": "2026-10-13",
+    "time": "04:00 PM - 05:15 PM",
     "tags": [
+      "Center for Belonging and Inclusion",
       "Featured",
-      "Library"
+      "LGBTQ Pride Month",
+      "Social Sciences",
+      "Human Services and Criminal Justice",
+      "Student Affairs"
     ]
   },
   {
@@ -2011,20 +2045,7 @@
     "tags": [
       "Campus Events",
       "Feature",
-      "Health & Fitness Events",
       "Student Success"
-    ]
-  },
-  {
-    "title": "Bronco Hope Market",
-    "link": "https://www.bcc.cuny.edu/event/bronco-hope-market-2/",
-    "college": "Bronx Community College",
-    "date": "2026-10-08",
-    "time": "11:00 AM - 06:30 PM",
-    "tags": [
-      "Bronco Hope Market",
-      "Feature",
-      "Health & Fitness Events"
     ]
   },
   {
@@ -2083,7 +2104,6 @@
     "tags": [
       "Campus Events",
       "Feature",
-      "Health & Fitness Events",
       "Student Success"
     ]
   },
@@ -2096,8 +2116,7 @@
     "tags": [
       "Campus Events",
       "Feature",
-      "Graduation & Commencement",
-      "Transfer Planning"
+      "Graduation & Commencement"
     ]
   },
   {
@@ -2163,9 +2182,16 @@
     "time": "10:00 AM - 05:00 PM",
     "tags": [
       "Bronco Hope Market",
-      "Feature",
-      "Health & Fitness Events"
+      "Feature"
     ]
+  },
+  {
+    "title": "VPs & Deans",
+    "link": "https://www.bcc.cuny.edu/event/vps-deans-3/",
+    "college": "Bronx Community College",
+    "date": "2026-10-21",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "Koreatown, NYC: The Consumption of a Transnational Brand",
@@ -2173,14 +2199,6 @@
     "college": "Asian American / Asian Research Institute",
     "date": "2026-10-02",
     "time": "6:00 PM - 7:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Crafting Your Future: Resume and Cover Letter Workshop",
-    "link": "https://www.bmcc.cuny.edu/event/?p=680412",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-03",
-    "time": "12:00 PM - 01:00 PM",
     "tags": []
   },
   {
@@ -2232,12 +2250,14 @@
     ]
   },
   {
-    "title": "Pages of Reading Reading Group",
-    "link": "https://qc.event.cuny.edu/events/f4A8ZSjyMG60oUslyNQe/pTWOVRbTloQj6SAgcjTx",
-    "college": "Queens College",
+    "title": "School Counseling and School Psychologist Open House",
+    "link": "https://events.cuny.edu/cec/school-counseling-and-school-psychologist-open-house/",
+    "college": "Brooklyn College",
     "date": "2026-10-05",
-    "time": "12:00PM",
-    "tags": []
+    "time": "6:00 PM",
+    "tags": [
+      "Graduate Information Sessions"
+    ]
   },
   {
     "title": "Learning Commons Workshops",
@@ -2264,14 +2284,6 @@
     "tags": []
   },
   {
-    "title": "Career-Connected Learning",
-    "link": "https://qc.event.cuny.edu/events/Bcer3LVphV9NmjYJbpUK/OMkgRit7VDJOP0u35Wz4",
-    "college": "Queens College",
-    "date": "2026-10-07",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
     "title": "Learning Commons Workshops",
     "link": "https://qc.event.cuny.edu/events/jexWsnPBpj4VSiMUkO1s/Cn7aGNHiTu5OSfZgxFtw12",
     "college": "Queens College",
@@ -2293,14 +2305,6 @@
     "college": "Queens College",
     "date": "2026-10-07",
     "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Mark Rosenbloom Memorial",
-    "link": "https://qc.event.cuny.edu/events/XSF0vIUU6pQcEYlHKJvl/JECHcBcajntTsAxpgSIg",
-    "college": "Queens College",
-    "date": "2026-10-08",
-    "time": "5:00PM",
     "tags": []
   },
   {
@@ -2785,7 +2789,7 @@
   },
   {
     "title": "Reimagining the Classroom: Ask Me Anything Session",
-    "link": "https://www.lehman.edu/events/2026/Reimagining-the-Classroom-Ask-Me-Anything-Session-2.php",
+    "link": "https://www.lehman.edu/events/2026/Reimagining-the-Classroom-Ask-Me-Anything-Session.php",
     "college": "Lehman College",
     "date": "2026-10-02",
     "time": "10:00 AM- 11:00 AM",
