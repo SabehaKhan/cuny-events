@@ -1297,18 +1297,6 @@
     ]
   },
   {
-    "title": "Build Your Network: Networking Clinic",
-    "link": "https://www.hunter.cuny.edu/event/build-your-network-networking-clinic/",
-    "college": "Hunter College",
-    "date": "2026-10-03",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Career Week Kick-off: Coffee Chats with Career Coaches",
     "link": "https://www.hunter.cuny.edu/event/career-week-kick-off-coffee-chats-with-career-coaches/",
     "college": "Hunter College",
@@ -1582,6 +1570,16 @@
     "college": "Hunter College",
     "date": "2026-10-07",
     "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "BlackRock Future of Asset Management Virtual Series: Careers in Asset Management",
+    "link": "https://www.hunter.cuny.edu/event/blackrock-future-of-asset-management-virtual-series-careers-in-asset-management/",
+    "college": "Hunter College",
+    "date": "2026-10-07",
+    "time": "05:00 PM - 06:00 PM",
     "tags": [
       "Student Events"
     ]
@@ -3095,5 +3093,71 @@
     "date": "2026-10-08",
     "time": "5:00 PM - 6:00 PM",
     "tags": []
+  },
+  {
+    "title": "INFORMATION ASSURANCE RESEARCH PANEL",
+    "link": "https://www.gc.cuny.edu/events/information-assurance-research-panel",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "GAMING TECHNOLOGY AND EDUCATION PANEL",
+    "link": "https://www.gc.cuny.edu/events/gaming-technology-and-education-panel",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-14",
+    "time": "12:00 pm — 5:00 pm",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "E-COMMERCE SECURITY HOT TOPICS",
+    "link": "https://www.gc.cuny.edu/events/e-commerce-security-hot-topics",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-30",
+    "time": "2:00 pm — 5:00 pm",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
+    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-25",
+    "time": "6:30 pm",
+    "location": "C198",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-20",
+    "time": "",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
+    "college": "CUNY Graduate Center",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
   }
 ]
