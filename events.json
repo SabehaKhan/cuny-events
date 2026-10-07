@@ -16,17 +16,6 @@
     "tags": []
   },
   {
-    "title": "CUNY Law Alumni Connection Series",
-    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-oct26/",
-    "college": "CUNY School of Law",
-    "date": "2026-10-07",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Alumni",
-      "Networking Event"
-    ]
-  },
-  {
     "title": "National Conference of Black Lawyers 2026 Annual Conference",
     "link": "https://www.law.cuny.edu/event/national-conference-of-black-lawyers-2026-annual-conference/",
     "college": "CUNY School of Law",
@@ -288,6 +277,14 @@
     "tags": [
       "Future Students"
     ]
+  },
+  {
+    "title": "Artificial Intelligence and the Restructuring of News: In Conversation with Gina Chua",
+    "link": "https://www.journalism.cuny.edu/events/artificial-intelligence-and-the-restructuring-of-news-in-conversation-with-gina-chua/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-11-19",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
   },
   {
     "title": "Open House",
@@ -1008,6 +1005,56 @@
     "tags": []
   },
   {
+    "title": "Internship Orientation Workshops",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/b2571a19-d2ae-495e-bd68-51ca7adb67ee",
+    "college": "Kingsborough Community College",
+    "date": "2026-11-02",
+    "time": "03:30 PM - 09:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Internship Orientation Workshops",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/74aca20e-3ada-49f2-aec4-df8f555b380b",
+    "college": "Kingsborough Community College",
+    "date": "2026-10-07",
+    "time": "02:20 PM - 03:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Internship Orientation Workshops",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/23293bba-1ff1-4adf-a318-fd26f18a65b6",
+    "college": "Kingsborough Community College",
+    "date": "2026-10-08",
+    "time": "02:20 AM - 03:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Public Speaking Workshop (Virtual)",
+    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/77061ae6-f401-43d8-8c65-0712a5ca906b",
+    "college": "Kingsborough Community College",
+    "date": "2026-10-08",
+    "time": "07:00 PM - 07:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Identifying Safe Spaces",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377534",
+    "college": "Guttman Community College",
+    "date": "2026-10-07",
+    "time": "07:00 PM - 08:00 PM",
+    "tags": [
+      "OSL",
+      "Educational/Awareness",
+      "Women's Interest",
+      "Student Life",
+      "Conference",
+      "Discussion",
+      "Information Session",
+      "Sexual Assault Awareness",
+      "Teaching and Learning Center"
+    ]
+  },
+  {
     "title": "World Mental Health Day Art Class",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377522",
     "college": "Guttman Community College",
@@ -1207,66 +1254,6 @@
     "time": "08:00 AM - 05:00 PM",
     "tags": [
       "Exhibits"
-    ]
-  },
-  {
-    "title": "Career Clues: Using College Experiences to Find Your Career Path",
-    "link": "https://www.hunter.cuny.edu/event/career-clues-using-college-experiences-to-find-your-career-path/",
-    "college": "Hunter College",
-    "date": "2026-10-07",
-    "time": "10:00 AM - 11:00 AM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Fall 2026 Graduate & Professional School Fair",
-    "link": "https://www.hunter.cuny.edu/event/fall-2026-graduate-professional-school-fair-2/",
-    "college": "Hunter College",
-    "date": "2026-10-07",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Freshman & Sophomores Discovery Week is just for YOU!!!",
-    "link": "https://www.hunter.cuny.edu/event/freshman-sophomores-discovery-week-is-just-for-you/",
-    "college": "Hunter College",
-    "date": "2026-10-07",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Crack Your Career Code with Basta (In-Person)",
-    "link": "https://www.hunter.cuny.edu/event/crack-your-career-code-with-basta-in-person/",
-    "college": "Hunter College",
-    "date": "2026-10-07",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Port Authority of NY & NJ Leadership Fellow Program Info Session",
-    "link": "https://www.hunter.cuny.edu/event/port-authority-of-ny-nj-leadership-fellow-program-info-session-2/",
-    "college": "Hunter College",
-    "date": "2026-10-07",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "What’s On Your Plate? College, career, life-and everything in between",
-    "link": "https://www.hunter.cuny.edu/event/whats-on-your-plate-college-career-life-and-everything-in-between/",
-    "college": "Hunter College",
-    "date": "2026-10-07",
-    "time": "01:00 PM - 02:30 PM",
-    "tags": [
-      "Student Events"
     ]
   },
   {
@@ -1478,6 +1465,56 @@
     ]
   },
   {
+    "title": "What's Next After Studying in the U.S.? Your Guide to Options After Graduation",
+    "link": "https://www.hunter.cuny.edu/event/whats-next-after-studying-in-the-u-s-your-guide-to-options-after-graduation/",
+    "college": "Hunter College",
+    "date": "2026-10-09",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "A Guide to Careers in the Arts",
+    "link": "https://www.hunter.cuny.edu/event/a-guide-to-careers-in-the-arts/",
+    "college": "Hunter College",
+    "date": "2026-10-09",
+    "time": "02:30 PM - 03:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Nursing Generic Program Information Session",
+    "link": "https://www.hunter.cuny.edu/event/bachelor-of-science-in-nursing-generic-program-information-session-15/",
+    "college": "Hunter College",
+    "date": "2026-10-09",
+    "time": "04:00 PM - 05:30 PM",
+    "tags": [
+      "Open Houses"
+    ]
+  },
+  {
+    "title": "Graduate Admissions Virtual Desk",
+    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-virtual-front-desk-8/",
+    "college": "Hunter College",
+    "date": "2026-10-13",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Library & Archives Lunch Hour: Ruth Reynolds Oral History",
+    "link": "https://www.hunter.cuny.edu/event/library-archives-lunch-hour-ruth-reynolds-oral-history/",
+    "college": "Hunter College",
+    "date": "2026-10-13",
+    "time": "12:00 PM - 12:45 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
     "title": "Latine Heritage Month: Colombia Day",
     "link": "https://www.bmcc.cuny.edu/event/latine-heritage-month-colombia-day/",
     "college": "Borough of Manhattan Community College",
@@ -1497,17 +1534,6 @@
     ]
   },
   {
-    "title": "BMCC Stay Healthy: Wellness Wednesdays",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-stay-healthy-program-wellness-wednesdays/2026-10-07/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-07",
-    "time": "12:00 PM - 03:00 PM",
-    "tags": [
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "CUNY BMCC Career Day 3: Business, STEM, and Health Professions",
     "link": "https://www.bmcc.cuny.edu/event/cuny-bmcc-career-day-3-business-stem-and-health-professions/",
     "college": "Borough of Manhattan Community College",
@@ -1524,35 +1550,6 @@
       "Honors Program",
       "Math",
       "Science"
-    ]
-  },
-  {
-    "title": "Poet-in-Residence Patrick Rosal’s Public Program Series The Water Listeners",
-    "link": "https://www.bmcc.cuny.edu/event/poet-in-residence-patrick-rosals-public-program-series-the-water-listeners/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-07",
-    "time": "01:30 PM - 03:00 PM",
-    "tags": [
-      "CUNY in The Heights",
-      "English",
-      "Featured",
-      "Media Arts and Technology",
-      "Modern Languages",
-      "Music & Art",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs",
-      "Theatre"
-    ]
-  },
-  {
-    "title": "Library Club Hour: Graphic Novels",
-    "link": "https://www.bmcc.cuny.edu/event/library-club-hour-graphic-novels-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-07",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Library"
     ]
   },
   {
@@ -1707,6 +1704,19 @@
       "LGBTQ Pride Month",
       "Library",
       "Pride Center",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Breast Cancer Awareness Month: LIght without End",
+    "link": "https://www.bmcc.cuny.edu/event/breast-cancer-awareness-month-light-without-end/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-08",
+    "time": "04:00 PM - 06:00 PM",
+    "tags": [
+      "Evening-Weekend",
+      "Featured",
+      "Health Services",
       "Student Affairs"
     ]
   },
@@ -1878,12 +1888,29 @@
     ]
   },
   {
-    "title": "VPDC",
-    "link": "https://www.bcc.cuny.edu/event/vpdc-2/",
-    "college": "Bronx Community College",
-    "date": "2026-10-07",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": []
+    "title": "BMCC Fall 2026 Open House",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-fall-2026-open-house/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-15",
+    "time": "05:00 PM - 08:00 PM",
+    "tags": [
+      "Admissions",
+      "Evening-Weekend",
+      "Featured"
+    ]
+  },
+  {
+    "title": "Pride Month: Field trip to Dusty&Co Pottery Studio",
+    "link": "https://www.bmcc.cuny.edu/event/pride-month-field-trip-to-dustyco-pottery-studio/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-16",
+    "time": "01:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "LGBTQ Pride Month",
+      "Student Affairs"
+    ]
   },
   {
     "title": "Breast Cancer Awareness Month: Mobile Mammogram Screenings",
@@ -1895,21 +1922,6 @@
       "Campus Events",
       "Feature",
       "Student Success"
-    ]
-  },
-  {
-    "title": "CUNY EDGE HRA & Public Benefits Information Session",
-    "link": "https://www.bcc.cuny.edu/event/cuny-edge-hra-information-session/",
-    "college": "Bronx Community College",
-    "date": "2026-10-08",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Admissions & Financial Aid",
-      "Campus Events",
-      "Feature",
-      "Information Sessions",
-      "Student Success",
-      "Virtual Event"
     ]
   },
   {
@@ -2099,6 +2111,26 @@
       "Feature",
       "Student Success"
     ]
+  },
+  {
+    "title": "32nd Annual BCC Film and Video Festival Screening",
+    "link": "https://www.bcc.cuny.edu/event/32nd-annual-bcc-film-and-video-festival-screening/",
+    "college": "Bronx Community College",
+    "date": "2026-10-22",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": [
+      "Campus Events",
+      "Feature",
+      "Media & Digital Film Events"
+    ]
+  },
+  {
+    "title": "Senate",
+    "link": "https://www.bcc.cuny.edu/event/senate-3/",
+    "college": "Bronx Community College",
+    "date": "2026-10-22",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "Presentation: My Teaching Experience in Korea",
@@ -2879,6 +2911,166 @@
     "college": "Macaulay Honors College",
     "date": "2026-10-22",
     "time": "5:00 AM - 6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Midterm Assessment Period",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-13",
+    "college": "York College",
+    "date": "2026-10-07",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Oct 7",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-oct7",
+    "college": "York College",
+    "date": "2026-10-07",
+    "time": "1:30 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Annual Benefits Fairs",
+    "link": "https://www.york.cuny.edu/events/annual-benefits-fairs",
+    "college": "York College",
+    "date": "2026-10-07",
+    "time": "4:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Procrastination",
+    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/procrastination",
+    "college": "York College",
+    "date": "2026-10-07",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Soccer vs. CCNY",
+    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-ccny-10072026",
+    "college": "York College",
+    "date": "2026-10-07",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Evening",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
+    "college": "York College",
+    "date": "2026-10-07",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "EQ Advantage (Emotional Intelligence)",
+    "link": "https://www.york.cuny.edu/events/eq-advantage-emotional-intelligence",
+    "college": "York College",
+    "date": "2026-10-07",
+    "time": "9:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Midterm Assessment Period",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-14",
+    "college": "York College",
+    "date": "2026-10-08",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
+    "college": "York College",
+    "date": "2026-10-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
+    "college": "York College",
+    "date": "2026-10-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "2026 Homecoming/ Spirit Week- School Spirit Day",
+    "link": "https://www.york.cuny.edu/events/2026/2026-homecoming-spirit-week-school-spirit-day",
+    "college": "York College",
+    "date": "2026-10-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Safe Palette: Art Therapy Workshop",
+    "link": "https://www.york.cuny.edu/womens-center/calendar-of-events/safe-palette-art-therapy-workshop",
+    "college": "York College",
+    "date": "2026-10-08",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Study Abroad 101: Your Global Journey Starts Here 10/8",
+    "link": "https://www.york.cuny.edu/events/2026/study-abroad-101-your-global-journey-starts-here-1",
+    "college": "York College",
+    "date": "2026-10-08",
+    "time": "5:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Tennis vs. University of Mount Saint Vincent",
+    "link": "https://www.york.cuny.edu/events/2026/w-tennis-vs-umsv-10082026",
+    "college": "York College",
+    "date": "2026-10-08",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "2026 Homecoming/ Spirit Week- Spirit Day Games",
+    "link": "https://www.york.cuny.edu/events/2026/2026-homecoming-spirit-week-spirit-day-games",
+    "college": "York College",
+    "date": "2026-10-08",
+    "time": "8:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Old School vs. New School Basketball Game",
+    "link": "https://www.york.cuny.edu/events/2026/old-school-vs-new-school-basketball-game-10082026",
+    "college": "York College",
+    "date": "2026-10-08",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Midterm Assessment Period",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-15",
+    "college": "York College",
+    "date": "2026-10-09",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-10-09",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Scholarships 101",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarships-101",
+    "college": "York College",
+    "date": "2026-10-19",
+    "time": "8:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Monday Evening",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-monday-evening-fall-2026",
+    "college": "York College",
+    "date": "2026-10-19",
+    "time": "8:30 PM - 10:00 PM",
     "tags": []
   },
   {
