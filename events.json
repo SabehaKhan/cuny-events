@@ -1075,7 +1075,7 @@
       "OSL",
       "Career Workshop",
       "Student Life",
-      "Faith-Based",
+      "Hispanic/LatinX Heritage Month",
       "Food - Light Refreshments "
     ]
   },
@@ -1155,7 +1155,7 @@
       "Food - Light Refreshments",
       "Student Life",
       "SGA",
-      "Career"
+      "Weeks Of Welcome"
     ]
   },
   {
@@ -2679,6 +2679,22 @@
     "college": "Lehman College",
     "date": "2026-10-11",
     "time": "2:00 PM- 4:00 PM",
+    "tags": []
+  },
+  {
+    "title": "National Coming Out Day",
+    "link": "https://www.lehman.edu/events/2026/National-Coming-Out-Day.php",
+    "college": "Lehman College",
+    "date": "2026-10-13",
+    "time": "1:45 PM- 2:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Health Services Administration M.S. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Health-Services-Administration-MS-Information-Session--10.php",
+    "college": "Lehman College",
+    "date": "2026-10-13",
+    "time": "8:00 PM- 9:00 PM",
     "tags": []
   },
   {
