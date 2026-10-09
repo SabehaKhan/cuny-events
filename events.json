@@ -1068,20 +1068,6 @@
     ]
   },
   {
-    "title": "Hackathon",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377537",
-    "college": "Guttman Community College",
-    "date": "2026-10-26",
-    "time": "01:00 PM - 09:00 PM",
-    "tags": [
-      "CCPP",
-      "Workshop",
-      "Food - Breakfast",
-      "Food - Lunch",
-      "Food - Light Refreshments "
-    ]
-  },
-  {
     "title": "Guttman Stands with Immigrants",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377311",
     "college": "Guttman Community College",
@@ -1874,6 +1860,14 @@
     ]
   },
   {
+    "title": "Test",
+    "link": "https://www.bcc.cuny.edu/event/test/",
+    "college": "Bronx Community College",
+    "date": "2026-10-09",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": []
+  },
+  {
     "title": "Academic Standing",
     "link": "https://www.bcc.cuny.edu/event/academic-standing-3/",
     "college": "Bronx Community College",
@@ -2071,14 +2065,6 @@
     "link": "https://www.bcc.cuny.edu/event/curriculum-8/",
     "college": "Bronx Community College",
     "date": "2026-10-27",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Academic Standing",
-    "link": "https://www.bcc.cuny.edu/event/academic-standing-4/",
-    "college": "Bronx Community College",
-    "date": "2026-10-28",
     "time": "02:00 PM - 04:00 PM",
     "tags": []
   },
@@ -2575,6 +2561,54 @@
     "tags": []
   },
   {
+    "title": "Social Work, MSW Information Session",
+    "link": "https://www.lehman.edu/events/2026/Social-Work-MSW-Information-Session-1.php",
+    "college": "Lehman College",
+    "date": "2026-10-14",
+    "time": "6:00 PM- 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Mindfulness and Contemplative Studies Adv. Cert. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Mindfulness-and-Contemplative-Studies-Adv-Cert-Information-Session.php",
+    "college": "Lehman College",
+    "date": "2026-10-14",
+    "time": "6:00 PM- 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Music Has Power® for Aphasia",
+    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia.php?event_type=recurs_7",
+    "college": "Lehman College",
+    "date": "2026-10-15",
+    "time": "10:30 AM- 11:30 AM",
+    "tags": []
+  },
+  {
+    "title": "Music for Veterans",
+    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans.php?event_type=recurs_7",
+    "college": "Lehman College",
+    "date": "2026-10-15",
+    "time": "1:30 PM- 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Morgan Stanley Session",
+    "link": "https://www.lehman.edu/events/2026/Morgan-Stanley-Session.php",
+    "college": "Lehman College",
+    "date": "2026-10-15",
+    "time": "1:30 PM- 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "A Reading and Celebration with CUNY Alum Dr. Ayendy Bonifacio",
+    "link": "https://www.lehman.edu/events/2026/A-Reading-and-Celebration-with-CUNY-Alum-Dr-Ayendy-Bonifacio-1.php",
+    "college": "Lehman College",
+    "date": "2026-10-15",
+    "time": "6:00 PM- 9:00 PM",
+    "tags": []
+  },
+  {
     "title": "Macaulay Honors Datathon",
     "link": "https://macaulay.cuny.edu/calendar-of-events/macaulay-honors-datathon/",
     "college": "Macaulay Honors College",
@@ -2647,69 +2681,155 @@
     "tags": []
   },
   {
-    "title": "INFORMATION ASSURANCE RESEARCH PANEL",
-    "link": "https://www.gc.cuny.edu/events/information-assurance-research-panel",
-    "college": "CUNY Graduate Center",
-    "date": "2026-10-28",
-    "time": "",
-    "location": "TBD",
-    "tags": [
-      "CUNY Institute for Software Design and Development"
-    ]
+    "title": "Midterm Assessment Period",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-15",
+    "college": "York College",
+    "date": "2026-10-09",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
   },
   {
-    "title": "GAMING TECHNOLOGY AND EDUCATION PANEL",
-    "link": "https://www.gc.cuny.edu/events/gaming-technology-and-education-panel",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-14",
-    "time": "12:00 pm — 5:00 pm",
-    "location": "TBD",
-    "tags": [
-      "CUNY Institute for Software Design and Development"
-    ]
+    "title": "Caribbean Film Festival",
+    "link": "https://www.york.cuny.edu/events/film-festival",
+    "college": "York College",
+    "date": "2026-10-09",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
   },
   {
-    "title": "E-COMMERCE SECURITY HOT TOPICS",
-    "link": "https://www.gc.cuny.edu/events/e-commerce-security-hot-topics",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-30",
-    "time": "2:00 pm — 5:00 pm",
-    "location": "TBD",
-    "tags": [
-      "CUNY Institute for Software Design and Development"
-    ]
+    "title": "2026 Homecoming/ Spirit Week- Community Service Day",
+    "link": "https://www.york.cuny.edu/events/2026/2026-homecoming-spirit-week-community-service-day",
+    "college": "York College",
+    "date": "2026-10-09",
+    "time": "2:00 PM - 7:00 PM",
+    "tags": []
   },
   {
-    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
-    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
-    "college": "CUNY Graduate Center",
-    "date": "2026-10-25",
-    "time": "6:30 pm",
-    "location": "C198",
-    "tags": [
-      "Committee on Globalization and Social Change"
-    ]
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
+    "college": "York College",
+    "date": "2026-10-09",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
   },
   {
-    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
-    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-20",
-    "time": "",
-    "location": "9100: Skylight Room",
-    "tags": [
-      "Committee on Globalization and Social Change"
-    ]
+    "title": "Writing Concisely: The Art of the 300-Word Essay 10/9",
+    "link": "https://www.york.cuny.edu/events/2026/writing-concisely-the-art-of-the-300-word-essay-1",
+    "college": "York College",
+    "date": "2026-10-09",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
   },
   {
-    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
-    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
-    "college": "CUNY Graduate Center",
-    "date": "2026-12-04",
-    "time": "6:00 pm",
-    "location": "9205",
-    "tags": [
-      "Committee on Globalization and Social Change"
-    ]
+    "title": "Midterm Assessment Period",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-16",
+    "college": "York College",
+    "date": "2026-10-10",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "2026 Homecoming/ Spirit Week- Soccer Game and Celebration",
+    "link": "https://www.york.cuny.edu/events/2026/2026-homecoming-spirit-week-soccer-game-celebration",
+    "college": "York College",
+    "date": "2026-10-10",
+    "time": "2:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Soccer Tailgate",
+    "link": "https://www.york.cuny.edu/events/2026/soccer-tailgate-10102026",
+    "college": "York College",
+    "date": "2026-10-10",
+    "time": "2:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Soccer vs. John Jay College",
+    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-john-jay-10102026",
+    "college": "York College",
+    "date": "2026-10-10",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Midterm Assessment Period",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-17",
+    "college": "York College",
+    "date": "2026-10-11",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Midterm Assessment Period",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-18",
+    "college": "York College",
+    "date": "2026-10-12",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Tennis vs. Baruch College",
+    "link": "https://www.york.cuny.edu/events/2026/w-tennis-vs-baruch-10122026",
+    "college": "York College",
+    "date": "2026-10-12",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Midterm Assessment Period",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-19",
+    "college": "York College",
+    "date": "2026-10-13",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Classes follow a Monday schedule",
+    "link": "https://www.york.cuny.edu/registrar/calendar/fall/classes-follow-a-monday-schedule-1",
+    "college": "York College",
+    "date": "2026-10-13",
+    "time": "4:00 AM - 3:59 AM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
+    "college": "York College",
+    "date": "2026-10-13",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Evening",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
+    "college": "York College",
+    "date": "2026-10-13",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-10-14",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Scholarships 101",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarships-101",
+    "college": "York College",
+    "date": "2026-10-19",
+    "time": "8:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Monday Evening",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-monday-evening-fall-2026",
+    "college": "York College",
+    "date": "2026-10-19",
+    "time": "8:30 PM - 10:00 PM",
+    "tags": []
   }
 ]
