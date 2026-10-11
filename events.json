@@ -1475,18 +1475,6 @@
     "tags": []
   },
   {
-    "title": "BMCC Stay Healthy: Free HIV/STI and Hepatitis Testing for BMCC Students",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-stay-healthy-free-hiv-sti-testing-for-bmcc-students-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-12",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
     "title": "Exhale to Inhale: Healing Yoga",
     "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-6/2026-10-13/",
     "college": "Borough of Manhattan Community College",
@@ -1856,6 +1844,18 @@
       "Featured",
       "International Student Events/Workshops",
       "National Transfer Student Week"
+    ]
+  },
+  {
+    "title": "Library Club Hour: Zines",
+    "link": "https://www.bmcc.cuny.edu/event/library-club-hour-zines/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-21",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Featured",
+      "Library",
+      "Student Affairs"
     ]
   },
   {
@@ -2682,5 +2682,71 @@
     "date": "2026-10-22",
     "time": "5:00 AM - 6:00PM",
     "tags": []
+  },
+  {
+    "title": "INFORMATION ASSURANCE RESEARCH PANEL",
+    "link": "https://www.gc.cuny.edu/events/information-assurance-research-panel",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "GAMING TECHNOLOGY AND EDUCATION PANEL",
+    "link": "https://www.gc.cuny.edu/events/gaming-technology-and-education-panel",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-14",
+    "time": "12:00 pm — 5:00 pm",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "E-COMMERCE SECURITY HOT TOPICS",
+    "link": "https://www.gc.cuny.edu/events/e-commerce-security-hot-topics",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-30",
+    "time": "2:00 pm — 5:00 pm",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
+    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-25",
+    "time": "6:30 pm",
+    "location": "C198",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-20",
+    "time": "",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
+    "college": "CUNY Graduate Center",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
   }
 ]
