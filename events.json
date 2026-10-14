@@ -1415,6 +1415,14 @@
     ]
   },
   {
+    "title": "2026 STEM Summer Research Symposium",
+    "link": "https://www.hunter.cuny.edu/event/2026-stem-summer-research-symposium/",
+    "college": "Hunter College",
+    "date": "2026-10-21",
+    "time": "12:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
     "title": "Latine Heritage Month: A Brief History of Latinx Theatre in NYC/ A Conversation with IATI Theater",
     "link": "https://www.bmcc.cuny.edu/event/latine-heritage-month-a-brief-history-of-latinx-theatre-in-nyc-a-conversation-with-iati-theater/",
     "college": "Borough of Manhattan Community College",
@@ -1800,30 +1808,6 @@
     "tags": []
   },
   {
-    "title": "Fall 2026 Blood Drive",
-    "link": "https://www.bcc.cuny.edu/event/fall-2026-blood-drive/",
-    "college": "Bronx Community College",
-    "date": "2026-10-15",
-    "time": "10:00 AM - 04:00 PM",
-    "tags": [
-      "Campus Events",
-      "Feature",
-      "Student Success"
-    ]
-  },
-  {
-    "title": "Fall 2026 Transfer Fair",
-    "link": "https://www.bcc.cuny.edu/event/fall-2026-transfer-fair/",
-    "college": "Bronx Community College",
-    "date": "2026-10-15",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Campus Events",
-      "Feature",
-      "Graduation & Commencement"
-    ]
-  },
-  {
     "title": "Community Events",
     "link": "https://www.bcc.cuny.edu/event/community-events-2/",
     "college": "Bronx Community College",
@@ -2012,6 +1996,116 @@
       "Feature",
       "Information Sessions",
       "Virtual Event"
+    ]
+  },
+  {
+    "title": "Student Activities",
+    "link": "https://www.bcc.cuny.edu/event/student-activities/",
+    "college": "Bronx Community College",
+    "date": "2026-10-30",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Webinar Presentation: Filipino Nurses Migration to the U.S. and their Impact on Healthcare",
+    "link": "https://events.cuny.edu/cec/webinar-presentation-filipino-nurses-migration-to-the-u-s-and-their-impact-on-healthcare-2/",
+    "college": "College of Staten Island",
+    "date": "2026-10-14",
+    "time": "9:00 AM - 10:00 AM",
+    "tags": [
+      "Center for Global Engagement",
+      "Nursing",
+      "Verrazzano School"
+    ]
+  },
+  {
+    "title": "Fall 2026 GSOE Expo",
+    "link": "https://events.cuny.edu/cec/fall-2026-gsoe-expo/",
+    "college": "The City College of New York",
+    "date": "2026-10-14",
+    "time": "9:30 AM - 4:30 PM",
+    "tags": [
+      "Fall 2026 GSOE Expo"
+    ]
+  },
+  {
+    "title": "Biochemistry Seminar: Victoria D’Souza, “Alternate structures in RNA and their functional significance”",
+    "link": "https://events.cuny.edu/cec/biochemistry-seminar-victoria-dsouza-alternate-structures-in-rna-and-their-functional-significance/",
+    "college": "The City College of New York",
+    "date": "2026-10-14",
+    "time": "12:00 PM - 1:00 PM",
+    "tags": [
+      "Victoria D'Souza"
+    ]
+  },
+  {
+    "title": "Webinar Presentation: Filipino Nurses Migration to the U.S. and Their Impact on Healthcare",
+    "link": "https://events.cuny.edu/cec/webinar-presentation-filipino-nurses-migration-to-the-u-s-and-their-impact-on-healthcare/",
+    "college": "College of Staten Island",
+    "date": "2026-10-14",
+    "time": "12:15 PM - 1:15 PM",
+    "tags": [
+      "Center for Global Engagement",
+      "Nursing",
+      "Verrazzano School"
+    ]
+  },
+  {
+    "title": "Brush Up! Quick tips, fun facts, and freebies for a healthier smile (National Dental Hygiene Awareness Month – Tabling)",
+    "link": "https://events.cuny.edu/cec/brush-up-quick-tips-fun-facts-and-freebies-for-a-healthier-smile-national-dental-hygiene-awareness-month-tabling/",
+    "college": "College of Staten Island",
+    "date": "2026-10-14",
+    "time": "1:00 PM - 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Nutrition, M.S. Open House",
+    "link": "https://events.cuny.edu/cec/nutrition-m-s-open-house/",
+    "college": "Brooklyn College",
+    "date": "2026-10-14",
+    "time": "6:00 PM",
+    "tags": [
+      "Graduate Information Sessions"
+    ]
+  },
+  {
+    "title": "Autism Spectrum Disorders Program Info Session",
+    "link": "https://events.cuny.edu/cec/autism-spectrum-disorders-program-info-session/",
+    "college": "College of Staten Island",
+    "date": "2026-10-14",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": [
+      "Psychology"
+    ]
+  },
+  {
+    "title": "TCB: The Toni Cade Bambara School of Organizing – Film and Talk",
+    "link": "https://events.cuny.edu/cec/tcb-the-toni-cade-bambara-school-of-organizing-film-and-talk/",
+    "college": "The City College of New York",
+    "date": "2026-10-14",
+    "time": "6:00 PM - 9:00 PM",
+    "tags": [
+      "Film and Talk"
+    ]
+  },
+  {
+    "title": "Community Health, M.A. Open House",
+    "link": "https://events.cuny.edu/cec/community-health-m-a-open-house/",
+    "college": "Brooklyn College",
+    "date": "2026-10-14",
+    "time": "7:00 PM",
+    "tags": [
+      "Graduate Information Sessions"
+    ]
+  },
+  {
+    "title": "Industrial and Organizational Psychology Open House",
+    "link": "https://events.cuny.edu/cec/industrial-and-organizational-psychology-open-house/",
+    "college": "Brooklyn College",
+    "date": "2026-10-14",
+    "time": "7:00 PM",
+    "tags": [
+      "Graduate Information Sessions"
     ]
   },
   {
@@ -2503,6 +2597,22 @@
     "tags": []
   },
   {
+    "title": "Computer Science M.S. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Computer-Science-MS-Information-Session--1.php",
+    "college": "Lehman College",
+    "date": "2026-10-19",
+    "time": "5:00 PM- 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Iconic Dialogues with Rita Moreno",
+    "link": "https://www.lehman.edu/events/2026/Iconic-Dialogues-with-Rita-Moreno-1.php",
+    "college": "Lehman College",
+    "date": "2026-10-20",
+    "time": "3:45 PM- 5:00 PM",
+    "tags": []
+  },
+  {
     "title": "Pre-Law Info Session & Workshop",
     "link": "https://macaulay.cuny.edu/calendar-of-events/pre-law-info-session-workshop/",
     "college": "Macaulay Honors College",
@@ -2564,142 +2674,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-10-22",
     "time": "5:00 AM - 6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Midterm Assessment Period",
-    "link": "https://www.york.cuny.edu/registrar/calendar/fall/midterm-assessment-period-20",
-    "college": "York College",
-    "date": "2026-10-14",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "2026 Homecoming/ Spirit Week- Jersey Day",
-    "link": "https://www.york.cuny.edu/events/2026/2026-homecoming-spirit-week-jersey-day",
-    "college": "York College",
-    "date": "2026-10-14",
-    "time": "4:00 AM - 3:59 AM",
-    "tags": []
-  },
-  {
-    "title": "Facilities Shared Services Town Hall",
-    "link": "https://www.york.cuny.edu/events/2026/facilities-shared-services-town-hall",
-    "college": "York College",
-    "date": "2026-10-14",
-    "time": "1:00 PM - 2:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Oct 14",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-oct14",
-    "college": "York College",
-    "date": "2026-10-14",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
-    "college": "York College",
-    "date": "2026-10-14",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
-    "college": "York College",
-    "date": "2026-10-14",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Problem Gambling",
-    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/problem-gambling",
-    "college": "York College",
-    "date": "2026-10-14",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-10-14",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Career and Internship Fair",
-    "link": "https://www.york.cuny.edu/career-services/events/career-and-internship-fair",
-    "college": "York College",
-    "date": "2026-10-15",
-    "time": "3:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Travel, Learn, Afford: Financing Your Study Abroad Experience 10/15",
-    "link": "https://www.york.cuny.edu/events/2026/travel-learn-afford-financing-your-study-abroad-experience-1",
-    "college": "York College",
-    "date": "2026-10-15",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fresh Produce Day - October 15th",
-    "link": "https://www.york.cuny.edu/womens-center/fresh-produce-day-october-15th",
-    "college": "York College",
-    "date": "2026-10-15",
-    "time": "4:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Turning Global Experiences into Career Success 10/15",
-    "link": "https://www.york.cuny.edu/events/2026/turning-global-experiences-into-career-success",
-    "college": "York College",
-    "date": "2026-10-15",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Budget Town Hall",
-    "link": "https://www.york.cuny.edu/events/2026/budget-town-hall",
-    "college": "York College",
-    "date": "2026-10-16",
-    "time": "1:00 PM - 2:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-10-16",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Breast Cancer Walk 2026",
-    "link": "https://www.york.cuny.edu/womens-center/breast-cancer-walk-2026",
-    "college": "York College",
-    "date": "2026-10-18",
-    "time": "12:00 PM - 4:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Scholarships 101",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarships-101",
-    "college": "York College",
-    "date": "2026-10-19",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Monday Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-monday-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-10-19",
-    "time": "8:30 PM - 10:00 PM",
     "tags": []
   },
   {
