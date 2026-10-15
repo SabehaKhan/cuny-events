@@ -1108,16 +1108,6 @@
     ]
   },
   {
-    "title": "Dietetic Internship Information Session (DI and MS-DI)",
-    "link": "https://www.hunter.cuny.edu/event/dietetic-internship-information-session-di-and-ms-di-2-2/2026-10-15/",
-    "college": "Hunter College",
-    "date": "2026-10-15",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Open Houses"
-    ]
-  },
-  {
     "title": "Graduate Admissions Information Session",
     "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-45/",
     "college": "Hunter College",
@@ -1222,7 +1212,7 @@
   },
   {
     "title": "MS-IPND Graduate Nutrition Program Information Sessions",
-    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7-2/2026-10-20/",
+    "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7-2-2/2026-10-20/",
     "college": "Hunter College",
     "date": "2026-10-20",
     "time": "12:00 PM - 01:00 PM",
@@ -1397,6 +1387,16 @@
     "date": "2026-10-22",
     "time": "01:30 PM - 03:00 PM",
     "tags": []
+  },
+  {
+    "title": "Application-Based Majors: Preparation for Nutrition",
+    "link": "https://www.hunter.cuny.edu/event/application-based-majors-preparation-for-nutrition/",
+    "college": "Hunter College",
+    "date": "2026-10-22",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Student Events"
+    ]
   },
   {
     "title": "EPIC Interview Day",
@@ -2380,6 +2380,14 @@
     "tags": []
   },
   {
+    "title": "CUNY SPH Social at APHA 2026",
+    "link": "https://sph.cuny.edu/event/cuny-sph-social-at-apha-2026/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-11-02",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
     "title": "Career Prep Day: Resume Review with Ciba Health",
     "link": "https://sph.cuny.edu/event/career-prep-day-resume-review-with-ciba-health-2/",
     "college": "CUNY School of Public Health",
@@ -2404,11 +2412,11 @@
     "tags": []
   },
   {
-    "title": "Career Workshop: What Hiring Managers Want with Dr. Danielle Greene",
-    "link": "https://sph.cuny.edu/event/career-workshop-what-hiring-managers-want-with-dr-danielle-greene/",
+    "title": "Career Success at CUNY SPH: Meet the Career Services Team",
+    "link": "https://sph.cuny.edu/event/career-success-at-cuny-sph-meet-the-career-services-team-2/",
     "college": "CUNY School of Public Health",
     "date": "2026-11-17",
-    "time": "12:00PM",
+    "time": "4:00PM",
     "tags": []
   },
   {
@@ -2441,6 +2449,14 @@
     "college": "CUNY School of Public Health",
     "date": "2026-12-03",
     "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "Career Workshop: What Hiring Managers Want with Dr. Danielle Greene",
+    "link": "https://sph.cuny.edu/event/career-workshop-what-hiring-managers-want-with-dr-danielle-greene/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-12-15",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -2585,166 +2601,6 @@
     "college": "Macaulay Honors College",
     "date": "2026-11-03",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Career and Internship Fair",
-    "link": "https://www.york.cuny.edu/career-services/events/career-and-internship-fair",
-    "college": "York College",
-    "date": "2026-10-15",
-    "time": "3:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
-    "college": "York College",
-    "date": "2026-10-15",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
-    "college": "York College",
-    "date": "2026-10-15",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Money Smart: Financial Gaming Summit",
-    "link": "https://www.york.cuny.edu/events/money-smart-financial-gaming-summit",
-    "college": "York College",
-    "date": "2026-10-15",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Travel, Learn, Afford: Financing Your Study Abroad Experience 10/15",
-    "link": "https://www.york.cuny.edu/events/2026/travel-learn-afford-financing-your-study-abroad-experience-1",
-    "college": "York College",
-    "date": "2026-10-15",
-    "time": "4:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fresh Produce Day - October 15th",
-    "link": "https://www.york.cuny.edu/womens-center/fresh-produce-day-october-15th",
-    "college": "York College",
-    "date": "2026-10-15",
-    "time": "4:30 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Turning Global Experiences into Career Success 10/15",
-    "link": "https://www.york.cuny.edu/events/2026/turning-global-experiences-into-career-success",
-    "college": "York College",
-    "date": "2026-10-15",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-10-15",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Budget Town Hall",
-    "link": "https://www.york.cuny.edu/events/2026/budget-town-hall",
-    "college": "York College",
-    "date": "2026-10-16",
-    "time": "1:00 PM - 2:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-10-16",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Breast Cancer Walk 2026",
-    "link": "https://www.york.cuny.edu/womens-center/breast-cancer-walk-2026",
-    "college": "York College",
-    "date": "2026-10-18",
-    "time": "12:00 PM - 4:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HRM Information Session - Fall 26",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/human-resource-management-info-session",
-    "college": "York College",
-    "date": "2026-10-19",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Yoga Mondays",
-    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/yoga-mondays-1",
-    "college": "York College",
-    "date": "2026-10-19",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Soccer vs. Pratt Institute",
-    "link": "https://www.york.cuny.edu/events/2026/m-soccer-vs-pratt-10192026",
-    "college": "York College",
-    "date": "2026-10-19",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Scholarships 101",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarships-101",
-    "college": "York College",
-    "date": "2026-10-19",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Monday Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-monday-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-10-19",
-    "time": "8:30 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Bachelor in Clinical Laboratory Science - Oct 20",
-    "link": "https://www.york.cuny.edu/events/2026/bachelor-in-clinical-laboratory-science-oct-20",
-    "college": "York College",
-    "date": "2026-10-20",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Library Skills 101 October",
-    "link": "https://www.york.cuny.edu/events/2026/library-skills-101-october",
-    "college": "York College",
-    "date": "2026-10-20",
-    "time": "4:45 PM - 5:45 PM",
-    "tags": []
-  },
-  {
-    "title": "ISM Information Session - Oct 20th",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/oct-20th-ism-information-session",
-    "college": "York College",
-    "date": "2026-10-20",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Tennis vs. Brooklyn College",
-    "link": "https://www.york.cuny.edu/events/2026/w-tennis-vs-brooklyn-10202026",
-    "college": "York College",
-    "date": "2026-10-20",
-    "time": "7:00 PM - 9:00 PM",
     "tags": []
   },
   {
