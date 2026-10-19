@@ -861,31 +861,6 @@
     "tags": []
   },
   {
-    "title": "Making Strides Against Breast Cancer Walk - Central Park",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377518",
-    "college": "Guttman Community College",
-    "date": "2026-10-18",
-    "time": "01:00 PM - 03:00 PM",
-    "tags": [
-      "OSL",
-      "Educational/Awareness",
-      "Off-Campus",
-      "Student Life"
-    ]
-  },
-  {
-    "title": "Disability Pride Parade",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377543",
-    "college": "Guttman Community College",
-    "date": "2026-10-18",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "EMSA",
-      "Educational/Awareness",
-      "AccessABILITY Services"
-    ]
-  },
-  {
     "title": "The Writing Process Workshop (Session 4: Draft)",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377473",
     "college": "Guttman Community College",
@@ -1966,17 +1941,6 @@
     ]
   },
   {
-    "title": "Undergraduate Open House",
-    "link": "https://events.cuny.edu/cec/undergraduate-open-house/",
-    "college": "Brooklyn College",
-    "date": "2026-10-18",
-    "time": "10:00 AM - 1:00 PM",
-    "tags": [
-      "Undergraduate Information Sessions",
-      "Undergraduate Open House"
-    ]
-  },
-  {
     "title": "YASS! Mondays",
     "link": "https://events.cuny.edu/cec/yass-mondays-32/",
     "college": "The City College of New York",
@@ -2074,6 +2038,16 @@
     ]
   },
   {
+    "title": "Theater, M.F.A. Open House",
+    "link": "https://events.cuny.edu/cec/theater-m-f-a-open-house/",
+    "college": "Brooklyn College",
+    "date": "2026-10-19",
+    "time": "6:30 PM",
+    "tags": [
+      "Graduate Information Sessions"
+    ]
+  },
+  {
     "title": "Learning Commons Workshops",
     "link": "https://qc.event.cuny.edu/events/jexWsnPBpj4VSiMUkO1s/Cn7aGNHiTu5OSfZgxFtw15",
     "college": "Queens College",
@@ -2111,6 +2085,22 @@
     "college": "Queens College",
     "date": "2026-10-23",
     "time": "7:00AM",
+    "tags": []
+  },
+  {
+    "title": "Learning Commons Workshops",
+    "link": "https://qc.event.cuny.edu/events/jexWsnPBpj4VSiMUkO1s/Cn7aGNHiTu5OSfZgxFtw17",
+    "college": "Queens College",
+    "date": "2026-10-26",
+    "time": "12:15PM",
+    "tags": []
+  },
+  {
+    "title": "Math Dept Review Sessions",
+    "link": "https://qc.event.cuny.edu/events/YQS7FA7iXKZZR0SuInVQ/u43J7l2KV54kJJFaV9e317",
+    "college": "Queens College",
+    "date": "2026-10-26",
+    "time": "12:15PM",
     "tags": []
   },
   {
@@ -2664,5 +2654,71 @@
     "date": "2026-11-06",
     "time": "12:00PM",
     "tags": []
+  },
+  {
+    "title": "INFORMATION ASSURANCE RESEARCH PANEL",
+    "link": "https://www.gc.cuny.edu/events/information-assurance-research-panel",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "GAMING TECHNOLOGY AND EDUCATION PANEL",
+    "link": "https://www.gc.cuny.edu/events/gaming-technology-and-education-panel",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-14",
+    "time": "12:00 pm — 5:00 pm",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "E-COMMERCE SECURITY HOT TOPICS",
+    "link": "https://www.gc.cuny.edu/events/e-commerce-security-hot-topics",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-30",
+    "time": "2:00 pm — 5:00 pm",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "AFTER GEZI, AFTER THE ELECTIONS, AFTER ISIS: POLITICS IN TURKEY NOW",
+    "link": "https://www.gc.cuny.edu/events/after-gezi-after-elections-after-isis-politics-turkey-now",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-25",
+    "time": "6:30 pm",
+    "location": "C198",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-20",
+    "time": "",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
+  },
+  {
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
+    "college": "CUNY Graduate Center",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
+    "tags": [
+      "Committee on Globalization and Social Change"
+    ]
   }
 ]
