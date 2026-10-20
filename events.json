@@ -1,13 +1,5 @@
 [
   {
-    "title": "Midsemester Check-In & Retention Convention: Take a Break, Recharge, & Connect",
-    "link": "https://www.mec.cuny.edu/event/midsemester-check-in-retention-convention-take-a-break-recharge-connect/",
-    "college": "Medgar Evers College",
-    "date": "2026-10-20",
-    "time": "11:00 AM - 03:00 PM",
-    "tags": []
-  },
-  {
     "title": "L.E.A.P. Awards Ceremony featuring Kevin Powell",
     "link": "https://www.mec.cuny.edu/event/l-e-a-p-awards-ceremony-featuring-kevin-powell/",
     "college": "Medgar Evers College",
@@ -96,12 +88,37 @@
     ]
   },
   {
-    "title": "Reporting on Election ‘26: Midterms, Mamdani and More!",
-    "link": "https://www.journalism.cuny.edu/events/reporting-on-election-26-midterms-mamdami-event/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-10-20",
-    "time": "12:30 PM - 02:00 PM",
-    "tags": []
+    "title": "CUNY Law Alumni Connection Series",
+    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-jan27/",
+    "college": "CUNY School of Law",
+    "date": "2027-01-06",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Alumni",
+      "Networking Event"
+    ]
+  },
+  {
+    "title": "CUNY Law Alumni Connection Series",
+    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-feb27/",
+    "college": "CUNY School of Law",
+    "date": "2027-02-03",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Alumni",
+      "Networking Event"
+    ]
+  },
+  {
+    "title": "CUNY Law Alumni Connection Series",
+    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-mar27/",
+    "college": "CUNY School of Law",
+    "date": "2027-03-03",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Alumni",
+      "Networking Event"
+    ]
   },
   {
     "title": "IRE Student Chapter Event",
@@ -1064,58 +1081,6 @@
     ]
   },
   {
-    "title": "SAVI Training: Mount Sinai Sexual Assault & Violence Intervention Training Program",
-    "link": "https://www.hunter.cuny.edu/event/mount-sinai-sexual-assault-violence-intervention-training-program/",
-    "college": "Hunter College",
-    "date": "2026-10-20",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Plan Your Path to Graduation Group Advising Session (Transfer Week)",
-    "link": "https://www.hunter.cuny.edu/event/plan-your-path-to-graduation-group-advising-session-transfer-week/",
-    "college": "Hunter College",
-    "date": "2026-10-20",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Pre-Health Social",
-    "link": "https://www.hunter.cuny.edu/event/pre-health-social/",
-    "college": "Hunter College",
-    "date": "2026-10-20",
-    "time": "03:00 PM - 06:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Application-Based Majors: Preparation for Medical Lab",
-    "link": "https://www.hunter.cuny.edu/event/application-based-majors-preparation-for-medical-lab/",
-    "college": "Hunter College",
-    "date": "2026-10-20",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "How to Thrive in PSYCH 24800",
-    "link": "https://www.hunter.cuny.edu/event/how-to-thrive-in-psych-24800/",
-    "college": "Hunter College",
-    "date": "2026-10-20",
-    "time": "04:00 PM - 05:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Conversation With Playwright David Henry Hwang",
-    "link": "https://www.hunter.cuny.edu/event/conversation-with-playwright-david-henry-hwang/",
-    "college": "Hunter College",
-    "date": "2026-10-20",
-    "time": "06:00 PM - 06:00 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
     "title": "October Social Event: Transfer Crest (Transfer Week)",
     "link": "https://www.hunter.cuny.edu/event/october-social-event-transfer-crest-transfer-week/",
     "college": "Hunter College",
@@ -1330,6 +1295,62 @@
     "date": "2026-10-26",
     "time": "05:00 PM - 06:00 PM",
     "tags": []
+  },
+  {
+    "title": "Family, Fertility and Fascism: The Politics of Queer Reproduction",
+    "link": "https://www.hunter.cuny.edu/event/family-fertility-and-fascism-the-politics-of-queer-reproduction/",
+    "college": "Hunter College",
+    "date": "2026-10-26",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Lectures"
+    ]
+  },
+  {
+    "title": "Speech-Language Pathology and Audiology Open House",
+    "link": "https://www.hunter.cuny.edu/event/speech-language-pathology-and-audiology-open-house/",
+    "college": "Hunter College",
+    "date": "2026-10-26",
+    "time": "06:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Academic Info Session: Psychology",
+    "link": "https://www.hunter.cuny.edu/event/academic-info-session-psychology/",
+    "college": "Hunter College",
+    "date": "2026-10-27",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Graduate Admissions Virtual Desk",
+    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-virtual-front-desk-10/",
+    "college": "Hunter College",
+    "date": "2026-10-27",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Purple PEERiod Project",
+    "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-20/",
+    "college": "Hunter College",
+    "date": "2026-10-27",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Imposter Syndrome Group Advising Session",
+    "link": "https://www.hunter.cuny.edu/event/imposter-syndrome-group-advising-session/",
+    "college": "Hunter College",
+    "date": "2026-10-27",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Student Events"
+    ]
   },
   {
     "title": "Italian Heritage Month 2026",
@@ -1711,22 +1732,6 @@
     ]
   },
   {
-    "title": "Budget & Financial Planning",
-    "link": "https://www.bcc.cuny.edu/event/budget-financial-planning-2/",
-    "college": "Bronx Community College",
-    "date": "2026-10-20",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Curriculum",
-    "link": "https://www.bcc.cuny.edu/event/curriculum-7/",
-    "college": "Bronx Community College",
-    "date": "2026-10-20",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
-  },
-  {
     "title": "Bronco Hope Market",
     "link": "https://www.bcc.cuny.edu/event/bronco-hope-market-3/",
     "college": "Bronx Community College",
@@ -1944,6 +1949,26 @@
     ]
   },
   {
+    "title": "Diversity & Inclusion",
+    "link": "https://www.bcc.cuny.edu/event/diversity-inclusion-3/",
+    "college": "Bronx Community College",
+    "date": "2026-11-05",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Campus Tour",
+    "link": "https://www.bcc.cuny.edu/event/campus-tour-3/",
+    "college": "Bronx Community College",
+    "date": "2026-11-05",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Admissions & Financial Aid",
+      "Enrollment Management & Retention",
+      "Feature"
+    ]
+  },
+  {
     "title": "Mood Matters",
     "link": "https://events.cuny.edu/cec/mood-matters-2/",
     "college": "College of Staten Island",
@@ -2024,14 +2049,6 @@
     "tags": [
       "Graduate Information Sessions"
     ]
-  },
-  {
-    "title": "Mathematics Education M.S.Ed., Adv. Cert. Information Session",
-    "link": "https://lehman.edu/events/2026/Mathematics-Education-MSEd-Adv-Cert-Information-Session-.php",
-    "college": "Lehman College",
-    "date": "2026-10-20",
-    "time": "6:30 PM - 7:30 PM",
-    "tags": []
   },
   {
     "title": "Learning Commons Workshops",
@@ -2491,7 +2508,7 @@
   },
   {
     "title": "Iconic Dialogues with Rita Moreno",
-    "link": "https://www.lehman.edu/events/2026/Iconic-Dialogues-with-Rita-Moreno-1.php",
+    "link": "https://www.lehman.edu/events/2026/Iconic-Dialogues-with-Rita-Moreno.php",
     "college": "Lehman College",
     "date": "2026-10-20",
     "time": "3:45 PM- 5:00 PM",
@@ -2640,5 +2657,119 @@
     "date": "2026-11-13",
     "time": "2:00PM",
     "tags": []
+  },
+  {
+    "title": "MANIFOLD DIGITAL PUBLISHING PLATFORM COMMUNITY EVENT: HART ZHANG’S THE MAKING OF RACE",
+    "link": "https://www.gc.cuny.edu/events/manifold-digital-publishing-platform-community-event-hart-zhangs-making-race",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-20",
+    "time": "1:00 pm — 2:00 pm",
+    "location": "5307: Digital Humanities Student Lounge",
+    "tags": [
+      "Graduate Center Digital Initiatives"
+    ]
+  },
+  {
+    "title": "CUNY DIGITAL HUMANITIES INITIATIVE LIGHTING TALKS",
+    "link": "https://www.gc.cuny.edu/events/cuny-digital-humanities-initiative-lighting-talks",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-20",
+    "time": "5:30 pm — 7:30 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Graduate Center Digital Initiatives"
+    ]
+  },
+  {
+    "title": "PH.D. PROGRAM IN SOCIOLOGY FALL 2026 OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/phd-program-sociology-fall-2026-open-house",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-20",
+    "time": "5:30 pm — 7:00 pm",
+    "location": "6112: Sociology Student Lounge",
+    "tags": [
+      "Sociology",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "CENTER STAGING REFUGEE LAW AND KINSHIP IN POOR YELLA REDNECKS BY SEAN METZGER",
+    "link": "https://www.gc.cuny.edu/events/center-staging-refugee-law-and-kinship-poor-yella-rednecks-sean-metzger",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-20",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "3111: Theatre Green Room",
+    "tags": [
+      "Theatre and Performance",
+      "Arts"
+    ]
+  },
+  {
+    "title": "COPLAND HOUSE ENSEMBLE: ACROSS THE AMERICAN CENTURY",
+    "link": "https://www.gc.cuny.edu/events/copland-house-ensemble-across-american-century",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-20",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Academic Initiatives and Strategic Innovation",
+      "Arts"
+    ]
+  },
+  {
+    "title": "INTRODUCTION TO LOCALLY PRESENTABLE CATEGORIES.",
+    "link": "https://www.gc.cuny.edu/events/introduction-locally-presentable-categories-oct-21-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Computer Science"
+    ]
+  },
+  {
+    "title": "SLHS COLLOQUIUM WITH DR. MUNA ABD EL-RAZIQ (NYU)",
+    "link": "https://www.gc.cuny.edu/events/slhs-colloquium-dr-muna-abd-el-raziq-nyu",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "2:00 pm — 4:00 pm",
+    "location": "7102",
+    "tags": [
+      "Speech-Language-Hearing Sciences"
+    ]
+  },
+  {
+    "title": "BUDGET JUSTICE: A BOOK TALK WITH PROFESSOR CELINA SU",
+    "link": "https://www.gc.cuny.edu/events/budget-justice-book-talk-professor-celina-su",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "3:00 pm — 5:00 pm",
+    "location": "Online",
+    "tags": [
+      "CUNY Academy for the Humanities and Sciences"
+    ]
+  },
+  {
+    "title": "DEVELOPING A DIGITAL PORTFOLIO",
+    "link": "https://www.gc.cuny.edu/events/developing-digital-portfolio-oct-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "3:00 pm — 4:30 pm",
+    "location": "Online",
+    "tags": [
+      "Teaching & Learning Center"
+    ]
+  },
+  {
+    "title": "M.S. PROGRAM IN COGNITIVE NEUROSCIENCE OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/ms-program-cognitive-neuroscience-open-house-oct-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "4:30 pm — 6:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Cognitive Neuroscience",
+      "Admissions"
+    ]
   }
 ]
