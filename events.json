@@ -1,5 +1,15 @@
 [
   {
+    "title": "Let's Nourish NYC: One Year of Nourishing Medgar Evers College",
+    "link": "https://www.mec.cuny.edu/event/lets-nourish-nyc-one-year-of-nourishing-medgar-evers-college/",
+    "college": "Medgar Evers College",
+    "date": "2026-10-23",
+    "time": "06:00 PM - 08:00 PM",
+    "tags": [
+      "Transition Academy"
+    ]
+  },
+  {
     "title": "L.E.A.P. Awards Ceremony featuring Kevin Powell",
     "link": "https://www.mec.cuny.edu/event/l-e-a-p-awards-ceremony-featuring-kevin-powell/",
     "college": "Medgar Evers College",
@@ -7,106 +17,6 @@
     "time": "10:00 AM - 01:00 PM",
     "tags": [
       "Transition Academy"
-    ]
-  },
-  {
-    "title": "To Be of Use: Honoring the Life and Legacy of Haywood Burns",
-    "link": "https://www.law.cuny.edu/event/to-be-of-use-honoring-the-life-and-legacy-of-haywood-burns/",
-    "college": "CUNY School of Law",
-    "date": "2026-10-21",
-    "time": "06:00 PM - 09:00 PM",
-    "tags": [
-      "Homepage Feature",
-      "W. Haywood Burns Chair Event"
-    ]
-  },
-  {
-    "title": "Trademark Basics in the Solidarity Economy (CLE)",
-    "link": "https://www.law.cuny.edu/event/trademark-law-cle/",
-    "college": "CUNY School of Law",
-    "date": "2026-10-27",
-    "time": "01:00 PM - 04:00 PM",
-    "tags": [
-      "Alumni",
-      "CLE - Continuing Legal Education"
-    ]
-  },
-  {
-    "title": "CUNY Law Alumni Connection Series",
-    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-nov26/",
-    "college": "CUNY School of Law",
-    "date": "2026-11-04",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Alumni",
-      "Networking Event"
-    ]
-  },
-  {
-    "title": "Admissions: Information Session - In Person",
-    "link": "https://www.law.cuny.edu/event/admissions-information-session-in-person/",
-    "college": "CUNY School of Law",
-    "date": "2026-11-10",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": [
-      "Info Session",
-      "Special Event"
-    ]
-  },
-  {
-    "title": "A Burns Chair Conversation – Backtalk at the Ballot Box: A Post-Election Analysis",
-    "link": "https://www.law.cuny.edu/event/a-burns-chair-conversation-backtalk-at-the-ballot-box-a-post-election-analysis/",
-    "college": "CUNY School of Law",
-    "date": "2026-11-18",
-    "time": "06:30 PM - 09:00 PM",
-    "tags": [
-      "Homepage Feature",
-      "Special Event",
-      "W. Haywood Burns Chair Event"
-    ]
-  },
-  {
-    "title": "CUNY Law Alumni Connection Series",
-    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-dec26/",
-    "college": "CUNY School of Law",
-    "date": "2026-12-02",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Alumni",
-      "Networking Event"
-    ]
-  },
-  {
-    "title": "CUNY Law Alumni Connection Series",
-    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-jan27/",
-    "college": "CUNY School of Law",
-    "date": "2027-01-06",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Alumni",
-      "Networking Event"
-    ]
-  },
-  {
-    "title": "CUNY Law Alumni Connection Series",
-    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-feb27/",
-    "college": "CUNY School of Law",
-    "date": "2027-02-03",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Alumni",
-      "Networking Event"
-    ]
-  },
-  {
-    "title": "CUNY Law Alumni Connection Series",
-    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-mar27/",
-    "college": "CUNY School of Law",
-    "date": "2027-03-03",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Alumni",
-      "Networking Event"
     ]
   },
   {
@@ -1142,19 +1052,6 @@
     ]
   },
   {
-    "title": "Transfer Talk: International Students",
-    "link": "https://www.bmcc.cuny.edu/event/transfer-talk-international-students/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-21",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "Academic Advisement & Transfer",
-      "Featured",
-      "International Student Events/Workshops",
-      "National Transfer Student Week"
-    ]
-  },
-  {
     "title": "Library Club Hour: Zines",
     "link": "https://www.bmcc.cuny.edu/event/library-club-hour-zines/",
     "college": "Borough of Manhattan Community College",
@@ -1514,6 +1411,21 @@
     "tags": [
       "Academic Advisement & Transfer",
       "Featured"
+    ]
+  },
+  {
+    "title": "The Parent Circle: For students, faculty and staff who are parents",
+    "link": "https://www.bmcc.cuny.edu/event/the-parent-circle-meet-with-other-students-faculty-and-staff-who-are-parents/2026-10-28/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-28",
+    "time": "03:15 PM - 04:00 PM",
+    "tags": [
+      "Counseling Center",
+      "CUNY in The Heights",
+      "Early Childhood Center",
+      "Evening-Weekend",
+      "Featured",
+      "Student Affairs"
     ]
   },
   {
@@ -2064,6 +1976,14 @@
     "tags": []
   },
   {
+    "title": "2026 IPE Conference",
+    "link": "https://citytech.event.cuny.edu/events/Xcggbej7u0uzES4QdGFt/fIxcbNrA2VuFdVg5bcUK",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-10-22",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
     "title": "ASAP/ACE Math Tutoring (Thursdays)",
     "link": "https://citytech.event.cuny.edu/events/MhSanjZMjJ504TKWTNVb/T7fe54rfciX5NdTDgCpD5",
     "college": "New York City College of Technology (City Tech)",
@@ -2361,14 +2281,6 @@
   },
   {
     "title": "Friedman Transfer Scholars Program: Online Information Session",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-6/",
-    "college": "Macaulay Honors College",
-    "date": "2026-10-21",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Friedman Transfer Scholars Program: Online Information Session",
     "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-7/",
     "college": "Macaulay Honors College",
     "date": "2026-10-21",
@@ -2430,5 +2342,128 @@
     "date": "2026-11-13",
     "time": "2:00PM",
     "tags": []
+  },
+  {
+    "title": "Friedman Transfer Scholars Program: Online Information Session",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/the-friedman-transfer-scholars-program-virtual-information-session-8/",
+    "college": "Macaulay Honors College",
+    "date": "2026-11-18",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "INTRODUCTION TO LOCALLY PRESENTABLE CATEGORIES.",
+    "link": "https://www.gc.cuny.edu/events/introduction-locally-presentable-categories-oct-21-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "2:00 pm — 3:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Computer Science"
+    ]
+  },
+  {
+    "title": "SLHS COLLOQUIUM WITH DR. MUNA ABD EL-RAZIQ (NYU)",
+    "link": "https://www.gc.cuny.edu/events/slhs-colloquium-dr-muna-abd-el-raziq-nyu",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "2:00 pm — 4:00 pm",
+    "location": "7102",
+    "tags": [
+      "Speech-Language-Hearing Sciences"
+    ]
+  },
+  {
+    "title": "BUDGET JUSTICE: A BOOK TALK WITH PROFESSOR CELINA SU",
+    "link": "https://www.gc.cuny.edu/events/budget-justice-book-talk-professor-celina-su",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "3:00 pm — 5:00 pm",
+    "location": "Online",
+    "tags": [
+      "CUNY Academy for the Humanities and Sciences"
+    ]
+  },
+  {
+    "title": "DEVELOPING A DIGITAL PORTFOLIO",
+    "link": "https://www.gc.cuny.edu/events/developing-digital-portfolio-oct-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "3:00 pm — 4:30 pm",
+    "location": "Online",
+    "tags": [
+      "Teaching & Learning Center"
+    ]
+  },
+  {
+    "title": "M.S. PROGRAM IN COGNITIVE NEUROSCIENCE OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/ms-program-cognitive-neuroscience-open-house-oct-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "4:30 pm — 6:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Cognitive Neuroscience",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "PH.D. PROGRAM IN CHEMISTRY ONLINE INFORMATION SESSIONS - OCTOBER 21, 2026",
+    "link": "https://www.gc.cuny.edu/events/phd-program-chemistry-online-information-sessions-october-21-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "5:00 pm — 7:00 pm",
+    "location": "Online",
+    "tags": [
+      "Chemistry",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "DEVELOPMENTAL PSYCHOLOGY OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/developmental-psychology-open-house-october-21-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "6:00 pm — 7:30 pm",
+    "location": "Online",
+    "tags": [
+      "Psychology",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "THE ENVIRONMENT AS THE PLACE OF POETRY WITH ED ROBERSON",
+    "link": "https://www.gc.cuny.edu/events/environment-place-poetry-ed-roberson",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "6:30 pm — 8:30 pm",
+    "location": "1218: Segal Theatre",
+    "tags": [
+      "Center for the Humanities"
+    ]
+  },
+  {
+    "title": "THE MIDNIGHT SPECIAL: THE SECRET PRISON HISTORY OF AMERICAN MUSIC COLIN ASHER IN CONVERSATION WITH JEFFERSON COWIE",
+    "link": "https://www.gc.cuny.edu/events/midnight-special-secret-prison-history-american-music-colin-asher-conversation-jefferson-cowie",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-21",
+    "time": "6:30 pm — 7:45 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Leon Levy Center for Biography",
+      "GC Presents"
+    ]
+  },
+  {
+    "title": "FREE HIV AND HEP C TESTING FOR STUDENTS - OCTOBER 22ND",
+    "link": "https://www.gc.cuny.edu/events/free-hiv-and-hep-c-testing-students-october-22nd",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-22",
+    "time": "11:00 am — 2:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Wellness Center",
+      "Student Health Services"
+    ]
   }
 ]
