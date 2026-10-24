@@ -1,15 +1,5 @@
 [
   {
-    "title": "Let's Nourish NYC: One Year of Nourishing Medgar Evers College",
-    "link": "https://www.mec.cuny.edu/event/lets-nourish-nyc-one-year-of-nourishing-medgar-evers-college/",
-    "college": "Medgar Evers College",
-    "date": "2026-10-23",
-    "time": "06:00 PM - 08:00 PM",
-    "tags": [
-      "Transition Academy"
-    ]
-  },
-  {
     "title": "L.E.A.P. Awards Ceremony featuring Kevin Powell",
     "link": "https://www.mec.cuny.edu/event/l-e-a-p-awards-ceremony-featuring-kevin-powell/",
     "college": "Medgar Evers College",
@@ -369,14 +359,6 @@
     "college": "Kingsborough Community College",
     "date": "2026-10-28",
     "time": "07:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Transfer Application Workshop",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/68db9bc9-ab77-4d86-af8d-ebe9764549f6",
-    "college": "Kingsborough Community College",
-    "date": "2026-10-23",
-    "time": "03:00 PM - 03:00 PM",
     "tags": []
   },
   {
@@ -740,14 +722,6 @@
     "tags": []
   },
   {
-    "title": "Leadership Development Seminar",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a3fc4917-5bc4-429f-b195-2688671497fe",
-    "college": "Kingsborough Community College",
-    "date": "2026-10-23",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": []
-  },
-  {
     "title": "Internship Orientation Workshops",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/37e0f948-381d-46da-9b5b-0270b8f95e82",
     "college": "Kingsborough Community College",
@@ -762,18 +736,6 @@
     "date": "2026-11-19",
     "time": "07:00 PM - 08:00 PM",
     "tags": []
-  },
-  {
-    "title": "Career Summit",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377512",
-    "college": "Guttman Community College",
-    "date": "2026-10-23",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "EMSA",
-      "Educational/Awareness",
-      "AccessABILITY Services"
-    ]
   },
   {
     "title": "Hackathon",
@@ -1893,46 +1855,6 @@
     ]
   },
   {
-    "title": "Disability Advocacy & Career Summit",
-    "link": "https://events.cuny.edu/cec/disability-advocacy-career-summit/",
-    "college": "The University",
-    "date": "2026-10-23",
-    "time": "10:00 AM - 2:00 PM",
-    "tags": [
-      "Disability and Accessibility",
-      "Students with Disabilities"
-    ]
-  },
-  {
-    "title": "Fall Village Pride LGBTQ+ History Walking Tour",
-    "link": "https://events.cuny.edu/cec/fall-village-pride-lgbtq-history-walking-tour/",
-    "college": "The City College of New York",
-    "date": "2026-10-23",
-    "time": "3:00 PM - 5:00 PM",
-    "tags": [
-      "LGBTQI+"
-    ]
-  },
-  {
-    "title": "History and Public History Infosession",
-    "link": "https://events.cuny.edu/cec/history-and-public-history-infosession/",
-    "college": "College of Staten Island",
-    "date": "2026-10-23",
-    "time": "5:30 PM - 6:30 PM",
-    "tags": [
-      "History",
-      "his"
-    ]
-  },
-  {
-    "title": "Livonia Chow Mein: A Novel",
-    "link": "https://events.cuny.edu/cec/livonia-chow-mein-a-novel/",
-    "college": "Asian American / Asian Research Institute",
-    "date": "2026-10-23",
-    "time": "6:00 PM - 7:30 PM",
-    "tags": []
-  },
-  {
     "title": "Fall Undergraduate Open House",
     "link": "https://events.cuny.edu/cec/fall-undergraduate-open-house-3/",
     "college": "College of Staten Island",
@@ -1981,12 +1903,42 @@
     ]
   },
   {
-    "title": "NYC Board of Elections -  2026 General Elections Voting",
-    "link": "https://qc.event.cuny.edu/events/Wh4XfSYT04CWSPsn5sl4/HTqaFSWIN0TIRMpmhg6P",
-    "college": "Queens College",
-    "date": "2026-10-23",
-    "time": "7:00AM",
+    "title": "The Stuart Z. Katz Professorship in the Humanities & Arts: Installation and Lecture",
+    "link": "https://events.cuny.edu/cec/the-stuart-z-katz-professorship-in-the-humanities-arts-installation-and-lecture/",
+    "college": "The City College of New York",
+    "date": "2026-10-26",
+    "time": "4:30 PM - 6:30 PM",
+    "tags": [
+      "The Stuart Z. Katz Professorship in Humanities & the Arts"
+    ]
+  },
+  {
+    "title": "The PATRIOT Act @ 25",
+    "link": "https://events.cuny.edu/cec/the-patriot-act-25/",
+    "college": "Asian American / Asian Research Institute",
+    "date": "2026-10-26",
+    "time": "5:30 PM - 7:00 PM",
     "tags": []
+  },
+  {
+    "title": "Computer Science, M.S. Open House",
+    "link": "https://events.cuny.edu/cec/computer-science-m-s-open-house/",
+    "college": "Brooklyn College",
+    "date": "2026-10-26",
+    "time": "6:00 PM",
+    "tags": [
+      "Graduate Information Sessions"
+    ]
+  },
+  {
+    "title": "Psychological Research, M.S. Open House",
+    "link": "https://events.cuny.edu/cec/psychological-research-m-s-open-house/",
+    "college": "Brooklyn College",
+    "date": "2026-10-26",
+    "time": "6:00 PM",
+    "tags": [
+      "Graduate Information Sessions"
+    ]
   },
   {
     "title": "Learning Commons Workshops",
@@ -2021,11 +1973,19 @@
     "tags": []
   },
   {
-    "title": "Topic Sentences",
-    "link": "https://baruch.event.cuny.edu/events/wYx47ln6apIudU0qYbZS/D8TomcLzO85AAIopjv7W",
-    "college": "Baruch College",
-    "date": "2026-10-23",
-    "time": "12:30PM",
+    "title": "Pokiemon",
+    "link": "https://qc.event.cuny.edu/events/m82kfomFYQGkSZEDl0sJ/Qwew3rwqBuI23nNSBEKB",
+    "college": "Queens College",
+    "date": "2026-10-31",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Project TCG NYC",
+    "link": "https://qc.event.cuny.edu/events/jm63bC74j6CJhKOagPCq/l6uq7LQeIhuGJs77DNG1",
+    "college": "Queens College",
+    "date": "2026-10-31",
+    "time": "8:00AM",
     "tags": []
   },
   {
@@ -2093,70 +2053,6 @@
     "tags": []
   },
   {
-    "title": "Plan Week",
-    "link": "https://citytech.event.cuny.edu/events/Csug4ILFbuBvx1A6EI8j/Wk58RMaToLJIc0HzGrNK",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-23",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "Faculty to inform students of midterm progress reports",
-    "link": "https://citytech.event.cuny.edu/events/UJp5nRSIScj2Uqlhi7z9/fB9bqnYeVioR3Dvdfec5",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-23",
-    "time": "",
-    "tags": []
-  },
-  {
-    "title": "CUNY Explorers",
-    "link": "https://citytech.event.cuny.edu/events/Kw8UhBHS517Ureg37AGj/PoEfU5oqTktwhPQN7Gq56",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-23",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center Friday ESOL",
-    "link": "https://citytech.event.cuny.edu/events/OIGJMkdMXvjJfPfcxTSx/kANRCPt9rDBEzFqMH2BS5",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-23",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center HSE Math class",
-    "link": "https://citytech.event.cuny.edu/events/XmhVNTLyg6vuyNsyBD6z/s8DbTpbXvf2Rnsd5J17c5",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-23",
-    "time": "9:00AM",
-    "tags": []
-  },
-  {
-    "title": "Lecturer",
-    "link": "https://citytech.event.cuny.edu/events/BJHh9nLNzIa0OixLGwFR/u78DswDWitOn3Ir2bzzx",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-23",
-    "time": "10:00AM",
-    "tags": []
-  },
-  {
-    "title": "Green Spaces Pre-Trip Travel Orientation",
-    "link": "https://citytech.event.cuny.edu/events/KRUYNv63RP5RQX4qWaL1/gRTfwsszhlf50vrUEK7G",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-23",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Math Tutoring Fall 2026",
-    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA32",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-23",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
     "title": "Adult Learning Center Saturday ESOL Class",
     "link": "https://citytech.event.cuny.edu/events/xtRKAa9rfbjZBv7cd5p0/DEWPaU8D6nXHIsnNJWg85",
     "college": "New York City College of Technology (City Tech)",
@@ -2181,11 +2077,43 @@
     "tags": []
   },
   {
-    "title": "Hostos Student Leadership Academy Friday Ambassador Workshop Series",
-    "link": "https://hostos.event.cuny.edu/events/KaiCmuTgfnuq3kqBvxM0/pnk9Q03BPRdWI248thRb",
-    "college": "Hostos Community College",
-    "date": "2026-10-23",
-    "time": "2:00PM",
+    "title": "STEP fall 2026",
+    "link": "https://citytech.event.cuny.edu/events/i4CiKvx2xyvoIrAtyxZM/sFr1RZdPZ1ipFVZS860O1",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-10-24",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "Teach an Online Course - HSCI 2301-OL60 (58028)",
+    "link": "https://citytech.event.cuny.edu/events/LVCiGxSa9yJ1o7OmV7t6/hXKKTL4J4FwrkBKPygV09",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-10-24",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Office Hours for PSY1101 CN15 Prof. Ayalla Cooks-Campbell",
+    "link": "https://citytech.event.cuny.edu/events/iBnMlr1zl3yYXwA0nbFJ/ZMniUvTwm0o9xA31ZYNq5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-10-24",
+    "time": "12:45PM",
+    "tags": []
+  },
+  {
+    "title": "College Now Fall 2026 Career Event",
+    "link": "https://citytech.event.cuny.edu/events/hMMwjm05GbSPXAcSd23o/PV0w6V6KRoNc0npe6biz",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-10-24",
+    "time": "1:00PM",
+    "tags": []
+  },
+  {
+    "title": "Math Tutoring Fall 2026",
+    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA33",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-10-24",
+    "time": "3:00PM",
     "tags": []
   },
   {
@@ -2357,14 +2285,6 @@
     "tags": []
   },
   {
-    "title": "Dance in Dialog",
-    "link": "https://www.lehman.edu/events/2026/Dance-in-Dialog-.php?event_type=recurs_1",
-    "college": "Lehman College",
-    "date": "2026-10-23",
-    "time": "7:00 PM- 9:00 PM",
-    "tags": []
-  },
-  {
     "title": "OPEN HOUSE: Navigate Financial Aid, Discover Your Career & Explore Other Support Services",
     "link": "https://www.lehman.edu/events/2026/OPEN-HOUSE-Navigate-Financial-Aid-Discover-Your-Career--Explore-Other-Support-Services.php",
     "college": "Lehman College",
@@ -2426,6 +2346,14 @@
     "college": "Lehman College",
     "date": "2026-10-29",
     "time": "9:00 AM- 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Music Has Power® for Aphasia",
+    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia.php?event_type=recurs_9",
+    "college": "Lehman College",
+    "date": "2026-10-29",
+    "time": "10:30 AM- 11:30 AM",
     "tags": []
   },
   {
@@ -2501,224 +2429,11 @@
     "tags": []
   },
   {
-    "title": "National Transfer Week -Friday",
-    "link": "https://www.york.cuny.edu/advisement/events/transfer-week-friday",
-    "college": "York College",
-    "date": "2026-10-23",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "JFK Runway Run Team York College, CUNY",
-    "link": "https://www.york.cuny.edu/events/jfk-runway-run",
-    "college": "York College",
-    "date": "2026-10-25",
-    "time": "11:00 AM - 4:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
-    "college": "York College",
-    "date": "2026-10-26",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
-    "college": "York College",
-    "date": "2026-10-26",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HRM Information Session - Fall 26",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/human-resource-management-info-session",
-    "college": "York College",
-    "date": "2026-10-26",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BUS ADMIN Info Session (Fa' 26 Mon)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-monday-bus-admin-info-session",
-    "college": "York College",
-    "date": "2026-10-26",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Yoga Mondays",
-    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/yoga-mondays",
-    "college": "York College",
-    "date": "2026-10-26",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Scholarships 101",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarships-101",
-    "college": "York College",
-    "date": "2026-10-26",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Monday Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-monday-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-10-26",
-    "time": "8:30 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "I Stand With Immigrants Day - Fall 26",
-    "link": "https://www.york.cuny.edu/advisement/events/immigrant-day-fall26",
-    "college": "York College",
-    "date": "2026-10-27",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Halloween Movie Night",
-    "link": "https://www.york.cuny.edu/seek/events/seek-halloween-movie-night",
-    "college": "York College",
-    "date": "2026-10-27",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-10-27",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "International Conference on Business, Management, Economics, and Information Systems",
-    "link": "https://www.york.cuny.edu/events/2026/international-conference-on-business-management-economics-and-information-systems",
-    "college": "York College",
-    "date": "2026-10-28",
-    "time": "11:00 AM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Oct 28",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-oct28",
-    "college": "York College",
-    "date": "2026-10-28",
-    "time": "1:30 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-10-28",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Aviation Information Session (Fa' 26 Wed)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fa-26-wed-aviation-information-session",
-    "college": "York College",
-    "date": "2026-10-28",
-    "time": "5:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Building Healthy Relationships",
-    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/building-healthy-relationships",
-    "college": "York College",
-    "date": "2026-10-28",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Turning Global Experiences into Career Success 10/28",
-    "link": "https://www.york.cuny.edu/events/2026/turning-global-experiences-into-career-success-2",
-    "college": "York College",
-    "date": "2026-10-28",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Economics Info Session (Fall 2026 Thurs)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-economics-information-session",
-    "college": "York College",
-    "date": "2026-10-29",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "2026 EARLY RESEARCH INITIATIVE CONFERENCE",
-    "link": "https://www.gc.cuny.edu/events/2026-early-research-initiative-conference",
+    "title": "HPCS VIRTUAL OPEN HOUSE 2026",
+    "link": "https://www.gc.cuny.edu/events/hpcs-virtual-open-house-2026",
     "college": "CUNY Graduate Center",
-    "date": "2026-10-23",
-    "time": "10:00 am — 4:00 pm",
-    "location": "Multiple Locations (see description for details)",
-    "tags": [
-      "Provost's Office"
-    ]
-  },
-  {
-    "title": "SLHS OPEN HOUSE - MEET OUR FACULTY!",
-    "link": "https://www.gc.cuny.edu/events/slhs-open-house-meet-our-faculty",
-    "college": "CUNY Graduate Center",
-    "date": "2026-10-23",
-    "time": "10:00 am — 11:30 pm",
-    "location": "Online",
-    "tags": [
-      "Speech-Language-Hearing Sciences",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "TOPOLOGY-PRESERVING SCIENTIFIC DATA COMPRESSION",
-    "link": "https://www.gc.cuny.edu/events/topology-preserving-scientific-data-compression",
-    "college": "CUNY Graduate Center",
-    "date": "2026-10-23",
-    "time": "11:45 am — 12:45 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Computer Science",
-      "Data Science",
-      "Data Science Seminar",
-      "Computer Science Seminar"
-    ]
-  },
-  {
-    "title": "GEOMETRY, LOGIC, AND LINGUISTICS",
-    "link": "https://www.gc.cuny.edu/events/geometry-logic-and-linguistics",
-    "college": "CUNY Graduate Center",
-    "date": "2026-10-23",
-    "time": "12:00 pm — 5:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Initiative for the Theoretical Sciences",
-      "ITS Symposium (Initiative for the Theoretical Sciences)"
-    ]
-  },
-  {
-    "title": "ITS COLLOQIUM: ON THE ROLE OF VIBRATIONS IN SPIN CONVERSION DYNAMICS IN OLED MATERIALS",
-    "link": "https://www.gc.cuny.edu/events/its-colloqium-role-vibrations-spin-conversion-dynamics-oled-materials",
-    "college": "CUNY Graduate Center",
-    "date": "2026-10-23",
-    "time": "12:00 pm — 2:00 pm",
-    "location": "C415A",
-    "tags": [
-      "Initiative for the Theoretical Sciences",
-      "ITS Seminar (Initiative for the Theoretical Sciences)"
-    ]
-  },
-  {
-    "title": "DEVELOPMENTAL PSYCHOLOGY OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/developmental-psychology-open-house-oct-23",
-    "college": "CUNY Graduate Center",
-    "date": "2026-10-23",
-    "time": "1:00 pm — 2:30 pm",
+    "date": "2026-10-26",
+    "time": "6:00 pm — 7:30 pm",
     "location": "Online",
     "tags": [
       "Psychology",
@@ -2726,50 +2441,119 @@
     ]
   },
   {
-    "title": "FELIKS GROSS / HENRY WASSER AWARDS CEREMONY",
-    "link": "https://www.gc.cuny.edu/events/feliks-gross-henry-wasser-awards-ceremony",
+    "title": "VISUALIZING LATINX: CREATIVE PRACTICES IN FASHION, FILM AND BEYOND",
+    "link": "https://www.gc.cuny.edu/events/visualizing-latinx-creative-practices-fashion-film-and-beyond",
     "college": "CUNY Graduate Center",
-    "date": "2026-10-23",
-    "time": "1:00 pm — 2:30 pm",
-    "location": "1218: Segal Theatre",
+    "date": "2026-10-26",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "Online",
     "tags": [
-      "CUNY Academy for the Humanities and Sciences"
+      "Intellectual Publics",
+      "Arts"
     ]
   },
   {
-    "title": "FRIDAYS@1: ANDREW WEISSMANN",
-    "link": "https://www.gc.cuny.edu/events/fridays1-andrew-weissmann",
+    "title": "I STAND WITH IMMIGRANTS DAY",
+    "link": "https://www.gc.cuny.edu/events/i-stand-immigrants-day",
     "college": "CUNY Graduate Center",
-    "date": "2026-10-23",
-    "time": "1:00 pm — 2:30 pm",
-    "location": "Online",
+    "date": "2026-10-27",
+    "time": "6:30 am — 8:00 pm",
+    "location": "Not Applicable",
     "tags": [
-      "Academic Initiatives and Strategic Innovation",
-      "Lifelong Peer Learning Program"
+      "Comparative Literature",
+      "International Migration Studies",
+      "Sociology",
+      "Student Affairs",
+      "Library"
     ]
   },
   {
-    "title": "PH.D. IN LINGUISTIC OR CULTURAL ANTHROPOLOGY - VIRTUAL OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/phd-linguistic-or-cultural-anthropology-virtual-open-house",
+    "title": "COMPARATIVE LITERATURE FALL 2026 OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/comparative-literature-fall-2026-open-house",
     "college": "CUNY Graduate Center",
-    "date": "2026-10-23",
-    "time": "1:00 pm — 2:00 pm",
+    "date": "2026-10-27",
+    "time": "1:30 pm — 2:30 pm",
     "location": "Online",
     "tags": [
-      "Anthropology",
+      "Comparative Literature",
       "Admissions"
     ]
   },
   {
-    "title": "VICTORIANIST WORKS-IN-PROGRESS",
-    "link": "https://www.gc.cuny.edu/events/victorianist-works-progress",
+    "title": "AUBIN PICTURE'S SCREENING: \"BORN TO FLY: ELIZABETH STREB VS GRAVITY\" (2014)",
+    "link": "https://www.gc.cuny.edu/events/aubin-pictures-screening-born-fly-elizabeth-streb-vs-gravity-2014",
     "college": "CUNY Graduate Center",
-    "date": "2026-10-23",
-    "time": "2:00 pm — 3:55 pm",
-    "location": "4406.11: English Thesis Room",
+    "date": "2026-10-27",
+    "time": "4:30 pm — 7:00 pm",
+    "location": "9100: Skylight Room",
     "tags": [
-      "English",
-      "Friday Forum"
+      "Women's and Gender Studies",
+      "Arts"
+    ]
+  },
+  {
+    "title": "WRITERS' INSTITUTE: MEET THE AGENT",
+    "link": "https://www.gc.cuny.edu/events/writers-institute-meet-agent-oct-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-27",
+    "time": "6:00 pm — 8:00 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "The Writers' Institute",
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "IMMIGRATION SEMINAR SERIES - THE FANTASY OF MIGRATION CONTROL",
+    "link": "https://www.gc.cuny.edu/events/immigration-seminar-series-fantasy-migration-control",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-27",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "International Migration Studies",
+      "Sociology",
+      "Immigration Seminar Series (Sociology)",
+      "Diversity"
+    ]
+  },
+  {
+    "title": "PUBLIC WORK: ART, LABOR, AND THE CITY",
+    "link": "https://www.gc.cuny.edu/events/public-work-art-labor-and-city",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-27",
+    "time": "6:30 pm — 8:30 pm",
+    "location": "1200: James Art Gallery",
+    "tags": [
+      "Art History",
+      "James Gallery",
+      "Arts"
+    ]
+  },
+  {
+    "title": "SPATIAL ANALYTICS WITH PYTHON",
+    "link": "https://www.gc.cuny.edu/events/spatial-analytics-python",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-27",
+    "time": "6:30 pm — 8:30 pm",
+    "location": "4102: Science Center",
+    "tags": [
+      "Computer Science",
+      "Data Science",
+      "Computer Science Seminar",
+      "Data Science Seminar"
+    ]
+  },
+  {
+    "title": "CRAFTING YOUR STATEMENT OF PURPOSE: BRES PH.D. APPLICATION WORKSHOP",
+    "link": "https://www.gc.cuny.edu/events/crafting-your-statement-purpose-bres-phd-application-workshop",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-27",
+    "time": "7:00 pm — 8:30 pm",
+    "location": "Online",
+    "tags": [
+      "Black, Race, and Ethnic Studies",
+      "Admissions"
     ]
   }
 ]
