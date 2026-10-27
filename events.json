@@ -10,6 +10,16 @@
     ]
   },
   {
+    "title": "Fall 2026 Assessment Café Series: Course & Event Assessment",
+    "link": "https://www.mec.cuny.edu/event/fall-2026-assessment-cafe-series-course-event-assessment/",
+    "college": "Medgar Evers College",
+    "date": "2026-11-30",
+    "time": "11:30 AM - 01:00 PM",
+    "tags": [
+      "Center for Teaching and Learning Excellence"
+    ]
+  },
+  {
     "title": "Trademark Basics in the Solidarity Economy (CLE)",
     "link": "https://www.law.cuny.edu/event/trademark-law-cle/",
     "college": "CUNY School of Law",
@@ -99,14 +109,6 @@
     ]
   },
   {
-    "title": "Breaking Down AI in Your Journalism Career",
-    "link": "https://www.journalism.cuny.edu/events/breaking-down-ai-in-your-journalism-career/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-10-27",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "AAJA/NAHJ Game Night",
     "link": "https://www.journalism.cuny.edu/events/aaja-nahj-game-night/",
     "college": "Craig Newmark Graduate School of Journalism",
@@ -125,6 +127,16 @@
     "tags": [
       "Current Students",
       "Journalism Protection Initiative"
+    ]
+  },
+  {
+    "title": "Indicator Media Kickoff Workshop",
+    "link": "https://www.journalism.cuny.edu/events/indicator-media-kickoff-workshop/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-11-04",
+    "time": "12:50 PM - 12:50 PM",
+    "tags": [
+      "Current Students"
     ]
   },
   {
@@ -154,6 +166,24 @@
     "tags": [
       "Current Students"
     ]
+  },
+  {
+    "title": "Breaking Down AI in Your Journalism Career",
+    "link": "https://www.journalism.cuny.edu/events/breaking-down-ai-in-your-journalism-career/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-11-12",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "Film Screening: The Deal",
+    "link": "https://www.journalism.cuny.edu/events/film-screening-the-deal/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-11-18",
+    "time": "05:30 PM - 08:00 PM",
+    "tags": []
   },
   {
     "title": "Artificial Intelligence and the Restructuring of News: In Conversation with Gina Chua",
@@ -220,6 +250,14 @@
     "tags": [
       "Future Students"
     ]
+  },
+  {
+    "title": "Master Class with Senior Fellow Ken Auletta",
+    "link": "https://www.journalism.cuny.edu/events/master-class-with-senior-fellow-ken-auletta/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-02-09",
+    "time": "11:30 AM - 12:30 PM",
+    "tags": []
   },
   {
     "title": "Tips for Applying",
@@ -963,52 +1001,6 @@
     ]
   },
   {
-    "title": "Academic Info Session: Psychology",
-    "link": "https://www.hunter.cuny.edu/event/academic-info-session-psychology/",
-    "college": "Hunter College",
-    "date": "2026-10-27",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Graduate Admissions Virtual Desk",
-    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-virtual-front-desk-10/",
-    "college": "Hunter College",
-    "date": "2026-10-27",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Purple PEERiod Project",
-    "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-20/",
-    "college": "Hunter College",
-    "date": "2026-10-27",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Imposter Syndrome Group Advising Session",
-    "link": "https://www.hunter.cuny.edu/event/imposter-syndrome-group-advising-session/",
-    "college": "Hunter College",
-    "date": "2026-10-27",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Ace that Interview",
-    "link": "https://www.hunter.cuny.edu/event/ace-that-interview-9/",
-    "college": "Hunter College",
-    "date": "2026-10-27",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "Application-Based Majors: Preparation for Public Health",
     "link": "https://www.hunter.cuny.edu/event/application-based-majors-preparation-for-public-health/",
     "college": "Hunter College",
@@ -1116,6 +1108,14 @@
     "tags": []
   },
   {
+    "title": "Wander and Wonder: Labyrinth Walks for Reflection",
+    "link": "https://www.hunter.cuny.edu/event/wander-and-wonder-labyrinth-walks-for-reflection/",
+    "college": "Hunter College",
+    "date": "2026-10-29",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": []
+  },
+  {
     "title": "Building Your Professional Skills",
     "link": "https://www.hunter.cuny.edu/event/building-your-professional-skills/",
     "college": "Hunter College",
@@ -1219,29 +1219,41 @@
     ]
   },
   {
-    "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-5/2026-10-27/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-27",
-    "time": "11:00 AM - 12:00 PM",
+    "title": "NEW DATE - Discussion: Bronx Attitude",
+    "link": "https://www.hunter.cuny.edu/event/discussion-bronx-attitude/",
+    "college": "Hunter College",
+    "date": "2026-11-02",
+    "time": "06:00 PM - 08:30 PM",
     "tags": [
-      "Counseling Center",
-      "Featured",
-      "Health Services",
-      "Student Affairs"
+      "Lectures",
+      "Special Events"
     ]
   },
   {
-    "title": "The Power of Connections: Networking for Success",
-    "link": "https://www.bmcc.cuny.edu/event/the-power-of-connections-networking-for-success-11/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-27",
+    "title": "Purple PEERiod Project",
+    "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-21/",
+    "college": "Hunter College",
+    "date": "2026-11-03",
     "time": "12:00 PM - 01:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Academic Info Session: Accounting",
+    "link": "https://www.hunter.cuny.edu/event/academic-info-session-accounting/",
+    "college": "Hunter College",
+    "date": "2026-11-03",
+    "time": "01:00 PM - 02:00 PM",
     "tags": [
-      "Career Workshops/Fairs",
-      "Center for Career Development",
-      "Featured"
+      "Student Events"
     ]
+  },
+  {
+    "title": "V3 Reports, Advanced Search, & Student Lists",
+    "link": "https://www.hunter.cuny.edu/event/v3-reports-advanced-search-student-lists/",
+    "college": "Hunter College",
+    "date": "2026-11-03",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": []
   },
   {
     "title": "LinkedIn Site Visit hosted by Careers in the City Employer Site Visit Program",
@@ -1256,20 +1268,6 @@
       "Center for Ethnic Studies",
       "Computer Information Systems",
       "Featured"
-    ]
-  },
-  {
-    "title": "Pride Month: Fashion, Fit, and the Fabulous Hoodie: How our Clothes signify Gender Identity and Expression",
-    "link": "https://www.bmcc.cuny.edu/event/pride-month-fashion-fit-and-the-fabulous-hoodie-how-our-clothes-signify-gender-identity-and-expression/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-10-27",
-    "time": "01:00 PM - 02:30 PM",
-    "tags": [
-      "Center for Belonging and Inclusion",
-      "Featured",
-      "LGBTQ Pride Month",
-      "Pride Center",
-      "Student Affairs"
     ]
   },
   {
@@ -1484,6 +1482,31 @@
     ]
   },
   {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-5/2026-11-03/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-03",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Featured",
+      "Health Services",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "How to Succeed in Your Next Interview",
+    "link": "https://www.bmcc.cuny.edu/event/how-to-succeed-in-your-next-interview-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-03",
+    "time": "12:00 PM - 01:00 PM",
+    "tags": [
+      "Career Workshops/Fairs",
+      "Center for Career Development",
+      "Featured"
+    ]
+  },
+  {
     "title": "Men in Forensic Accounting Employer Panel (Non-Traditional Career Series)",
     "link": "https://www.bmcc.cuny.edu/event/men-in-forensic-accounting-employer-panel-non-traditional-career-series/",
     "college": "Borough of Manhattan Community College",
@@ -1563,6 +1586,18 @@
       "LGBTQ Pride Month",
       "Library",
       "Pride Center"
+    ]
+  },
+  {
+    "title": "BMCC Stay Healthy: Free HIV/STI and Hepatitis Testing for BMCC Students",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-stay-healthy-free-hiv-sti-testing-for-bmcc-students/2026-11-09/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-09",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Featured",
+      "Health Services",
+      "Student Affairs"
     ]
   },
   {
@@ -1911,6 +1946,14 @@
     "college": "Lehman College",
     "date": "2026-10-27",
     "time": "5:30 PM - 6:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Exhale to Inhale: Healing Yoga",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007484",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-10-27",
+    "time": "11:00 AM - 12:00 PM",
     "tags": []
   },
   {
@@ -2506,32 +2549,16 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
+    "title": "SEEK Halloween Movie Night",
+    "link": "https://www.york.cuny.edu/seek/events/seek-halloween-movie-night",
     "college": "York College",
     "date": "2026-10-27",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
-    "college": "York College",
-    "date": "2026-10-27",
-    "time": "4:00 PM - 6:00 PM",
+    "time": "3:00 PM - 6:00 PM",
     "tags": []
   },
   {
     "title": "I Stand With Immigrants Day - Fall 26",
     "link": "https://www.york.cuny.edu/advisement/events/immigrant-day-fall26",
-    "college": "York College",
-    "date": "2026-10-27",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "SEEK Halloween Movie Night",
-    "link": "https://www.york.cuny.edu/seek/events/seek-halloween-movie-night",
     "college": "York College",
     "date": "2026-10-27",
     "time": "4:00 PM - 6:00 PM",
@@ -2564,6 +2591,22 @@
   {
     "title": "FAFSA and TAP Filing Sessions",
     "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-10-28",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
+    "college": "York College",
+    "date": "2026-10-28",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
     "college": "York College",
     "date": "2026-10-28",
     "time": "4:00 PM - 6:00 PM",
@@ -2666,58 +2709,129 @@
     "tags": []
   },
   {
-    "title": "INFORMATION ASSURANCE RESEARCH PANEL",
-    "link": "https://www.gc.cuny.edu/events/information-assurance-research-panel",
+    "title": "I STAND WITH IMMIGRANTS DAY",
+    "link": "https://www.gc.cuny.edu/events/i-stand-immigrants-day",
     "college": "CUNY Graduate Center",
-    "date": "2026-10-28",
-    "time": "",
-    "location": "TBD",
+    "date": "2026-10-27",
+    "time": "6:30 am — 8:00 pm",
+    "location": "Not Applicable",
     "tags": [
-      "CUNY Institute for Software Design and Development"
+      "Comparative Literature",
+      "International Migration Studies",
+      "Sociology",
+      "Student Affairs",
+      "Library"
     ]
   },
   {
-    "title": "GAMING TECHNOLOGY AND EDUCATION PANEL",
-    "link": "https://www.gc.cuny.edu/events/gaming-technology-and-education-panel",
+    "title": "COMPARATIVE LITERATURE FALL 2026 OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/comparative-literature-fall-2026-open-house",
     "college": "CUNY Graduate Center",
-    "date": "2026-11-14",
-    "time": "12:00 pm — 5:00 pm",
-    "location": "TBD",
+    "date": "2026-10-27",
+    "time": "1:30 pm — 2:30 pm",
+    "location": "Online",
     "tags": [
-      "CUNY Institute for Software Design and Development"
+      "Comparative Literature",
+      "Admissions"
     ]
   },
   {
-    "title": "E-COMMERCE SECURITY HOT TOPICS",
-    "link": "https://www.gc.cuny.edu/events/e-commerce-security-hot-topics",
+    "title": "AUBIN PICTURE'S SCREENING: \"BORN TO FLY: ELIZABETH STREB VS GRAVITY\" (2014)",
+    "link": "https://www.gc.cuny.edu/events/aubin-pictures-screening-born-fly-elizabeth-streb-vs-gravity-2014",
     "college": "CUNY Graduate Center",
-    "date": "2026-11-30",
-    "time": "2:00 pm — 5:00 pm",
-    "location": "TBD",
-    "tags": [
-      "CUNY Institute for Software Design and Development"
-    ]
-  },
-  {
-    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
-    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-20",
-    "time": "",
+    "date": "2026-10-27",
+    "time": "4:30 pm — 7:00 pm",
     "location": "9100: Skylight Room",
     "tags": [
-      "Committee on Globalization and Social Change"
+      "Women's and Gender Studies",
+      "Arts"
     ]
   },
   {
-    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
-    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
+    "title": "WRITERS' INSTITUTE: MEET THE AGENT",
+    "link": "https://www.gc.cuny.edu/events/writers-institute-meet-agent-oct-2026",
     "college": "CUNY Graduate Center",
-    "date": "2026-12-04",
-    "time": "6:00 pm",
-    "location": "9205",
+    "date": "2026-10-27",
+    "time": "6:00 pm — 8:00 pm",
+    "location": "9100: Skylight Room",
     "tags": [
-      "Committee on Globalization and Social Change"
+      "The Writers' Institute",
+      "Academic Initiatives and Strategic Innovation"
+    ]
+  },
+  {
+    "title": "IMMIGRATION SEMINAR SERIES - THE FANTASY OF MIGRATION CONTROL",
+    "link": "https://www.gc.cuny.edu/events/immigration-seminar-series-fantasy-migration-control",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-27",
+    "time": "6:30 pm — 8:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "International Migration Studies",
+      "Sociology",
+      "Immigration Seminar Series (Sociology)",
+      "Diversity"
+    ]
+  },
+  {
+    "title": "PUBLIC WORK: ART, LABOR, AND THE CITY",
+    "link": "https://www.gc.cuny.edu/events/public-work-art-labor-and-city",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-27",
+    "time": "6:30 pm — 8:30 pm",
+    "location": "1200: James Art Gallery",
+    "tags": [
+      "Art History",
+      "James Gallery",
+      "Arts"
+    ]
+  },
+  {
+    "title": "SPATIAL ANALYTICS WITH PYTHON",
+    "link": "https://www.gc.cuny.edu/events/spatial-analytics-python",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-27",
+    "time": "6:30 pm — 8:30 pm",
+    "location": "4102: Science Center",
+    "tags": [
+      "Computer Science",
+      "Data Science",
+      "Computer Science Seminar",
+      "Data Science Seminar"
+    ]
+  },
+  {
+    "title": "CRAFTING YOUR STATEMENT OF PURPOSE: BRES PH.D. APPLICATION WORKSHOP",
+    "link": "https://www.gc.cuny.edu/events/crafting-your-statement-purpose-bres-phd-application-workshop",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-27",
+    "time": "7:00 pm — 8:30 pm",
+    "location": "Online",
+    "tags": [
+      "Black, Race, and Ethnic Studies",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "DRUPAL ACCESSIBILITY TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-10-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "BOOK TALK WITH COLLEGE STATEN ISLAND PROFESSOR JAMES A. KASER",
+    "link": "https://www.gc.cuny.edu/events/book-talk-college-staten-island-professor-james-kaser",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "9207",
+    "tags": [
+      "CUNY Academy for the Humanities and Sciences"
     ]
   }
 ]
