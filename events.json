@@ -988,41 +988,6 @@
     ]
   },
   {
-    "title": "🌍FREE LUNCH! Learn about careers in public service!",
-    "link": "https://www.hunter.cuny.edu/event/october26-lunch-and-learn/",
-    "college": "Hunter College",
-    "date": "2026-10-28",
-    "time": "12:45 PM - 02:15 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Navigating a Tough Job Market: Ways to Organize and Maximize Your Job Search",
-    "link": "https://www.hunter.cuny.edu/event/navigating-a-tough-job-market-ways-to-organize-and-maximize-your-job-search-2/",
-    "college": "Hunter College",
-    "date": "2026-10-28",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "OOA Midday Express Concerts: Aristotle's Playlist (Featuring LOUCHE)",
-    "link": "https://www.hunter.cuny.edu/event/midday-express-concerts-aristotles-playlist-featuring-louche/",
-    "college": "Hunter College",
-    "date": "2026-10-28",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Exhibits",
-      "Performing Arts & Film",
-      "Special Events",
-      "Student Events"
-    ]
-  },
-  {
     "title": "Understanding your Financial Aid & FAFSA Filing 101",
     "link": "https://www.hunter.cuny.edu/event/understanding-your-financial-aid-fafsa-filing-101-3/",
     "college": "Hunter College",
@@ -1196,6 +1161,16 @@
     ]
   },
   {
+    "title": "Graduate Admissions Virtual Desk",
+    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-virtual-desk/",
+    "college": "Hunter College",
+    "date": "2026-11-03",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Purple PEERiod Project",
     "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-21/",
     "college": "Hunter College",
@@ -1231,6 +1206,34 @@
       "Conferences & Workshops",
       "Student Events"
     ]
+  },
+  {
+    "title": "Graduate Admissions Information Session",
+    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-47/",
+    "college": "Hunter College",
+    "date": "2026-11-04",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Mastering the Art of Résumé Writing: Résumé Clinic",
+    "link": "https://www.hunter.cuny.edu/event/mastering-the-art-of-resume-writing-resume-clinic-4/",
+    "college": "Hunter College",
+    "date": "2026-11-04",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Physics Colloquium - November 4th 2026",
+    "link": "https://www.hunter.cuny.edu/event/physics-colloquium-november-4th-2026/",
+    "college": "Hunter College",
+    "date": "2026-11-04",
+    "time": "01:20 PM - 03:00 PM",
+    "tags": []
   },
   {
     "title": "Business Dress Codes",
@@ -1485,6 +1488,17 @@
     "time": "02:00 PM - 03:00 PM",
     "tags": [
       "Learning Resource Center"
+    ]
+  },
+  {
+    "title": "Volunteer Fair: You can make a difference!",
+    "link": "https://www.bmcc.cuny.edu/event/volunteer-fair-you-can-make-a-difference/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-04",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": [
+      "Featured",
+      "Student Affairs"
     ]
   },
   {
@@ -1898,7 +1912,7 @@
   },
   {
     "title": "Science Education M.S.Ed. Information Session",
-    "link": "https://lehman.edu/events/2027/Science-Education-MSEd-Information-Session-.php",
+    "link": "https://lehman.edu/events/2026/Science-Education-MSEd-Information-Session--3.php",
     "college": "Lehman College",
     "date": "2026-10-28",
     "time": "6:00 PM - 7:00 PM",
@@ -2313,6 +2327,22 @@
     "tags": []
   },
   {
+    "title": "What’s Happening in Public Health Hiring? Insights for Job Seekers",
+    "link": "https://sph.cuny.edu/event/whats-happening-in-public-health-hiring-insights-for-job-seekers/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-11-10",
+    "time": "10:00 AM - 12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Byllye Avery’s Legacy in Action: Advancing Sexual and Reproductive Justice Scholarship and Advocacy",
+    "link": "https://sph.cuny.edu/event/byllye-averys-legacy-in-action-advancing-sexual-and-reproductive-justice-scholarship-and-advocacy/",
+    "college": "CUNY School of Public Health",
+    "date": "2026-11-11",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
     "title": "In-Person Graduate Admissions Open House",
     "link": "https://sph.cuny.edu/event/in-person-open-house/",
     "college": "CUNY School of Public Health",
@@ -2370,7 +2400,7 @@
   },
   {
     "title": "LGBTQ+ Film Screening",
-    "link": "https://www.lehman.edu/events/2026/LGBTQ-Film-Screening--1.php",
+    "link": "https://www.lehman.edu/events/2026/LGBTQ-Film-Screening-.php",
     "college": "Lehman College",
     "date": "2026-10-28",
     "time": "3:30 PM- 4:30 PM",
@@ -2378,7 +2408,7 @@
   },
   {
     "title": "Science Education M.S.Ed. Information Session",
-    "link": "https://www.lehman.edu/events/2027/Science-Education-MSEd-Information-Session-.php",
+    "link": "https://www.lehman.edu/events/2026/Science-Education-MSEd-Information-Session--3.php",
     "college": "Lehman College",
     "date": "2026-10-28",
     "time": "6:00 PM- 7:00 PM",
@@ -2417,16 +2447,16 @@
     "tags": []
   },
   {
-    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
-    "link": "https://www.lehman.edu/events/2027/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session-.php",
+    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session--4.php",
     "college": "Lehman College",
     "date": "2026-11-03",
     "time": "6:00 PM- 8:00 PM",
     "tags": []
   },
   {
-    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
-    "link": "https://www.lehman.edu/events/2027/Counselor-Ed-School-Counseling-MSEd-Information-Session-.php",
+    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session--4.php",
     "college": "Lehman College",
     "date": "2026-11-03",
     "time": "6:00 PM- 8:00 PM",
@@ -2441,11 +2471,11 @@
     "tags": []
   },
   {
-    "title": "New Voices:  Student Playwriting Festival Fall ’26",
-    "link": "https://www.lehman.edu/events/2026/New-Voices--Student-Playwriting-Festival-Fall-26-.php",
+    "title": "Pumpkin Smash",
+    "link": "https://www.lehman.edu/events/2026/Pumpkin-Smash.php",
     "college": "Lehman College",
     "date": "2026-11-04",
-    "time": "4:00 PM- 5:25 PM",
+    "time": "3:30 PM- 5:00 PM",
     "tags": []
   },
   {
@@ -2519,5 +2549,121 @@
     "date": "2026-11-21",
     "time": "10:00 AM - 5:00PM",
     "tags": []
+  },
+  {
+    "title": "DRUPAL ACCESSIBILITY TRAINING",
+    "link": "https://www.gc.cuny.edu/events/drupal-accessibility-training-10-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "11:00 am — 12:00 pm",
+    "location": "Online",
+    "tags": [
+      "Communications and Marketing"
+    ]
+  },
+  {
+    "title": "BOOK TALK WITH COLLEGE STATEN ISLAND PROFESSOR JAMES A. KASER",
+    "link": "https://www.gc.cuny.edu/events/book-talk-college-staten-island-professor-james-kaser",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "4:00 pm — 6:00 pm",
+    "location": "9207",
+    "tags": [
+      "CUNY Academy for the Humanities and Sciences"
+    ]
+  },
+  {
+    "title": "PARASITICAL LOGIC IN CULTURE AND SOCIETY",
+    "link": "https://www.gc.cuny.edu/events/parasitical-logic-culture-and-society",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "4:00 pm — 5:45 pm",
+    "location": "4406: English Student Lounge",
+    "tags": [
+      "English",
+      "Center for Place, Culture and Politics",
+      "Friday Forum"
+    ]
+  },
+  {
+    "title": "\"THE NECK AND THE SWORD: PALESTINE’S UNFINISHED STRUGGLE\"",
+    "link": "https://www.gc.cuny.edu/events/neck-and-sword-palestines-unfinished-struggle",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "6:00 pm — 8:00 pm",
+    "location": "1201: Elebash Recital Hall",
+    "tags": [
+      "Center for Place, Culture and Politics"
+    ]
+  },
+  {
+    "title": "CRIMINAL JUSTICE PH.D. PROGRAM INFORMATION SESSION",
+    "link": "https://www.gc.cuny.edu/events/criminal-justice-phd-program-information-session-oct-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "6:00 pm — 7:00 pm",
+    "location": "Online",
+    "tags": [
+      "Criminal Justice",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "BOOK EVENT: \"TEACHING FOR LOVE AND JUSTICE\"",
+    "link": "https://www.gc.cuny.edu/events/book-event-teaching-love-and-justice",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "6:30 pm — 8:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Urban Education"
+    ]
+  },
+  {
+    "title": "A BARER SKY: READING & BOOK LAUNCH WITH SERENA SOLIN",
+    "link": "https://www.gc.cuny.edu/events/barer-sky-reading-book-launch-serena-solin",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-28",
+    "time": "7:00 pm — 8:30 pm",
+    "location": "9100: Skylight Room",
+    "tags": [
+      "Center for the Humanities",
+      "Arts",
+      "Humanities and Social Sciences"
+    ]
+  },
+  {
+    "title": "INFO SESSION: NYC HOUSING AND PLANNING FELLOWSHIP",
+    "link": "https://www.gc.cuny.edu/events/info-session-nyc-housing-and-planning-fellowship",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-29",
+    "time": "1:30 pm — 2:30 pm",
+    "location": "Online",
+    "tags": [
+      "Career Planning and Professional Development"
+    ]
+  },
+  {
+    "title": "ECONOMICS PH.D. PROGRAM - OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/economics-phd-program-open-house-oct-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-29",
+    "time": "2:00 pm — 4:00 pm",
+    "location": "Online",
+    "tags": [
+      "Economics",
+      "Admissions"
+    ]
+  },
+  {
+    "title": "RETHINKING THE U.S. – MEXICO DRUG WAR: SECURITY, SURVEILLANCE, AND VIOLENCE",
+    "link": "https://www.gc.cuny.edu/events/rethinking-us-mexico-drug-war-security-surveillance-and-violence",
+    "college": "CUNY Graduate Center",
+    "date": "2026-10-29",
+    "time": "3:00 pm — 5:00 pm",
+    "location": "9205",
+    "tags": [
+      "Bildner Center for Western Hemisphere Studies"
+    ]
   }
 ]
