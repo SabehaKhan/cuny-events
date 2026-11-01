@@ -1883,22 +1883,6 @@
     ]
   },
   {
-    "title": "Pokiemon",
-    "link": "https://qc.event.cuny.edu/events/m82kfomFYQGkSZEDl0sJ/Qwew3rwqBuI23nNSBEKB",
-    "college": "Queens College",
-    "date": "2026-10-31",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
-    "title": "Project TCG NYC",
-    "link": "https://qc.event.cuny.edu/events/jm63bC74j6CJhKOagPCq/l6uq7LQeIhuGJs77DNG1",
-    "college": "Queens College",
-    "date": "2026-10-31",
-    "time": "8:00AM",
-    "tags": []
-  },
-  {
     "title": "Learning Commons Workshops",
     "link": "https://qc.event.cuny.edu/events/jexWsnPBpj4VSiMUkO1s/Cn7aGNHiTu5OSfZgxFtw19",
     "college": "Queens College",
@@ -2003,59 +1987,139 @@
     "tags": []
   },
   {
-    "title": "Adult Learning Center Saturday ESOL Class",
-    "link": "https://citytech.event.cuny.edu/events/xtRKAa9rfbjZBv7cd5p0/DEWPaU8D6nXHIsnNJWg86",
+    "title": "ASAP/ACE Math Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/g6TQuTZ9CuGsG9EoOTXH/ZZP0GEDSLLb0dFtQCUEK7",
     "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-31",
-    "time": "9:00AM",
+    "date": "2026-11-02",
+    "time": "11:30AM",
     "tags": []
   },
   {
-    "title": "STEP FALL 2026 PROGRAM",
-    "link": "https://citytech.event.cuny.edu/events/A6Q3zD44H4alJScbmY9Q/CnH0GikXkC2nhL4HIgqH2",
+    "title": "Success Coaching",
+    "link": "https://citytech.event.cuny.edu/events/ZZ0z1Qx6nvhk5YKWVw9F/UGpnYNpu5fpyZyo9bkvE2",
     "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-31",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "STEP fall 2026",
-    "link": "https://citytech.event.cuny.edu/events/i4CiKvx2xyvoIrAtyxZM/sFr1RZdPZ1ipFVZS860O2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-31",
-    "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "Deaf and Hard of Hearing Association",
-    "link": "https://citytech.event.cuny.edu/events/dqY29tCJ246EfHfoGuZb/WhwrArUU1RkSnEzEf0tG",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-31",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Teach an Online Course - HSCI 2301-OL60 (58028)",
-    "link": "https://citytech.event.cuny.edu/events/LVCiGxSa9yJ1o7OmV7t6/hXKKTL4J4FwrkBKPygV010",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-31",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "Office Hours for PSY1101 CN15 Prof. Ayalla Cooks-Campbell",
-    "link": "https://citytech.event.cuny.edu/events/iBnMlr1zl3yYXwA0nbFJ/ZMniUvTwm0o9xA31ZYNq6",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-31",
-    "time": "12:45PM",
+    "date": "2026-11-02",
+    "time": "1:00PM",
     "tags": []
   },
   {
     "title": "Math Tutoring Fall 2026",
-    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA39",
+    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA40",
     "college": "New York City College of Technology (City Tech)",
-    "date": "2026-10-31",
+    "date": "2026-11-02",
     "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center ESOL class",
+    "link": "https://citytech.event.cuny.edu/events/bMgpFxILMXBzefmSdPPr/YJ9ab9kITCgmdwbZhq7f",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-02",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Marine Tabling",
+    "link": "https://citytech.event.cuny.edu/events/kpO9DFi98vh6Tp1FVyF4/oG6XFuyTXisOm8YN0EKW9",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-03",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "CUNY PSC City Tech Chapter Tabling",
+    "link": "https://citytech.event.cuny.edu/events/Li8PQbxxbOFfFZ3JtEg0/MZ8rZso6W3IrMq6nkMzA",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-03",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/K051oBFQ2h3j7Po52UP1/btIVif7hEFtRWbT2oFKq",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-03",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Leadership Workshop #3",
+    "link": "https://citytech.event.cuny.edu/events/mSJDXboxQoXWPFN1WItH/QO3VVk7AqZhwzWb6piNO",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-03",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
+    "title": "Math Tutoring Fall 2026",
+    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA41",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-03",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "Bindlestiff Openstage Variety Show Box office lobby request",
+    "link": "https://citytech.event.cuny.edu/events/LFtqU5jlFfRKSIrplzQ6/JUF1o5p9aTQL5QiBlEKv",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-03",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center High School Equivalency Class",
+    "link": "https://citytech.event.cuny.edu/events/WLKCv1H60LfQMXwvwVbm/khJOOksgZT37KmJWo3sp19",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-03",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "Senior Staff",
+    "link": "https://citytech.event.cuny.edu/events/pNHuFWeoHVeoaUTEstBk/yw7D5329uzimbkGPncVa",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-04",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "U.S Army Tabling",
+    "link": "https://citytech.event.cuny.edu/events/RWQLC8yOqSTs4hxsH1Db/YZZPbdxEVBF2eKtXBoKg7",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-04",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Exam 2",
+    "link": "https://citytech.event.cuny.edu/events/TfDAY7BclT8jpGfc1g3L/cprd7VziwyZDbslwLiNu",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-04",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "DEN1100 Exam 2",
+    "link": "https://citytech.event.cuny.edu/events/WNmdIcEvH521CvquGCwT/rIlDxzgj79Ef5WZbPgAU",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-04",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "ASAP/ACE Math Tutoring (Wednesdays)",
+    "link": "https://citytech.event.cuny.edu/events/OlDOLlYVv0INShXbEY3S/eC1CdRJcAnHD76BOFrmy7",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-04",
+    "time": "11:30AM",
+    "tags": []
+  },
+  {
+    "title": "Peer Navigator Tabling",
+    "link": "https://citytech.event.cuny.edu/events/K051oBFQ2h3j7Po52UP1/SOaEyNJ6Pr1AFDNo2dsk",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-04",
+    "time": "1:00PM",
     "tags": []
   },
   {
