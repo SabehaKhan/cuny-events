@@ -763,14 +763,6 @@
   },
   {
     "title": "Internship Orientation Workshops",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/b2571a19-d2ae-495e-bd68-51ca7adb67ee",
-    "college": "Kingsborough Community College",
-    "date": "2026-11-02",
-    "time": "03:20 PM - 04:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Internship Orientation Workshops",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/37e0f948-381d-46da-9b5b-0270b8f95e82",
     "college": "Kingsborough Community College",
     "date": "2026-12-07",
@@ -975,29 +967,6 @@
       "Social - Off-Campus",
       "United Men of Color",
       "Off-Campus"
-    ]
-  },
-  {
-    "title": "Día de los Muertos Celebration",
-    "link": "https://www.hunter.cuny.edu/event/dia-de-los-muertos-celebration-2/",
-    "college": "Hunter College",
-    "date": "2026-11-02",
-    "time": "05:00 PM - 08:00 PM",
-    "tags": [
-      "Performing Arts & Film",
-      "Special Events",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "NEW DATE - Discussion: Bronx Attitude",
-    "link": "https://www.hunter.cuny.edu/event/discussion-bronx-attitude/",
-    "college": "Hunter College",
-    "date": "2026-11-02",
-    "time": "06:00 PM - 08:30 PM",
-    "tags": [
-      "Lectures",
-      "Special Events"
     ]
   },
   {
@@ -1269,6 +1238,24 @@
     "time": "07:30 PM - 07:30 PM",
     "tags": [
       "Lectures"
+    ]
+  },
+  {
+    "title": "Employers Panel",
+    "link": "https://www.hunter.cuny.edu/event/employers-panel/",
+    "college": "Hunter College",
+    "date": "2026-11-11",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "OOA Outing: Fantasma at Primary Stages",
+    "link": "https://www.hunter.cuny.edu/event/ooa-outing-fantasma-at-primary-stages/",
+    "college": "Hunter College",
+    "date": "2026-11-11",
+    "time": "06:30 PM - 09:00 PM",
+    "tags": [
+      "Performing Arts & Film"
     ]
   },
   {
@@ -1597,19 +1584,6 @@
     ]
   },
   {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-7/",
-    "college": "Bronx Community College",
-    "date": "2026-11-02",
-    "time": "04:00 PM - 07:00 PM",
-    "tags": [
-      "Enrollment Management & Student Success",
-      "Enrollment Operations & Registrar",
-      "Feature",
-      "Virtual Event"
-    ]
-  },
-  {
     "title": "Curriculum",
     "link": "https://www.bcc.cuny.edu/event/curriculum-9/",
     "college": "Bronx Community College",
@@ -1852,63 +1826,15 @@
     "tags": []
   },
   {
-    "title": "Eye on Education",
-    "link": "https://events.cuny.edu/cec/eye-on-education/",
-    "college": "College of Staten Island",
-    "date": "2026-11-02",
-    "time": "10:00 AM - 2:00 PM",
+    "title": "Campus Tour",
+    "link": "https://www.bcc.cuny.edu/event/campus-tour-4/",
+    "college": "Bronx Community College",
+    "date": "2026-11-12",
+    "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "Health and Wellness Services"
-    ]
-  },
-  {
-    "title": "YASS! Mondays",
-    "link": "https://events.cuny.edu/cec/yass-mondays-33/",
-    "college": "The City College of New York",
-    "date": "2026-11-02",
-    "time": "12:00 PM - 4:00 PM",
-    "tags": [
-      "LGBTQI+"
-    ]
-  },
-  {
-    "title": "Salzberg Chemistry Seminar: Jeffrey Lipshultz, Structural Remodeling of Amines and Alcohols",
-    "link": "https://events.cuny.edu/cec/salzberg-chemistry-seminar-jeffrey-lipshultz-structural-remodeling-of-amines-and-alcohols/",
-    "college": "The City College of New York",
-    "date": "2026-11-02",
-    "time": "12:00 PM - 1:00 PM",
-    "tags": [
-      "Salzberg Chemistry Seminar"
-    ]
-  },
-  {
-    "title": "MS Teams",
-    "link": "https://events.cuny.edu/cec/ms-teams/",
-    "college": "College of Staten Island",
-    "date": "2026-11-02",
-    "time": "2:00 PM - 3:00 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "The Sharon Cosloy-Edward Blank Family Distinguished Scientist Lecture",
-    "link": "https://events.cuny.edu/cec/the-sharon-cosloy-edward-blank-family-distinguished-scientist-lecture-2/",
-    "college": "The City College of New York",
-    "date": "2026-11-02",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": [
-      "The Sharon Cosloy-Edward Blank Family Distinguished Scientist Lecture"
-    ]
-  },
-  {
-    "title": "Venture Incubator Info Session",
-    "link": "https://events.cuny.edu/cec/venture-incubator-info-session-3/",
-    "college": "The City College of New York",
-    "date": "2026-11-02",
-    "time": "5:00 PM - 6:15 PM",
-    "tags": [
-      "Venture Incubator Info Session"
+      "Admissions & Financial Aid",
+      "Enrollment Management & Retention",
+      "Feature"
     ]
   },
   {
@@ -1932,27 +1858,19 @@
     ]
   },
   {
-    "title": "Learning Commons Workshops",
-    "link": "https://qc.event.cuny.edu/events/jexWsnPBpj4VSiMUkO1s/Cn7aGNHiTu5OSfZgxFtw19",
-    "college": "Queens College",
-    "date": "2026-11-02",
-    "time": "12:15PM",
+    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
+    "link": "https://lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session--4.php",
+    "college": "Lehman College",
+    "date": "2026-11-03",
+    "time": "6:00 PM - 8:00 PM",
     "tags": []
   },
   {
-    "title": "FYE Peer Mentor Trainings",
-    "link": "https://qc.event.cuny.edu/events/XtRMpxBfkpumfOi2waKI/DrJGwEdHLVewH8JwbSdt",
-    "college": "Queens College",
-    "date": "2026-11-02",
-    "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "Math Dept Review Sessions",
-    "link": "https://qc.event.cuny.edu/events/YQS7FA7iXKZZR0SuInVQ/u43J7l2KV54kJJFaV9e319",
-    "college": "Queens College",
-    "date": "2026-11-02",
-    "time": "12:15PM",
+    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
+    "link": "https://lehman.edu/events/2026/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session--4.php",
+    "college": "Lehman College",
+    "date": "2026-11-03",
+    "time": "6:00 PM - 8:00 PM",
     "tags": []
   },
   {
@@ -1993,14 +1911,6 @@
     "college": "Queens College",
     "date": "2026-11-09",
     "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "LSEG Workspace for Equities @ Remote Via Zoom",
-    "link": "https://baruch.event.cuny.edu/events/YCzpEnXGrfi8sSdl9ZDh/oqUDh5ktQyeQPjRkypum",
-    "college": "Baruch College",
-    "date": "2026-11-02",
-    "time": "12:45PM",
     "tags": []
   },
   {
@@ -2052,35 +1962,19 @@
     "tags": []
   },
   {
-    "title": "ASAP/ACE Math Tutoring",
-    "link": "https://citytech.event.cuny.edu/events/g6TQuTZ9CuGsG9EoOTXH/ZZP0GEDSLLb0dFtQCUEK7",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-02",
-    "time": "11:30AM",
+    "title": "Staff and Faculty Creative Lunch: Collagraph Printmaking",
+    "link": "https://baruch.event.cuny.edu/events/brcLlEqLGzCHKnWyJiTI/ebnwaKzjmqud4DlWbpGg",
+    "college": "Baruch College",
+    "date": "2026-11-10",
+    "time": "12:30PM",
     "tags": []
   },
   {
-    "title": "Success Coaching",
-    "link": "https://citytech.event.cuny.edu/events/ZZ0z1Qx6nvhk5YKWVw9F/UGpnYNpu5fpyZyo9bkvE2",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-02",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Math Tutoring Fall 2026",
-    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA40",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-02",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center ESOL class",
-    "link": "https://citytech.event.cuny.edu/events/bMgpFxILMXBzefmSdPPr/YJ9ab9kITCgmdwbZhq7f",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-02",
-    "time": "6:00PM",
+    "title": "Designing Organizations for Social Impact",
+    "link": "https://baruch.event.cuny.edu/events/WO2ISsWcAMFVCXeLnZdo/gQDzXDQ0anAoHiusU3rf",
+    "college": "Baruch College",
+    "date": "2026-11-10",
+    "time": "5:30PM",
     "tags": []
   },
   {
@@ -2188,19 +2082,51 @@
     "tags": []
   },
   {
-    "title": "Marie Faye Commemoration Event",
-    "link": "https://hostos.event.cuny.edu/events/Skcsl33Rfas6VpN6iwDH/AHAgcpL5Zm3RlN08XW1U",
-    "college": "Hostos Community College",
-    "date": "2026-11-02",
-    "time": "12:30PM",
+    "title": "DEN1100 Exam 2 (1B)",
+    "link": "https://citytech.event.cuny.edu/events/FTxmnUno1KbkDLbDxuyQ/zlkP7o6w5dvXcSt4rH52",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-04",
+    "time": "2:00PM",
     "tags": []
   },
   {
-    "title": "Speed Friending FYE event",
-    "link": "https://hostos.event.cuny.edu/events/N04GU9NGGcWk7v2QTMMF/mpzjbgKk0QQxjihPwEoN",
-    "college": "Hostos Community College",
-    "date": "2026-11-02",
+    "title": "Math Tutoring Fall 2026",
+    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA42",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-04",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "SEEK Students - Information Sessions",
+    "link": "https://citytech.event.cuny.edu/events/Yvu4irNUge4jej1oTVws/iT3db2ik61PXullflr4L",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-04",
     "time": "5:30PM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center High School Equivalency Class",
+    "link": "https://citytech.event.cuny.edu/events/WLKCv1H60LfQMXwvwVbm/khJOOksgZT37KmJWo3sp20",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-04",
+    "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "CAA/Chairs' Colloquium",
+    "link": "https://citytech.event.cuny.edu/events/GeOWEnlj8Ti98m1Zn6ky/LnwJEFvbSyIMU4PCzbSH",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-05",
+    "time": "9:30AM",
+    "tags": []
+  },
+  {
+    "title": "City Tech Fall 2026 Group Tour - (11/05/2026)",
+    "link": "https://citytech.event.cuny.edu/events/yt49O25jsC1J439wsSsn/Pe5ESmn7u3X0eJhTqLNr",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-05",
+    "time": "11:00AM",
     "tags": []
   },
   {
@@ -2316,11 +2242,27 @@
     "tags": []
   },
   {
-    "title": "CUNY SPH Social at APHA 2026",
-    "link": "https://sph.cuny.edu/event/cuny-sph-social-at-apha-2026/",
-    "college": "CUNY School of Public Health",
-    "date": "2026-11-02",
-    "time": "6:00PM",
+    "title": "Rad Tech Week info table",
+    "link": "https://hostos.event.cuny.edu/events/zD7TKuxi9EsahI7VNssS/mUbDAlQWcdOvBhrpPkNa",
+    "college": "Hostos Community College",
+    "date": "2026-11-10",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "CUNY CARES",
+    "link": "https://hostos.event.cuny.edu/events/VelsDuFmCPeWglMb0jeW/T5Ajbn9TDi1ZuZsOoJaz",
+    "college": "Hostos Community College",
+    "date": "2026-11-10",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "Mini-Transfer Fair",
+    "link": "https://hostos.event.cuny.edu/events/rna1hhP5lp4ku1P0SkcV/gRpDqTNFq9dBZJ0D8SON",
+    "college": "Hostos Community College",
+    "date": "2026-11-10",
+    "time": "11:00AM",
     "tags": []
   },
   {
@@ -2553,166 +2495,6 @@
     "college": "Macaulay Honors College",
     "date": "2027-02-25",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "Travel, Learn, Afford: Financing Your Study Abroad Experience 11/2",
-    "link": "https://www.york.cuny.edu/events/2026/travel-learn-afford-financing-your-study-abroad-experience-4",
-    "college": "York College",
-    "date": "2026-11-02",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
-    "college": "York College",
-    "date": "2026-11-03",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
-    "college": "York College",
-    "date": "2026-11-03",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "York SAVES Domestic Violence Advocacy Training - Nov. 3rd",
-    "link": "https://www.york.cuny.edu/womens-center/calendar-of-events/york-saves-domestic-violence-advocacy-training-nov-3rd",
-    "college": "York College",
-    "date": "2026-11-03",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ISM Information Session - Nov 3rd",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/nov-3rd-ism-information-session",
-    "college": "York College",
-    "date": "2026-11-03",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-11-03",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Volleyball vs. Baruch College",
-    "link": "https://www.york.cuny.edu/events/2026/w-volleyball-vs-baruch-11032026",
-    "college": "York College",
-    "date": "2026-11-03",
-    "time": "11:00 PM - 1:00 AM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Nov 4",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-nov4",
-    "college": "York College",
-    "date": "2026-11-04",
-    "time": "2:30 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-11-04",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Procrastination 101: Stop Delaying. Start Doing.",
-    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/wellness-wednesday-workshop-procrastination",
-    "college": "York College",
-    "date": "2026-11-04",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "OYB: Felt, Seen & Heard (Relationship Skills)",
-    "link": "https://www.york.cuny.edu/events/oyb-felt-seen-heard-relationship-skills",
-    "college": "York College",
-    "date": "2026-11-04",
-    "time": "10:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ACC and FINC Info Session (Fa' 26)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-acc-finc-information-session",
-    "college": "York College",
-    "date": "2026-11-05",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Economics Info Session (Fall 2026 Thurs)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-economics-information-session",
-    "college": "York College",
-    "date": "2026-11-05",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fridays with CSD",
-    "link": "https://www.york.cuny.edu/events/fridays-with-csd",
-    "college": "York College",
-    "date": "2026-11-06",
-    "time": "3:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BUS ADMIN Info Session (Nov 2026 Fri)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/nov-2026-bus-admin-info-session",
-    "college": "York College",
-    "date": "2026-11-06",
-    "time": "9:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BUS ADMIN Info Session (Fa' 26 Mon)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-monday-bus-admin-info-session",
-    "college": "York College",
-    "date": "2026-11-09",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HRM Information Session - Winter 26-27",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/human-resource-management-info-session-2",
-    "college": "York College",
-    "date": "2026-11-09",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Monday Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-monday-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-11-09",
-    "time": "8:30 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Scholarships 101",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarships-101",
-    "college": "York College",
-    "date": "2026-11-09",
-    "time": "9:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Aviation Information Session (Fa' 26 Wed)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fa-26-wed-aviation-information-session",
-    "college": "York College",
-    "date": "2026-11-25",
-    "time": "5:00 PM - 9:00 PM",
     "tags": []
   }
 ]
