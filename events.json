@@ -10,6 +10,26 @@
     ]
   },
   {
+    "title": "Diwali",
+    "link": "https://www.mec.cuny.edu/event/diwali-2026/",
+    "college": "Medgar Evers College",
+    "date": "2026-11-08",
+    "time": "08:00 AM - 05:00 PM",
+    "tags": [
+      "Religous and Ethnic Holidays"
+    ]
+  },
+  {
+    "title": "Self Defense Workshop",
+    "link": "https://www.mec.cuny.edu/event/self-defense-workshop/",
+    "college": "Medgar Evers College",
+    "date": "2026-11-18",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Public Safety"
+    ]
+  },
+  {
     "title": "CTLE Virtual Workshop: Maximizing Your Research Skills (Sage)",
     "link": "https://www.mec.cuny.edu/event/ctle-virtual-workshop-maximizing-your-research-skills-sage/",
     "college": "Medgar Evers College",
@@ -57,17 +77,6 @@
     "time": "10:00 AM - 11:00 AM",
     "tags": [
       "Center for Teaching and Learning Excellence"
-    ]
-  },
-  {
-    "title": "CUNY Law Alumni Connection Series",
-    "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-nov26/",
-    "college": "CUNY School of Law",
-    "date": "2026-11-04",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Alumni",
-      "Networking Event"
     ]
   },
   {
@@ -135,16 +144,6 @@
     "tags": [
       "Alumni",
       "Networking Event"
-    ]
-  },
-  {
-    "title": "Indicator Media Kickoff Workshop",
-    "link": "https://www.journalism.cuny.edu/events/indicator-media-kickoff-workshop/",
-    "college": "Craig Newmark Graduate School of Journalism",
-    "date": "2026-11-04",
-    "time": "12:50 PM - 12:50 PM",
-    "tags": [
-      "Current Students"
     ]
   },
   {
@@ -690,14 +689,6 @@
     "tags": []
   },
   {
-    "title": "National Veterans and Military Families Recognition Service",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/60e553ca-1db4-4887-b19d-720f9f44671d",
-    "college": "Kingsborough Community College",
-    "date": "2026-11-10",
-    "time": "05:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "Extreme Music Bingo",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/8d0ca1da-dcf8-4121-ad52-ed97b2070adb",
     "college": "Kingsborough Community College",
@@ -735,14 +726,6 @@
     "college": "Kingsborough Community College",
     "date": "2026-12-02",
     "time": "06:00 PM - 08:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Good Luck Finals Breakfast",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/0338d6a1-2b1a-4df9-8120-080f51c73b66",
-    "college": "Kingsborough Community College",
-    "date": "2026-12-08",
-    "time": "01:30 PM - 01:30 PM",
     "tags": []
   },
   {
@@ -921,42 +904,6 @@
       "United Men of Color",
       "Off-Campus"
     ]
-  },
-  {
-    "title": "Graduate Admissions Information Session",
-    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-47/",
-    "college": "Hunter College",
-    "date": "2026-11-04",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Mastering the Art of Résumé Writing: Résumé Clinic",
-    "link": "https://www.hunter.cuny.edu/event/mastering-the-art-of-resume-writing-resume-clinic-4/",
-    "college": "Hunter College",
-    "date": "2026-11-04",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Alumni Panel [Postponed]",
-    "link": "https://www.hunter.cuny.edu/event/alumni-panel/",
-    "college": "Hunter College",
-    "date": "2026-11-04",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Physics Colloquium - November 4th 2026",
-    "link": "https://www.hunter.cuny.edu/event/physics-colloquium-november-4th-2026/",
-    "college": "Hunter College",
-    "date": "2026-11-04",
-    "time": "01:20 PM - 03:00 PM",
-    "tags": []
   },
   {
     "title": "Business Dress Codes",
@@ -1212,36 +1159,43 @@
     ]
   },
   {
-    "title": "BMCC Stay Healthy: Wellness Wednesdays",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-stay-healthy-program-wellness-wednesdays/2026-11-04/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-04",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Health Services",
-      "Student Affairs"
-    ]
+    "title": "Archiving Home: A Community of Practice",
+    "link": "https://www.hunter.cuny.edu/event/archiving-home-a-community-of-practice/",
+    "college": "Hunter College",
+    "date": "2026-11-14",
+    "time": "10:00 AM - 05:00 PM",
+    "tags": []
   },
   {
-    "title": "Volunteer Fair: You can make a difference!",
-    "link": "https://www.bmcc.cuny.edu/event/volunteer-fair-you-can-make-a-difference/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-04",
-    "time": "11:00 AM - 02:00 PM",
-    "tags": [
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Academic Coaching Workshop: The Power of “Yet”: Strategies for Recovering from a Bad Grade (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/academic-coaching-workshop-the-power-of-yet-strategies-for-recovering-from-a-bad-grade-students-only/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-04",
+    "title": "Mastering the Art of Résumé Writing: Résumé Clinic",
+    "link": "https://www.hunter.cuny.edu/event/mastering-the-art-of-resume-writing-resume-clinic-5/",
+    "college": "Hunter College",
+    "date": "2026-11-14",
     "time": "12:00 PM - 01:00 PM",
     "tags": [
-      "Featured",
-      "Learning Resource Center"
+      "Career Center",
+      "Conferences & Workshops",
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Graduate Admissions Virtual Desk",
+    "link": "https://www.hunter.cuny.edu/event/graduate-admissions-virtual-desk-3/",
+    "college": "Hunter College",
+    "date": "2026-11-17",
+    "time": "11:00 AM - 01:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
+    "title": "Library & Archives Lunch Hour: The Roger Cabán Photographic Collection",
+    "link": "https://www.hunter.cuny.edu/event/library-archives-lunch-hour-the-roger-caban-photographic-collection/",
+    "college": "Hunter College",
+    "date": "2026-11-17",
+    "time": "12:00 PM - 12:45 PM",
+    "tags": [
+      "Lectures"
     ]
   },
   {
@@ -1371,6 +1325,19 @@
       "Featured",
       "Student Affairs",
       "Veterans Resource Center"
+    ]
+  },
+  {
+    "title": "International Students Admissions Session",
+    "link": "https://www.bmcc.cuny.edu/event/international-students-admissions-session-4/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-09",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured",
+      "Global Initiatives",
+      "International Student Events/Workshops"
     ]
   },
   {
@@ -1523,6 +1490,18 @@
     ]
   },
   {
+    "title": "International Students Admissions Session",
+    "link": "https://www.bmcc.cuny.edu/event/international-students-admissions-session-5/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-16",
+    "time": "02:00 PM - 03:00 PM",
+    "tags": [
+      "Admissions",
+      "Featured",
+      "International Student Events/Workshops"
+    ]
+  },
+  {
     "title": "Careers in the City Site Visit: Citizens Bank",
     "link": "https://www.bmcc.cuny.edu/event/careers-in-the-city-site-visit-citizens-bank/",
     "college": "Borough of Manhattan Community College",
@@ -1559,36 +1538,15 @@
     ]
   },
   {
-    "title": "VPDC",
-    "link": "https://www.bcc.cuny.edu/event/vpdc-3/",
-    "college": "Bronx Community College",
-    "date": "2026-11-04",
-    "time": "10:00 AM - 12:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Bronco Hope Market",
-    "link": "https://www.bcc.cuny.edu/event/bronco-hope-market-5/",
-    "college": "Bronx Community College",
-    "date": "2026-11-04",
-    "time": "10:00 AM - 05:00 PM",
+    "title": "Jack Kent Cooke Foundation Undergraduate Transfer Scholarship Application Workshops",
+    "link": "https://www.bmcc.cuny.edu/event/jack-kent-cooke-foundation-undergraduate-transfer-scholarship-application-workshops-2/2026-11-18/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-18",
+    "time": "02:30 PM - 03:30 PM",
     "tags": [
-      "Bronco Hope Market",
-      "Feature",
-      "Student Success"
-    ]
-  },
-  {
-    "title": "Admissions Application Workshop",
-    "link": "https://www.bcc.cuny.edu/event/application-workshop-3/",
-    "college": "Bronx Community College",
-    "date": "2026-11-04",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Admissions & Financial Aid",
-      "Enrollment Management & Retention",
-      "Feature",
-      "Information Sessions"
+      "Featured",
+      "Scholarships",
+      "Student Affairs"
     ]
   },
   {
@@ -1598,7 +1556,7 @@
     "date": "2026-11-04",
     "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "Admissions & Financial Aid",
+      "Admissions & Recruitment",
       "Enrollment Management & Retention",
       "Feature",
       "Information Sessions",
@@ -1632,7 +1590,7 @@
     "date": "2026-11-05",
     "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "Admissions & Financial Aid",
+      "Admissions & Recruitment",
       "Enrollment Management & Retention",
       "Feature"
     ]
@@ -1644,35 +1602,11 @@
     "date": "2026-11-05",
     "time": "04:00 PM - 05:00 PM",
     "tags": [
-      "Admissions & Financial Aid",
+      "Admissions & Recruitment",
       "Enrollment Management & Retention",
       "Feature",
       "Information Sessions",
       "Virtual Event"
-    ]
-  },
-  {
-    "title": "Women's Basketball: Bronx Broncos vs. Hostos Community College",
-    "link": "https://www.bcc.cuny.edu/event/womens-basketball-bronx-broncos-vs-hostos-community-college/",
-    "college": "Bronx Community College",
-    "date": "2026-11-05",
-    "time": "05:00 PM - 07:00 PM",
-    "tags": [
-      "Athletics",
-      "Feature",
-      "Student Success"
-    ]
-  },
-  {
-    "title": "Men's Basketball: Bronx Broncos vs. Hostos Community College",
-    "link": "https://www.bcc.cuny.edu/event/mens-basketball-bronx-broncos-vs-hostos-community-college/",
-    "college": "Bronx Community College",
-    "date": "2026-11-05",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "Athletics",
-      "Feature",
-      "Student Success"
     ]
   },
   {
@@ -1683,45 +1617,9 @@
     "time": "11:59 PM - 11:59 PM",
     "tags": [
       "Academic Calendar",
+      "Admissions & Recruitment",
       "Enrollment Management & Retention",
       "Feature"
-    ]
-  },
-  {
-    "title": "Women's Basketball: Bronx Broncos vs. SUNY Sullivan",
-    "link": "https://www.bcc.cuny.edu/event/womens-basketball-bronx-broncos-vs-suny-sullivan/",
-    "college": "Bronx Community College",
-    "date": "2026-11-07",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": [
-      "Athletics",
-      "Feature",
-      "Student Success"
-    ]
-  },
-  {
-    "title": "Men's Basketball: Bronx Broncos vs. SUNY Sullivan",
-    "link": "https://www.bcc.cuny.edu/event/mens-basketball-bronx-broncos-vs-suny-sullivan/",
-    "college": "Bronx Community College",
-    "date": "2026-11-07",
-    "time": "04:00 PM - 06:00 PM",
-    "tags": [
-      "Athletics",
-      "Feature",
-      "Student Success"
-    ]
-  },
-  {
-    "title": "Office of the Registrar Virtual Counter",
-    "link": "https://www.bcc.cuny.edu/event/office-of-the-registrar-virtual-counter-8/",
-    "college": "Bronx Community College",
-    "date": "2026-11-09",
-    "time": "02:00 PM - 06:00 PM",
-    "tags": [
-      "Enrollment Management & Student Success",
-      "Enrollment Operations & Registrar",
-      "Feature",
-      "Virtual Event"
     ]
   },
   {
@@ -1763,7 +1661,7 @@
     "date": "2026-11-11",
     "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "Admissions & Financial Aid",
+      "Admissions & Recruitment",
       "Enrollment Management & Retention",
       "Feature",
       "Information Sessions",
@@ -1778,7 +1676,6 @@
     "time": "10:00 AM - 04:30 PM",
     "tags": [
       "Campus Events",
-      "Enrollment Management & Student Success",
       "Enrollment Operations & Registrar",
       "Feature",
       "Graduation & Commencement"
@@ -1799,7 +1696,7 @@
     "date": "2026-11-12",
     "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "Admissions & Financial Aid",
+      "Admissions & Recruitment",
       "Enrollment Management & Retention",
       "Feature"
     ]
@@ -1811,11 +1708,61 @@
     "date": "2026-11-12",
     "time": "04:00 PM - 05:00 PM",
     "tags": [
-      "Admissions & Financial Aid",
+      "Admissions & Recruitment",
       "Enrollment Management & Retention",
       "Feature",
       "Information Sessions",
       "Virtual Event"
+    ]
+  },
+  {
+    "title": "Fall 2026 Open House",
+    "link": "https://www.bcc.cuny.edu/event/bcc-open-house/",
+    "college": "Bronx Community College",
+    "date": "2026-11-14",
+    "time": "10:00 AM - 01:30 PM",
+    "tags": [
+      "Admissions & Recruitment",
+      "Campus Events",
+      "Enrollment Management & Retention",
+      "Feature",
+      "Information Sessions"
+    ]
+  },
+  {
+    "title": "Senate Executive",
+    "link": "https://www.bcc.cuny.edu/event/senate-executive-4/",
+    "college": "Bronx Community College",
+    "date": "2026-11-16",
+    "time": "02:15 PM - 03:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Budget & Financial Planning",
+    "link": "https://www.bcc.cuny.edu/event/budget-financial-planning-3/",
+    "college": "Bronx Community College",
+    "date": "2026-11-17",
+    "time": "12:00 PM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Curriculum",
+    "link": "https://www.bcc.cuny.edu/event/curriculum-11/",
+    "college": "Bronx Community College",
+    "date": "2026-11-17",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Bronco Hope Market",
+    "link": "https://www.bcc.cuny.edu/event/bronco-hope-market-7/",
+    "college": "Bronx Community College",
+    "date": "2026-11-18",
+    "time": "10:00 AM - 05:00 PM",
+    "tags": [
+      "Bronco Hope Market",
+      "Feature",
+      "Student Success"
     ]
   },
   {
@@ -1896,6 +1843,22 @@
     "tags": [
       "Danielle Alhassid"
     ]
+  },
+  {
+    "title": "Volunteer Fair: You can make a difference!",
+    "link": "https://www.bmcc.cuny.edu/event/?p=686180",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-04",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": []
+  },
+  {
+    "title": "BMCC Stay Healthy: Wellness Wednesdays",
+    "link": "https://www.bmcc.cuny.edu/event/?p=10007980",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-04",
+    "time": "11:00 AM - 02:00 PM",
+    "tags": []
   },
   {
     "title": "Learning Commons Workshops",
@@ -2530,35 +2493,11 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
-    "college": "York College",
-    "date": "2026-11-04",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
-    "college": "York College",
-    "date": "2026-11-04",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "Procrastination 101: Stop Delaying. Start Doing.",
     "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/wellness-wednesday-workshop-procrastination",
     "college": "York College",
     "date": "2026-11-04",
     "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-11-04",
-    "time": "8:00 PM - 10:00 PM",
     "tags": []
   },
   {
@@ -2586,6 +2525,30 @@
     "tags": []
   },
   {
+    "title": "Health Awareness Day",
+    "link": "https://www.york.cuny.edu/health/health-awareness-day",
+    "college": "York College",
+    "date": "2026-11-05",
+    "time": "3:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
+    "college": "York College",
+    "date": "2026-11-05",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
+    "college": "York College",
+    "date": "2026-11-05",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
     "title": "ACC and FINC Info Session (Fa' 26)",
     "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-acc-finc-information-session",
     "college": "York College",
@@ -2607,6 +2570,14 @@
     "college": "York College",
     "date": "2026-11-05",
     "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Evening",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
+    "college": "York College",
+    "date": "2026-11-05",
+    "time": "8:00 PM - 10:00 PM",
     "tags": []
   },
   {
@@ -2674,116 +2645,47 @@
     "tags": []
   },
   {
-    "title": "2026 LEARNING ACADEMY: LEARNING, LEADING, AND ADAPTING FOR SUCCESS",
-    "link": "https://www.gc.cuny.edu/events/2026-learning-academy-learning-leading-and-adapting-success",
+    "title": "GAMING TECHNOLOGY AND EDUCATION PANEL",
+    "link": "https://www.gc.cuny.edu/events/gaming-technology-and-education-panel",
     "college": "CUNY Graduate Center",
-    "date": "2026-11-04",
+    "date": "2026-11-14",
+    "time": "12:00 pm — 5:00 pm",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "E-COMMERCE SECURITY HOT TOPICS",
+    "link": "https://www.gc.cuny.edu/events/e-commerce-security-hot-topics",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-30",
+    "time": "2:00 pm — 5:00 pm",
+    "location": "TBD",
+    "tags": [
+      "CUNY Institute for Software Design and Development"
+    ]
+  },
+  {
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-20",
     "time": "",
-    "location": "Multiple Locations (see description for details)",
-    "tags": [
-      "Human Resources"
-    ]
-  },
-  {
-    "title": "GAUSSIANS, GROUPS, AND RENORMALIZATION",
-    "link": "https://www.gc.cuny.edu/events/gaussians-groups-and-renormalization",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-04",
-    "time": "2:00 pm — 3:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Computer Science",
-      "Computer Science Seminar"
-    ]
-  },
-  {
-    "title": "MEET THE SENIOR STAFF",
-    "link": "https://www.gc.cuny.edu/events/meet-senior-staff-nov-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-04",
-    "time": "2:00 pm — 3:00 pm",
-    "location": "Café 365",
-    "tags": [
-      "President's Office"
-    ]
-  },
-  {
-    "title": "SLHS COLLOQUIUM: DR. ERICH JARVIS (NYU)",
-    "link": "https://www.gc.cuny.edu/events/slhs-colloquium-dr-erich-jarvis-nyu",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-04",
-    "time": "2:00 pm — 4:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Speech-Language-Hearing Sciences"
-    ]
-  },
-  {
-    "title": "BOOK TALK WITH LEHMAN COLLEGE PROFESSOR SARAH OHMER",
-    "link": "https://www.gc.cuny.edu/events/book-talk-lehman-college-professor-sarah-ohmer",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-04",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "Online",
-    "tags": [
-      "CUNY Academy for the Humanities and Sciences"
-    ]
-  },
-  {
-    "title": "LINGUISTICS COLLOQUIUM WITH DR. JIYOUNG JANG (HANYANG UNIVERSITY, SOUTH KOREA)",
-    "link": "https://www.gc.cuny.edu/events/linguistics-colloquium-dr-jiyoung-jang-hanyang-university-south-korea",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-04",
-    "time": "4:45 pm — 6:30 pm",
-    "location": "C198",
-    "tags": [
-      "Linguistics"
-    ]
-  },
-  {
-    "title": "HISTORY OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/history-open-house-nov-4-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-04",
-    "time": "5:30 pm — 6:30 pm",
-    "location": "Online",
-    "tags": [
-      "History",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "BEYOND DREAMERS: UNDOCUMENTED YOUTH IMAGINING FUTURES",
-    "link": "https://www.gc.cuny.edu/events/beyond-dreamers-undocumented-youth-imagining-futures",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-04",
-    "time": "6:00 pm — 8:00 pm",
     "location": "9100: Skylight Room",
     "tags": [
-      "Center for Place, Culture and Politics"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "COMPUTER SCIENCE OPEN HOUSE FOR FALL 2027 ENROLLMENT",
-    "link": "https://www.gc.cuny.edu/events/computer-science-open-house-fall-2027-enrollment",
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
     "college": "CUNY Graduate Center",
-    "date": "2026-11-04",
-    "time": "6:30 pm — 8:30 pm",
-    "location": "4102: Science Center",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
     "tags": [
-      "Computer Science",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "RETHINKING THE RULE OF LAW IN LATIN AMERICA: JUDICIAL SYSTEMS AT A CROSSROADS",
-    "link": "https://www.gc.cuny.edu/events/rethinking-rule-law-latin-america-judicial-systems-crossroads",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-05",
-    "time": "9:00 am — 5:00 pm",
-    "location": "9100: Skylight Room",
-    "tags": [
-      "Bildner Center for Western Hemisphere Studies"
+      "Committee on Globalization and Social Change"
     ]
   }
 ]
