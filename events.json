@@ -1,15 +1,5 @@
 [
   {
-    "title": "Diwali",
-    "link": "https://www.mec.cuny.edu/event/diwali-2026/",
-    "college": "Medgar Evers College",
-    "date": "2026-11-08",
-    "time": "08:00 AM - 05:00 PM",
-    "tags": [
-      "Religous and Ethnic Holidays"
-    ]
-  },
-  {
     "title": "Transfer Fair One Stop Shop",
     "link": "https://www.mec.cuny.edu/event/transfer-fair-one-stop-shop/",
     "college": "Medgar Evers College",
@@ -2356,121 +2346,47 @@
     "tags": []
   },
   {
-    "title": "CONCERT: RATHAUS FESTIVAL",
-    "link": "https://www.gc.cuny.edu/events/concert-rathaus-festival",
+    "title": "GAMING TECHNOLOGY AND EDUCATION PANEL",
+    "link": "https://www.gc.cuny.edu/events/gaming-technology-and-education-panel",
     "college": "CUNY Graduate Center",
-    "date": "2026-11-08",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "Hybrid (see description for details)",
+    "date": "2026-11-14",
+    "time": "12:00 pm — 5:00 pm",
+    "location": "TBD",
     "tags": [
-      "Music"
+      "CUNY Institute for Software Design and Development"
     ]
   },
   {
-    "title": "2026 MUSIC HAS POWER® SYMPOSIUM & AWARDS",
-    "link": "https://www.gc.cuny.edu/events/2026-music-has-powerr-symposium-awards",
+    "title": "E-COMMERCE SECURITY HOT TOPICS",
+    "link": "https://www.gc.cuny.edu/events/e-commerce-security-hot-topics",
     "college": "CUNY Graduate Center",
-    "date": "2026-11-09",
-    "time": "12:00 pm — 5:30 pm",
-    "location": "Entire Concourse Level",
+    "date": "2026-11-30",
+    "time": "2:00 pm — 5:00 pm",
+    "location": "TBD",
     "tags": [
-      "Advanced Science Research Center"
+      "CUNY Institute for Software Design and Development"
     ]
   },
   {
-    "title": "BOOK TALK WITH BMCC PROFESSOR PERRY BALMAT",
-    "link": "https://www.gc.cuny.edu/events/book-talk-bmcc-professor-perry-balmat",
+    "title": "CONFRONTING RACIAL CAPITALISM: THE BLACK RADICAL TRADITION AND THE CULTURES OF LIBERATION",
+    "link": "https://www.gc.cuny.edu/events/confronting-racial-capitalism-black-radical-tradition-and-cultures-liberation",
     "college": "CUNY Graduate Center",
-    "date": "2026-11-09",
-    "time": "4:00 pm — 6:00 pm",
-    "location": "9207",
+    "date": "2026-11-20",
+    "time": "",
+    "location": "9100: Skylight Room",
     "tags": [
-      "CUNY Academy for the Humanities and Sciences"
+      "Committee on Globalization and Social Change"
     ]
   },
   {
-    "title": "GREEK TRAGEDY TODAY: TROJAN WOMEN",
-    "link": "https://www.gc.cuny.edu/events/greek-tragedy-today-trojan-women",
+    "title": "ON THE EMPIRE OF NECESSITY: SLAVERY, FREEDOM, AND DECEPTION IN THE NEW WORLD",
+    "link": "https://www.gc.cuny.edu/events/empire-necessity-slavery-freedom-and-deception-new-world",
     "college": "CUNY Graduate Center",
-    "date": "2026-11-09",
-    "time": "6:30 pm — 8:30 pm",
-    "location": "1218: Segal Theatre",
+    "date": "2026-12-04",
+    "time": "6:00 pm",
+    "location": "9205",
     "tags": [
-      "Martin E. Segal Theatre Center",
-      "Arts"
-    ]
-  },
-  {
-    "title": "BOOK TALK: BEFORE GENDER BY ELI ERLICK",
-    "link": "https://www.gc.cuny.edu/events/book-talk-gender-eli-erlick",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-10",
-    "time": "4:30 pm — 6:30 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Women's and Gender Studies",
-      "Center for the Humanities",
-      "Center for the Study of Women and Society"
-    ]
-  },
-  {
-    "title": "PH.D. IN THEATRE AND PERFORMANCE OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/phd-theatre-and-performance-open-house-nov-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-10",
-    "time": "5:30 pm — 7:00 pm",
-    "location": "3111: Theatre Green Room",
-    "tags": [
-      "Theatre and Performance",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "ECONOMICS PH.D. PROGRAM - NOVEMBER OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/economics-phd-program-november-open-house-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-11",
-    "time": "8:00 am — 9:30 am",
-    "location": "Online",
-    "tags": [
-      "Economics",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "DRUPAL TRAINING - BASICS",
-    "link": "https://www.gc.cuny.edu/events/drupal-training-basics-nov-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-11",
-    "time": "10:00 am — 11:30 am",
-    "location": "Online",
-    "tags": [
-      "Communications and Marketing"
-    ]
-  },
-  {
-    "title": "PRIVACY CONSIDERATIONS FOR TEACHING ON OPEN PLATFORMS",
-    "link": "https://www.gc.cuny.edu/events/privacy-considerations-teaching-open-platforms",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-11",
-    "time": "1:00 pm — 2:30 pm",
-    "location": "Online",
-    "tags": [
-      "Teaching & Learning Center"
-    ]
-  },
-  {
-    "title": "CUNY CENTRAL AI PROJECTS WORKSHOP",
-    "link": "https://www.gc.cuny.edu/events/cuny-central-ai-projects-workshop",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-11",
-    "time": "2:00 pm — 3:00 pm",
-    "location": "4102: Science Center",
-    "tags": [
-      "Computer Science",
-      "Data Science",
-      "Computer Science Seminar",
-      "Data Science Seminar"
+      "Committee on Globalization and Social Change"
     ]
   }
 ]
