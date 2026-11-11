@@ -789,24 +789,6 @@
     ]
   },
   {
-    "title": "Academic Info Session: Computer Science",
-    "link": "https://www.hunter.cuny.edu/event/academic-info-session-computer-science/",
-    "college": "Hunter College",
-    "date": "2026-11-11",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Employers Panel",
-    "link": "https://www.hunter.cuny.edu/event/employers-panel/",
-    "college": "Hunter College",
-    "date": "2026-11-11",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": []
-  },
-  {
     "title": "OOA Outing: Fantasma at Primary Stages",
     "link": "https://www.hunter.cuny.edu/event/ooa-outing-fantasma-at-primary-stages/",
     "college": "Hunter College",
@@ -960,16 +942,6 @@
     ]
   },
   {
-    "title": "La Cocina",
-    "link": "https://www.hunter.cuny.edu/event/la-cocina/",
-    "college": "Hunter College",
-    "date": "2026-11-17",
-    "time": "06:00 PM - 05:00 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
     "title": "La Cocina Performance #1",
     "link": "https://www.hunter.cuny.edu/event/la-cocina-performance-1/",
     "college": "Hunter College",
@@ -1066,13 +1038,13 @@
     "tags": []
   },
   {
-    "title": "Free Workshop: Microsoft Excel Orientation (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/free-workshop-microsoft-excel-orientation-students-only-7/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-11",
-    "time": "02:00 PM - 03:00 PM",
+    "title": "Undergraduate Nutrition Program Information Sessions (NFS and NW) Fall 2026",
+    "link": "https://www.hunter.cuny.edu/event/undergraduate-nutrition-program-information-sessions-nfs-and-nw-fall-2026-3/",
+    "college": "Hunter College",
+    "date": "2026-11-20",
+    "time": "12:30 PM - 01:30 PM",
     "tags": [
-      "Learning Resource Center"
+      "Open Houses"
     ]
   },
   {
@@ -1430,6 +1402,20 @@
     ]
   },
   {
+    "title": "Pride Month: Trans Day of Remembrance 2026",
+    "link": "https://www.bmcc.cuny.edu/event/pride-month-trans-day-of-remembrance-2026/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-20",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "LGBTQ Pride Month",
+      "Pride Center",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "Academic Standing",
     "link": "https://www.bcc.cuny.edu/event/academic-standing-5/",
     "college": "Bronx Community College",
@@ -1690,6 +1676,24 @@
     "college": "Lehman College",
     "date": "2026-11-11",
     "time": "5:30 PM - 6:30 PM",
+    "tags": []
+  },
+  {
+    "title": "MS Outlook",
+    "link": "https://events.cuny.edu/cec/ms-outlook/",
+    "college": "College of Staten Island",
+    "date": "2026-11-12",
+    "time": "11:00 AM - 12:00 PM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "Open Source and Innovation, But of Knitters?!",
+    "link": "https://events.cuny.edu/cec/open-source-and-innovation-but-of-knitters/",
+    "college": "The City College of New York",
+    "date": "2026-11-12",
+    "time": "12:15 PM - 1:45 PM",
     "tags": []
   },
   {
@@ -2322,6 +2326,166 @@
     "college": "Macaulay Honors College",
     "date": "2027-03-19",
     "time": "6:00PM",
+    "tags": []
+  },
+  {
+    "title": "V-READY Nov 11",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-nov11",
+    "college": "York College",
+    "date": "2026-11-11",
+    "time": "2:30 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "English Department Open House",
+    "link": "https://www.york.cuny.edu/events/english-department-open-house",
+    "college": "York College",
+    "date": "2026-11-11",
+    "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
+    "college": "York College",
+    "date": "2026-11-12",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
+    "college": "York College",
+    "date": "2026-11-12",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "History of The Tuskegee Airmen Panel Discussion",
+    "link": "https://www.york.cuny.edu/events/history-of-the-tuskegee-airmen-panel-discussion",
+    "college": "York College",
+    "date": "2026-11-12",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "AI Policy Hackathon: Your Voice. Your Ideas. York's AI Future!",
+    "link": "https://www.york.cuny.edu/events/ai-policy-hackathon-your-voice-your-ideas-yorks-ai-future",
+    "college": "York College",
+    "date": "2026-11-12",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Workshop: AI x Magic: The Gathering",
+    "link": "https://www.york.cuny.edu/mathematics-computer-science/ucrc/ai-x-magic",
+    "college": "York College",
+    "date": "2026-11-12",
+    "time": "5:30 PM - 6:15 PM",
+    "tags": []
+  },
+  {
+    "title": "Economics Info Session (Fall 2026 Thurs)",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-economics-information-session",
+    "college": "York College",
+    "date": "2026-11-12",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Evening",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
+    "college": "York College",
+    "date": "2026-11-12",
+    "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Basketball vs. Rutgers University-Newark",
+    "link": "https://www.york.cuny.edu/events/2026/w-basketball-vs-rutgers-newark-11122026",
+    "college": "York College",
+    "date": "2026-11-12",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Basketball vs. Connecticut College",
+    "link": "https://www.york.cuny.edu/events/2026/m-basketball-vs-connecticut-11122026",
+    "college": "York College",
+    "date": "2026-11-13",
+    "time": "12:00 AM - 2:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Fridays with CSD",
+    "link": "https://www.york.cuny.edu/events/fridays-with-csd",
+    "college": "York College",
+    "date": "2026-11-13",
+    "time": "3:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-11-13",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "BUS ADMIN Info Session (Nov 2026 Fri)",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/nov-2026-bus-admin-info-session",
+    "college": "York College",
+    "date": "2026-11-13",
+    "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "BUS ADMIN Info Session (Fa' 26 Mon)",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-monday-bus-admin-info-session",
+    "college": "York College",
+    "date": "2026-11-16",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "HRM Information Session - Winter 26-27",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/human-resource-management-info-session-2",
+    "college": "York College",
+    "date": "2026-11-16",
+    "time": "6:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Monday Evening",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-monday-evening-fall-2026",
+    "college": "York College",
+    "date": "2026-11-16",
+    "time": "8:30 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Scholarships 101",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarships-101",
+    "college": "York College",
+    "date": "2026-11-16",
+    "time": "9:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Aviation Information Session (Fa' 26 Wed)",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fa-26-wed-aviation-information-session",
+    "college": "York College",
+    "date": "2026-11-25",
+    "time": "5:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "ACC and FINC Info Session (Fa' 26)",
+    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-acc-finc-information-session",
+    "college": "York College",
+    "date": "2026-12-03",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
