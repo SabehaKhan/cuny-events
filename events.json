@@ -736,6 +736,17 @@
     ]
   },
   {
+    "title": "CCSD Final Exam Jam",
+    "link": "https://cg.guttman.cuny.edu/rsvp?id=377631",
+    "college": "Guttman Community College",
+    "date": "2026-12-04",
+    "time": "06:00 PM - 09:00 PM",
+    "tags": [
+      "EMSA",
+      "Educational/Awareness"
+    ]
+  },
+  {
     "title": "Avengers Assemble! A UMOC Movie Meetup",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377341",
     "college": "Guttman Community College",
@@ -1726,6 +1737,14 @@
     "tags": []
   },
   {
+    "title": "ColorStack Baruch x Ideadrawn",
+    "link": "https://baruch.event.cuny.edu/events/gkvOPApmZQEXDAXjPoEb/E9otxTYiaExnoyDJ3mML",
+    "college": "Baruch College",
+    "date": "2026-11-12",
+    "time": "12:30PM",
+    "tags": []
+  },
+  {
     "title": "Zotero Citation Management Workshop (via Zoom)",
     "link": "https://baruch.event.cuny.edu/events/DrW9mu0xRtSyRI77IC6o/JUMkGdrmI45nbytxyaLG",
     "college": "Baruch College",
@@ -1774,11 +1793,27 @@
     "tags": []
   },
   {
+    "title": "Becker Ambassador Workshop",
+    "link": "https://baruch.event.cuny.edu/events/AFr0Y5kJpic1lVDA4cXp/L5bQIqYtTW4awdypW7oz",
+    "college": "Baruch College",
+    "date": "2026-11-16",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
     "title": "Jewish learning fellowship",
     "link": "https://baruch.event.cuny.edu/events/bvzZw8HNVeQKUEu73GWS/upai3KTPFbATFvVZZSlJ",
     "college": "Baruch College",
     "date": "2026-11-16",
     "time": "4:30PM",
+    "tags": []
+  },
+  {
+    "title": "Roll With Grace",
+    "link": "https://baruch.event.cuny.edu/events/eHOVSktodXduJwhajQeN/DG6NAwF3DCHCSdzm07PI",
+    "college": "Baruch College",
+    "date": "2026-11-17",
+    "time": "12:00PM",
     "tags": []
   },
   {
@@ -1835,6 +1870,14 @@
     "college": "Baruch College",
     "date": "2026-11-18",
     "time": "5:00PM",
+    "tags": []
+  },
+  {
+    "title": "Workshop",
+    "link": "https://baruch.event.cuny.edu/events/NZri2PVFKpXSW8JvvxLv/OZzXMpZShsjUWUCoU8At",
+    "college": "Baruch College",
+    "date": "2026-11-18",
+    "time": "6:00PM",
     "tags": []
   },
   {
@@ -1982,6 +2025,38 @@
     "tags": []
   },
   {
+    "title": "Common Ground Info Table",
+    "link": "https://hostos.event.cuny.edu/events/jWpCBE5tl26cVq8Yp9RY/saTX2b214BTbDW77GAKK",
+    "college": "Hostos Community College",
+    "date": "2026-11-19",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "Tabling",
+    "link": "https://hostos.event.cuny.edu/events/keSwIE5OwPccRuerOpwu/93esEj1wv0ogHKfeqOTi12",
+    "college": "Hostos Community College",
+    "date": "2026-11-19",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Meet and Greet Common Ground",
+    "link": "https://hostos.event.cuny.edu/events/QnIlGRbCXsDK519w60ko/uL65xItl3Q81uOboqpeh",
+    "college": "Hostos Community College",
+    "date": "2026-11-19",
+    "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Rainbow Club Movie Night 1",
+    "link": "https://hostos.event.cuny.edu/events/zL6u2236j0Yf7wuVylnl/GhfAJoG7Q2zw6sDuyaDO",
+    "college": "Hostos Community College",
+    "date": "2026-11-19",
+    "time": "3:30PM",
+    "tags": []
+  },
+  {
     "title": "In-Person Graduate Admissions Open House",
     "link": "https://sph.cuny.edu/event/in-person-open-house/",
     "college": "CUNY School of Public Health",
@@ -2102,6 +2177,22 @@
     "tags": []
   },
   {
+    "title": "Art, Archives, and Indigenous Botanical Knowledge. A Conversation with Blanka Amezkua and Cynthia Santos Briones",
+    "link": "https://www.lehman.edu/events/2026/Art-Archives-and-Indigenous-Botanical-Knowledge-A-Conversation-with-Blanka-Amezkua-and-Cynthia-Santos-Briones.php",
+    "college": "Lehman College",
+    "date": "2026-11-13",
+    "time": "3:00 PM- 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "OPEN HOUSE: Lead in Business",
+    "link": "https://www.lehman.edu/events/2026/OPEN-HOUSE-Lead-in-Business.php",
+    "college": "Lehman College",
+    "date": "2026-11-14",
+    "time": "9:00 AM- 12:30 PM",
+    "tags": []
+  },
+  {
     "title": "Charting Your Own Path: A Macaulay CUNY BA Alumni & Student Celebration",
     "link": "https://macaulay.cuny.edu/calendar-of-events/charting-your-own-path-a-macaulay-cuny-ba-alumni-student-celebration/",
     "college": "Macaulay Honors College",
@@ -2166,155 +2257,122 @@
     "tags": []
   },
   {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
-    "college": "York College",
+    "title": "DREAMS. WISHES. HOPES: A GLOBAL CHILDHOOD CONFERENCE",
+    "link": "https://www.gc.cuny.edu/events/dreams-wishes-hopes-global-childhood-conference",
+    "college": "CUNY Graduate Center",
     "date": "2026-11-12",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
+    "time": "",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Urban Education",
+      "Center for the Humanities",
+      "Humanities and Social Sciences"
+    ]
   },
   {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
-    "college": "York College",
+    "title": "FREE HIV AND HEP C TESTING FOR STUDENTS - NOVEMBER 12TH",
+    "link": "https://www.gc.cuny.edu/events/free-hiv-and-hep-c-testing-students-november-12th",
+    "college": "CUNY Graduate Center",
     "date": "2026-11-12",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
+    "time": "11:00 am — 2:00 pm",
+    "location": "Multiple Locations (see description for details)",
+    "tags": [
+      "Wellness Center",
+      "Student Health Services"
+    ]
   },
   {
-    "title": "History of The Tuskegee Airmen Panel Discussion",
-    "link": "https://www.york.cuny.edu/events/history-of-the-tuskegee-airmen-panel-discussion",
-    "college": "York College",
+    "title": "\"TAHKOX: INDIGENOUS STAGES\" LAUNCH OF A NEW ONLINE JOURNAL",
+    "link": "https://www.gc.cuny.edu/events/tahkox-indigenous-stages-launch-new-online-journal",
+    "college": "CUNY Graduate Center",
     "date": "2026-11-12",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
+    "time": "2:00 pm — 9:00 pm",
+    "location": "1218: Segal Theatre",
+    "tags": [
+      "Martin E. Segal Theatre Center"
+    ]
   },
   {
-    "title": "AI Policy Hackathon: Your Voice. Your Ideas. York's AI Future!",
-    "link": "https://www.york.cuny.edu/events/ai-policy-hackathon-your-voice-your-ideas-yorks-ai-future",
-    "college": "York College",
+    "title": "GEOS COLLOQUIUM: DR. YEUMEI YE",
+    "link": "https://www.gc.cuny.edu/events/geos-colloquium-dr-yeumei-ye",
+    "college": "CUNY Graduate Center",
     "date": "2026-11-12",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
+    "time": "4:15 pm — 6:15 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Earth and Environmental Sciences"
+    ]
   },
   {
-    "title": "Workshop: AI x Magic: The Gathering",
-    "link": "https://www.york.cuny.edu/mathematics-computer-science/ucrc/ai-x-magic",
-    "college": "York College",
+    "title": "FALL 2026 AUDIOLOGY, AU.D. OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/fall-2026-audiology-aud-open-house",
+    "college": "CUNY Graduate Center",
     "date": "2026-11-12",
-    "time": "5:30 PM - 6:15 PM",
-    "tags": []
+    "time": "5:00 pm — 7:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Audiology",
+      "Admissions"
+    ]
   },
   {
-    "title": "Economics Info Session (Fall 2026 Thurs)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-economics-information-session",
-    "college": "York College",
+    "title": "WOMEN'S AND GENDER STUDIES M.A. PROGRAM OPEN HOUSE",
+    "link": "https://www.gc.cuny.edu/events/womens-and-gender-studies-ma-program-open-house",
+    "college": "CUNY Graduate Center",
     "date": "2026-11-12",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
+    "time": "6:00 pm — 8:00 pm",
+    "location": "Online",
+    "tags": [
+      "Women's and Gender Studies",
+      "Center for the Study of Women and Society",
+      "Admissions"
+    ]
   },
   {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
-    "college": "York College",
+    "title": "DEEP DIVE: LISTENING TO SOLANGE",
+    "link": "https://www.gc.cuny.edu/events/deep-dive-listening-solange",
+    "college": "CUNY Graduate Center",
     "date": "2026-11-12",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
+    "time": "6:30 pm — 7:45 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Public Programs",
+      "GC Presents",
+      "Arts"
+    ]
   },
   {
-    "title": "Women’s Basketball vs. Rutgers University-Newark",
-    "link": "https://www.york.cuny.edu/events/2026/w-basketball-vs-rutgers-newark-11122026",
-    "college": "York College",
+    "title": "NEW YORK CITY ARMS THE WORLD, 1865-1914",
+    "link": "https://www.gc.cuny.edu/events/new-york-city-arms-world-1865-1914",
+    "college": "CUNY Graduate Center",
     "date": "2026-11-12",
-    "time": "10:00 PM - 12:00 AM",
-    "tags": []
+    "time": "6:30 pm — 8:00 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "History"
+    ]
   },
   {
-    "title": "Men’s Basketball vs. Connecticut College",
-    "link": "https://www.york.cuny.edu/events/2026/m-basketball-vs-connecticut-11122026",
-    "college": "York College",
-    "date": "2026-11-13",
-    "time": "12:00 AM - 2:00 AM",
-    "tags": []
+    "title": "POLITICAL PROSCRIPTION AND THE RISE OF THE FAR RIGHT: ARGENTINA AND BRAZIL UNDER MILEI AND BOLSONARO",
+    "link": "https://www.gc.cuny.edu/events/political-proscription-and-rise-far-right-argentina-and-brazil-under-milei-and-bolsonaro",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-12",
+    "time": "6:30 pm — 8:30 pm",
+    "location": "9207",
+    "tags": [
+      "Center for Latin American, Caribbean & Latino Studies"
+    ]
   },
   {
-    "title": "Fridays with CSD",
-    "link": "https://www.york.cuny.edu/events/fridays-with-csd",
-    "college": "York College",
-    "date": "2026-11-13",
-    "time": "3:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-11-13",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Exercise Science Information Session",
-    "link": "https://www.york.cuny.edu/events/exercise-science-information-session",
-    "college": "York College",
-    "date": "2026-11-13",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BUS ADMIN Info Session (Nov 2026 Fri)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/nov-2026-bus-admin-info-session",
-    "college": "York College",
-    "date": "2026-11-13",
-    "time": "9:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BUS ADMIN Info Session (Fa' 26 Mon)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-monday-bus-admin-info-session",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HRM Information Session - Winter 26-27",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/human-resource-management-info-session-2",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Monday Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-monday-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "8:30 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Scholarships 101",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarships-101",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "9:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Aviation Information Session (Fa' 26 Wed)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fa-26-wed-aviation-information-session",
-    "college": "York College",
-    "date": "2026-11-25",
-    "time": "5:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ACC and FINC Info Session (Fa' 26)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-acc-finc-information-session",
-    "college": "York College",
-    "date": "2026-12-03",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
+    "title": "POLITICAL SCIENCE OPEN HOUSE (M.A. & PH.D.)",
+    "link": "https://www.gc.cuny.edu/events/political-science-open-house-ma-phd-nov-2026",
+    "college": "CUNY Graduate Center",
+    "date": "2026-11-12",
+    "time": "6:30 pm — 8:30 pm",
+    "location": "Hybrid (see description for details)",
+    "tags": [
+      "Political Science",
+      "Admissions"
+    ]
   }
 ]
