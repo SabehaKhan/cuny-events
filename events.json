@@ -30,6 +30,22 @@
     ]
   },
   {
+    "title": "Akua Allrich Jazzy Jazz Concert",
+    "link": "https://www.mec.cuny.edu/event/akua-allrich-jazzy-jazz-concert/",
+    "college": "Medgar Evers College",
+    "date": "2026-11-19",
+    "time": "04:30 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Medgar Evers College Educational Foundation, Inc. Gala",
+    "link": "https://www.mec.cuny.edu/event/medgar-evers-college-educational-foundation-inc-gala/",
+    "college": "Medgar Evers College",
+    "date": "2026-11-19",
+    "time": "06:00 PM - 09:00 PM",
+    "tags": []
+  },
+  {
     "title": "CTLE Virtual Workshop: Credit for Prior Learning (CPL)",
     "link": "https://www.mec.cuny.edu/event/ctle-virtual-workshop-credit-for-prior-leaning/",
     "college": "Medgar Evers College",
@@ -715,16 +731,6 @@
     ]
   },
   {
-    "title": "The Power of Mindfulness – Counseling Workshop",
-    "link": "https://www.hunter.cuny.edu/event/the-power-of-mindfulness-counseling-workshop-6/",
-    "college": "Hunter College",
-    "date": "2026-11-13",
-    "time": "12:00 PM - 02:00 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "Archiving Home: A Community of Practice",
     "link": "https://www.hunter.cuny.edu/event/archiving-home-a-community-of-practice/",
     "college": "Hunter College",
@@ -834,8 +840,8 @@
     ]
   },
   {
-    "title": "La Cocina Performance #1",
-    "link": "https://www.hunter.cuny.edu/event/la-cocina-performance-1/",
+    "title": "La Cocina Performance",
+    "link": "https://www.hunter.cuny.edu/event/la-cocina-performance-nov-17/",
     "college": "Hunter College",
     "date": "2026-11-17",
     "time": "07:00 PM - 09:00 PM",
@@ -978,6 +984,16 @@
     "date": "2026-11-20",
     "time": "07:00 PM - 09:00 PM",
     "tags": []
+  },
+  {
+    "title": "Hunter College Fall ′26 Dance Concert",
+    "link": "https://www.hunter.cuny.edu/event/hunter-college-fall-%e2%80%b226-dance-concert/2026-11-20/",
+    "college": "Hunter College",
+    "date": "2026-11-20",
+    "time": "07:30 PM - 08:30 PM",
+    "tags": [
+      "Performing Arts & Film"
+    ]
   },
   {
     "title": "Shirley Fiterman Art Center: Panel discussion and print demonstration on William Majors: Making A Mark",
@@ -1604,13 +1620,13 @@
     ]
   },
   {
-    "title": "Media and Literary Studies: Past, Present and Future – A conversation in the Rifkind Center series about the humanities",
-    "link": "https://events.cuny.edu/cec/media-and-literary-studies-past-present-and-future-a-conversation-in-the-rifkind-center-series-about-the-humanities/",
+    "title": "Salzberg Seminar: Dimitrios Giannakoudakis, Light Meets Sound: Engineering Catalysts for Sustainable Chemical Transformations",
+    "link": "https://events.cuny.edu/cec/salzberg-seminar-dimitrios-giannakoudakis-light-meets-sound-engineering-catalysts-for-sustainable-chemical-transformations/",
     "college": "The City College of New York",
     "date": "2026-11-16",
-    "time": "5:00 PM - 6:30 PM",
+    "time": "12:00 PM - 1:00 PM",
     "tags": [
-      "Rifkind Center"
+      "Salzberg Seminar"
     ]
   },
   {
@@ -1998,19 +2014,19 @@
     "tags": []
   },
   {
-    "title": "Lehman College Tech Day",
-    "link": "https://www.lehman.edu/events/2026/Lehman-College-Tech-Day-1.php",
-    "college": "Lehman College",
-    "date": "2026-11-13",
-    "time": "1:00 PM- 5:00 PM",
-    "tags": []
-  },
-  {
     "title": "Sound Design Workshop with Madre Guía",
-    "link": "https://www.lehman.edu/events/2026/Sound-Design-Workshop-with-Madre-Guia-1.php",
+    "link": "https://www.lehman.edu/events/2026/Sound-Design-Workshop-with-Madre-Guia.php",
     "college": "Lehman College",
     "date": "2026-11-13",
     "time": "1:00 PM- 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Lehman College Tech Day",
+    "link": "https://www.lehman.edu/events/2026/Lehman-College-Tech-Day.php",
+    "college": "Lehman College",
+    "date": "2026-11-13",
+    "time": "1:00 PM- 5:00 PM",
     "tags": []
   },
   {
@@ -2132,276 +2148,5 @@
     "date": "2027-02-25",
     "time": "6:00PM",
     "tags": []
-  },
-  {
-    "title": "Fridays with CSD",
-    "link": "https://www.york.cuny.edu/events/fridays-with-csd",
-    "college": "York College",
-    "date": "2026-11-13",
-    "time": "3:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
-    "college": "York College",
-    "date": "2026-11-13",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Exercise Science Information Session",
-    "link": "https://www.york.cuny.edu/events/exercise-science-information-session",
-    "college": "York College",
-    "date": "2026-11-13",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BUS ADMIN Info Session (Nov 2026 Fri)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/nov-2026-bus-admin-info-session",
-    "college": "York College",
-    "date": "2026-11-13",
-    "time": "9:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BUS ADMIN Info Session (Fa' 26 Mon)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-monday-bus-admin-info-session",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Panel: Careers in Public Health",
-    "link": "https://www.york.cuny.edu/events/panel-careers-in-public-health-2",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HRM Information Session - Winter 26-27",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/human-resource-management-info-session-2",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Yoga Mondays",
-    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/yoga-mondays-4",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Writing Concisely: The Art of the 300-Word Essay 11/16",
-    "link": "https://www.york.cuny.edu/events/2026/writing-concisely-the-art-of-the-300-word-essay-4",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "8:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Monday Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-monday-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "8:30 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Scholarships 101",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarships-101",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "9:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Women’s Basketball vs. SUNY Old Westbury",
-    "link": "https://www.york.cuny.edu/events/2026/w-basketball-vs-old-westbury-11162026",
-    "college": "York College",
-    "date": "2026-11-16",
-    "time": "10:00 PM - 12:00 AM",
-    "tags": []
-  },
-  {
-    "title": "Men’s Basketball vs. Saint Elizabeth University",
-    "link": "https://www.york.cuny.edu/events/2026/m-basketball-vs-saint-elizabeth-11162026",
-    "college": "York College",
-    "date": "2026-11-17",
-    "time": "12:00 AM - 2:00 AM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-11-17",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-11-18",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Economics Info Session (Fall 2026 Thurs)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-economics-information-session",
-    "college": "York College",
-    "date": "2026-11-19",
-    "time": "7:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Aviation Information Session (Fa' 26 Wed)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fa-26-wed-aviation-information-session",
-    "college": "York College",
-    "date": "2026-11-25",
-    "time": "5:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ACC and FINC Info Session (Fa' 26)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-acc-finc-information-session",
-    "college": "York College",
-    "date": "2026-12-03",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ITS: NEW THEORETICAL APPROACHES FOR REAL TIME QUANTUM DYNAMICS",
-    "link": "https://www.gc.cuny.edu/events/its-new-theoretical-approaches-real-time-quantum-dynamics",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-13",
-    "time": "9:00 am — 5:00 pm",
-    "location": "4102: Science Center",
-    "tags": [
-      "Initiative for the Theoretical Sciences",
-      "ITS Symposium (Initiative for the Theoretical Sciences)"
-    ]
-  },
-  {
-    "title": "“THE GAME’S AFOOT!” RETHINKING LEARNING THROUGH PLAY",
-    "link": "https://www.gc.cuny.edu/events/games-afoot-rethinking-learning-through-play",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-13",
-    "time": "11:00 am — 12:30 pm",
-    "location": "Online",
-    "tags": [
-      "Teaching & Learning Center"
-    ]
-  },
-  {
-    "title": "THE GEOMETRY OF COCHAINS ON SAMPLED VIETORIS-RIPS COMPLEXES",
-    "link": "https://www.gc.cuny.edu/events/geometry-cochains-sampled-vietoris-rips-complexes",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-13",
-    "time": "",
-    "location": "4321: Computer Science Student Lounge",
-    "tags": [
-      "Computer Science",
-      "Computer Science Seminar"
-    ]
-  },
-  {
-    "title": "FRIDAYS@1: ROZ CHAST",
-    "link": "https://www.gc.cuny.edu/events/fridays1-roz-chast",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-13",
-    "time": "1:00 pm — 2:30 pm",
-    "location": "Online",
-    "tags": [
-      "Lifelong Peer Learning Program",
-      "Academic Initiatives and Strategic Innovation"
-    ]
-  },
-  {
-    "title": "SANDI COOPER & JEROME KRASE AWARDS CEREMONY",
-    "link": "https://www.gc.cuny.edu/events/sandi-cooper-jerome-krase-awards-ceremony",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-13",
-    "time": "1:00 pm — 2:30 pm",
-    "location": "9205",
-    "tags": [
-      "CUNY Academy for the Humanities and Sciences",
-      "Humanities and Social Sciences"
-    ]
-  },
-  {
-    "title": "ENGLISH STUDENT ASSOCIATION PRESENTS: THE ORALS",
-    "link": "https://www.gc.cuny.edu/events/english-student-association-presents-orals",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-13",
-    "time": "2:00 pm — 3:45 pm",
-    "location": "4406: English Student Lounge",
-    "tags": [
-      "English",
-      "Friday Forum"
-    ]
-  },
-  {
-    "title": "JOB SEARCH SERIES: CAREER PATHS IN THE DIGITAL HUMANITIES",
-    "link": "https://www.gc.cuny.edu/events/job-search-series-career-paths-digital-humanities",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-13",
-    "time": "4:00 pm — 5:30 pm",
-    "location": "4406: English Student Lounge",
-    "tags": [
-      "English",
-      "Friday Forum"
-    ]
-  },
-  {
-    "title": "ANTHROPOLOGY COLLOQUIUM: THE ARROGANT APE",
-    "link": "https://www.gc.cuny.edu/events/anthropology-colloquium-arrogant-ape",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-13",
-    "time": "4:15 pm — 6:15 pm",
-    "location": "C415A",
-    "tags": [
-      "Anthropology"
-    ]
-  },
-  {
-    "title": "SPECULATIVE TERRITORIES STORYING (DIS)ORIENTATION ACROSS TIME",
-    "link": "https://www.gc.cuny.edu/events/speculative-territories-storying-disorientation-across-time",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-13",
-    "time": "5:00 pm — 7:00 pm",
-    "location": "4116: LAILAC Student Lounge",
-    "tags": [
-      "Latin American, Iberian, and Latino Cultures",
-      "Arts"
-    ]
-  },
-  {
-    "title": "DEFENDING EDUCATION, BUILDING SOLIDARITY: RADICAL IMAGINATION ACROSS BORDERS",
-    "link": "https://www.gc.cuny.edu/events/defending-education-building-solidarity-radical-imagination-across-borders",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-13",
-    "time": "6:00 pm — 8:00 pm",
-    "location": "9100: Skylight Room",
-    "tags": [
-      "Middle Eastern Studies",
-      "Center for Place, Culture and Politics",
-      "Middle East and Middle Eastern American Center"
-    ]
   }
 ]
