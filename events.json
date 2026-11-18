@@ -1,15 +1,5 @@
 [
   {
-    "title": "Self Defense Workshop",
-    "link": "https://www.mec.cuny.edu/event/self-defense-workshop/",
-    "college": "Medgar Evers College",
-    "date": "2026-11-18",
-    "time": "11:00 AM - 01:00 PM",
-    "tags": [
-      "Public Safety"
-    ]
-  },
-  {
     "title": "CTLE Virtual Workshop: Maximizing Your Research Skills (Sage)",
     "link": "https://www.mec.cuny.edu/event/ctle-virtual-workshop-maximizing-your-research-skills-sage/",
     "college": "Medgar Evers College",
@@ -96,6 +86,16 @@
     ]
   },
   {
+    "title": "First-Generation Student Admissions Panel",
+    "link": "https://www.law.cuny.edu/event/first-generation-student-admissions-panel/",
+    "college": "CUNY School of Law",
+    "date": "2026-11-24",
+    "time": "06:00 PM - 07:15 PM",
+    "tags": [
+      "Panel Discussion"
+    ]
+  },
+  {
     "title": "CUNY Law Alumni Connection Series",
     "link": "https://www.law.cuny.edu/event/cuny-law-alumni-connection-series-dec26/",
     "college": "CUNY School of Law",
@@ -104,6 +104,26 @@
     "tags": [
       "Alumni",
       "Networking Event"
+    ]
+  },
+  {
+    "title": "Evening Student Admissions Panel",
+    "link": "https://www.law.cuny.edu/event/evening-student-admissions-panel/",
+    "college": "CUNY School of Law",
+    "date": "2026-12-08",
+    "time": "06:00 PM - 07:15 PM",
+    "tags": [
+      "Panel Discussion"
+    ]
+  },
+  {
+    "title": "Admissions - Faculty Fireside Chat",
+    "link": "https://www.law.cuny.edu/event/admissions-faculty-fireside-chat/",
+    "college": "CUNY School of Law",
+    "date": "2026-12-15",
+    "time": "06:00 PM - 07:15 PM",
+    "tags": [
+      "Panel Discussion"
     ]
   },
   {
@@ -622,59 +642,6 @@
     ]
   },
   {
-    "title": "Career Panel: Pathways in Earth and Environmental Sciences",
-    "link": "https://www.hunter.cuny.edu/event/career-panel-pathways-in-earth-and-environmental-sciences/",
-    "college": "Hunter College",
-    "date": "2026-11-18",
-    "time": "11:30 AM - 12:45 PM",
-    "tags": [
-      "Lectures",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Faculty & Staff Alumni Friendsgiving Celebration",
-    "link": "https://www.hunter.cuny.edu/event/faculty-staff-alumni-friendsgiving-celebration/",
-    "college": "Hunter College",
-    "date": "2026-11-18",
-    "time": "12:00 PM - 01:30 PM",
-    "tags": [
-      "Alumni Events"
-    ]
-  },
-  {
-    "title": "Ace That Interview!",
-    "link": "https://www.hunter.cuny.edu/event/ace-that-interview-11/",
-    "college": "Hunter College",
-    "date": "2026-11-18",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Career Center",
-      "Conferences & Workshops",
-      "Student Events"
-    ]
-  },
-  {
-    "title": "Geography Awareness Week Research Talks",
-    "link": "https://www.hunter.cuny.edu/event/geography-awareness-week-research-talks/",
-    "college": "Hunter College",
-    "date": "2026-11-18",
-    "time": "01:30 PM - 04:30 PM",
-    "tags": [
-      "Lectures"
-    ]
-  },
-  {
-    "title": "Fostering Healthy Relationships – Counseling Workshop",
-    "link": "https://www.hunter.cuny.edu/event/fostering-healthy-relationships-counseling-workshop-6/",
-    "college": "Hunter College",
-    "date": "2026-11-18",
-    "time": "02:30 PM - 03:45 PM",
-    "tags": [
-      "Student Events"
-    ]
-  },
-  {
     "title": "MS-IPND Graduate Nutrition Program Information Sessions",
     "link": "https://www.hunter.cuny.edu/event/ms-ipnd-graduate-nutrition-program-information-sessions-7-2-2/2026-11-18/",
     "college": "Hunter College",
@@ -703,6 +670,16 @@
     "tags": []
   },
   {
+    "title": "International Education Week",
+    "link": "https://www.hunter.cuny.edu/event/international-education-week-2026/2026-11-19/",
+    "college": "Hunter College",
+    "date": "2026-11-19",
+    "time": "12:00 PM - 01:30 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "10th Annual Health Professions & Biomedical Sciences Graduate School Fair",
     "link": "https://www.hunter.cuny.edu/event/10th-annual-health-professions-biomedical-sciences-graduate-school-fair/",
     "college": "Hunter College",
@@ -725,6 +702,16 @@
     ]
   },
   {
+    "title": "CUNY Tutor Corps Information Session",
+    "link": "https://www.hunter.cuny.edu/event/cuny-tutor-corps-information-session/",
+    "college": "Hunter College",
+    "date": "2026-11-19",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Student Events"
+    ]
+  },
+  {
     "title": "Graduate Admissions Information Session",
     "link": "https://www.hunter.cuny.edu/event/graduate-admissions-information-session-48/",
     "college": "Hunter College",
@@ -740,6 +727,16 @@
     "time": "07:00 PM - 09:00 PM",
     "tags": [
       "Performing Arts & Film"
+    ]
+  },
+  {
+    "title": "International Education Week",
+    "link": "https://www.hunter.cuny.edu/event/international-education-week-2026/2026-11-20/",
+    "college": "Hunter College",
+    "date": "2026-11-20",
+    "time": "12:00 PM - 01:30 PM",
+    "tags": [
+      "Student Events"
     ]
   },
   {
@@ -895,87 +892,36 @@
     ]
   },
   {
-    "title": "International Education Week: One World, Many Perspectives: Nursing in Jamaica",
-    "link": "https://www.bmcc.cuny.edu/event/international-education-week-one-world-many-perspectives-nursing-in-jamaica/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-18",
-    "time": "11:00 AM - 12:00 PM",
+    "title": "A Discussion with Foremost White House Reporter Maggie Haberman on “Regime Change: Inside the Imperial Presidency of Donald Trump”",
+    "link": "https://www.hunter.cuny.edu/event/a-discussion-with-foremost-white-house-reporter-maggie-haberman-on-regime-change-inside-the-imperial-presidency-of-donald-trump/",
+    "college": "Hunter College",
+    "date": "2026-11-23",
+    "time": "06:00 PM - 06:00 PM",
     "tags": [
-      "Diplomatic Engagement and Training",
-      "Evening-Weekend",
-      "Featured",
-      "Global Initiatives",
-      "Health Education",
-      "International Education Week",
-      "International Student Events/Workshops",
-      "Learning Academy",
-      "Nursing",
-      "Science",
-      "Social Sciences",
-      "Human Services and Criminal Justice"
+      "Lectures"
     ]
   },
   {
-    "title": "Healing Rhythms: Drumming Circle",
-    "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle-8/2026-11-18/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-18",
-    "time": "02:00 PM - 03:30 PM",
+    "title": "OOA Outing: Samson et Dalila at the Met Opera",
+    "link": "https://www.hunter.cuny.edu/event/ooa-outing-samson-et-dalila-at-the-met-opera/",
+    "college": "Hunter College",
+    "date": "2026-11-24",
+    "time": "10:00 AM - 02:05 PM",
     "tags": [
-      "Counseling Center",
-      "Music & Art",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Student Affairs"
+      "Performing Arts & Film"
     ]
   },
   {
     "title": "The BMCC Theatre Program Presents: Everybody",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-theatre-program-presents-everybody/2026-11-18/3/",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-theatre-program-presents-everybody/2026-11-18/2/",
     "college": "Borough of Manhattan Community College",
     "date": "2026-11-18",
-    "time": "02:00 PM - 03:30 PM",
+    "time": "07:00 PM - 08:30 PM",
     "tags": [
       "Featured",
       "Speech",
       "Communications and Theatre Arts",
       "Theatre"
-    ]
-  },
-  {
-    "title": "Jack Kent Cooke Foundation Undergraduate Transfer Scholarship Application Workshops",
-    "link": "https://www.bmcc.cuny.edu/event/jack-kent-cooke-foundation-undergraduate-transfer-scholarship-application-workshops-2/2026-11-18/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-18",
-    "time": "02:30 PM - 03:30 PM",
-    "tags": [
-      "Featured",
-      "Scholarships",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Free Workshop: Photoshop (Students Only)",
-    "link": "https://www.bmcc.cuny.edu/event/free-workshop-photoshop-students-only-4/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-18",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Learning Resource Center"
-    ]
-  },
-  {
-    "title": "Healing Through Hip-Hop and Creative Expression",
-    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression-7/2026-11-18/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-18",
-    "time": "03:00 PM - 05:00 PM",
-    "tags": [
-      "Counseling Center",
-      "Evening-Weekend",
-      "Featured",
-      "Student Affairs",
-      "Urban Male Leadership Academy (UMLA)"
     ]
   },
   {
@@ -1063,6 +1009,18 @@
       "Student Government Association",
       "Study Abroad",
       "Urban Male Leadership Academy (UMLA)"
+    ]
+  },
+  {
+    "title": "Jack Kent Cooke Foundation Undergraduate Transfer Scholarship Application Workshops",
+    "link": "https://www.bmcc.cuny.edu/event/jack-kent-cooke-foundation-undergraduate-transfer-scholarship-application-workshops-2/2026-11-19/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-19",
+    "time": "05:00 PM - 06:00 PM",
+    "tags": [
+      "Featured",
+      "Scholarships",
+      "Student Affairs"
     ]
   },
   {
@@ -1185,6 +1143,20 @@
     ]
   },
   {
+    "title": "Healing Rhythms: Drumming Circle",
+    "link": "https://www.bmcc.cuny.edu/event/healing-rhythms-drumming-circle-8/2026-11-25/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-25",
+    "time": "02:00 PM - 03:30 PM",
+    "tags": [
+      "Counseling Center",
+      "Music & Art",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Student Affairs"
+    ]
+  },
+  {
     "title": "International Students Admissions Session",
     "link": "https://www.bmcc.cuny.edu/event/international-students-admissions-session-7/",
     "college": "Borough of Manhattan Community College",
@@ -1194,6 +1166,20 @@
       "Admissions",
       "Featured",
       "International Student Events/Workshops"
+    ]
+  },
+  {
+    "title": "Healing Through Hip-Hop and Creative Expression",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hop-and-creative-expression-7/2026-11-30/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-30",
+    "time": "04:00 PM - 06:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Evening-Weekend",
+      "Featured",
+      "Student Affairs",
+      "Urban Male Leadership Academy (UMLA)"
     ]
   },
   {
@@ -1247,41 +1233,52 @@
     ]
   },
   {
-    "title": "Bronco Hope Market",
-    "link": "https://www.bcc.cuny.edu/event/bronco-hope-market-7/",
-    "college": "Bronx Community College",
-    "date": "2026-11-18",
-    "time": "10:00 AM - 05:00 PM",
+    "title": "Her Story in Songs: A Celebration of Music about Women",
+    "link": "https://www.bmcc.cuny.edu/event/her-story-in-songs-a-celebration-of-music-about-women/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-12-01",
+    "time": "07:30 PM - 09:00 PM",
     "tags": [
-      "Bronco Hope Market",
-      "Feature",
-      "Student Success"
+      "Center for Belonging and Inclusion",
+      "Evening-Weekend",
+      "Featured",
+      "Gender and Women's Studies",
+      "Music & Art"
     ]
   },
   {
-    "title": "BCC Admissions Application Workshop",
-    "link": "https://www.bcc.cuny.edu/event/application-workshop-4/",
-    "college": "Bronx Community College",
-    "date": "2026-11-18",
-    "time": "03:00 PM - 04:00 PM",
+    "title": "Take a Tour of CUNY BMCC",
+    "link": "https://www.bmcc.cuny.edu/event/take-a-tour-of-cuny-bmcc-6/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-12-02",
+    "time": "11:00 AM - 12:15 PM",
     "tags": [
-      "Admissions & Recruitment",
-      "Enrollment Management & Retention",
-      "Feature",
-      "Information Sessions"
+      "Admissions",
+      "Featured"
     ]
   },
   {
-    "title": "NYSOP @ BCC Information Session",
-    "link": "https://www.bcc.cuny.edu/event/nysop-bcc-information-session/",
-    "college": "Bronx Community College",
-    "date": "2026-11-18",
-    "time": "03:00 PM - 04:00 PM",
+    "title": "BMCC Stay Healthy: Wellness Wednesdays",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-stay-healthy-program-wellness-wednesdays/2026-12-02/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-12-02",
+    "time": "11:00 AM - 02:00 PM",
     "tags": [
-      "Admissions & Recruitment",
-      "Enrollment Management & Retention",
-      "Feature",
-      "Information Sessions"
+      "Health Services",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "BMCC Storytelling Open Mike",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-storytelling-open-mike/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-12-02",
+    "time": "02:00 PM - 04:00 PM",
+    "tags": [
+      "Featured",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Student Affairs"
     ]
   },
   {
@@ -1442,6 +1439,14 @@
     "tags": []
   },
   {
+    "title": "Senate Executive",
+    "link": "https://www.bcc.cuny.edu/event/senate-executive-5/",
+    "college": "Bronx Community College",
+    "date": "2026-12-07",
+    "time": "02:15 PM - 03:30 PM",
+    "tags": []
+  },
+  {
     "title": "Wellness Bingo",
     "link": "https://events.cuny.edu/cec/wellness-bingo/",
     "college": "College of Staten Island",
@@ -1530,12 +1535,14 @@
     ]
   },
   {
-    "title": "Culinary and Community Nutrition Major Information Session",
-    "link": "https://lehman.edu/events/2026/Culinary-and-Community-Nutrition-Major-Information-Session.php",
-    "college": "Lehman College",
-    "date": "2026-11-18",
-    "time": "5:00 PM - 6:00 PM",
-    "tags": []
+    "title": "2026 Langston Hughes Festival Honoring Jericho Brown And Celebrating the FIRE!! Centennial & SEEK’s 60th Anniversary",
+    "link": "https://events.cuny.edu/cec/2026-langston-hughes-festival-honoring-jericho-brown-and-celebrating-the-fire-centennial-seeks-60th-anniversary/",
+    "college": "The City College of New York",
+    "date": "2026-11-19",
+    "time": "10:00 AM - 7:30 PM",
+    "tags": [
+      "2026 Langston Hughes Festival"
+    ]
   },
   {
     "title": "Learning Commons Workshops",
@@ -2034,6 +2041,14 @@
     "tags": []
   },
   {
+    "title": "Symposium on Healthy Aging: Moving Through the Life Course",
+    "link": "https://www.lehman.edu/events/2026/Symposium-on-Healthy-Aging-Moving-Through-the-Life-Course.php",
+    "college": "Lehman College",
+    "date": "2026-11-18",
+    "time": "12:00 PM- 2:00 PM",
+    "tags": []
+  },
+  {
     "title": "Campus Construction Town Hall",
     "link": "https://www.lehman.edu/events/2026/Campus-Construction-Town-Hall.php",
     "college": "Lehman College",
@@ -2042,11 +2057,11 @@
     "tags": []
   },
   {
-    "title": "CultureFEST",
-    "link": "https://www.lehman.edu/events/2026/CultureFEST-1.php",
+    "title": "TWELFTH NIGHT : A Musical Adaptation of William Shakespeare's Twelfth Night  Conceived by Kwame Kwei-Armah and Shaina Taub",
+    "link": "https://www.lehman.edu/events/2026/TWELFTH-NIGHT--A-Musical-Adaptation-of-William-Shakespeares-Twelfth-Night-Conceived-by-Kwame-Kwei-Armah-and-Shaina-Taub-.php",
     "college": "Lehman College",
     "date": "2026-11-18",
-    "time": "4:00 PM- 6:00 PM",
+    "time": "4:00 PM- 8:00 PM",
     "tags": []
   },
   {
@@ -2058,11 +2073,11 @@
     "tags": []
   },
   {
-    "title": "TWELFTH NIGHT : A Musical Adaptation of William Shakespeare's Twelfth Night  Conceived by Kwame Kwei-Armah and Shaina Taub",
-    "link": "https://www.lehman.edu/events/2026/TWELFTH-NIGHT--A-Musical-Adaptation-of-William-Shakespeares-Twelfth-Night-Conceived-by-Kwame-Kwei-Armah-and-Shaina-Taub-.php",
+    "title": "CultureFEST",
+    "link": "https://www.lehman.edu/events/2026/CultureFEST-1.php",
     "college": "Lehman College",
     "date": "2026-11-18",
-    "time": "4:00 PM- 8:00 PM",
+    "time": "4:00 PM- 6:00 PM",
     "tags": []
   },
   {
@@ -2095,14 +2110,6 @@
     "college": "Lehman College",
     "date": "2026-11-19",
     "time": "1:30 PM- 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "TWELFTH NIGHT : A Musical Adaptation of William Shakespeare's Twelfth Night  Conceived by Kwame Kwei-Armah and Shaina Taub",
-    "link": "https://www.lehman.edu/events/2026/TWELFTH-NIGHT--A-Musical-Adaptation-of-William-Shakespeares-Twelfth-Night-Conceived-by-Kwame-Kwei-Armah-and-Shaina-Taub-.php?event_type=recurs_1",
-    "college": "Lehman College",
-    "date": "2026-11-19",
-    "time": "4:00 PM- 8:00 PM",
     "tags": []
   },
   {
@@ -2146,6 +2153,14 @@
     "tags": []
   },
   {
+    "title": "HSS Summer Premedical Internship 2027: Information Session",
+    "link": "https://macaulay.cuny.edu/calendar-of-events/hss-summer-premedical-internship-2027-information-session/",
+    "college": "Macaulay Honors College",
+    "date": "2026-12-18",
+    "time": "8:00 AM - 5:00PM",
+    "tags": []
+  },
+  {
     "title": "Supporting Excellence: an Equity, Inclusion, and Belonging Conference",
     "link": "https://macaulay.cuny.edu/calendar-of-events/supporting-excellence-conference/",
     "college": "Macaulay Honors College",
@@ -2170,51 +2185,11 @@
     "tags": []
   },
   {
-    "title": "City Nature Challenge Kickoff 2027",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/city-nature-challenge-kickoff/",
-    "college": "Macaulay Honors College",
-    "date": "2027-04-30",
-    "time": "10:00 AM - 12:00PM",
-    "tags": []
-  },
-  {
-    "title": "V-READY Nov 18",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/events/v-ready-nov18",
-    "college": "York College",
-    "date": "2026-11-18",
-    "time": "2:30 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
-    "college": "York College",
-    "date": "2026-11-18",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
-    "college": "York College",
-    "date": "2026-11-18",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
     "title": "Marketing Information Session - 11/18",
     "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/nov-18th-marketing-information-session",
     "college": "York College",
     "date": "2026-11-18",
     "time": "5:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-11-18",
-    "time": "8:00 PM - 10:00 PM",
     "tags": []
   },
   {
@@ -2231,6 +2206,22 @@
     "college": "York College",
     "date": "2026-11-18",
     "time": "10:00 PM - 9:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
+    "college": "York College",
+    "date": "2026-11-19",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Open Swimming",
+    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
+    "college": "York College",
+    "date": "2026-11-19",
+    "time": "4:00 PM - 6:00 PM",
     "tags": []
   },
   {
@@ -2263,6 +2254,22 @@
     "college": "York College",
     "date": "2026-11-19",
     "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Fresh Produce Day - November 19th",
+    "link": "https://www.york.cuny.edu/womens-center/fresh-produce-day-november-19th",
+    "college": "York College",
+    "date": "2026-11-19",
+    "time": "5:30 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "It's Fitness Time in the Fitness Center - Evening",
+    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
+    "college": "York College",
+    "date": "2026-11-19",
+    "time": "8:00 PM - 10:00 PM",
     "tags": []
   },
   {
