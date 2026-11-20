@@ -1,31 +1,5 @@
 [
   {
-    "title": "CTLE Virtual Workshop: Maximizing Your Research Skills (Sage)",
-    "link": "https://www.mec.cuny.edu/event/ctle-virtual-workshop-maximizing-your-research-skills-sage/",
-    "college": "Medgar Evers College",
-    "date": "2026-11-19",
-    "time": "02:00 PM - 03:00 PM",
-    "tags": [
-      "Center for Teaching and Learning Excellence"
-    ]
-  },
-  {
-    "title": "Akua Allrich Jazzy Jazz Concert",
-    "link": "https://www.mec.cuny.edu/event/akua-allrich-jazzy-jazz-concert/",
-    "college": "Medgar Evers College",
-    "date": "2026-11-19",
-    "time": "04:30 PM - 07:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Medgar Evers College Educational Foundation, Inc. Gala",
-    "link": "https://www.mec.cuny.edu/event/medgar-evers-college-educational-foundation-inc-gala/",
-    "college": "Medgar Evers College",
-    "date": "2026-11-19",
-    "time": "06:00 PM - 09:00 PM",
-    "tags": []
-  },
-  {
     "title": "CTLE Virtual Workshop: Credit for Prior Learning (CPL)",
     "link": "https://www.mec.cuny.edu/event/ctle-virtual-workshop-credit-for-prior-leaning/",
     "college": "Medgar Evers College",
@@ -306,14 +280,6 @@
     "tags": []
   },
   {
-    "title": "ARC Holiday Distribution",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/fa8a443c-58c6-461d-b23e-7063d5b7803b",
-    "college": "Kingsborough Community College",
-    "date": "2026-11-19",
-    "time": "04:00 PM - 08:00 PM",
-    "tags": []
-  },
-  {
     "title": "CUNY Transfer Application Workshop",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/2ec0ffe0-f759-4ba4-8296-9e06beb86f13",
     "college": "Kingsborough Community College",
@@ -474,14 +440,6 @@
     "tags": []
   },
   {
-    "title": "Career Pathways Through Education (Inside the School Building: Careers in Education)",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/4ea6840b-20b1-478f-815b-3c71556a7220",
-    "college": "Kingsborough Community College",
-    "date": "2026-11-19",
-    "time": "07:00 PM - 08:00 PM",
-    "tags": []
-  },
-  {
     "title": "🎱🏓 POOL & PING PONG TOURNAMENT – LET THE GAMES BEGIN!",
     "link": "https://cg.guttman.cuny.edu/rsvp?id=377613",
     "college": "Guttman Community College",
@@ -607,16 +565,6 @@
       "Social - Off-Campus",
       "United Men of Color",
       "Off-Campus"
-    ]
-  },
-  {
-    "title": "La Cocina Performance Honoring The Frederick Loewe Theater 50th Anniversary",
-    "link": "https://www.hunter.cuny.edu/event/la-cocina-performance-nov-19/",
-    "college": "Hunter College",
-    "date": "2026-11-19",
-    "time": "07:00 PM - 09:00 PM",
-    "tags": [
-      "Performing Arts & Film"
     ]
   },
   {
@@ -875,16 +823,15 @@
     ]
   },
   {
-    "title": "The BMCC Theatre Program Presents: Everybody",
-    "link": "https://www.bmcc.cuny.edu/event/bmcc-theatre-program-presents-everybody/2026-11-19/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-19",
-    "time": "07:00 PM - 08:30 PM",
+    "title": "Dancing & Singing with the Dean",
+    "link": "https://www.hunter.cuny.edu/event/dancing-singing-with-the-dean-19/",
+    "college": "Hunter College",
+    "date": "2026-12-02",
+    "time": "02:00 PM - 03:00 PM",
     "tags": [
-      "Featured",
-      "Speech",
-      "Communications and Theatre Arts",
-      "Theatre"
+      "Conferences & Workshops",
+      "Hunter@Home",
+      "Special Events"
     ]
   },
   {
@@ -941,6 +888,19 @@
       "Communications and Theatre Arts",
       "Student Affairs",
       "Study Abroad"
+    ]
+  },
+  {
+    "title": "The BMCC Theatre Program Presents: Everybody",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-theatre-program-presents-everybody/2026-11-20/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-11-20",
+    "time": "07:00 PM - 08:30 PM",
+    "tags": [
+      "Featured",
+      "Speech",
+      "Communications and Theatre Arts",
+      "Theatre"
     ]
   },
   {
@@ -1237,32 +1197,6 @@
     ]
   },
   {
-    "title": "Bronco Hope Market",
-    "link": "https://www.bcc.cuny.edu/event/bronco-hope-market-8/",
-    "college": "Bronx Community College",
-    "date": "2026-11-19",
-    "time": "11:00 AM - 06:30 PM",
-    "tags": [
-      "Bronco Hope Market",
-      "Feature",
-      "Student Success"
-    ]
-  },
-  {
-    "title": "BCC Admissions Information Session",
-    "link": "https://www.bcc.cuny.edu/event/admissions-information-session/",
-    "college": "Bronx Community College",
-    "date": "2026-11-19",
-    "time": "06:00 PM - 07:00 PM",
-    "tags": [
-      "Admissions & Recruitment",
-      "Enrollment Management & Retention",
-      "Feature",
-      "Information Sessions",
-      "Virtual Event"
-    ]
-  },
-  {
     "title": "Curriculum",
     "link": "https://www.bcc.cuny.edu/event/curriculum-12/",
     "college": "Bronx Community College",
@@ -1406,105 +1340,83 @@
     "tags": []
   },
   {
-    "title": "2026 Langston Hughes Festival Honoring Jericho Brown And Celebrating the FIRE!! Centennial & SEEK’s 60th Anniversary",
-    "link": "https://events.cuny.edu/cec/2026-langston-hughes-festival-honoring-jericho-brown-and-celebrating-the-fire-centennial-seeks-60th-anniversary/",
-    "college": "The City College of New York",
-    "date": "2026-11-19",
-    "time": "10:00 AM - 7:30 PM",
-    "tags": [
-      "2026 Langston Hughes Festival"
-    ]
-  },
-  {
-    "title": "Zoom",
-    "link": "https://events.cuny.edu/cec/zoom/",
-    "college": "College of Staten Island",
-    "date": "2026-11-19",
-    "time": "11:00 AM - 12:00 PM",
-    "tags": [
-      "Technology Training"
-    ]
-  },
-  {
-    "title": "Podwal Seminar Series: Fluid-Structure Interactions with Professor Sanjay Mittal (IIT Kanpur)",
-    "link": "https://events.cuny.edu/cec/podwal-seminar-series-fluid-structure-interactions-with-professor-sanjay-mittal-iit-kanpur/",
-    "college": "The City College of New York",
-    "date": "2026-11-19",
-    "time": "12:30 PM - 1:30 PM",
-    "tags": [
-      "Podwal Seminar Series"
-    ]
-  },
-  {
-    "title": "Global Kitchen Lecture Series: Spices Around The World",
-    "link": "https://events.cuny.edu/cec/global-kitchen-lecture-series-spices-around-the-world/",
-    "college": "College of Staten Island",
-    "date": "2026-11-19",
-    "time": "2:30 PM - 4:30 PM",
-    "tags": [
-      "Center for Global Engagement"
-    ]
-  },
-  {
-    "title": "Fall Studio Art Exhibition – Opening Reception",
-    "link": "https://events.cuny.edu/cec/fall-studio-art-exhibition-opening-reception/",
-    "college": "College of Staten Island",
-    "date": "2026-11-19",
-    "time": "2:30 PM - 4:30 PM",
+    "title": "Academic Standing",
+    "link": "https://www.bcc.cuny.edu/event/academic-standing-6/",
+    "college": "Bronx Community College",
+    "date": "2026-12-09",
+    "time": "02:00 PM - 04:00 PM",
     "tags": []
   },
   {
-    "title": "The Political Power of Book Banning: A panel discussion",
-    "link": "https://events.cuny.edu/cec/the-political-power-of-book-banning-a-panel-discussion/",
-    "college": "College of Staten Island",
-    "date": "2026-11-19",
-    "time": "2:30 PM - 4:00 PM",
+    "title": "Zoom Into Our Majors - Dietetics & Nutrition Program",
+    "link": "https://www.bcc.cuny.edu/event/zoom-into-our-majors-dietetics-nutrition-program/",
+    "college": "Bronx Community College",
+    "date": "2026-12-09",
+    "time": "03:00 PM - 04:00 PM",
     "tags": [
-      "LGBTQ+",
-      "Library"
+      "Admissions & Recruitment",
+      "Enrollment Management & Retention",
+      "Feature",
+      "Information Sessions",
+      "Virtual Event"
     ]
   },
   {
-    "title": "Virtual Transfer Thursday – Business",
-    "link": "https://events.cuny.edu/cec/virtual-transfer-thursday-business/",
-    "college": "College of Staten Island",
-    "date": "2026-11-19",
-    "time": "6:00 PM - 7:30 PM",
-    "tags": [
-      "Accounting and Finance",
-      "Admissions",
-      "Economics",
-      "Lucille and Jay Chazanoff School of Business",
-      "Management",
-      "Marketing"
-    ]
-  },
-  {
-    "title": "Seat at the Table: South Asians Rise in American Politics – Film and Talk",
-    "link": "https://events.cuny.edu/cec/seat-at-the-table-south-asians-rise-in-american-politics-film-and-talk/",
+    "title": "Transgender Day of Remembrance Vigil",
+    "link": "https://events.cuny.edu/cec/transgender-day-of-remembrance-vigil/",
     "college": "The City College of New York",
-    "date": "2026-11-19",
-    "time": "6:00 PM - 9:00 PM",
-    "tags": []
+    "date": "2026-11-20",
+    "time": "4:00 PM - 6:00 PM",
+    "tags": [
+      "LGBTQI+"
+    ]
   },
   {
-    "title": "Seat at the Table: South Asians Rise in American Politics (Film & Talk)",
-    "link": "https://events.cuny.edu/cec/seat-at-the-table-south-asians-rise-in-american-politics-film-talk/",
+    "title": "Changing Cultures: Zhen Guo, A Retrospective",
+    "link": "https://events.cuny.edu/cec/changing-cultures-zhen-guo-a-retrospective/",
     "college": "Asian American / Asian Research Institute",
-    "date": "2026-11-19",
-    "time": "6:00 PM - 8:30 PM",
+    "date": "2026-11-20",
+    "time": "6:00 PM - 7:30 PM",
     "tags": []
   },
   {
-    "title": "Adult Student Open House",
-    "link": "https://events.cuny.edu/cec/adult-student-open-house/",
-    "college": "College of Staten Island",
-    "date": "2026-11-19",
-    "time": "6:00 PM - 8:00 PM",
+    "title": "Celebrating Professor John Fillos",
+    "link": "https://events.cuny.edu/cec/celebrating-professor-john-fillos/",
+    "college": "The City College of New York",
+    "date": "2026-11-20",
+    "time": "6:00 PM - 10:00 PM",
     "tags": [
-      "Admissions",
-      "Adult Learners"
+      "John Fillos"
     ]
+  },
+  {
+    "title": "Bloody Bloody Andrew Jackson",
+    "link": "https://events.cuny.edu/cec/bloody-bloody-andrew-jackson-6/",
+    "college": "College of Staten Island",
+    "date": "2026-11-20",
+    "time": "7:00 PM - 9:00 PM",
+    "tags": [
+      "Division of Humanities and Social Sciences",
+      "Drama",
+      "Music",
+      "Performing and Creative Arts"
+    ]
+  },
+  {
+    "title": "Hunter College Fall ′26 Dance Concert",
+    "link": "https://events.cuny.edu/cec/hunter-college-fall-%e2%80%b226-dance-concert/",
+    "college": "Hunter College",
+    "date": "2026-11-20",
+    "time": "7:30 PM - 8:30 PM",
+    "tags": []
+  },
+  {
+    "title": "CUNY CARES: Creating a Culture of Care",
+    "link": "https://lehman.edu/events/2026/CUNY-CARES-Creating-a-Culture-of-Care.php",
+    "college": "Lehman College",
+    "date": "2026-11-20",
+    "time": "2:00 PM - 3:00 PM",
+    "tags": []
   },
   {
     "title": "Diwali/Chanukah",
@@ -1544,46 +1456,6 @@
     "college": "Queens College",
     "date": "2026-11-25",
     "time": "12:15PM",
-    "tags": []
-  },
-  {
-    "title": "CAS Tabling",
-    "link": "https://baruch.event.cuny.edu/events/IQnuxGHJj9mchvdE3NCq/WLjX68HhMYZDIX2hVm5B",
-    "college": "Baruch College",
-    "date": "2026-11-19",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "A Can of Kindness Drive",
-    "link": "https://baruch.event.cuny.edu/events/VHCI2deopAoerHdU1P79/v20rDWICEjHz07G1PRdr",
-    "college": "Baruch College",
-    "date": "2026-11-19",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Advent Jeopardy",
-    "link": "https://baruch.event.cuny.edu/events/o6Co24xJfVCRyHEcTt4K/GZyvYT6leGQ1kjdJvw5j",
-    "college": "Baruch College",
-    "date": "2026-11-19",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "World Cultures, World Arts Series: Embodying Sande: Sowei Headdresses, Femininity, and Spiritual Power",
-    "link": "https://baruch.event.cuny.edu/events/IpKXyOsyi1MqSPCGoC4a/QqTjOHTecDjl1f015XPI",
-    "college": "Baruch College",
-    "date": "2026-11-19",
-    "time": "1:00PM",
-    "tags": []
-  },
-  {
-    "title": "Baruch SOF Speaker Series: David Wong (Mizuho CFO)",
-    "link": "https://baruch.event.cuny.edu/events/pHmdRIp0sDr1qmnlpA6G/jxsVR1Yl8EcI8L1rADKC",
-    "college": "Baruch College",
-    "date": "2026-11-19",
-    "time": "7:00PM",
     "tags": []
   },
   {
@@ -1707,123 +1579,131 @@
     "tags": []
   },
   {
-    "title": "CAA/Chairs' Colloquium",
-    "link": "https://citytech.event.cuny.edu/events/GeOWEnlj8Ti98m1Zn6ky/Onkq37XxaMfj5k5ATBb0",
+    "title": "Hebrew Class",
+    "link": "https://baruch.event.cuny.edu/events/h2Oh7keKdnAtIomtMJOX/hiMGE77OuaQdsdUN9UUW",
+    "college": "Baruch College",
+    "date": "2026-11-24",
+    "time": "4:00PM",
+    "tags": []
+  },
+  {
+    "title": "Nursing relocation",
+    "link": "https://citytech.event.cuny.edu/events/I0c7IFgtAWa0zwqEVT77/cAW3yGypdoN7uQIMEerZ",
     "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "ALC Tutoring",
+    "link": "https://citytech.event.cuny.edu/events/zy0SsLdlE9cFbr9dmLBh/kmQwNNQtutGFZpfuCbYw",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-20",
+    "time": "",
+    "tags": []
+  },
+  {
+    "title": "CUNY Explorers",
+    "link": "https://citytech.event.cuny.edu/events/Kw8UhBHS517Ureg37AGj/PoEfU5oqTktwhPQN7Gq510",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-20",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center Friday ESOL",
+    "link": "https://citytech.event.cuny.edu/events/OIGJMkdMXvjJfPfcxTSx/kANRCPt9rDBEzFqMH2BS9",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-20",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Restorative Dentistry Annual Dental Implant workshop",
+    "link": "https://citytech.event.cuny.edu/events/kwQSxtTJQdiOReoGZAPC/m9V7YHVSCW9r0tT70TZP",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-20",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center HSE Math class",
+    "link": "https://citytech.event.cuny.edu/events/XmhVNTLyg6vuyNsyBD6z/s8DbTpbXvf2Rnsd5J17c9",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-20",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "Lecturer",
+    "link": "https://citytech.event.cuny.edu/events/fGJoHCcV2JKmUaC5moae/RRnmRedJOiboWuxkTP3m",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-20",
+    "time": "10:00AM",
+    "tags": []
+  },
+  {
+    "title": "AAA1010 SEEK Academic Services Workshop #1",
+    "link": "https://citytech.event.cuny.edu/events/w3vReQ3eQ4qNSVBywjtB/LF4DhS2pQyAWx5gr4wcr",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-20",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "AAA1010 Workshop #1",
+    "link": "https://citytech.event.cuny.edu/events/fR3ggWlrlf4Ql9iedQzr/dR86P0v5JRaUV177p9Eo",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-20",
+    "time": "11:00AM",
+    "tags": []
+  },
+  {
+    "title": "jazz rehearsal",
+    "link": "https://citytech.event.cuny.edu/events/ywA2FtnfXm5Zbv9Iv4Cl/Zbiegx1YQKnqU3a99beF2",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-20",
+    "time": "2:30PM",
+    "tags": []
+  },
+  {
+    "title": "Math Tutoring Fall 2026",
+    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA56",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-20",
+    "time": "3:00PM",
+    "tags": []
+  },
+  {
+    "title": "Build Apps for AI Glasses",
+    "link": "https://citytech.event.cuny.edu/events/dYxpdHPGCgClVnO260Li/alPc6DdjB4B9G4VCOm5O",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-20",
+    "time": "4:30PM",
+    "tags": []
+  },
+  {
+    "title": "Build Apps for AI Glasses",
+    "link": "https://citytech.event.cuny.edu/events/dYxpdHPGCgClVnO260Li/fZYRdnMQnGoxbCZeebGV",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-21",
+    "time": "8:00AM",
+    "tags": []
+  },
+  {
+    "title": "Adult Learning Center Saturday ESOL Class",
+    "link": "https://citytech.event.cuny.edu/events/xtRKAa9rfbjZBv7cd5p0/DEWPaU8D6nXHIsnNJWg89",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-21",
+    "time": "9:00AM",
+    "tags": []
+  },
+  {
+    "title": "STEP FALL 2026 PROGRAM",
+    "link": "https://citytech.event.cuny.edu/events/A6Q3zD44H4alJScbmY9Q/CnH0GikXkC2nhL4HIgqH5",
+    "college": "New York City College of Technology (City Tech)",
+    "date": "2026-11-21",
     "time": "9:30AM",
-    "tags": []
-  },
-  {
-    "title": "Student Success Center - FourLeaf Credit Union Tabling",
-    "link": "https://citytech.event.cuny.edu/events/TVhF8sFGWoCWZWoIDqC4/RUshYoC8mzVunftX79DG",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-19",
-    "time": "9:45AM",
-    "tags": []
-  },
-  {
-    "title": "B and H Training Day sign in table in lobby",
-    "link": "https://citytech.event.cuny.edu/events/wnXqRkLVrA3Wz6bu8Tv7/s63qGNeuqQ8ItTHNCWmD",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-19",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "CUNY PSC City Tech Chapter Tabling",
-    "link": "https://citytech.event.cuny.edu/events/Li8PQbxxbOFfFZ3JtEg0/H6csjEoiMSZguzVbR32u",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-19",
-    "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "B and H Training Day",
-    "link": "https://citytech.event.cuny.edu/events/NHwstWHgiDAbFpmuNDBi/GKvzPyg4FCfA0IHoxP3B",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-19",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "ASAP/ACE Math Tutoring (Thursdays)",
-    "link": "https://citytech.event.cuny.edu/events/MhSanjZMjJ504TKWTNVb/T7fe54rfciX5NdTDgCpD9",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-19",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "GDG Club - Code Wild · Open Source Sprint: Kickoff",
-    "link": "https://citytech.event.cuny.edu/events/DzKpm43a9IFYr2n1kcGD/WDimZRkG3OIancl9UJFy",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-19",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Hands-Only CPR",
-    "link": "https://citytech.event.cuny.edu/events/hU86YW2cFxEhtYDYFDuL/RdKx0q33WoA1jFqJZLLn",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-19",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "Student Optical Society Tabling",
-    "link": "https://citytech.event.cuny.edu/events/oM4PWe7FeeH5YiQiJX90/mHsJlY4DNCSKNlm8AaqT",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-19",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "HMGT Workshop",
-    "link": "https://citytech.event.cuny.edu/events/wgoqrbeGkI7JFltI2IKP/yQPh0l83cTmeQ0fat4Wd",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-19",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "Law and Paralegal Club - Your Path to Law School and a Legal Career",
-    "link": "https://citytech.event.cuny.edu/events/xRbhVEKszrfbTB2xrF7f/G2LLcu8kJnQJX0DqI06B",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-19",
-    "time": "12:45PM",
-    "tags": []
-  },
-  {
-    "title": "Common Ground Info Table",
-    "link": "https://hostos.event.cuny.edu/events/jWpCBE5tl26cVq8Yp9RY/saTX2b214BTbDW77GAKK",
-    "college": "Hostos Community College",
-    "date": "2026-11-19",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Tabling",
-    "link": "https://hostos.event.cuny.edu/events/keSwIE5OwPccRuerOpwu/93esEj1wv0ogHKfeqOTi12",
-    "college": "Hostos Community College",
-    "date": "2026-11-19",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Meet and Greet Common Ground",
-    "link": "https://hostos.event.cuny.edu/events/QnIlGRbCXsDK519w60ko/uL65xItl3Q81uOboqpeh",
-    "college": "Hostos Community College",
-    "date": "2026-11-19",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Rainbow Club Movie Night 1",
-    "link": "https://hostos.event.cuny.edu/events/zL6u2236j0Yf7wuVylnl/GhfAJoG7Q2zw6sDuyaDO",
-    "college": "Hostos Community College",
-    "date": "2026-11-19",
-    "time": "3:30PM",
     "tags": []
   },
   {
@@ -1907,46 +1787,6 @@
     "tags": []
   },
   {
-    "title": "Music Has Power® for Aphasia",
-    "link": "https://www.lehman.edu/events/2026/Music-Has-Power-for-Aphasia.php?event_type=recurs_12",
-    "college": "Lehman College",
-    "date": "2026-11-19",
-    "time": "10:30 AM- 11:30 AM",
-    "tags": []
-  },
-  {
-    "title": "Music for Veterans",
-    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans.php?event_type=recurs_12",
-    "college": "Lehman College",
-    "date": "2026-11-19",
-    "time": "1:30 PM- 3:00 PM",
-    "tags": []
-  },
-  {
-    "title": "TWELFTH NIGHT : A Musical Adaptation of William Shakespeare's Twelfth Night  Conceived by Kwame Kwei-Armah and Shaina Taub",
-    "link": "https://www.lehman.edu/events/2026/TWELFTH-NIGHT--A-Musical-Adaptation-of-William-Shakespeares-Twelfth-Night-Conceived-by-Kwame-Kwei-Armah-and-Shaina-Taub-.php?event_type=recurs_1",
-    "college": "Lehman College",
-    "date": "2026-11-19",
-    "time": "4:00 PM- 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Media and Information Literacy Education Adv. Cert. Information Session",
-    "link": "https://www.lehman.edu/events/2026/-Media-and-Information-Literacy-Education-Adv-Cert-Information-Session-1.php",
-    "college": "Lehman College",
-    "date": "2026-11-19",
-    "time": "5:30 PM- 6:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Mindfulness and Contemplative Studies Advanced Certificate Information Session",
-    "link": "https://www.lehman.edu/events/2026/Mindfulness-and-Contemplative-Studies-Advanced-Certificate-Information-Session-1.php",
-    "college": "Lehman College",
-    "date": "2026-11-19",
-    "time": "6:00 PM- 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "CUNY CARES: Creating a Culture of Care",
     "link": "https://www.lehman.edu/events/2026/CUNY-CARES-Creating-a-Culture-of-Care.php",
     "college": "Lehman College",
@@ -1987,11 +1827,43 @@
     "tags": []
   },
   {
-    "title": "CUNY Honors Business Hub: Case Competition",
-    "link": "https://macaulay.cuny.edu/calendar-of-events/cuny-honors-business-hub-case-competition/",
-    "college": "Macaulay Honors College",
-    "date": "2026-11-19",
-    "time": "6:00PM",
+    "title": "Music for Veterans",
+    "link": "https://www.lehman.edu/events/2026/Music-for-Veterans.php?event_type=recurs_13",
+    "college": "Lehman College",
+    "date": "2026-11-26",
+    "time": "1:30 PM- 3:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Dietetic Internship MS Open House",
+    "link": "https://www.lehman.edu/events/2026/Dietetic-Internship-MS-Open-House-1.php",
+    "college": "Lehman College",
+    "date": "2026-12-01",
+    "time": "6:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Counselor Ed. School Counseling M.S.Ed. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-School-Counseling-MSEd-Information-Session--5.php",
+    "college": "Lehman College",
+    "date": "2026-12-01",
+    "time": "6:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Counselor Ed. Clinical Mental Health M.S. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Counselor-Ed-Clinical-Mental-Health-MS-Information-Session--5.php",
+    "college": "Lehman College",
+    "date": "2026-12-01",
+    "time": "6:00 PM- 8:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Mindfulness and Contemplative Studies Adv. Cert. Information Session",
+    "link": "https://www.lehman.edu/events/2026/Mindfulness-and-Contemplative-Studies-Adv-Cert-Information-Session-1.php",
+    "college": "Lehman College",
+    "date": "2026-12-02",
+    "time": "6:00 PM- 7:00 PM",
     "tags": []
   },
   {
@@ -2059,75 +1931,19 @@
     "tags": []
   },
   {
-    "title": "Where Science Meets Industry 11/19/26",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/where-science-meets-industry-11-19-26",
-    "college": "York College",
-    "date": "2026-11-19",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "YC Theatre Auditions",
-    "link": "https://www.york.cuny.edu/performing-fine-arts/events/yc-theatre-auditions",
-    "college": "York College",
-    "date": "2026-11-19",
-    "time": "5:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "SGA Town Hall",
-    "link": "https://www.york.cuny.edu/events/sga-town-hall-1",
-    "college": "York College",
-    "date": "2026-11-19",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fresh Produce Day - November 19th",
-    "link": "https://www.york.cuny.edu/womens-center/fresh-produce-day-november-19th",
-    "college": "York College",
-    "date": "2026-11-19",
-    "time": "5:30 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Library Skills 101 November",
-    "link": "https://www.york.cuny.edu/events/2026/library-skills-101-november",
-    "college": "York College",
-    "date": "2026-11-19",
-    "time": "5:45 PM - 6:45 PM",
-    "tags": []
-  },
-  {
-    "title": "Study Abroad 101: Your Global Journey Starts Here 11/19",
-    "link": "https://www.york.cuny.edu/events/2026/study-abroad-101-your-global-journey-starts-here-2",
-    "college": "York College",
-    "date": "2026-11-19",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Deep Dish With the Dean",
-    "link": "https://www.york.cuny.edu/events/deep-dish-with-the-dean-1",
-    "college": "York College",
-    "date": "2026-11-19",
-    "time": "9:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Oodles and Noodles 2026",
-    "link": "https://www.york.cuny.edu/seek/events/oodles-noodles-2026",
-    "college": "York College",
-    "date": "2026-11-19",
-    "time": "9:00 PM - 11:00 PM",
-    "tags": []
-  },
-  {
     "title": "Fridays with CSD",
     "link": "https://www.york.cuny.edu/events/fridays-with-csd",
     "college": "York College",
     "date": "2026-11-20",
     "time": "3:00 PM - 5:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women in Math and Computing Day",
+    "link": "https://www.york.cuny.edu/mathematics-computer-science/women-in-math-computing-day",
+    "college": "York College",
+    "date": "2026-11-20",
+    "time": "3:15 PM - 8:00 PM",
     "tags": []
   },
   {
@@ -2139,19 +1955,27 @@
     "tags": []
   },
   {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-11-20",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
     "title": "BUS ADMIN Info Session (Nov 2026 Fri)",
     "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/nov-2026-bus-admin-info-session",
     "college": "York College",
     "date": "2026-11-20",
     "time": "9:00 PM - 11:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Women’s Basketball vs. Cedar Crest College",
+    "link": "https://www.york.cuny.edu/events/2026/w-basketball-vs-cedar-crest-11202026",
+    "college": "York College",
+    "date": "2026-11-20",
+    "time": "10:00 PM - 12:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Men’s Basketball vs. St. Joseph’s University (L.I.)",
+    "link": "https://www.york.cuny.edu/events/2026/m-basketball-vs-sjli-11202026",
+    "college": "York College",
+    "date": "2026-11-21",
+    "time": "12:00 AM - 2:00 AM",
     "tags": []
   },
   {
@@ -2179,6 +2003,14 @@
     "tags": []
   },
   {
+    "title": "Yoga Mondays",
+    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/yoga-mondays-5",
+    "college": "York College",
+    "date": "2026-11-23",
+    "time": "7:00 PM - 8:00 PM",
+    "tags": []
+  },
+  {
     "title": "It's Fitness Time in the Fitness Center - Monday Evening",
     "link": "https://www.york.cuny.edu/events/2026/fitness-center-monday-evening-fall-2026",
     "college": "York College",
@@ -2187,11 +2019,51 @@
     "tags": []
   },
   {
+    "title": "Men’s Basketball vs. Alvernia University",
+    "link": "https://www.york.cuny.edu/events/2026/m-basketball-vs-alvernia-11232026",
+    "college": "York College",
+    "date": "2026-11-23",
+    "time": "11:00 PM - 1:00 AM",
+    "tags": []
+  },
+  {
+    "title": "Mapping My Trajectory",
+    "link": "https://www.york.cuny.edu/events/mapping-my-trajectory",
+    "college": "York College",
+    "date": "2026-11-24",
+    "time": "5:00 PM - 6:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Annual Thankgiving Celebration",
+    "link": "https://www.york.cuny.edu/events/annual-thanksgiving-celebration",
+    "college": "York College",
+    "date": "2026-11-24",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Ready or Not? A Conversation on AI",
+    "link": "https://www.york.cuny.edu/events/ready-or-not-a-conversation-on-ai",
+    "college": "York College",
+    "date": "2026-11-24",
+    "time": "5:00 PM - 7:00 PM",
+    "tags": []
+  },
+  {
     "title": "It's Fitness Time in the Fitness Center - Evening",
     "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
     "college": "York College",
     "date": "2026-11-24",
     "time": "8:00 PM - 10:00 PM",
+    "tags": []
+  },
+  {
+    "title": "FAFSA and TAP Filing Sessions",
+    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
+    "college": "York College",
+    "date": "2026-11-25",
+    "time": "5:00 PM - 7:00 PM",
     "tags": []
   },
   {
@@ -2217,127 +2089,5 @@
     "date": "2026-12-03",
     "time": "4:00 PM - 6:00 PM",
     "tags": []
-  },
-  {
-    "title": "STICKY SITUATIONS : BODIES / PLEASURES / PERTURBATIONS",
-    "link": "https://www.gc.cuny.edu/events/sticky-situations-bodies-pleasures-perturbations",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-19",
-    "time": "9:00 am — 6:30 pm",
-    "location": "1218: Segal Theatre",
-    "tags": [
-      "Martin E. Segal Theatre Center"
-    ]
-  },
-  {
-    "title": "FLU AND COVID VACCINE CLINIC WITH WALGREENS - NOVEMBER 19TH",
-    "link": "https://www.gc.cuny.edu/events/flu-and-covid-vaccine-clinic-walgreens-november-19th",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-19",
-    "time": "11:00 am — 2:00 pm",
-    "location": "Multiple Locations (see description for details)",
-    "tags": [
-      "Wellness Center",
-      "Student Health Services"
-    ]
-  },
-  {
-    "title": "NYC UNLOCKED: STUDENT HACKS, HIDDEN GEMS & SURVIVAL TIPS",
-    "link": "https://www.gc.cuny.edu/events/nyc-unlocked-student-hacks-hidden-gems-survival-tips",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-19",
-    "time": "12:00 pm — 1:00 pm",
-    "location": "Online",
-    "tags": [
-      "International Students"
-    ]
-  },
-  {
-    "title": "MUSIC IN MIDTOWN: CHAMBER MUSIC ON FIFTH I",
-    "link": "https://www.gc.cuny.edu/events/music-midtown-chamber-music-fifth-i-3",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-19",
-    "time": "1:00 pm — 2:00 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Music",
-      "Music in Midtown",
-      "Arts"
-    ]
-  },
-  {
-    "title": "GEOS COLLOQUIUM: DR. MICHAEL SAMERS",
-    "link": "https://www.gc.cuny.edu/events/geos-colloquium-dr-michael-samers",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-19",
-    "time": "4:15 pm — 6:15 pm",
-    "location": "Hybrid (see description for details)",
-    "tags": [
-      "Earth and Environmental Sciences"
-    ]
-  },
-  {
-    "title": "PH.D. PROGRAM IN SOCIAL WELFARE OPEN HOUSE",
-    "link": "https://www.gc.cuny.edu/events/phd-program-social-welfare-open-house-nov-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-19",
-    "time": "5:00 pm — 6:30 pm",
-    "location": "Online",
-    "tags": [
-      "Social Welfare",
-      "Admissions",
-      "Humanities and Social Sciences"
-    ]
-  },
-  {
-    "title": "SSWR: RECOGNIZING SHAKESPEAREAN DISABILITY",
-    "link": "https://www.gc.cuny.edu/events/sswr-recognizing-shakespearean-disability",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-19",
-    "time": "6:00 pm — 7:30 pm",
-    "location": "Online",
-    "tags": [
-      "Center for the Study of Women and Society"
-    ]
-  },
-  {
-    "title": "ART HISTORY VIRTUAL OPEN DAY",
-    "link": "https://www.gc.cuny.edu/events/art-history-virtual-open-day-nov-2026",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-20",
-    "time": "11:00 am — 1:00 pm",
-    "location": "Online",
-    "tags": [
-      "Art History",
-      "Admissions"
-    ]
-  },
-  {
-    "title": "CS SEMINAR: YUJI ZHANG",
-    "link": "https://www.gc.cuny.edu/events/cs-seminar-yuji-zhang",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-20",
-    "time": "11:30 am — 1:00 pm",
-    "location": "4102: Science Center",
-    "tags": [
-      "Computer Science",
-      "Data Science",
-      "Computer Science Seminar",
-      "Data Science Seminar"
-    ]
-  },
-  {
-    "title": "SELECTING INTERPRETABLE CIRCULAR COORDINATES",
-    "link": "https://www.gc.cuny.edu/events/selecting-interpretable-circular-coordinates",
-    "college": "CUNY Graduate Center",
-    "date": "2026-11-20",
-    "time": "11:45 am — 12:45 pm",
-    "location": "4321: Computer Science Student Lounge",
-    "tags": [
-      "Computer Science",
-      "Data Science",
-      "Computer Science Seminar",
-      "Data Science Seminar"
-    ]
   }
 ]
