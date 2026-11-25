@@ -1,15 +1,5 @@
 [
   {
-    "title": "CTLE Virtual Workshop: PSC CUNY Grant Workshop",
-    "link": "https://www.mec.cuny.edu/event/ctle-virtual-workshop-psc-cuny-grant-workshop/",
-    "college": "Medgar Evers College",
-    "date": "2026-11-24",
-    "time": "01:00 PM - 02:00 PM",
-    "tags": [
-      "Center for Teaching and Learning Excellence"
-    ]
-  },
-  {
     "title": "Fall 2026 Assessment Café Series: Course & Event Assessment",
     "link": "https://www.mec.cuny.edu/event/fall-2026-assessment-cafe-series-course-event-assessment/",
     "college": "Medgar Evers College",
@@ -27,16 +17,6 @@
     "time": "10:00 AM - 11:00 AM",
     "tags": [
       "Center for Teaching and Learning Excellence"
-    ]
-  },
-  {
-    "title": "First-Generation Student Admissions Panel",
-    "link": "https://www.law.cuny.edu/event/first-generation-student-admissions-panel/",
-    "college": "CUNY School of Law",
-    "date": "2026-11-24",
-    "time": "06:00 PM - 07:15 PM",
-    "tags": [
-      "Panel Discussion"
     ]
   },
   {
@@ -104,12 +84,158 @@
     ]
   },
   {
-    "title": "Let's Talk Tuesday",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/98de48e4-82dc-4812-9b7c-060262ca2a88",
-    "college": "Kingsborough Community College",
-    "date": "2026-11-24",
-    "time": "07:00 PM - 08:00 PM",
+    "title": "Tips for Applying",
+    "link": "https://www.journalism.cuny.edu/events/tips-for-applying-4/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-01",
+    "time": "01:00 PM - 01:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "Machines in the Middle: AI, Journalism, and Audiences",
+    "link": "https://www.journalism.cuny.edu/events/senior-fellow-shuwei-fang-talk/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-02",
+    "time": "06:00 PM - 08:00 PM",
     "tags": []
+  },
+  {
+    "title": "Meet the Media: CBS News",
+    "link": "https://www.journalism.cuny.edu/events/meet-the-media-cbs-news/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-03",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Career Services"
+    ]
+  },
+  {
+    "title": "NYC Journalism Wikipedia Edit-a-Thon",
+    "link": "https://www.journalism.cuny.edu/events/nyc-journalism-wikipedia-edit-a-thon/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-03",
+    "time": "04:00 PM - 07:00 PM",
+    "tags": []
+  },
+  {
+    "title": "Therapy Dogs",
+    "link": "https://www.journalism.cuny.edu/events/therapy-dogs-dec-26/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-08",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "The Hustle of Freelancing",
+    "link": "https://www.journalism.cuny.edu/events/the-hustle-of-freelancing/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-08",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Career Services"
+    ]
+  },
+  {
+    "title": "Mohammed R. Mhawish Reflects on a Year in Exile",
+    "link": "https://www.journalism.cuny.edu/events/mohammed-mhawish-reflects-on-a-year-in-exile/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-08",
+    "time": "05:30 PM - 07:00 PM",
+    "tags": [
+      "Journalism Protection Initiative"
+    ]
+  },
+  {
+    "title": "Knowing Together",
+    "link": "https://www.journalism.cuny.edu/events/knowing-together/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-09",
+    "time": "12:50 PM - 12:50 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "On-Campus Information Session",
+    "link": "https://www.journalism.cuny.edu/events/on-campus-information-session-2/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-10",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "Meet the Media: Report for America",
+    "link": "https://www.journalism.cuny.edu/events/meet-the-media-report-for-america/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2026-12-15",
+    "time": "01:00 PM - 02:00 PM",
+    "tags": [
+      "Career Services"
+    ]
+  },
+  {
+    "title": "Virtual Information Session",
+    "link": "https://www.journalism.cuny.edu/events/virtual-information-session-3/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-01-14",
+    "time": "01:00 PM - 01:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "Second Semester Orientation Session",
+    "link": "https://www.journalism.cuny.edu/events/second-semester-orientation-session/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-01-25",
+    "time": "12:30 PM - 02:00 PM",
+    "tags": [
+      "Current Students"
+    ]
+  },
+  {
+    "title": "Tips for Applying",
+    "link": "https://www.journalism.cuny.edu/events/tips-for-applying-2/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-01-26",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "Master Class with Senior Fellow Ken Auletta",
+    "link": "https://www.journalism.cuny.edu/events/master-class-with-senior-fellow-ken-auletta/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-02-09",
+    "time": "11:30 AM - 12:30 PM",
+    "tags": []
+  },
+  {
+    "title": "Tips for Applying",
+    "link": "https://www.journalism.cuny.edu/events/tips-for-applying-3/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-02-09",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
+  },
+  {
+    "title": "On-Campus Information Session",
+    "link": "https://www.journalism.cuny.edu/events/on-campus-information-session-3/",
+    "college": "Craig Newmark Graduate School of Journalism",
+    "date": "2027-02-11",
+    "time": "06:00 PM - 06:00 PM",
+    "tags": [
+      "Future Students"
+    ]
   },
   {
     "title": "Let's Talk Tuesday",
@@ -125,14 +251,6 @@
     "college": "Kingsborough Community College",
     "date": "2026-12-10",
     "time": "07:00 PM - 08:30 PM",
-    "tags": []
-  },
-  {
-    "title": "CUNY Transfer Application Workshop",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/2ec0ffe0-f759-4ba4-8296-9e06beb86f13",
-    "college": "Kingsborough Community College",
-    "date": "2026-11-24",
-    "time": "03:00 PM - 03:00 PM",
     "tags": []
   },
   {
@@ -192,14 +310,6 @@
     "tags": []
   },
   {
-    "title": "Transfer Tuesday (York College - Virtual Session Info Session)",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/6f804f2c-24a1-435c-a96b-bce9710d1415",
-    "college": "Kingsborough Community College",
-    "date": "2026-11-24",
-    "time": "07:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "Transfer Tuesday (University of Buffalo - Virtual Session Info Session)",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/a8192f12-f918-4e01-ad83-b7b7a3d4500c",
     "college": "Kingsborough Community College",
@@ -256,14 +366,6 @@
     "tags": []
   },
   {
-    "title": "ARC's Let's Talk Tuesday",
-    "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/6d395eea-a737-4b31-a190-ce36c3a8a8ac",
-    "college": "Kingsborough Community College",
-    "date": "2026-11-24",
-    "time": "07:00 PM - 08:00 PM",
-    "tags": []
-  },
-  {
     "title": "Holiday Arts and Crafts",
     "link": "https://www.kbcc.cuny.edu/calendar.html#event-details/0676e096-66cd-4a41-b5fe-97cb43a7837e",
     "college": "Kingsborough Community College",
@@ -286,18 +388,6 @@
     "date": "2026-12-07",
     "time": "03:20 PM - 04:00 PM",
     "tags": []
-  },
-  {
-    "title": "🎱🏓 POOL & PING PONG TOURNAMENT – LET THE GAMES BEGIN!",
-    "link": "https://cg.guttman.cuny.edu/rsvp?id=377613",
-    "college": "Guttman Community College",
-    "date": "2026-11-24",
-    "time": "06:15 PM - 07:45 PM",
-    "tags": [
-      "PLP",
-      "Academic",
-      "Sporting Event"
-    ]
   },
   {
     "title": "Holiday Gathering",
@@ -416,32 +506,6 @@
     ]
   },
   {
-    "title": "OOA Outing: Samson et Dalila at the Met Opera",
-    "link": "https://www.hunter.cuny.edu/event/ooa-outing-samson-et-dalila-at-the-met-opera/",
-    "college": "Hunter College",
-    "date": "2026-11-24",
-    "time": "10:00 AM - 02:05 PM",
-    "tags": [
-      "Performing Arts & Film"
-    ]
-  },
-  {
-    "title": "Purple PEERiod Project",
-    "link": "https://www.hunter.cuny.edu/event/purple-peeriod-project-24/",
-    "college": "Hunter College",
-    "date": "2026-11-24",
-    "time": "12:00 PM - 01:00 PM",
-    "tags": []
-  },
-  {
-    "title": "USG Thanksgiving Dinner",
-    "link": "https://www.hunter.cuny.edu/event/usg-thanksgiving-dinner-2026/",
-    "college": "Hunter College",
-    "date": "2026-11-24",
-    "time": "04:00 PM - 07:00 PM",
-    "tags": []
-  },
-  {
     "title": "From Renia to Us: Family, Memory and the Holocaust",
     "link": "https://www.hunter.cuny.edu/event/from-renia-to-us-family-memory-and-the-holocaust/",
     "college": "Hunter College",
@@ -507,6 +571,14 @@
     ]
   },
   {
+    "title": "Physics Colloquium - December 2nd 2026",
+    "link": "https://www.hunter.cuny.edu/event/physics-colloquium-december-2nd-2026/",
+    "college": "Hunter College",
+    "date": "2026-12-02",
+    "time": "01:20 PM - 03:00 PM",
+    "tags": []
+  },
+  {
     "title": "Singing with the Dean",
     "link": "https://www.hunter.cuny.edu/event/dancing-singing-with-the-dean-19/",
     "college": "Hunter College",
@@ -526,6 +598,16 @@
     "time": "02:30 PM - 04:30 PM",
     "tags": [
       "Student Events"
+    ]
+  },
+  {
+    "title": "Film Screening: Naza",
+    "link": "https://www.hunter.cuny.edu/event/film-screening-naza/",
+    "college": "Hunter College",
+    "date": "2026-12-02",
+    "time": "04:45 PM - 08:30 PM",
+    "tags": [
+      "Performing Arts & Film"
     ]
   },
   {
@@ -673,55 +755,14 @@
     "tags": []
   },
   {
-    "title": "Exhale to Inhale: Healing Yoga",
-    "link": "https://www.bmcc.cuny.edu/event/exhale-to-inhale-healing-yoga-5/2026-11-24/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-24",
-    "time": "11:00 AM - 12:00 PM",
+    "title": "Dance Classes with Calpulli",
+    "link": "https://www.hunter.cuny.edu/event/dance-classes-with-calpulli/2026-12-08/",
+    "college": "Hunter College",
+    "date": "2026-12-08",
+    "time": "03:30 PM - 05:50 PM",
     "tags": [
-      "Counseling Center",
-      "Featured",
-      "Health Services",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Virtual Brown Bag: Everything You Wanted to Know About CUNY Tuesday",
-    "link": "https://www.bmcc.cuny.edu/event/virtual-brown-bag-everything-you-wanted-to-know-about-cuny-tuesday/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-24",
-    "time": "12:00 PM - 12:45 PM",
-    "tags": [
-      "Alumni Relations",
-      "CUNY in The Heights",
-      "Evening-Weekend",
-      "Featured",
-      "Student Affairs"
-    ]
-  },
-  {
-    "title": "Table Talk Tuesday: Come Join Us!",
-    "link": "https://www.bmcc.cuny.edu/event/table-talk-tuesday-come-join-us/2026-11-24/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-24",
-    "time": "02:30 PM - 04:00 PM",
-    "tags": [
-      "Conexiones",
-      "Counseling Center",
-      "Featured",
-      "Student Affairs",
-      "Urban Male Leadership Academy (UMLA)"
-    ]
-  },
-  {
-    "title": "Find Your Fit: Choosing the Right Four-year College",
-    "link": "https://www.bmcc.cuny.edu/event/find-your-fit-choosing-the-right-four-year-college-2/",
-    "college": "Borough of Manhattan Community College",
-    "date": "2026-11-24",
-    "time": "03:00 PM - 04:00 PM",
-    "tags": [
-      "Academic Advisement & Transfer",
-      "Featured"
+      "Performing Arts & Film",
+      "Student Events"
     ]
   },
   {
@@ -1000,6 +1041,20 @@
     ]
   },
   {
+    "title": "Table Talk Tuesday: Come Join Us!",
+    "link": "https://www.bmcc.cuny.edu/event/table-talk-tuesday-come-join-us/2026-12-08/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-12-08",
+    "time": "02:30 PM - 04:00 PM",
+    "tags": [
+      "Conexiones",
+      "Counseling Center",
+      "Featured",
+      "Student Affairs",
+      "Urban Male Leadership Academy (UMLA)"
+    ]
+  },
+  {
     "title": "Pride Month: Life Dance/Biodanza",
     "link": "https://www.bmcc.cuny.edu/event/pride-month-life-dance-biodanza/",
     "college": "Borough of Manhattan Community College",
@@ -1037,12 +1092,44 @@
     ]
   },
   {
-    "title": "Curriculum",
-    "link": "https://www.bcc.cuny.edu/event/curriculum-12/",
-    "college": "Bronx Community College",
-    "date": "2026-11-24",
-    "time": "02:00 PM - 04:00 PM",
-    "tags": []
+    "title": "BMCC Third Annual Happy Hanukah Party-all are welcome!",
+    "link": "https://www.bmcc.cuny.edu/event/bmcc-happy-hanukah-party-all-are-welcome/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-12-09",
+    "time": "04:00 PM - 06:00 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "CUNY in The Heights",
+      "Evening-Weekend",
+      "Featured",
+      "Global Initiatives",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Migration Matters: Ask Me Anything with Albert Lee",
+    "link": "https://www.bmcc.cuny.edu/event/migration-matters-ask-me-anything-with-albert-lee/2026-12-10/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-12-10",
+    "time": "10:00 AM - 04:30 PM",
+    "tags": [
+      "Center for Belonging and Inclusion",
+      "Featured",
+      "Global Initiatives",
+      "Immigration Support",
+      "Student Affairs"
+    ]
+  },
+  {
+    "title": "Healing Through Hip-Hip and Creative Expression Semester Showcase",
+    "link": "https://www.bmcc.cuny.edu/event/healing-through-hip-hip-and-creative-expression-semester-showcase/",
+    "college": "Borough of Manhattan Community College",
+    "date": "2026-12-10",
+    "time": "03:00 PM - 06:00 PM",
+    "tags": [
+      "Counseling Center",
+      "Student Affairs"
+    ]
   },
   {
     "title": "Governance & Elections",
@@ -1218,70 +1305,65 @@
     "tags": []
   },
   {
-    "title": "Gaymers Against Violence",
-    "link": "https://events.cuny.edu/cec/gaymers-against-violence-7/",
+    "title": "Zoom Into Our Majors - Health Sciences",
+    "link": "https://www.bcc.cuny.edu/event/zoom-into-our-majors-health-sciences/",
+    "college": "Bronx Community College",
+    "date": "2026-12-10",
+    "time": "03:00 PM - 04:00 PM",
+    "tags": [
+      "Admissions & Recruitment",
+      "Enrollment Management & Retention",
+      "Feature",
+      "Information Sessions",
+      "Virtual Event"
+    ]
+  },
+  {
+    "title": "YASS! Mondays",
+    "link": "https://events.cuny.edu/cec/yass-mondays-35/",
     "college": "The City College of New York",
-    "date": "2026-11-24",
-    "time": "12:00 PM - 2:00 PM",
+    "date": "2026-11-30",
+    "time": "12:00 PM - 4:00 PM",
     "tags": [
       "LGBTQI+"
     ]
   },
   {
-    "title": "Meet the NYC Department of Buildings Leadership",
-    "link": "https://events.cuny.edu/cec/meet-the-nyc-department-of-buildings-leadership/",
+    "title": "Snipping Tool and Paint",
+    "link": "https://events.cuny.edu/cec/snipping-tool-and-paint/",
+    "college": "College of Staten Island",
+    "date": "2026-11-30",
+    "time": "2:00 PM - 3:00 PM",
+    "tags": [
+      "Technology Training"
+    ]
+  },
+  {
+    "title": "Dominican Veterans of the Armed Forces Website Launch",
+    "link": "https://events.cuny.edu/cec/dominican-veterans-of-the-armed-forces-website-launch/",
     "college": "The City College of New York",
-    "date": "2026-11-24",
-    "time": "12:30 PM - 1:30 PM",
+    "date": "2026-11-30",
+    "time": "6:00 PM - 8:00 PM",
+    "tags": [
+      "CUNY Dominican Studies Institute"
+    ]
+  },
+  {
+    "title": "From Renia to Us: Family, Memory and the Holocaust",
+    "link": "https://events.cuny.edu/cec/from-renia-to-us-family-memory-and-the-holocaust/",
+    "college": "Hunter College",
+    "date": "2026-11-30",
+    "time": "6:00 PM - 7:30 PM",
+    "tags": []
+  },
+  {
+    "title": "NYC Department of Buildings: Career & Industry Panel",
+    "link": "https://events.cuny.edu/cec/nyc-department-of-buildings-career-industry-panel/",
+    "college": "The City College of New York",
+    "date": "2026-12-01",
+    "time": "12:00 PM - 2:00 PM",
     "tags": [
       "NYC Department of Buildings"
-    ]
-  },
-  {
-    "title": "Intercultural Competency Workshop",
-    "link": "https://events.cuny.edu/cec/intercultural-competency-workshop/",
-    "college": "College of Staten Island",
-    "date": "2026-11-24",
-    "time": "2:30 PM - 4:30 PM",
-    "tags": [
-      "Admissions",
-      "Center for Global Engagement"
-    ]
-  },
-  {
-    "title": "PSC CSI Book Event – For Louder Days",
-    "link": "https://events.cuny.edu/cec/psc-csi-book-event-for-louder-days/",
-    "college": "College of Staten Island",
-    "date": "2026-11-24",
-    "time": "2:30 PM - 3:30 PM",
-    "tags": [
-      "Division of Humanities and Social Sciences",
-      "History",
-      "Political Science and Global Affairs"
-    ]
-  },
-  {
-    "title": "Speaking in Tones",
-    "link": "https://events.cuny.edu/cec/speaking-in-tones/",
-    "college": "College of Staten Island",
-    "date": "2026-11-24",
-    "time": "3:00 PM - 4:00 PM",
-    "tags": [
-      "Division of Humanities and Social Sciences",
-      "Performing and Creative Arts",
-      "World Language and Literature"
-    ]
-  },
-  {
-    "title": "Virtual Transfer Tuesday – Nursing",
-    "link": "https://events.cuny.edu/cec/virtual-transfer-tuesday-nursing/",
-    "college": "College of Staten Island",
-    "date": "2026-11-24",
-    "time": "6:00 PM - 7:30 PM",
-    "tags": [
-      "Admissions",
-      "Nursing",
-      "Nursing Virtual Infosession"
     ]
   },
   {
@@ -1325,46 +1407,6 @@
     "tags": []
   },
   {
-    "title": "Tied Together in Love",
-    "link": "https://baruch.event.cuny.edu/events/Y1OnBBga1lVDdyZTNCMn/XCOyOIfEYQIaMaZo8WBO",
-    "college": "Baruch College",
-    "date": "2026-11-24",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "Professional Workshop",
-    "link": "https://baruch.event.cuny.edu/events/ZjQ7di9i4bFPkxZdynRI/yqVqkiZcqUlVtokUYfm6",
-    "college": "Baruch College",
-    "date": "2026-11-24",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "MOBsgiving",
-    "link": "https://baruch.event.cuny.edu/events/dWQftK2AytQMFu1L2PFd/mYDoXybHJ0jKCQwUmjOL",
-    "college": "Baruch College",
-    "date": "2026-11-24",
-    "time": "12:40PM",
-    "tags": []
-  },
-  {
-    "title": "FactSet for Equities @ SFSC Trading Floor, Rm. 124",
-    "link": "https://baruch.event.cuny.edu/events/bLi74R0HGOlUq3NsczI8/uTsToTypNcgIXbUw4Ykt",
-    "college": "Baruch College",
-    "date": "2026-11-24",
-    "time": "12:45PM",
-    "tags": []
-  },
-  {
-    "title": "Hebrew Class",
-    "link": "https://baruch.event.cuny.edu/events/h2Oh7keKdnAtIomtMJOX/hiMGE77OuaQdsdUN9UUW",
-    "college": "Baruch College",
-    "date": "2026-11-24",
-    "time": "4:00PM",
-    "tags": []
-  },
-  {
     "title": "Amazon Ads @ Baruch College",
     "link": "https://baruch.event.cuny.edu/events/mddoqU6OIIwj10aeuTqL/vAYBpoZHPWPrAzdaUEGQ",
     "college": "Baruch College",
@@ -1378,86 +1420,6 @@
     "college": "Baruch College",
     "date": "2026-12-01",
     "time": "12:45PM",
-    "tags": []
-  },
-  {
-    "title": "City Tech Fall 2026 Group Tour - (11/24/2026)",
-    "link": "https://citytech.event.cuny.edu/events/oCNU62Pf9xmzFxDBgfsb/HdYG44hwC0wMpXgKXvA6",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-24",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "Marine Tabling",
-    "link": "https://citytech.event.cuny.edu/events/kpO9DFi98vh6Tp1FVyF4/oG6XFuyTXisOm8YN0EKW12",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-24",
-    "time": "11:00AM",
-    "tags": []
-  },
-  {
-    "title": "SGA Brewed By The Board",
-    "link": "https://citytech.event.cuny.edu/events/qTC61ptJixZ5IaKLglDU/yJt8KCbGvLqL7SM3JH2e",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-24",
-    "time": "12:00PM",
-    "tags": []
-  },
-  {
-    "title": "NEST Thanksgiving Giveaway",
-    "link": "https://citytech.event.cuny.edu/events/UJk0ginNkIQbvudhvtkH/A6wizqpxVLdveJYwBLRj",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-24",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "Nutrition Education Workshop #3",
-    "link": "https://citytech.event.cuny.edu/events/q5UpRLhNot2rK5gF0k6t/ZIcoUCMQtN4siRDnZqPn",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-24",
-    "time": "12:30PM",
-    "tags": []
-  },
-  {
-    "title": "SLD Thanksgiving Potluck",
-    "link": "https://citytech.event.cuny.edu/events/MWdl0bbtI3bHMbQxYuw4/dlLZunvBpQbKiH2GTqDA",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-24",
-    "time": "2:00PM",
-    "tags": []
-  },
-  {
-    "title": "Peer Navigator Tabling",
-    "link": "https://citytech.event.cuny.edu/events/K051oBFQ2h3j7Po52UP1/Fm48liZEWmzXs801IJd8",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-24",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "Math Tutoring Fall 2026",
-    "link": "https://citytech.event.cuny.edu/events/ma7dmrwcd9Zizni9tIBG/lddP5AoP3RIxys33qBLA59",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-24",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "SGA Friendsgiving",
-    "link": "https://citytech.event.cuny.edu/events/GFiICgR5EEmKgZdpYamz/xhiAu6FCGR2KyBQT3y7I",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-24",
-    "time": "3:00PM",
-    "tags": []
-  },
-  {
-    "title": "Adult Learning Center High School Equivalency Class",
-    "link": "https://citytech.event.cuny.edu/events/WLKCv1H60LfQMXwvwVbm/khJOOksgZT37KmJWo3sp28",
-    "college": "New York City College of Technology (City Tech)",
-    "date": "2026-11-24",
-    "time": "6:00PM",
     "tags": []
   },
   {
@@ -1501,22 +1463,6 @@
     "tags": []
   },
   {
-    "title": "Drumming for Stress Management",
-    "link": "https://hostos.event.cuny.edu/events/D2Wey3j4x9Odf5sfJGWZ/FlhUEUPYCGfTlF83eLT8",
-    "college": "Hostos Community College",
-    "date": "2026-11-24",
-    "time": "11:30AM",
-    "tags": []
-  },
-  {
-    "title": "CD Club Thanksgiving Gathering",
-    "link": "https://hostos.event.cuny.edu/events/Zx1OUQlmg1yfOoqDD29i/eRcq5EXeE8x3c5XWfEFo",
-    "college": "Hostos Community College",
-    "date": "2026-11-24",
-    "time": "2:00PM",
-    "tags": []
-  },
-  {
     "title": "Career Services on the Go",
     "link": "https://hostos.event.cuny.edu/events/bXMIiTEQVd5cWIaiTmbl/Qfu9VtH4njH8xDhq336d5",
     "college": "Hostos Community College",
@@ -1530,6 +1476,14 @@
     "college": "Hostos Community College",
     "date": "2026-11-26",
     "time": "12:00PM",
+    "tags": []
+  },
+  {
+    "title": "Library Workshop",
+    "link": "https://hostos.event.cuny.edu/events/aHHXYUcOjjarLMt5eCzP/RDAyzhPxGQ36TUpyGIny",
+    "college": "Hostos Community College",
+    "date": "2026-11-30",
+    "time": "2:00PM",
     "tags": []
   },
   {
@@ -1706,134 +1660,6 @@
     "college": "Macaulay Honors College",
     "date": "2027-05-07",
     "time": "6:00PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-12-fall-2026",
-    "college": "York College",
-    "date": "2026-11-24",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Open Swimming",
-    "link": "https://www.york.cuny.edu/events/2026/open-swimming-fall-2026",
-    "college": "York College",
-    "date": "2026-11-24",
-    "time": "4:00 PM - 6:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Mapping My Trajectory",
-    "link": "https://www.york.cuny.edu/events/mapping-my-trajectory",
-    "college": "York College",
-    "date": "2026-11-24",
-    "time": "5:00 PM - 6:30 PM",
-    "tags": []
-  },
-  {
-    "title": "Annual Thanksgiving Celebration",
-    "link": "https://www.york.cuny.edu/events/annual-thanksgiving-celebration",
-    "college": "York College",
-    "date": "2026-11-24",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Ready or Not? A Conversation on AI",
-    "link": "https://www.york.cuny.edu/events/ready-or-not-a-conversation-on-ai",
-    "college": "York College",
-    "date": "2026-11-24",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-11-24",
-    "time": "8:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Annual Thanksgiving Celebration - Evening",
-    "link": "https://www.york.cuny.edu/events/annual-thanksgiving-celebration-evening",
-    "college": "York College",
-    "date": "2026-11-24",
-    "time": "10:30 PM - 11:30 PM",
-    "tags": []
-  },
-  {
-    "title": "FAFSA and TAP Filing Sessions",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/fafsa-and-tap-filing-workshops",
-    "college": "York College",
-    "date": "2026-11-25",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Aviation Information Session (Fa' 26 Wed)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fa-26-wed-aviation-information-session",
-    "college": "York College",
-    "date": "2026-11-25",
-    "time": "5:00 PM - 9:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Fridays with CSD",
-    "link": "https://www.york.cuny.edu/events/fridays-with-csd",
-    "college": "York College",
-    "date": "2026-11-27",
-    "time": "3:00 PM - 5:00 PM",
-    "tags": []
-  },
-  {
-    "title": "BUS ADMIN Info Session (Fa' 26 Mon)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-monday-bus-admin-info-session",
-    "college": "York College",
-    "date": "2026-11-30",
-    "time": "5:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "HRM Information Session - Winter 26-27",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/human-resource-management-info-session-2",
-    "college": "York College",
-    "date": "2026-11-30",
-    "time": "6:00 PM - 7:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Yoga Mondays",
-    "link": "https://www.york.cuny.edu/counseling-center/workshops--events-/yoga-mondays-6",
-    "college": "York College",
-    "date": "2026-11-30",
-    "time": "7:00 PM - 8:00 PM",
-    "tags": []
-  },
-  {
-    "title": "It's Fitness Time in the Fitness Center - Monday Evening",
-    "link": "https://www.york.cuny.edu/events/2026/fitness-center-monday-evening-fall-2026",
-    "college": "York College",
-    "date": "2026-11-30",
-    "time": "8:30 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "Scholarships 101",
-    "link": "https://www.york.cuny.edu/enrollment-retention-management/scholarships-101",
-    "college": "York College",
-    "date": "2026-11-30",
-    "time": "9:00 PM - 10:00 PM",
-    "tags": []
-  },
-  {
-    "title": "ACC and FINC Info Session (Fa' 26)",
-    "link": "https://www.york.cuny.edu/business-and-information-systems/list-of-upcoming-events/fall-2026-acc-finc-information-session",
-    "college": "York College",
-    "date": "2026-12-03",
-    "time": "4:00 PM - 6:00 PM",
     "tags": []
   }
 ]
